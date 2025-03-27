@@ -59,15 +59,13 @@ of pliers with red handles crossing the wire frame.
 ** 1 **
 
 [[I:ada-p01
-ADA & ZANGEMANN
+ԱԴԱ ԵՒ ԶԱՆԳԵՄԱՆ
 ]]
 
-Matthias Kirschner
-  Sandra Brandstätter
+Մաթիաս Կիրշներ
+Սանդա Բրենդշթեթա
 
-ADA & ZANGEMANN
-A Tale of Software, Skateboards, and Raspberry Ice Cream
-
+ԱԴԱՆ ԵՒ ԶԱՆԳԵՄԱՆԸ
 Հեքիաթ ծրագրերի, սքեյթների եւ ազնվամորով պաղպակի մասին
 
 ## 2 ##
@@ -93,16 +91,14 @@ ISBN-13: 978-1-7185-0319-9 (էլ֊գիրք)
 Հրատարակիչ՝ Ուիլիամ Պոլլոք
 Հեղինակ՝ Մաթիաս Կիրշներ
 Զարդարումը՝ Սանդրա Բրենդշթեթերի
-Managing Editor: Jill Franklin
-Production Editor: Jennifer Kepler
-Editor: Wiebke Helmchen
-Color Assistance: Olga Biryukova, Noémi Sárkány, Nathalie Scattolon,
-Kristina Haidinger, and Jasmin Schlögl
-Cover Design: Sandra Brandstätter and Susan Brown
-Compositor: Maureen Forys, Happenstance Type-O-Rama
+Խմբագրման ղեկավար՝ Ջիլլ Ֆրանկլին
+Արտադրութեան խմբագիր՝ Ջենիֆեր Կեպլեր
+Խմբագիր՝ Վիբկե Հելմխեն
+Գունային խորհրդատւութիւն՝ Olga Biryukova, Noémi Sárkány, Nathalie Scattolon, Kristina Haidinger, and Jasmin Schlögl
+Կազմի դիզայն՝ Sandra Brandstätter եւ Susan Brown
+Կոմպոզիտոր՝ Maureen Forys, Happenstance Type-O-Rama
 
-For information on distribution, bulk sales, or corporate sales, please
-contact No Starch Press, Inc. directly at info@nostarch.com or:
+Տրածման մասին տեղեկութեան, մեծածախ կամ կոմերցիոն վաճառքի համար խնդրում ենք կապուել No Starch Press, Inc.֊ի հետ․ info@nostarch.com կամ
 
 No Starch Press, Inc.
 245 8th Street, San Francisco, CA 94103
@@ -186,19 +182,14 @@ Society should support those who respect others' freedom.
 === Slide 1
 
 [[I:ada-p03
-IMAGE: Matthias Kirschner, Sandra Brandstätter - ADA & ZANGEMANN - A
-Tale of Software, Skateboards and Raspberry Ice Cream.
-Title in the middle, authors in the upper left.
-In the lower right, Ada's family's dog with gray fur and some white
-patches and with a red collar with shiny yellow LEDs, which wags its
-tail.
+IMAGE: Matthias Kirschner, Sandra Brandstätter - ԱԴԱ & ԶԱՆԳԵՄԱՆ - Հեքիաթ Ծրագրերի, Սքեյթների եւ ելակով պաղպաղակի մասին։ Մէջտեղում՝ վերնագիրը, հեղինակները՝ ձախ անկիւնում։ Աջում՝ ներքեւում՝ Ադայի ընտանիքի շունը՝ մոխրագոյն մորթով եւ սպիտակաւուն բծերով, կարմիր օձիքով՝ վրան վառ դեղին ԼԵԴ֊եր՝ թափահարում է իր պոչը։
 ]]
 Matthias Kirschner
 Sandra Brandstätter
 
-ADA & ZANGEMANN
+ԱԴԱ ԵՒ ԶԱՆԳԵՄԱՆ
 
-A Tale of Software, Skateboards, and Raspberry Ice Cream
+Հեքիաթ ծրագրերի, սքեյթների եւ ելակով պաղպաղակի մասին
 
 ## 4 ##
 ==== Slide 2
@@ -211,8 +202,7 @@ IMAGE: Առջեւում՝ Ադան տնից գնում է դպրոց, հետեւ
 
 Ձախ կողմում՝ մեքենայի դիմաց, կայ երկու անիվ, երկու տուփ՝ որոնցից մեկը փայտէ տուփ է շրջուած դույլով, և մի դատարկ տուփ՝ եւ այս բոլորը դեղին ծաղիկներով բոյսերի մեջ։
 
-In the background there is Ada's house, with her mother and her brother
-Alan waving goodbye, and the dog sitting on the ground. Alan is sitting on the two entrance steps of the house.
+Հետեւում Ադայի տունն է, մայրիկը եւ Ալանը՝ եղբայրը, հրաժեշտ են տալիս, շունը նստած է գետնին։ Ալանը նստած է երկրորդ աստիճանին։
  He has short
 dark hair and is dressed in a white short-sleeved shirt with a red
 stripe at the edges of the sleeves and two red stripes at the bottom of
@@ -236,8 +226,7 @@ see a washing machine, a car, and various wooden boards.
 ** 5 **
 
 [[I:ada-p05
-IMAGE: Prestigious magazines (“STARS“, “MONEY”, “Richest Man”) on whose
-cover are Zangemann and his villa.
+IMAGE: Հեղինակաւոր ամսագրեր («Աստղեր», «Փող», «Մեծահարուստ տղամարդը»)՝ որոնց կազմին Զանգեմանն է եւ իր վիլլան։
 ]]
 
 Հեռվում՝ քաղաքի մյուս ծայրում, ապրում էր նորարար, չտեսնված հարուստ Զանգեմանը։ Աշխարհում չկար այդքան մեծ թուղթ, որ վրան գրեիր այդ բոլոր թվերն իրենց զրոներով։ Նա ապրում էր լողավազանով եւ ջրասահքով, աստիճաններով եւ աշտարակներով, հարյուրավոտ պատուահաններով մեծ տանը, որն այնքան շատ սենյակներ ուներ, որ ինքն էլ էր դրանց մեջ կորում։ Զանգեմանի առանձնատունը  կանգնած էր մեծ բլուրի վրա։ Այնտեղից նա ողջ քաղաքը կարող էր դիտել։
@@ -251,16 +240,10 @@ cover are Zangemann and his villa.
 ** 7 **
 
 [[I:ada-p07
-IMAGE: Zangemann as a child on a chair at a school table. From his head
-come six bubbles in which there are his ideas of places in which to
-insert computers: a video call system, a speaker, a washing machine, a
-skateboard with radio control on a big computer monitor, a wrist
-computer, and a shoulder computer with a monitor and keyboard.
-Zangemann has gray hair, a dark purple shirt with blue horizontal
-stripes, blue shorts, brown shoes and white socks. He wears glasses and
-a big watch on his left wrist.
-On the table there are an open notebook, a yellow pencil, and an eraser,
-while hanging on the side of the table there is his brown briefcase.
+IMAGE: երեխա Զանգեմանը՝ նստած է դպրոցական սեղանի մօտ։
+Գլխավերեւում վեց պղպջակներ են՝ այնտեղ նրա գաղափարներն են, թե ուր դնի իր կարգիչները՝ վիդեոզանգերի համակարգ, բարձրախօս, լուացքի մեքենայ, սքեյթ՝ ռադիօ կառավարիչով՝ մեծ համակարգչի մոնիտորին, ձեռքի կարգիչ, եւ կարգիչ մոնիտորով եւ ստեղնաշարով։
+Զանգեմանն ունի մոխրագոյն մազեր, մուգ մանուշակագոյն շապիկ՝ կապոյտ հորիզոնական գծերով, կապոյտ շորտերով, մոխրագոյն կօշիկներով եւ սպիտակ նասկիներով։
+Ունի ակնոցներ եւ մեծ ժամացոյց ձախ դաստակին։  Սեղանին բաց նոթատետր է, դեղին մատիտ, ջնջիկ, սեղանի կողքին կախուած է շագանակագոյն թղթապանակ։
 ]]
 
 ## 8 ##
@@ -285,9 +268,7 @@ On the back of the machine there is the refrigeration machinery with the
 Եվ, իհարկե, բոլորը սիրում էի ամեն օր կեսօրից հետո ավտոմատից մատուցվող պաղպաղակը, էքստրահամեղ Օրիգինալ Զանգեման Պաղպաղակի Մեքենա: Ամեն ինչ հրաշքի էր նման, բայց գաղտնիքը պարզ էր՝ փոքր համակարգիչները, որ Զանգեմանը սարքում էր իր մեքենաների մեջ, դարրձնում էր այդ ամենը հնարավոր։
 
 [[I:ada-p08a
-IMAGE: An original Zangemann electric skateboard leaving a blue trail
-with musical notes and colored circles. Only the knees, white socks, and
-olive green shoes with white soles of the child riding it are shown.
+IMAGE: Զանգեմանի օրիգինալ էլեկտրական սքեյթը՝ կապոյտ հետքեր երաժշտական նոտաների տեսքով եւ գունաւոր շրջանակներով։ Երեւում են երեխայի ծնկները, որը քշում է սքեյթը՝ սպիտակ նասկիներով, զեյթունի֊կանաչ կօշիկներով՝ սպիտակ ներբաններով։
 ]]
 
 ** 9 **
@@ -346,11 +327,8 @@ the previous page.
 Երբ ոսկյա կարգչի դիմաց չէր, Զանգեմանը պատրաստում էր նոր փոքր համակարգիչներ՝ նոր սարքերի մեջ, եւ վաճառում էր դրանք։ Նա սարքում էր լվացքի մեքենաներ, որ ուղարկում էր նամակ բջջայինին, երբ լվացքը պատրաստ էր։ Նա սարքել էր փոշեկուլ, որոնք նվագում էին ուրախ երաժշտություն՝ աղմկոտ ձայների փոխարեն։ Նա հորինել էր լամպեր, որոնք միանում֊անջատվում էին մատների ճտտոցով, եւ մեքենաներ, որ ասում էին, թե որտեղ է ամենամոտ մթերային խանութը։
 
 [[I:ada-p12
-IMAGE: City landscape with houses and shops, with a central street
-turning right. On the road there are a car and a cyclist.
-There are various children and adults walking or going on skateboards,
-some eating ice cream, while others are buying ice cream from the
-original Zangemann machines.
+IMAGE: Քաղաքի լանդշաֆթ՝ տներով եւ խանութներով, կենտրոնական փողոցը աջ կողմում։ Ճանապարհին մեքենայ է եւ հեծանուորդ։
+Երեխաներ եւ մեծահասակներ քայլում էին, կամ գնում սքեյթներով, որոշները պաղպաղակ էին ուտում, միւսները գնում էին պաղպաղակ Զանգեմանի օրիգինալ մեքենաներից։
 ]]
 Ժամանակի հետ գրեթե ամեն ինչ աշխարհում իր մեջ ուներ Զանգեմանի կարգիչն իր ներսում։ Ոչ բոլոր գյուտերն էին սկզբում պետքական թվում, բայց մարդիկ գնում էին ամեն ինչ, որը նա սարքում էր։ Զուտ այդպես էր։ Բոլորն ուզում էին սարքեր պատրաստված Զանգեմանի կողմից՝ աշխարհի ամենամեծ նորարարից։
 
@@ -377,11 +355,10 @@ trees.
 Մտքերի մեջ կորել էր, երբ հանկարծ՝ ԲՈՒՄ, ինչ֊որ բան կպավ սրունքին։
 
 [[I:ada-p14
-IMAGE: Zangemann after the incident with the child. Zangemann screams
-from pain while holding up one of his legs with both hands at the shin.
-The child has brown hair that is blown back by Zangemann's scream; he is
-wearing a light blue hooded sweatshirt and dark green pants. He holds a
-red Zangemann electric skateboard.
+IMAGE: Zangemann after the incident with the child.
+IMAGE: Զանգեմանը երեխայի հետ միջադէպից յետոյ։ Ճչում է ցաւից, երկու ձեռքով սրունքները բռնած։
+Երեխան ունէր շագանակագոյն մազեր, որոնք Զանգեմանի ճչոցից ետ էին քաշուել․ նա բաց կապոյտ հուդիով էր եւ մուգ դեղին շալուարով։
+Բռնել էր կարմիր Զանգեման էլեկտրական սքեյթը։
 ]]
 
 ** 15 **
@@ -390,7 +367,6 @@ red Zangemann electric skateboard.
 
 «Ներողություն, չէի ուզում», կակազեց երեխան, բայց Զանգեմանը չէր լսում։
 
-An angry Zangemann limped away.
 Ջղայնացած Զանգեմանը կաղալով հեռացավ։ Հանկարծ, բարձր երաժշտություն լսեց։ Երբեք այդքան ահավոր բան չէր լսել։ Շուրջը նայեց եւ տեսավ, որ երաժշտությունը լսվում էր բարձրախոսից՝ որ հենց ինքն էր սարքել։ Փողոցի այն կողմում մի երեխա էր բռնել այն։ Երեւում էր, որ երեխան հավանում է երգը, բայց Զանգեմանի մոտ սարսափելի գլխացավ սկսեց, եւ տրամադրությունն ավելի վատացավ։ Իր զբոսանքից նա բոլորովին էլ սա չէր սպասում։
 
 [[I:ada-p15
@@ -409,10 +385,8 @@ with a collar and tag.
 Զանգեմանի կատաղել էր այս երեխաների վրա։ Ոնց կարող էին իր գյուտերն այսպես կիրառել։ Քունը փախավ աչքերից, ու նա նստեց իր ոսկյա կարգչի առջեւ։ Այնտեղից, իր բոլոր սքեյթների փոքր համակարգիչներին հրաման տվեց, որ նրանք այլեւս չկարողանան քշել մայթերին։ Հրամայեց բոլոր բարձրախոսների համակարգիչներին նվագել երաժշտություն միայն ցածր ձայնով, բացառությամբ իր սիրած երգերի, որոնք նա միշտ միացնում էր՝ տրամադրությունը բարձրացնելու համար։
 
 [[I:ada-p16
-IMAGE: The city in the evening, with houses, a church, and two
-streetlights. Images emerge from the dwellings illustrating Zangemann's
-inventions bought by the inhabitants: a washing machine, a yellow vacuum
-cleaner, and a red car, all with Internet connection signals.
+IMAGE: Երեկոյեան քաղաք, տներ, եկեղեցի եւ երկու փողոցային լամպեր։
+Բնակարաններից պատկերներ են դուրս գալիս իրենց գնումները, որ ցուցադրում են Զանգեմանի գիւտերը՝ լուացքի մեքենա, դեղին փոշեկուլ, կարմիր մեքենայ, բոլորի վրայ ինտերնետ կապի ազդակներ։
 ]]
 
 ** 17 **
@@ -445,8 +419,7 @@ flower on it.
 Չնայած նա այս սարքերից ոչ մեկ չուներ, Ադան զարմանում էր թե ինչու հանկարծ սքեյթներն ու բարձրախոսները դադարեցին աշխատել։ Բայց նա իրականում շատ ժամանակ չուներ դրա մասին մտածելու, քանի որ նա կրկին որոնումների մեջ էր։ Նա հավաքել էր հեծանիվ երեք ջարդված հեծանիվների մասերից։ Նա նվիրել էր հեծանիվը մայրիկին, որ նա այլեւս իր փողերը ավտոբուսի տոմսերի վրա չծախսի աշխատանքի գնալիս։ Եղբոր համար Ադան սարքել էր բարձրախոս, որ նա քնի գեղեցիկ պատմությունների ներքո, այն երեկոներին երբ մայրիկը դեռ աշխատանքի էր։
 
 [[I:ada-p19
-IMAGE: Close-up of Ada thoughtful, with a backpack and with one hand on
-her chin and the other resting on her side.
+IMAGE: Մտածկոտ Ադան, ուսապարկով եւ մի ձեռքը դնչի տակ, միւսը կողքին։
 ]]
 
 Մի քանի օրից Ադայի դպրոցում բոլորը մոռացան սկզբնական շոկը։ Սքեյթները մայթերով չէին գնում, բայց քշվում էին։ Եւ այժմ երեխաները կլոր պտտվում էին խաղահրապարակի շուրջ եւ լսում էին ցածր երաժշտություն։ Միայն տարօրինակ, պոռճ երթերի երաժշտությունն էր, որ շարունակում էր նվագել բարձր ձայնով, ինչը երեխաներին շփոթեցնում էր։
@@ -478,7 +451,6 @@ pencil and an eraser.
 Իհարկե, նա ուզում էր փորձել իր ծրագրերը միանգամից, տեսնելու թե արդյոք դրանք աշխատում են։ Աղբանոցում նա միացրեց իր հեռախոսը փոքրիկ ԼԵԴ լամպին։ Ապա տպեց կոդ իր հեռախոսում։
 
 Սկզբում ոչինչ չպատահեց։
- Ada wondered where the error could be.
 
 Ադան զարմանում էր, թե որն է խնդիրը։ Փոքրիկ ուղղումներ արեց, եւ կրկին փորձեց, եւ ․․․ Այոոո, փոքրիկ լամպը սկսեց թարթել։ Վառում էր, մարում, վառում էր, մարում։ Ադան նայեց ԼԵԴին հիացմունքով։ Նա գրել էր իր առաջին ծրագիրը։
 
@@ -500,8 +472,7 @@ and a pencil; pliers; glue; solder; and a disconnected soldering iron.
 ## 24 ##
 
 [[I:ada-p24
-IMAGE: Zangemann looks thoughtfully with his arms crossed out one of the
-great windows of his house, into which the sun's rays are shining.
+IMAGE: Զանգեմանը մտածկոտ՝ արմունկները ծալած, նայում է իր մեծ տան պատուհաններից, որոնցից առկայծում են արեւի ճառագայթները։
 ]]
 
 ** 25 **
@@ -692,22 +663,9 @@ IMAGE: Կանաչ, կապույտ եւ վարդագույն ներկերի տո�
 
 ** 39 **
 ==== Slide 21
-[T]he next day, they didn’t go to school. Instead, they rode their
-skateboards to the parliament building, with large protest signs
-under their arms, and sat down in front of the building. The evening
-before, they had put LED lights on some of the signs, which were now
-flashing brightly. They had connected their speakers together so
-everyone in the street could hear what they were saying. Some passersby
-stopped and asked the children what they were demonstrating for.
-“For software freedom!” they replied in unison and told the adults their
-story.  Impressed, the adults nodded, and the president also looked
-curiously at their signs as he approached the building.
+[Յ]աջորդ օրը նրանք դպրոց չգնացին։ Փոխարէնը, նրանք՝ մեծ ցուցանակներ արմունկների տակ, սքեյթներով գնացին կառավարութիւն եւ նստեցին կառոյցի դիմաց։ Նախորդ երեկոյ նրանք որոշ ցուցանակների վրայ ԼԵԴ լոյսեր էին դրեց, որ վառ առկայծեն։ Բոլոր բարձրախօսերը կպցրել էին իրար, որ փողոցում բոլորը լսեն իրենց ասելիքը։ Որոշ անցորդներ կանգնում էին եւ հարցնում թե երեխաներն ինչ են նրանք պահանջում։ «Ծրագրային ապահովութեան համար»,―պատասխանում էին նրանք միահամուռ, եւ մեծերին պատմում էին իրենց պատմութիւնը։ Նրանք տպաւորուած գլխով էին անում, եւ նախագահը նոյնպես հետաքրքրուած նայեց նրանց ցուցանակներին, երբ մօտենում էր շենքին։
 
-On the following day, Ada and her friends again sat down in front of the
-parliament building, this time with support. Some classmates came whose
-skateboards Ada had reprogrammed. Toni’s father and other parents and
-adults also wanted to support the protest. They found the children’s
-devices very useful.
+Միւս օրը նոյնպես Ադան եւ ընկերները կրկին նստեցին կառավարութեան շէնքի դիմաց՝ այս անգամ աջակիցներով։ Դասընկերներից ոմանք եկան Ադայի վերածրագրաւորած սքեյթներով։ Թոնիի հայրը, միւս ծնողները եւ այլ մեծահասակներ նոյնպես ցանկացած աջակցել ցոյցին։ Նրանք օգտակար էին համարում երեխաների սարքերը։
 [[I:ada-p39
 IMAGE: Yellow and green paint on the floor and wax crayons yellow, red,
 blue, green and brown; the latter 3 are in a gray cardboard box.
@@ -715,13 +673,7 @@ blue, green and brown; the latter 3 are in a gray cardboard box.
 
 ## 40 ##
 
-With each passing day, more and more children and adults joined the
-protest.  The bus driver they had helped drove up in her bus. She honked
-loudly to attract even more people to the protest. The custodian brought
-a few friends, and Toni’s father brought his colleagues from work, all
-wearing perfectly ironed ties. Even Ms. Gernet came. The crowd grew, and
-after a few weeks, there were protests not just in Ada’s city but also
-in many cities throughout the country.
+Ամեն անցնող օրուայ հետ աւելի ու աւելի շատ երեխաներ ու մեծահասակներ էին միանում ցոյցին։ Աւտոբուսի վարորդն օգնում էր նրանց տեղ հասնել իր աւտոբուսում։ Նա բարձր ազդանշան էր տալիս աւելի շատ մարդկանց ուշադրութիւն գրաւելու համար։ Որոշ ընկերների բերեց պահակը, Թոնիի հայրը բերեց իր կոլեգաներին՝ բոլորը կատարեալ արդուկուած փողկապներով էին։ Անգամ ընկեր Գերնետը եկաւ։ Ամբոխը մեծանում էր, եւ մի քանի շաբաթ անց ցոյցեր էին ոչ միայն Ադայի քաղաքում, այլտարբեր քաղաքներում եւս։
 [[I:ada-p40-41
 IMAGE: Group of protesters. Among them there are:
 Ada's mother holding Alan's hand and raising a pink ice cream;
@@ -743,7 +695,7 @@ Ada's family's dog is now wearing a red harness with shiny yellow LEDs
 that matches the collar.
 ]]
 
-	## BIG SIGN: "Do your homework Mr. President and we will do ours!"
+## մեծ ցուցանակ․ «Արա քո տնայինը պարօն Նախագահ, եւ մենք էլ կանենք մերը»։
 
 ** 41 **
 
@@ -762,24 +714,18 @@ LEDs that matches the collar.
 ]]
 	## TEACHER SIGN: "They are young + need the code!"
 
+## ՈՒՍՈՒՑՉԻ ՑՈՒՑԱՆԱԿ․ «Նրանք երիտասարդ են + կարիք ունեն կոդի»
+
 	## MEDIUM SIGN: "Don’t wreck our tech!"
+
+## ՄԻՋԻՆ ՑՈՒՑԱՆԱԿ․ «Մի կործանէք մեր տեքնոլոգիան»
 
 ## 42 ##
 
-[A]da protested in front of the parliament building every week, even in
-pouring rain. On one such rainy day, when the president passed the group
-of dripping-wet children, he couldn’t help but admire their
-stubbornness. He asked Ada, “Why do you sit here every day? What do you
-want to achieve?” Ada replied, “We want to determine for ourselves what
-we can and cannot do with our computers.” Her friends shouted in unison:
-“Don’t wreck our tech! Don’t wreck our tech!” and “We want the code! We
-want the code!”
+[Ա]մէն շաբաթ Ադան կառավարութեան շենքի դիմաց ցոյցի էր, անգամ հորդառատ անձրեւի ժամանակ։ Մի այպիսի անձրեւոտ օր, երբ նախագահն անցնում էր թրջուած երեխաների խմբի մօտով՝ չէր կարող չհիանալ նրանց հաստատակամութեամբ։ Նա հարցրեց Ադային, «Ինչո՞ւ ես ամեն օր էստեղ նստում։ Ինչի՞ ես ուզում հասնել», Ադան պատասխանեց․ «Մենք ուզում ենք ինքներս որոշել, թե ինչ կարող ենք կամ չենք կարող անել մեր կարգիչներով»։ Ընկերները միաձայն գոռացին․
+―Մի կործանեք մեր տեքնոլոգիաները, մի կործանեք մեր տեքնոլոգիաները» եւ «Մենք ուզում ենք կոդը, մենք ուզում ենք կոդը»։
 
-The president looked at the determined faces of the children. Honestly,
-he, too, wanted to decide for himself what the government could and
-couldn’t do with its computers. But he didn’t understand anything about
-computers and code, so he had always left that to Zangemann. Deep in
-thought, the president entered the building.
+Նախագահը նայեց երեխաների վճռական դէմքերին։ Ճիշտն ասած, նա էլ էր ցանկանում որոշել թե կառավարութիւնն ինչ է կարող կամ չի կարող անել իր կարգիչներով։ Բայց նա չէր հասկանում կարգիչներից եւ կոդից, դրա համար էլ ամեն ինչ Զանգեմանին էր թողել։ Մտքերի մեջ խորացած նախագահը մուտք գործեց շէնք։
 ==== Slide 22
 [[I:ada-p42
 IMAGE: One of Ada's friends lying on his stomach with one foot up in the
@@ -787,22 +733,13 @@ air is typing on a laptop. He has wavy brown hair parted in the center,
 a red sweatshirt, blue pants, and white socks but no shoes. Next to the
 computer there are a green cup and two open books.
 ]]
-The next day, the president invited Ada and her friends over. “We also
-want to be in charge of our software ourselves. In order for that to be
-true, the government must be independent from Zangemann. Can you tell me
-what you know about computer programs?” he asked them. Enthusiastically,
-they explained to him how software works and what you could do with it.
-The president was amazed.
+Յաջորդ օրը նախագահն Ադային եւ ընկերներին իր մօտ կանչեց։
+«Մենք նոյնպես ուզում ենք մեր ծրագրի տէրը լինել։ Դա իրականութիւն դարձնելու համար կառավարութիւնը պիտի անկախ լինի Զանգեմանից։ Կասէ՞ք ինչ գիտէք ծրագրերի մասին»,―հարցրեց նա Նրանք ոգեւորուած սկսեցին պատմել թե ինչպէս են ծրագրերն աշխատում եւ ինչ կարող են մարդիկ անել դրանով։ Նախագահը հիացած էր։
 
 ** 43 **
+Այս նոր գիտելիքով կառավարութիւնը կկարողանար նախագծել իրենց ծրագրերը՝ ինչպէս ուզեին՝ առանց Զանգեմանի։ Միանգամից նախագահը կանչեց իր խորհրդականներին։ Մեծ խումբ կազմեցին եւ երեխաների հետ սկսեցին քննարկել թե ինչ կարող կարող են փոխել եւ լաւարկել ծրագրերի մեջ։
 
-With this new knowledge, the government would be able to design its own
-software, the way it wanted — completely without Zangemann. Immediately,
-the president called his advisers. In a large group, they discussed with
-the children everything they could change and improve in the software.
-
-That evening, the children went home proud and satisfied. Something
-finally happened! Their long protest was worth it.
+Այդ երեկոյ երեխաները հպարտ եւ բաւարարուած գնացին տուն։ Վերջապէս մի բան պատահեց։ Նրացն երկարատեւ ցոյցերն իմաստ ունէին։
 [[I:ada-p43
 IMAGE: Ada and her friends in the President's office.
 Ada is reprogramming the President's computer.
@@ -816,38 +753,21 @@ The President's phone is ringing, but nobody is answering.
 
 ## 44 ##
 
-[T]he next morning, the president’s phone rang very early. It was
-Zangemann. He was angrier than ever. “Without me, the government
-computers will no longer work,” he threatened. But the president kept
-the call short and quickly hung up. The phone rang many more times that
-day, but Zangemann’s calls went unanswered. The president sat in a
-meeting with Ada, Toni, Marie, Konrad, and the government experts.
+[Յ]աջորդ օրը վաղ առաւօտեան նախագահին զանգ եկաւ։ Զանգեմանն էր։ Աւելի քան երբեւէ նա ջղայնացած էր։ «Առանց ինձ, կառավարութեան կարգիչներն այլեւս չեն աշխատի»―սպառնաց նա։ Բայց նախագահը կարճ կապեց եւ արագ անջատեց։ Այդ օրը հեռախօսը շատ զանգեց, բայց Զանգեմանի զանգերը մնում էին անպատասխան։ Նախագահը նիստ էր հրաւիրել Ադայի, Թոնիի, Մարիի, Կոնրադի եւ կառավարութեան փորձագէտների հետ։
 
 [[I:ada-p44
 IMAGE: A herald, wearing a hat with a plume, playing a trumpet on which
 a red banner is hung.
 ]]
-In the days that followed, they talked from morning to night and designed their
-first programs for the government’s computers. They were no longer disturbed
-by Zangemann’s calls. Toni had the good idea of reprogramming
-the telephones. When Zangemann called, he
-only heard an automated recording: “The
-government only wants to use software
-that it can freely use, study, share, and
-improve. Thank you for calling.”
+Յաջորդ օրերին առաւօտից մինչ գիշեր խօսում էին եւ կառավարութեան կարգիչների համար նախագծում առաջին ծրագրերը։ Զանգեմանի զանգերն այլեւս չէին խանգարում։ Թոնին լավ միտք ունեցաւ եւ վերածրագրաւորեց հեռախօսները։ Երբ Զանգեմանը զանգում էր, նա լսում էր աւտոմատ ձայնագրութիւն․ «Կառավարութիւն ուզում է օգտագործել միայն այն ծրագրերը, որոնք ազատ են օգտագործելու, ուսումնասիրելու, կիսելու եւ լաւարկելու համար։ Շնորհակալութիւն զանգի համար»։
 ==== Slide 23
-Then, after many weeks of protests and
-discussions, the time had finally come:
-they abolished the old Zangemann law!
-Instead, the government announced:
+Շաբաթներ տեւած ցոյցերից եւ քննարկումներից յետոյ վերջապէս եկաւ ժամանակը․ Նրանք չեղարկեցին Զանգեմանի օրէնքը։ Փոխարէնը կառավարութիւնը յայտարարեց․
 
 ** 45 **
 
-“Everyone is allowed to program their own computers as long as they
-adhere to the other laws.”
+«Բոլորը կարող են ծրագրաւորել իրենց կարգիչները, քանի դեռ դրանք հաւատարիմ է միւս օրէնքներին»։
 
-In addition, a new school subject was introduced: computer hardware and
-software.
+Նաեւ, դպրոցներում նոր առարկա ներմուծուեց՝ hardware եւ software։
 [[I:ada-p45
 IMAGE: The President with Toni, Konrad, Marie, Ada, and a herald playing
 a trumpet.
@@ -860,11 +780,7 @@ Ada's dog is sitting in front of her.
 
 ## 46 ##
 ==== Slide 24
-That evening, everyone celebrated with a big party. Ada, Alan, Toni,
-Marie, Konrad, and other children from school and their parents; the
-president; Ms. Gernet; the bus driver; the custodian — they were all
-there. They decorated the streets, listened to loud music, and ate ice
-cream, as much as they wanted, and in every imaginable shape and color.
+Յաջորդ օրը մեծ խնջոյք արեցին եւ նշեցին։ Ադան, Ալանը, Թոնին, Մարիան, Կոնրադն ու միւս երեխաներն այլ դպրոցներին իրենց ծնողների հետ, նախագահը, ընկեր Գերնետը, աւտոբուսի վարորդը, պահակը՝ բոլորն այնտեղ էին։ Նրանք զարդարել էին փողոցները, միացրել բարձր երաժշտութիւն եւ ուտում էին պաղպաղակ՝ ինչքան ուզէին, ցանկացած ձեւի եւ գոյնի։
 [[I:ada-p46
 IMAGE: Evening party.
 Children are holding ice cream and balloons with the words “I love FS (I
@@ -878,9 +794,7 @@ Ada's mom is dancing with a gentleman.
 
 ** 47 **
 
-While the others continued partying late into the night, Ada and her
-friends slipped away to their workshop. They already had a lot of ideas
-for new inventions. And they wanted to start right away.
+Մինչ միւսները շարունակում էին խնջոյքն ամբողջ գիշեր՝ Ադան եւ ընկերները գնացին արհեստանոց։ Նրանք ունէին նոր գաղափարներ, որ ցանկանում էին միանգամից սկսել։
 [[I:ada-p47
 IMAGE: The President, the secretary, and other people around a table
 enjoying crazy ice cream;
@@ -892,15 +806,10 @@ Ada's dog, Konrad, Marie, Ada, and Toni sneaking away from the party.
 
 ## 48 ##
 ==== Slide 25
-[A]nd Zangemann? No one’s heard much from him. Maybe he’s still sitting
-angrily in front of his golden computer. Maybe he doesn’t dare go out
-into the street anymore and has boarded up all the windows of his
-mansion so that he doesn’t have to worry about what other people are
-doing with his inventions. But maybe he also sometimes looks out into
-the world through his telescope and sees what the children are inventing
-every day. Perhaps then he will remember how much fun it was for himself
-to tinker and experiment. And maybe, just maybe, he eats pyramid-shaped
-raspberry ice cream with rainbow sprinkles.
+[Ի]սկ Զանգեմա՞նը։ Շատ բան չէին լսում նրանից։ Գուցե նա դեռ ջղայն նստած էր իր ոսկեայ կարգչի դիմաց։ Գուցէ նա այլեւս չէր համարձակւում դուրս գալ փողոց եւ փակել էր բոլոր պատուհաններն իր առանձնատան, որ չմտածի, թե ինչ են անում մարդիկ իր նորարարութիւններով։
+ But maybe he also sometimes looks out into the world through his telescope and sees what the children are inventing every day.
+Բայց երբեմն նայում էր աշխարհին իր հեռադիտակով եւ նայում էր, թե ինչ են ստեղծում երեխաներն ամեն օր։ Գուցե նա կյիշէր ինչ զւարճալի էր իր համար, երբ փորփրում էր ու փորձարկում։ Եւ գուցէ, ուղղակի, մի օր նա կուտէր պիրամիդաձեւ ելակի պաղպաղակ՝ ծիածանագոյն փայլիկներով։ 
+
 [[I:ada-p48
 IMAGE: Ada's little dog sniffing a trail of ice cream.
 ]]
@@ -915,28 +824,17 @@ IMAGE: A trail of candies and raspberry ice cream on the ground.
 
 Acknowledgments from the author
 
+Խորին շնորհակալութիւն Ռեյնհարդ Վիսմանին՝ Linuxhotel֊ից՝ ֆինանսական աջակցութեան եւ մոտիւացիայի համար այլեւս չպլանաւորելու եւ անելու։
 
-Many thanks to Reinhard Wiesemann from the Linuxhotel for the financial
-support and motivation to no longer plan but to make. Thanks to Sandra
-Brandstätter, who has brought me joy with every new design for the
-illustrations. Thanks to my editor Wiebke Helmchen, who made developing
-and sharpening the story fun, and to No Starch Press for agreeing to
-publish the book under a free culture license.
+Շնորհակալութիւն Սանդրա Բրենդշտետերին, որն ինձ հիացնում էր իւրաքանչիւր նոր պատկերազարդումների դիզայնով։
 
-Thanks to Bea and Benni, Brian, Christine and Marc, Cory, Bernhard,
-Isabel and Amelia, Katta, Kristina, Martin, Mona and Arne, Nina, Oliver,
-Reinhard, Sabine, and Torsten for great ideas, inspiration, and
-practical tips, and to the many people of the Free Software movement,
-from which I was allowed to learn and whose engagement motivated me.
+Շնորհակալութիւն խմբագիր Վիբկե Հելմխենին, որը զարգացրեց եւպատմութիւնը դարձրեց զուարճալի, եւ No Starch Press֊ին, որ համաձայնեց տպագրել գիրքը ազատ մշակոյթի լիցենզիայով(free culture license)։
 
-For the English edition, I would like to thank John for his valuable
-feedback to improve the language, as well as Catharina, Pam, Till, and
-Vint for assisting me in figuring out how to get the book published.
+Շնորհակալութիւն Բիին եւ Բենիին, Բրայանին, Քրիստինին եւ Մարկին, Կորիին, Բեռնարդին, Իզաբելին եւ Ամելիային, Կատային, Քրիստինային, Մարտինին, Մոնային եւ Առնեին, Նինային, Օլիւերին, Ռեյնարդին, Սաբինեին, Տորստենին՝ լաւ գաղափարների, ոգեշնչման եւ գործնական խորհուրդների համար, եւ Ազատ Ծրագրակազմի(Free Software) շարժման անդամներին, որոնք հնարաւորութիւն տւեցին սովորելու եւ որոնց խրախուսանքը ոգեւորեց ինձ։
 
-Thanks to my family, who made me write early in the morning, late in the
-evening, and on holiday, and who always supports my work for software
-freedom. Especially, I would like to thank my children, who inspired me
-with new ideas at each reading. Without them, this book would not exist.
+Անգլերէն հրատարակութեան համար ցանկանում եմ շնորհակալութիւն յայտնել Ջոնին՝ իր արժէքաւոր խորհուրդների համար, որոնք լաւարկեցին լեզուն, ինչպէս նաեւ Կատերինային, Փամին, Թիլլին եւ Վինթին, որոնք ինձ ուղղորդեցին հասկանալու թե ինչպէս տպագրեմ գիրքը։
+
+Շնորհակալութիւն իմ ընտանիքին, որոնք հնարաւորութիւն տւեցին ինձ գրելու՝ առաւօտեան, երեկոյեան, արձակուրդներին, եւ որոնք միշտ աջակցում էին իմ աշխատանքին՝ յանուն ծրագրակազմի ազատութիւն։ Յատուկ շնորհակալութիւն իմ երեխաներին, որոնք ամէն ընթերցման ժամանակ ինձ տալիս էին նոր գաղափարներ։ Առանց նրանց այս գիրքը գոյութիւն չէր ունենայ։
 
 ** 51 **
 
@@ -956,13 +854,7 @@ Matthias Kirschner
 IMAGE: Close-up of Matthias smiling, waving with one hand, and wearing a
 headset. Matthias has short hair and a little beard.
 ]]
-Matthias was fascinated by computers and software as a child. He had an
-internet connection early, through which he learned a lot.
-Children have a right to take their future into their own hands.
-Therefore, Matthias is committed to the goal that all humans can use
-software in a self-determined way. He also wants to build an electric
-skateboard with Free Software.
-
+Մաթիասը մանկուց հիացած էր համակարգիչներով եւ ծրագրերով։  Նա ունէր հասանելիութիւն ինտերնետին դեռ մանկուց, որն էլ օգնեց նրան շատ բաներ սովորելու։ Երեխաներն ունեն իրաւունք իրենց ապագան իրենց ձեռքը վերցնելու։ Մաթիասն աջակիցն է բոլոր մարդկանց ծրագրերն ըստ իրենց ինքնորոշումների կիրառելու գաղափարին։ Նա նաեւ ցանկանում էր սարքել Ազատ Ծրագրակազմով էլեկտրական սքեյթ։
 ** 53 **
 
 About the illustrator
@@ -974,28 +866,21 @@ IMAGE: Sandra smiling with a pencil in her hand in front of her chin.
 She has earphones with an integrated microphone. Sandra has short hair
 and glasses.
 ]]
-Sandra has always liked crafting with scissors, pliers, glue, wire,
-fabric, and paper. Today she works as an illustrator, comic author, and
-character designer for animated films and series, such as the German
-public television series Trudes Tier.
-On an ice-cream machine, Sandra would pick a creamy rainbow ice cream
-with lemon cucumber flavor and a lot of sprinkles.
+Սանդրան միշտ սիրել է արհեստագործել մկրատով, ունելիքներով, սոսինձով, լարերով, գործւածքներով եւ թղթով։
+Նա այժմ նկարազարդող է, կոմիկ գրքերի հեղինակ եւ հերոսների դիզայներ՝ անիմացիոն ֆիլմերի եւ սերիաների համար, ինչպէս օրինակ Truder Tier֊ը(գերմանական հեռուստասերիալ)։
+Պաղպաղակի մեքենայից Սանդրան կվերցնէր կրեմային ծիածանագույն պաղպաղակ՝ լիմոնի համով եւ լիքը փայլիկներով։
 
 ## 54 ##
 
 Website for the book
 
 
-The Free Software Foundation Europe e.V. is a nonprofit association that
-empowers people to control technology.
-Software affects all areas of our life. That is why it is important that
-this technology gives us freedom instead of restricting us. Free
-Software (also called Open Source) gives everyone the right to use,
-study, share, and improve programs. Therefore, Free Software strengthens
-basic rights such as freedom of expression, freedom of the press, and
-the right to privacy.
+Free Software Foundation Europe e.V. ֊ն առանց շահոյթի կազմակերպութիւն է, որն արտօնում է մարդկանց կառավարել իրենց տեքնոլոգիաները։ 
 
-On the web page of the book, you will find more information and resources:
+Ծրագիրն ազդում է մեր կեանքի բոլոր ոլորտների համար։ Դրա համար էլ կարեւոր է, որ տեքնոլոգիան փոխարէնը սահմանափակելու՝ տա մեզ ազատութիւն։ Ազատ ծրագրակազմը(երբեմն՝ Ազատ Ելակոդ), բոլորին տալիս է իրաւունք ծրագրերն օգտագործելու, ուսումնասիրելու, կիսելու եւ լաւարկելու։
+Հետեւաբար, Ազատ Ծրագրակազմը ուժեղացնում է հիմնական ազատութիւնները՝ ինչպիսիք են արտայայտուելու ազատութիւնը, մամուլի ազատութիւնը, եւ գաղտնիութեան իրաւունք։
+
+Գրքի կայքէջում կգտնէք աւելի շատ ինֆորմացիա եւ ռեսուրսներ․
 https://ada.fsfe.org.
 
 ** 55 **
@@ -1039,10 +924,11 @@ IMAGE: A soldering iron and a brush and can with yellow paint, connected
 by white electrical cord that forms a frame.
 ]]
 
-[T]he inventor Zangemann is world-famous and immensely rich. Adults and
-children alike love his fabulous technical inventions. But one day there
-is a problem: the children's electronic skateboards no longer work
-properly. What’s going on? The curious girl Ada sees through what is
+[Գ]իւտարար Զանգեմանը աշխարհահռչակ մեծահարուստ է։
+Թե մեծերը, թե փոքրերը սիրում են իր անհաւատալի տեքնիկական նորարութիւնները։
+ But one day there is a problem: the children's electronic skateboards no longer work properly.
+Բայց մի օր խնդիր առաջացաւ․ երեխաների էլեկտրական սքեյթները դադարեցին ճիշտ աշխատել։
+ What’s going on? The curious girl Ada sees through what is
 going on. Together with her friends, she experiments with hardware and
 software, and the children forge a plan: Zangemann can no longer be the
 only one in control of the devices!
