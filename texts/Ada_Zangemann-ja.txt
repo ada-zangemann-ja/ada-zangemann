@@ -206,6 +206,11 @@ so poor that all their savings fit inside a cookie jar. They didn’t have
 enough money to live in a proper home. Instead, Ada lived with her 
 mother and her little brother, Alan, in a cabin near a junkyard on the 
 edge of town.
+
+むかしむかし、アーダという小さな女の子がいました。アーダの家はとても貧しくて、 
+全ざいさんがクッキー缶にはいってしまうほどでした。ちゃんとした家に住めるほどのお金はありません。 
+アーダがおかあさんと弟のアランといっしょに住んでいたのは、まちはずれにあるガラクタ置き場のそばの小屋でした。
+
 [[I:ada-p04
 IMAGE: Ada in foreground leaving the house to go to school, in the 
 background Ada's house and the junkyard. Ada has a brown backpack with 
@@ -252,6 +257,13 @@ staircases and towers, hundreds of windows, and so many rooms that he
 often got lost in them himself. Zangemann’s mansion stood high on a 
 hill. From there, he could look out over the whole city.
 
+ずっとはなれたまちの反対がわには、ツァンゲマンという有名な発明家が住んでいました。 
+ツァンゲマンはとてつもない大金持ちで、銀行にあずけているお金はけたが多すぎて、 
+数字とゼロを紙に書ききれないほどでした。 
+住んでいるのは、プールとウォータースライダー、たくさんの階段と塔、そしてなん百もの窓がついた豪邸です。 
+あまりに部屋が多いので、ツァンゲマンは家のなかでよく迷子になりました。 
+その豪邸は丘の上にあり、ツァンゲマンはそこからまち全体を見おろすことができました。
+
 ## 6 ##
 ==== Slide 3
 [C]omputers had fascinated Zangemann ever since he was a child.   
@@ -270,9 +282,24 @@ After that, he’d build a cleaning robot and a block-sorting machine so
 that his room would always be neat and clean. Zangemann had great new 
 ideas like these every day. He could think of nothing else.
 
+ツァンゲマンは小さいころからコンピューターに夢中でした。 
+そのころのコンピューターは大きくて、たくさんのケーブルとゴーゴー鳴るうるさいファンがついていました。 
+学校でもツァンゲマン少年は、コンピューターがもう少し小さくてほかの楽しいものに入れられたらこうするのにな、 
+とよく空想にふけっていました。 
+まずは、スケートボードにコンピューターをとりつけて、乗っているときにかっこいい音が鳴るようにしたい。 
+消防車のサイレンとか、ロケットを打ち上げるときの音とか。そのつぎには、コンピューターをつかって、 
+アイスクリームをつくるマシンを発明したい！コンピューターが最高のフレーバーを混ぜ合わせて、 
+つくったアイスクリームを売るんだ。まちかどごとにマシンを置けば、いつでも好きな味のアイスクリームが思いきりたべられる。 
+それから掃除をしてくれるロボットとか、ブロックを並べてくれるマシンなんかもつくれば、部屋をいつもきれいにしておける。 
+まいにちこんなすばらしいアイデアが次々とわいてきて、ほかのことは考えられませんでした。
+
 As the years went by, Zangemann grew bigger and computers got smaller. 
 In fact, by the time he finished school, they were so small they fit in 
 his pocket. The smallest ones even fit on his fingertip.
+
+時がたち、ツァンゲマンは大きくなり、コンピューターは小さくなりました。 
+学校を卒業するころには、コンピューターはポケットにはいるほど小さくなっていました。 
+一番小さいものは、指先に乗るほどでした。
 
 ** 7 **
 
@@ -296,6 +323,10 @@ exclaimed, and he got right to work. He found ways to put the small
 computers into all kinds of things to make them even more fun and 
 useful. And then he sold them.
 
+「ようやくわたしのアイデアが実現するぞ！」とツァンゲマンはさけび、すぐにしごとにとりかかりました。 
+小型コンピューターを組みこむやり方を見つけて、あらゆるものをもっと楽しくつかいやすくしたのです。 
+そして、それらを売りました。
+
 [[I:ada-p08b
 IMAGE: Zangemann original ice cream machine.
 It is ice blue in color and is similar to a vending machine of drinks, 
@@ -317,6 +348,15 @@ loved the ice cream served every afternoon from the automatic,
 extra-delicious Original Zangemann Ice Cream Machine. It all seemed like 
 magic, but the secret was simple: the little computers that Zangemann 
 built into his machines made it all possible.
+
+おとなも子どもも、みんなツァンゲマンの発明したものが好きでした。 
+どの子も、ツァンゲマンのスケートボードをほしがりました。最新流行のかっこいい音が鳴るスケートボードを、 
+学校の友だちに見せびらかしたかったのです。ききたい曲をすぐに奏でてくれるツァンゲマンのスピーカーも、 
+子どもたちに大人気でした。そして、まいにち午後になるとツァンゲマンのオリジナル・アイスクリームマシンから 
+自動で出てくるとびきりおいしいアイスクリームも、もちろんみんなの大好物でした。 
+すべてがまるで魔法のようでしたが、じつは簡単なことでした。 
+なにもかも、ツァンゲマンがマシンに組み込んだ小さなコンピューターが動かしていたのです。
+
 [[I:ada-p08a
 IMAGE: An original Zangemann electric skateboard leaving a blue trail 
 with musical notes and colored circles. Only the knees, white socks, and 
@@ -340,6 +380,11 @@ These inventions were very popular at Ada’s school, and many of her
 friends rode around on the cool skateboards. Ada was often sad, since 
 her mother couldn’t buy her any of those great things: no skateboard, no 
 speakers, no ice cream.
+
+ツァンゲマンの発明はアーダの学校でも大人気で、かっこいいスケートボードを乗りまわす子がたくさんいました。 
+アーダはそんなにすてきなスケートボードもスピーカーもアイスクリームも買ってもらえなかったので、 
+ちょっぴり悲しくなりました。
+
 ==== Slide 5
 Luckily, Ada lived right next to the junkyard. There were lots of broken 
 gadgets and rusty parts, which she put together to make cool new things, 
@@ -349,8 +394,18 @@ found many useful items—an old cell phone, for example. The screen was
 cracked, but she could fix that, and while there wasn’t internet at the 
 junkyard, she could get access somewhere else.
 
+でも、さいわいなことに、アーダはガラクタ置き場のすぐとなりに住んでいました。 
+アーダはガラクタのなかからこわれた道具やさびた部品をひろい出し、組みあわせてすてきなものをつくりました。 
+アランといっしょに丘をすべりおりるカートや風車もつくりましたし、おそろしい怪獣をガラクタでつくっては、 
+アランといっしょに戦いました。つかえるものは、ほかにもたくさん見つかりました。 
+たとえば、古いケータイは画面がひび割れていましたが、なおすことができましたし、 
+ガラクタ置き場にはインターネットがなくても、別の場所からつながりました。
+
 Ada had so much fun tinkering in the junkyard and fixing broken things 
 that she forgot all about the skateboards and the ice cream.
+
+アーダはガラクタ置き場でものをいじったり、こわれたものをなおしたりするのが楽しくて、 
+スケートボードやアイスクリームのことはすっかり忘れていました。
 
 ## 10 ##
 ==== Slide 6
@@ -359,6 +414,10 @@ richest person in the whole world. With all his money, he bought a huge
 golden computer with a keyboard made of jewels and set it up in the 
 largest room of his mansion. From there, over the internet, he could 
 control all the little computers built into his inventions.
+
+みんながツァンゲマンの発明したものを買ったので、ツァンゲマンはすぐに世界一の大金持ちになりました。 
+そのお金で巨大な金のコンピューターと宝石をちりばめたキーボードを買うと、豪邸の一番大きな部屋に置きました。 
+そこからインターネットをつうじて、じぶんの発明品に組みこんだすべての小さなコンピューターを動かすことができたのです。
 
 All he had to do was press the proper key on the golden computer, and 
 immediately all the ice-cream machines in town would dispense only 
@@ -369,6 +428,15 @@ loved his inventions and was always thrilled at how amazingly well his
 machines worked. Sometimes people were disappointed when their favorite 
 flavor wasn’t available, but what could they do? After all, there was 
 ice cream on every street corner.
+
+金色のコンピューターのあるキーを押しさえすれば、 
+すぐにまちじゅうすべてのアイスクリームマシンがバニラアイスだけをつくるようになりました。 
+人びとにチョコレートアイスをたべさせたいと思えば、そのためのキーを押しました。 
+レモンアイスをと命令すれば、出てくるのはレモンアイスだけでした。 
+ツァンゲマンは自分の発明がおおいに気にいり、マシンがこれほどうまく動くことにわくわくしました。 
+ときにお気に入りのフレーバーのアイスがなくてがっかりする人もいましたが、しかたありません。 
+なんといっても、まちかどというまちかどでアイスクリームがたべられたのですから。
+
 [[I:ada-p10
 IMAGE: A white power strip attached to a wall socket. The power strip 
 has 3 sockets and a green switch. One of the sockets is attached to a 
@@ -383,6 +451,11 @@ day in front of his golden computer doing this. Again
 and again, he looked down on the city through a  
 long telescope, observing how reliably his  
 inventions carried out his commands.
+
+キラキラ光るキーを押したり、アイスクリームをたべている人びとをながめたりするのは、たいへんゆかいでした。 
+ツァンゲマンはまいにち金色のコンピューターにむかっては、こうして長い時間をすごしました。 
+大きな望遠鏡でまちを見おろし、じぶんの発明したものたちがきちんと命令にしたがって動くようすを、くりかえしながめました。
+
 [[I:ada-p11
 IMAGE: Zangeman sitting in front of his golden computer on a golden 
 armchair with a very tall red padded backrest at whose top is the “Z” of 
@@ -403,6 +476,11 @@ laundry was done.  He made vacuums that played happy music instead of
 droning loudly. He invented light bulbs that turned on and off at the 
 snap of a finger and cars that told you where the nearest grocery store 
 was.
+
+金色のコンピューターの前にすわっていないときは、新しいデバイスに小さなコンピューターをいれて売りました。 
+洗濯がおわるとケータイにメッセージを送って知らせる洗濯機、ブーンとうるさい音のかわりに楽しい曲を流す掃除機、 
+指を鳴らすとついたり消えたりする電球、最寄りのスーパーの場所を知らせてくれる車などをつくったのです。
+
 [[I:ada-p12
 IMAGE: City landscape with houses and shops, with a central street 
 turning right. On the road there are a car and a cyclist.
@@ -415,12 +493,21 @@ into it. Not all of his inventions seemed necessary at first, but people
 bought everything he made. That’s just the way it was. Everyone wanted 
 the devices made by Zangemann, the greatest inventor in the world.
 
+あっという間に、世界じゅうのほとんどの電化製品にツァンゲマンのコンピューターが組みこまれました。 
+一見してぜんぶが必要とは思われませんでしたが、ツァンゲマンの発明したものであればみんなはなんでも買いました。 
+なにしろツァンゲマンは世界一偉大な発明家ですから、発明したデバイスをだれもがほしがったのです。
+
 ** 13 **
 
 One day Zangemann thought, “Today I want to see my inventions up close.”  
 He put away his big telescope, then climbed down the many stairs of  
 his mansion and ventured out into the city, full of anticipation at  
 the thought of enjoying his cool devices.
+
+ある日、ツァンゲマンは「きょうは、わたしが発明したものたちをじっくり見てやろう」と考えました。 
+大きな望遠鏡をかたづけると豪邸のたくさんの階段をおり、まちに出ました。 
+じぶんのすてきな発明の数々をながめられたら、楽しいにちがいありません。
+
 [[I:ada-p13
 IMAGE: Zangemann descends the stairs from his mansion on the hill 
 towards the city.
@@ -440,9 +527,18 @@ first ones... ,” Zangemann pondered. “But my ice-cream machines are and
 will remain second to none,” he thought immediately afterward, and not 
 without pride, as he passed a group of people all eating coconut ice 
 cream, the flavor of the day.
+
+「まちをちょっと歩いたら、新しいアイデアもいくつか生まれるかもしれないな。 
+じつのところ、このごろは前ほど便利なものを発明できていないんだ」とツァンゲマンは考えました。 
+それでも、その日のフレーバーのココナッツアイスクリームをたべている人びとを目にすると 
+「でも、アイスクリームマシンはいつまでたっても一番だな」とすぐさま思いなおして、胸をはりました。
+
 ==== Slide 8
 He was completely absorbed in his thoughts when suddenly — BAM! — 
 something crashed into his shin.
+
+考えごとに気をとられていたツァンゲマンのすねに、とつぜんなにかがドン！とぶつかりました。
+
 [[I:ada-p14
 IMAGE: Zangemann after the incident with the child. Zangemann screams 
 from pain while holding up one of his legs with both hands at the shin.
@@ -458,12 +554,24 @@ in front of him, holding an original Zangemann skateboard under his arm.
 “Sorry, I didn’t mean to do that,” the child stammered, but Zangemann 
 wasn’t listening.
 
+ツァンゲマンはさけび声を上げて、あたりを見まわしました。 
+目の前に、ツァンゲマンのつくったスケートボードを小わきにかかえた子どもがびっくりして突っ立っていました。 
+「ごめんなさい、ぶつけるつもりじゃなかったんです」とその子は口ごもりながらあやまりましたが、 
+ツァンゲマンは耳をかしませんでした。
+
 An angry Zangemann limped away. Suddenly, he heard loud music. He had 
 never before heard something so horrible. He looked around and saw that 
 the music was coming from a loudspeaker he himself had constructed. A 
 child across the street was holding it. The child seemed to like the 
 music, but it gave Zangemann a terrible headache, and his mood worsened. 
 This was not how he had imagined his walk!
+
+ツァンゲマンはふんがいし、足をひきずって立ち去りました。とつぜん、音楽が大音量で鳴りひびきました。 
+これまできいたことがないほどひどい音でした。まわりを見まわすと、 
+音楽はツァンゲマン自身が設計したスピーカーから流れていました。通りのむこう側にいる子どもが、 
+スピーカーを手にしています。その子はその曲が気に入っているようでしたが、ツァンゲマンの頭はひどく痛くなり、 
+きげんもわるくなりました。もっと楽しい散歩になるはずだったのに！
+
 [[I:ada-p15
 IMAGE: Advertisments for Zangemann ice cream (sandwich board), a 
 Zangemann electric skateboard, and a Zangemann washing machine.
@@ -484,6 +592,13 @@ skateboards a command that they were no longer allowed to go on
 sidewalks. He ordered the small computers in the speakers to play music 
 only at a low volume, except for his favorite music, which he 
 immediately turned on to get into a better mood.
+
+ツァンゲマンはふたりの子どもにたいそう腹をたてていました。わたしが発明したものをそんな風につかうなんて！ 
+怒りで寝つけなかったツァンゲマンは、真夜中に金色のコンピューターの前にすわりました。 
+そして、スケートボードに組みこまれているすべての小さなコンピューターに命令を出し、歩道を走らないようにしました。 
+スピーカーには小さな音で音楽を流すように命令しました。ただし、ツァンゲマンのお気に入りの曲だけは、 
+大きな音できけるのです。さっそく好きな曲をきいて、ツァンゲマンはきげんをなおしました。
+
 [[I:ada-p16
 IMAGE: The city in the evening, with houses, a church, and two 
 streetlights. Images emerge from the dwellings illustrating Zangemann's 
@@ -508,6 +623,10 @@ from Zangemann.
 school, the kids’ skateboards had stopped working. The wheels simply   
 stood still. And the children could no longer turn up the volume on 
 their speakers. What was going on?
+
+つぎの日、学校は大さわぎでした。登校しようとしていた子どもたちのスケートボードが、動かなくなったのです。 
+車輪がまったく動きません。スピーカーの音量も上げられません。どうしてしまったのでしょう?
+
 [[I:ada-p18
 IMAGE: Five kids from the school who can't make skateboards work. Two 
 girls wear helmets, respectively blue and red. A little girl with brown 
@@ -530,6 +649,13 @@ that she wouldn’t have to spend her money on bus tickets to work. For
 her brother, Ada built a loudspeaker so he could fall asleep to nice 
 stories in the evenings when their mother was still at work.
 
+アーダはスケートボードもスピーカーももっていませんでしたが、どうして急に動かなくなったのかふしぎでした。 
+でも、ガラクタいじりに忙しくて、そんなことを考えているひまはありません。 
+3台のこわれた自転車の部品を組みあわせて、新しい自転車をつくっていたのです。 
+おかあさんはアーダがプレゼントした自転車に乗ってしごとにゆき、バス代をはらわずにすみました。 
+アランにはスピーカーをつくってあげて、夜におかあさんがしごとからかえっていなくても、 
+楽しいお話をききながら眠りにつけるようにしました。
+
 [[I:ada-p19
 IMAGE: Close-up of Ada thoughtful, with a backpack and with one hand on 
 her chin and the other resting on her side. 
@@ -545,6 +671,11 @@ pompous marching music continued
 to play at an unchanged volume, which  
 the children found rather puzzling.
 
+何日かたつと、アーダの学校では最初のショックがおさまりました。 
+スケートボードは歩道を走らなくなりましたが、歩道でなければ走れました。 
+子どもたちは校庭をぐるぐる走りまわり、しずかな音楽をききました。 
+おかしな勇ましいマーチだけが変わらず大きな音で鳴りひびくので、みんなふしぎに思っていました。
+
 ## 20 ##
 ==== Slide 11
 [A]da loved Wednesdays. Every Wednesday, her mother and Alan would   
@@ -556,6 +687,13 @@ her cell phone. She quickly realized that there was also much to
 discover on the internet. There, many people shared their ideas and 
 repair tips to help others.
 
+アーダは水曜日が大好きでした。毎週水曜日はおかあさんとアランが迎えにきてくれて、みんなで図書館にいきました。 
+アーダはテクノロジーのコーナーにいりびたっていました。そこには設計図や実験の進めかた、 
+さまざまなデバイスが動くしくみなどについての本がありました。 
+図書館のなかでは、アーダはじぶんのケータイをインターネットにつなげることもできました。 
+インターネットでわかることもたくさんあることに、アーダはすぐに気づきました。 
+ほかの人たちの役にたちそうなアイデアや修理のコツを教えあう人たちが、そこにはたくさんいたのです。
+
 On one of those afternoons, Ada learned two new words: hardware and 
 software.  Hardware was a word for something Ada already knew: the 
 electronic devices she tinkered with after school, or those devices she 
@@ -566,6 +704,15 @@ computers. Some books called those instructions programs or code. With
 such a computer program, one could, for example, tell a loudspeaker 
 which song to play and how loud.
 
+そんなある日、アーダは「ハードウェア」と「ソフトウェア」という2つの新しい言葉を知りました。 
+ハードウェアは、アーダが放課後にいじっていた電子機器や、 
+手にとって直したり別のものつくり変えたりできるデバイスなど、前から知っていたものでした。 
+しかし、ソフトウェアという言葉は、まったくはじめて知りました。 
+それがほかのデバイスやコンピューターを動かすためにコンピューター上で行われる命令のことだと、 
+アーダにはすぐにわかりました。それをプログラムとかコードとよぶ本もありました。 
+このようなコンピュータープログラムをつかえば、どの曲をどのくらいの音量で流すのか、 
+スピーカーに命令できるのです。
+
 The best thing about Ada’s new discovery was realizing that she could 
 tinker with software just as she could with hardware. Hardware is built 
 with tools — hammers, drills, and screws. Software is built simply by 
@@ -573,6 +720,13 @@ writing down the commands for the hardware, one after the other. There
 was a separate language for this — the programming language. With 
 software, Ada could make her inventions even more useful. She really 
 wanted to learn the programming language!
+
+一番うれしい発見は、ハードウェアと同じようにソフトウェアもいじれるとわかったことでした。 
+ハードウェアはハンマー、ドリル、ネジなどの工具をつかってつくれます。 
+ソフトウェアは、ハードウェアを動かすコマンドを次々書きこむだけでつくれます。 
+そのための特別な言葉、プログラミング言語というものもあります。 
+ソフトウェアがあれば、アーダの発明はさらに役にたつものになるでしょう。 
+プログラミング言語がわかったら！
 
 ** 21 **
 
@@ -595,20 +749,40 @@ language, or like studying vocabulary in school. Ada ate it all up. She
 expected her first program to do something simple: “Make this lamp 
 blink!”
 
+それからの数週間、アーダは学校が終わると図書館にこもりました。 
+プログラミング言語やコードについての本やウェブサイトが見つかりました。 
+秘密の言葉を学んでいるようにも思われましたし、学校でのボキャブラリーの勉強に似ているような気もしました。 
+アーダにはすべてのみこめて、まずは簡単なプログラムをつくってみることにしました。 
+「このランプを点滅させてみよう！」
+
 Of course, she wanted to try her program out right away to see if it 
 really worked. At the junkyard, she connected her cell phone to a small 
 LED lamp. Then she typed the lines of code into her cell phone.
+
+ほんとうに動くのか、もちろんすぐにためしてみたくなりました。 
+いつものガラクタ置き場で、ケータイを小さなLEDランプにつなぎました。 
+そして、ケータイにコードを打ちこみました。
 
 At first, nothing happened. Ada wondered where the error could be. She 
 made a few small changes and tried again and .... “Yeesss!” The little 
 light began to flash. On, off, on, off. Ada looked at the LED in 
 amazement. She had written her first program!
 
+最初はなにも起こりませんでした。アーダはなにがわるかったのだろうかと考えました。 
+いくつかの部分を少し変えて、もう一度やってみました。「やった――！」。 
+小さなランプは点滅しはじめました。オン、オフ、オン、オフ。アーダはびっくりしてLEDをながめました。 
+はじめてのプログラムが書けたのです！
+
 Ada was totally thrilled. She imagined all the great things she could 
 do. If she just entered the right code, she could make her inventions do 
 exactly what she wanted. It was not so easy, but after a few weeks, Ada 
 wrote a truly useful program: one that would make Alan’s speakers 
 automatically turn off half an hour after he had fallen asleep.
+
+アーダは大興奮。すてきなことがあれもこれもできそうです。 
+正しいコードを入力しさえすれば、アーダの作ったものは思いどおりに動くのです。 
+そんなに簡単ではありませんでしたが、何週間かのうちに、アーダはとても便利なプログラムを書きあげました。 
+アランが眠りにおちて30分たつと、スピーカーが自動的に切れるようにしたのです。
 
 ** 23 **
 
@@ -624,6 +798,9 @@ and a pencil; pliers; glue; solder; and a disconnected soldering iron.
 Ada also had an idea for the next program she would write. It was a 
 bigger deal, a real project. She would probably need the whole summer 
 break for it... And she could hardly wait!
+
+アーダにはつぎに書きたいプログラムのアイデアもありました。もっと大きな、ほんもののプロジェクト。 
+夏休みいっぱいかかるかもしれないけど……ああ、早くとりかかりたい！
 
 ## 24 ##
 
@@ -641,11 +818,21 @@ them. All the things that could go wrong! I put so much thought into
 everything, down to the last detail.” Zangemann pondered and pondered 
 and tossed and turned sleeplessly in his bed all night.
 
+まちに出かけてひどい目にあってから、ツァンゲマンは夜も眠れませんでした。 
+毎晩眠ろうとすると、心配ごとがおしよせてきました。 
+「ああ、わたしが発明したすばらしいものたちが！つかいかたがまずいだけじゃない。 
+どんなひどいことが起きるかわからないんだ！わたしが細かいところまでよく考えてつくったのに」。
+
 Waking up one morning with a deeply furrowed brow, he made a decision. 
 He needed to make a change. Zangemann sat down at his computer and wrote 
 one program after another. In these programs, he specified exactly what 
 his inventions were to do and were not to do under any circumstances. 
 The chaos had to stop!
+
+ある朝、ひたいに深いしわをよせて起き出したツァンゲマンは、心を決めました。 
+変えてしまわねば。そしてコンピューターの前に腰をおろすと、プログラムを次々と書きました。 
+発明したものたちがいつでもすべきこと、どんなときにもしてはならないことを、 
+プログラムではっきり決めました。あいまいなままではだめなのです！
 
 Once he was done, he sent all the new programs from his golden computer 
 to people’s devices. He ordered his speakers to play only his favorite 
@@ -654,6 +841,12 @@ machines to stop selling ice cream in the afternoon. After all, he
 didn’t want his expensive clothes to get stained by ice cream while he 
 was out for a walk. All day long he sat at the computer and typed and 
 typed and typed...
+
+すっかり変えてしまうと、ツァンゲマンは新しいプログラムを金色のコンピューターから人びとのデバイスに送りました。 
+じぶんが近くを通るときにはいつも、お気に入りの音楽だけがスピーカーから流れるようにしました。 
+アイスクリームマシンのプログラムも書き変えて、午後にアイスクリームを売らないようにしました。 
+散歩に出かけたときにじぶんの高い服がアイスクリームでよごれるのはいやだったのです。 
+ツァンゲマンは一日じゅう、コンピューターにむかってキーボードをたたきつづけました。
 
 ## 26 ##
 ==== Slide 14
@@ -666,20 +859,41 @@ and pressed the Go! button, the wheels moved, but way too fast. Ada fell
 off the skateboard every time she started. No matter what she tried, she 
 just couldn’t get it right.
 
+夏休みはもう半分すぎていました。アーダは一大プロジェクトににとりくみ、頭をなやませていました。 
+前に古い部品を組みあわせてつくってあったスケートボードに、車輪を回転させるモーターをつなぎました。 
+モーターつきのスケートボードがあれば、アーダは放課後、図書館やガラクタ置き場にとんでいけるでしょう。なんて便利！ 
+でも、うまくいきません。スケートボードに乗って「スタート」ボタンを押すと、車輪はたしかに動きましたが、 
+速く動きすぎました。スタートするたびに、アーダはスケートボードからころげおちました。 
+どうやってもうまくいきません。
+
 After falling on her bottom for the hundredth time, she went back to the 
 library.  She always found answers to her questions there. And indeed, 
 on the internet, she came across a program that someone had written for 
 an electric scooter that also needed to start slowly. Ada downloaded it 
 to her phone.
 
+100回目にしりもちをついて、アーダはまた図書館にむかいました。 
+図書館はいつでも知りたいことへの答えをくれました。 
+思ったとおり、電動スクーターをゆっくりスタートさせるためにだれかが書いたプログラムが見つかりました。 
+アーダはそのプログラムをケータイにダウンロードしました。
+
 Back at the junkyard, she adapted some lines of code for her skateboard 
 program. She tweaked a few things and kept tinkering.
+
+ガラクタ置き場にひきかえすと、スケートボードのプログラムのコードを少し変えてみました。 
+いくつか手をくわえて、改良をつづけました。
 
 Several failed attempts later, on the last day of summer break, the time 
 had finally come. Ada stood on the skateboard and pressed the Go! 
 button, and the skateboard started moving, slowly at first, then faster. 
 It worked! She tried to brake. It worked! Ada let out a cry of joy and 
 took a trip to the park.
+
+何度かの失敗のあと、夏休みの最後の日に、ついにそのときがきました。 
+アーダが乗って「スタート」ボタンを押すと、スケートボードが動きはじめました。 
+はじめはゆっくり、それから速く。やった！ 
+ブレーキもかけてみました。こちらもうまくいきました！ 
+アーダは歓声をあげて公園にむかいました。
 
 ** 27 **
 
@@ -721,6 +935,11 @@ summer break, the other children were amazed. During recess, Ada’s
 curious classmates surrounded her.
 
 “How can you ride your skateboard on the sidewalk?” they asked.
+
+夏休みがおわってアーダがスケートボードで学校にいくと、ほかの子たちは目をうたがいました。 
+休み時間になると、クラスの子どもたちがアーダをとりかこんでたずねました。 
+「どうしてそのスケートボードは歩道を走れるの？」
+
 [[I:ada-p28
 IMAGE: Ada stops on her skateboard surrounded by children. Marie is on 
 one end. She is pointing to Ada's skateboard and she's talking.
@@ -740,6 +959,10 @@ skateboards but actually the software in them. It’s probably programmed
 into the software that the skateboards aren’t allowed to go on the 
 sidewalk. But that can be changed!”
 
+少し考えてから、アーダは答えました。 
+「問題はスケートボードじゃなくて、中にあるソフトウェアなの。 
+歩道を走れないようにプログラムされてるんだと思う。でも、変えられるよ！」
+
 That evening, Ada tested out her theory on her classmate Toni’s 
 skateboard.  She worked secretly through most of the night, and the next 
 day, Toni could ride on the sidewalk again. Unfortunately, his 
@@ -748,6 +971,14 @@ from Zangemann. Instead, every 10 minutes it made a strange noise that
 sounded like a drawn-out burp.  Ada knew that little errors like that 
 could pop up in programs all the time. But Toni’s burping skateboard was 
 really quite funny.
+
+その晩、アーダはすぐに同じクラスのトニのスケートボードで試してみました。 
+夜おそくまでこっそり作業したおかげで、つぎの日トニはまた歩道を走れるようになりました。 
+ただし、トニのスケートボードは前のような音では鳴りませんでした。 
+かわりに、10分おきに間のびしたゲップのようなきみょうな音を出しました。 
+プログラムにはこんなちょっとしたエラーがつきものだと、アーダにはわかっていました。 
+それにしても、ゲップするスケートボードは、なかなか笑えますね。
+
 [[I:ada-p29
 IMAGE: Hopscotch diagram drawn with chalk on asphalt. In a row, within 
 squares, the numbers 1, 2; 3 and 4 next to each other; 5, 6; and 7 and 8 
@@ -767,11 +998,24 @@ Some of her classmates were very excited about this new discovery. It
 was unbelievable what you could do with software code! They wanted to 
 learn everything Ada knew about programming languages, and soon they 
 were riding their skateboards again, wherever they wanted to.
+
+放課後、ガラクタ置き場にいるアーダのところにやってくる子はどんどんふえ、 
+スケートボードのプログラムの書き変えを手伝ってもらいました。新しい発見にワクワクする子たちもいました。 
+ソフトウェアでこんなことができるなんて信じられない！ 
+プログラミング言語についてアーダが知っていることをすべて教えてもらった子たちは、 
+すぐにまたスケートボードでどこでも走れるようになりました。
+
 ==== Slide 17
 But that wasn’t all. With the software, they could give their 
 skateboards new, cool features. Marie attached colorful LED lights to 
 her board that glowed different colors depending on the speed. Konrad 
 built old propellers onto his skateboard for extra speed.
+
+それだけではありません。ソフトウェアのおかげで、 
+子どもたちのスケートボードはほかのすてきなこともできるようになりました。 
+マリーは走るスピードによって色が変わるLED電球をスケートボードにつけました。 
+コンラートは古いプロペラをとりつけて、もっと速く走れるようにしました。
+
 [[I:ada-p30
 IMAGE: A green battery with red and yellow wires, a power strip, glue, a 
 roll of solder, and two pencils. 
@@ -784,12 +1028,24 @@ even set up a real workshop where they could fine-tune their programs
 for hours, listening all the while to music from the speakers Ada had 
 built for Alan.
 
+アーダとトニ、マリー、コンラートは放課後の大半をガラクタ置き場ですごすようになりました。 
+ほんものの作業場を作りあげ、アーダがアランにつくってあげたスピーカーで音楽をききながら、 
+何時間もプログラムにみがきをかけました。
+
 “Your brother’s speakers are much louder than ours,” remarked Toni, who 
 was busy attaching a speedometer to his helmet.
 “I’m sure that’s also because of the software,” Marie said.
 
+じぶんのヘルメットに速度計をとりつけながら、トニがいいました。 
+「アランのスピーカーはぼくたちのより音がずっと大きいね」。 
+「それもソフトウェアのせいだと思うな」とマリー。
+
 Together, they changed the software for the speakers too. Then they 
 turned up the music as loud as possible and danced wildly together.
+
+みんなはじぶんたちのスピーカーのソフトウェアも書き変えました。 
+そして、音量を最大に上げると、めちゃくちゃにおどりまわりました。
+
 [[I:ada-p31
 IMAGE: A screwdriver with orange and gray handle, red pliers, and three 
 LEDs: yellow, green, pink. 
@@ -848,6 +1104,12 @@ well as strawberry, raspberry, and rainbow ice cream, all with sprinkles
 and hot fudge — much better than the varieties from the Zangemann 
 machines.
 
+アーダと仲間たちは、まいにちいっしょに放課後の計画を立てました。 
+こわれたアイスクリームマシンから、ありとあらゆる形や色のアイスクリームをつくることができる、 
+新しいマシンをつくりました。四角やハート、ピラミッドの形、イチゴ味やラズベリー味、 
+色とりどりのアイスクリーム……どれもチョコチップやあたたかいチョコシロップをトッピングできました。 
+ツァンゲマンのマシンから出てくるアイスクリームよりずっとおいしかったのです。
+
 Sometimes they could even help adults. Toni reprogrammed his father’s 
 ironing machine so that it could also iron ties again — Zangemann had 
 forbidden the machines to do so because he hated ties like the plague. 
@@ -856,10 +1118,24 @@ hoses and a computer so that her plants would not die of thirst during
 summer days. And they helped the school custodian modify his vacuum so 
 that it automatically recognized toys and wouldn’t suck them up.
 
+おとなたちをたすけることもありました。 
+トニはおとうさんのアイロンをプログラムしなおして、ふたたびネクタイにアイロンをかけられるようにしました。 
+ネクタイをいみきらっていたツァンゲマンが、アイロンがけできないようにしていたのです。 
+バスの運転手さんの植物が夏の暑さでかれないよう、 
+古いホースとコンピューターをつないだ自動水やりシステムをつくりました。 
+学校の用務員さんを手伝って、掃除機がおもちゃを吸いこんでしまわないよう、 
+おもちゃを自動で見わけるように改造したりもしました。
+
 Some things they built just for fun, like the fart machine they put in 
 their math teacher’s chair. Whenever Ms. Gernet sat down, the machine 
 played a little fart sound. The teacher would scold them, but Ada was 
 sure that she secretly smirked a little every time.
+
+ただおもしろいからつくったものもありました。 
+たとえば、数学のゲルネット先生のイスにはおならマシンを置きました。 
+先生が腰をおろすたびにプッと小さな音が鳴ります。 
+ゲルネット先生は子どもたちを注意しましたが、 
+先生もひそかにおかしがっていたことをアーダは知っていました。
 
 ## 36 ##
 ==== Slide 19
@@ -871,6 +1147,13 @@ they are my inventions. It’s far too dangerous if everyone can do
 whatever they want with the computers. You must make a law against 
 this!”
 
+ある日、ツァンゲマンはじぶんのつくったプログラムの指示どおりに動いていないコンピューターがあることに気づきました。 
+ショックで頭に血がのぼったツァンゲマンは大統領に電話して、ふるえる声でさけびました。 
+「わたしの発明したデバイスのプログラムを、だれかが書き変えている。 
+わたしが発明したものたちなのに、ありえない！ 
+コンピューターでだれでも好きなことをしてよいとなったら、どれほど危険なことか！ 
+ぜひ法律で禁止してもらいたい！」
+
 The president did not want to upset Zangemann. All the government’s 
 computers were programmed by Zangemann. Without the computers, the 
 government would not be able to run the country. So they passed the law 
@@ -879,6 +1162,13 @@ requested:
 
 “All computers that do not listen to Zangemann are banned. Anyone who 
 reprograms Zangemann’s devices will be fined 500,000 gold pieces!” 
+
+大統領はツァンゲマンのごきげんをそこねたくありませんでした。 
+それというのも、政府のコンピューターはすべてツァンゲマンがプログラムしたのですから。 
+コンピューターなしでは、国のしごとはまわりません。政府はツァンゲマンが望んだとおりの法律をつくりました。
+
+「ツァンゲマンのいうとおりにしないコンピューターは、これをつかってはならない。 
+ツァンゲマンのデバイスのプログラムを書き変えた者は、罰として金貨50万枚をしはらわなければならない」。
 
 ** 37 **
 
@@ -906,11 +1196,19 @@ said. “We rebuilt and reprogrammed our skateboards ourselves. They are
 much 
 better now. We won’t let anyone take that away from us!”
 
+このことをきいたアーダと仲間たちはたいへん腹をたてて、いいました。 
+「これはひどい。ぼくたちがつくりなおして、プログラムもやりなおしたスケートボードの方がずっといいのに。 
+だれにもとりあげさせるもんか！」
+
 They gathered in front of one of their rebuilt ice-cream machines and 
 discussed 
 the situation. It was clear that something had to be done about the new 
 law, and 
 they made a plan...
+
+改造したアイスクリームマシンの前に集まった子どもたちは、そのことについて話しあいました。 
+新しい法律をどうにかするために、ある計画を立てました……。
+
 [[I:ada-p38
 IMAGE: Cans of green, blue, and pink paint; a paintbrush with yellow 
 paint; a light green marker; and a rolled banner on which some blue 
@@ -930,11 +1228,25 @@ stopped and asked the children what they were demonstrating for.
 story.  Impressed, the adults nodded, and the president also looked 
 curiously at their signs as he approached the building.
 
+つぎの日、子どもたちは学校にいくかわりに、抗議の大きなプラカードをかかえてスケートボードで議事堂にむかい、 
+建物の前にすわりこみました。その前の晩にプラカードにとりつけた小さなLED電球が、ピカピカ光っていました。 
+スピーカーもつないであったので、通りにいる人たちに子どもたちの声がきこえました。 
+通りかかった人たちは立ち止まり、なんのためのデモなのかとたずねました。 
+「ソフトウェアの自由のため！」と子どもたちは声をそろえて答え、じぶんたちのしてきたことを話しました。 
+おとなたちは感心してそのとおりだと思い、議事堂にはいろうとしていた大統領も興味深そうにプラカードをながめました。
+
 On the following day, Ada and her friends again sat down in front of the 
 parliament building, this time with support. Some classmates came whose 
 skateboards Ada had reprogrammed. Toni’s father and other parents and 
 adults also wanted to support the protest. They found the children’s 
 devices very useful.
+
+またつぎの日もアーダと仲間たちはまた議事堂の前でデモをしましたが、 
+こんどは応援してくれる人たちがくわわりました。 
+アーダにスケートボードのプログラムを書き変えてもらった子どもたちがやってきました。 
+トニのおとうさんやほかの親たち、おとなたちも、抗議する子どもたちを応援しにきました。 
+子どもたちのつくったデバイスのおかげで、とてもたすかっていたからです。
+
 [[I:ada-p39
 IMAGE: Yellow and green paint on the floor and wax crayons yellow, red, 
 blue, green and brown; the latter 3 are in a gray cardboard box. 
@@ -949,6 +1261,14 @@ a few friends, and Toni’s father brought his colleagues from work, all
 wearing perfectly ironed ties. Even Ms. Gernet came. The crowd grew, and 
 after a few weeks, there were protests not just in Ada’s city but also 
 in many cities throughout the country.
+
+日を追うごとに、抗議活動に参加する子どもやおとなはふえていきました。 
+植物の水やりを手伝ってもらったバスの運転手さんもバスでやってきて、大きな音でクラクションを鳴らしたので、 
+さらに多くの人たちが集まりました。用務員さんも友だちを何人かつれてきましたし、 
+トニのおとうさんもしごと仲間をつれてきましたが、その人たちはそろって、 
+ぴしっとアイロンのかかったネクタイをしていました。ゲルネット先生まできてくれました。 
+参加者はふえつづけ、数週間後にはアーダの住んでいるまちだけでなく、全国に抗議が広がりました。
+
 [[I:ada-p40-41
 IMAGE: Group of protesters. Among them there are:
 Ada's mother holding Alan's hand and raising a pink ice cream;
@@ -1002,11 +1322,24 @@ we can and cannot do with our computers.” Her friends shouted in unison:
 “Don’t wreck our tech! Don’t wreck our tech!” and “We want the code! We 
 want the code!”
 
+雨がひどくふっていようと、アーダは毎週の議事堂前での抗議活動をやめませんでした。 
+そんな雨のある日、びしょぬれの子どもたちの前を通りかかった大統領は、 
+その意志のかたさに感心するほかありませんでした。 
+大統領はアーダに「どうしてまいにちここにすわりこんでいるの？　何を望んでいるんだい？」とたずねました。 
+アーダは答えました。「コンピューターでしてよいこと、してはいけないことをじぶんたちで決めたいんです」。 
+仲間の子どもたちも口々にいいました。「ぼくらのプログラム！　だいじなコード！（なくしちゃいやだ！）」。
+
 The president looked at the determined faces of the children. Honestly, 
 he, too, wanted to decide for himself what the government could and 
 couldn’t do with its computers. But he didn’t understand anything about 
 computers and code, so he had always left that to Zangemann. Deep in 
 thought, the president entered the building.
+
+大統領はきっぱりとした子どもたちの顔を見つめました。 
+正直なところ、大統領もコンピューターをつかって政府がなにをしてよいか、 
+よくないかをじぶんで決めたいと思っていたのです。でもコンピューターやコードについてなにも知らなかったので、 
+ツァンゲマンにすべてをまかせていたのです。大統領は考えこんで、議事堂にはいっていきました。
+
 ==== Slide 22
 [[I:ada-p42
 IMAGE: One of Ada's friends lying on his stomach with one foot up in the 
@@ -1021,6 +1354,13 @@ what you know about computer programs?” he asked them. Enthusiastically,
 they explained to him how software works and what you could do with it. 
 The president was amazed.
 
+つぎの日、大統領はアーダと仲間の子どもたちを招待しました。 
+「わたしたちもソフトウェアのことをじぶんたちでしたいんだ。そのためには、 
+政府がツァンゲマンにたよっていてはいけない。コンピューターのプログラムについて、 
+知っていることを教えてもらっていいかな？」と大統領はたずねました。 
+子どもたちはソフトウェアのしくみや、それをつかうとなにができるのかを、 
+いっしょうけんめい話しました。大統領はびっくりしました。
+
 ** 43 **
 
 With this new knowledge, the government would be able to design its own 
@@ -1028,8 +1368,17 @@ software, the way it wanted — completely without Zangemann. Immediately,
 the president called his advisers. In a large group, they discussed with 
 the children everything they could change and improve in the software.
 
+知らなかったこのことがわかるようになれば、ツァンゲマンにまったくたよらなくても、 
+政府は思いどおりにソフトウェアを設計できるようになるだろう。 
+大統領はすぐさまアドバイザーたちに電話しました。たくさんのおとなたちが、 
+ソフトウェアを変えたりよくしたりできるあらゆることについて、子どもたちと話しあいました。
+
 That evening, the children went home proud and satisfied. Something 
 finally happened! Their long protest was worth it.
+
+その晩、子どもたちはほこらしく満ち足りた気分で家路につきました。ついになにごとかが起こりました！ 
+長い間つづけた抗議が実をむすんだのです。
+
 [[I:ada-p43
 IMAGE: Ada and her friends in the President's office.
 Ada is reprogramming the President's computer.
@@ -1050,6 +1399,12 @@ the call short and quickly hung up. The phone rang many more times that
 day, but Zangemann’s calls went unanswered. The president sat in a 
 meeting with Ada, Toni, Marie, Konrad, and the government experts.
 
+つぎの朝、とても早い時間に、大統領の電話が鳴りました。ツァンゲマンからでした。 
+怒りくるったツァンゲマンは、大統領をおどしにかかりました。 
+「わたしが見はなせば、政府のコンピューターは動かなくなるぞ」。しかし、大統領は話を切り上げて、 
+すぐに電話を切りました。そのあともツァンゲマンは電話をかけつづけましたが、だれも出ませんでした。 
+大統領はアーダ、トニ、マリー、コンラート、そして政府の専門家たちとの会議でいそがしかったのです
+
 [[I:ada-p44
 IMAGE: A herald, wearing a hat with a plume, playing a trumpet on which 
 a red banner is hung. 
@@ -1062,11 +1417,21 @@ only heard an automated recording: “The
 government only wants to use software  
 that it can freely use, study, share, and  
 improve. Thank you for calling.”
+
+その後の数日間、みんなは朝から晩まで話しあい、政府のコンピューター用の最初のプログラムをつくりあげました。 
+ツァンゲマンの電話にじゃまされることもなくなりました。トニのアイデアで、電話のプログラムを変えたのです。 
+ツァンゲマンが電話をかけると、こんなメッセージが流れるようになりました。 
+「お電話ありがとうございます。政府は、自由につかえて、学べて、共有できて、 
+改善できるソフトウェアのみを使用いたします」。
+
 ==== Slide 23
 Then, after many weeks of protests and  
 discussions, the time had finally come:  
 they abolished the old Zangemann law!  
 Instead, the government announced:
+
+長い長い抗議と話しあいを経て、ついにそのときがきました。 
+政府は「ツァンゲマン法」を廃止し、つぎのように発表しました。
 
 ** 45 **
 
@@ -1075,6 +1440,10 @@ adhere to the other laws.”
 
 In addition, a new school subject was introduced: computer hardware and 
 software.
+
+「ほかの法令に違反しないかぎり、じぶんのコンピューターをじぶんでプログラムすることができる」。 
+そして、学校では「コンピューターのハードウェアとソフトウェア」という新しい科目が教えられることになりました。
+
 [[I:ada-p45
 IMAGE: The President with Toni, Konrad, Marie, Ada, and a herald playing 
 a trumpet.
@@ -1092,6 +1461,11 @@ Marie, Konrad, and other children from school and their parents; the
 president; Ms. Gernet; the bus driver; the custodian — they were all 
 there. They decorated the streets, listened to loud music, and ate ice 
 cream, as much as they wanted, and in every imaginable shape and color.
+
+その晩、おいわいのパーティーが盛大にひらかれました。アーダ、アラン、トニ、マリー、コンラート、 
+そのほかの子どもたちとその親たち、大統領、ゲルネット先生、バスの運転手さん、用務員さんなどがみな集まりました。 
+人びとは通りをかざり、大きな音で音楽を流し、あらゆる形と色のアイスクリームを好きなだけたべました。
+
 [[I:ada-p46
 IMAGE: Evening party.
 Children are holding ice cream and balloons with the words “I love FS (I 
@@ -1108,6 +1482,10 @@ Ada's mom is dancing with a gentleman.
 While the others continued partying late into the night, Ada and her 
 friends slipped away to their workshop. They already had a lot of ideas 
 for new inventions. And they wanted to start right away.
+
+ほかの人たちが夜おそくまでパーティーを楽しんでいるあいだに、アーダと仲間たちはこっそりぬけだして作業場へむかいました。 
+もう頭の中に新しい発明のアイデアがたくさんあって、すぐにとりかかりたかったのです。
+
 [[I:ada-p47
 IMAGE: The President, the secretary, and other people around a table 
 enjoying crazy ice cream;
@@ -1128,6 +1506,16 @@ the world through his telescope and sees what the children are inventing
 every day. Perhaps then he will remember how much fun it was for himself 
 to tinker and experiment. And maybe, just maybe, he eats pyramid-shaped 
 raspberry ice cream with rainbow sprinkles.
+
+さて、ツァンゲマンはどうなったのでしょう？ 
+それを知る人はほとんどいません。もしかしたら、腹だたし気に金のコンピューターの前にすわりつづけているのかもしれません。 
+あるいは、通りに出ることもやめ、じぶんの発明品を人びとがどうつかっているか気にしなくてすむように、 
+豪邸の窓という窓を板でふさいでしまったのかもしれません。でも、ときには望遠鏡で外の世界をのぞいて、 
+子どもたちが日々発明しているものをながめているのかもしれません。そんなときには、じぶんも小さかったとき、 
+いろいろなものをいじったり実験したりすることがどんなに楽しかったかを思い出すことでしょう。 
+そして、もしかしたら、もしかしてもしかしたらですが、 
+ピラミッドの形をしたラズベリー・アイスクリームに色とりどりのチップをトッピングしてたべているのかもしれません。
+
 [[I:ada-p48
 IMAGE: Ada's little dog sniffing a trail of ice cream. 
 ]]
