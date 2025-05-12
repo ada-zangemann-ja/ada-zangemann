@@ -1191,7 +1191,7 @@
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="79.9733858267715" YPOS="1109.41606299213" OwnPage="1" ItemID="1722567659" PTYPE="6" WIDTH="615.302834645669" HEIGHT="156.083937007875" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="GrayEC" PLINEART="1" path="M0 0 L615.303 0 L615.303 156.084 L0 156.084 L0 0 Z" copath="M0 0 L615.303 0 L615.303 156.084 L0 156.084 L0 0 Z" gXpos="79.9733858267715" gYpos="1109.41606299213" gWidth="0" gHeight="0" LAYER="0">
             <PageItemAttributes>
-                <ItemAttribute Name="condition" Type="string" Value="colophon-simple" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+                <ItemAttribute Name="condition" Type="string" Value="colophon-halfpage" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
             </PageItemAttributes>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="171.873385826772" YPOS="1127.06929133859" OwnPage="1" ItemID="1722570379" PTYPE="4" WIDTH="433.2" HEIGHT="121.03464566929" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L433.2 0 L433.2 121.035 L0 121.035 L0 0 Z" copath="M0 0 L433.2 0 L433.2 121.035 L0 121.035 L0 0 Z" gXpos="171.873385826772" gYpos="1127.06929133859" gWidth="0" gHeight="0" PSTYLE="CreditsPar" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
@@ -1202,7 +1202,7 @@
             </StoryText>
             <PageItemAttributes>
                 <ItemAttribute Name="docbook-id" Type="string" Value="sec-p02bb" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
-                <ItemAttribute Name="condition" Type="string" Value="colophon-simple" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+                <ItemAttribute Name="condition" Type="string" Value="colophon-halfpage" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
             </PageItemAttributes>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="170.866771653543" YPOS="15948.6548031496" OwnPage="49" ItemID="1722663355" PTYPE="4" WIDTH="439.370078740158" HEIGHT="85.0393700787402" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="2" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L439.37 0 L439.37 85.0394 L0 85.0394 L0 0 Z" copath="M0 0 L439.37 0 L439.37 85.0394 L0 85.0394 L0 0 Z" gXpos="170.866771653543" gYpos="15948.6548031496" gWidth="0" gHeight="0" PSTYLE="Acknowledgments" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
