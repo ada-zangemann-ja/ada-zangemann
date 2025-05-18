@@ -47,8 +47,8 @@ A brief overview of the Docbook elements and custom attributes used in the sourc
   </info>
   <preface role="half-title-page"/>
   <colophon>
-    <literallayout condition="colophon-simple"/>
-    <literallayout condition="colophon-print"/>
+    <literallayout condition="colophon-halfpage"/>
+    <literallayout condition="colophon-fullpage"/>
   </colophon>
   <chapter xml:id="ch1">
     <info>
