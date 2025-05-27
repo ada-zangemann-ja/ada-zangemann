@@ -132,6 +132,11 @@ $(targets-pandoc-md): build/Ada_Zangemann-pandoc.%.md: build/Ada_Zangemann-pure-
 .PHONY: build/Ada_Zangemann-pandoc.all.md
 build/Ada_Zangemann-pandoc.all.md: $(targets-pandoc-md)
 
+# Pandoc odt
+targets-pandoc-odt = $(addprefix build/Ada_Zangemann-pandoc.,$(addsuffix .odt,$(translations)))
+$(targets-pandoc-odt): build/Ada_Zangemann-pandoc.%.odt: build/Ada_Zangemann-pure-profiled-text.%.dbk build/images/illustrations/all
+	pandoc -f docbook -o $@ $<
+
 # Build version with all images (for debugging)
 build/Ada_Zangemann-print-all.%.sla: build/Ada_Zangemann.%.dbk build/images/illustrations/all build/images/capitals xsl/scribus.xsl
 	xsltproc -o $@ --verbose --stringparam docbook-contents-file ../$< --stringparam profile.condition "colophon-simple" xsl/scribus.xsl templates/template-print.sla > $@.log 2>&1
