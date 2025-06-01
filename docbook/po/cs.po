@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-05-06 19:03+0200\n"
-"PO-Revision-Date: 2025-06-01 09:01+0000\n"
+"PO-Revision-Date: 2025-06-02 20:01+0000\n"
 "Last-Translator: Jiří Podhorecký <j.podhorecky@volny.cz>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/fsfe/ada-zangemann/"
 "cs/>\n"
@@ -72,7 +72,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:282
 msgid "Ada"
-msgstr ""
+msgstr "Ada"
 
 #. (itstool) path: character/charactername
 #. Name must not be changed.
@@ -88,7 +88,7 @@ msgstr "Zangemann"
 #. ignore-same
 #: Ada_Zangemann.dbk:288
 msgid "Alan"
-msgstr ""
+msgstr "Alan"
 
 #. (itstool) path: character/charactername
 #. Character names are mostly reference to existing people in computer
@@ -103,7 +103,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:291
 msgid "Toni"
-msgstr ""
+msgstr "Toni"
 
 #. (itstool) path: character/charactername
 #. Character names are mostly reference to existing people in computer
@@ -118,7 +118,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:294
 msgid "Konrad"
-msgstr ""
+msgstr "Konrad"
 
 #. (itstool) path: character/charactername
 #. Character names are mostly reference to existing people in computer
@@ -133,7 +133,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:297
 msgid "Marie"
-msgstr ""
+msgstr "Marie"
 
 #. (itstool) path: character/charactername
 #. Character names are mostly reference to existing people in computer
@@ -182,6 +182,21 @@ msgid ""
 "shorts. Above the shirt Ada wears a blue hoodie. Ada is wearing red shoes with white tips and soles, and short white socks. She has one foot on a skateboard and the other on the ground. Zangemann has short gray hair and square glasses. He is wearing a purple turtle-neck sweater, light blue pants turned up, brown shoes, and white socks. He’s wearing a big tech watch. Above "
 "Zangemann there are a pair of pliers with red handles crossing the wire frame."
 msgstr ""
+"Ada & Zangemann – Příběh o softwaru, skateboardech a malinové zmrzlině. "
+"Matthias Kirschner a Sandra Brandstätter. Na převážně nevýrazném tmavě "
+"tyrkysovém pozadí, v rámečku složeném z někdy zvlněných bílých čar, které "
+"spojují myš, klávesnici a růžový smartphone, stojí Ada a Zangemann proti "
+"sobě, oba s rukama v bok jako na znamení výzvy. Ada se usmívá a Zangemann se "
+"mračí. Ada má černé vlasy svázané do dvou velkých kadeří na pravé a levé "
+"straně červenými gumičkami a červené tváře. Má malé žluté náušnice. Nosí "
+"tyrkysové a bílé šortky s vodorovnými pruhy a žlutou košili přes bílé "
+"tričko, které končí výšivkou přesahující košili. Košile a tričko vyčnívají "
+"nad šortky. Nad košilí má Ada modrou mikinu s kapucí. Ada má červené boty s "
+"bílými špičkami a podrážkami a krátké bílé ponožky. Jednu nohu má na "
+"skateboardu a druhou na zemi. Zangemann má krátké šedé vlasy a hranaté "
+"brýle. Má na sobě fialový rolák, světle modré kalhoty s ohrnutými "
+"nohavicemi, hnědé boty a bílé ponožky. Nosí velké technologické hodinky. Nad "
+"Zangemannem jsou kleště s červenými rukojeťmi, které kříží čáru rámečku."
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -200,6 +215,8 @@ msgstr "images/illustrations/ada-z04.ltr.png"
 #: Ada_Zangemann.dbk:329
 msgid "A soldering iron and a brush and can with yellow paint, connected by white electrical cord that forms a frame."
 msgstr ""
+"Páječka, štětec a plechovka se žlutou barvou, spojené bílým elektrickým "
+"kabelem, který tvoří rámeček."
 
 #. (itstool) path: simplesect/para@dropcapfileref
 #. (itstool) comment: simplesect/para@dropcapfileref
