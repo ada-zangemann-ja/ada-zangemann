@@ -5,16 +5,18 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-05-06 19:03+0200\n"
-"PO-Revision-Date: 2025-05-06 19:18+0200\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Czech <https://hosted.weblate.org/projects/fsfe/ada-zangemann/cs/>\n"
+"PO-Revision-Date: 2025-06-02 20:01+0000\n"
+"Last-Translator: Jiří Podhorecký <j.podhorecky@volny.cz>\n"
+"Language-Team: Czech <https://hosted.weblate.org/projects/fsfe/ada-zangemann/"
+"cs/>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Poedit 3.2.2\n"
+"Plural-Forms: nplurals=3; plural=((n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2);\n"
+"X-Generator: Weblate 5.12-dev\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
@@ -40,25 +42,29 @@ msgstr "Příběh o softwaru, skateboardech a malinové zmrzlině"
 #. ISBN of print edition
 #: Ada_Zangemann.dbk:264
 msgid "978-1-7185-0318-2"
-msgstr ""
+msgstr "978-1-7185-0318-2"
 
 #. (itstool) path: info/biblioid
 #. ISBN of ebook edition
 #: Ada_Zangemann.dbk:265
 msgid "978-1-7185-0319-9"
-msgstr ""
+msgstr "978-1-7185-0319-9"
 
 #. (itstool) path: info/author
 #. ignore-same
 #: Ada_Zangemann.dbk:267
 msgid "<personname> <firstname>Matthias</firstname> <surname>Kirschner</surname> </personname>"
 msgstr ""
+"<personname> <firstname>Matthias</firstname> <surname>Kirschner</surname> "
+"</personname>"
 
 #. (itstool) path: info/othercredit
 #. ignore-same
 #: Ada_Zangemann.dbk:273
 msgid "<personname> <firstname>Sandra</firstname> <surname>Brandstätter</surname> </personname>"
 msgstr ""
+"<personname> <firstname>Sandra</firstname> <surname>Brandstätter</surname> "
+"</personname>"
 
 #. (itstool) path: character/charactername
 #. Name must not be changed.
@@ -66,7 +72,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:282
 msgid "Ada"
-msgstr ""
+msgstr "Ada"
 
 #. (itstool) path: character/charactername
 #. Name must not be changed.
@@ -82,7 +88,7 @@ msgstr "Zangemann"
 #. ignore-same
 #: Ada_Zangemann.dbk:288
 msgid "Alan"
-msgstr ""
+msgstr "Alan"
 
 #. (itstool) path: character/charactername
 #. Character names are mostly reference to existing people in computer
@@ -97,7 +103,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:291
 msgid "Toni"
-msgstr ""
+msgstr "Toni"
 
 #. (itstool) path: character/charactername
 #. Character names are mostly reference to existing people in computer
@@ -112,7 +118,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:294
 msgid "Konrad"
-msgstr ""
+msgstr "Konrad"
 
 #. (itstool) path: character/charactername
 #. Character names are mostly reference to existing people in computer
@@ -127,7 +133,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:297
 msgid "Marie"
-msgstr ""
+msgstr "Marie"
 
 #. (itstool) path: character/charactername
 #. Character names are mostly reference to existing people in computer
@@ -176,6 +182,21 @@ msgid ""
 "shorts. Above the shirt Ada wears a blue hoodie. Ada is wearing red shoes with white tips and soles, and short white socks. She has one foot on a skateboard and the other on the ground. Zangemann has short gray hair and square glasses. He is wearing a purple turtle-neck sweater, light blue pants turned up, brown shoes, and white socks. He’s wearing a big tech watch. Above "
 "Zangemann there are a pair of pliers with red handles crossing the wire frame."
 msgstr ""
+"Ada & Zangemann – Příběh o softwaru, skateboardech a malinové zmrzlině. "
+"Matthias Kirschner a Sandra Brandstätter. Na převážně nevýrazném tmavě "
+"tyrkysovém pozadí, v rámečku složeném z někdy zvlněných bílých čar, které "
+"spojují myš, klávesnici a růžový smartphone, stojí Ada a Zangemann proti "
+"sobě, oba s rukama v bok jako na znamení výzvy. Ada se usmívá a Zangemann se "
+"mračí. Ada má černé vlasy svázané do dvou velkých kadeří na pravé a levé "
+"straně červenými gumičkami a červené tváře. Má malé žluté náušnice. Nosí "
+"tyrkysové a bílé šortky s vodorovnými pruhy a žlutou košili přes bílé "
+"tričko, které končí výšivkou přesahující košili. Košile a tričko vyčnívají "
+"nad šortky. Nad košilí má Ada modrou mikinu s kapucí. Ada má červené boty s "
+"bílými špičkami a podrážkami a krátké bílé ponožky. Jednu nohu má na "
+"skateboardu a druhou na zemi. Zangemann má krátké šedé vlasy a hranaté "
+"brýle. Má na sobě fialový rolák, světle modré kalhoty s ohrnutými "
+"nohavicemi, hnědé boty a bílé ponožky. Nosí velké technologické hodinky. Nad "
+"Zangemannem jsou kleště s červenými rukojeťmi, které kříží čáru rámečku."
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -194,6 +215,8 @@ msgstr "images/illustrations/ada-z04.ltr.png"
 #: Ada_Zangemann.dbk:329
 msgid "A soldering iron and a brush and can with yellow paint, connected by white electrical cord that forms a frame."
 msgstr ""
+"Páječka, štětec a plechovka se žlutou barvou, spojené bílým elektrickým "
+"kabelem, který tvoří rámeček."
 
 #. (itstool) path: simplesect/para@dropcapfileref
 #. (itstool) comment: simplesect/para@dropcapfileref
@@ -206,13 +229,18 @@ msgstr ""
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-back-1
 #: Ada_Zangemann.dbk:332
-#, fuzzy
 msgid ""
 "<phrase condition=\"capitals-text\">The</phrase><phrase condition=\"capitals-img\">he</phrase> inventor Zangemann is world-famous and immensely rich. Adults and children alike love his fabulous technical inventions. But one day there is a problem: the children’s electronic skateboards no longer work properly. What’s going on? The curious girl Ada sees through what is going on. "
 "Together with her friends, she experiments with hardware and software, and the children forge a plan: Zangemann can no longer be the only one in control of the devices!"
 msgstr ""
-"<phrase condition=\"capitals-text\">Vynálezce</phrase><phrase condition=\"capitals-img\">ynálezce</phrase> Zangemann je světoznámý a nesmírně bohatý. Dospělí i děti mají moc rádi jeho báječné technické vynálezy. Ale jednoho dne se objeví problém: elektronické skateboardy dětí už nefungují správně. Co se stalo? Zvídavá dívka Ada celou záhadu prokoukne. Společně se svými přáteli "
-"experimentuje s hardwarem a softwarem a děti vytvoří plán: Zangemann už nemůže být ten jediný, kdo má kontrolou nad jejich přístroji!"
+"<phrase condition=\"capitals-text\">Vynálezce</phrase><phrase condition"
+"=\"capitals-img\">ynálezce</phrase> Zangemann je světoznámý a nesmírně "
+"bohatý. Dospělí i děti mají moc rádi jeho báječné technické vynálezy. Ale "
+"jednoho dne se objeví problém: elektronické skateboardy dětí už nefungují "
+"správně. Co se stalo? Zvídavá dívka Ada celou záhadu prokoukne. Společně se "
+"svými přáteli experimentuje s hardwarem a softwarem a děti si už nemůže "
+"vytvořit plán: Zangemann už nemůže být ten jediný, kdo má kontrolu nad "
+"jejich přístroji!"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:333
@@ -1468,9 +1496,12 @@ msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:840
-#, fuzzy
 msgid "Some things they built just for fun, like the fart machine they put in their math teacher’s chair. Whenever Ms. Gernet sat down, the machine played a little fart sound. The teacher would scold them, but Ada was sure that she secretly smirked a little every time."
-msgstr "Některé věci vyrobili pro zábavu, jako prdítko, které dali učitelce matematiky na židli. Kdykoli se paní Gernetová posadila, prdítko zahrálo zvuk prdu. Učitelka je sice vyhubovala, ale Ada si byla jistá, že se tomu pokaždé tajně trochu zasmála."
+msgstr ""
+"Některé věci vyrobili pro zábavu, jako prdítko, které dali učitelce "
+"matematiky na židli. Kdykoli se paní Gernetová posadila, prdítko zahrálo "
+"zvuk prdu. Učitelka je sice vyhubovala, ale Ada si byla jistá, že se tomu "
+"pokaždé tajně trochu zasmála."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:845
@@ -1503,7 +1534,9 @@ msgstr "Prezident nechtěl naštvat Zangemanna. Všechny počítače jeho vlády
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:851
 msgid "“All computers that do not listen to Zangemann are banned. Anyone who reprograms Zangemann’s devices will be fined 500,000 gold pieces!”"
-msgstr "„Všechny počítače, které neposlouchají Zangemanna, jsou zakázané. Kdokoli přeprogramuje Zangemannův přístroj, dostane pokutu 500 000 zlaťáků."
+msgstr ""
+"„Všechny počítače, které neposlouchají Zangemanna, jsou zakázány. Každý, kdo "
+"přeprogramuje Zangemannova zařízení, bude potrestán pokutou 500 000 zlaťáků!“"
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -1602,13 +1635,17 @@ msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:890
-#, fuzzy
 msgid ""
 "With each passing day, more and more children and adults joined the protest. The bus driver they had helped drove up in her bus. She honked loudly to attract even more people to the protest. The custodian brought a few friends, and Toni’s father brought his colleagues from work, all wearing perfectly ironed ties. Even Ms. Gernet came. The crowd grew, and after a few weeks, there "
 "were protests not just in Ada’s city but also in many cities throughout the country."
 msgstr ""
-"Každý další den se k protestu připojovalo více a více dětí a dospělých. Řidička autobusu je přivezla svým autobusem. Nahlas při tom troubila, aby přilákala ještě více lidí k protestu. Školník přivedl několik přátel a Toniho tatínek zase z práce několik kolegů, kteří měli všichni skvěle vyžehlené kravaty. Dokonce přišla i paní učitelka Gernetová. Dav se zvětšoval a po několika "
-"týdnech se protestovalo nejen ve městě, kde bydlela Ada, ale také v mnoha dalších městech po celé zemi."
+"Každý další den se k protestu připojovalo více a více dětí a dospělých. "
+"Řidička autobusu je přivezla svým autobusem. Nahlas při tom troubila, aby "
+"přilákala ještě více lidí k protestu. Školník přivedl několik přátel a "
+"Toniho tatínek zase z práce několik kolegů, kteří měli všichni skvěle "
+"vyžehlené kravaty. Dokonce přišla i paní učitelka Gernetová. Dav se "
+"zvětšoval a po několika týdnech se protestovalo nejen ve městě, kde bydlela "
+"Ada, ale také v mnoha dalších městech po celé zemi."
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -1853,9 +1890,13 @@ msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:975
-#, fuzzy
 msgid "That evening, everyone celebrated with a big party. Ada, Alan, Toni, Marie, Konrad, and other children from school and their parents; the president; Ms. Gernet; the bus driver; the custodian — they were all there. They decorated the streets, listened to loud music, and ate ice cream, as much as they wanted, and in every imaginable shape and color."
-msgstr "Ten večer uspořádali vekou párty a všichni slavili. Ada, Alan, Toni, Marie, Konrád a všechny ostatní děti ze školy i jejich rodiče, prezident, paní učitelka Gernetová, paní řidička autobusu, školník — ti všichni tam byli. Ozdobili ulice, poslouchali hlasitou hudbu a jedli tolik zmrzliny, kolik jen chtěli a v jakémkoli možném tvaru a chuti."
+msgstr ""
+"Ten večer uspořádali vekou párty a všichni slavili. Ada, Alan, Toni, Marie, "
+"Konrád a všechny ostatní děti ze školy i jejich rodiče, prezident, paní "
+"učitelka Gernetová, paní řidička autobusu, školník — ti všichni tam byli. "
+"Ozdobili ulice, poslouchali hlasitou hudbu a jedli tolik zmrzliny, kolik jen "
+"chtěli a v jakémkoli možném tvaru a chuti."
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -2122,7 +2163,6 @@ msgstr "Sandra vždy ráda vyráběla věci s nůžkami, kleštěmi, lepidlem, d
 #. (itstool) path: info/title
 #. (itstool) id: Ada_Zangemann.dbk#title-bookswebsite
 #: Ada_Zangemann.dbk:1092
-#, fuzzy
 msgid "Book’s website"
 msgstr "Webová stránka knihy"
 
