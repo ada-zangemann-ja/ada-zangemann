@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-05-06 19:03+0200\n"
-"PO-Revision-Date: 2025-06-02 20:01+0000\n"
+"PO-Revision-Date: 2025-06-08 10:01+0000\n"
 "Last-Translator: Jiří Podhorecký <j.podhorecky@volny.cz>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/fsfe/ada-zangemann/"
 "cs/>\n"
@@ -270,7 +270,7 @@ msgstr "images/illustrations/ada-a01-spine.ltr.btt.png"
 #. know as 'bastard title'.
 #: Ada_Zangemann.dbk:355
 msgid "Half-title page"
-msgstr ""
+msgstr "Polovina titulní strany"
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
