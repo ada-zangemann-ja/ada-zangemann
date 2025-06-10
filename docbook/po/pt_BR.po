@@ -1,21 +1,23 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-05-06 19:03+0200\n"
-"PO-Revision-Date: 2025-05-06 19:54+0200\n"
+"PO-Revision-Date: 2025-06-11 10:01+0000\n"
 "Last-Translator: William Weber Berrutti <wwberrutti@protonmail.ch>\n"
-"Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/fsfe/ada-zangemann/pt_BR/>\n"
+"Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/fsfe/"
+"ada-zangemann/pt_BR/>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Poedit 3.2.2\n"
+"X-Generator: Weblate 5.12-dev\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
 msgid "translator-credits"
-msgstr ""
+msgstr "translator-credits"
 
 #. (itstool) path: info/title
 #. (itstool) path: cover/bridgehead
@@ -30,31 +32,35 @@ msgstr "Ada &amp; Zangemann"
 #. (itstool) path: cover/bridgehead
 #: Ada_Zangemann.dbk:263 Ada_Zangemann.dbk:307
 msgid "A Tale of Software, Skateboards, and Raspberry Ice Cream"
-msgstr ""
+msgstr "Uma história de software, skates e sorvete de framboesa"
 
 #. (itstool) path: info/biblioid
 #. ISBN of print edition
 #: Ada_Zangemann.dbk:264
 msgid "978-1-7185-0318-2"
-msgstr ""
+msgstr "978-1-7185-0318-2"
 
 #. (itstool) path: info/biblioid
 #. ISBN of ebook edition
 #: Ada_Zangemann.dbk:265
 msgid "978-1-7185-0319-9"
-msgstr ""
+msgstr "978-1-7185-0319-9"
 
 #. (itstool) path: info/author
 #. ignore-same
 #: Ada_Zangemann.dbk:267
 msgid "<personname> <firstname>Matthias</firstname> <surname>Kirschner</surname> </personname>"
 msgstr ""
+"<personname> <firstname>Matthias</firstname> <surname>Kirschner</surname> "
+"</personname>"
 
 #. (itstool) path: info/othercredit
 #. ignore-same
 #: Ada_Zangemann.dbk:273
 msgid "<personname> <firstname>Sandra</firstname> <surname>Brandstätter</surname> </personname>"
 msgstr ""
+"<personname> <firstname>Sandra</firstname> <surname>Brandstätter</surname> "
+"</personname>"
 
 #. (itstool) path: character/charactername
 #. Name must not be changed.
@@ -62,7 +68,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:282
 msgid "Ada"
-msgstr ""
+msgstr "Ada"
 
 #. (itstool) path: character/charactername
 #. Name must not be changed.
@@ -70,7 +76,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:285
 msgid "Zangemann"
-msgstr ""
+msgstr "Zangemann"
 
 #. (itstool) path: character/charactername
 #. Name must not be changed.
@@ -78,7 +84,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:288
 msgid "Alan"
-msgstr ""
+msgstr "Alan"
 
 #. (itstool) path: character/charactername
 #. Character names are mostly reference to existing people in computer
@@ -93,7 +99,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:291
 msgid "Toni"
-msgstr ""
+msgstr "Toni"
 
 #. (itstool) path: character/charactername
 #. Character names are mostly reference to existing people in computer
@@ -108,7 +114,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:294
 msgid "Konrad"
-msgstr ""
+msgstr "Konrad"
 
 #. (itstool) path: character/charactername
 #. Character names are mostly reference to existing people in computer
@@ -123,7 +129,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:297
 msgid "Marie"
-msgstr ""
+msgstr "Marie"
 
 #. (itstool) path: character/charactername
 #. Character names are mostly reference to existing people in computer
@@ -138,7 +144,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:300
 msgid "Ms. Gernet"
-msgstr ""
+msgstr "Ms. Gernet"
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -206,11 +212,20 @@ msgid ""
 "<phrase condition=\"capitals-text\">The</phrase><phrase condition=\"capitals-img\">he</phrase> inventor Zangemann is world-famous and immensely rich. Adults and children alike love his fabulous technical inventions. But one day there is a problem: the children’s electronic skateboards no longer work properly. What’s going on? The curious girl Ada sees through what is going on. "
 "Together with her friends, she experiments with hardware and software, and the children forge a plan: Zangemann can no longer be the only one in control of the devices!"
 msgstr ""
+"<phrase condition=\"capitals-text\">O</phrase><phrase condition=\"capitals-"
+"img\">ele</phrase> O inventor Zangemann é mundialmente famoso e imensamente "
+"rico. Adultos e crianças adoram suas fabulosas invenções técnicas. Mas um "
+"dia há um problema: os skates eletrônicos das crianças já não funcionam "
+"corretamente. O que está acontecendo? A menina curiosa Ada vê o que está "
+"acontecendo. Juntamente com seus amigos, ela experimenta com hardware e "
+"software, e as crianças forjam um plano: Zangemann não pode mais ser o único "
+"no controle dos dispositivos!"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:333
 msgid "A book that arouses interest in tinkering and encourages shaping technology."
 msgstr ""
+"Um livro que desperta interesse em mexer e incentiva moldar a tecnologia."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -235,7 +250,7 @@ msgstr "images/illustrations/ada-a01-spine.ltr.btt.png"
 #. know as 'bastard title'.
 #: Ada_Zangemann.dbk:355
 msgid "Half-title page"
-msgstr ""
+msgstr "Página de meio título"
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -257,13 +272,13 @@ msgstr "images/illustrations/ada-p01-titleonly.ltr.png"
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:362 Ada_Zangemann.dbk:488
 msgid "ADA &amp; ZANGEMANN"
-msgstr ""
+msgstr "ADA &amp; ZANGEMANN"
 
 #. (itstool) path: info/title
 #. Also known as 'imprint'
 #: Ada_Zangemann.dbk:368
 msgid "Colophon"
-msgstr ""
+msgstr "Colofão"
 
 #. (itstool) path: simplesect/literallayout
 #. Simple colophon for non-print use. Please reuse the license text
@@ -374,7 +389,7 @@ msgstr ""
 #. illustration of Ada’s dog.
 #: Ada_Zangemann.dbk:452
 msgid "Title page"
-msgstr ""
+msgstr "Página de título"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -458,6 +473,8 @@ msgid ""
 "Matthias Kirschner\n"
 "Sandra Brandstätter"
 msgstr ""
+"Matthias Kirschner\n"
+"Sandra Brandstätter"
 
 #. (itstool) path: simplesect/literallayout
 #. (itstool) id: Ada_Zangemann.dbk#subtitle-titlepage
@@ -469,6 +486,9 @@ msgid ""
 "Software, Skateboards, and\n"
 "Raspberry Ice Cream"
 msgstr ""
+"Uma\n"
+"história de software, skates e\n"
+"sorvete de framboesa"
 
 #. (itstool) path: simplesect/para@dropcapfileref
 #. (itstool) comment: simplesect/para@dropcapfileref
@@ -533,11 +553,18 @@ msgid ""
 "Far away, at the other end of town, lived a famous inventor named Zangemann. He was immensely rich. No sheet of paper in the world was big enough to show his bank balance with all its numbers and zeros! He lived in a huge house with a swimming pool and waterslide, lots of staircases and towers, hundreds of windows, and so many rooms that he often got lost in them himself. "
 "Zangemann’s mansion stood high on a hill. From there, he could look out over the whole city."
 msgstr ""
+"Longe, no outro extremo da cidade, viveu um famoso inventor chamado "
+"Zangemann. Ele era imensamente rico. Nenhuma folha de papel no mundo era "
+"suficientemente grande para mostrar o seu saldo bancário com todos os seus "
+"números e zeros! Ele vivia em uma casa enorme com uma piscina e escorrega "
+"d'água, muitas escadas e torres, centenas de janelas, e tantos quartos que "
+"muitas vezes se perdeu neles. A mansão de Zangemann ficava no alto de uma "
+"colina. De lá, ele podia olhar por toda a cidade."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:523
 msgid "Zangemann and computers"
-msgstr ""
+msgstr "Zangemann e os computadores"
 
 #. (itstool) path: simplesect/para@dropcapfileref
 #. (itstool) comment: simplesect/para@dropcapfileref
@@ -560,6 +587,9 @@ msgstr ""
 #: Ada_Zangemann.dbk:528
 msgid "As the years went by, Zangemann grew bigger and computers got smaller. In fact, by the time he finished school, they were so small they fit in his pocket. The smallest ones even fit on his fingertip."
 msgstr ""
+"Com o passar dos anos, Zangemann cresceu e os computadores ficaram menores. "
+"Na verdade, quando ele terminou a escola, eles eram tão pequenos que cabiam "
+"no bolso dele. Os menores até cabiam na ponta de seu dedo."
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -585,6 +615,10 @@ msgstr ""
 #: Ada_Zangemann.dbk:540
 msgid "“Finally, I can turn all my ideas into real things!” Zangemann exclaimed, and he got right to work. He found ways to put the small computers into all kinds of things to make them even more fun and useful. And then he sold them."
 msgstr ""
+"“Finalmente, posso transformar todas as minhas ideias em coisas reais!” "
+"Zangemann exclamou e foi para o trabalho. Ele encontrou maneiras de colocar "
+"os pequenos computadores em todos os tipos de coisas para torná-las ainda "
+"mais divertidas e úteis. E depois as vendeu."
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -655,6 +689,10 @@ msgstr ""
 #: Ada_Zangemann.dbk:562
 msgid "These inventions were very popular at Ada’s school, and many of her friends rode around on the cool skateboards. Ada was often sad, since her mother couldn’t buy her any of those great things: no skateboard, no speakers, no ice cream."
 msgstr ""
+"Essas invenções eram muito populares na escola de Ada, e muitos de seus "
+"amigos andavam nos skates legais. Ada estava muitas vezes triste, já que sua "
+"mãe não podia comprar para ela nenhuma dessas grandes coisas: sem skate, sem "
+"alto-falantes, sem sorvete."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:564
@@ -667,6 +705,8 @@ msgstr ""
 #: Ada_Zangemann.dbk:565
 msgid "Ada had so much fun tinkering in the junkyard and fixing broken things that she forgot all about the skateboards and the ice cream."
 msgstr ""
+"Ada se divertiu tanto a mexer no ferro-velho e a consertar coisas quebradas "
+"que se esqueceu dos skates e do sorvete."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:569
@@ -758,12 +798,16 @@ msgstr ""
 #. equal to the beginning of the first sentence of this chapter.
 #: Ada_Zangemann.dbk:601
 msgid "One day..."
-msgstr ""
+msgstr "Um dia..."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:604
 msgid "One day Zangemann thought, “Today I want to see my inventions up close.” He put away his big telescope, then climbed down the many stairs of his mansion and ventured out into the city, full of anticipation at the thought of enjoying his cool devices."
 msgstr ""
+"Um dia Zangemann pensou: “Hoje eu quero ver minhas invenções de perto.” Ele "
+"largou seu grande telescópio, então desceu as muitas escadas de sua mansão e "
+"aventurou-se para a cidade, cheio de expectativa ao pensar em desfrutar de "
+"seus dispositivos legais."
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -794,6 +838,8 @@ msgstr ""
 #: Ada_Zangemann.dbk:615
 msgid "He was completely absorbed in his thoughts when suddenly — BAM! — something crashed into his shin."
 msgstr ""
+"Ele ficou completamente absorvido em seus pensamentos quando de repente — "
+"BAM! — algo bateu na canela dele."
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -817,6 +863,10 @@ msgstr ""
 #: Ada_Zangemann.dbk:624
 msgid "Zangemann yelped and looked around for the cause. A startled child stood in front of him, holding an original Zangemann skateboard under his arm. “Sorry, I didn’t mean to do that,” the child stammered, but Zangemann wasn’t listening."
 msgstr ""
+"Zangemann uivou e olhou ao redor para a causa. Uma criança assustada ficou "
+"na frente dele, segurando um skate original de Zangemann sob seu braço. “"
+"Desculpe, eu não queria fazer isso,” a criança gaguejou, mas Zangemann não "
+"estava ouvindo."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:625
@@ -891,7 +941,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:654
 msgid "Skateboards no longer work"
-msgstr ""
+msgstr "Os skates já não funcionam"
 
 #. (itstool) path: simplesect/para@dropcapfileref
 #. (itstool) comment: simplesect/para@dropcapfileref
@@ -960,7 +1010,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:680
 msgid "Ada and software"
-msgstr ""
+msgstr "Ada e o software"
 
 #. (itstool) path: simplesect/para@dropcapfileref
 #. (itstool) comment: simplesect/para@dropcapfileref
@@ -1013,7 +1063,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:699
 msgid "Programming"
-msgstr ""
+msgstr "Programação"
 
 #. (itstool) path: simplesect/para@dropcapfileref
 #. (itstool) comment: simplesect/para@dropcapfileref
@@ -1092,7 +1142,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:728
 msgid "A horrible night"
-msgstr ""
+msgstr "Uma noite horrível"
 
 #. (itstool) path: simplesect/para@dropcapfileref
 #. (itstool) comment: simplesect/para@dropcapfileref
@@ -1125,7 +1175,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:739
 msgid "First real project"
-msgstr ""
+msgstr "O primeiro projeto real"
 
 #. (itstool) path: simplesect/para@dropcapfileref
 #. (itstool) comment: simplesect/para@dropcapfileref
@@ -1246,7 +1296,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:781
 msgid "Hacking for freedom"
-msgstr ""
+msgstr "Hackeando para a liberdade"
 
 #. (itstool) path: simplesect/para@dropcapfileref
 #. (itstool) comment: simplesect/para@dropcapfileref
@@ -1420,7 +1470,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:845
 msgid "Zangemann and the President"
-msgstr ""
+msgstr "Zangemann e o Presidente"
 
 #. (itstool) path: simplesect/para@dropcapfileref
 #. (itstool) comment: simplesect/para@dropcapfileref
@@ -1500,7 +1550,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:875
 msgid "Protest"
-msgstr ""
+msgstr "Protesto"
 
 #. (itstool) path: simplesect/para@dropcapfileref
 #. (itstool) comment: simplesect/para@dropcapfileref
@@ -1615,7 +1665,7 @@ msgstr ""
 #. Text on square signe on the right of the illustration
 #: Ada_Zangemann.dbk:914
 msgid "They are young + need the code!"
-msgstr ""
+msgstr "Eles são jovens + precisam do código!"
 
 #. (itstool) path: info/excerpt
 #. Text on banner on the banner held by children on the right of the
@@ -1623,12 +1673,12 @@ msgstr ""
 #. can be used, which translates to 'without code everything is dull!'.
 #: Ada_Zangemann.dbk:915
 msgid "Don’t wreck our tech!"
-msgstr ""
+msgstr "Não destrua nossa tecnologia!"
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:922
 msgid "Children help the government"
-msgstr ""
+msgstr "Crianças ajudam o governo"
 
 #. (itstool) path: simplesect/para@dropcapfileref
 #. (itstool) comment: simplesect/para@dropcapfileref
@@ -1709,7 +1759,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:949
 msgid "New law"
-msgstr ""
+msgstr "Nova lei"
 
 #. (itstool) path: simplesect/para@dropcapfileref
 #. (itstool) comment: simplesect/para@dropcapfileref
@@ -1834,7 +1884,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:995
 msgid "And Zangemann?"
-msgstr ""
+msgstr "E Zangemann?"
 
 #. (itstool) path: simplesect/para@dropcapfileref
 #. (itstool) comment: simplesect/para@dropcapfileref
@@ -1892,7 +1942,7 @@ msgstr ""
 #. (itstool) id: Ada_Zangemann.dbk#title-acknowledgments
 #: Ada_Zangemann.dbk:1020
 msgid "Acknowledgments"
-msgstr ""
+msgstr "Agradecimentos"
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -1948,19 +1998,19 @@ msgstr ""
 #. (itstool) id: Ada_Zangemann.dbk#title-author
 #: Ada_Zangemann.dbk:1047
 msgid "About the Author"
-msgstr ""
+msgstr "Sobre o Autor"
 
 #. (itstool) path: info/subtitle
 #. (itstool) id: Ada_Zangemann.dbk#subtitle-author
 #. ignore-same
 #: Ada_Zangemann.dbk:1048
 msgid "Matthias Kirschner"
-msgstr ""
+msgstr "Matthias Kirschner"
 
 #. (itstool) path: info/titleabbrev
 #: Ada_Zangemann.dbk:1049
 msgid "About the Author - Matthias Kirschner"
-msgstr ""
+msgstr "Sobre o Autor - Matthias Kirschner"
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -2000,19 +2050,19 @@ msgstr ""
 #. (itstool) id: Ada_Zangemann.dbk#title-illustrator
 #: Ada_Zangemann.dbk:1070
 msgid "About the Illustrator"
-msgstr ""
+msgstr "Sobre a Ilustradora"
 
 #. (itstool) path: info/subtitle
 #. (itstool) id: Ada_Zangemann.dbk#subtitle-illustrator
 #. ignore-same
 #: Ada_Zangemann.dbk:1071
 msgid "Sandra Brandstätter"
-msgstr ""
+msgstr "Sandra Brandstätter"
 
 #. (itstool) path: info/titleabbrev
 #: Ada_Zangemann.dbk:1072
 msgid "About the Illustrator - Sandra Brandstätter"
-msgstr ""
+msgstr "Sobre a Ilustradora - Sandra Brandstätter"
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -2052,7 +2102,7 @@ msgstr ""
 #. (itstool) id: Ada_Zangemann.dbk#title-bookswebsite
 #: Ada_Zangemann.dbk:1092
 msgid "Book’s website"
-msgstr ""
+msgstr "Site do livro"
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -2081,7 +2131,7 @@ msgstr ""
 #. (itstool) id: Ada_Zangemann.dbk#title-license
 #: Ada_Zangemann.dbk:1109
 msgid "License"
-msgstr ""
+msgstr "Licença"
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
