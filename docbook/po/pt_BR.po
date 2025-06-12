@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-05-06 19:03+0200\n"
-"PO-Revision-Date: 2025-06-11 10:01+0000\n"
+"PO-Revision-Date: 2025-06-12 10:04+0000\n"
 "Last-Translator: William Weber Berrutti <wwberrutti@protonmail.ch>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/fsfe/"
 "ada-zangemann/pt_BR/>\n"
@@ -505,6 +505,12 @@ msgid ""
 "<phrase condition=\"capitals-text\">Once</phrase><phrase condition=\"capitals-img\">nce</phrase> upon a time, there was a little girl named Ada. Her family was so poor that all their savings fit inside a cookie jar. They didn’t have enough money to live in a proper home. Instead, Ada lived with her mother and her little brother, Alan, in a cabin near a junkyard on the edge of "
 "town."
 msgstr ""
+"<phrase condition=\"capitals-text\">Era</phrase><phrase condition=\"capitals-"
+"img\">ra</phrase> uma vez, uma menina chamada Ada. A família dela era tão "
+"pobre que todas as suas economias cabem dentro de um pote de biscoitos. Não "
+"tinham dinheiro suficiente para morar num lar apropriado. Em vez disso, Ada "
+"viveu com sua mãe e seu irmão mais novo, Alan, em uma cabana perto de um "
+"ferro-velho na beira da cidade."
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -582,6 +588,23 @@ msgid ""
 "enough that they could be built into other fun things. He knew what he would do. First, he would build a computer into his skateboard so that it would make cool noises when he rode it — maybe a fire engine siren or the sound of a rocket launch. Then he would use a computer to invent ice‑cream-making machines! The computer would mix the coolest flavors and even sell the ice cream. "
 "There would be machines on every street corner, and he could get ice cream in his favorite flavor whenever he felt like it, and just as much as he wanted. After that, he’d build a cleaning robot and a block-sorting machine so that his room would always be neat and clean. Zangemann had great new ideas like these every day. He could think of nothing else."
 msgstr ""
+"<phrase condition=\"capitals-text\">Computadores</phrase><phrase condition"
+"=\"capitals-img\">omutadores</phrase> fascinavam Zangemann desde criança. "
+"Quando era jovem, os computadores eram enormes máquinas com muitos cabos e "
+"ventiladores barulhentos. Na escola, o pequeno Zangemann muitas vezes "
+"sonhava com todas as coisas que faria com computadores se fossem apenas um "
+"pouco menores — pequenos o bastante para que pudessem ser construídas em "
+"outras coisas divertidas. Ele sabia o que faria. Primeiro, ele construiria "
+"um computador em seu skate, de modo que ele faria ruídos legais quando "
+"andava sobre ele — talvez uma sirene de bombeiros ou o som de um lançamento "
+"de foguete. Então ele usaria um computador para inventar máquinas criadoras "
+"de sorvete! O computador iria misturar os sabores mais legais e até mesmo "
+"vender o sorvete. Haveria máquinas em cada esquina, e ele poderia obter "
+"sorvete em seu sabor favorito sempre que quisesse, e tanto quanto quisesse. "
+"Depois disso, ele construiria um robô de limpeza e uma máquina de ordenação "
+"de blocos para que seu quarto esteja sempre puro e limpo. Zangemann tinha "
+"grandes ideias novas como estas todos os dias. Ele não conseguia pensar em "
+"mais nada."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:528
@@ -646,6 +669,14 @@ msgid ""
 "Adults and children loved his inventions. All the kids wanted to have one of his skateboards — complete with the latest sounds to show off to their friends at school. Kids also loved his speaker invention, which could instantly play any song you requested. And, of course, everyone loved the ice cream served every afternoon from the automatic, extra-delicious Original Zangemann "
 "Ice Cream Machine. It all seemed like magic, but the secret was simple: the little computers that Zangemann built into his machines made it all possible."
 msgstr ""
+"Adultos e crianças adoravam suas invenções. Todas as crianças queriam ter um "
+"de seus skates — completo com os sons mais recentes para mostrar para seus "
+"amigos na escola. As crianças também adoravam a invenção do alto-falante, "
+"que podia tocar instantaneamente qualquer música que pedissem. E, claro, "
+"todos adoravam o sorvete servido todas as tardes da máquina de sorvetes "
+"automática extra-deliciosa Máquina de Sorvetes Original de Zangemann. Tudo "
+"parecia magia, mas o segredo era simples: os pequenos computadores que "
+"Zangemann construiu em suas máquinas tornavam tudo isso possível."
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -700,6 +731,14 @@ msgid ""
 "Luckily, Ada lived right next to the junkyard. There were lots of broken gadgets and rusty parts, which she put together to make cool new things, like a soapbox she and Alan rode roaring down the hill, a windmill, and scary junk monsters, which she and Alan would fight together. She also found many useful items—an old cell phone, for example. The screen was cracked, but she could "
 "fix that, and while there wasn’t internet at the junkyard, she could get access somewhere else."
 msgstr ""
+"Felizmente, a Ada vivia ao lado do ferro-velho. Havia muitos aparelhos "
+"quebrados e peças enferrujadas, que ela montou para fazer coisas novas e "
+"legais, como uma caixa de sabão que ela e Alan montaram rugindo colina "
+"abaixo, um moinho de vento, e monstros de lixo assustadores, que ela e Alan "
+"lutavam juntos. Ela também encontrou muitos itens úteis – um velho celular, "
+"por exemplo. A tela estava rachada, mas ela poderia consertar isso, e "
+"enquanto não havia internet no ferro-velho, ela poderia ter acesso em outro "
+"lugar."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:565
@@ -712,6 +751,11 @@ msgstr ""
 #: Ada_Zangemann.dbk:569
 msgid "Because everyone bought his inventions, Zangemann soon became the richest person in the whole world. With all his money, he bought a huge golden computer with a keyboard made of jewels and set it up in the largest room of his mansion. From there, over the internet, he could control all the little computers built into his inventions."
 msgstr ""
+"Porque todos compravam as suas invenções, Zangemann logo se tornou a pessoa "
+"mais rica do mundo. Com todo o seu dinheiro, comprou um enorme computador "
+"dourado com um teclado feito de jóias e montou-o no maior quarto da sua "
+"mansão. De lá, através da internet, ele podia controlar todos os pequenos "
+"computadores incorporados em suas invenções."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:570
@@ -719,6 +763,16 @@ msgid ""
 "All he had to do was press the proper key on the golden computer, and immediately all the ice-cream machines in town would dispense only vanilla ice cream. If Zangemann wanted people to eat chocolate ice cream, he pressed the key for chocolate ice cream. If he gave the order for lemon ice cream, the machines made only lemon ice cream. Zangemann loved his inventions and was always "
 "thrilled at how amazingly well his machines worked. Sometimes people were disappointed when their favorite flavor wasn’t available, but what could they do? After all, there was ice cream on every street corner."
 msgstr ""
+"Tudo o que ele tinha que fazer era pressionar uma tecla adequada no "
+"computador dourado, e imediatamente todas as máquinas de sorvete na cidade "
+"apenas dispensavam sorvete de baunilha. Se o Zangemann queria que as pessoas "
+"comessem sorvete de chocolate, ele pressionava a tecla para sorvete de "
+"chocolate. Se ele dava a ordem de sorvete de limão, as máquinas só faziam "
+"sorvete de limão. Zangemann amava suas invenções e sempre ficou animado com "
+"o quão surpreendentemente bem suas máquinas funcionavam. Às vezes, as "
+"pessoas ficavam decepcionadas quando seu sabor favorito não estava "
+"disponível, mas o que poderiam fazer? Afinal, havia sorvete em todas as "
+"esquinas."
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -742,6 +796,11 @@ msgstr ""
 #: Ada_Zangemann.dbk:579
 msgid "Zangemann had a lot of fun pressing the sparkling keys and watching people eat ice cream. He spent many hours every day in front of his golden computer doing this. Again and again, he looked down on the city through a long telescope, observing how reliably his inventions carried out his commands."
 msgstr ""
+"Zangemann divertia-se ao pressionar as teclas brilhantes e a ver as pessoas "
+"comerem sorvete. Passava muitas horas todos os dias à frente do seu "
+"computador dourado fazendo isso. De novo e de novo, ele olhou para baixo na "
+"cidade através de um longo telescópio, observando quão confiavelmente suas "
+"invenções executavam seus comandos."
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -769,6 +828,13 @@ msgid ""
 "When he wasn’t sitting at his golden computer, Zangemann was building his little computers into new devices and then selling those. He built washing machines that sent a message to your cell phone when your laundry was done. He made vacuums that played happy music instead of droning loudly. He invented light bulbs that turned on and off at the snap of a finger and cars that told "
 "you where the nearest grocery store was."
 msgstr ""
+"Quando ele não estava sentado em seu computador dourado, Zangemann estava "
+"construindo seus pequenos computadores em novos dispositivos e depois "
+"vendendo-os. Ele construiu máquinas de lavar que enviavam uma mensagem para "
+"o seu celular quando a sua roupa estava pronta. Ele fez aspiradores que "
+"tocavam música feliz em vez de um ruído alto. Ele inventou lâmpadas que "
+"ligavam e desligavam no estalo de um dedo e carros que lhe diziam onde "
+"ficava a mercearia mais próxima."
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -792,6 +858,10 @@ msgstr ""
 #: Ada_Zangemann.dbk:596
 msgid "Soon, almost every appliance in the world had a Zangemann computer built into it. Not all of his inventions seemed necessary at first, but people bought everything he made. That’s just the way it was. Everyone wanted the devices made by Zangemann, the greatest inventor in the world."
 msgstr ""
+"Logo, quase todos os aparelhos do mundo tinham um computador Zangemann "
+"embutido nele. Nem todas as suas invenções pareciam necessárias no início, "
+"mas as pessoas compravam tudo o que ele fazia. Foi assim que aconteceu. "
+"Todos queriam os aparelhos feitos por Zangemann, o maior inventor do mundo."
 
 #. (itstool) path: info/title
 #. Intended as 'on a day', not 'a single day'. This is supposed to be
@@ -833,6 +903,12 @@ msgstr ""
 #: Ada_Zangemann.dbk:613
 msgid "“Maybe a little trip might even give me a few new ideas. If I’m completely honest, my last inventions weren’t quite as useful as the first ones... ,” Zangemann pondered. “But my ice-cream machines are and will remain second to none,” he thought immediately afterward, and not without pride, as he passed a group of people all eating coconut ice cream, the flavor of the day."
 msgstr ""
+"“Talvez uma pequena viagem possa até me dar algumas ideias novas. Se eu sou "
+"completamente honesto, minhas últimas invenções não foram tão úteis quanto "
+"as primeiras ... ”, Zangemann ponderou. “Mas minhas máquinas de sorvete são "
+"e permanecerão em segundo lugar”, pensou ele imediatamente depois, e não sem "
+"orgulho, pois ele passou por um grupo de pessoas todas comendo sorvete de "
+"coco, o sabor do dia."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:615
@@ -1085,6 +1161,9 @@ msgstr ""
 #: Ada_Zangemann.dbk:704
 msgid "Of course, she wanted to try her program out right away to see if it really worked. At the junkyard, she connected her cell phone to a small LED lamp. Then she typed the lines of code into her cell phone."
 msgstr ""
+"Claro, ela queria experimentar o seu programa imediatamente para ver se "
+"realmente funcionava. No ferro-velho, ligou o seu telefone celular a uma "
+"pequena lâmpada LED. Depois escreveu as linhas de código no celular."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:705
@@ -1120,6 +1199,9 @@ msgstr ""
 #: Ada_Zangemann.dbk:715
 msgid "Ada also had an idea for the next program she would write. It was a bigger deal, a real project. She would probably need the whole summer break for it... And she could hardly wait!"
 msgstr ""
+"Ada também teve uma idéia para o próximo programa que ela iria escrever. Era "
+"uma coisa maior, um projeto real. Ela provavelmente precisaria das férias de "
+"verão inteiras para isso... E ela mal podia esperar!"
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -1164,6 +1246,11 @@ msgstr ""
 #: Ada_Zangemann.dbk:733
 msgid "Waking up one morning with a deeply furrowed brow, he made a decision. He needed to make a change. Zangemann sat down at his computer and wrote one program after another. In these programs, he specified exactly what his inventions were to do and were not to do under any circumstances. The chaos had to stop!"
 msgstr ""
+"Acordando certa manhã com uma sobrancelha profundamente enrugada, ele tomou "
+"uma decisão. Ele precisava fazer uma mudança. Zangemann sentou-se em seu "
+"computador e escreveu um programa após outro. Nesses programas, ele "
+"especificou exatamente o que suas invenções deveriam fazer e não deveriam "
+"fazer em circunstância alguma. O caos tinha que parar!"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:734
@@ -1171,6 +1258,13 @@ msgid ""
 "Once he was done, he sent all the new programs from his golden computer to people’s devices. He ordered his speakers to play only his favorite music whenever he was within earshot. He programmed the ice-cream machines to stop selling ice cream in the afternoon. After all, he didn’t want his expensive clothes to get stained by ice cream while he was out for a walk. All day long he "
 "sat at the computer and typed and typed and typed..."
 msgstr ""
+"Uma vez terminado, ele enviou todos os novos programas de seu computador "
+"dourado para os dispositivos das pessoas. Ele ordenou que seus alto-falantes "
+"tocassem apenas sua música favorita sempre que estivesse ao alcance do "
+"ouvido. Ele programou as máquinas de sorvete para parar de vender sorvetes à "
+"tarde. Afinal, ele não queria que suas roupas caras ficassem manchadas pelo "
+"sorvete enquanto ele estava fora para uma caminhada. Durante todo o dia ele "
+"sentou-se no computador e escreveu e escreveu e escreveu..."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:739
@@ -1197,16 +1291,27 @@ msgstr ""
 #: Ada_Zangemann.dbk:744
 msgid "After falling on her bottom for the hundredth time, she went back to the library. She always found answers to her questions there. And indeed, on the internet, she came across a program that someone had written for an electric scooter that also needed to start slowly. Ada downloaded it to her phone."
 msgstr ""
+"Depois de cair pela centésima vez, ela voltou para a biblioteca. Ela sempre "
+"encontrou respostas para suas perguntas lá. E, na verdade, na internet, ela "
+"encontrou um programa que alguém tinha escrito para uma lambreta elétrica "
+"que também precisava começar lentamente. A Ada baixou para o celular dela."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:746
 msgid "Back at the junkyard, she adapted some lines of code for her skateboard program. She tweaked a few things and kept tinkering."
 msgstr ""
+"Lá no ferro-velho, ela adaptou algumas linhas de código para o seu programa "
+"de skate. Ela mexeu em algumas coisas e continuou a mexer."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:747
 msgid "Several failed attempts later, on the last day of summer break, the time had finally come. Ada stood on the skateboard and pressed the Go! button, and the skateboard started moving, slowly at first, then faster. It worked! She tried to brake. It worked! Ada let out a cry of joy and took a trip to the park."
 msgstr ""
+"Várias tentativas fracassadas mais tarde, no último dia de férias de verão, "
+"a hora finalmente tinha chegado. Ada ficou no skate e apertou o botão Go!, e "
+"o skate começou a se mover, lentamente no início, depois mais rápido. "
+"Funcionou! Ela tentou frear. Funcionou! Ada soltou um grito de alegria e fez "
+"uma viagem ao parque."
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -1235,11 +1340,14 @@ msgstr ""
 #: Ada_Zangemann.dbk:759
 msgid "When Ada rode her skateboard to school on the first day back after summer break, the other children were amazed. During recess, Ada’s curious classmates surrounded her."
 msgstr ""
+"Quando Ada andou de skate até a escola no primeiro dia depois das férias de "
+"verão, as outras crianças ficaram espantadas. Durante o intervalo, os "
+"curiosos colegas de Ada a cercaram."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:760
 msgid "“How can you ride your skateboard on the sidewalk?” they asked."
-msgstr ""
+msgstr "“Como você pode andar de skate na calçada?”, perguntaram."
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -1265,6 +1373,9 @@ msgstr ""
 #: Ada_Zangemann.dbk:769
 msgid "Ada thought for a moment, then said, “I don’t think it’s your skateboards but actually the software in them. It’s probably programmed into the software that the skateboards aren’t allowed to go on the sidewalk. But that can be changed!”"
 msgstr ""
+"Ada pensou por um momento, então disse: “Eu não acho que é seu skate, mas na "
+"verdade o software neles. É provavelmente programado no software que os "
+"skates não são autorizados a andar na calçada. Mas isso pode ser mudado!”"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:770
@@ -1318,6 +1429,10 @@ msgstr ""
 #: Ada_Zangemann.dbk:787
 msgid "But that wasn’t all. With the software, they could give their skateboards new, cool features. Marie attached colorful LED lights to her board that glowed different colors depending on the speed. Konrad built old propellers onto his skateboard for extra speed."
 msgstr ""
+"Mas isso não era tudo. Com o software, eles poderiam dar recursos novos e "
+"legais em seus skates. Marie anexou luzes coloridas de LED em sua prancha "
+"que brilhava cores diferentes, dependendo da velocidade. Konrad construiu "
+"hélices velhas em seu skate para velocidade extra."
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -1341,16 +1456,26 @@ msgstr ""
 #: Ada_Zangemann.dbk:796
 msgid "Ada, Toni, Marie, and Konrad spent many afternoons at the junkyard. They even set up a real workshop where they could fine-tune their programs for hours, listening all the while to music from the speakers Ada had built for Alan."
 msgstr ""
+"Ada, Toni, Marie e Konrad passaram muitas tardes no ferro-velho. Eles até "
+"montaram uma oficina real onde eles poderiam ajustar seus programas por "
+"horas, ouvindo o tempo todo a música dos alto-falantes que Ada tinha "
+"construído para Alan."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:797
 msgid "“Your brother’s speakers are much louder than ours,” remarked Toni, who was busy attaching a speedometer to his helmet. “I’m sure that’s also because of the software,” Marie said."
 msgstr ""
+"“Os alto-falantes do seu irmão são muito mais altos do que os nossos”, "
+"comentou Toni, que estava ocupado anexando um velocímetro ao seu capacete. “"
+"Tenho certeza que isso também é por causa do software,” disse Marie."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:798
 msgid "Together, they changed the software for the speakers too. Then they turned up the music as loud as possible and danced wildly together."
 msgstr ""
+"Juntos, eles mudaram o software para os alto-falantes também. Então eles "
+"aumentaram o volume da música o mais alto possível e dançaram "
+"enlouquecidamente juntos."
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -1466,6 +1591,11 @@ msgstr ""
 #: Ada_Zangemann.dbk:840
 msgid "Some things they built just for fun, like the fart machine they put in their math teacher’s chair. Whenever Ms. Gernet sat down, the machine played a little fart sound. The teacher would scold them, but Ada was sure that she secretly smirked a little every time."
 msgstr ""
+"Algumas coisas eles construíam apenas para se divertir, como a máquina de "
+"peidos que colocaram na cadeira do professor de matemática. Sempre que a "
+"Sra. Gernet se sentava, a máquina tocava um som de peido. A professora iria "
+"repreendê-los, mas Ada tinha certeza de que ela secretamente sorria um pouco "
+"todas as vezes."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:845
@@ -1492,11 +1622,17 @@ msgstr ""
 #: Ada_Zangemann.dbk:850
 msgid "The president did not want to upset Zangemann. All the government’s computers were programmed by Zangemann. Without the computers, the government would not be able to run the country. So they passed the law as Zangemann requested:"
 msgstr ""
+"O presidente não queria chatear Zangemann. Todos os computadores do governo "
+"foram programados por Zangemann. Sem os computadores, o governo não seria "
+"capaz de governar o país. Então aprovaram a lei como Zangemann pediu:"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:851
 msgid "“All computers that do not listen to Zangemann are banned. Anyone who reprograms Zangemann’s devices will be fined 500,000 gold pieces!”"
 msgstr ""
+"“Todos os computadores que não escutarem Zangemann estão proibidos. Qualquer "
+"um que reprogramar os dispositivos de Zangemann será multado em 500.000 "
+"moedas de ouro! “"
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -1523,11 +1659,17 @@ msgstr ""
 #: Ada_Zangemann.dbk:863
 msgid "When Ada and her friends heard this, they were furious. “This is unfair,” they said. “We rebuilt and reprogrammed our skateboards ourselves. They are much better now. We won’t let anyone take that away from us!”"
 msgstr ""
+"Quando Ada e seus amigos ouviram isso, ficaram furiosos. “Isto não é justo”, "
+"disseram. “Reconstruímos e reprogramamos nós mesmos os nossos skates. Estão "
+"muito melhores agora. Não deixaremos que ninguém nos tire isso!”"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:864
 msgid "They gathered in front of one of their rebuilt ice-cream machines and discussed the situation. It was clear that something had to be done about the new law, and they made a plan..."
 msgstr ""
+"Eles se reuniram em frente a uma de suas máquinas de sorvete reconstruídas e "
+"discutiram a situação. Ficou claro que algo tinha de ser feito sobre a nova "
+"lei, e eles fizeram um plano..."
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -1572,6 +1714,10 @@ msgstr ""
 #: Ada_Zangemann.dbk:881
 msgid "On the following day, Ada and her friends again sat down in front of the parliament building, this time with support. Some classmates came whose skateboards Ada had reprogrammed. Toni’s father and other parents and adults also wanted to support the protest. They found the children’s devices very useful."
 msgstr ""
+"No dia seguinte, Ada e seus amigos novamente sentaram-se em frente ao "
+"edifício do parlamento, desta vez com apoio. Alguns colegas vieram cujos "
+"skates Ada tinha reprogramado. O pai de Toni e outros pais e adultos também "
+"queriam apoiar o protesto. Acharam os aparelhos das crianças muito úteis."
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -1623,7 +1769,7 @@ msgstr ""
 #. Text on big banner, left on the illustration
 #: Ada_Zangemann.dbk:897
 msgid "Do your homework Mr. President and we will do ours!"
-msgstr ""
+msgstr "Faça o seu dever de casa Sr. Presidente e nós faremos o nosso!"
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -1735,6 +1881,8 @@ msgstr ""
 #: Ada_Zangemann.dbk:938
 msgid "That evening, the children went home proud and satisfied. Something finally happened! Their long protest was worth it."
 msgstr ""
+"Naquela noite, as crianças foram para casa orgulhosas e satisfeitas. Algo "
+"finalmente aconteceu! O seu longo protesto valeu a pena."
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -1806,16 +1954,23 @@ msgstr ""
 #: Ada_Zangemann.dbk:961
 msgid "Then, after many weeks of protests and discussions, the time had finally come: they abolished the old Zangemann law! Instead, the government announced:"
 msgstr ""
+"Então, depois de muitas semanas de protestos e discussões, finalmente chegou "
+"o momento: eles aboliram a velha lei de Zangemann! Em vez disso, o governo "
+"anunciou:"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:964
 msgid "“Everyone is allowed to program their own computers as long as they adhere to the other laws.”"
 msgstr ""
+"“Todo mundo tem permissão para programar seus próprios computadores desde "
+"que eles cumpram as outras leis. “"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:965
 msgid "In addition, a new school subject was introduced: computer hardware and software."
 msgstr ""
+"Além disso, foi introduzida uma nova matéria escolar: hardware e software de "
+"computador."
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -1862,6 +2017,9 @@ msgstr ""
 #: Ada_Zangemann.dbk:984
 msgid "While the others continued partying late into the night, Ada and her friends slipped away to their workshop. They already had a lot of ideas for new inventions. And they wanted to start right away."
 msgstr ""
+"Enquanto os outros continuaram a festejar até tarde da noite, Ada e seus "
+"amigos escaparam para sua oficina. Já tinham muitas ideias para novas "
+"invenções. E queriam começar de imediato."
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
