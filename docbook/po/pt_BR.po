@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-05-06 19:03+0200\n"
-"PO-Revision-Date: 2025-06-13 11:02+0000\n"
+"PO-Revision-Date: 2025-06-15 23:04+0000\n"
 "Last-Translator: William Weber Berrutti <wwberrutti@protonmail.ch>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/fsfe/"
 "ada-zangemann/pt_BR/>\n"
@@ -155,7 +155,7 @@ msgstr "Ms. Gernet"
 #. but some variants are generated in the automation.
 #: Ada_Zangemann.dbk:311
 msgid "images/illustrations/ada-a01.en.png"
-msgstr ""
+msgstr "images/illustrations/ada-a01.pt_BR.png"
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -178,6 +178,23 @@ msgid ""
 "shorts. Above the shirt Ada wears a blue hoodie. Ada is wearing red shoes with white tips and soles, and short white socks. She has one foot on a skateboard and the other on the ground. Zangemann has short gray hair and square glasses. He is wearing a purple turtle-neck sweater, light blue pants turned up, brown shoes, and white socks. He’s wearing a big tech watch. Above "
 "Zangemann there are a pair of pliers with red handles crossing the wire frame."
 msgstr ""
+"Ada &amp; Zangemann - Uma História de Software, Skate e Sorvete de "
+"Framboesa. Por Matthias Kirschner e Sandra Brandstätter. Em um fundo "
+"dessaturado ciano escuro, em uma moldura composta de linhas brancas às vezes "
+"enroladas que conectam um mouse, um teclado, e um smartphone rosa, Ada e "
+"Zangemann estão se encarando, ambos com as mãos em seus quadris como um "
+"sinal de desafio. Ada está sorrindo e Zangemann está franzindo a cara. Ada "
+"tem cabelos pretos coletados em dois grandes anéis à direita e à esquerda "
+"com elásticos vermelhos, e bochechas vermelhas. Ela tem brincos amarelos. "
+"Ela usa shorts ciano e branco listrado horizontalmente e uma camisa amarela "
+"sobre uma camiseta branca que termina com bordado que vai além da camisa. A "
+"camisa e a camisola saem por cima dos calções. Acima da camisa Ada usa um "
+"capuz azul. Ada está usando sapatos vermelhos com pontas e solas brancas, e "
+"meias brancas curtas. Ela tem um pé num skate e o outro no chão. Zangemann "
+"tem cabelos brancos curtos e óculos quadrados. Ele está usando uma camisola "
+"de gola roxa, calças azuis claras levantadas, sapatos marrons, e meias "
+"brancas. Ele está usando um grande relógio técnico. Acima de Zangemann há um "
+"par de alicates com alças vermelhas cruzando a moldura de arame."
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -291,7 +308,7 @@ msgstr "Colofão"
 #.
 #. In a literallayout element all space and newline characters are kept.
 #: Ada_Zangemann.dbk:372
-#, no-wrap
+#, fuzzy, no-wrap
 msgid ""
 "Copyright © 2023 Matthias Kirschner and Sandra Brandstätter.\n"
 "This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.\n"
@@ -311,6 +328,58 @@ msgid ""
 "\n"
 "<emphasis role=\"bold\">A big thank you</emphasis> to <emphasis role=\"bold\">dpunkt.verlag</emphasis> and <emphasis role=\"bold\">No Starch Press</emphasis> for understanding the values of software freedom, taking the time to discuss and understand the advantages of free cultural licenses, and the great support to publish this book under conditions that respect the FSFE’s values."
 msgstr ""
+"Copyright © 2023 Matthias Kirschner e Sandra Brandstätter.\n"
+"Este trabalho está licenciado sob a licença Creative Commons Attribution-"
+"ShareAlike 4.0 International License.\n"
+"Para ver uma cópia desta licença, visite <link xlink:href="
+"\"https://creativecommons.org/licenses/by-sa/4.0/\"/>https://"
+"creativecommons.org/licensas/by-sa/4.0/ ou envie uma carta para Creative "
+"Commons, PO Box 1866, Mountain View, CA 94042, EUA.\n"
+"\n"
+"<emphasis role=\"bold\">Ada & Zangemann: Um conto de software, skates e "
+"sorvete de framboesa</emphasis> é uma tradução do original alemão, Ada und "
+"Zangemann: Ein Märchen über Software, Skateboards und Himbeereis, publicado "
+"pela Dpunkt. Verlag em cooperação com a O’Reilly Media, Inc., sob a "
+"impressão “O’REILLY,” © 2022 por Matthias Kirschner e Sandra Brandstätter.\n"
+"\n"
+"Este livro de Matthias Kirschner (autor) e Sandra Brandstätter (ilustrator) "
+"está licenciado sob <emphasis role=\"bold\">Creative Commons CC-BY-SA</"
+"emphasis>, uma licença cultural gratuita.\n"
+"\n"
+"<emphasis role=\"bold\">Pode</emphasis> compartilhar, copiar e redistribuir "
+"o material em qualquer meio ou formato. <emphasis role=\"bold\">Pode</"
+"emphasis> adaptar, remixar, transformar e construir sobre o material para "
+"qualquer finalidade, mesmo comercial. <emphasis role=\"bold\">Deves...</"
+"emphasis> dar crédito adequado, fornecer um link para a licença, e indicar "
+"se as alterações foram feitas.\n"
+"\n"
+"<emphasis role=\"bold\">Pode</emphasis> faça-o de forma razoável, mas não de "
+"qualquer forma que sugira que o licenciante endossa você ou seu uso. Se você "
+"remixar, transformar, ou construir sobre o material, <emphasis role=\"bold\""
+">você deve</emphasis> distribuir suas contribuições sob a mesma licença que "
+"o original. (Este é um resumo legível pelo homem do – e não um substituto "
+"para – o “código legal” do CC-BY-SA 4.0.)\n"
+"Além disso, para versões remix (obras derivadas), o licenciante pede que "
+"você não faça quaisquer modificações dos agradecimentos pessoais do autor e "
+"das biografias curtas do autor e ilustrador, em vez disso, por favor, remova "
+"completamente essas partes de sua versão remix.\n"
+"\n"
+"\n"
+"\n"
+"Publicação sob esta licença cultural livre foi possível devido ao grande "
+"apoio por dpunkt. verlag GmbH / O’Reilly Media, Inc. para o livro alemão e "
+"No Starch Press para o livro inglês. Infelizmente, as licenças Creative "
+"Commons ainda são raras exceções para livros publicados comercialmente, e "
+"muitas vezes consideradas revolucionárias e arriscadas pelos editores.\n"
+"\n"
+"\n"
+"\n"
+"<emphasis role=\"bold\">Um grande obrigado</emphasis> para <emphasis role="
+"\"bold\">dpunkt.verlag</emphasis> e <emphasis role=\"bold\">Sem imprensa de "
+"amido</emphasis> para compreender os valores da liberdade de software, "
+"tomando o tempo para discutir e compreender as vantagens das licenças "
+"culturais livres, e o grande apoio para publicar este livro em condições que "
+"respeitem os valores da FSFE."
 
 #. (itstool) path: simplesect/literallayout
 #. Print colophon covering the entire page. Please reuse the license text
@@ -319,7 +388,7 @@ msgstr ""
 #.
 #. In a literallayout element all space and newline characters are kept.
 #: Ada_Zangemann.dbk:389
-#, no-wrap
+#, fuzzy, no-wrap
 msgid ""
 "Copyright © 2023 Matthias Kirschner and Sandra Brandstätter.\n"
 "This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.\n"
@@ -373,6 +442,68 @@ msgid ""
 "\n"
 "<emphasis role=\"bold\">A big thank you</emphasis> to <emphasis role=\"bold\">dpunkt.verlag</emphasis> and <emphasis role=\"bold\">No Starch Press</emphasis> for understanding the values of software freedom, taking the time to discuss and understand the advantages of free cultural licenses, and the great support to publish this book under conditions that respect the FSFE’s values."
 msgstr ""
+"Copyright © 2023 Matthias Kirschner e Sandra Brandstätter.\n"
+"\n"
+"Este trabalho está licenciado sob a licença Creative Commons Attribution-"
+"ShareAlike 4.0 International License.\n"
+"\n"
+"Para ver uma cópia desta licença, visite <link xlink:href="
+"\"https://creativecommons.org/licenses/by-sa/4.0/\"/>https://"
+"creativecommons.org/licensas/by-sa/4.0/ ou envie uma carta para Creative "
+"Commons, PO Box 1866, Mountain View, CA 94042, EUA.\n"
+"\n"
+"\n"
+"\n"
+"<emphasis role=\"bold\">Ada & Zangemann: Um conto de software, skates e "
+"sorvete de framboesa</emphasis> é uma tradução do original alemão, Ada und "
+"Zangemann: Ein Märchen über Software, Skateboards und Himbeereis, publicado "
+"pela Dpunkt. Verlag em cooperação com a O’Reilly Media, Inc., sob a "
+"impressão “O’REILLY,” © 2022 por Matthias Kirschner e Sandra Brandstätter.\n"
+"\n"
+"\n"
+"\n"
+"Este livro de Matthias Kirschner (autor) e Sandra Brandstätter (ilustrator) "
+"está licenciado sob <emphasis role=\"bold\">Creative Commons CC-BY-SA</"
+"emphasis>, uma licença cultural gratuita.\n"
+"\n"
+"\n"
+"\n"
+"<emphasis role=\"bold\">Pode</emphasis> compartilhar, copiar e redistribuir "
+"o material em qualquer meio ou formato. <emphasis role=\"bold\">Pode</"
+"emphasis> adaptar, remixar, transformar e construir sobre o material para "
+"qualquer finalidade, mesmo comercial. <emphasis role=\"bold\">Deves...</"
+"emphasis> dar crédito adequado, fornecer um link para a licença, e indicar "
+"se as alterações foram feitas.\n"
+"\n"
+"\n"
+"\n"
+"<emphasis role=\"bold\">Pode</emphasis> faça-o de forma razoável, mas não de "
+"qualquer forma que sugira que o licenciante endossa você ou seu uso. Se você "
+"remixar, transformar, ou construir sobre o material, <emphasis role=\"bold\""
+">você deve</emphasis> distribuir suas contribuições sob a mesma licença que "
+"o original. (Este é um resumo legível pelo homem do – e não um substituto "
+"para – o “código legal” do CC-BY-SA 4.0.)\n"
+"Além disso, para versões remix (obras derivadas), o licenciante pede que "
+"você não faça quaisquer modificações dos agradecimentos pessoais do autor e "
+"das biografias curtas do autor e ilustrador, em vez disso, por favor, remova "
+"completamente essas partes de sua versão remix.\n"
+"\n"
+"\n"
+"\n"
+"Publicação sob esta licença cultural livre foi possível devido ao grande "
+"apoio por dpunkt. verlag GmbH / O’Reilly Media, Inc. para o livro alemão e "
+"No Starch Press para o livro inglês. Infelizmente, as licenças Creative "
+"Commons ainda são raras exceções para livros publicados comercialmente, e "
+"muitas vezes consideradas revolucionárias e arriscadas pelos editores.\n"
+"\n"
+"\n"
+"\n"
+"<emphasis role=\"bold\">Um grande obrigado</emphasis> para <emphasis role="
+"\"bold\">dpunkt.verlag</emphasis> e <emphasis role=\"bold\">Sem imprensa de "
+"amido</emphasis> para compreender os valores da liberdade de software, "
+"tomando o tempo para discutir e compreender as vantagens das licenças "
+"culturais livres, e o grande apoio para publicar este livro em condições que "
+"respeitem os valores da FSFE."
 
 #. (itstool) path: simplesect/literallayout
 #. Grey section in the bottom of the simple colophon.
@@ -387,6 +518,19 @@ msgid ""
 "We encourage you to support authors, publishers, and others involved in the creation of culture under free licenses – including <emphasis role=\"bold\">financially supporting them through purchases or donations</emphasis>. (<link xlink:href=\"https://fsfe.org/donate\">https://fsfe.org/donate</link>)\n"
 "Society should support those who respect others’ freedom."
 msgstr ""
+"<emphasis role=\"bold\">Livre como em liberdade não preço</emphasis>\n"
+"Software Livre é sobre as liberdades que você recebe com o software, não "
+"sobre o preço. Da mesma forma publicar um livro sob uma licença de cultura "
+"livre não significa que você tem o direito de obter uma cópia gratuita do "
+"livro ou ebook. Isso significa que você recebe os direitos descritos acima, "
+"que permitem à sociedade beneficiar ainda mais deste livro, como deveria de "
+"todas as obras culturais.\n"
+"\n"
+"Nós encorajamos você a apoiar autores, editores e outros envolvidos na "
+"criação de cultura sob licenças livres – incluindo <emphasis role=\"bold\""
+">apoio financeiro através de compras ou doações</emphasis>. (<link "
+"xlink:href=\"https://fsfe.org/donate\"/>https://fsfe.org/donate)\n"
+"A sociedade deve apoiar aqueles que respeitam a liberdade dos outros."
 
 #. (itstool) path: info/title
 #. Page next to the colophon with title, subtitle, authors and
@@ -436,7 +580,7 @@ msgstr "Matthias Kirschner, Sandra Brandstätter"
 #. but some variants are generated in the automation.
 #: Ada_Zangemann.dbk:471
 msgid "images/illustrations/ada-p03-title.en.png"
-msgstr ""
+msgstr "images/illustrations/ada-p03-titulo.pt_BR.png"
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -510,7 +654,7 @@ msgstr ""
 #. required color. Can be postponed to the publishing process. priority:70
 #: Ada_Zangemann.dbk:500
 msgid "images/capitals/O-cyan.png"
-msgstr ""
+msgstr "images/capitals/O-ciano.png"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p04-1
@@ -541,6 +685,7 @@ msgstr "images/illustrations/ada-p04.ltr.png"
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:508
+#, fuzzy
 msgid ""
 "Ada in foreground leaving the house to go to school, in the background Ada’s house and the junkyard. Ada has a brown backpack with yellow shoulder straps. To the left of Ada there is a red car, a Volkswagen Beetle, without wheels and no longer working, with one of the headlights remaining attached only with its wires. On the left, in front of the car, there are two tires, two "
 "boxes – one of which is a wooden box with an overturned bucket –, and an empty can, all among some plants with yellow flowers. In the background there is Ada’s house, with her mother and her brother Alan waving goodbye, and the dog sitting on the ground. Alan is sitting on the two entrance steps of the house. He has short dark hair and is dressed in a white short-sleeved shirt "
@@ -548,6 +693,30 @@ msgid ""
 "sheeting. There are two windows in front in addition to the door, and another window on the left side. A yellow duck stands on top of the roof, while a gray chimney protrudes. An antenna on the left of the roof supports a clothesline on which red clothespins hold a green tank top, a pair of light blue pants, and white underpants. To the right of the house there is a veranda on "
 "which there is installed a solar panel. Under the veranda there are a mattress, a red oil drum, and a gray case. Behind the house there are piles of landfill objects among which you can see a washing machine, a car, and various wooden boards."
 msgstr ""
+"Ada em primeiro plano deixando a casa para ir para a escola, no fundo da "
+"casa de Ada e do ferro-velho. Ada tem uma mochila marrom com alças amarelas. "
+"À esquerda de Ada há um carro vermelho, um Volkswagen Beetle, sem rodas e "
+"não mais funcionando, com um dos faróis permanecendo preso apenas com seus "
+"fios. À esquerda, na frente do carro, há dois pneus, duas caixas – uma delas "
+"é uma caixa de madeira com um balde virado –, e uma lata vazia, todas entre "
+"algumas plantas com flores amarelas. No fundo há a casa de Ada, com sua mãe "
+"e seu irmão Alan acenando adeus, e o cão sentado no chão. O Alan está "
+"sentado nos dois degraus da casa. Ele tem cabelo escuro curto e está vestido "
+"com uma camisa branca de manga curta com uma faixa vermelha nas bordas das "
+"mangas e duas listras vermelhas no fundo da camisa. Alan usa calções azuis e "
+"está descalço. A mãe de Ada tem batom escuro e cabelo preto longo em uma "
+"faixa branca. Ela está usando uma camisa azul curta com acabamento branco, "
+"calças brancas e sapatos amarelos. A casa de Ada é construída de madeira, "
+"com a frente branca. O telhado é vermelho escuro folha ondulada. Há duas "
+"janelas na frente, além da porta, e outra janela no lado esquerdo. Um pato "
+"amarelo fica em cima do telhado, enquanto uma chaminé cinzenta se projeta. "
+"Uma antena à esquerda do telhado suporta um varal em que os grampos de "
+"roupas vermelhas seguram um top de tanque verde, um par de calças azuis "
+"claras, e cuecas brancas. À direita da casa há uma varanda em que há "
+"instalado um painel solar. Sob a varanda há um colchão, um tambor de óleo "
+"vermelho e uma caixa cinza. Atrás da casa há pilhas de objetos de aterro "
+"entre os quais você pode ver uma máquina de lavar, um carro, e várias tábuas "
+"de madeira."
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -594,7 +763,7 @@ msgstr "Zangemann e os computadores"
 #. required color. Can be postponed to the publishing process. priority:70
 #: Ada_Zangemann.dbk:527
 msgid "images/capitals/C-red1.png"
-msgstr ""
+msgstr "images/capitals/C-vermelho1.png"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p06-1
@@ -1002,6 +1171,11 @@ msgstr "images/illustrations/ada-p14.ltr.png"
 #: Ada_Zangemann.dbk:620
 msgid "Zangemann after the incident with the child. Zangemann screams from pain while holding up one of his legs with both hands at the shin. The child has brown hair that is blown back by Zangemann’s scream; he is wearing a light blue hooded sweatshirt and dark green pants. He holds a red Zangemann electric skateboard."
 msgstr ""
+"Zangemann depois do incidente com a criança. Zangemann grita de dor enquanto "
+"segura uma das pernas com as duas mãos na canela. A criança tem cabelo "
+"castanho que é soprado de volta pelo grito de Zangemann; ele está vestindo "
+"um suéter azul claro com capuz e calças verdes escuras. Ele tem um skate "
+"elétrico Zangemann vermelho."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:624
@@ -1124,7 +1298,7 @@ msgstr "Os skates já não funcionam"
 #. required color. Can be postponed to the publishing process. priority:70
 #: Ada_Zangemann.dbk:658
 msgid "images/capitals/T-olive.png"
-msgstr ""
+msgstr "images/capitals/T-oliva.png"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p18-1
@@ -1152,10 +1326,19 @@ msgstr "images/illustrations/ada-p18.ltr.png"
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:663
+#, fuzzy
 msgid ""
 "Five kids from the school who can’t make skateboards work. Two girls wear helmets, respectively blue and red. A little girl with brown hair tied in two tails with yellow rubber bands is kneeling. She is trying to understand why the skateboard of her friend with the red helmet does not work. Four children have backpacks on their shoulders, while the little girl with the red helmet "
 "left hers leaning on a bench on which there are a yellow apple and a light blue bottle with a white flower on it."
 msgstr ""
+"Cinco crianças da escola que não conseguem fazer os skates funcionarem. Duas "
+"meninas usam capacetes, respectivamente azul e vermelho. Uma menina com "
+"cabelo castanho amarrada em duas caudas com elásticos amarelos está "
+"ajoelhada. Ela está tentando entender por que o skate de sua amiga com o "
+"capacete vermelho não funciona. Quatro crianças têm mochilas em seus ombros, "
+"enquanto a menina com o capacete vermelho deixou o dela apoiada em um banco "
+"em que há uma maçã amarela e uma garrafa azul claro com uma flor branca "
+"sobre ele."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:667
@@ -1214,7 +1397,7 @@ msgstr "Ada e o software"
 #. required color. Can be postponed to the publishing process. priority:70
 #: Ada_Zangemann.dbk:684
 msgid "images/capitals/A-fucsia.png"
-msgstr ""
+msgstr "images/capitals/A-fucsia.png"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p20-1
@@ -1298,7 +1481,7 @@ msgstr "Programação"
 #. required color. Can be postponed to the publishing process. priority:70
 #: Ada_Zangemann.dbk:703
 msgid "images/capitals/O-lightcyan.png"
-msgstr ""
+msgstr "images/capitals/O-cianoclaro.png"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p22-1
@@ -1362,6 +1545,13 @@ msgid ""
 "Ada comes to grips with programming. She is typing on a keyboard resting on a gray mat and connected to a smartphone with a blue cable. The smartphone is connected with a red wire to an electronic card with a yellow LED lamp. The smartphone is powered by a transformer connected to a power strip with a gray wire and plug. On the table there are also: 3 books, of which one is open; "
 "a clipboard and a pencil; pliers; glue; solder; and a disconnected soldering iron."
 msgstr ""
+"Ada começa a lidar com a programação. Ela está digitando em um teclado "
+"descansando em um tapete cinza e conectado a um smartphone com um cabo azul. "
+"O smartphone está conectado com um fio vermelho a um cartão eletrônico com "
+"uma lâmpada LED amarela. O smartphone é alimentado por um transformador "
+"conectado a uma faixa de alimentação com um fio cinza e plugue. Na mesa há "
+"também: 3 livros, dos quais um está aberto; uma prancheta e um lápis; "
+"alicate; cola; solda; e um ferro de solda desconectado."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:715
@@ -1402,7 +1592,7 @@ msgstr "Uma noite horrível"
 #. required color. Can be postponed to the publishing process. priority:70
 #: Ada_Zangemann.dbk:732
 msgid "images/capitals/Z-brown.png"
-msgstr ""
+msgstr "images/capitals/Z-marrom.png"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p25-1
@@ -1455,7 +1645,7 @@ msgstr "O primeiro projeto real"
 #. required color. Can be postponed to the publishing process. priority:70
 #: Ada_Zangemann.dbk:743
 msgid "images/capitals/S-red2.png"
-msgstr ""
+msgstr "images/capitals/S-vermelho2.png"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p26-1
@@ -1515,6 +1705,7 @@ msgstr "images/illustrations/ada-p27.ltr.png"
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:754
+#, fuzzy
 msgid ""
 "Ada racing with her electric skateboard for city sidewalks. Ada’s skateboard is blue, with gray and pink wheels; the electronic part is placed above the skateboard (as opposed to Zangemann’s skateboards where the electronic part is below). Ada is holding in both hands a remote control with a short antenna to maneuver it. Behind Ada are Marie and Toni who carry their own "
 "skateboards under their arms and look with amazement at Ada, who has shot past them and in front of them. Marie has dark long hair with two braids fastened with orange clips, yellow earrings, a fuchsia shirt with white sleeves with purple horizontal stripes, a white skirt, white and yellow sneakers, white socks, a white hat with yellow sides, and a light purple backpack. Marie "
@@ -1522,6 +1713,30 @@ msgid ""
 "direction: the father is dressed in a blue checked jacket and blue pants and holds a brown briefcase. He is smiling at Ada. His son has a blue shirt, blue shorts, white shoes, a brown backpack, and a red and white hat. He holds under his arm a yellow Zangemann skateboard with light brown wheels, and he grins at Ada. In the background there is a bakery with large windows through "
 "which you can see the bread. It has a green and white striped awning around the corner and a sign on the sidewalk with the list of products. Overhead, a large pretzel is displayed. On the road there is a puddle that reflects the blue of the sky."
 msgstr ""
+"Ada correndo com seu skate elétrico para calçadas da cidade. O skate de Ada "
+"é azul, com rodas cinza e rosa; a parte eletrônica é colocada acima do skate "
+"(em oposição aos skates de Zangemann onde a parte eletrônica está abaixo). "
+"Ada está segurando em ambas as mãos um controle remoto com uma antena curta "
+"para manobrar. Atrás de Ada estão Marie e Toni que carregam seus próprios "
+"skates sob seus braços e olham com espanto para Ada, que atirou por eles e "
+"na frente deles. Marie tem cabelos longos escuros com duas tranças presas "
+"com clipes laranjas, brincos amarelos, uma camisa fúcsia com mangas brancas "
+"com listras horizontais roxas, uma saia branca, tênis brancos e amarelos, "
+"meias brancas, um chapéu branco com lados amarelos e uma mochila roxa clara. "
+"A Marie tem uma perna azul artificial. O skate dela é azul com rodas "
+"amarelas. Toni tem cabelos vermelhos bem aparados nos lados. Ele está usando "
+"uma camisola azul, calças verdes escuras e sapatos brancos. Ele tem uma "
+"mochila vermelha com inserções brancas e alças de ombro. Uma mão está ao "
+"lado da boca. O skate dele é roxo com rodas laranjas. Há também um pai com "
+"seu filho andando na direção oposta: o pai está vestido com uma jaqueta azul "
+"e calças azuis e segura uma pasta marrom. Ele está a sorrir para a Ada. Seu "
+"filho tem uma camisa azul, calções azuis, sapatos brancos, uma mochila "
+"marrom, e um chapéu vermelho e branco. Ele segura sob seu braço um skate "
+"amarelo Zangemann com rodas marrom claro, e ele sorri para Ada. No fundo há "
+"uma padaria com grandes janelas através das quais você pode ver o pão. Tem "
+"um toldo listrado verde e branco ao virar da esquina e uma placa na calçada "
+"com a lista de produtos. Overhead, um pretzel grande é exibido. Na estrada "
+"há uma poça que reflete o azul do céu."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:759
@@ -1555,6 +1770,14 @@ msgid ""
 "Ada stops on her skateboard surrounded by children. Marie is on one end. She is pointing to Ada’s skateboard and she’s talking. Next to her is Konrad, with short blond hair, a dark gray helmet, glasses, a green shirt with white collar and cuffs, light blue pants with white cuffs, and gray shoes with white soles. He has a red skateboard with orange wheels. Behind Ada there are 4 "
 "other children. On the other end Toni is smiling. He touches his chin with one hand while with the other he holds a yellow helmet by the laces."
 msgstr ""
+"Ada pára em seu skate cercado por crianças. A Marie está numa ponta. Ela "
+"está apontando para o skate de Ada e ela está falando. Próximo dela está "
+"Konrad, com cabelo loiro curto, um capacete cinza escuro, óculos, uma camisa "
+"verde com colarinho e barras brancas, calças azuis claras com barras "
+"brancas, e sapatos cinza com solas brancas. Ele tem um skate vermelho com "
+"rodas laranjas. Atrás da Ada há outras 4 crianças. Do outro lado Toni está "
+"sorrindo. Ele toca seu queixo com uma mão enquanto com a outra ele segura um "
+"capacete amarelo pelos laços."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:769
@@ -1597,6 +1820,13 @@ msgid ""
 "Hopscotch diagram drawn with chalk on asphalt. In a row, within squares, the numbers 1, 2; 3 and 4 next to each other; 5, 6; and 7 and 8 next to each other. The number 9 is not inside a square but inside a wider semicircle beyond the squares of numbers 7 and 8. Between the number 1 and the number 2 there is a blue bottle with white polka dots. A yellow Zangemann skateboard with "
 "orange wheels on the side of the diagram actually hides the number 1."
 msgstr ""
+"Diagrama de Hopscotch desenhado com giz no asfalto. Em uma fileira, dentro "
+"dos quadrados, os números 1, 2; 3 e 4 ao lado uns dos outros; 5, 6; e 7 e 8 "
+"ao lado uns dos outros. O número 9 não está dentro de um quadrado, mas "
+"dentro de um semicírculo maior além dos quadrados dos números 7 e 8. Entre o "
+"número 1 e o número 2, há uma garrafa azul com bolinhas brancas. Um skate "
+"Zangemann amarelo com rodas laranjas no lado do diagrama na verdade esconde "
+"o número 1."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:781
@@ -1609,7 +1839,7 @@ msgstr "Hackeando para a liberdade"
 #. required color. Can be postponed to the publishing process. priority:70
 #: Ada_Zangemann.dbk:785
 msgid "images/capitals/M-yellow.png"
-msgstr ""
+msgstr "images/capitals/M-amarelo.png"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p30-1
@@ -1719,6 +1949,16 @@ msgid ""
 "Laboratory at the junkyard, under the veranda of Ada’s house. Ada is sitting on a water case with a leg bent under her, using a soldering iron. Konrad is standing next to her and dismounting a speaker. Marie is sitting on two tires with an arm resting on a table and her upside-down skateboard from which wires come out. She is talking with Alan, who is standing with his arms "
 "resting on the same table. On the table there are also: pliers, two wrenches, a spool of solder, a can of blue paint (a bit of paint has dried on the table), and a pitcher and two glasses containing a pink drink. Toni is testing his skateboard with added yellow wings and a fan. It burps."
 msgstr ""
+"Laboratório no ferro-velho, debaixo da varanda da casa de Ada. Ada está "
+"sentada em uma caixa d'água com uma perna dobrada sob ela, usando um ferro "
+"de solda. Konrad está ao lado dela e desmontando um alto-falante. Marie está "
+"sentada em dois pneus com um braço em cima de uma mesa e seu skate de cabeça "
+"para baixo de onde os fios saem. Ela está falando com Alan, que está de pé "
+"com seus braços descansando na mesma mesa. Na mesa há também: alicates, duas "
+"chaves inglesas, um carretel de solda, uma lata de tinta azul (um pouco de "
+"tinta secou sobre a mesa), e um jarro e dois copos contendo uma bebida rosa. "
+"Toni está testando seu skate com asas amarelas adicionadas e um ventilador. "
+"O skate arrota."
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -1737,6 +1977,11 @@ msgstr "images/illustrations/ada-p33.ltr.png"
 #: Ada_Zangemann.dbk:819
 msgid "Marie and Ada’s mom are dancing, facing each other. Alan, Ada, and Konrad are dancing in a circle. On the right there is a speaker playing, resting on an oil drum. Near the speaker there are two dancing mice. Toni is jumping through the tires. Ada’s dog is howling, and from his mouth come two distorted musical notes."
 msgstr ""
+"A mãe de Marie e Ada estão dançando, frente a frente. Alan, Ada e Konrad "
+"estão dançando em círculo. À direita há um alto-falante tocando, descansando "
+"em um tambor de óleo. Perto do alto-falante há dois ratos dançando. Toni "
+"está a saltar pelos pneus. O cão de Ada está uivando, e de sua boca vêm duas "
+"notas musicais distorcidas."
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -1757,6 +2002,12 @@ msgid ""
 "Hands holding wonderful ice cream cones: blue ice cream with a chocolate heart on top with a yellow heart on its center, and whipped cream on top of the chocolate; green ice cream with colored stars with a cucumber stuck on a stick; pink fish-shaped ice cream; pyramid-shaped ice cream with candies, and chocolate syrup, and a cherry on top; rainbow ice cream with a yellow "
 "umbrella; blue ghost-shaped ice cream with candies on it."
 msgstr ""
+"Mãos segurando maravilhosos cones de sorvete: sorvete azul com um coração de "
+"chocolate em cima com um coração amarelo no centro, e chantilly em cima do "
+"chocolate; sorvete verde com estrelas coloridas com um pepino preso em um "
+"pau; sorvete rosa em forma de peixe; sorvete em forma de pirâmide com doces, "
+"e xarope de chocolate, e uma cereja em cima; sorvete arco-íris com um guarda-"
+"chuva amarelo; sorvete azul em forma de fantasma com balas."
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -1775,7 +2026,7 @@ msgstr "images/illustrations/ada-p34-bottom.ltr.png"
 #. required color. Can be postponed to the publishing process. priority:70
 #: Ada_Zangemann.dbk:838
 msgid "images/capitals/E-pink.png"
-msgstr ""
+msgstr "images/capitals/E-rosa.png"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p35-1
@@ -1829,7 +2080,7 @@ msgstr "Zangemann e o Presidente"
 #. required color. Can be postponed to the publishing process. priority:70
 #: Ada_Zangemann.dbk:849
 msgid "images/capitals/O-green.png"
-msgstr ""
+msgstr "images/capitals/O-verde.png"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p36-1
@@ -1882,6 +2133,17 @@ msgid ""
 "tie, and a blue jacket with yellow buttons. The President is sitting on a green chair with white vertical lines, and his other hand is on the desk. On the desk, in addition to the videophone, there are sheets with something written on them and an open purple fountain pen. The President was eating a sandwich of meat and cheese with greens with two olives on a toothpick, over a "
 "blue napkin with white stripes."
 msgstr ""
+"O Presidente recebendo uma ligação do Zangemann zangado. O videofone "
+"consiste em um antigo telefone vermelho Zangemann ligado a um monitor. O "
+"rosto de Zangemann aparece no monitor, ao passo que um clarão amarelo da voz "
+"trovejante de Zangemann sai do telefone, e o presidente segura o receptor à "
+"distância do braço. O presidente tem cabelos brancos e usa uma camisa azul "
+"clara, uma gravata vermelha e um casaco azul com botões amarelos. O "
+"Presidente está sentado numa cadeira verde com linhas verticais brancas, e a "
+"sua outra mão está na mesa. Na mesa, além do videofone, há lençóis com algo "
+"escrito sobre eles e uma caneta fonte roxa aberta. O presidente estava "
+"comendo um sanduíche de carne e queijo com verdes com duas azeitonas em um "
+"palito, sobre um guardanapo azul com listras brancas."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:863
@@ -1930,15 +2192,28 @@ msgstr "Protesto"
 #. required color. Can be postponed to the publishing process. priority:70
 #: Ada_Zangemann.dbk:880
 msgid "images/capitals/T-cyan.png"
-msgstr ""
+msgstr "images/capitals/T-ciano.png"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p39-1
 #: Ada_Zangemann.dbk:880
+#, fuzzy
 msgid ""
 "<phrase condition=\"capitals-text\">The</phrase><phrase condition=\"capitals-img\">he</phrase> next day, they didn’t go to school. Instead, they rode their skateboards to the parliament building, with large protest signs under their arms, and sat down in front of the building. The evening before, they had put LED lights on some of the signs, which were now flashing brightly. They "
 "had connected their speakers together so everyone in the street could hear what they were saying. Some passersby stopped and asked the children what they were demonstrating for. “For software freedom!” they replied in unison and told the adults their story. Impressed, the adults nodded, and the president also looked curiously at their signs as he approached the building."
 msgstr ""
+"<phrase condition=\"capitals-text\">N</phrase><phrase condition=\"capitals-"
+"img\">o</phrase> dia seguinte, não foram à escola. Em vez disso, eles "
+"montaram em seus skates para o edifício do parlamento, com grandes cartazes "
+"de protesto sob seus braços, e sentaram-se em frente ao edifício. Na noite "
+"anterior, eles tinham colocado luzes LED em alguns dos cartazes, que estavam "
+"agora piscando brilhantemente. Eles tinham conectado seus alto-falantes "
+"juntos para que todos na rua pudessem ouvir o que estavam dizendo. Alguns "
+"pedestres pararam e perguntaram às crianças o que estavam demonstrando. “"
+"Pela liberdade de software!” responderam em uníssono e contaram aos adultos "
+"sua história. Impressionados, os adultos acenaram com a cabeça, e o "
+"presidente também olhou curiosamente para os seus sinais quando se aproximou "
+"do edifício."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:881
@@ -1992,7 +2267,7 @@ msgstr ""
 #. but some variants are generated in the automation.
 #: Ada_Zangemann.dbk:893
 msgid "images/illustrations/ada-p40-41.en.png"
-msgstr ""
+msgstr "images/illustrations/ada-p40-41.pt_BR.png"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -2003,6 +2278,21 @@ msgid ""
 "in his other hand; two parents holding the banner “Hacking 4 Freedom”; a lady holding an electronic sign “There is a code B”; two small birds, flying; the math teacher, Ms. Gernet, who has inserted in her cart a sign that says “They are young + need the code!“ The dog in her cart is barking; Ada and Konrad are carrying the banner “Don’t wreck our tech!” Marie and Toni are walking "
 "beneath the banner, and Marie is talking through a bullhorn held in her hand; Ada’s family’s dog is now wearing a red harness with shiny yellow LEDs that matches the collar."
 msgstr ""
+"Grupo de manifestantes. Entre eles estão: A mãe de Ada segurando a mão de "
+"Alan e levantando um sorvete rosa; 3 colegas do pai de Toni vestidos com "
+"gravatas; duas crianças segurando o cartaz “Faça seu dever de casa Sr. "
+"Presidente e nós faremos o nosso!”; um robô com pisos de tanque, ferros como "
+"pés, um ventilador elétrico como abdômen, um monitor como cabeça, e um "
+"batedor de ovos como uma mão, segurando um sorvete azul em sua outra mão; "
+"dois pais segurando o cartaz “Hacking pela Liberdade”; uma senhora segurando "
+"um sinal eletrônico “Há um código B”; dois pássaros pequenos, voando; a "
+"professora de matemática, Sra. Gernet, que inseriu em seu carrinho um sinal "
+"que diz “Eles são jovens + precisam do código!“ O cão em seu carrinho está "
+"latindo; Ada e Konrad estão carregando o banner “Não destrua nossa "
+"tecnologia!” Marie e Toni estão andando por baixo da bandeira, e Marie está "
+"falando através de um megafone segurado em sua mão; o cão da família de Ada "
+"está agora usando um arnês vermelho com LEDs amarelos brilhantes que "
+"combinam com o colarinho."
 
 #. (itstool) path: info/excerpt
 #. Text on big banner, left on the illustration
@@ -2019,7 +2309,7 @@ msgstr "Faça o seu dever de casa Sr. Presidente e nós faremos o nosso!"
 #. but some variants are generated in the automation.
 #: Ada_Zangemann.dbk:904
 msgid "images/illustrations/ada-p40.en.png"
-msgstr ""
+msgstr "images/illustrations/ada-p40.pt_BR.png"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -2039,7 +2329,7 @@ msgstr ""
 #. but some variants are generated in the automation.
 #: Ada_Zangemann.dbk:910
 msgid "images/illustrations/ada-p41.en.png"
-msgstr ""
+msgstr "images/illustrations/ada-p41.pt_BR.png"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -2047,6 +2337,11 @@ msgstr ""
 #: Ada_Zangemann.dbk:912
 msgid "Detail of the previous image: Ada and Konrad are carrying the banner “Don’t wreck our tech!” Marie and Toni are walking beneath the banner, and Marie is talking through a bullhorn held in her hand; Ada’s family’s little dog is now wearing a red harness with shiny yellow LEDs that matches the collar."
 msgstr ""
+"Detalhe da imagem anterior: Ada e Konrad estão carregando o estandarte “Não "
+"destrua nossa tecnologia!” Marie e Toni estão andando por baixo do "
+"estandarte, e Marie está falando através de um megafone segurado em sua mão; "
+"o cachorrinho da família de Ada está agora usando um arnês vermelho com LEDs "
+"amarelos brilhantes que combinam com o colarinho."
 
 #. (itstool) path: info/excerpt
 #. Text on square signe on the right of the illustration
@@ -2073,7 +2368,7 @@ msgstr "Crianças ajudam o governo"
 #. required color. Can be postponed to the publishing process. priority:70
 #: Ada_Zangemann.dbk:925
 msgid "images/capitals/A-violet.png"
-msgstr ""
+msgstr "images/capitals/A-violeta.png"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p42-1
@@ -2082,6 +2377,15 @@ msgid ""
 "<phrase condition=\"capitals-text\">Ada</phrase><phrase condition=\"capitals-img\">da</phrase> protested in front of the parliament building every week, even in pouring rain. On one such rainy day, when the president passed the group of dripping-wet children, he couldn’t help but admire their stubbornness. He asked Ada, “Why do you sit here every day? What do you want to "
 "achieve?” Ada replied, “We want to determine for ourselves what we can and cannot do with our computers.” Her friends shouted in unison: “Don’t wreck our tech! Don’t wreck our tech!” and “We want the code! We want the code!”"
 msgstr ""
+"<phrase condition=\"capitals-text\">Ada</phrase><phrase condition=\"capitals-"
+"img\">da</phrase> protestava em frente ao edifício do parlamento todas as "
+"semanas, mesmo em chuva. Num dia tão chuvoso, quando o presidente passou "
+"pelo grupo de crianças molhadas, ele não podia deixar de admirar sua "
+"teimosia. Ele perguntou a Ada: “Por que você se senta aqui todos os dias? O "
+"que você quer alcançar?” Ada respondeu: “Queremos determinar por nós mesmos "
+"o que podemos e não podemos fazer com nossos computadores.” Seus amigos "
+"gritaram em uníssono: “Não destrua nossa tecnologia! Não destrua nossa "
+"tecnologia!” e “Queremos o código! Queremos o código!”"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:926
@@ -2110,6 +2414,10 @@ msgstr "images/illustrations/ada-p42.ltr.png"
 #: Ada_Zangemann.dbk:932
 msgid "One of Ada’s friends lying on his stomach with one foot up in the air is typing on a laptop. He has wavy brown hair parted in the center, a red sweatshirt, blue pants, and white socks but no shoes. Next to the computer there are a green cup and two open books."
 msgstr ""
+"Um dos amigos de Ada deitado de barriga para cima com um pé no ar está "
+"digitando em um laptop. Ele tem cabelos castanhos ondulados separados no "
+"centro, uma camisola vermelha, calças azuis, e meias brancas, mas sem "
+"sapatos. Ao lado do computador há um copo verde e dois livros abertos."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:934
@@ -2159,6 +2467,13 @@ msgid ""
 "Ada and her friends in the President’s office. Ada is reprogramming the President’s computer. Toni is setting up a speaker for the President’s secretary. Marie and Konrad are sitting on the floor and talking, and Marie has a laptop on her legs with an FSFE logo sticker (three stars: pea green, sky blue, and sea blue). On the floor are a bowl with candy and a plate with ice "
 "creams. The President’s phone is ringing, but nobody is answering."
 msgstr ""
+"Ada e seus amigos no escritório do presidente. Ada está reprogramando o "
+"computador do presidente. Toni está criando um alto-falante para o "
+"secretário do Presidente. Marie e Konrad estão sentados no chão e "
+"conversando, e Marie tem um laptop em suas pernas com um adesivo de logotipo "
+"FSFE (três estrelas: verde ervilha, azul céu e azul mar). No chão há uma "
+"tigela com doces e um prato com sorvetes. O telefone do presidente está "
+"tocando, mas ninguém atende."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:949
@@ -2171,7 +2486,7 @@ msgstr "Nova lei"
 #. required color. Can be postponed to the publishing process. priority:70
 #: Ada_Zangemann.dbk:952
 msgid "images/capitals/T-red3.png"
-msgstr ""
+msgstr "images/capitals/T-vermelho3.png"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p44-1
@@ -2180,6 +2495,13 @@ msgid ""
 "<phrase condition=\"capitals-text\">The</phrase><phrase condition=\"capitals-img\">he</phrase> next morning, the president’s phone rang very early. It was Zangemann. He was angrier than ever. “Without me, the government computers will no longer work,” he threatened. But the president kept the call short and quickly hung up. The phone rang many more times that day, but Zangemann’s "
 "calls went unanswered. The president sat in a meeting with Ada, Toni, Marie, Konrad, and the government experts."
 msgstr ""
+"<phrase condition=\"capitals-text\">N</phrase><phrase condition=\"capitals-"
+"img\">a</phrase> manhã seguinte, o telefone do presidente tocou muito cedo. "
+"Era Zangemann. Ele estava mais zangado do que nunca. “Sem mim, os "
+"computadores do governo não funcionarão mais”, ameaçou. Mas o presidente "
+"manteve a chamada curta e rapidamente desligou. O telefone tocou muitas mais "
+"vezes naquele dia, mas as chamadas de Zangemann ficaram sem resposta. O "
+"presidente se reuniu com Ada, Toni, Marie, Konrad e especialistas do governo."
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -2253,6 +2575,11 @@ msgstr "images/illustrations/ada-p45.ltr.png"
 #: Ada_Zangemann.dbk:970
 msgid "The President with Toni, Konrad, Marie, Ada, and a herald playing a trumpet. Marie is standing on top of a ladder talking into a microphone. Konrad firmly holds the ladder on which Marie is standing. Ada is standing on a chair and holds a copy of the new law bearing a seal. Ada’s dog is sitting in front of her."
 msgstr ""
+"O Presidente com Toni, Konrad, Marie, Ada e um arauto tocando um trompete. "
+"Marie está em cima de uma escada falando em um microfone. Konrad segura "
+"firmemente a escada em que Marie está de pé. Ada está em pé numa cadeira e "
+"tem uma cópia da nova lei com um selo. O cão de Ada está sentado na frente "
+"dela."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:975
@@ -2281,6 +2608,12 @@ msgstr "images/illustrations/ada-p46.ltr.png"
 #: Ada_Zangemann.dbk:980
 msgid "Evening party. Children are holding ice cream and balloons with the words “I love FS (I love Free Software)”; other children are riding skateboards; yellow and orange flags are hanging; music comes out from a large speaker system; Ms. Gernet holds a pink tree-shaped ice cream with a yellow star on it; Ada’s mom is dancing with a gentleman."
 msgstr ""
+"Festa da noite. As crianças estão segurando sorvete e balões com as palavras "
+"“Eu amo SL (Eu amo Software Livre)”; outras crianças estão montando skates; "
+"bandeiras amarelas e laranjas estão penduradas; música sai de um grande "
+"sistema de alto-falantes; Sra. Gernet segura um sorvete em forma de árvore "
+"rosa com uma estrela amarela sobre ele; Ada mãe está dançando com um "
+"cavalheiro."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:984
@@ -2307,6 +2640,11 @@ msgstr "images/illustrations/ada-p47.ltr.png"
 #: Ada_Zangemann.dbk:989
 msgid "The President, the secretary, and other people around a table enjoying crazy ice cream; yellow and orange flags continue from the previous image; a little girl who just took a pink ghost-shaped ice cream from the modified ice cream machine; Ada’s dog, Konrad, Marie, Ada, and Toni sneaking away from the party."
 msgstr ""
+"O presidente, o secretário, e outras pessoas ao redor de uma mesa "
+"desfrutando de um sorvete louco; bandeiras amarelas e laranjas continuam a "
+"partir da imagem anterior; uma menina que acabou de tomar um sorvete rosa em "
+"forma de fantasma da máquina de sorvete modificada; cão de Ada, Konrad, "
+"Marie, Ada, e Toni escapando da festa."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:995
@@ -2319,7 +2657,7 @@ msgstr "E Zangemann?"
 #. required color. Can be postponed to the publishing process. priority:70
 #: Ada_Zangemann.dbk:999
 msgid "images/capitals/A-yellow.png"
-msgstr ""
+msgstr "images/capitals/A-amarelo.png"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p48-1
@@ -2328,6 +2666,16 @@ msgid ""
 "<phrase condition=\"capitals-text\">And</phrase><phrase condition=\"capitals-img\">nd</phrase> Zangemann? No one’s heard much from him. Maybe he’s still sitting angrily in front of his golden computer. Maybe he doesn’t dare go out into the street anymore and has boarded up all the windows of his mansion so that he doesn’t have to worry about what other people are doing with his "
 "inventions. But maybe he also sometimes looks out into the world through his telescope and sees what the children are inventing every day. Perhaps then he will remember how much fun it was for himself to tinker and experiment. And maybe, just maybe, he eats pyramid-shaped raspberry ice cream with rainbow sprinkles."
 msgstr ""
+"<phrase condition=\"capitals-text\">E</phrase><phrase condition=\"capitals-"
+"img\"></phrase> Zangemann? Ninguém ouviu muito dele. Talvez ele ainda esteja "
+"irritado sentado em frente ao seu computador dourado. Talvez ele não se "
+"atreva mais a sair para a rua e tenha encaixotado todas as janelas de sua "
+"mansão para que ele não tenha que se preocupar com o que outras pessoas "
+"estão fazendo com suas invenções. Mas talvez também olhe para o mundo "
+"através de seu telescópio e veja o que as crianças inventam todos os dias. "
+"Talvez então ele se lembre de como foi divertido para ele mesmo mexer e "
+"experimentar. E talvez, talvez, coma sorvete de framboesa em forma de "
+"pirâmide com granulados arco-íris."
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -2380,7 +2728,7 @@ msgstr "Agradecimentos"
 #. but some variants are generated in the automation.
 #: Ada_Zangemann.dbk:1023
 msgid "images/illustrations/ada-p50-title.en.png"
-msgstr ""
+msgstr "images/illustrations/ada-p50-title.pt_BR.png"
 
 #. (itstool) path: simplesect/para
 #. In the acknowledgments of the English version you can change 'No Starch
@@ -2467,7 +2815,7 @@ msgstr "Sobre o Autor - Matthias Kirschner"
 #. but some variants are generated in the automation.
 #: Ada_Zangemann.dbk:1052
 msgid "images/illustrations/ada-p52-title.en.png"
-msgstr ""
+msgstr "images/illustrations/ada-p52-title.pt_BR.png"
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -2527,7 +2875,7 @@ msgstr "Sobre a Ilustradora - Sandra Brandstätter"
 #. but some variants are generated in the automation.
 #: Ada_Zangemann.dbk:1075
 msgid "images/illustrations/ada-p53-title.en.png"
-msgstr ""
+msgstr "images/illustrations/ada-p53-title.pt_BR.png"
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -2574,7 +2922,7 @@ msgstr "Site do livro"
 #. but some variants are generated in the automation.
 #: Ada_Zangemann.dbk:1095
 msgid "images/illustrations/ada-p54-title.en.png"
-msgstr ""
+msgstr "images/illustrations/ada-p54-title.pt_BR.png"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1100
@@ -2613,7 +2961,7 @@ msgstr "Licença"
 #. but some variants are generated in the automation.
 #: Ada_Zangemann.dbk:1112
 msgid "images/illustrations/ada-p55-title.en.png"
-msgstr ""
+msgstr "images/illustrations/ada-p55-title.pt_BR.png"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1117
