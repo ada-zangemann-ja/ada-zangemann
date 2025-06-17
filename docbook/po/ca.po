@@ -4,10 +4,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2025-05-06 19:03+0200\n"
+"POT-Creation-Date: 2025-06-17 20:33+0200\n"
 "PO-Revision-Date: 2025-05-06 19:16+0200\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Catalan <https://hosted.weblate.org/projects/fsfe/ada-zangemann/ca/>\n"
+"Language-Team: Catalan <https://hosted.weblate.org/projects/fsfe/ada-"
+"zangemann/ca/>\n"
 "Language: ca\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -50,13 +51,17 @@ msgstr ""
 #. (itstool) path: info/author
 #. ignore-same
 #: Ada_Zangemann.dbk:267
-msgid "<personname> <firstname>Matthias</firstname> <surname>Kirschner</surname> </personname>"
+msgid ""
+"<personname> <firstname>Matthias</firstname> <surname>Kirschner</surname> </"
+"personname>"
 msgstr ""
 
 #. (itstool) path: info/othercredit
 #. ignore-same
 #: Ada_Zangemann.dbk:273
-msgid "<personname> <firstname>Sandra</firstname> <surname>Brandstätter</surname> </personname>"
+msgid ""
+"<personname> <firstname>Sandra</firstname> <surname>Brandstätter</surname> </"
+"personname>"
 msgstr ""
 
 #. (itstool) path: character/charactername
@@ -170,10 +175,23 @@ msgstr "images/illustrations/ada-a01-nosubtitle.ltr.png"
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:320
 msgid ""
-"Ada &amp; Zangemann - A Tale of Software, Skateboards, and Raspberry Ice Cream. By Matthias Kirschner and Sandra Brandstätter. On a mostly desaturated dark cyan background, in a frame composed of sometimes curled white lines that connect a mouse, a keyboard, and a pink smartphone, Ada and Zangemann are facing each other, both with their hands on their hips as a sign of challenge. "
-"Ada is smiling and Zangemann is frowning. Ada has black hair collected in two big right- and left-bound ringlets with red rubber bands, and red cheeks. She has little yellow stud earrings. She wears cyan and white horizontal striped shorts and a yellow shirt over a white undershirt that ends with embroidery that goes beyond the shirt. The shirt and undershirt come out over the "
-"shorts. Above the shirt Ada wears a blue hoodie. Ada is wearing red shoes with white tips and soles, and short white socks. She has one foot on a skateboard and the other on the ground. Zangemann has short gray hair and square glasses. He is wearing a purple turtle-neck sweater, light blue pants turned up, brown shoes, and white socks. He’s wearing a big tech watch. Above "
-"Zangemann there are a pair of pliers with red handles crossing the wire frame."
+"Ada &amp; Zangemann - A Tale of Software, Skateboards, and Raspberry Ice "
+"Cream. By Matthias Kirschner and Sandra Brandstätter. On a mostly "
+"desaturated dark cyan background, in a frame composed of sometimes curled "
+"white lines that connect a mouse, a keyboard, and a pink smartphone, Ada and "
+"Zangemann are facing each other, both with their hands on their hips as a "
+"sign of challenge. Ada is smiling and Zangemann is frowning. Ada has black "
+"hair collected in two big right- and left-bound ringlets with red rubber "
+"bands, and red cheeks. She has little yellow stud earrings. She wears cyan "
+"and white horizontal striped shorts and a yellow shirt over a white "
+"undershirt that ends with embroidery that goes beyond the shirt. The shirt "
+"and undershirt come out over the shorts. Above the shirt Ada wears a blue "
+"hoodie. Ada is wearing red shoes with white tips and soles, and short white "
+"socks. She has one foot on a skateboard and the other on the ground. "
+"Zangemann has short gray hair and square glasses. He is wearing a purple "
+"turtle-neck sweater, light blue pants turned up, brown shoes, and white "
+"socks. He’s wearing a big tech watch. Above Zangemann there are a pair of "
+"pliers with red handles crossing the wire frame."
 msgstr ""
 
 #. (itstool) path: imageobject/imagedata@fileref
@@ -191,7 +209,9 @@ msgstr "images/illustrations/ada-z04.ltr.png"
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:329
-msgid "A soldering iron and a brush and can with yellow paint, connected by white electrical cord that forms a frame."
+msgid ""
+"A soldering iron and a brush and can with yellow paint, connected by white "
+"electrical cord that forms a frame."
 msgstr ""
 
 #. (itstool) path: simplesect/para@dropcapfileref
@@ -207,22 +227,39 @@ msgstr ""
 #: Ada_Zangemann.dbk:332
 #, fuzzy
 msgid ""
-"<phrase condition=\"capitals-text\">The</phrase><phrase condition=\"capitals-img\">he</phrase> inventor Zangemann is world-famous and immensely rich. Adults and children alike love his fabulous technical inventions. But one day there is a problem: the children’s electronic skateboards no longer work properly. What’s going on? The curious girl Ada sees through what is going on. "
-"Together with her friends, she experiments with hardware and software, and the children forge a plan: Zangemann can no longer be the only one in control of the devices!"
+"<phrase condition=\"capitals-text\">The</phrase><phrase condition=\"capitals-"
+"img\">he</phrase> inventor Zangemann is world-famous and immensely rich. "
+"Adults and children alike love his fabulous technical inventions. But one "
+"day there is a problem: the children’s electronic skateboards no longer work "
+"properly. What’s going on? The curious girl Ada sees through what is going "
+"on. Together with her friends, she experiments with hardware and software, "
+"and the children forge a plan: Zangemann can no longer be the only one in "
+"control of the devices!"
 msgstr ""
-"<phrase condition=\"capitals-text\">L’inventor</phrase><phrase condition=\"capitals-img\">’inventor</phrase> Zangemann és famós a tot el món i és, també, immensament ric! Grans i menuts adoren els seus fabulosos invents tecnològics. Però un dia ocorre un problema: els monopatins electrònics de xiquets i xiquetes deixen de funcionar com deurien. Què està passant? La curiosa Ada ho "
-"descobreix. Ella i els seus amics i amigues fan experiments amb els seus propis programes d’ordinador i elaboren un pla: Zangemann ha de deixar de ser l’únic que controle els aparells!"
+"<phrase condition=\"capitals-text\">L’inventor</phrase><phrase "
+"condition=\"capitals-img\">’inventor</phrase> Zangemann és famós a tot el "
+"món i és, també, immensament ric! Grans i menuts adoren els seus fabulosos "
+"invents tecnològics. Però un dia ocorre un problema: els monopatins "
+"electrònics de xiquets i xiquetes deixen de funcionar com deurien. Què està "
+"passant? La curiosa Ada ho descobreix. Ella i els seus amics i amigues fan "
+"experiments amb els seus propis programes d’ordinador i elaboren un pla: "
+"Zangemann ha de deixar de ser l’únic que controle els aparells!"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:333
-msgid "A book that arouses interest in tinkering and encourages shaping technology."
-msgstr "Un llibre infantil que transmet la joia de fer experiments i anima a l’ús autònom de la tecnologia."
+msgid ""
+"A book that arouses interest in tinkering and encourages shaping technology."
+msgstr ""
+"Un llibre infantil que transmet la joia de fer experiments i anima a l’ús "
+"autònom de la tecnologia."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:340
-msgid "A power strip, with input and output of white electrical cord that is the frame."
+msgid ""
+"A power strip, with input and output of white electrical cord that is the "
+"frame."
 msgstr ""
 
 #. (itstool) path: imageobject/imagedata@fileref
@@ -272,8 +309,10 @@ msgid "Colophon"
 msgstr ""
 
 #. (itstool) path: simplesect/literallayout
-#. Simple colophon for non-print use. Please reuse the license text
-#. translation from the official Creative Commons website
+#. Smaller colophon to be combined with grey free cultural license
+#. section. Intended for non-print use or print if it fits. Otherwise use
+#. the fullpage colophon. Please reuse the license text translation from
+#. the official Creative Commons website
 #. https://creativecommons.org/licenses/by-sa/4.0/
 #.
 #. In a literallayout element all space and newline characters are kept.
@@ -300,9 +339,10 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: simplesect/literallayout
-#. Print colophon covering the entire page. Please reuse the license text
-#. translation from the official Creative Commons website
-#. https://creativecommons.org/licenses/by-sa/4.0/
+#. Full page colophon. Intended for print use, as an alternative to the
+#. half-page colophon that is combined with the grey free cultural license
+#. section. Please reuse the license text translation from the official
+#. Creative Commons website https://creativecommons.org/licenses/by-sa/4.0/
 #.
 #. In a literallayout element all space and newline characters are kept.
 #: Ada_Zangemann.dbk:389
@@ -362,7 +402,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: simplesect/literallayout
-#. Grey section in the bottom of the simple colophon.
+#. Grey section in the bottom of half page colophon.
 #.
 #. In a literallayout element all space and newline characters are kept.
 #: Ada_Zangemann.dbk:443
@@ -386,7 +426,12 @@ msgstr ""
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:459
-msgid "Matthias Kirschner, Sandra Brandstätter - ADA &amp; ZANGEMANN - A Tale of Software, Skateboards and Raspberry Ice Cream. Title in the middle, authors in the upper left. In the lower right, Ada’s family’s dog with gray fur and some white patches and with a red collar with shiny yellow LEDs, which wags its tail."
+msgid ""
+"Matthias Kirschner, Sandra Brandstätter - ADA &amp; ZANGEMANN - A Tale of "
+"Software, Skateboards and Raspberry Ice Cream. Title in the middle, authors "
+"in the upper left. In the lower right, Ada’s family’s dog with gray fur and "
+"some white patches and with a red collar with shiny yellow LEDs, which wags "
+"its tail."
 msgstr ""
 
 #. (itstool) path: imageobject/imagedata@fileref
@@ -435,7 +480,9 @@ msgstr "images/illustrations/ada-p03-titleonly.ltr.png"
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:476
-msgid "ADA &amp; ZANGEMANN - A Tale of Software, Skateboards and Raspberry Ice Cream. Title in the middle, authors in the upper left."
+msgid ""
+"ADA &amp; ZANGEMANN - A Tale of Software, Skateboards and Raspberry Ice "
+"Cream. Title in the middle, authors in the upper left."
 msgstr ""
 
 #. (itstool) path: imageobject/imagedata@fileref
@@ -453,7 +500,9 @@ msgstr "images/illustrations/ada-p03-dog.ltr.png"
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:483
-msgid "In the lower right, Ada’s family’s dog with gray fur and some white patches and with a red collar with shiny yellow LEDs, which wags its tail."
+msgid ""
+"In the lower right, Ada’s family’s dog with gray fur and some white patches "
+"and with a red collar with shiny yellow LEDs, which wags its tail."
 msgstr ""
 
 #. (itstool) path: simplesect/literallayout
@@ -491,11 +540,19 @@ msgstr ""
 #. (itstool) id: Ada_Zangemann.dbk#para-p04-1
 #: Ada_Zangemann.dbk:500
 msgid ""
-"<phrase condition=\"capitals-text\">Once</phrase><phrase condition=\"capitals-img\">nce</phrase> upon a time, there was a little girl named Ada. Her family was so poor that all their savings fit inside a cookie jar. They didn’t have enough money to live in a proper home. Instead, Ada lived with her mother and her little brother, Alan, in a cabin near a junkyard on the edge of "
-"town."
+"<phrase condition=\"capitals-text\">Once</phrase><phrase "
+"condition=\"capitals-img\">nce</phrase> upon a time, there was a little girl "
+"named Ada. Her family was so poor that all their savings fit inside a cookie "
+"jar. They didn’t have enough money to live in a proper home. Instead, Ada "
+"lived with her mother and her little brother, Alan, in a cabin near a "
+"junkyard on the edge of town."
 msgstr ""
-"<phrase condition=\"capitals-text\">Hi</phrase><phrase condition=\"capitals-img\">i</phrase> havia una volta una xiqueta que es deia Ada. La seua família era tan pobra que tots els seus estalvis cabien en una caixa de galletes. No tenien prou diners per a viure en una casa en condicions. En comptes d’això, Ada vivia amb sa mare i el seu germà menut, Alan, en una cabanya prop d'un "
-"abocador de ferralla vora la ciutat."
+"<phrase condition=\"capitals-text\">Hi</phrase><phrase condition=\"capitals-"
+"img\">i</phrase> havia una volta una xiqueta que es deia Ada. La seua "
+"família era tan pobra que tots els seus estalvis cabien en una caixa de "
+"galletes. No tenien prou diners per a viure en una casa en condicions. En "
+"comptes d’això, Ada vivia amb sa mare i el seu germà menut, Alan, en una "
+"cabanya prop d'un abocador de ferralla vora la ciutat."
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -513,11 +570,30 @@ msgstr "images/illustrations/ada-p04.ltr.png"
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:508
 msgid ""
-"Ada in foreground leaving the house to go to school, in the background Ada’s house and the junkyard. Ada has a brown backpack with yellow shoulder straps. To the left of Ada there is a red car, a Volkswagen Beetle, without wheels and no longer working, with one of the headlights remaining attached only with its wires. On the left, in front of the car, there are two tires, two "
-"boxes – one of which is a wooden box with an overturned bucket –, and an empty can, all among some plants with yellow flowers. In the background there is Ada’s house, with her mother and her brother Alan waving goodbye, and the dog sitting on the ground. Alan is sitting on the two entrance steps of the house. He has short dark hair and is dressed in a white short-sleeved shirt "
-"with a red stripe at the edges of the sleeves and two red stripes at the bottom of the shirt. Alan wears blue shorts and he is barefoot. Ada’s mom has dark lipstick and long black hair in a white headband. She is wearing a short blue shirt with white trim, white pants, and yellow shoes. Ada’s house is built of wood, with the front being white. The roof is dark red corrugated "
-"sheeting. There are two windows in front in addition to the door, and another window on the left side. A yellow duck stands on top of the roof, while a gray chimney protrudes. An antenna on the left of the roof supports a clothesline on which red clothespins hold a green tank top, a pair of light blue pants, and white underpants. To the right of the house there is a veranda on "
-"which there is installed a solar panel. Under the veranda there are a mattress, a red oil drum, and a gray case. Behind the house there are piles of landfill objects among which you can see a washing machine, a car, and various wooden boards."
+"Ada in foreground leaving the house to go to school, in the background Ada’s "
+"house and the junkyard. Ada has a brown backpack with yellow shoulder "
+"straps. To the left of Ada there is a red car, a Volkswagen Beetle, without "
+"wheels and no longer working, with one of the headlights remaining attached "
+"only with its wires. On the left, in front of the car, there are two tires, "
+"two boxes – one of which is a wooden box with an overturned bucket –, and an "
+"empty can, all among some plants with yellow flowers. In the background "
+"there is Ada’s house, with her mother and her brother Alan waving goodbye, "
+"and the dog sitting on the ground. Alan is sitting on the two entrance steps "
+"of the house. He has short dark hair and is dressed in a white short-sleeved "
+"shirt with a red stripe at the edges of the sleeves and two red stripes at "
+"the bottom of the shirt. Alan wears blue shorts and he is barefoot. Ada’s "
+"mom has dark lipstick and long black hair in a white headband. She is "
+"wearing a short blue shirt with white trim, white pants, and yellow shoes. "
+"Ada’s house is built of wood, with the front being white. The roof is dark "
+"red corrugated sheeting. There are two windows in front in addition to the "
+"door, and another window on the left side. A yellow duck stands on top of "
+"the roof, while a gray chimney protrudes. An antenna on the left of the roof "
+"supports a clothesline on which red clothespins hold a green tank top, a "
+"pair of light blue pants, and white underpants. To the right of the house "
+"there is a veranda on which there is installed a solar panel. Under the "
+"veranda there are a mattress, a red oil drum, and a gray case. Behind the "
+"house there are piles of landfill objects among which you can see a washing "
+"machine, a car, and various wooden boards."
 msgstr ""
 
 #. (itstool) path: imageobject/imagedata@fileref
@@ -535,17 +611,29 @@ msgstr "images/illustrations/ada-p05.ltr.png"
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:516
-msgid "Prestigious magazines (“STARS“, “MONEY”, “Richest Man”) on whose cover are Zangemann and his villa."
+msgid ""
+"Prestigious magazines (“STARS“, “MONEY”, “Richest Man”) on whose cover are "
+"Zangemann and his villa."
 msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:518
 msgid ""
-"Far away, at the other end of town, lived a famous inventor named Zangemann. He was immensely rich. No sheet of paper in the world was big enough to show his bank balance with all its numbers and zeros! He lived in a huge house with a swimming pool and waterslide, lots of staircases and towers, hundreds of windows, and so many rooms that he often got lost in them himself. "
-"Zangemann’s mansion stood high on a hill. From there, he could look out over the whole city."
+"Far away, at the other end of town, lived a famous inventor named Zangemann. "
+"He was immensely rich. No sheet of paper in the world was big enough to show "
+"his bank balance with all its numbers and zeros! He lived in a huge house "
+"with a swimming pool and waterslide, lots of staircases and towers, hundreds "
+"of windows, and so many rooms that he often got lost in them himself. "
+"Zangemann’s mansion stood high on a hill. From there, he could look out over "
+"the whole city."
 msgstr ""
-"Molt lluny, a l’altra banda de la ciutat, vivia un inventor famós anomenat Zangemann. Era immensament ric. No hi havia full de paper al món prou gran per a mostrar el seu balanç bancari amb tots els seus números i zeros. Vivia en una casa enorme amb una piscina i un tobogan, moltes escales i torres, centenars de finestres i tantes habitacions que sovint ell mateix s’hi perdia. La "
-"mansió de Zangemann es trobava al cim d’un puig des d'on podia veure la ciutat sencera."
+"Molt lluny, a l’altra banda de la ciutat, vivia un inventor famós anomenat "
+"Zangemann. Era immensament ric. No hi havia full de paper al món prou gran "
+"per a mostrar el seu balanç bancari amb tots els seus números i zeros. Vivia "
+"en una casa enorme amb una piscina i un tobogan, moltes escales i torres, "
+"centenars de finestres i tantes habitacions que sovint ell mateix s’hi "
+"perdia. La mansió de Zangemann es trobava al cim d’un puig des d'on podia "
+"veure la ciutat sencera."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:523
@@ -564,18 +652,49 @@ msgstr ""
 #. (itstool) id: Ada_Zangemann.dbk#para-p06-1
 #: Ada_Zangemann.dbk:527
 msgid ""
-"<phrase condition=\"capitals-text\">Computers</phrase><phrase condition=\"capitals-img\">omputers</phrase> had fascinated Zangemann ever since he was a child. When he was young, computers were huge machines with lots of cables and loud, noisy fans. At school, little Zangemann often dreamed of all the things he would do with computers if they were just a little bit smaller — small "
-"enough that they could be built into other fun things. He knew what he would do. First, he would build a computer into his skateboard so that it would make cool noises when he rode it — maybe a fire engine siren or the sound of a rocket launch. Then he would use a computer to invent ice‑cream-making machines! The computer would mix the coolest flavors and even sell the ice cream. "
-"There would be machines on every street corner, and he could get ice cream in his favorite flavor whenever he felt like it, and just as much as he wanted. After that, he’d build a cleaning robot and a block-sorting machine so that his room would always be neat and clean. Zangemann had great new ideas like these every day. He could think of nothing else."
+"<phrase condition=\"capitals-text\">Computers</phrase><phrase "
+"condition=\"capitals-img\">omputers</phrase> had fascinated Zangemann ever "
+"since he was a child. When he was young, computers were huge machines with "
+"lots of cables and loud, noisy fans. At school, little Zangemann often "
+"dreamed of all the things he would do with computers if they were just a "
+"little bit smaller — small enough that they could be built into other fun "
+"things. He knew what he would do. First, he would build a computer into his "
+"skateboard so that it would make cool noises when he rode it — maybe a fire "
+"engine siren or the sound of a rocket launch. Then he would use a computer "
+"to invent ice‑cream-making machines! The computer would mix the coolest "
+"flavors and even sell the ice cream. There would be machines on every street "
+"corner, and he could get ice cream in his favorite flavor whenever he felt "
+"like it, and just as much as he wanted. After that, he’d build a cleaning "
+"robot and a block-sorting machine so that his room would always be neat and "
+"clean. Zangemann had great new ideas like these every day. He could think of "
+"nothing else."
 msgstr ""
-"<phrase condition=\"capitals-text\">Els</phrase><phrase condition=\"capitals-img\">ls</phrase> ordinadors havien fascinat Zangemann des de menut. Quan era jove, els ordinadors eren màquines enormes amb molts cables i ventiladors escandalosos. A l’escola, el petit Zangemann solia somniar amb totes les coses que podria fer amb ordinadors si foren només un poc més menuts —prou "
-"menuts com per a ficar‐los en altres coses divertides. Sabia què faria. Primer, ficaria un ordinador en el seu monopatí perquè fera sons divertits quan el muntara —potser una sirena de bombers o el so d’un coet que s’enlaira. Després, usaria un ordinador per a inventar màquines de fer gelat! L’ordinador mesclaria els sabors més bons i inclús vendria gelats. Hi hauria màquines en "
-"cada cantó dels carrers i podria prendre gelat del seu sabor preferit sempre que li abellira, i tant com en volguera. A més a més, crearia un robot de neteja i una màquina per a ordenar blocs i, així, la seua habitació sempre estaria neta i ordenada. Zangemann tenia grans idees com eixes cada dia; no podia pensar en una altra cosa."
+"<phrase condition=\"capitals-text\">Els</phrase><phrase condition=\"capitals-"
+"img\">ls</phrase> ordinadors havien fascinat Zangemann des de menut. Quan "
+"era jove, els ordinadors eren màquines enormes amb molts cables i "
+"ventiladors escandalosos. A l’escola, el petit Zangemann solia somniar amb "
+"totes les coses que podria fer amb ordinadors si foren només un poc més "
+"menuts —prou menuts com per a ficar‐los en altres coses divertides. Sabia "
+"què faria. Primer, ficaria un ordinador en el seu monopatí perquè fera sons "
+"divertits quan el muntara —potser una sirena de bombers o el so d’un coet "
+"que s’enlaira. Després, usaria un ordinador per a inventar màquines de fer "
+"gelat! L’ordinador mesclaria els sabors més bons i inclús vendria gelats. Hi "
+"hauria màquines en cada cantó dels carrers i podria prendre gelat del seu "
+"sabor preferit sempre que li abellira, i tant com en volguera. A més a més, "
+"crearia un robot de neteja i una màquina per a ordenar blocs i, així, la "
+"seua habitació sempre estaria neta i ordenada. Zangemann tenia grans idees "
+"com eixes cada dia; no podia pensar en una altra cosa."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:528
-msgid "As the years went by, Zangemann grew bigger and computers got smaller. In fact, by the time he finished school, they were so small they fit in his pocket. The smallest ones even fit on his fingertip."
-msgstr "Amb el pas dels anys, Zangemann es va anar fent més gran i els ordinadors cada cop més menuts. De fet, quan acabà l’escola, eren tan menuts que cabien en la seua butxaca. Els més menuts inclús cabien en la punta del seu dit."
+msgid ""
+"As the years went by, Zangemann grew bigger and computers got smaller. In "
+"fact, by the time he finished school, they were so small they fit in his "
+"pocket. The smallest ones even fit on his fingertip."
+msgstr ""
+"Amb el pas dels anys, Zangemann es va anar fent més gran i els ordinadors "
+"cada cop més menuts. De fet, quan acabà l’escola, eren tan menuts que cabien "
+"en la seua butxaca. Els més menuts inclús cabien en la punta del seu dit."
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -593,14 +712,28 @@ msgstr "images/illustrations/ada-p07.ltr.png"
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:535
 msgid ""
-"Zangemann as a child on a chair at a school table. From his head come six bubbles in which there are his ideas of places in which to insert computers: a video call system, a speaker, a washing machine, a skateboard with radio control on a big computer monitor, a wrist computer, and a shoulder computer with a monitor and keyboard. Zangemann has gray hair, a dark purple shirt with "
-"blue horizontal stripes, blue shorts, brown shoes and white socks. He wears glasses and a big watch on his left wrist. On the table there are an open notebook, a yellow pencil, and an eraser, while hanging on the side of the table there is his brown briefcase."
+"Zangemann as a child on a chair at a school table. From his head come six "
+"bubbles in which there are his ideas of places in which to insert computers: "
+"a video call system, a speaker, a washing machine, a skateboard with radio "
+"control on a big computer monitor, a wrist computer, and a shoulder computer "
+"with a monitor and keyboard. Zangemann has gray hair, a dark purple shirt "
+"with blue horizontal stripes, blue shorts, brown shoes and white socks. He "
+"wears glasses and a big watch on his left wrist. On the table there are an "
+"open notebook, a yellow pencil, and an eraser, while hanging on the side of "
+"the table there is his brown briefcase."
 msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:540
-msgid "“Finally, I can turn all my ideas into real things!” Zangemann exclaimed, and he got right to work. He found ways to put the small computers into all kinds of things to make them even more fun and useful. And then he sold them."
-msgstr "«Per fi puc convertir totes les meues idees en realitat!» exclamà Zangemann, i es posà a treballar tot seguit. Va trobar formes de ficar els ordinadors xicotets en objectes de tota mena per a fer‐les encara més divertits i útils i llavors vendre'ls."
+msgid ""
+"“Finally, I can turn all my ideas into real things!” Zangemann exclaimed, "
+"and he got right to work. He found ways to put the small computers into all "
+"kinds of things to make them even more fun and useful. And then he sold them."
+msgstr ""
+"«Per fi puc convertir totes les meues idees en realitat!» exclamà Zangemann, "
+"i es posà a treballar tot seguit. Va trobar formes de ficar els ordinadors "
+"xicotets en objectes de tota mena per a fer‐les encara més divertits i útils "
+"i llavors vendre'ls."
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -618,18 +751,38 @@ msgstr "images/illustrations/ada-p08b.ltr.png"
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:545
 msgid ""
-"Zangemann original ice cream machine. It is ice blue in color and is similar to a vending machine of drinks, but instead of the cup there is a cone that is filled with ice cream. Above the dispenser there is a monitor showing the variety that is distributed, in this case pineapple ice cream. On the left there are the slot for inserting coins, the various buttons to choose the "
-"flavor, and the hole for returning coins. At the top there is a round white sign with a scoop of candy-pink ice cream in a cone. On the back of the machine there is the refrigeration machinery with the “Z” of the Zangemann logo."
+"Zangemann original ice cream machine. It is ice blue in color and is similar "
+"to a vending machine of drinks, but instead of the cup there is a cone that "
+"is filled with ice cream. Above the dispenser there is a monitor showing the "
+"variety that is distributed, in this case pineapple ice cream. On the left "
+"there are the slot for inserting coins, the various buttons to choose the "
+"flavor, and the hole for returning coins. At the top there is a round white "
+"sign with a scoop of candy-pink ice cream in a cone. On the back of the "
+"machine there is the refrigeration machinery with the “Z” of the Zangemann "
+"logo."
 msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:547
 msgid ""
-"Adults and children loved his inventions. All the kids wanted to have one of his skateboards — complete with the latest sounds to show off to their friends at school. Kids also loved his speaker invention, which could instantly play any song you requested. And, of course, everyone loved the ice cream served every afternoon from the automatic, extra-delicious Original Zangemann "
-"Ice Cream Machine. It all seemed like magic, but the secret was simple: the little computers that Zangemann built into his machines made it all possible."
+"Adults and children loved his inventions. All the kids wanted to have one of "
+"his skateboards — complete with the latest sounds to show off to their "
+"friends at school. Kids also loved his speaker invention, which could "
+"instantly play any song you requested. And, of course, everyone loved the "
+"ice cream served every afternoon from the automatic, extra-delicious "
+"Original Zangemann Ice Cream Machine. It all seemed like magic, but the "
+"secret was simple: the little computers that Zangemann built into his "
+"machines made it all possible."
 msgstr ""
-"Els seus invents encantaven a grans i menuts. Tots els xiquets i xiquetes volien tenir un dels seus monopatins —tots incloent els sons més nous per a presumir davant dels amics a l’escola. També els fascinava l’altaveu, inventat per Zangemann, que podia tocar qualsevol cançó que li demanares al moment. I, per descomptat, a tothom li encantava el gelat servit cada vesprada de "
-"forma automàtica i superdeliciosa per la Màquina de Gelats Original de Zangemann. Tot allò semblava màgia, però el secret era simple: els ordinadors xicotets que Zangemann ficava en les seues màquines ho feien possible."
+"Els seus invents encantaven a grans i menuts. Tots els xiquets i xiquetes "
+"volien tenir un dels seus monopatins —tots incloent els sons més nous per a "
+"presumir davant dels amics a l’escola. També els fascinava l’altaveu, "
+"inventat per Zangemann, que podia tocar qualsevol cançó que li demanares al "
+"moment. I, per descomptat, a tothom li encantava el gelat servit cada "
+"vesprada de forma automàtica i superdeliciosa per la Màquina de Gelats "
+"Original de Zangemann. Tot allò semblava màgia, però el secret era simple: "
+"els ordinadors xicotets que Zangemann ficava en les seues màquines ho feien "
+"possible."
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -646,7 +799,10 @@ msgstr "images/illustrations/ada-p08a.ltr.png"
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:552
-msgid "An original Zangemann electric skateboard leaving a blue trail with musical notes and colored circles. Only the knees, white socks, and olive green shoes with white soles of the child riding it are shown."
+msgid ""
+"An original Zangemann electric skateboard leaving a blue trail with musical "
+"notes and colored circles. Only the knees, white socks, and olive green "
+"shoes with white soles of the child riding it are shown."
 msgstr ""
 
 #. (itstool) path: imageobject/imagedata@fileref
@@ -665,42 +821,95 @@ msgstr "images/illustrations/ada-p09.ltr.png"
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:560
 msgid ""
-"Ada tinkers with objects in her improvised lab. Ada is sitting on an overturned water case, and working on a repair with a yellow screwdriver. Also on the table are green pliers, a red hammer, a white power strip, and another gadget. Ada is at a table consisting of a wooden board supported by two oil drums (one gray and one red) and a small wooden sawhorse. Behind Ada there are a "
-"washing machine, pipes, and a board. In front of the improvised table there are tires and an old phone with faulty wire. Alan is coming toward Ada holding a yellow fan over his head. Alan now wears white socks and yellow shoes."
+"Ada tinkers with objects in her improvised lab. Ada is sitting on an "
+"overturned water case, and working on a repair with a yellow screwdriver. "
+"Also on the table are green pliers, a red hammer, a white power strip, and "
+"another gadget. Ada is at a table consisting of a wooden board supported by "
+"two oil drums (one gray and one red) and a small wooden sawhorse. Behind Ada "
+"there are a washing machine, pipes, and a board. In front of the improvised "
+"table there are tires and an old phone with faulty wire. Alan is coming "
+"toward Ada holding a yellow fan over his head. Alan now wears white socks "
+"and yellow shoes."
 msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:562
-msgid "These inventions were very popular at Ada’s school, and many of her friends rode around on the cool skateboards. Ada was often sad, since her mother couldn’t buy her any of those great things: no skateboard, no speakers, no ice cream."
-msgstr "Aquests invents eren molt populars a l’escola d’Ada, i molts dels seus amics muntaven els monopatins genials per tot arreu. Ada es posava trista sovint, perquè sa mare no podia comprar‐li cap d’aquelles coses fantàstiques: ni monopatí, ni altaveu, ni gelat."
+msgid ""
+"These inventions were very popular at Ada’s school, and many of her friends "
+"rode around on the cool skateboards. Ada was often sad, since her mother "
+"couldn’t buy her any of those great things: no skateboard, no speakers, no "
+"ice cream."
+msgstr ""
+"Aquests invents eren molt populars a l’escola d’Ada, i molts dels seus amics "
+"muntaven els monopatins genials per tot arreu. Ada es posava trista sovint, "
+"perquè sa mare no podia comprar‐li cap d’aquelles coses fantàstiques: ni "
+"monopatí, ni altaveu, ni gelat."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:564
 msgid ""
-"Luckily, Ada lived right next to the junkyard. There were lots of broken gadgets and rusty parts, which she put together to make cool new things, like a soapbox she and Alan rode roaring down the hill, a windmill, and scary junk monsters, which she and Alan would fight together. She also found many useful items—an old cell phone, for example. The screen was cracked, but she could "
-"fix that, and while there wasn’t internet at the junkyard, she could get access somewhere else."
+"Luckily, Ada lived right next to the junkyard. There were lots of broken "
+"gadgets and rusty parts, which she put together to make cool new things, "
+"like a soapbox she and Alan rode roaring down the hill, a windmill, and "
+"scary junk monsters, which she and Alan would fight together. She also found "
+"many useful items—an old cell phone, for example. The screen was cracked, "
+"but she could fix that, and while there wasn’t internet at the junkyard, she "
+"could get access somewhere else."
 msgstr ""
-"Per sort, Ada vivia al costat de l’abocador de ferralla. Hi havia molts aparells trencats i peces rovellades que podia ajuntar per a crear noves coses genials, com una carreta que ella i Alan conduïen corrent muntanya avall, un molí de vent, i monstres esgarrifosos de ferralla contra els quals lluitaven junts. Ada també hi trobava molts objectes útils —un telèfon mòbil, per "
-"exemple. Tenia la pantalla partida, però ella podia reparar‐la, i tot i que internet no arribava a l’abocador, podia trobar‐hi accés en altres llocs."
+"Per sort, Ada vivia al costat de l’abocador de ferralla. Hi havia molts "
+"aparells trencats i peces rovellades que podia ajuntar per a crear noves "
+"coses genials, com una carreta que ella i Alan conduïen corrent muntanya "
+"avall, un molí de vent, i monstres esgarrifosos de ferralla contra els quals "
+"lluitaven junts. Ada també hi trobava molts objectes útils —un telèfon "
+"mòbil, per exemple. Tenia la pantalla partida, però ella podia reparar‐la, i "
+"tot i que internet no arribava a l’abocador, podia trobar‐hi accés en altres "
+"llocs."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:565
-msgid "Ada had so much fun tinkering in the junkyard and fixing broken things that she forgot all about the skateboards and the ice cream."
-msgstr "Ada es divertia tant fent experiments a l’abocador i reparant coses trencades, que va oblidar completament els monopatins i el gelat."
+msgid ""
+"Ada had so much fun tinkering in the junkyard and fixing broken things that "
+"she forgot all about the skateboards and the ice cream."
+msgstr ""
+"Ada es divertia tant fent experiments a l’abocador i reparant coses "
+"trencades, que va oblidar completament els monopatins i el gelat."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:569
-msgid "Because everyone bought his inventions, Zangemann soon became the richest person in the whole world. With all his money, he bought a huge golden computer with a keyboard made of jewels and set it up in the largest room of his mansion. From there, over the internet, he could control all the little computers built into his inventions."
-msgstr "Com que tothom comprava els seus invents, ben aviat Zangemann esdevingué la persona més rica de tot el món. Amb tot els seus diners, va comprar un enorme ordinador d’or amb un teclat fet de joies i el va instaŀlar a l’habitació més gran de la seua mansió. Des d’allà, per internet, podia controlar tots els ordinadors xicotets dels seus invents."
+msgid ""
+"Because everyone bought his inventions, Zangemann soon became the richest "
+"person in the whole world. With all his money, he bought a huge golden "
+"computer with a keyboard made of jewels and set it up in the largest room of "
+"his mansion. From there, over the internet, he could control all the little "
+"computers built into his inventions."
+msgstr ""
+"Com que tothom comprava els seus invents, ben aviat Zangemann esdevingué la "
+"persona més rica de tot el món. Amb tot els seus diners, va comprar un "
+"enorme ordinador d’or amb un teclat fet de joies i el va instaŀlar a "
+"l’habitació més gran de la seua mansió. Des d’allà, per internet, podia "
+"controlar tots els ordinadors xicotets dels seus invents."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:570
 msgid ""
-"All he had to do was press the proper key on the golden computer, and immediately all the ice-cream machines in town would dispense only vanilla ice cream. If Zangemann wanted people to eat chocolate ice cream, he pressed the key for chocolate ice cream. If he gave the order for lemon ice cream, the machines made only lemon ice cream. Zangemann loved his inventions and was always "
-"thrilled at how amazingly well his machines worked. Sometimes people were disappointed when their favorite flavor wasn’t available, but what could they do? After all, there was ice cream on every street corner."
+"All he had to do was press the proper key on the golden computer, and "
+"immediately all the ice-cream machines in town would dispense only vanilla "
+"ice cream. If Zangemann wanted people to eat chocolate ice cream, he pressed "
+"the key for chocolate ice cream. If he gave the order for lemon ice cream, "
+"the machines made only lemon ice cream. Zangemann loved his inventions and "
+"was always thrilled at how amazingly well his machines worked. Sometimes "
+"people were disappointed when their favorite flavor wasn’t available, but "
+"what could they do? After all, there was ice cream on every street corner."
 msgstr ""
-"Només havia de polsar la tecla que tocava de l’ordinador d’or i, de cop i volta, totes les màquines de gelat de la ciutat només dispensaven gelat de vainilla. Si Zangemann volia que la gent menjara gelat de xocolate, polsava la tecla del gelat de xocolate. Si ordenava que fora gelat de llima, les màquines només feien gelat de llima. A Zangemann li encantaven els seus invents i li "
-"emocionava com de meravellosament bé funcionaven les seues màquines. A voltes la gent es sentia decebuda perquè el seu gelat favorit no estava disponible, però què podien fer? Al cap i a la fi, hi havia gelat a cada cantonada."
+"Només havia de polsar la tecla que tocava de l’ordinador d’or i, de cop i "
+"volta, totes les màquines de gelat de la ciutat només dispensaven gelat de "
+"vainilla. Si Zangemann volia que la gent menjara gelat de xocolate, polsava "
+"la tecla del gelat de xocolate. Si ordenava que fora gelat de llima, les "
+"màquines només feien gelat de llima. A Zangemann li encantaven els seus "
+"invents i li emocionava com de meravellosament bé funcionaven les seues "
+"màquines. A voltes la gent es sentia decebuda perquè el seu gelat favorit no "
+"estava disponible, però què podien fer? Al cap i a la fi, hi havia gelat a "
+"cada cantonada."
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -717,13 +926,24 @@ msgstr "images/illustrations/ada-p10.ltr.png"
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:575
-msgid "A white power strip attached to a wall socket. The power strip has 3 sockets and a green switch. One of the sockets is attached to a plug with a gray cable."
+msgid ""
+"A white power strip attached to a wall socket. The power strip has 3 sockets "
+"and a green switch. One of the sockets is attached to a plug with a gray "
+"cable."
 msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:579
-msgid "Zangemann had a lot of fun pressing the sparkling keys and watching people eat ice cream. He spent many hours every day in front of his golden computer doing this. Again and again, he looked down on the city through a long telescope, observing how reliably his inventions carried out his commands."
-msgstr "Zangemann es divertia molt polsant les tecles brillants i veient com la gent menjava gelat. Passava moltes hores cada dia fent açò davant del seu ordinador d’or. Cada dos per tres observava la ciutat amb un llarg telescopi, vigilant si els seus invents complien fidelment les seues ordres."
+msgid ""
+"Zangemann had a lot of fun pressing the sparkling keys and watching people "
+"eat ice cream. He spent many hours every day in front of his golden computer "
+"doing this. Again and again, he looked down on the city through a long "
+"telescope, observing how reliably his inventions carried out his commands."
+msgstr ""
+"Zangemann es divertia molt polsant les tecles brillants i veient com la gent "
+"menjava gelat. Passava moltes hores cada dia fent açò davant del seu "
+"ordinador d’or. Cada dos per tres observava la ciutat amb un llarg "
+"telescopi, vigilant si els seus invents complien fidelment les seues ordres."
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -741,18 +961,31 @@ msgstr "images/illustrations/ada-p11.ltr.png"
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:584
 msgid ""
-"Zangeman sitting in front of his golden computer on a golden armchair with a very tall red padded backrest at whose top is the “Z” of the Zangemann logo. He is wearing a purple turtle-neck sweater and light blue trousers. The computer has four ornate monitors of various sizes, each of which has the logo on the back. It is integrated into a costly wooden desk from which a gray "
-"cable flows that is connected to the power strip of the previous page."
+"Zangeman sitting in front of his golden computer on a golden armchair with a "
+"very tall red padded backrest at whose top is the “Z” of the Zangemann logo. "
+"He is wearing a purple turtle-neck sweater and light blue trousers. The "
+"computer has four ornate monitors of various sizes, each of which has the "
+"logo on the back. It is integrated into a costly wooden desk from which a "
+"gray cable flows that is connected to the power strip of the previous page."
 msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:589
 msgid ""
-"When he wasn’t sitting at his golden computer, Zangemann was building his little computers into new devices and then selling those. He built washing machines that sent a message to your cell phone when your laundry was done. He made vacuums that played happy music instead of droning loudly. He invented light bulbs that turned on and off at the snap of a finger and cars that told "
-"you where the nearest grocery store was."
+"When he wasn’t sitting at his golden computer, Zangemann was building his "
+"little computers into new devices and then selling those. He built washing "
+"machines that sent a message to your cell phone when your laundry was done. "
+"He made vacuums that played happy music instead of droning loudly. He "
+"invented light bulbs that turned on and off at the snap of a finger and cars "
+"that told you where the nearest grocery store was."
 msgstr ""
-"Quan no estava davant del seu ordinador d’or, Zangemann es dedicava a ficar els seus ordinadors xicotets en nous aparells, i a vendre’ls. Va crear rentadores que t’enviaven un missatge al mòbil quan havien acabat la bugada. Va fer aspiradores que tocaven músiques alegres en lloc de brunzir escandalosament. Va inventar bombetes que s’encenien i apagaven en fer clac amb els dits, "
-"així com cotxes que et deien on estava la verduleria més propera."
+"Quan no estava davant del seu ordinador d’or, Zangemann es dedicava a ficar "
+"els seus ordinadors xicotets en nous aparells, i a vendre’ls. Va crear "
+"rentadores que t’enviaven un missatge al mòbil quan havien acabat la bugada. "
+"Va fer aspiradores que tocaven músiques alegres en lloc de brunzir "
+"escandalosament. Va inventar bombetes que s’encenien i apagaven en fer clac "
+"amb els dits, així com cotxes que et deien on estava la verduleria més "
+"propera."
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -769,13 +1002,25 @@ msgstr "images/illustrations/ada-p12.ltr.png"
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:594
-msgid "City landscape with houses and shops, with a central street turning right. On the road there are a car and a cyclist. There are various children and adults walking or going on skateboards, some eating ice cream, while others are buying ice cream from the original Zangemann machines."
+msgid ""
+"City landscape with houses and shops, with a central street turning right. "
+"On the road there are a car and a cyclist. There are various children and "
+"adults walking or going on skateboards, some eating ice cream, while others "
+"are buying ice cream from the original Zangemann machines."
 msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:596
-msgid "Soon, almost every appliance in the world had a Zangemann computer built into it. Not all of his inventions seemed necessary at first, but people bought everything he made. That’s just the way it was. Everyone wanted the devices made by Zangemann, the greatest inventor in the world."
-msgstr "Ben aviat, quasi tots els aparells del món van portar un ordinador de Zangemann a dins. Al començament no tots els seus invents semblaven necessaris, però la gent comprava tot el que ell feia. Era així i ja està. Tothom volia els aparells fets per Zangemann, l'inventor més gran del món."
+msgid ""
+"Soon, almost every appliance in the world had a Zangemann computer built "
+"into it. Not all of his inventions seemed necessary at first, but people "
+"bought everything he made. That’s just the way it was. Everyone wanted the "
+"devices made by Zangemann, the greatest inventor in the world."
+msgstr ""
+"Ben aviat, quasi tots els aparells del món van portar un ordinador de "
+"Zangemann a dins. Al començament no tots els seus invents semblaven "
+"necessaris, però la gent comprava tot el que ell feia. Era així i ja està. "
+"Tothom volia els aparells fets per Zangemann, l'inventor més gran del món."
 
 #. (itstool) path: info/title
 #. Intended as 'on a day', not 'a single day'. This is supposed to be
@@ -786,8 +1031,15 @@ msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:604
-msgid "One day Zangemann thought, “Today I want to see my inventions up close.” He put away his big telescope, then climbed down the many stairs of his mansion and ventured out into the city, full of anticipation at the thought of enjoying his cool devices."
-msgstr "Un dia Zangemann pensà: «Hui aniré a veure els meus invents de prop». Deixà el seu gran telescopi, baixà totes les escales de la seua mansió, i s’endinsà en la ciutat, iŀlusionat de poder gaudir dels seus grans invents."
+msgid ""
+"One day Zangemann thought, “Today I want to see my inventions up close.” He "
+"put away his big telescope, then climbed down the many stairs of his mansion "
+"and ventured out into the city, full of anticipation at the thought of "
+"enjoying his cool devices."
+msgstr ""
+"Un dia Zangemann pensà: «Hui aniré a veure els meus invents de prop». Deixà "
+"el seu gran telescopi, baixà totes les escales de la seua mansió, i "
+"s’endinsà en la ciutat, iŀlusionat de poder gaudir dels seus grans invents."
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -805,19 +1057,37 @@ msgstr "images/illustrations/ada-p13.ltr.png"
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:609
 msgid ""
-"Zangemann descends the stairs from his mansion on the hill towards the city. Zangemann’s house stands on a hill. The front is blue with large windows; the towers are dark blue, and from a window starts a yellow slide that ends in a large swimming pool with two palm trees. The roofs are red, and above the highest tower an antenna is installed. On the sides of the stairs to get off "
-"the hill there are evergreen trees."
+"Zangemann descends the stairs from his mansion on the hill towards the city. "
+"Zangemann’s house stands on a hill. The front is blue with large windows; "
+"the towers are dark blue, and from a window starts a yellow slide that ends "
+"in a large swimming pool with two palm trees. The roofs are red, and above "
+"the highest tower an antenna is installed. On the sides of the stairs to get "
+"off the hill there are evergreen trees."
 msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:613
-msgid "“Maybe a little trip might even give me a few new ideas. If I’m completely honest, my last inventions weren’t quite as useful as the first ones... ,” Zangemann pondered. “But my ice-cream machines are and will remain second to none,” he thought immediately afterward, and not without pride, as he passed a group of people all eating coconut ice cream, the flavor of the day."
-msgstr "«Potser si faig una volteta tindré noves idees. Per a ser honest, els meus invents més recents no són tan útils com els primers…», jutjà Zangeman. «Però les meues màquines de gelat són i sempre seran les primeres», pensà de seguida, no sense orgull, en passar al costat d’un grup de gent que menjava gelat de coco, el sabor del dia."
+msgid ""
+"“Maybe a little trip might even give me a few new ideas. If I’m completely "
+"honest, my last inventions weren’t quite as useful as the first ones... ,” "
+"Zangemann pondered. “But my ice-cream machines are and will remain second to "
+"none,” he thought immediately afterward, and not without pride, as he passed "
+"a group of people all eating coconut ice cream, the flavor of the day."
+msgstr ""
+"«Potser si faig una volteta tindré noves idees. Per a ser honest, els meus "
+"invents més recents no són tan útils com els primers…», jutjà Zangeman. "
+"«Però les meues màquines de gelat són i sempre seran les primeres», pensà de "
+"seguida, no sense orgull, en passar al costat d’un grup de gent que menjava "
+"gelat de coco, el sabor del dia."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:615
-msgid "He was completely absorbed in his thoughts when suddenly — BAM! — something crashed into his shin."
-msgstr "Anava tot distret en els seus pensaments quan de colp —PAM!—, alguna cosa topetà contra la seua canella."
+msgid ""
+"He was completely absorbed in his thoughts when suddenly — BAM! — something "
+"crashed into his shin."
+msgstr ""
+"Anava tot distret en els seus pensaments quan de colp —PAM!—, alguna cosa "
+"topetà contra la seua canella."
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -834,22 +1104,43 @@ msgstr "images/illustrations/ada-p14.ltr.png"
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:620
-msgid "Zangemann after the incident with the child. Zangemann screams from pain while holding up one of his legs with both hands at the shin. The child has brown hair that is blown back by Zangemann’s scream; he is wearing a light blue hooded sweatshirt and dark green pants. He holds a red Zangemann electric skateboard."
+msgid ""
+"Zangemann after the incident with the child. Zangemann screams from pain "
+"while holding up one of his legs with both hands at the shin. The child has "
+"brown hair that is blown back by Zangemann’s scream; he is wearing a light "
+"blue hooded sweatshirt and dark green pants. He holds a red Zangemann "
+"electric skateboard."
 msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:624
-msgid "Zangemann yelped and looked around for the cause. A startled child stood in front of him, holding an original Zangemann skateboard under his arm. “Sorry, I didn’t mean to do that,” the child stammered, but Zangemann wasn’t listening."
-msgstr "Zangemann cridà i en buscà la causa al seu voltant. Un xiquet espantat estava a peu dret al seu davant, amb un monopatí original Zangemann sota el braç. «Perdó, no ha sigut volent», quequejà el xiquet, però Zangemann ja no escoltava."
+msgid ""
+"Zangemann yelped and looked around for the cause. A startled child stood in "
+"front of him, holding an original Zangemann skateboard under his arm. "
+"“Sorry, I didn’t mean to do that,” the child stammered, but Zangemann wasn’t "
+"listening."
+msgstr ""
+"Zangemann cridà i en buscà la causa al seu voltant. Un xiquet espantat "
+"estava a peu dret al seu davant, amb un monopatí original Zangemann sota el "
+"braç. «Perdó, no ha sigut volent», quequejà el xiquet, però Zangemann ja no "
+"escoltava."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:625
 msgid ""
-"An angry Zangemann limped away. Suddenly, he heard loud music. He had never before heard something so horrible. He looked around and saw that the music was coming from a loudspeaker he himself had constructed. A child across the street was holding it. The child seemed to like the music, but it gave Zangemann a terrible headache, and his mood worsened. This was not how he had "
-"imagined his walk!"
+"An angry Zangemann limped away. Suddenly, he heard loud music. He had never "
+"before heard something so horrible. He looked around and saw that the music "
+"was coming from a loudspeaker he himself had constructed. A child across the "
+"street was holding it. The child seemed to like the music, but it gave "
+"Zangemann a terrible headache, and his mood worsened. This was not how he "
+"had imagined his walk!"
 msgstr ""
-"Zangemann, enfadat, se n’anà coixejant. Aleshores, va sentir una música molt forta. Mai havia sentit res tan horrible abans. Mirà al voltant i va veure que la música venia d’un dels altaveus que ell mateix havia fabricat. Un xiquet el portava per l’altra vorera. Semblava que al xiquet li agradava la música, però a Zangemann li causava un mal de cap terrible, i es posà de pitjor "
-"humor. No havia imaginat que el seu passeig aniria així!"
+"Zangemann, enfadat, se n’anà coixejant. Aleshores, va sentir una música molt "
+"forta. Mai havia sentit res tan horrible abans. Mirà al voltant i va veure "
+"que la música venia d’un dels altaveus que ell mateix havia fabricat. Un "
+"xiquet el portava per l’altra vorera. Semblava que al xiquet li agradava la "
+"música, però a Zangemann li causava un mal de cap terrible, i es posà de "
+"pitjor humor. No havia imaginat que el seu passeig aniria així!"
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -867,18 +1158,33 @@ msgstr "images/illustrations/ada-p15.ltr.png"
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:630
 msgid ""
-"Advertisements for Zangemann ice cream (sandwich board), a Zangemann electric skateboard, and a Zangemann washing machine. The math teacher, Ms. Gernet, is passing in front of the billboards. Ms. Gernet is an old lady with short white hair. She is dressed in a light green t-shirt and a pea green sweater, dark brown pants, and light green heeled shoes. She has a fuchsia shoulder "
-"bag, worn behind her. She pushes a small shopping cart in which there is a small brown dog with a collar and tag."
+"Advertisements for Zangemann ice cream (sandwich board), a Zangemann "
+"electric skateboard, and a Zangemann washing machine. The math teacher, Ms. "
+"Gernet, is passing in front of the billboards. Ms. Gernet is an old lady "
+"with short white hair. She is dressed in a light green t-shirt and a pea "
+"green sweater, dark brown pants, and light green heeled shoes. She has a "
+"fuchsia shoulder bag, worn behind her. She pushes a small shopping cart in "
+"which there is a small brown dog with a collar and tag."
 msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:635
 msgid ""
-"Zangemann was so furious with the two children. How dare they use his inventions this way? That night, he couldn’t sleep, so he sat down at his golden computer. From there, he gave all the little computers in the skateboards a command that they were no longer allowed to go on sidewalks. He ordered the small computers in the speakers to play music only at a low volume, except for "
-"his favorite music, which he immediately turned on to get into a better mood."
+"Zangemann was so furious with the two children. How dare they use his "
+"inventions this way? That night, he couldn’t sleep, so he sat down at his "
+"golden computer. From there, he gave all the little computers in the "
+"skateboards a command that they were no longer allowed to go on sidewalks. "
+"He ordered the small computers in the speakers to play music only at a low "
+"volume, except for his favorite music, which he immediately turned on to get "
+"into a better mood."
 msgstr ""
-"Zangemann estava molt furiós amb els dos xiquets. Com s’atrevien a fer servir els seus invents d’aquella manera? A la nit no podia dormir, així que va seure davant del seu ordinador d’or. Des d’allà va donar instruccions a tots els ordinadors xicotets dels monopatins per a no circular mai més per les voreres. Va ordenar als ordinadors xicotets dels altaveus que només tocaren "
-"música baixet, amb l'única excepció de la seua música favorita, que va posar tot seguit perquè li pujara l’ànim."
+"Zangemann estava molt furiós amb els dos xiquets. Com s’atrevien a fer "
+"servir els seus invents d’aquella manera? A la nit no podia dormir, així que "
+"va seure davant del seu ordinador d’or. Des d’allà va donar instruccions a "
+"tots els ordinadors xicotets dels monopatins per a no circular mai més per "
+"les voreres. Va ordenar als ordinadors xicotets dels altaveus que només "
+"tocaren música baixet, amb l'única excepció de la seua música favorita, que "
+"va posar tot seguit perquè li pujara l’ànim."
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -895,7 +1201,11 @@ msgstr "images/illustrations/ada-p16.ltr.png"
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:640
-msgid "The city in the evening, with houses, a church, and two streetlights. Images/Illustrations emerge from the dwellings illustrating Zangemann’s inventions bought by the inhabitants: a washing machine, a yellow vacuum cleaner, and a red car, all with Internet connection signals."
+msgid ""
+"The city in the evening, with houses, a church, and two streetlights. Images/"
+"Illustrations emerge from the dwellings illustrating Zangemann’s inventions "
+"bought by the inhabitants: a washing machine, a yellow vacuum cleaner, and a "
+"red car, all with Internet connection signals."
 msgstr ""
 
 #. (itstool) path: imageobject/imagedata@fileref
@@ -913,7 +1223,12 @@ msgstr "images/illustrations/ada-p17.ltr.png"
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:648
-msgid "Continuation of the previous picture, where in the background there is the hill with Zangemann’s house from whose antenna come the signals to control the various devices. In emerging images/illustrations there are: a red electric skateboard, a light bulb, an ice cream machine, and a toilet, all of which are receiving commands from Zangemann."
+msgid ""
+"Continuation of the previous picture, where in the background there is the "
+"hill with Zangemann’s house from whose antenna come the signals to control "
+"the various devices. In emerging images/illustrations there are: a red "
+"electric skateboard, a light bulb, an ice cream machine, and a toilet, all "
+"of which are receiving commands from Zangemann."
 msgstr ""
 
 #. (itstool) path: info/title
@@ -932,8 +1247,18 @@ msgstr ""
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p18-1
 #: Ada_Zangemann.dbk:658
-msgid "<phrase condition=\"capitals-text\">The</phrase><phrase condition=\"capitals-img\">he</phrase> next day, there was a big commotion at Ada’s school. On the way to school, the kids’ skateboards had stopped working. The wheels simply stood still. And the children could no longer turn up the volume on their speakers. What was going on?"
-msgstr "<phrase condition=\"capitals-text\">Al</phrase><phrase condition=\"capitals-img\">l</phrase> dia següent hi havia molt de rebombori a l’escola d’Ada. De camí a l’escola, els monopatins de xiquets i xiquetes havien deixat de funcionar. Les rodes s’havien quedat quietes de sobte, i d'altres ja no podien apujar el volum dels seus altaveus. Què estava passant?"
+msgid ""
+"<phrase condition=\"capitals-text\">The</phrase><phrase condition=\"capitals-"
+"img\">he</phrase> next day, there was a big commotion at Ada’s school. On "
+"the way to school, the kids’ skateboards had stopped working. The wheels "
+"simply stood still. And the children could no longer turn up the volume on "
+"their speakers. What was going on?"
+msgstr ""
+"<phrase condition=\"capitals-text\">Al</phrase><phrase condition=\"capitals-"
+"img\">l</phrase> dia següent hi havia molt de rebombori a l’escola d’Ada. De "
+"camí a l’escola, els monopatins de xiquets i xiquetes havien deixat de "
+"funcionar. Les rodes s’havien quedat quietes de sobte, i d'altres ja no "
+"podien apujar el volum dels seus altaveus. Què estava passant?"
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -951,18 +1276,35 @@ msgstr "images/illustrations/ada-p18.ltr.png"
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:663
 msgid ""
-"Five kids from the school who can’t make skateboards work. Two girls wear helmets, respectively blue and red. A little girl with brown hair tied in two tails with yellow rubber bands is kneeling. She is trying to understand why the skateboard of her friend with the red helmet does not work. Four children have backpacks on their shoulders, while the little girl with the red helmet "
-"left hers leaning on a bench on which there are a yellow apple and a light blue bottle with a white flower on it."
+"Five kids from the school who can’t make skateboards work. Two girls wear "
+"helmets, respectively blue and red. A little girl with brown hair tied in "
+"two tails with yellow rubber bands is kneeling. She is trying to understand "
+"why the skateboard of her friend with the red helmet does not work. Four "
+"children have backpacks on their shoulders, while the little girl with the "
+"red helmet left hers leaning on a bench on which there are a yellow apple "
+"and a light blue bottle with a white flower on it."
 msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:667
 msgid ""
-"Although she didn’t own any of these things, Ada wondered why the skateboards and the speakers suddenly stopped working. But she didn’t really have time to think much about it, because she was tinkering again. She put together a complete bicycle from the parts of three broken bicycles. She gave the bicycle to her mother as a present so that she wouldn’t have to spend her money on "
-"bus tickets to work. For her brother, Ada built a loudspeaker so he could fall asleep to nice stories in the evenings when their mother was still at work."
+"Although she didn’t own any of these things, Ada wondered why the "
+"skateboards and the speakers suddenly stopped working. But she didn’t really "
+"have time to think much about it, because she was tinkering again. She put "
+"together a complete bicycle from the parts of three broken bicycles. She "
+"gave the bicycle to her mother as a present so that she wouldn’t have to "
+"spend her money on bus tickets to work. For her brother, Ada built a "
+"loudspeaker so he could fall asleep to nice stories in the evenings when "
+"their mother was still at work."
 msgstr ""
-"Tot i que no tenia cap d’aquelles coses, Ada es preguntava per què els monopatins i els altaveus havien deixat de funcionar de colp. Però no va dedicar massa temps a pensar‐hi, estava fent experiments de nou. Va muntar una bicicleta sencera amb les peces de tres bicicletes trencades, i la regalà a sa mare perquè no haguera de gastar‐se els diners en bitllets d’autobús per a anar "
-"a treballar. Per al seu germà, Ada va fer un altaveu que li contara històries boniques per a anar adormir-se per la nit, quan sa mare encara estava al treball."
+"Tot i que no tenia cap d’aquelles coses, Ada es preguntava per què els "
+"monopatins i els altaveus havien deixat de funcionar de colp. Però no va "
+"dedicar massa temps a pensar‐hi, estava fent experiments de nou. Va muntar "
+"una bicicleta sencera amb les peces de tres bicicletes trencades, i la "
+"regalà a sa mare perquè no haguera de gastar‐se els diners en bitllets "
+"d’autobús per a anar a treballar. Per al seu germà, Ada va fer un altaveu "
+"que li contara històries boniques per a anar adormir-se per la nit, quan sa "
+"mare encara estava al treball."
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -979,13 +1321,26 @@ msgstr "images/illustrations/ada-p19.ltr.png"
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:672
-msgid "Close-up of Ada thoughtful, with a backpack and with one hand on her chin and the other resting on her side."
+msgid ""
+"Close-up of Ada thoughtful, with a backpack and with one hand on her chin "
+"and the other resting on her side."
 msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:675
-msgid "After a few days, the initial shock at Ada’s school was forgotten. The skateboards still didn’t go on the sidewalk, but apart from that, they still worked. And so now the children rode in circles around the playground and listened to soft music. Only a strange, pompous marching music continued to play at an unchanged volume, which the children found rather puzzling."
-msgstr "Passats uns pocs dies, el xoc inicial a l’escola d’Ada havia caigut en l’oblit. Els monopatins encara no rutllaven a les voreres, però, llevat d’això, encara funcionaven. Així que ara xiquets i xiquetes patinaven fent cercles al voltant del pati i escoltaven música baixet. Només una marxa estranya i pomposa continuava sonant a volum alt, cosa que trobaven realment estranya."
+msgid ""
+"After a few days, the initial shock at Ada’s school was forgotten. The "
+"skateboards still didn’t go on the sidewalk, but apart from that, they still "
+"worked. And so now the children rode in circles around the playground and "
+"listened to soft music. Only a strange, pompous marching music continued to "
+"play at an unchanged volume, which the children found rather puzzling."
+msgstr ""
+"Passats uns pocs dies, el xoc inicial a l’escola d’Ada havia caigut en "
+"l’oblit. Els monopatins encara no rutllaven a les voreres, però, llevat "
+"d’això, encara funcionaven. Així que ara xiquets i xiquetes patinaven fent "
+"cercles al voltant del pati i escoltaven música baixet. Només una marxa "
+"estranya i pomposa continuava sonant a volum alt, cosa que trobaven realment "
+"estranya."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:680
@@ -1004,29 +1359,68 @@ msgstr ""
 #. (itstool) id: Ada_Zangemann.dbk#para-p20-1
 #: Ada_Zangemann.dbk:684
 msgid ""
-"<phrase condition=\"capitals-text\">Ada</phrase><phrase condition=\"capitals-img\">da</phrase> loved Wednesdays. Every Wednesday, her mother and Alan would pick her up from school, and they would all go to the library together. Ada was always drawn to the technology section. There were books with blueprints, instructions for experiments, and explanations of how different devices "
-"worked. In the library, Ada could also go online with her cell phone. She quickly realized that there was also much to discover on the internet. There, many people shared their ideas and repair tips to help others."
+"<phrase condition=\"capitals-text\">Ada</phrase><phrase condition=\"capitals-"
+"img\">da</phrase> loved Wednesdays. Every Wednesday, her mother and Alan "
+"would pick her up from school, and they would all go to the library "
+"together. Ada was always drawn to the technology section. There were books "
+"with blueprints, instructions for experiments, and explanations of how "
+"different devices worked. In the library, Ada could also go online with her "
+"cell phone. She quickly realized that there was also much to discover on the "
+"internet. There, many people shared their ideas and repair tips to help "
+"others."
 msgstr ""
-"<phrase condition=\"capitals-text\">A</phrase><phrase condition=\"capitals-img\"></phrase> Ada li encantaven els dimecres. Cada dimecres, sa mare i Alan solien recollir‐la a l’escola, i després anaven tots junts a la biblioteca. Ada sempre se sentia atreta per la secció de tecnologia. Allà hi havia llibres amb plànols, instruccions per a experiments, i descripcions de com "
-"funcionaven diferents aparells. A la biblioteca, Ada també podia connectar‐se a internet amb el seu mòbil. No trigà a adonar‐se que a internet també hi havia molt per descobrir. Allà, molta gent ajudava altra gent compartint idees i trucs per a reparar coses."
+"<phrase condition=\"capitals-text\">A</phrase><phrase condition=\"capitals-"
+"img\"></phrase> Ada li encantaven els dimecres. Cada dimecres, sa mare i "
+"Alan solien recollir‐la a l’escola, i després anaven tots junts a la "
+"biblioteca. Ada sempre se sentia atreta per la secció de tecnologia. Allà hi "
+"havia llibres amb plànols, instruccions per a experiments, i descripcions de "
+"com funcionaven diferents aparells. A la biblioteca, Ada també podia "
+"connectar‐se a internet amb el seu mòbil. No trigà a adonar‐se que a "
+"internet també hi havia molt per descobrir. Allà, molta gent ajudava altra "
+"gent compartint idees i trucs per a reparar coses."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:685
 msgid ""
-"On one of those afternoons, Ada learned two new words: hardware and software. Hardware was a word for something Ada already knew: the electronic devices she tinkered with after school, or those devices she could hold in her hands and try to fix or make into something else. What was completely new to Ada was the word software. She soon learned that it meant instructions that ran "
-"on a computer to control other devices or computers. Some books called those instructions programs or code. With such a computer program, one could, for example, tell a loudspeaker which song to play and how loud."
+"On one of those afternoons, Ada learned two new words: hardware and "
+"software. Hardware was a word for something Ada already knew: the electronic "
+"devices she tinkered with after school, or those devices she could hold in "
+"her hands and try to fix or make into something else. What was completely "
+"new to Ada was the word software. She soon learned that it meant "
+"instructions that ran on a computer to control other devices or computers. "
+"Some books called those instructions programs or code. With such a computer "
+"program, one could, for example, tell a loudspeaker which song to play and "
+"how loud."
 msgstr ""
-"Una d’aquelles vesprades, Ada va aprendre dues paraules noves: «maquinari» i «programari». «Maquinari» es deia d’una cosa que Ada ja coneixia: els aparells electrònics amb els quals experimentava després de classe, o els aparells que podia prendre amb les mans i, de vegades, reparar o convertir en altres coses. La paraula «programari» sí que era nova del tot per a Ada. Aviat "
-"aprengué que aquesta significava les instruccions que feien que un ordinador controlara uns altres aparells o ordinadors. Alguns llibres en deien d'aquestes instruccions «programes» o «codi». Amb un d’aquests programes d’ordinador es podia, per exemple, dir a un altaveu que tocara una o altra cançó, i com de fort."
+"Una d’aquelles vesprades, Ada va aprendre dues paraules noves: «maquinari» i "
+"«programari». «Maquinari» es deia d’una cosa que Ada ja coneixia: els "
+"aparells electrònics amb els quals experimentava després de classe, o els "
+"aparells que podia prendre amb les mans i, de vegades, reparar o convertir "
+"en altres coses. La paraula «programari» sí que era nova del tot per a Ada. "
+"Aviat aprengué que aquesta significava les instruccions que feien que un "
+"ordinador controlara uns altres aparells o ordinadors. Alguns llibres en "
+"deien d'aquestes instruccions «programes» o «codi». Amb un d’aquests "
+"programes d’ordinador es podia, per exemple, dir a un altaveu que tocara una "
+"o altra cançó, i com de fort."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:686
 msgid ""
-"The best thing about Ada’s new discovery was realizing that she could tinker with software just as she could with hardware. Hardware is built with tools — hammers, drills, and screws. Software is built simply by writing down the commands for the hardware, one after the other. There was a separate language for this — the programming language. With software, Ada could make her "
-"inventions even more useful. She really wanted to learn the programming language!"
+"The best thing about Ada’s new discovery was realizing that she could tinker "
+"with software just as she could with hardware. Hardware is built with tools "
+"— hammers, drills, and screws. Software is built simply by writing down the "
+"commands for the hardware, one after the other. There was a separate "
+"language for this — the programming language. With software, Ada could make "
+"her inventions even more useful. She really wanted to learn the programming "
+"language!"
 msgstr ""
-"El millor del nou descobriment d’Ada va ser adonar‐se que podia experimentar amb el programari tal com feia amb el maquinari. El maquinari es crea amb eines: martells, broques i caragols. El programari es crea només escrivint les ordres per al maquinari, l’una rere l’altra. Hi havia un llenguatge especial per a això: el llenguatge de programació. Fent servir el programari, Ada "
-"podia fer els seus invents encara més útils. Tenia moltes ganes d’aprendre el llenguatge de programació!"
+"El millor del nou descobriment d’Ada va ser adonar‐se que podia experimentar "
+"amb el programari tal com feia amb el maquinari. El maquinari es crea amb "
+"eines: martells, broques i caragols. El programari es crea només escrivint "
+"les ordres per al maquinari, l’una rere l’altra. Hi havia un llenguatge "
+"especial per a això: el llenguatge de programació. Fent servir el "
+"programari, Ada podia fer els seus invents encara més útils. Tenia moltes "
+"ganes d’aprendre el llenguatge de programació!"
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -1043,7 +1437,12 @@ msgstr "images/illustrations/ada-p21.ltr.png"
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:693
-msgid "Computer screen from which the elements of the programming language symbolically emerge: “while num &gt; 0“, “init“, “sx=42“, “for“, “v**3“. Ada is typing on a white keyboard with a blue cable, while her other hand enters the screen to change the program (“print(msg)”, “a+b+c+d=e”, “if”, “break”, “continue”, “exit()”). Next to the keyboard there are a pencil and an eraser."
+msgid ""
+"Computer screen from which the elements of the programming language "
+"symbolically emerge: “while num &gt; 0“, “init“, “sx=42“, “for“, “v**3“. Ada "
+"is typing on a white keyboard with a blue cable, while her other hand enters "
+"the screen to change the program (“print(msg)”, “a+b+c+d=e”, “if”, “break”, "
+"“continue”, “exit()”). Next to the keyboard there are a pencil and an eraser."
 msgstr ""
 
 #. (itstool) path: info/title
@@ -1063,26 +1462,60 @@ msgstr ""
 #. (itstool) id: Ada_Zangemann.dbk#para-p22-1
 #: Ada_Zangemann.dbk:703
 msgid ""
-"<phrase condition=\"capitals-text\">Over</phrase><phrase condition=\"capitals-img\">ver</phrase> the next few weeks, Ada spent her afternoons in the library. She found books and websites that explained how programming languages and code worked. For Ada, it felt a bit like learning a secret language, or like studying vocabulary in school. Ada ate it all up. She expected her first "
-"program to do something simple: “Make this lamp blink!”"
+"<phrase condition=\"capitals-text\">Over</phrase><phrase "
+"condition=\"capitals-img\">ver</phrase> the next few weeks, Ada spent her "
+"afternoons in the library. She found books and websites that explained how "
+"programming languages and code worked. For Ada, it felt a bit like learning "
+"a secret language, or like studying vocabulary in school. Ada ate it all up. "
+"She expected her first program to do something simple: “Make this lamp "
+"blink!”"
 msgstr ""
-"<phrase condition=\"capitals-text\">Durant</phrase><phrase condition=\"capitals-img\">urant</phrase> les setmanes següents, Ada passà les vesprades a la biblioteca. Va trobar llibres i llocs web que explicaven com funcionaven els llenguatges de programació i el codi. Per a Ada era un poc com aprendre un idioma secret o com estudiar vocabulari a l’escola. Ada devorava tot el que "
-"trobava. Volia que el seu primer programa fera una cosa simple: «Fes que aquest llum parpellege!»."
+"<phrase condition=\"capitals-text\">Durant</phrase><phrase "
+"condition=\"capitals-img\">urant</phrase> les setmanes següents, Ada passà "
+"les vesprades a la biblioteca. Va trobar llibres i llocs web que explicaven "
+"com funcionaven els llenguatges de programació i el codi. Per a Ada era un "
+"poc com aprendre un idioma secret o com estudiar vocabulari a l’escola. Ada "
+"devorava tot el que trobava. Volia que el seu primer programa fera una cosa "
+"simple: «Fes que aquest llum parpellege!»."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:704
-msgid "Of course, she wanted to try her program out right away to see if it really worked. At the junkyard, she connected her cell phone to a small LED lamp. Then she typed the lines of code into her cell phone."
-msgstr "Per descomptat, volia provar el seu programa de seguida per a veure si funcionava de veres. A l’abocador, va connectar el seu mòbil amb una bombeta LED menuda. I, aleshores, va escriure les línies de codi al seu mòbil."
+msgid ""
+"Of course, she wanted to try her program out right away to see if it really "
+"worked. At the junkyard, she connected her cell phone to a small LED lamp. "
+"Then she typed the lines of code into her cell phone."
+msgstr ""
+"Per descomptat, volia provar el seu programa de seguida per a veure si "
+"funcionava de veres. A l’abocador, va connectar el seu mòbil amb una bombeta "
+"LED menuda. I, aleshores, va escriure les línies de codi al seu mòbil."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:705
-msgid "At first, nothing happened. Ada wondered where the error could be. She made a few small changes and tried again and .... “Yeesss!” The little light began to flash. On, off, on, off. Ada looked at the LED in amazement. She had written her first program!"
-msgstr "Primer no va ocórrer res. Ada es preguntava on estaria l’error. Va fer uns canvis xicotets i tornà a provar… «Síii!» La bombeta començà a parpellejar. Encesa, apagada, encesa, apagada. Ada es mirava el LED sorpresa. Havia escrit el seu primer programa!"
+msgid ""
+"At first, nothing happened. Ada wondered where the error could be. She made "
+"a few small changes and tried again and .... “Yeesss!” The little light "
+"began to flash. On, off, on, off. Ada looked at the LED in amazement. She "
+"had written her first program!"
+msgstr ""
+"Primer no va ocórrer res. Ada es preguntava on estaria l’error. Va fer uns "
+"canvis xicotets i tornà a provar… «Síii!» La bombeta començà a parpellejar. "
+"Encesa, apagada, encesa, apagada. Ada es mirava el LED sorpresa. Havia "
+"escrit el seu primer programa!"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:706
-msgid "Ada was totally thrilled. She imagined all the great things she could do. If she just entered the right code, she could make her inventions do exactly what she wanted. It was not so easy, but after a few weeks, Ada wrote a truly useful program: one that would make Alan’s speakers automatically turn off half an hour after he had fallen asleep."
-msgstr "Ada estava completament entusiasmada. Va imaginar tot el que podria fer. Si entrava el codi correcte, els seus invents farien exactament el que ella volguera. No va ser tan fàcil, però al cap d’unes poques setmanes, Ada va escriure un programa realment útil: un que apagaria l’altaveu d’Alan automàticament mitja hora després d’adormir‐se."
+msgid ""
+"Ada was totally thrilled. She imagined all the great things she could do. If "
+"she just entered the right code, she could make her inventions do exactly "
+"what she wanted. It was not so easy, but after a few weeks, Ada wrote a "
+"truly useful program: one that would make Alan’s speakers automatically turn "
+"off half an hour after he had fallen asleep."
+msgstr ""
+"Ada estava completament entusiasmada. Va imaginar tot el que podria fer. Si "
+"entrava el codi correcte, els seus invents farien exactament el que ella "
+"volguera. No va ser tan fàcil, però al cap d’unes poques setmanes, Ada va "
+"escriure un programa realment útil: un que apagaria l’altaveu d’Alan "
+"automàticament mitja hora després d’adormir‐se."
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -1100,14 +1533,25 @@ msgstr "images/illustrations/ada-p23.ltr.png"
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:713
 msgid ""
-"Ada comes to grips with programming. She is typing on a keyboard resting on a gray mat and connected to a smartphone with a blue cable. The smartphone is connected with a red wire to an electronic card with a yellow LED lamp. The smartphone is powered by a transformer connected to a power strip with a gray wire and plug. On the table there are also: 3 books, of which one is open; "
-"a clipboard and a pencil; pliers; glue; solder; and a disconnected soldering iron."
+"Ada comes to grips with programming. She is typing on a keyboard resting on "
+"a gray mat and connected to a smartphone with a blue cable. The smartphone "
+"is connected with a red wire to an electronic card with a yellow LED lamp. "
+"The smartphone is powered by a transformer connected to a power strip with a "
+"gray wire and plug. On the table there are also: 3 books, of which one is "
+"open; a clipboard and a pencil; pliers; glue; solder; and a disconnected "
+"soldering iron."
 msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:715
-msgid "Ada also had an idea for the next program she would write. It was a bigger deal, a real project. She would probably need the whole summer break for it... And she could hardly wait!"
-msgstr "Ada també tingué una idea sobre el programa que escriuria a continuació. Seria més important, un projecte de veres. Potser necessitaria totes les vacances d’estiu… i a penes podia esperar més!"
+msgid ""
+"Ada also had an idea for the next program she would write. It was a bigger "
+"deal, a real project. She would probably need the whole summer break for "
+"it... And she could hardly wait!"
+msgstr ""
+"Ada també tingué una idea sobre el programa que escriuria a continuació. "
+"Seria més important, un projecte de veres. Potser necessitaria totes les "
+"vacances d’estiu… i a penes podia esperar més!"
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -1124,7 +1568,9 @@ msgstr "images/illustrations/ada-p24.ltr.png"
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:722
-msgid "Zangemann looks thoughtfully with his arms crossed out one of the great windows of his house, into which the sun’s rays are shining."
+msgid ""
+"Zangemann looks thoughtfully with his arms crossed out one of the great "
+"windows of his house, into which the sun’s rays are shining."
 msgstr ""
 
 #. (itstool) path: info/title
@@ -1144,25 +1590,55 @@ msgstr ""
 #. (itstool) id: Ada_Zangemann.dbk#para-p25-1
 #: Ada_Zangemann.dbk:732
 msgid ""
-"<phrase condition=\"capitals-text\">Zangemann</phrase><phrase condition=\"capitals-img\">angemann</phrase> had slept horribly every night since his terrible walk in the city. When he went to bed each night, worries plagued him. “Oh no, my marvelous inventions. It can’t be that everyone just plays around with them. All the things that could go wrong! I put so much thought into "
-"everything, down to the last detail.” Zangemann pondered and pondered and tossed and turned sleeplessly in his bed all night."
+"<phrase condition=\"capitals-text\">Zangemann</phrase><phrase "
+"condition=\"capitals-img\">angemann</phrase> had slept horribly every night "
+"since his terrible walk in the city. When he went to bed each night, worries "
+"plagued him. “Oh no, my marvelous inventions. It can’t be that everyone just "
+"plays around with them. All the things that could go wrong! I put so much "
+"thought into everything, down to the last detail.” Zangemann pondered and "
+"pondered and tossed and turned sleeplessly in his bed all night."
 msgstr ""
-"<phrase condition=\"capitals-text\">Zangemann</phrase><phrase condition=\"capitals-img\">angemann</phrase> havia dormit fatal cada nit des del seu terrible passeig per la ciutat. Quan es gitava cada nit, l’inundaven les preocupacions. «Oh no, els meus meravellosos invents. La gent no pot només jugar amb ells. Quantes coses podrien anar malament! Jo que he posat tanta cura en tot, "
-"fins a l’últim detall». Zangemann li donava voltes i voltes al cap mentre donava també, voltes i voltes al seu llit cada nit sense poder dormir."
+"<phrase condition=\"capitals-text\">Zangemann</phrase><phrase "
+"condition=\"capitals-img\">angemann</phrase> havia dormit fatal cada nit des "
+"del seu terrible passeig per la ciutat. Quan es gitava cada nit, l’inundaven "
+"les preocupacions. «Oh no, els meus meravellosos invents. La gent no pot "
+"només jugar amb ells. Quantes coses podrien anar malament! Jo que he posat "
+"tanta cura en tot, fins a l’últim detall». Zangemann li donava voltes i "
+"voltes al cap mentre donava també, voltes i voltes al seu llit cada nit "
+"sense poder dormir."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:733
-msgid "Waking up one morning with a deeply furrowed brow, he made a decision. He needed to make a change. Zangemann sat down at his computer and wrote one program after another. In these programs, he specified exactly what his inventions were to do and were not to do under any circumstances. The chaos had to stop!"
-msgstr "Un matí en què es despertà realment sorrut, va prendre una decisió. Necessitava canviar allò. Zangemann va seure al seu ordinador i es posà a escriure un programa rere l’altre. En ells, especificava què havien de fer i què no els seus invents exactament sota cada circumstància. Calia parar aquell caos!"
+msgid ""
+"Waking up one morning with a deeply furrowed brow, he made a decision. He "
+"needed to make a change. Zangemann sat down at his computer and wrote one "
+"program after another. In these programs, he specified exactly what his "
+"inventions were to do and were not to do under any circumstances. The chaos "
+"had to stop!"
+msgstr ""
+"Un matí en què es despertà realment sorrut, va prendre una decisió. "
+"Necessitava canviar allò. Zangemann va seure al seu ordinador i es posà a "
+"escriure un programa rere l’altre. En ells, especificava què havien de fer i "
+"què no els seus invents exactament sota cada circumstància. Calia parar "
+"aquell caos!"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:734
 msgid ""
-"Once he was done, he sent all the new programs from his golden computer to people’s devices. He ordered his speakers to play only his favorite music whenever he was within earshot. He programmed the ice-cream machines to stop selling ice cream in the afternoon. After all, he didn’t want his expensive clothes to get stained by ice cream while he was out for a walk. All day long he "
-"sat at the computer and typed and typed and typed..."
+"Once he was done, he sent all the new programs from his golden computer to "
+"people’s devices. He ordered his speakers to play only his favorite music "
+"whenever he was within earshot. He programmed the ice-cream machines to stop "
+"selling ice cream in the afternoon. After all, he didn’t want his expensive "
+"clothes to get stained by ice cream while he was out for a walk. All day "
+"long he sat at the computer and typed and typed and typed..."
 msgstr ""
-"Quan va acabar, va enviar tots els programes nous des del seu ordinador d’or als aparells de la gent. Va ordenar als seus altaveus que només tocaren la seua música favorita quan ell estiguera a prop. Va programar les màquines de gelat per a deixar de vendre gelat a la vesprada. Ben segur que no volia que la seua roba tan cara acabara amb taques de gelat quan isquera a fer una "
-"volta. Tot el dia es passava assegut a l’ordinador, teclejant i teclejant i teclejant…"
+"Quan va acabar, va enviar tots els programes nous des del seu ordinador d’or "
+"als aparells de la gent. Va ordenar als seus altaveus que només tocaren la "
+"seua música favorita quan ell estiguera a prop. Va programar les màquines de "
+"gelat per a deixar de vendre gelat a la vesprada. Ben segur que no volia que "
+"la seua roba tan cara acabara amb taques de gelat quan isquera a fer una "
+"volta. Tot el dia es passava assegut a l’ordinador, teclejant i teclejant i "
+"teclejant…"
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:739
@@ -1181,26 +1657,62 @@ msgstr ""
 #. (itstool) id: Ada_Zangemann.dbk#para-p26-1
 #: Ada_Zangemann.dbk:743
 msgid ""
-"<phrase condition=\"capitals-text\">Summer</phrase><phrase condition=\"capitals-img\">ummer</phrase> break was already halfway over. Ada stood in front of her big project and scratched her head. She had built a skateboard from old parts and then connected a motor to make the wheels turn. With a motorized skateboard, Ada could zoom to the library or the junkyard even faster after "
-"school. Super practical! But it didn’t work. When she stood on it and pressed the Go! button, the wheels moved, but way too fast. Ada fell off the skateboard every time she started. No matter what she tried, she just couldn’t get it right."
+"<phrase condition=\"capitals-text\">Summer</phrase><phrase "
+"condition=\"capitals-img\">ummer</phrase> break was already halfway over. "
+"Ada stood in front of her big project and scratched her head. She had built "
+"a skateboard from old parts and then connected a motor to make the wheels "
+"turn. With a motorized skateboard, Ada could zoom to the library or the "
+"junkyard even faster after school. Super practical! But it didn’t work. When "
+"she stood on it and pressed the Go! button, the wheels moved, but way too "
+"fast. Ada fell off the skateboard every time she started. No matter what she "
+"tried, she just couldn’t get it right."
 msgstr ""
-"<phrase condition=\"capitals-text\">Ja</phrase><phrase condition=\"capitals-img\">a</phrase> havien passat la meitat de les vacances d’estiu. Ada estava plantada davant del seu gran projecte, rascant‐se el cap. Havia construït un monopatí amb peces velles i li havia connectat un motor per a fer girar les rodes. Amb el monopatí motoritzat, Ada podria anar encara més ràpid a la "
-"biblioteca o a l’abocador després de l’escola. Superpràctic! Però no funcionava. Quan s’hi muntava i polsava el botó de «Marxa!», les rodes giraven però massa ràpid. Ada queia del monopatí cada volta que l’arrencava. Per moltes coses que provara, no aconseguia encertar‐ho."
+"<phrase condition=\"capitals-text\">Ja</phrase><phrase condition=\"capitals-"
+"img\">a</phrase> havien passat la meitat de les vacances d’estiu. Ada estava "
+"plantada davant del seu gran projecte, rascant‐se el cap. Havia construït un "
+"monopatí amb peces velles i li havia connectat un motor per a fer girar les "
+"rodes. Amb el monopatí motoritzat, Ada podria anar encara més ràpid a la "
+"biblioteca o a l’abocador després de l’escola. Superpràctic! Però no "
+"funcionava. Quan s’hi muntava i polsava el botó de «Marxa!», les rodes "
+"giraven però massa ràpid. Ada queia del monopatí cada volta que l’arrencava. "
+"Per moltes coses que provara, no aconseguia encertar‐ho."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:744
-msgid "After falling on her bottom for the hundredth time, she went back to the library. She always found answers to her questions there. And indeed, on the internet, she came across a program that someone had written for an electric scooter that also needed to start slowly. Ada downloaded it to her phone."
-msgstr "Després de caure de cul per centena volta, va tornar a la biblioteca. Sempre hi trobava respostes per als seus dubtes. I, efectivament, a internet va trobar un programa que algú havia escrit per a una moto elèctrica, que també calia arrencar a poc a poc. Ada el descarregà al seu mòbil."
+msgid ""
+"After falling on her bottom for the hundredth time, she went back to the "
+"library. She always found answers to her questions there. And indeed, on the "
+"internet, she came across a program that someone had written for an electric "
+"scooter that also needed to start slowly. Ada downloaded it to her phone."
+msgstr ""
+"Després de caure de cul per centena volta, va tornar a la biblioteca. Sempre "
+"hi trobava respostes per als seus dubtes. I, efectivament, a internet va "
+"trobar un programa que algú havia escrit per a una moto elèctrica, que també "
+"calia arrencar a poc a poc. Ada el descarregà al seu mòbil."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:746
-msgid "Back at the junkyard, she adapted some lines of code for her skateboard program. She tweaked a few things and kept tinkering."
-msgstr "Ja a l’abocador, va adaptar algunes línies del codi al programa del seu monopatí. Va ajustar unes quantes coses i continuà provant."
+msgid ""
+"Back at the junkyard, she adapted some lines of code for her skateboard "
+"program. She tweaked a few things and kept tinkering."
+msgstr ""
+"Ja a l’abocador, va adaptar algunes línies del codi al programa del seu "
+"monopatí. Va ajustar unes quantes coses i continuà provant."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:747
-msgid "Several failed attempts later, on the last day of summer break, the time had finally come. Ada stood on the skateboard and pressed the Go! button, and the skateboard started moving, slowly at first, then faster. It worked! She tried to brake. It worked! Ada let out a cry of joy and took a trip to the park."
-msgstr "Després d’uns quants intents fallits, el moment va arribar en l’últim dia de les vacances d’estiu. Ada pujà al monopatí i polsà el botó de «Marxa!», i el monopatí començà a rodar, primer espaiet, després més ràpid. Funcionava! Va intentar frenar. També funcionava! Ada va fer un crit d’alegria i va fer un tomb fins al parc."
+msgid ""
+"Several failed attempts later, on the last day of summer break, the time had "
+"finally come. Ada stood on the skateboard and pressed the Go! button, and "
+"the skateboard started moving, slowly at first, then faster. It worked! She "
+"tried to brake. It worked! Ada let out a cry of joy and took a trip to the "
+"park."
+msgstr ""
+"Després d’uns quants intents fallits, el moment va arribar en l’últim dia de "
+"les vacances d’estiu. Ada pujà al monopatí i polsà el botó de «Marxa!», i el "
+"monopatí començà a rodar, primer espaiet, després més ràpid. Funcionava! Va "
+"intentar frenar. També funcionava! Ada va fer un crit d’alegria i va fer un "
+"tomb fins al parc."
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -1218,22 +1730,48 @@ msgstr "images/illustrations/ada-p27.ltr.png"
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:754
 msgid ""
-"Ada racing with her electric skateboard for city sidewalks. Ada’s skateboard is blue, with gray and pink wheels; the electronic part is placed above the skateboard (as opposed to Zangemann’s skateboards where the electronic part is below). Ada is holding in both hands a remote control with a short antenna to maneuver it. Behind Ada are Marie and Toni who carry their own "
-"skateboards under their arms and look with amazement at Ada, who has shot past them and in front of them. Marie has dark long hair with two braids fastened with orange clips, yellow earrings, a fuchsia shirt with white sleeves with purple horizontal stripes, a white skirt, white and yellow sneakers, white socks, a white hat with yellow sides, and a light purple backpack. Marie "
-"has a blue artificial leg. Her skateboard is blue with yellow wheels. Toni has red hair closely trimmed on the sides. He is wearing a blue sweatshirt, dark green pants, and white shoes. He has a red backpack with white inserts and shoulder straps. One hand is next to his mouth. His skateboard is purple with orange wheels. There’s also a father with his son walking in the opposite "
-"direction: the father is dressed in a blue checked jacket and blue pants and holds a brown briefcase. He is smiling at Ada. His son has a blue shirt, blue shorts, white shoes, a brown backpack, and a red and white hat. He holds under his arm a yellow Zangemann skateboard with light brown wheels, and he grins at Ada. In the background there is a bakery with large windows through "
-"which you can see the bread. It has a green and white striped awning around the corner and a sign on the sidewalk with the list of products. Overhead, a large pretzel is displayed. On the road there is a puddle that reflects the blue of the sky."
+"Ada racing with her electric skateboard for city sidewalks. Ada’s skateboard "
+"is blue, with gray and pink wheels; the electronic part is placed above the "
+"skateboard (as opposed to Zangemann’s skateboards where the electronic part "
+"is below). Ada is holding in both hands a remote control with a short "
+"antenna to maneuver it. Behind Ada are Marie and Toni who carry their own "
+"skateboards under their arms and look with amazement at Ada, who has shot "
+"past them and in front of them. Marie has dark long hair with two braids "
+"fastened with orange clips, yellow earrings, a fuchsia shirt with white "
+"sleeves with purple horizontal stripes, a white skirt, white and yellow "
+"sneakers, white socks, a white hat with yellow sides, and a light purple "
+"backpack. Marie has a blue artificial leg. Her skateboard is blue with "
+"yellow wheels. Toni has red hair closely trimmed on the sides. He is wearing "
+"a blue sweatshirt, dark green pants, and white shoes. He has a red backpack "
+"with white inserts and shoulder straps. One hand is next to his mouth. His "
+"skateboard is purple with orange wheels. There’s also a father with his son "
+"walking in the opposite direction: the father is dressed in a blue checked "
+"jacket and blue pants and holds a brown briefcase. He is smiling at Ada. His "
+"son has a blue shirt, blue shorts, white shoes, a brown backpack, and a red "
+"and white hat. He holds under his arm a yellow Zangemann skateboard with "
+"light brown wheels, and he grins at Ada. In the background there is a bakery "
+"with large windows through which you can see the bread. It has a green and "
+"white striped awning around the corner and a sign on the sidewalk with the "
+"list of products. Overhead, a large pretzel is displayed. On the road there "
+"is a puddle that reflects the blue of the sky."
 msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:759
-msgid "When Ada rode her skateboard to school on the first day back after summer break, the other children were amazed. During recess, Ada’s curious classmates surrounded her."
-msgstr "Quan Ada va arribar a l’escola muntada en el seu monopatí després de les vacances d’estiu, la resta de xiquets i xiquetes estaven bocabadats. Durant l’esbarjo, els companys d’Ada l’envoltaren, plens de curiositat."
+msgid ""
+"When Ada rode her skateboard to school on the first day back after summer "
+"break, the other children were amazed. During recess, Ada’s curious "
+"classmates surrounded her."
+msgstr ""
+"Quan Ada va arribar a l’escola muntada en el seu monopatí després de les "
+"vacances d’estiu, la resta de xiquets i xiquetes estaven bocabadats. Durant "
+"l’esbarjo, els companys d’Ada l’envoltaren, plens de curiositat."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:760
 msgid "“How can you ride your skateboard on the sidewalk?” they asked."
-msgstr "«Com t’ho fas per a conduir el teu monopatí per la vorera?», li preguntaven."
+msgstr ""
+"«Com t’ho fas per a conduir el teu monopatí per la vorera?», li preguntaven."
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -1251,23 +1789,46 @@ msgstr "images/illustrations/ada-p28.ltr.png"
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:765
 msgid ""
-"Ada stops on her skateboard surrounded by children. Marie is on one end. She is pointing to Ada’s skateboard and she’s talking. Next to her is Konrad, with short blond hair, a dark gray helmet, glasses, a green shirt with white collar and cuffs, light blue pants with white cuffs, and gray shoes with white soles. He has a red skateboard with orange wheels. Behind Ada there are 4 "
-"other children. On the other end Toni is smiling. He touches his chin with one hand while with the other he holds a yellow helmet by the laces."
+"Ada stops on her skateboard surrounded by children. Marie is on one end. She "
+"is pointing to Ada’s skateboard and she’s talking. Next to her is Konrad, "
+"with short blond hair, a dark gray helmet, glasses, a green shirt with white "
+"collar and cuffs, light blue pants with white cuffs, and gray shoes with "
+"white soles. He has a red skateboard with orange wheels. Behind Ada there "
+"are 4 other children. On the other end Toni is smiling. He touches his chin "
+"with one hand while with the other he holds a yellow helmet by the laces."
 msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:769
-msgid "Ada thought for a moment, then said, “I don’t think it’s your skateboards but actually the software in them. It’s probably programmed into the software that the skateboards aren’t allowed to go on the sidewalk. But that can be changed!”"
-msgstr "Ada pensà un poc i va dir: «No crec que siga cosa dels vostres monopatins, sinó del programari que porten. Potser està escrit al programari que els monopatins no puguen circular per la vorera. Però això es pot canviar!»."
+msgid ""
+"Ada thought for a moment, then said, “I don’t think it’s your skateboards "
+"but actually the software in them. It’s probably programmed into the "
+"software that the skateboards aren’t allowed to go on the sidewalk. But that "
+"can be changed!”"
+msgstr ""
+"Ada pensà un poc i va dir: «No crec que siga cosa dels vostres monopatins, "
+"sinó del programari que porten. Potser està escrit al programari que els "
+"monopatins no puguen circular per la vorera. Però això es pot canviar!»."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:770
 msgid ""
-"That evening, Ada tested out her theory on her classmate Toni’s skateboard. She worked secretly through most of the night, and the next day, Toni could ride on the sidewalk again. Unfortunately, his skateboard could no longer make the sounds that his parents had bought from Zangemann. Instead, every 10 minutes it made a strange noise that sounded like a drawn-out burp. Ada knew "
-"that little errors like that could pop up in programs all the time. But Toni’s burping skateboard was really quite funny."
+"That evening, Ada tested out her theory on her classmate Toni’s skateboard. "
+"She worked secretly through most of the night, and the next day, Toni could "
+"ride on the sidewalk again. Unfortunately, his skateboard could no longer "
+"make the sounds that his parents had bought from Zangemann. Instead, every "
+"10 minutes it made a strange noise that sounded like a drawn-out burp. Ada "
+"knew that little errors like that could pop up in programs all the time. But "
+"Toni’s burping skateboard was really quite funny."
 msgstr ""
-"Aquella mateixa vesprada, Ada va provar la seua teoria en el monopatí del seu company Toni. Va treballar en secret durant quasi tota la nit, i a l'endemà, Toni tornava a poder circular per la vorera. Per desgràcia, el seu monopatí ja no podia fer els sons que sos pares havien comprat de Zangemann. En canvi, cada 10 minuts feia un soroll estrany que sonava com un rot llarguíssim. "
-"Ada sabia que errors xicotets com aquell podien ocórrer tothora en els programes. Però el monopatí de Toni, amb els seus rots, divertia prou al remat."
+"Aquella mateixa vesprada, Ada va provar la seua teoria en el monopatí del "
+"seu company Toni. Va treballar en secret durant quasi tota la nit, i a "
+"l'endemà, Toni tornava a poder circular per la vorera. Per desgràcia, el seu "
+"monopatí ja no podia fer els sons que sos pares havien comprat de Zangemann. "
+"En canvi, cada 10 minuts feia un soroll estrany que sonava com un rot "
+"llarguíssim. Ada sabia que errors xicotets com aquell podien ocórrer tothora "
+"en els programes. Però el monopatí de Toni, amb els seus rots, divertia prou "
+"al remat."
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -1285,8 +1846,12 @@ msgstr "images/illustrations/ada-p29.ltr.png"
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:775
 msgid ""
-"Hopscotch diagram drawn with chalk on asphalt. In a row, within squares, the numbers 1, 2; 3 and 4 next to each other; 5, 6; and 7 and 8 next to each other. The number 9 is not inside a square but inside a wider semicircle beyond the squares of numbers 7 and 8. Between the number 1 and the number 2 there is a blue bottle with white polka dots. A yellow Zangemann skateboard with "
-"orange wheels on the side of the diagram actually hides the number 1."
+"Hopscotch diagram drawn with chalk on asphalt. In a row, within squares, the "
+"numbers 1, 2; 3 and 4 next to each other; 5, 6; and 7 and 8 next to each "
+"other. The number 9 is not inside a square but inside a wider semicircle "
+"beyond the squares of numbers 7 and 8. Between the number 1 and the number 2 "
+"there is a blue bottle with white polka dots. A yellow Zangemann skateboard "
+"with orange wheels on the side of the diagram actually hides the number 1."
 msgstr ""
 
 #. (itstool) path: info/title
@@ -1306,16 +1871,35 @@ msgstr ""
 #. (itstool) id: Ada_Zangemann.dbk#para-p30-1
 #: Ada_Zangemann.dbk:785
 msgid ""
-"<phrase condition=\"capitals-text\">More</phrase><phrase condition=\"capitals-img\">ore</phrase> and more children started to visit Ada at the junkyard after school, and she helped them rewrite the programs in their skateboards. Some of her classmates were very excited about this new discovery. It was unbelievable what you could do with software code! They wanted to learn "
-"everything Ada knew about programming languages, and soon they were riding their skateboards again, wherever they wanted to."
+"<phrase condition=\"capitals-text\">More</phrase><phrase "
+"condition=\"capitals-img\">ore</phrase> and more children started to visit "
+"Ada at the junkyard after school, and she helped them rewrite the programs "
+"in their skateboards. Some of her classmates were very excited about this "
+"new discovery. It was unbelievable what you could do with software code! "
+"They wanted to learn everything Ada knew about programming languages, and "
+"soon they were riding their skateboards again, wherever they wanted to."
 msgstr ""
-"<phrase condition=\"capitals-text\">Cada</phrase><phrase condition=\"capitals-img\">ada</phrase> volta més xiquets i xiquetes visitaven Ada a l’abocador després de classe, i ella els ajudava a reescriure els programes dels seus monopatins. Alguns companys estaven molt engrescats amb aquest descobriment: era increïble el que podies fer amb el programari! Volien aprendre tot el que "
-"Ada sabia sobre llenguatges de programació, i ben aviat, van poder tornar a conduir els seus monopatins per on volien."
+"<phrase condition=\"capitals-text\">Cada</phrase><phrase "
+"condition=\"capitals-img\">ada</phrase> volta més xiquets i xiquetes "
+"visitaven Ada a l’abocador després de classe, i ella els ajudava a "
+"reescriure els programes dels seus monopatins. Alguns companys estaven molt "
+"engrescats amb aquest descobriment: era increïble el que podies fer amb el "
+"programari! Volien aprendre tot el que Ada sabia sobre llenguatges de "
+"programació, i ben aviat, van poder tornar a conduir els seus monopatins per "
+"on volien."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:787
-msgid "But that wasn’t all. With the software, they could give their skateboards new, cool features. Marie attached colorful LED lights to her board that glowed different colors depending on the speed. Konrad built old propellers onto his skateboard for extra speed."
-msgstr "Però això no era tot. Amb el programari, podien donar noves funcions genials als seus monopatins. Marie va instaŀlar al seu patí llums LED que canviaven de color amb la velocitat. Konrad va afegir al seu uns propulsors vells per a córrer més."
+msgid ""
+"But that wasn’t all. With the software, they could give their skateboards "
+"new, cool features. Marie attached colorful LED lights to her board that "
+"glowed different colors depending on the speed. Konrad built old propellers "
+"onto his skateboard for extra speed."
+msgstr ""
+"Però això no era tot. Amb el programari, podien donar noves funcions genials "
+"als seus monopatins. Marie va instaŀlar al seu patí llums LED que canviaven "
+"de color amb la velocitat. Konrad va afegir al seu uns propulsors vells per "
+"a córrer més."
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -1332,23 +1916,43 @@ msgstr "images/illustrations/ada-p30.ltr.png"
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:792
-msgid "A green battery with red and yellow wires, a power strip, glue, a roll of solder, and two pencils."
+msgid ""
+"A green battery with red and yellow wires, a power strip, glue, a roll of "
+"solder, and two pencils."
 msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:796
-msgid "Ada, Toni, Marie, and Konrad spent many afternoons at the junkyard. They even set up a real workshop where they could fine-tune their programs for hours, listening all the while to music from the speakers Ada had built for Alan."
-msgstr "Ada, Toni, Marie i Konrad passaven moltes vesprades a l’abocador. Fins i tot van muntar un autèntic taller on es trobaven per millorar els seus programes durant hores, mentre escoltaven música amb l’altaveu que Ada havia fabricat per a Alan."
+msgid ""
+"Ada, Toni, Marie, and Konrad spent many afternoons at the junkyard. They "
+"even set up a real workshop where they could fine-tune their programs for "
+"hours, listening all the while to music from the speakers Ada had built for "
+"Alan."
+msgstr ""
+"Ada, Toni, Marie i Konrad passaven moltes vesprades a l’abocador. Fins i tot "
+"van muntar un autèntic taller on es trobaven per millorar els seus programes "
+"durant hores, mentre escoltaven música amb l’altaveu que Ada havia fabricat "
+"per a Alan."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:797
-msgid "“Your brother’s speakers are much louder than ours,” remarked Toni, who was busy attaching a speedometer to his helmet. “I’m sure that’s also because of the software,” Marie said."
-msgstr "«L’altaveu del teu germà és molt més potent que els nostres», va indicar Toni, mentre s’ocupava d’afegir un velocímetre al seu casc. «De segur que també és cosa del programari», digué Marie."
+msgid ""
+"“Your brother’s speakers are much louder than ours,” remarked Toni, who was "
+"busy attaching a speedometer to his helmet. “I’m sure that’s also because of "
+"the software,” Marie said."
+msgstr ""
+"«L’altaveu del teu germà és molt més potent que els nostres», va indicar "
+"Toni, mentre s’ocupava d’afegir un velocímetre al seu casc. «De segur que "
+"també és cosa del programari», digué Marie."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:798
-msgid "Together, they changed the software for the speakers too. Then they turned up the music as loud as possible and danced wildly together."
-msgstr "Junts també van canviar el programari dels altaveus. En acabant, van apujar el volum de la música al màxim i van ballar junts com a bojos."
+msgid ""
+"Together, they changed the software for the speakers too. Then they turned "
+"up the music as loud as possible and danced wildly together."
+msgstr ""
+"Junts també van canviar el programari dels altaveus. En acabant, van apujar "
+"el volum de la música al màxim i van ballar junts com a bojos."
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -1365,7 +1969,9 @@ msgstr "images/illustrations/ada-p31.ltr.png"
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:803
-msgid "A screwdriver with orange and gray handle, red pliers, and three LEDs: yellow, green, pink."
+msgid ""
+"A screwdriver with orange and gray handle, red pliers, and three LEDs: "
+"yellow, green, pink."
 msgstr ""
 
 #. (itstool) path: imageobject/imagedata@fileref
@@ -1384,8 +1990,15 @@ msgstr "images/illustrations/ada-p32.ltr.png"
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:811
 msgid ""
-"Laboratory at the junkyard, under the veranda of Ada’s house. Ada is sitting on a water case with a leg bent under her, using a soldering iron. Konrad is standing next to her and dismounting a speaker. Marie is sitting on two tires with an arm resting on a table and her upside-down skateboard from which wires come out. She is talking with Alan, who is standing with his arms "
-"resting on the same table. On the table there are also: pliers, two wrenches, a spool of solder, a can of blue paint (a bit of paint has dried on the table), and a pitcher and two glasses containing a pink drink. Toni is testing his skateboard with added yellow wings and a fan. It burps."
+"Laboratory at the junkyard, under the veranda of Ada’s house. Ada is sitting "
+"on a water case with a leg bent under her, using a soldering iron. Konrad is "
+"standing next to her and dismounting a speaker. Marie is sitting on two "
+"tires with an arm resting on a table and her upside-down skateboard from "
+"which wires come out. She is talking with Alan, who is standing with his "
+"arms resting on the same table. On the table there are also: pliers, two "
+"wrenches, a spool of solder, a can of blue paint (a bit of paint has dried "
+"on the table), and a pitcher and two glasses containing a pink drink. Toni "
+"is testing his skateboard with added yellow wings and a fan. It burps."
 msgstr ""
 
 #. (itstool) path: imageobject/imagedata@fileref
@@ -1403,7 +2016,12 @@ msgstr "images/illustrations/ada-p33.ltr.png"
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:819
-msgid "Marie and Ada’s mom are dancing, facing each other. Alan, Ada, and Konrad are dancing in a circle. On the right there is a speaker playing, resting on an oil drum. Near the speaker there are two dancing mice. Toni is jumping through the tires. Ada’s dog is howling, and from his mouth come two distorted musical notes."
+msgid ""
+"Marie and Ada’s mom are dancing, facing each other. Alan, Ada, and Konrad "
+"are dancing in a circle. On the right there is a speaker playing, resting on "
+"an oil drum. Near the speaker there are two dancing mice. Toni is jumping "
+"through the tires. Ada’s dog is howling, and from his mouth come two "
+"distorted musical notes."
 msgstr ""
 
 #. (itstool) path: imageobject/imagedata@fileref
@@ -1422,7 +2040,11 @@ msgstr "images/illustrations/ada-p34.ltr.png"
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:827
 msgid ""
-"Hands holding wonderful ice cream cones: blue ice cream with a chocolate heart on top with a yellow heart on its center, and whipped cream on top of the chocolate; green ice cream with colored stars with a cucumber stuck on a stick; pink fish-shaped ice cream; pyramid-shaped ice cream with candies, and chocolate syrup, and a cherry on top; rainbow ice cream with a yellow "
+"Hands holding wonderful ice cream cones: blue ice cream with a chocolate "
+"heart on top with a yellow heart on its center, and whipped cream on top of "
+"the chocolate; green ice cream with colored stars with a cucumber stuck on a "
+"stick; pink fish-shaped ice cream; pyramid-shaped ice cream with candies, "
+"and chocolate syrup, and a cherry on top; rainbow ice cream with a yellow "
 "umbrella; blue ghost-shaped ice cream with candies on it."
 msgstr ""
 
@@ -1449,26 +2071,57 @@ msgstr ""
 #. (itstool) id: Ada_Zangemann.dbk#para-p35-1
 #: Ada_Zangemann.dbk:838
 msgid ""
-"<phrase condition=\"capitals-text\">Every</phrase><phrase condition=\"capitals-img\">very</phrase> day, Ada and her friends made plans together for the afternoon. From a broken ice-cream machine, they built a new one that could make ice cream in every imaginable shape and color. They ate square ice cream, heart-shaped ice cream, and even pyramid-shaped ice cream, as well as "
-"strawberry, raspberry, and rainbow ice cream, all with sprinkles and hot fudge — much better than the varieties from the Zangemann machines."
+"<phrase condition=\"capitals-text\">Every</phrase><phrase "
+"condition=\"capitals-img\">very</phrase> day, Ada and her friends made plans "
+"together for the afternoon. From a broken ice-cream machine, they built a "
+"new one that could make ice cream in every imaginable shape and color. They "
+"ate square ice cream, heart-shaped ice cream, and even pyramid-shaped ice "
+"cream, as well as strawberry, raspberry, and rainbow ice cream, all with "
+"sprinkles and hot fudge — much better than the varieties from the Zangemann "
+"machines."
 msgstr ""
-"<phrase condition=\"capitals-text\">Cada</phrase><phrase condition=\"capitals-img\">ada</phrase> dia, Ada i els seus amics i amigues feien plans per a la vesprada. Partint d’una màquina de gelats trencada, van muntar una altra que podia fer gelat de totes les formes i colors imaginables. Menjaren gelat quadrat, gelat amb forma de cor i, fins i tot, gelat amb forma de piràmide. "
-"També gelat de maduixa, de mora roja i d’arc de Sant Martí amb trossets de caramel i tot —molt millors que els de la selecció de les màquines de Zangemann."
+"<phrase condition=\"capitals-text\">Cada</phrase><phrase "
+"condition=\"capitals-img\">ada</phrase> dia, Ada i els seus amics i amigues "
+"feien plans per a la vesprada. Partint d’una màquina de gelats trencada, van "
+"muntar una altra que podia fer gelat de totes les formes i colors "
+"imaginables. Menjaren gelat quadrat, gelat amb forma de cor i, fins i tot, "
+"gelat amb forma de piràmide. També gelat de maduixa, de mora roja i d’arc de "
+"Sant Martí amb trossets de caramel i tot —molt millors que els de la "
+"selecció de les màquines de Zangemann."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:839
 msgid ""
-"Sometimes they could even help adults. Toni reprogrammed his father’s ironing machine so that it could also iron ties again — Zangemann had forbidden the machines to do so because he hated ties like the plague. For the bus driver, they built an automatic watering system out of old hoses and a computer so that her plants would not die of thirst during summer days. And they helped "
-"the school custodian modify his vacuum so that it automatically recognized toys and wouldn’t suck them up."
+"Sometimes they could even help adults. Toni reprogrammed his father’s "
+"ironing machine so that it could also iron ties again — Zangemann had "
+"forbidden the machines to do so because he hated ties like the plague. For "
+"the bus driver, they built an automatic watering system out of old hoses and "
+"a computer so that her plants would not die of thirst during summer days. "
+"And they helped the school custodian modify his vacuum so that it "
+"automatically recognized toys and wouldn’t suck them up."
 msgstr ""
-"A voltes inclús ajudaven als adults. Toni va programar la màquina de planxar de son pare perquè li tornara a fer les corbates —Zangemann ho havia prohibit a les màquines perquè odiava les corbates a rabiar. A la conductora del bus li van muntar un sistema de reg automàtic a partir de gomes antigues i un ordinador perquè no se li moriren de set les plantes durant el dia en estiu. "
-"I, a més, van ajudar el guarda de l’escola a modificar la seua aspiradora per a reconéixer automàticament els joguets i no tragar‐se’ls."
+"A voltes inclús ajudaven als adults. Toni va programar la màquina de planxar "
+"de son pare perquè li tornara a fer les corbates —Zangemann ho havia "
+"prohibit a les màquines perquè odiava les corbates a rabiar. A la conductora "
+"del bus li van muntar un sistema de reg automàtic a partir de gomes antigues "
+"i un ordinador perquè no se li moriren de set les plantes durant el dia en "
+"estiu. I, a més, van ajudar el guarda de l’escola a modificar la seua "
+"aspiradora per a reconéixer automàticament els joguets i no tragar‐se’ls."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:840
 #, fuzzy
-msgid "Some things they built just for fun, like the fart machine they put in their math teacher’s chair. Whenever Ms. Gernet sat down, the machine played a little fart sound. The teacher would scold them, but Ada was sure that she secretly smirked a little every time."
-msgstr "Construïen algunes coses només per diversió, com la màquina de tirar‐se pets que posaren sobre la cadira de la seua professora de matemàtiques. Quan la Sra. Gernet s’asseia, la màquina tocava un so xicotet de pet. La professora els renyia, però Ada estava segura que en el fons a ella també li feia un poc de gràcia cada volta."
+msgid ""
+"Some things they built just for fun, like the fart machine they put in their "
+"math teacher’s chair. Whenever Ms. Gernet sat down, the machine played a "
+"little fart sound. The teacher would scold them, but Ada was sure that she "
+"secretly smirked a little every time."
+msgstr ""
+"Construïen algunes coses només per diversió, com la màquina de tirar‐se pets "
+"que posaren sobre la cadira de la seua professora de matemàtiques. Quan la "
+"Sra. Gernet s’asseia, la màquina tocava un so xicotet de pet. La professora "
+"els renyia, però Ada estava segura que en el fons a ella també li feia un "
+"poc de gràcia cada volta."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:845
@@ -1487,21 +2140,43 @@ msgstr ""
 #. (itstool) id: Ada_Zangemann.dbk#para-p36-1
 #: Ada_Zangemann.dbk:849
 msgid ""
-"<phrase condition=\"capitals-text\">One</phrase><phrase condition=\"capitals-img\">ne</phrase> day, Zangemann noticed that some computers no longer obeyed his programming commands. Shocked and fuming with anger, he called the president. In a quivering voice, Zangemann yelled, “Someone is rewriting the programs in my devices. That can’t happen; after all, they are my inventions. "
-"It’s far too dangerous if everyone can do whatever they want with the computers. You must make a law against this!”"
+"<phrase condition=\"capitals-text\">One</phrase><phrase condition=\"capitals-"
+"img\">ne</phrase> day, Zangemann noticed that some computers no longer "
+"obeyed his programming commands. Shocked and fuming with anger, he called "
+"the president. In a quivering voice, Zangemann yelled, “Someone is rewriting "
+"the programs in my devices. That can’t happen; after all, they are my "
+"inventions. It’s far too dangerous if everyone can do whatever they want "
+"with the computers. You must make a law against this!”"
 msgstr ""
-"<phrase condition=\"capitals-text\">Un</phrase><phrase condition=\"capitals-img\">n</phrase> dia, Zangemann va notar que alguns ordinadors ja no obeïen les ordres que els havia programat. Escandalitzat i traient fum per les orelles, va telefonar al President. La veu li tremolava mentre li cridava «Algú està reescrivint els programes dels meus aparells. Això no pot ser! Són els "
-"meus invents! És massa perillós que qualsevol faça el que vulga amb els ordinadors. Has de publicar una llei que ho prohibisca!»."
+"<phrase condition=\"capitals-text\">Un</phrase><phrase condition=\"capitals-"
+"img\">n</phrase> dia, Zangemann va notar que alguns ordinadors ja no obeïen "
+"les ordres que els havia programat. Escandalitzat i traient fum per les "
+"orelles, va telefonar al President. La veu li tremolava mentre li cridava "
+"«Algú està reescrivint els programes dels meus aparells. Això no pot ser! "
+"Són els meus invents! És massa perillós que qualsevol faça el que vulga amb "
+"els ordinadors. Has de publicar una llei que ho prohibisca!»."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:850
-msgid "The president did not want to upset Zangemann. All the government’s computers were programmed by Zangemann. Without the computers, the government would not be able to run the country. So they passed the law as Zangemann requested:"
-msgstr "El President no volia molestar Zangemann. Tots els ordinadors del Govern estaven programats per ell. Sense ordinadors, el Govern no podria gestionar el país. Així que van publicar la llei que Zangemann els havia demanat:"
+msgid ""
+"The president did not want to upset Zangemann. All the government’s "
+"computers were programmed by Zangemann. Without the computers, the "
+"government would not be able to run the country. So they passed the law as "
+"Zangemann requested:"
+msgstr ""
+"El President no volia molestar Zangemann. Tots els ordinadors del Govern "
+"estaven programats per ell. Sense ordinadors, el Govern no podria gestionar "
+"el país. Així que van publicar la llei que Zangemann els havia demanat:"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:851
-msgid "“All computers that do not listen to Zangemann are banned. Anyone who reprograms Zangemann’s devices will be fined 500,000 gold pieces!”"
-msgstr "«Els ordinadors que no facen el que diu Zangemann queden prohibits. Qualsevol que reprograme un aparell de Zangemann rebrà una multa de 500.000 peces d’or!»"
+msgid ""
+"“All computers that do not listen to Zangemann are banned. Anyone who "
+"reprograms Zangemann’s devices will be fined 500,000 gold pieces!”"
+msgstr ""
+"«Els ordinadors que no facen el que diu Zangemann queden prohibits. "
+"Qualsevol que reprograme un aparell de Zangemann rebrà una multa de 500.000 "
+"peces d’or!»"
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -1519,20 +2194,41 @@ msgstr "images/illustrations/ada-p37.ltr.png"
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:858
 msgid ""
-"The President getting a phone call from the angry Zangemann. The videophone consists of an old red Zangemann dial phone connected to a monitor. Zangemann’s face appears on the monitor, while a yellow flare of Zangemann’s thundering voice comes out of the phone, and the President holds the receiver at arm’s length. The president has white hair and wears a light blue shirt, a red "
-"tie, and a blue jacket with yellow buttons. The President is sitting on a green chair with white vertical lines, and his other hand is on the desk. On the desk, in addition to the videophone, there are sheets with something written on them and an open purple fountain pen. The President was eating a sandwich of meat and cheese with greens with two olives on a toothpick, over a "
-"blue napkin with white stripes."
+"The President getting a phone call from the angry Zangemann. The videophone "
+"consists of an old red Zangemann dial phone connected to a monitor. "
+"Zangemann’s face appears on the monitor, while a yellow flare of Zangemann’s "
+"thundering voice comes out of the phone, and the President holds the "
+"receiver at arm’s length. The president has white hair and wears a light "
+"blue shirt, a red tie, and a blue jacket with yellow buttons. The President "
+"is sitting on a green chair with white vertical lines, and his other hand is "
+"on the desk. On the desk, in addition to the videophone, there are sheets "
+"with something written on them and an open purple fountain pen. The "
+"President was eating a sandwich of meat and cheese with greens with two "
+"olives on a toothpick, over a blue napkin with white stripes."
 msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:863
-msgid "When Ada and her friends heard this, they were furious. “This is unfair,” they said. “We rebuilt and reprogrammed our skateboards ourselves. They are much better now. We won’t let anyone take that away from us!”"
-msgstr "Quan Ada i els seus amics i amigues van sentir allò es van enfadar molt. «No és just», deien. «Hem reconstruït i reprogramat els nostres monopatins amb les nostres mans. Ara són molt millors. No deixarem que ningú ens ho impedisca!»."
+msgid ""
+"When Ada and her friends heard this, they were furious. “This is unfair,” "
+"they said. “We rebuilt and reprogrammed our skateboards ourselves. They are "
+"much better now. We won’t let anyone take that away from us!”"
+msgstr ""
+"Quan Ada i els seus amics i amigues van sentir allò es van enfadar molt. «No "
+"és just», deien. «Hem reconstruït i reprogramat els nostres monopatins amb "
+"les nostres mans. Ara són molt millors. No deixarem que ningú ens ho "
+"impedisca!»."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:864
-msgid "They gathered in front of one of their rebuilt ice-cream machines and discussed the situation. It was clear that something had to be done about the new law, and they made a plan..."
-msgstr "Es van reunir davant d’una de les màquines de gelat que havien refet i van discutir la situació. Estava clar que calia fer alguna cosa amb la nova llei, així que van dissenyar un pla…"
+msgid ""
+"They gathered in front of one of their rebuilt ice-cream machines and "
+"discussed the situation. It was clear that something had to be done about "
+"the new law, and they made a plan..."
+msgstr ""
+"Es van reunir davant d’una de les màquines de gelat que havien refet i van "
+"discutir la situació. Estava clar que calia fer alguna cosa amb la nova "
+"llei, així que van dissenyar un pla…"
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -1549,7 +2245,9 @@ msgstr "images/illustrations/ada-p38.ltr.png"
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:869
-msgid "Cans of green, blue, and pink paint; a paintbrush with yellow paint; a light green marker; and a rolled banner on which some blue paint has fallen."
+msgid ""
+"Cans of green, blue, and pink paint; a paintbrush with yellow paint; a light "
+"green marker; and a rolled banner on which some blue paint has fallen."
 msgstr ""
 
 #. (itstool) path: info/title
@@ -1569,17 +2267,44 @@ msgstr ""
 #. (itstool) id: Ada_Zangemann.dbk#para-p39-1
 #: Ada_Zangemann.dbk:880
 msgid ""
-"<phrase condition=\"capitals-text\">The</phrase><phrase condition=\"capitals-img\">he</phrase> next day, they didn’t go to school. Instead, they rode their skateboards to the parliament building, with large protest signs under their arms, and sat down in front of the building. The evening before, they had put LED lights on some of the signs, which were now flashing brightly. They "
-"had connected their speakers together so everyone in the street could hear what they were saying. Some passersby stopped and asked the children what they were demonstrating for. “For software freedom!” they replied in unison and told the adults their story. Impressed, the adults nodded, and the president also looked curiously at their signs as he approached the building."
+"<phrase condition=\"capitals-text\">The</phrase><phrase condition=\"capitals-"
+"img\">he</phrase> next day, they didn’t go to school. Instead, they rode "
+"their skateboards to the parliament building, with large protest signs under "
+"their arms, and sat down in front of the building. The evening before, they "
+"had put LED lights on some of the signs, which were now flashing brightly. "
+"They had connected their speakers together so everyone in the street could "
+"hear what they were saying. Some passersby stopped and asked the children "
+"what they were demonstrating for. “For software freedom!” they replied in "
+"unison and told the adults their story. Impressed, the adults nodded, and "
+"the president also looked curiously at their signs as he approached the "
+"building."
 msgstr ""
-"<phrase condition=\"capitals-text\">Al</phrase><phrase condition=\"capitals-img\">l</phrase> dia següent no van anar a l’escola. Enlloc, van conduir els seus monopatins fins al Parlament on, amb grans pancartes de protesta sota el braç, es van asseure davant de l’edifici. El vespre anterior havien posat llums LED en algunes de les pancartes, que ara brillaven pampalluguejant. "
-"Havien connectat els seus altaveus tots junts perquè tothom al carrer poguera sentir el que deien. Alguns vianants paraven i els preguntaven per què s’estaven manifestant. «Per la llibertat del programari!» responien alhora, i contaven als adults la seua història. Els adults assentien impressionats, i el President també mirava amb curiositat les pancartes segons s’acostava a "
-"l’edifici."
+"<phrase condition=\"capitals-text\">Al</phrase><phrase condition=\"capitals-"
+"img\">l</phrase> dia següent no van anar a l’escola. Enlloc, van conduir els "
+"seus monopatins fins al Parlament on, amb grans pancartes de protesta sota "
+"el braç, es van asseure davant de l’edifici. El vespre anterior havien posat "
+"llums LED en algunes de les pancartes, que ara brillaven pampalluguejant. "
+"Havien connectat els seus altaveus tots junts perquè tothom al carrer "
+"poguera sentir el que deien. Alguns vianants paraven i els preguntaven per "
+"què s’estaven manifestant. «Per la llibertat del programari!» responien "
+"alhora, i contaven als adults la seua història. Els adults assentien "
+"impressionats, i el President també mirava amb curiositat les pancartes "
+"segons s’acostava a l’edifici."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:881
-msgid "On the following day, Ada and her friends again sat down in front of the parliament building, this time with support. Some classmates came whose skateboards Ada had reprogrammed. Toni’s father and other parents and adults also wanted to support the protest. They found the children’s devices very useful."
-msgstr "Al dia següent, Ada i els seus amics tornaren a seure davant de l’edifici del Parlament, però ara tenien reforços. Hi havia alguns companys i companyes a qui Ada havia reprogramat el monopatí. El pare de Toni, juntament amb altres adults i varis pares i mares, veniren a recolzar la protesta. Trobaven molt útils els aparells dels seus fills i filles."
+msgid ""
+"On the following day, Ada and her friends again sat down in front of the "
+"parliament building, this time with support. Some classmates came whose "
+"skateboards Ada had reprogrammed. Toni’s father and other parents and adults "
+"also wanted to support the protest. They found the children’s devices very "
+"useful."
+msgstr ""
+"Al dia següent, Ada i els seus amics tornaren a seure davant de l’edifici "
+"del Parlament, però ara tenien reforços. Hi havia alguns companys i "
+"companyes a qui Ada havia reprogramat el monopatí. El pare de Toni, "
+"juntament amb altres adults i varis pares i mares, veniren a recolzar la "
+"protesta. Trobaven molt útils els aparells dels seus fills i filles."
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -1596,18 +2321,30 @@ msgstr "images/illustrations/ada-p39.ltr.png"
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:886
-msgid "Yellow and green paint on the floor and wax crayons yellow, red, blue, green and brown; the latter 3 are in a gray cardboard box."
+msgid ""
+"Yellow and green paint on the floor and wax crayons yellow, red, blue, green "
+"and brown; the latter 3 are in a gray cardboard box."
 msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:890
 #, fuzzy
 msgid ""
-"With each passing day, more and more children and adults joined the protest. The bus driver they had helped drove up in her bus. She honked loudly to attract even more people to the protest. The custodian brought a few friends, and Toni’s father brought his colleagues from work, all wearing perfectly ironed ties. Even Ms. Gernet came. The crowd grew, and after a few weeks, there "
-"were protests not just in Ada’s city but also in many cities throughout the country."
+"With each passing day, more and more children and adults joined the protest. "
+"The bus driver they had helped drove up in her bus. She honked loudly to "
+"attract even more people to the protest. The custodian brought a few "
+"friends, and Toni’s father brought his colleagues from work, all wearing "
+"perfectly ironed ties. Even Ms. Gernet came. The crowd grew, and after a few "
+"weeks, there were protests not just in Ada’s city but also in many cities "
+"throughout the country."
 msgstr ""
-"Més i més xiquets i adults s’afegien a la protesta segons passaven els dies. La conductora que havien ajudat arribà amb el seu bus. Tocava el clàxon ben fort per a atraure més gent cap a la protesta. El guarda va portar alguns amics, i el pare de Toni portà companys de feina que portaven unes corbates perfectament planxades. Fins i tot vingué la Sra. Gernet. La multitud cresqué "
-"i, al cap de poques setmanes, no només hi havia protestes a la ciutat d’Ada, sinó en moltes altres del país."
+"Més i més xiquets i adults s’afegien a la protesta segons passaven els dies. "
+"La conductora que havien ajudat arribà amb el seu bus. Tocava el clàxon ben "
+"fort per a atraure més gent cap a la protesta. El guarda va portar alguns "
+"amics, i el pare de Toni portà companys de feina que portaven unes corbates "
+"perfectament planxades. Fins i tot vingué la Sra. Gernet. La multitud "
+"cresqué i, al cap de poques setmanes, no només hi havia protestes a la "
+"ciutat d’Ada, sinó en moltes altres del país."
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -1625,16 +2362,27 @@ msgstr ""
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:895
 msgid ""
-"Group of protesters. Among them there are: Ada’s mother holding Alan’s hand and raising a pink ice cream; 3 colleagues of Toni’s father dressed in ties; two children holding the banner “Do your homework Mr. President and we will do ours!”; a robot with tank treads, irons as feet, an electric fan as abdomen, a monitor as head, and an eggbeater as one hand, holding a blue ice cream "
-"in his other hand; two parents holding the banner “Hacking 4 Freedom”; a lady holding an electronic sign “There is a code B”; two small birds, flying; the math teacher, Ms. Gernet, who has inserted in her cart a sign that says “They are young + need the code!“ The dog in her cart is barking; Ada and Konrad are carrying the banner “Don’t wreck our tech!” Marie and Toni are walking "
-"beneath the banner, and Marie is talking through a bullhorn held in her hand; Ada’s family’s dog is now wearing a red harness with shiny yellow LEDs that matches the collar."
+"Group of protesters. Among them there are: Ada’s mother holding Alan’s hand "
+"and raising a pink ice cream; 3 colleagues of Toni’s father dressed in ties; "
+"two children holding the banner “Do your homework Mr. President and we will "
+"do ours!”; a robot with tank treads, irons as feet, an electric fan as "
+"abdomen, a monitor as head, and an eggbeater as one hand, holding a blue ice "
+"cream in his other hand; two parents holding the banner “Hacking 4 Freedom”; "
+"a lady holding an electronic sign “There is a code B”; two small birds, "
+"flying; the math teacher, Ms. Gernet, who has inserted in her cart a sign "
+"that says “They are young + need the code!“ The dog in her cart is barking; "
+"Ada and Konrad are carrying the banner “Don’t wreck our tech!” Marie and "
+"Toni are walking beneath the banner, and Marie is talking through a bullhorn "
+"held in her hand; Ada’s family’s dog is now wearing a red harness with shiny "
+"yellow LEDs that matches the collar."
 msgstr ""
 
 #. (itstool) path: info/excerpt
 #. Text on big banner, left on the illustration
 #: Ada_Zangemann.dbk:897
 msgid "Do your homework Mr. President and we will do ours!"
-msgstr "Sr. President, feu els vostres deures i nosaltres podrem fer els nostres!"
+msgstr ""
+"Sr. President, feu els vostres deures i nosaltres podrem fer els nostres!"
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -1651,7 +2399,9 @@ msgstr ""
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:906
-msgid "Detail of the previous image: two children holding the banner “Do your homework Mr. President and we will do ours!”"
+msgid ""
+"Detail of the previous image: two children holding the banner “Do your "
+"homework Mr. President and we will do ours!”"
 msgstr ""
 
 #. (itstool) path: imageobject/imagedata@fileref
@@ -1669,7 +2419,11 @@ msgstr ""
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:912
-msgid "Detail of the previous image: Ada and Konrad are carrying the banner “Don’t wreck our tech!” Marie and Toni are walking beneath the banner, and Marie is talking through a bullhorn held in her hand; Ada’s family’s little dog is now wearing a red harness with shiny yellow LEDs that matches the collar."
+msgid ""
+"Detail of the previous image: Ada and Konrad are carrying the banner “Don’t "
+"wreck our tech!” Marie and Toni are walking beneath the banner, and Marie is "
+"talking through a bullhorn held in her hand; Ada’s family’s little dog is "
+"now wearing a red harness with shiny yellow LEDs that matches the collar."
 msgstr ""
 
 #. (itstool) path: info/excerpt
@@ -1703,16 +2457,40 @@ msgstr ""
 #. (itstool) id: Ada_Zangemann.dbk#para-p42-1
 #: Ada_Zangemann.dbk:925
 msgid ""
-"<phrase condition=\"capitals-text\">Ada</phrase><phrase condition=\"capitals-img\">da</phrase> protested in front of the parliament building every week, even in pouring rain. On one such rainy day, when the president passed the group of dripping-wet children, he couldn’t help but admire their stubbornness. He asked Ada, “Why do you sit here every day? What do you want to "
-"achieve?” Ada replied, “We want to determine for ourselves what we can and cannot do with our computers.” Her friends shouted in unison: “Don’t wreck our tech! Don’t wreck our tech!” and “We want the code! We want the code!”"
+"<phrase condition=\"capitals-text\">Ada</phrase><phrase condition=\"capitals-"
+"img\">da</phrase> protested in front of the parliament building every week, "
+"even in pouring rain. On one such rainy day, when the president passed the "
+"group of dripping-wet children, he couldn’t help but admire their "
+"stubbornness. He asked Ada, “Why do you sit here every day? What do you want "
+"to achieve?” Ada replied, “We want to determine for ourselves what we can "
+"and cannot do with our computers.” Her friends shouted in unison: “Don’t "
+"wreck our tech! Don’t wreck our tech!” and “We want the code! We want the "
+"code!”"
 msgstr ""
-"<phrase condition=\"capitals-text\">Ada</phrase><phrase condition=\"capitals-img\">da</phrase> protestava davant de l’edifici del Parlament cada setmana, amb sol o amb pluja. Un d’aquells dies de pluja, quan el President passà per davant del grup de xiquets i xiquetes completament xops, no pogué evitar admirar‐se de la seua tenacitat. Li preguntà a Ada: «Per què seieu ací cada "
-"dia? Què voleu aconseguir?». I Ada li respongué: «Volem ser nosaltres qui determinem què podem fer o no amb els nostres ordinadors». I la resta cridà en cor: «Torneu‐nos els nostres ordinadors!» i «Volem programar en llibertat!»."
+"<phrase condition=\"capitals-text\">Ada</phrase><phrase condition=\"capitals-"
+"img\">da</phrase> protestava davant de l’edifici del Parlament cada setmana, "
+"amb sol o amb pluja. Un d’aquells dies de pluja, quan el President passà per "
+"davant del grup de xiquets i xiquetes completament xops, no pogué evitar "
+"admirar‐se de la seua tenacitat. Li preguntà a Ada: «Per què seieu ací cada "
+"dia? Què voleu aconseguir?». I Ada li respongué: «Volem ser nosaltres qui "
+"determinem què podem fer o no amb els nostres ordinadors». I la resta cridà "
+"en cor: «Torneu‐nos els nostres ordinadors!» i «Volem programar en "
+"llibertat!»."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:926
-msgid "The president looked at the determined faces of the children. Honestly, he, too, wanted to decide for himself what the government could and couldn’t do with its computers. But he didn’t understand anything about computers and code, so he had always left that to Zangemann. Deep in thought, the president entered the building."
-msgstr "El President mirava les seues cares, plenes de determinació. Per a ser sincer, ell també volia decidir per ell mateix què podia fer el Govern amb els seus ordinadors i què no. Però com que no sabia res d’ordinadors ni de codi, sempre ho havia deixat en mans de Zangemann. El President va entrar en l’edifici donant‐li voltes a l’assumpte."
+msgid ""
+"The president looked at the determined faces of the children. Honestly, he, "
+"too, wanted to decide for himself what the government could and couldn’t do "
+"with its computers. But he didn’t understand anything about computers and "
+"code, so he had always left that to Zangemann. Deep in thought, the "
+"president entered the building."
+msgstr ""
+"El President mirava les seues cares, plenes de determinació. Per a ser "
+"sincer, ell també volia decidir per ell mateix què podia fer el Govern amb "
+"els seus ordinadors i què no. Però com que no sabia res d’ordinadors ni de "
+"codi, sempre ho havia deixat en mans de Zangemann. El President va entrar en "
+"l’edifici donant‐li voltes a l’assumpte."
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -1729,27 +2507,53 @@ msgstr "images/illustrations/ada-p42.ltr.png"
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:932
-msgid "One of Ada’s friends lying on his stomach with one foot up in the air is typing on a laptop. He has wavy brown hair parted in the center, a red sweatshirt, blue pants, and white socks but no shoes. Next to the computer there are a green cup and two open books."
+msgid ""
+"One of Ada’s friends lying on his stomach with one foot up in the air is "
+"typing on a laptop. He has wavy brown hair parted in the center, a red "
+"sweatshirt, blue pants, and white socks but no shoes. Next to the computer "
+"there are a green cup and two open books."
 msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:934
 msgid ""
-"The next day, the president invited Ada and her friends over. “We also want to be in charge of our software ourselves. In order for that to be true, the government must be independent from Zangemann. Can you tell me what you know about computer programs?” he asked them. Enthusiastically, they explained to him how software works and what you could do with it. The president was "
+"The next day, the president invited Ada and her friends over. “We also want "
+"to be in charge of our software ourselves. In order for that to be true, the "
+"government must be independent from Zangemann. Can you tell me what you know "
+"about computer programs?” he asked them. Enthusiastically, they explained to "
+"him how software works and what you could do with it. The president was "
 "amazed."
 msgstr ""
-"Al dia següent, el President va convidar Ada i els seus amics i amigues. «Nosaltres també volem tenir el control sobre el nostre programari. Si volem aconseguir‐ho, cal que el Govern siga independent de Zangemann. Podríeu dir‐nos el que sabeu sobre els programes d’ordinador?» els va preguntar. Entusiasmats, van explicar‐li com funcionava el programari i què es podia fer amb ell. "
-"El President estava bocabadat."
+"Al dia següent, el President va convidar Ada i els seus amics i amigues. "
+"«Nosaltres també volem tenir el control sobre el nostre programari. Si volem "
+"aconseguir‐ho, cal que el Govern siga independent de Zangemann. Podríeu dir‐"
+"nos el que sabeu sobre els programes d’ordinador?» els va preguntar. "
+"Entusiasmats, van explicar‐li com funcionava el programari i què es podia "
+"fer amb ell. El President estava bocabadat."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:937
-msgid "With this new knowledge, the government would be able to design its own software, the way it wanted — completely without Zangemann. Immediately, the president called his advisers. In a large group, they discussed with the children everything they could change and improve in the software."
-msgstr "Amb aquest nou coneixement, el Govern podria dissenyar el seu propi programari com volguera —sense necessitar Zangemann per a res. El President va cridar al seu equip d’assessorament de seguida. Van formar un grup gran juntament amb els xiquets i xiquetes, i van discutir tot el que podien canviar i millorar en el seu programari."
+msgid ""
+"With this new knowledge, the government would be able to design its own "
+"software, the way it wanted — completely without Zangemann. Immediately, the "
+"president called his advisers. In a large group, they discussed with the "
+"children everything they could change and improve in the software."
+msgstr ""
+"Amb aquest nou coneixement, el Govern podria dissenyar el seu propi "
+"programari com volguera —sense necessitar Zangemann per a res. El President "
+"va cridar al seu equip d’assessorament de seguida. Van formar un grup gran "
+"juntament amb els xiquets i xiquetes, i van discutir tot el que podien "
+"canviar i millorar en el seu programari."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:938
-msgid "That evening, the children went home proud and satisfied. Something finally happened! Their long protest was worth it."
-msgstr "Aquella nit, xiquets i xiquetes van tornar a casa orgullosos i satisfets. Per fi havien aconseguit alguna cosa! La seua llarga protesta havia valgut la pena."
+msgid ""
+"That evening, the children went home proud and satisfied. Something finally "
+"happened! Their long protest was worth it."
+msgstr ""
+"Aquella nit, xiquets i xiquetes van tornar a casa orgullosos i satisfets. "
+"Per fi havien aconseguit alguna cosa! La seua llarga protesta havia valgut "
+"la pena."
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -1767,8 +2571,12 @@ msgstr "images/illustrations/ada-p43.ltr.png"
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:943
 msgid ""
-"Ada and her friends in the President’s office. Ada is reprogramming the President’s computer. Toni is setting up a speaker for the President’s secretary. Marie and Konrad are sitting on the floor and talking, and Marie has a laptop on her legs with an FSFE logo sticker (three stars: pea green, sky blue, and sea blue). On the floor are a bowl with candy and a plate with ice "
-"creams. The President’s phone is ringing, but nobody is answering."
+"Ada and her friends in the President’s office. Ada is reprogramming the "
+"President’s computer. Toni is setting up a speaker for the President’s "
+"secretary. Marie and Konrad are sitting on the floor and talking, and Marie "
+"has a laptop on her legs with an FSFE logo sticker (three stars: pea green, "
+"sky blue, and sea blue). On the floor are a bowl with candy and a plate with "
+"ice creams. The President’s phone is ringing, but nobody is answering."
 msgstr ""
 
 #. (itstool) path: info/title
@@ -1788,11 +2596,21 @@ msgstr ""
 #. (itstool) id: Ada_Zangemann.dbk#para-p44-1
 #: Ada_Zangemann.dbk:952
 msgid ""
-"<phrase condition=\"capitals-text\">The</phrase><phrase condition=\"capitals-img\">he</phrase> next morning, the president’s phone rang very early. It was Zangemann. He was angrier than ever. “Without me, the government computers will no longer work,” he threatened. But the president kept the call short and quickly hung up. The phone rang many more times that day, but Zangemann’s "
-"calls went unanswered. The president sat in a meeting with Ada, Toni, Marie, Konrad, and the government experts."
+"<phrase condition=\"capitals-text\">The</phrase><phrase condition=\"capitals-"
+"img\">he</phrase> next morning, the president’s phone rang very early. It "
+"was Zangemann. He was angrier than ever. “Without me, the government "
+"computers will no longer work,” he threatened. But the president kept the "
+"call short and quickly hung up. The phone rang many more times that day, but "
+"Zangemann’s calls went unanswered. The president sat in a meeting with Ada, "
+"Toni, Marie, Konrad, and the government experts."
 msgstr ""
-"<phrase condition=\"capitals-text\">Al</phrase><phrase condition=\"capitals-img\">l</phrase> matí següent, el telèfon del President sonà molt d’hora. Era Zangemann, més enfadat que mai. «Sense mi, els ordinadors del Govern deixaran de funcionar», va amenaçar. Però el President va fer curta la conversa i penjà ràpidament. El telèfon sonà moltes més voltes aquell dia, però ningú "
-"contestà les trucades de Zangemann. El President es trobava reunit amb Ada, Toni, Marie, Konrad i l’equip expert del Govern."
+"<phrase condition=\"capitals-text\">Al</phrase><phrase condition=\"capitals-"
+"img\">l</phrase> matí següent, el telèfon del President sonà molt d’hora. "
+"Era Zangemann, més enfadat que mai. «Sense mi, els ordinadors del Govern "
+"deixaran de funcionar», va amenaçar. Però el President va fer curta la "
+"conversa i penjà ràpidament. El telèfon sonà moltes més voltes aquell dia, "
+"però ningú contestà les trucades de Zangemann. El President es trobava "
+"reunit amb Ada, Toni, Marie, Konrad i l’equip expert del Govern."
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -1809,32 +2627,56 @@ msgstr "images/illustrations/ada-p44.ltr.png"
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:957
-msgid "A herald, wearing a hat with a plume, playing a trumpet on which a red banner is hung."
+msgid ""
+"A herald, wearing a hat with a plume, playing a trumpet on which a red "
+"banner is hung."
 msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:959
 msgid ""
-"In the days that followed, they talked from morning to night and designed their first programs for the government’s computers. They were no longer disturbed by Zangemann’s calls. Toni had the good idea of reprogramming the telephones. When Zangemann called, he only heard an automated recording: “The government only wants to use software that it can freely use, study, share, and "
-"improve. Thank you for calling.”"
+"In the days that followed, they talked from morning to night and designed "
+"their first programs for the government’s computers. They were no longer "
+"disturbed by Zangemann’s calls. Toni had the good idea of reprogramming the "
+"telephones. When Zangemann called, he only heard an automated recording: "
+"“The government only wants to use software that it can freely use, study, "
+"share, and improve. Thank you for calling.”"
 msgstr ""
-"En els dies següents, van parlar des de l’alba fins la nit i van dissenyar els seus primers programes per als ordinadors del Govern. Ja no els molestaven les trucades de Zangemann. Toni tingué la bona idea de reprogramar els telèfons i, quan Zangemann cridava, només podia escoltar una gravació automàtica: «El Govern només vol utilitzar programari que puga usar, estudiar, "
-"compartir i millorar lliurement. Gràcies per telefonar»."
+"En els dies següents, van parlar des de l’alba fins la nit i van dissenyar "
+"els seus primers programes per als ordinadors del Govern. Ja no els "
+"molestaven les trucades de Zangemann. Toni tingué la bona idea de "
+"reprogramar els telèfons i, quan Zangemann cridava, només podia escoltar una "
+"gravació automàtica: «El Govern només vol utilitzar programari que puga "
+"usar, estudiar, compartir i millorar lliurement. Gràcies per telefonar»."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:961
-msgid "Then, after many weeks of protests and discussions, the time had finally come: they abolished the old Zangemann law! Instead, the government announced:"
-msgstr "Aleshores, després de moltes setmanes de protestes i discussions, el gran moment arribà per fi: es va abolir l’antiga llei de Zangemann! Al seu lloc, el Govern va anunciar:"
+msgid ""
+"Then, after many weeks of protests and discussions, the time had finally "
+"come: they abolished the old Zangemann law! Instead, the government "
+"announced:"
+msgstr ""
+"Aleshores, després de moltes setmanes de protestes i discussions, el gran "
+"moment arribà per fi: es va abolir l’antiga llei de Zangemann! Al seu lloc, "
+"el Govern va anunciar:"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:964
-msgid "“Everyone is allowed to program their own computers as long as they adhere to the other laws.”"
-msgstr "«Tothom pot programar els seus ordinadors, sempre que s’ajuste a la resta de les lleis.»"
+msgid ""
+"“Everyone is allowed to program their own computers as long as they adhere "
+"to the other laws.”"
+msgstr ""
+"«Tothom pot programar els seus ordinadors, sempre que s’ajuste a la resta de "
+"les lleis.»"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:965
-msgid "In addition, a new school subject was introduced: computer hardware and software."
-msgstr "A més a més, es va introduir una nova assignatura a l’escola: informàtica i programació."
+msgid ""
+"In addition, a new school subject was introduced: computer hardware and "
+"software."
+msgstr ""
+"A més a més, es va introduir una nova assignatura a l’escola: informàtica i "
+"programació."
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -1852,14 +2694,32 @@ msgstr "images/illustrations/ada-p45.ltr.png"
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:970
 #, fuzzy
-msgid "The President with Toni, Konrad, Marie, Ada, and a herald playing a trumpet. Marie is standing on top of a ladder talking into a microphone. Konrad firmly holds the ladder on which Marie is standing. Ada is standing on a chair and holds a copy of the new law bearing a seal. Ada’s dog is sitting in front of her."
-msgstr "Aquella nit tothom va celebrar una gran festa: Ada, Alan, Toni, Marie, Konrad i la resta de famílies de l’escola, el President, la Sra. Gernet, la conductora del bus, el guarda… no faltava ningú. Van engalanar els carrers, van posar la música ben forta i van menjar tant de gelat com volgueren, i de tots els sabors i formes imaginables."
+msgid ""
+"The President with Toni, Konrad, Marie, Ada, and a herald playing a trumpet. "
+"Marie is standing on top of a ladder talking into a microphone. Konrad "
+"firmly holds the ladder on which Marie is standing. Ada is standing on a "
+"chair and holds a copy of the new law bearing a seal. Ada’s dog is sitting "
+"in front of her."
+msgstr ""
+"Aquella nit tothom va celebrar una gran festa: Ada, Alan, Toni, Marie, "
+"Konrad i la resta de famílies de l’escola, el President, la Sra. Gernet, la "
+"conductora del bus, el guarda… no faltava ningú. Van engalanar els carrers, "
+"van posar la música ben forta i van menjar tant de gelat com volgueren, i de "
+"tots els sabors i formes imaginables."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:975
 #, fuzzy
-msgid "That evening, everyone celebrated with a big party. Ada, Alan, Toni, Marie, Konrad, and other children from school and their parents; the president; Ms. Gernet; the bus driver; the custodian — they were all there. They decorated the streets, listened to loud music, and ate ice cream, as much as they wanted, and in every imaginable shape and color."
-msgstr "Mentre la resta continuava amb la festa fins a altes hores de la nit, Ada i els seus amics i amigues van escapolir‐se cap al seu taller. Ja tenien un fum d’idees per a nous invents. Volien començar en aquell mateix moment."
+msgid ""
+"That evening, everyone celebrated with a big party. Ada, Alan, Toni, Marie, "
+"Konrad, and other children from school and their parents; the president; Ms. "
+"Gernet; the bus driver; the custodian — they were all there. They decorated "
+"the streets, listened to loud music, and ate ice cream, as much as they "
+"wanted, and in every imaginable shape and color."
+msgstr ""
+"Mentre la resta continuava amb la festa fins a altes hores de la nit, Ada i "
+"els seus amics i amigues van escapolir‐se cap al seu taller. Ja tenien un "
+"fum d’idees per a nous invents. Volien començar en aquell mateix moment."
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -1876,12 +2736,20 @@ msgstr "images/illustrations/ada-p46.ltr.png"
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:980
-msgid "Evening party. Children are holding ice cream and balloons with the words “I love FS (I love Free Software)”; other children are riding skateboards; yellow and orange flags are hanging; music comes out from a large speaker system; Ms. Gernet holds a pink tree-shaped ice cream with a yellow star on it; Ada’s mom is dancing with a gentleman."
+msgid ""
+"Evening party. Children are holding ice cream and balloons with the words “I "
+"love FS (I love Free Software)”; other children are riding skateboards; "
+"yellow and orange flags are hanging; music comes out from a large speaker "
+"system; Ms. Gernet holds a pink tree-shaped ice cream with a yellow star on "
+"it; Ada’s mom is dancing with a gentleman."
 msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:984
-msgid "While the others continued partying late into the night, Ada and her friends slipped away to their workshop. They already had a lot of ideas for new inventions. And they wanted to start right away."
+msgid ""
+"While the others continued partying late into the night, Ada and her friends "
+"slipped away to their workshop. They already had a lot of ideas for new "
+"inventions. And they wanted to start right away."
 msgstr ""
 
 #. (itstool) path: imageobject/imagedata@fileref
@@ -1899,7 +2767,12 @@ msgstr "images/illustrations/ada-p47.ltr.png"
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:989
-msgid "The President, the secretary, and other people around a table enjoying crazy ice cream; yellow and orange flags continue from the previous image; a little girl who just took a pink ghost-shaped ice cream from the modified ice cream machine; Ada’s dog, Konrad, Marie, Ada, and Toni sneaking away from the party."
+msgid ""
+"The President, the secretary, and other people around a table enjoying crazy "
+"ice cream; yellow and orange flags continue from the previous image; a "
+"little girl who just took a pink ghost-shaped ice cream from the modified "
+"ice cream machine; Ada’s dog, Konrad, Marie, Ada, and Toni sneaking away "
+"from the party."
 msgstr ""
 
 #. (itstool) path: info/title
@@ -1919,11 +2792,26 @@ msgstr ""
 #. (itstool) id: Ada_Zangemann.dbk#para-p48-1
 #: Ada_Zangemann.dbk:999
 msgid ""
-"<phrase condition=\"capitals-text\">And</phrase><phrase condition=\"capitals-img\">nd</phrase> Zangemann? No one’s heard much from him. Maybe he’s still sitting angrily in front of his golden computer. Maybe he doesn’t dare go out into the street anymore and has boarded up all the windows of his mansion so that he doesn’t have to worry about what other people are doing with his "
-"inventions. But maybe he also sometimes looks out into the world through his telescope and sees what the children are inventing every day. Perhaps then he will remember how much fun it was for himself to tinker and experiment. And maybe, just maybe, he eats pyramid-shaped raspberry ice cream with rainbow sprinkles."
+"<phrase condition=\"capitals-text\">And</phrase><phrase condition=\"capitals-"
+"img\">nd</phrase> Zangemann? No one’s heard much from him. Maybe he’s still "
+"sitting angrily in front of his golden computer. Maybe he doesn’t dare go "
+"out into the street anymore and has boarded up all the windows of his "
+"mansion so that he doesn’t have to worry about what other people are doing "
+"with his inventions. But maybe he also sometimes looks out into the world "
+"through his telescope and sees what the children are inventing every day. "
+"Perhaps then he will remember how much fun it was for himself to tinker and "
+"experiment. And maybe, just maybe, he eats pyramid-shaped raspberry ice "
+"cream with rainbow sprinkles."
 msgstr ""
-"<phrase condition=\"capitals-text\">I</phrase><phrase condition=\"capitals-img\"></phrase> Zangemann? No s’ha tornat a saber massa d’ell. Potser continua assegut malhumorat davant del seu ordinador d’or. Potser ja no s’atreveix a eixir al carrer, i ha tapiat totes les finestres de la seua mansió per a no preocupar‐se del que la gent fa amb els seus invents. Però potser també "
-"observa el món de tant en tant amb el seu telescopi i veu el que xiquets i xiquetes inventen cada dia. I potser recorda quant es divertia ell mateix fent proves i experiments. I potser - qui sap? - menja gelat piramidal de mora roja amb trossets d’arc de Sant Martí."
+"<phrase condition=\"capitals-text\">I</phrase><phrase condition=\"capitals-"
+"img\"></phrase> Zangemann? No s’ha tornat a saber massa d’ell. Potser "
+"continua assegut malhumorat davant del seu ordinador d’or. Potser ja no "
+"s’atreveix a eixir al carrer, i ha tapiat totes les finestres de la seua "
+"mansió per a no preocupar‐se del que la gent fa amb els seus invents. Però "
+"potser també observa el món de tant en tant amb el seu telescopi i veu el "
+"que xiquets i xiquetes inventen cada dia. I potser recorda quant es divertia "
+"ell mateix fent proves i experiments. I potser - qui sap? - menja gelat "
+"piramidal de mora roja amb trossets d’arc de Sant Martí."
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -1985,21 +2873,49 @@ msgstr ""
 #. and encourage you to do that for other books in future as well.
 #: Ada_Zangemann.dbk:1028
 msgid ""
-"Many thanks to Reinhard Wiesemann from the Linuxhotel for the financial support and motivation to no longer plan but to make. Thanks to Sandra Brandstätter, who has brought me joy with every new design for the illustrations. Thanks to my editor Wiebke Helmchen, who made developing and sharpening the story fun, and to No Starch Press for agreeing to publish the book under a free "
-"culture license."
+"Many thanks to Reinhard Wiesemann from the Linuxhotel for the financial "
+"support and motivation to no longer plan but to make. Thanks to Sandra "
+"Brandstätter, who has brought me joy with every new design for the "
+"illustrations. Thanks to my editor Wiebke Helmchen, who made developing and "
+"sharpening the story fun, and to No Starch Press for agreeing to publish the "
+"book under a free culture license."
 msgstr ""
-"Moltes gràcies a Reinhard Wiesemann de Linuxhotel pel recolzament financer i la motivació per a deixar de pensar i començar a fer. Gràcies a Sandra Brandstätter, que m’ha donat goig amb cada nou disseny per a les iŀlustracions. Gràcies a la meua revisora Wiebke Helmchen, que va fer divertit el procés de desenvolupar i definir la història, i a No Starch Press per estar d’acord en "
-"publicar el llibre sota una llicència de cultura lliure."
+"Moltes gràcies a Reinhard Wiesemann de Linuxhotel pel recolzament financer i "
+"la motivació per a deixar de pensar i començar a fer. Gràcies a Sandra "
+"Brandstätter, que m’ha donat goig amb cada nou disseny per a les "
+"iŀlustracions. Gràcies a la meua revisora Wiebke Helmchen, que va fer "
+"divertit el procés de desenvolupar i definir la història, i a No Starch "
+"Press per estar d’acord en publicar el llibre sota una llicència de cultura "
+"lliure."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1029
-msgid "Thanks to Bea and Benni, Brian, Christine and Marc, Cory, Bernhard, Isabel and Amelia, Katta, Kristina, Martin, Mona and Arne, Nina, Oliver, Reinhard, Sabine, and Torsten for great ideas, inspiration, and practical tips, and to the many people of the Free Software movement, from which I was allowed to learn and whose engagement motivated me."
-msgstr "Gràcies a Bea i Benni, Brian, Christine i Marc, Cory, Bernhard, Isabel i Amelia, Katta, Kristina, Martin, Mona i Arne, Nina, Oliver, Reinhard, Sabine i Torsten per les seues grans idees, inspiració i consells pràctics, i a la multitud d’integrants del moviment pel programari lliure, del qual vaig poder aprendre i que m’ha motivat amb el seu compromís."
+msgid ""
+"Thanks to Bea and Benni, Brian, Christine and Marc, Cory, Bernhard, Isabel "
+"and Amelia, Katta, Kristina, Martin, Mona and Arne, Nina, Oliver, Reinhard, "
+"Sabine, and Torsten for great ideas, inspiration, and practical tips, and to "
+"the many people of the Free Software movement, from which I was allowed to "
+"learn and whose engagement motivated me."
+msgstr ""
+"Gràcies a Bea i Benni, Brian, Christine i Marc, Cory, Bernhard, Isabel i "
+"Amelia, Katta, Kristina, Martin, Mona i Arne, Nina, Oliver, Reinhard, Sabine "
+"i Torsten per les seues grans idees, inspiració i consells pràctics, i a la "
+"multitud d’integrants del moviment pel programari lliure, del qual vaig "
+"poder aprendre i que m’ha motivat amb el seu compromís."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1033
-msgid "Thanks to my family, who made me write early in the morning, late in the evening, and on holiday, and who always supports my work for software freedom. Especially, I would like to thank my children, who inspired me with new ideas at each reading. Without them, this book would not exist."
-msgstr "Gràcies de tot cor a la meua família, que em va deixar escriure aviat al matí, tard a la nit i durant les vacances, i que sempre ha recolzat el meu treball per la llibertat del programari. Voldria sobretot donar les gràcies als meus fills, que m’han inspirat amb idees noves a cada relectura. Sense ells no existiria aquest llibre."
+msgid ""
+"Thanks to my family, who made me write early in the morning, late in the "
+"evening, and on holiday, and who always supports my work for software "
+"freedom. Especially, I would like to thank my children, who inspired me with "
+"new ideas at each reading. Without them, this book would not exist."
+msgstr ""
+"Gràcies de tot cor a la meua família, que em va deixar escriure aviat al "
+"matí, tard a la nit i durant les vacances, i que sempre ha recolzat el meu "
+"treball per la llibertat del programari. Voldria sobretot donar les gràcies "
+"als meus fills, que m’han inspirat amb idees noves a cada relectura. Sense "
+"ells no existiria aquest llibre."
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -2016,7 +2932,10 @@ msgstr "images/illustrations/ada-p51.ltr.png"
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:1040
-msgid "Ada’s dog wags its tail after finding Zangemann hidden behind a curtain and eating an ice cream cone with candies and a blue umbrella on it and lots of raspberry ice cream dripping."
+msgid ""
+"Ada’s dog wags its tail after finding Zangemann hidden behind a curtain and "
+"eating an ice cream cone with candies and a blue umbrella on it and lots of "
+"raspberry ice cream dripping."
 msgstr ""
 
 #. (itstool) path: info/title
@@ -2063,14 +2982,25 @@ msgstr "images/illustrations/ada-p52.ltr.png"
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:1062
-msgid "Close-up of Matthias smiling, waving with one hand, and wearing a headset. Matthias has short hair and a little beard."
+msgid ""
+"Close-up of Matthias smiling, waving with one hand, and wearing a headset. "
+"Matthias has short hair and a little beard."
 msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1064
-msgid "Matthias was fascinated by computers and software as a child. He had an internet connection early, through which he learned a lot. Children have a right to take their future into their own hands. Therefore, Matthias is committed to the goal that all humans can use software in a self-determined way. He also wants to build an electric skateboard with Free Software."
+msgid ""
+"Matthias was fascinated by computers and software as a child. He had an "
+"internet connection early, through which he learned a lot. Children have a "
+"right to take their future into their own hands. Therefore, Matthias is "
+"committed to the goal that all humans can use software in a self-determined "
+"way. He also wants to build an electric skateboard with Free Software."
 msgstr ""
-"Matthias es trobà fascinat pels ordinadors i el programari ja de menut. Va disposar aviat d’una connexió a internet, amb la qual va aprendre moltíssim. Els xiquets i xiquetes tenen el dret de prendre les regnes del seu futur i, per açò, Matthias està compromés amb l’objectiu que tothom puga utilitzar el programari amb total autonomia. També vol construir un monopatí amb "
+"Matthias es trobà fascinat pels ordinadors i el programari ja de menut. Va "
+"disposar aviat d’una connexió a internet, amb la qual va aprendre moltíssim. "
+"Els xiquets i xiquetes tenen el dret de prendre les regnes del seu futur i, "
+"per açò, Matthias està compromés amb l’objectiu que tothom puga utilitzar el "
+"programari amb total autonomia. També vol construir un monopatí amb "
 "programari lliure."
 
 #. (itstool) path: info/title
@@ -2117,15 +3047,26 @@ msgstr "images/illustrations/ada-p53.ltr.png"
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:1085
-msgid "Sandra smiling with a pencil in her hand in front of her chin. She has earphones with an integrated microphone. Sandra has short hair and glasses."
+msgid ""
+"Sandra smiling with a pencil in her hand in front of her chin. She has "
+"earphones with an integrated microphone. Sandra has short hair and glasses."
 msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1087
-msgid "Sandra has always liked crafting with scissors, pliers, glue, wire, fabric, and paper. Today she works as an illustrator, comic author, and character designer for animated films and series, such as the German public television series Trudes Tier. On an ice-cream machine, Sandra would pick a creamy rainbow ice cream with lemon cucumber flavor and a lot of sprinkles."
+msgid ""
+"Sandra has always liked crafting with scissors, pliers, glue, wire, fabric, "
+"and paper. Today she works as an illustrator, comic author, and character "
+"designer for animated films and series, such as the German public television "
+"series Trudes Tier. On an ice-cream machine, Sandra would pick a creamy "
+"rainbow ice cream with lemon cucumber flavor and a lot of sprinkles."
 msgstr ""
-"Sandra sempre ha gaudit creant amb tisores, pinces, pegament, filferro, tela i paper. En l’actualitat treballa com a iŀlustradora, autora de còmics i dissenyadora de personatges per a peŀlícules i sèries d’animació com Trudes Tier, la sèrie de la televisió pública alemanya. En una màquina de gelat, Sandra triaria un gelat cremós d’arc de Sant Martí amb sabor a cogombre llima i "
-"molts trossets dolços per damunt."
+"Sandra sempre ha gaudit creant amb tisores, pinces, pegament, filferro, tela "
+"i paper. En l’actualitat treballa com a iŀlustradora, autora de còmics i "
+"dissenyadora de personatges per a peŀlícules i sèries d’animació com Trudes "
+"Tier, la sèrie de la televisió pública alemanya. En una màquina de gelat, "
+"Sandra triaria un gelat cremós d’arc de Sant Martí amb sabor a cogombre "
+"llima i molts trossets dolços per damunt."
 
 #. (itstool) path: info/title
 #. (itstool) id: Ada_Zangemann.dbk#title-bookswebsite
@@ -2148,16 +3089,31 @@ msgstr ""
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1100
 msgid ""
-"The Free Software Foundation Europe e.V. is a nonprofit association that empowers people to control technology. Software affects all areas of our life. That is why it is important that this technology gives us freedom instead of restricting us. Free Software (also called Open Source) gives everyone the right to use, study, share, and improve programs. Therefore, Free Software "
-"strengthens basic rights such as freedom of expression, freedom of the press, and the right to privacy."
+"The Free Software Foundation Europe e.V. is a nonprofit association that "
+"empowers people to control technology. Software affects all areas of our "
+"life. That is why it is important that this technology gives us freedom "
+"instead of restricting us. Free Software (also called Open Source) gives "
+"everyone the right to use, study, share, and improve programs. Therefore, "
+"Free Software strengthens basic rights such as freedom of expression, "
+"freedom of the press, and the right to privacy."
 msgstr ""
-"Free Software Foundation Europe e.V. és una associació sense ànim de lucre que ajuda la gent a prendre el control de la tecnologia. El programari afecta totes les facetes de les nostres vides, per això és tan important que aquesta tecnologia ens done llibertat en lloc de restringir‐nos. El programari lliure (també anomenat de codi obert) dona a tothom el dret d’usar, estudiar, "
-"compartir i millorar els programes. Així doncs, el programari lliure reforça drets bàsics com la llibertat d’expressió, la llibertat de premsa i el dret a la privadesa."
+"Free Software Foundation Europe e.V. és una associació sense ànim de lucre "
+"que ajuda la gent a prendre el control de la tecnologia. El programari "
+"afecta totes les facetes de les nostres vides, per això és tan important que "
+"aquesta tecnologia ens done llibertat en lloc de restringir‐nos. El "
+"programari lliure (també anomenat de codi obert) dona a tothom el dret "
+"d’usar, estudiar, compartir i millorar els programes. Així doncs, el "
+"programari lliure reforça drets bàsics com la llibertat d’expressió, la "
+"llibertat de premsa i el dret a la privadesa."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1102
-msgid "On the web page of the book, you will find more information and resources: <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
-msgstr "Podeu trobar més informació i recursos a la pàgina web del llibre: <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
+msgid ""
+"On the web page of the book, you will find more information and resources: "
+"<link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
+msgstr ""
+"Podeu trobar més informació i recursos a la pàgina web del llibre: <link "
+"xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
 
 #. (itstool) path: info/title
 #. (itstool) id: Ada_Zangemann.dbk#title-license
@@ -2178,13 +3134,25 @@ msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1117
-msgid "The book Ada &amp; Zangemann: A Tale of Software, Skateboards, and Raspberry Ice Cream by Matthias Kirschner and Sandra Brandstätter, published by No Starch Press, is licensed under “Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).”"
-msgstr "El llibre «Ada &amp; Zangemann: un conte sobre programari, monopatins i gelat de mora roja» de Matthias Kirschner i Sandra Brandstätter, publicat per No Starch Press, es troba sota la llicència «Creative Commons Reconeixement-CompartirIgual 4.0 Internacional (CC BY-SA 4.0)»."
+msgid ""
+"The book Ada &amp; Zangemann: A Tale of Software, Skateboards, and Raspberry "
+"Ice Cream by Matthias Kirschner and Sandra Brandstätter, published by No "
+"Starch Press, is licensed under “Creative Commons Attribution-ShareAlike 4.0 "
+"International (CC BY-SA 4.0).”"
+msgstr ""
+"El llibre «Ada &amp; Zangemann: un conte sobre programari, monopatins i "
+"gelat de mora roja» de Matthias Kirschner i Sandra Brandstätter, publicat "
+"per No Starch Press, es troba sota la llicència «Creative Commons "
+"Reconeixement-CompartirIgual 4.0 Internacional (CC BY-SA 4.0)»."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1118
-msgid "<link xlink:href=\"https://creativecommons.org/licenses/by-sa/4.0/\">https://creativecommons.org/licenses/by-sa/4.0/</link>"
-msgstr "<link xlink:href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.ca\">https://creativecommons.org/licenses/by-sa/4.0/deed.ca</link>"
+msgid ""
+"<link xlink:href=\"https://creativecommons.org/licenses/by-sa/4.0/\">https://"
+"creativecommons.org/licenses/by-sa/4.0/</link>"
+msgstr ""
+"<link xlink:href=\"https://creativecommons.org/licenses/by-sa/4.0/deed."
+"ca\">https://creativecommons.org/licenses/by-sa/4.0/deed.ca</link>"
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -2201,7 +3169,9 @@ msgstr "images/illustrations/ada-p56.ltr.png"
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:1127
-msgid "A hand that holds a fish-shaped ice cream cone with a cucumber on a decorated toothpick, to color. In a bottom corner, a pencil writing."
+msgid ""
+"A hand that holds a fish-shaped ice cream cone with a cucumber on a "
+"decorated toothpick, to color. In a bottom corner, a pencil writing."
 msgstr ""
 
 #. (itstool) path: simplesect/literallayout
@@ -2230,5 +3200,7 @@ msgstr "images/illustrations/ada-p57.ltr.png"
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:1137
-msgid "Three hands that hold as many empty ice cream cones, to draw and color. In the air above the middle cone is an umbrella."
+msgid ""
+"Three hands that hold as many empty ice cream cones, to draw and color. In "
+"the air above the middle cone is an umbrella."
 msgstr ""

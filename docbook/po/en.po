@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-05-06 19:03+0200\n"
+"POT-Creation-Date: 2025-06-17 20:33+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -295,8 +295,10 @@ msgid "Colophon"
 msgstr ""
 
 #. (itstool) path: simplesect/literallayout
-#. Simple colophon for non-print use. Please reuse the license text
-#. translation from the official Creative Commons website
+#. Smaller colophon to be combined with grey free cultural license
+#. section. Intended for non-print use or print if it fits. Otherwise use
+#. the fullpage colophon. Please reuse the license text translation from
+#. the official Creative Commons website
 #. https://creativecommons.org/licenses/by-sa/4.0/
 #.
 #. In a literallayout element all space and newline characters are kept.
@@ -323,9 +325,10 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: simplesect/literallayout
-#. Print colophon covering the entire page. Please reuse the license text
-#. translation from the official Creative Commons website
-#. https://creativecommons.org/licenses/by-sa/4.0/
+#. Full page colophon. Intended for print use, as an alternative to the
+#. half-page colophon that is combined with the grey free cultural license
+#. section. Please reuse the license text translation from the official
+#. Creative Commons website https://creativecommons.org/licenses/by-sa/4.0/
 #.
 #. In a literallayout element all space and newline characters are kept.
 #: Ada_Zangemann.dbk:389
@@ -385,7 +388,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: simplesect/literallayout
-#. Grey section in the bottom of the simple colophon.
+#. Grey section in the bottom of half page colophon.
 #.
 #. In a literallayout element all space and newline characters are kept.
 #: Ada_Zangemann.dbk:443
