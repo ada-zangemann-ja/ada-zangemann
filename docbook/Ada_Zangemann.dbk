@@ -369,7 +369,7 @@ SPDX-License-Identifier: CC-BY-SA-4.0
     </info>
     <!-- TODO: Consider splitting this literallayout into multiple, perhaps with para tags -->
     <simplesect xml:id="sec-p02" az:pagenum="2">
-      <literallayout condition="colophon-simple" class="normal" its:locNote="Simple colophon for non-print use. Please reuse the license text translation from the official Creative Commons website https://creativecommons.org/licenses/by-sa/4.0/">Copyright © 2023 Matthias Kirschner and Sandra Brandstätter.
+      <literallayout condition="colophon-halfpage" class="normal" its:locNote="Smaller colophon to be combined with grey free cultural license section. Intended for non-print use or print if it fits. Otherwise use the fullpage colophon. Please reuse the license text translation from the official Creative Commons website https://creativecommons.org/licenses/by-sa/4.0/">Copyright © 2023 Matthias Kirschner and Sandra Brandstätter.
 This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.
 To view a copy of this license, visit <link xlink:href="https://creativecommons.org/licenses/by-sa/4.0/">https://creativecommons.org/licenses/by-sa/4.0/</link> or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
@@ -386,7 +386,7 @@ Furthermore for remix versions (derivative works), the licensor asks you not to 
 Publication under this free cultural license was possible due to the great support by dpunkt.verlag GmbH / O’Reilly Media, Inc. for the German book and No Starch Press for the English book. Unfortunately, Creative Commons licenses are still rare exceptions for commercially published books, and often considered revolutionary and risky by publishers.
 
 <emphasis role="bold">A big thank you</emphasis> to <emphasis role="bold">dpunkt.verlag</emphasis> and <emphasis role="bold">No Starch Press</emphasis> for understanding the values of software freedom, taking the time to discuss and understand the advantages of free cultural licenses, and the great support to publish this book under conditions that respect the FSFE’s values.</literallayout>
-      <literallayout condition="colophon-print" class="normal" its:locNote="Print colophon covering the entire page. Please reuse the license text translation from the official Creative Commons website https://creativecommons.org/licenses/by-sa/4.0/">Copyright © 2023 Matthias Kirschner and Sandra Brandstätter.
+      <literallayout condition="colophon-fullpage" class="normal" its:locNote="Full page colophon. Intended for print use, as an alternative to the half-page colophon that is combined with the grey free cultural license section. Please reuse the license text translation from the official Creative Commons website https://creativecommons.org/licenses/by-sa/4.0/">Copyright © 2023 Matthias Kirschner and Sandra Brandstätter.
 This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.
 To view a copy of this license, visit <link xlink:href="https://creativecommons.org/licenses/by-sa/4.0/">https://creativecommons.org/licenses/by-sa/4.0/</link> or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
@@ -440,7 +440,7 @@ Publication under this free cultural license was possible due to the great suppo
 
 </simplesect>
 <simplesect xml:id="sec-p02bb" its:withinText="yes">
-<literallayout condition="colophon-simple" class="normal" its:locNote="Grey section in the bottom of the simple colophon."><emphasis role="bold">Free as in freedom not price</emphasis>
+<literallayout condition="colophon-halfpage" class="normal" its:locNote="Grey section in the bottom of half page colophon."><emphasis role="bold">Free as in freedom not price</emphasis>
 Free Software is about the freedoms you receive with the software, not about the price. Likewise publishing a book under a free culture license does not mean you have the right to get a gratis copy of the book or ebook. It means you get the rights described above, which enable society to benefit further from this book, as it should from all cultural works.
 
 We encourage you to support authors, publishers, and others involved in the creation of culture under free licenses – including <emphasis role="bold">financially supporting them through purchases or donations</emphasis>. (<link xlink:href="https://fsfe.org/donate">https://fsfe.org/donate</link>)
