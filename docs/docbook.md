@@ -8,6 +8,13 @@ SPDX-License-Identifier: CC-BY-SA-4.0
 
 Part of the [automation design](automation-design.md) is implemented using the DocBook standard. This section describes the details how the DocBook standard is used and what automation is in place.
 
+## Two colophon variants
+
+The docbook process supports two colophon variants.
+The 'colophon-fullpage' is intended for print which typically needs to contain more information.
+The 'colophon-halfpage' is intended for the digital edition where less details are included.
+This halfpage colophon is combined with a grey box about free culture licenses.
+
 ## Schema summary
 
 A brief overview of the Docbook elements and custom attributes used in the source format. Most elements are closed elements without content to just show the structure.
