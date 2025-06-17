@@ -5,16 +5,18 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-05-06 19:03+0200\n"
-"PO-Revision-Date: 2025-05-06 19:22+0200\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Danish <https://hosted.weblate.org/projects/fsfe/ada-zangemann/da/>\n"
+"PO-Revision-Date: 2025-06-17 18:22+0000\n"
+"Last-Translator: Øjvind Fritjof Arnfred <fritjof@mencagli-arnfred.dk>\n"
+"Language-Team: Danish <https://hosted.weblate.org/projects/fsfe/"
+"ada-zangemann/da/>\n"
 "Language: da\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Poedit 3.2.2\n"
+"X-Generator: Weblate 5.12.1\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
@@ -67,7 +69,7 @@ msgstr "<personname> <firstname>Sandra</firstname> <surname>Brandstätter</surna
 #. ignore-same
 #: Ada_Zangemann.dbk:282
 msgid "Ada"
-msgstr ""
+msgstr "Ada"
 
 #. (itstool) path: character/charactername
 #. Name must not be changed.
@@ -75,7 +77,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:285
 msgid "Zangemann"
-msgstr ""
+msgstr "Zangemann"
 
 #. (itstool) path: character/charactername
 #. Name must not be changed.
@@ -83,7 +85,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:288
 msgid "Alan"
-msgstr ""
+msgstr "Alan"
 
 #. (itstool) path: character/charactername
 #. Character names are mostly reference to existing people in computer
@@ -98,7 +100,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:291
 msgid "Toni"
-msgstr ""
+msgstr "Toni"
 
 #. (itstool) path: character/charactername
 #. Character names are mostly reference to existing people in computer
@@ -113,7 +115,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:294
 msgid "Konrad"
-msgstr ""
+msgstr "Konrad"
 
 #. (itstool) path: character/charactername
 #. Character names are mostly reference to existing people in computer
@@ -128,7 +130,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:297
 msgid "Marie"
-msgstr ""
+msgstr "Marie"
 
 #. (itstool) path: character/charactername
 #. Character names are mostly reference to existing people in computer
@@ -143,7 +145,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:300
 msgid "Ms. Gernet"
-msgstr ""
+msgstr "Ms. Gernet"
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -211,11 +213,21 @@ msgid ""
 "<phrase condition=\"capitals-text\">The</phrase><phrase condition=\"capitals-img\">he</phrase> inventor Zangemann is world-famous and immensely rich. Adults and children alike love his fabulous technical inventions. But one day there is a problem: the children’s electronic skateboards no longer work properly. What’s going on? The curious girl Ada sees through what is going on. "
 "Together with her friends, she experiments with hardware and software, and the children forge a plan: Zangemann can no longer be the only one in control of the devices!"
 msgstr ""
+"<phrase condition=\"capitals-text\">Opfinderen</phrase><phrase condition"
+"=\"capitals-img\">pfinderen</phrase> Zangemann er verdensberømt og "
+"ufatteligt rig. Både børn og voksne elsker hans fantastiske opfindelser. Men "
+"en dag er der problemer: børnenes elektroniske skateboards virker ikke "
+"længere som de skal. Hvad er det der sker? - Den nysgerrige pige Ada "
+"gennemskuer problemet. Sammen med sine venner eksperimenterer hun med "
+"hardware og software, og børnene lægger en plan: Zangemann skal ikke være "
+"den eneste der bestemmer over teknologien!"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:333
 msgid "A book that arouses interest in tinkering and encourages shaping technology."
 msgstr ""
+"En bog der stimulerer den indre pilfinger og opmuntrer børn i alle aldre til "
+"at forme teknologierne omkring dem."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -240,7 +252,7 @@ msgstr "images/illustrations/ada-a01-spine.ltr.btt.png"
 #. know as 'bastard title'.
 #: Ada_Zangemann.dbk:355
 msgid "Half-title page"
-msgstr ""
+msgstr "Smudstitelblad"
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -268,7 +280,7 @@ msgstr ""
 #. Also known as 'imprint'
 #: Ada_Zangemann.dbk:368
 msgid "Colophon"
-msgstr ""
+msgstr "Kolofon"
 
 #. (itstool) path: simplesect/literallayout
 #. Simple colophon for non-print use. Please reuse the license text
@@ -379,7 +391,7 @@ msgstr ""
 #. illustration of Ada’s dog.
 #: Ada_Zangemann.dbk:452
 msgid "Title page"
-msgstr ""
+msgstr "Titelblad"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -436,6 +448,8 @@ msgstr "images/illustrations/ada-p03-titleonly.ltr.png"
 #: Ada_Zangemann.dbk:476
 msgid "ADA &amp; ZANGEMANN - A Tale of Software, Skateboards and Raspberry Ice Cream. Title in the middle, authors in the upper left."
 msgstr ""
+"ADA &amp; ZANGEMANN - En fortælling of software, skateboards og hindbæris. "
+"Titel i midten, ophavspersoneners navne øverst til venstre."
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -454,6 +468,8 @@ msgstr "images/illustrations/ada-p03-dog.ltr.png"
 #: Ada_Zangemann.dbk:483
 msgid "In the lower right, Ada’s family’s dog with gray fur and some white patches and with a red collar with shiny yellow LEDs, which wags its tail."
 msgstr ""
+"I nederste højre hjørne, Adas families hund med hvidplettet grå pels og et "
+"rødt halsbånd der har skinnende gule LED pærer. Den logrer med sin hale."
 
 #. (itstool) path: simplesect/literallayout
 #. In a literallayout element all space and newline characters are kept.
@@ -463,6 +479,8 @@ msgid ""
 "Matthias Kirschner\n"
 "Sandra Brandstätter"
 msgstr ""
+"Matthias Kirschner\n"
+"Sandra Brandstätter"
 
 #. (itstool) path: simplesect/literallayout
 #. (itstool) id: Ada_Zangemann.dbk#subtitle-titlepage
@@ -516,6 +534,26 @@ msgid ""
 "sheeting. There are two windows in front in addition to the door, and another window on the left side. A yellow duck stands on top of the roof, while a gray chimney protrudes. An antenna on the left of the roof supports a clothesline on which red clothespins hold a green tank top, a pair of light blue pants, and white underpants. To the right of the house there is a veranda on "
 "which there is installed a solar panel. Under the veranda there are a mattress, a red oil drum, and a gray case. Behind the house there are piles of landfill objects among which you can see a washing machine, a car, and various wooden boards."
 msgstr ""
+"Ada i forgrunden, på vej til skole. I baggrunden Adas hus og skrotpladsen. "
+"Ada her en brun rygsæk med gule skulderstropper. Til venstre for Ada er der "
+"en rød bil, en Volkswagen Beetle, uden hjul og ude af drift, med kun een "
+"forlygte tilbage, hængende i en ledning. På venstre siden, foran bilen er "
+"der to dæk, to kasser - den ene af træ, med en kvadret dåse i - og en tom "
+"spand. Alt står hulter til bulter mellem planter og gule blomster. I døren "
+"til Adas hus i baggrunden, står hendes mor og vinker farvel, og hunden "
+"sidder på jorden viden siden af. Adas lillebror Alan sidder på trappestenen "
+"op til husets dør og vinker, han er barfodet og har blå shorts på. Adas mor "
+"har rød læbestift og langt sort hår, holdt oppe med et hvidt hårbånd. Hun er "
+"en kort blå skjorte på, med hvide kanter, hvide bukser og gule sko. Adas hus "
+"er bygget af træ med hvid facade. Taget er af mørkerøde bølgeplader. Facaden "
+"har to vinduer og en dør. På venstre side af huset er der endnu et vindue. "
+"På taget stikker en grå skorsten op, som der står en gul and ved siden af. "
+"En antenne til venstre på taget understøtter en snor med vasketøj hvorpå der "
+"hænger en grøn top, et par lyseblå bukser og et par hvide underbukser. Til "
+"højre for huset er der en veranda med et solcellepanel på. Omkring verandaen "
+"ligger der madrasser, en rød olietønde og en grå kasse. Bag huset er der "
+"bjerge af skrot, blandt andet en vaskemaskine, en bil og forskellige "
+"træplader."
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -547,7 +585,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:523
 msgid "Zangemann and computers"
-msgstr ""
+msgstr "Zangemann og computere"
 
 #. (itstool) path: simplesect/para@dropcapfileref
 #. (itstool) comment: simplesect/para@dropcapfileref
@@ -779,7 +817,7 @@ msgstr "Snart var der en Zangemann-computer i næsten hvert eneste elektroniske 
 #. equal to the beginning of the first sentence of this chapter.
 #: Ada_Zangemann.dbk:601
 msgid "One day..."
-msgstr ""
+msgstr "En dag..."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:604
@@ -916,7 +954,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:654
 msgid "Skateboards no longer work"
-msgstr ""
+msgstr "Skateboards virker ikke længere"
 
 #. (itstool) path: simplesect/para@dropcapfileref
 #. (itstool) comment: simplesect/para@dropcapfileref
@@ -987,7 +1025,7 @@ msgstr "Efter et par dage var opstandelsen på Adas skole glemt igen. Skateboard
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:680
 msgid "Ada and software"
-msgstr ""
+msgstr "Ada og software"
 
 #. (itstool) path: simplesect/para@dropcapfileref
 #. (itstool) comment: simplesect/para@dropcapfileref
@@ -1046,7 +1084,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:699
 msgid "Programming"
-msgstr ""
+msgstr "Programmering"
 
 #. (itstool) path: simplesect/para@dropcapfileref
 #. (itstool) comment: simplesect/para@dropcapfileref
@@ -1128,7 +1166,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:728
 msgid "A horrible night"
-msgstr ""
+msgstr "En forfærdelig nat"
 
 #. (itstool) path: simplesect/para@dropcapfileref
 #. (itstool) comment: simplesect/para@dropcapfileref
@@ -1165,7 +1203,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:739
 msgid "First real project"
-msgstr ""
+msgstr "Første rigtige projekt"
 
 #. (itstool) path: simplesect/para@dropcapfileref
 #. (itstool) comment: simplesect/para@dropcapfileref
@@ -1289,8 +1327,9 @@ msgstr ""
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:781
+#, fuzzy
 msgid "Hacking for freedom"
-msgstr ""
+msgstr "Frie rammer til vores programmer"
 
 #. (itstool) path: simplesect/para@dropcapfileref
 #. (itstool) comment: simplesect/para@dropcapfileref
@@ -1472,7 +1511,7 @@ msgstr "Nogle ting byggede de bare for sjov, som den pruttemaskine, de satte på
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:845
 msgid "Zangemann and the President"
-msgstr ""
+msgstr "Zangemann og præsidenten"
 
 #. (itstool) path: simplesect/para@dropcapfileref
 #. (itstool) comment: simplesect/para@dropcapfileref
@@ -1554,7 +1593,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:875
 msgid "Protest"
-msgstr ""
+msgstr "Demonstration"
 
 #. (itstool) path: simplesect/para@dropcapfileref
 #. (itstool) comment: simplesect/para@dropcapfileref
@@ -1687,7 +1726,7 @@ msgstr "Uden kode er alt ude!"
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:922
 msgid "Children help the government"
-msgstr ""
+msgstr "Børnene hjælper regeringen"
 
 #. (itstool) path: simplesect/para@dropcapfileref
 #. (itstool) comment: simplesect/para@dropcapfileref
@@ -1770,7 +1809,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:949
 msgid "New law"
-msgstr ""
+msgstr "Ny lov"
 
 #. (itstool) path: simplesect/para@dropcapfileref
 #. (itstool) comment: simplesect/para@dropcapfileref
