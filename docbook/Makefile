@@ -93,11 +93,24 @@ $(targets-dbk): build/Ada_Zangemann.%.dbk: po/%.mo Ada_Zangemann.dbk
 build/Ada_Zangemann-pure.%.dbk: build/Ada_Zangemann.%.dbk xsl/clean-docbook.xsl
 	xsltproc -o $@ xsl/clean-docbook.xsl $<
 
-# Profile docbook for text processing
+# Profile 'pure' docbook for text processing
 # Relies on XSLT 1.0 stylesheets https://github.com/docbook/xslt10-stylesheets/ included in Debian docbook-xsl package
 # FIXME: returns exit code 6 'Error in one of the documents' without a clear issue or error in output.
 build/Ada_Zangemann-pure-profiled-text.%.dbk: build/Ada_Zangemann-pure.%.dbk
 	xsltproc -o $@ --verbose /usr/share/xml/docbook/stylesheet/docbook-xsl/profiling/profile.xsl --stringparam profile.condition "headings-text;capitals-text;colophon-halfpage" $< > $@.log 2>&1 || exit 0
+
+# Profile Ada Zangemann docbook for text processing
+# Relies on XSLT 1.0 stylesheets https://github.com/docbook/xslt10-stylesheets/ included in Debian docbook-xsl package
+build/Ada_Zangemann-profiled-text.%.dbk: build/Ada_Zangemann.%.dbk
+	xsltproc -o $@ --verbose /usr/share/xml/docbook/stylesheet/docbook-xsl/profiling/profile.xsl --stringparam profile.condition "headings-text;capitals-text;colophon-halfpage" $< > $@.log 2>&1 || exit 0
+
+# Generate text output for non-other processing scripts
+targets-txt = $(addprefix build/Ada_Zangemann.,$(addsuffix .txt,$(translations)))
+$(targets-txt): build/Ada_Zangemann.%.txt: build/Ada_Zangemann-profiled-text.%.dbk
+	xsltproc -o $@ --verbose xsl/az-text.xsl $< > $@.log 2>&1 || exit 0
+
+.PHONY: build/Ada_Zangemann.all.txt
+build/Ada_Zangemann.all.txt: $(targets-txt)
 
 # HTML output using standard docbook processing
 # TODO: use lower resolution images
