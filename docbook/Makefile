@@ -20,7 +20,7 @@ SHELL = /bin/sh
 # FIXME: use $(srcdir) best practice https://www.gnu.org/software/make/manual/html_node/Makefile-Basics.html
 
 # Use existing po translations as base to generate pattern rule targets for autocomplete
-translations = $(notdir $(basename $(wildcard po/*.po)))
+translations = $(notdir $(basename $(wildcard po/text/*.po)))
 
 # Targets to create split protest pages based on protest pages present
 ada-p40s := $(addprefix build/,$(subst ada-p40-41,ada-p40,$(wildcard images/illustrations/ada-p40-41.*.png)))
@@ -39,20 +39,44 @@ build/images/illustrations/all: build/images/illustrations $(ada-p40s) $(ada-p41
 po/Ada_Zangemann.pot: Ada_Zangemann.dbk
 	itstool -n -o $@ Ada_Zangemann.dbk
 
+# Split po/Ada_Zangemann.po into po/text/en.po and po/editorial/en.po
+# Merge/update to other languages from there. Merge into a combined directory.
+
 # Update .po files when .pot strings get updated
-po/%.po: po/Ada_Zangemann.pot
-	if [ ! -e $@ ]; then cp po/Ada_Zangemann.pot $@; fi
-	msgmerge --update $@ po/Ada_Zangemann.pot
+po/text/en.po: po/Ada_Zangemann.pot
+	mkdir -p po/text || exit 0
+	if [ ! -e $@ ]; then msggrep --invert-match --msgid -e '^images/illustrations' -o $@ $< ; fi
+
+po/editorial/en.po: po/Ada_Zangemann.pot
+	mkdir -p po/editorial || exit 0
+	if [ ! -e $@ ]; then msggrep --msgid -e '^images/illustrations' -o $@ $< ; fi
+
+# TODO: migrate existing translations with:
+# msggrep --invert-match --msgid -e '^images/illustrations' -o po/text/nl.po po/nl.po
+po/text/%.po: po/text/en.po
+	mkdir -p po/text || exit 0
+	if [ ! -e $@ ]; then cp $< $@; fi
+	msgmerge --update $@ $<
+
+# TODO: migrate existing translations with:
+# msggrep --msgid -e '^images/illustrations' -o po/editorial/nl.po po/nl.po
+po/editorial/%.po: po/editorial/en.po
+	mkdir -p po/editorial || exit 0
+	if [ ! -e $@ ]; then cp $< $@; fi
+	msgmerge --update $@ $<
+
+build/%.po: po/text/%.po po/editorial/%.po
+	msgcat -o $@ $+
 
 # Generate message strings for further processing.
 # Stored alongside .po files to deal with assumptions by tools.
 # Use fuzzy entries that might need some more editing.
-po/%.mo: po/%.po
+build/%.mo: build/%.po
 	msgfmt --use-fuzzy -o $@ $<
 
 .PHONY: status
 status:
-	for p in po/*.po; do printf "$$p "; msgfmt -o /dev/null --stat $$p; done
+	for p in po/text/*.po; do printf "$$p "; msgfmt -o /dev/null --stat $$p; done
 
 # Derived images
 # NOTE: using images from source instead of build directory to prevent ordering conflict
@@ -86,7 +110,7 @@ build/images/capitals:
 
 # Create docbook files
 targets-dbk = $(addprefix build/Ada_Zangemann.,$(addsuffix .dbk,$(translations)))
-$(targets-dbk): build/Ada_Zangemann.%.dbk: po/%.mo Ada_Zangemann.dbk
+$(targets-dbk): build/Ada_Zangemann.%.dbk: build/%.mo Ada_Zangemann.dbk
 	itstool --strict --merge $< --out $@ Ada_Zangemann.dbk
 
 # Create 'pure' docbook files without custom elements
@@ -224,7 +248,10 @@ targets-all: targets-all-scribus build/Ada_Zangemann.all.html build/Ada_Zangeman
 .PHONY: all
 all: $(targets-all)
 
-targets-all-po = $(addprefix po/,$(addsuffix .po,$(translations)))
+targets-all-po-text = $(addprefix po/text/,$(addsuffix .po,$(translations)))
+targets-all-po-editorial = $(addprefix po/editorial/,$(addsuffix .po,$(translations)))
+targets-all-po = $(targets-all-po-text) $(targets-all-po-editorial)
+
 .PHONY: update
 update: po/Ada_Zangemann.pot $(targets-all-po)
 
@@ -236,7 +263,8 @@ clean:
 # Print obsolete translations no longer matching source strings
 .PHONY: check-obsolete
 check-obsolete:
-	grep -e '^#~' po/*.po
+	grep -e '^#~' po/text/*.po
+	grep -e '^#~' po/editorial/*.po
 
 # Validation commands (work in progress)
 # TODO; not yet working
