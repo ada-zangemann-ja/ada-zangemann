@@ -200,14 +200,6 @@ msgstr ""
 "납땜기와 페인트 붓 그리고 노란색 페인트통이 흰색 전선으로 연결되어 액자 형태"
 "의 모양을 만들었습니다."
 
-#. (itstool) path: simplesect/para@dropcapfileref
-#. (itstool) comment: simplesect/para@dropcapfileref
-#. File for the capital image, depending on the capital letter and the
-#. required color. Can be postponed to the publishing process. priority:70
-#: Ada_Zangemann.dbk:332
-msgid "images/capitals/T-yellow2.png"
-msgstr ""
-
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-back-1
 #: Ada_Zangemann.dbk:332
@@ -500,14 +492,6 @@ msgstr ""
 "라즈베리 아이스크림에 대한\n"
 "이야기"
 
-#. (itstool) path: simplesect/para@dropcapfileref
-#. (itstool) comment: simplesect/para@dropcapfileref
-#. File for the capital image, depending on the capital letter and the
-#. required color. Can be postponed to the publishing process. priority:70
-#: Ada_Zangemann.dbk:500
-msgid "images/capitals/O-cyan.png"
-msgstr ""
-
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p04-1
 #: Ada_Zangemann.dbk:500
@@ -615,14 +599,6 @@ msgstr ""
 #: Ada_Zangemann.dbk:523
 msgid "Zangemann and computers"
 msgstr "장기만과 컴퓨터"
-
-#. (itstool) path: simplesect/para@dropcapfileref
-#. (itstool) comment: simplesect/para@dropcapfileref
-#. File for the capital image, depending on the capital letter and the
-#. required color. Can be postponed to the publishing process. priority:70
-#: Ada_Zangemann.dbk:527
-msgid "images/capitals/C-red1.png"
-msgstr ""
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p06-1
@@ -1142,14 +1118,6 @@ msgstr ""
 msgid "Skateboards no longer work"
 msgstr "스케이트보드가 멈췄다"
 
-#. (itstool) path: simplesect/para@dropcapfileref
-#. (itstool) comment: simplesect/para@dropcapfileref
-#. File for the capital image, depending on the capital letter and the
-#. required color. Can be postponed to the publishing process. priority:70
-#: Ada_Zangemann.dbk:658
-msgid "images/capitals/T-olive.png"
-msgstr ""
-
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p18-1
 #: Ada_Zangemann.dbk:658
@@ -1236,14 +1204,6 @@ msgstr ""
 #: Ada_Zangemann.dbk:680
 msgid "Ada and software"
 msgstr "에이다와 소프트웨어"
-
-#. (itstool) path: simplesect/para@dropcapfileref
-#. (itstool) comment: simplesect/para@dropcapfileref
-#. File for the capital image, depending on the capital letter and the
-#. required color. Can be postponed to the publishing process. priority:70
-#: Ada_Zangemann.dbk:684
-msgid "images/capitals/A-fucsia.png"
-msgstr ""
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p20-1
@@ -1332,14 +1292,6 @@ msgstr ""
 #: Ada_Zangemann.dbk:699
 msgid "Programming"
 msgstr "프로그래밍"
-
-#. (itstool) path: simplesect/para@dropcapfileref
-#. (itstool) comment: simplesect/para@dropcapfileref
-#. File for the capital image, depending on the capital letter and the
-#. required color. Can be postponed to the publishing process. priority:70
-#: Ada_Zangemann.dbk:703
-msgid "images/capitals/O-lightcyan.png"
-msgstr ""
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p22-1
@@ -1449,14 +1401,6 @@ msgstr ""
 msgid "A horrible night"
 msgstr "끔찍한 밤"
 
-#. (itstool) path: simplesect/para@dropcapfileref
-#. (itstool) comment: simplesect/para@dropcapfileref
-#. File for the capital image, depending on the capital letter and the
-#. required color. Can be postponed to the publishing process. priority:70
-#: Ada_Zangemann.dbk:732
-msgid "images/capitals/Z-brown.png"
-msgstr ""
-
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p25-1
 #: Ada_Zangemann.dbk:732
@@ -1512,14 +1456,6 @@ msgstr ""
 #: Ada_Zangemann.dbk:739
 msgid "First real project"
 msgstr "첫 진짜 프로젝트"
-
-#. (itstool) path: simplesect/para@dropcapfileref
-#. (itstool) comment: simplesect/para@dropcapfileref
-#. File for the capital image, depending on the capital letter and the
-#. required color. Can be postponed to the publishing process. priority:70
-#: Ada_Zangemann.dbk:743
-msgid "images/capitals/S-red2.png"
-msgstr ""
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p26-1
@@ -1733,14 +1669,6 @@ msgstr ""
 msgid "Hacking for freedom"
 msgstr "자유를 위한 해킹"
 
-#. (itstool) path: simplesect/para@dropcapfileref
-#. (itstool) comment: simplesect/para@dropcapfileref
-#. File for the capital image, depending on the capital letter and the
-#. required color. Can be postponed to the publishing process. priority:70
-#: Ada_Zangemann.dbk:785
-msgid "images/capitals/M-yellow.png"
-msgstr ""
-
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p30-1
 #: Ada_Zangemann.dbk:785
@@ -1891,14 +1819,6 @@ msgstr ""
 "져 있고 체리가 꼭대기에 올려져 있습니다; 노란색 우산이 꽃혀있는 무지개색 아이"
 "스크림도 있구요; 캔디가 박혀있는 파란색 유령모양 아이스크림도 있습니다."
 
-#. (itstool) path: simplesect/para@dropcapfileref
-#. (itstool) comment: simplesect/para@dropcapfileref
-#. File for the capital image, depending on the capital letter and the
-#. required color. Can be postponed to the publishing process. priority:70
-#: Ada_Zangemann.dbk:838
-msgid "images/capitals/E-pink.png"
-msgstr ""
-
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p35-1
 #: Ada_Zangemann.dbk:838
@@ -1956,14 +1876,6 @@ msgstr ""
 #: Ada_Zangemann.dbk:845
 msgid "Zangemann and the President"
 msgstr "장기만과 대통령"
-
-#. (itstool) path: simplesect/para@dropcapfileref
-#. (itstool) comment: simplesect/para@dropcapfileref
-#. File for the capital image, depending on the capital letter and the
-#. required color. Can be postponed to the publishing process. priority:70
-#: Ada_Zangemann.dbk:849
-msgid "images/capitals/O-green.png"
-msgstr ""
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p36-1
@@ -2074,14 +1986,6 @@ msgstr ""
 #: Ada_Zangemann.dbk:875
 msgid "Protest"
 msgstr "시위"
-
-#. (itstool) path: simplesect/para@dropcapfileref
-#. (itstool) comment: simplesect/para@dropcapfileref
-#. File for the capital image, depending on the capital letter and the
-#. required color. Can be postponed to the publishing process. priority:70
-#: Ada_Zangemann.dbk:880
-msgid "images/capitals/T-cyan.png"
-msgstr ""
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p39-1
@@ -2243,14 +2147,6 @@ msgstr "코드야 같이놀자!"
 msgid "Children help the government"
 msgstr "아이들이 정부를 돕다"
 
-#. (itstool) path: simplesect/para@dropcapfileref
-#. (itstool) comment: simplesect/para@dropcapfileref
-#. File for the capital image, depending on the capital letter and the
-#. required color. Can be postponed to the publishing process. priority:70
-#: Ada_Zangemann.dbk:925
-msgid "images/capitals/A-violet.png"
-msgstr ""
-
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p42-1
 #: Ada_Zangemann.dbk:925
@@ -2367,14 +2263,6 @@ msgstr ""
 #: Ada_Zangemann.dbk:949
 msgid "New law"
 msgstr "새로운 법"
-
-#. (itstool) path: simplesect/para@dropcapfileref
-#. (itstool) comment: simplesect/para@dropcapfileref
-#. File for the capital image, depending on the capital letter and the
-#. required color. Can be postponed to the publishing process. priority:70
-#: Ada_Zangemann.dbk:952
-msgid "images/capitals/T-red3.png"
-msgstr ""
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p44-1
@@ -2533,14 +2421,6 @@ msgstr ""
 #: Ada_Zangemann.dbk:995
 msgid "And Zangemann?"
 msgstr "그리고 장기만은?"
-
-#. (itstool) path: simplesect/para@dropcapfileref
-#. (itstool) comment: simplesect/para@dropcapfileref
-#. File for the capital image, depending on the capital letter and the
-#. required color. Can be postponed to the publishing process. priority:70
-#: Ada_Zangemann.dbk:999
-msgid "images/capitals/A-yellow.png"
-msgstr ""
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p48-1

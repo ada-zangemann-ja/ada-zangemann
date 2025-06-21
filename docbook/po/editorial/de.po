@@ -50,6 +50,14 @@ msgstr "images/illustrations/ada-a01-nosubtitle.ltr.png"
 msgid "images/illustrations/ada-z04.ltr.png"
 msgstr "images/illustrations/ada-z04.ltr.png"
 
+#. (itstool) path: simplesect/para@dropcapfileref
+#. (itstool) comment: simplesect/para@dropcapfileref
+#. File for the capital image, depending on the capital letter and the
+#. required color. Can be postponed to the publishing process. priority:70
+#: Ada_Zangemann.dbk:332
+msgid "images/capitals/T-yellow2.png"
+msgstr ""
+
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
 #. Link to the image. Only needs to be changed if the image is localized.
@@ -116,6 +124,14 @@ msgstr "images/illustrations/ada-p03-titleonly.ltr.png"
 msgid "images/illustrations/ada-p03-dog.ltr.png"
 msgstr "images/illustrations/ada-p03-dog.ltr.png"
 
+#. (itstool) path: simplesect/para@dropcapfileref
+#. (itstool) comment: simplesect/para@dropcapfileref
+#. File for the capital image, depending on the capital letter and the
+#. required color. Can be postponed to the publishing process. priority:70
+#: Ada_Zangemann.dbk:500
+msgid "images/capitals/O-cyan.png"
+msgstr ""
+
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
 #. Link to the image. Only needs to be changed if the image is localized.
@@ -137,6 +153,14 @@ msgstr "images/illustrations/ada-p04.ltr.png"
 #: Ada_Zangemann.dbk:514
 msgid "images/illustrations/ada-p05.ltr.png"
 msgstr "images/illustrations/ada-p05.ltr.png"
+
+#. (itstool) path: simplesect/para@dropcapfileref
+#. (itstool) comment: simplesect/para@dropcapfileref
+#. File for the capital image, depending on the capital letter and the
+#. required color. Can be postponed to the publishing process. priority:70
+#: Ada_Zangemann.dbk:527
+msgid "images/capitals/C-red1.png"
+msgstr ""
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -270,6 +294,14 @@ msgstr "images/illustrations/ada-p16.ltr.png"
 msgid "images/illustrations/ada-p17.ltr.png"
 msgstr "images/illustrations/ada-p17.ltr.png"
 
+#. (itstool) path: simplesect/para@dropcapfileref
+#. (itstool) comment: simplesect/para@dropcapfileref
+#. File for the capital image, depending on the capital letter and the
+#. required color. Can be postponed to the publishing process. priority:70
+#: Ada_Zangemann.dbk:658
+msgid "images/capitals/T-olive.png"
+msgstr ""
+
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
 #. Link to the image. Only needs to be changed if the image is localized.
@@ -292,6 +324,14 @@ msgstr "images/illustrations/ada-p18.ltr.png"
 msgid "images/illustrations/ada-p19.ltr.png"
 msgstr "images/illustrations/ada-p19.ltr.png"
 
+#. (itstool) path: simplesect/para@dropcapfileref
+#. (itstool) comment: simplesect/para@dropcapfileref
+#. File for the capital image, depending on the capital letter and the
+#. required color. Can be postponed to the publishing process. priority:70
+#: Ada_Zangemann.dbk:684
+msgid "images/capitals/A-fucsia.png"
+msgstr ""
+
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
 #. Link to the image. Only needs to be changed if the image is localized.
@@ -302,6 +342,14 @@ msgstr "images/illustrations/ada-p19.ltr.png"
 #: Ada_Zangemann.dbk:691
 msgid "images/illustrations/ada-p21.ltr.png"
 msgstr "images/illustrations/ada-p21.ltr.png"
+
+#. (itstool) path: simplesect/para@dropcapfileref
+#. (itstool) comment: simplesect/para@dropcapfileref
+#. File for the capital image, depending on the capital letter and the
+#. required color. Can be postponed to the publishing process. priority:70
+#: Ada_Zangemann.dbk:703
+msgid "images/capitals/O-lightcyan.png"
+msgstr ""
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -324,6 +372,22 @@ msgstr "images/illustrations/ada-p23.ltr.png"
 #: Ada_Zangemann.dbk:720
 msgid "images/illustrations/ada-p24.ltr.png"
 msgstr "images/illustrations/ada-p24.ltr.png"
+
+#. (itstool) path: simplesect/para@dropcapfileref
+#. (itstool) comment: simplesect/para@dropcapfileref
+#. File for the capital image, depending on the capital letter and the
+#. required color. Can be postponed to the publishing process. priority:70
+#: Ada_Zangemann.dbk:732
+msgid "images/capitals/Z-brown.png"
+msgstr ""
+
+#. (itstool) path: simplesect/para@dropcapfileref
+#. (itstool) comment: simplesect/para@dropcapfileref
+#. File for the capital image, depending on the capital letter and the
+#. required color. Can be postponed to the publishing process. priority:70
+#: Ada_Zangemann.dbk:743
+msgid "images/capitals/S-red2.png"
+msgstr ""
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -357,6 +421,14 @@ msgstr "images/illustrations/ada-p28.ltr.png"
 #: Ada_Zangemann.dbk:773
 msgid "images/illustrations/ada-p29.ltr.png"
 msgstr "images/illustrations/ada-p29.ltr.png"
+
+#. (itstool) path: simplesect/para@dropcapfileref
+#. (itstool) comment: simplesect/para@dropcapfileref
+#. File for the capital image, depending on the capital letter and the
+#. required color. Can be postponed to the publishing process. priority:70
+#: Ada_Zangemann.dbk:785
+msgid "images/capitals/M-yellow.png"
+msgstr ""
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -424,6 +496,22 @@ msgstr "images/illustrations/ada-p34.ltr.png"
 msgid "images/illustrations/ada-p34-bottom.ltr.png"
 msgstr "images/illustrations/ada-p34-bottom.ltr.png"
 
+#. (itstool) path: simplesect/para@dropcapfileref
+#. (itstool) comment: simplesect/para@dropcapfileref
+#. File for the capital image, depending on the capital letter and the
+#. required color. Can be postponed to the publishing process. priority:70
+#: Ada_Zangemann.dbk:838
+msgid "images/capitals/E-pink.png"
+msgstr ""
+
+#. (itstool) path: simplesect/para@dropcapfileref
+#. (itstool) comment: simplesect/para@dropcapfileref
+#. File for the capital image, depending on the capital letter and the
+#. required color. Can be postponed to the publishing process. priority:70
+#: Ada_Zangemann.dbk:849
+msgid "images/capitals/O-green.png"
+msgstr ""
+
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
 #. Link to the image. Only needs to be changed if the image is localized.
@@ -445,6 +533,14 @@ msgstr "images/illustrations/ada-p37.ltr.png"
 #: Ada_Zangemann.dbk:867
 msgid "images/illustrations/ada-p38.ltr.png"
 msgstr "images/illustrations/ada-p38.ltr.png"
+
+#. (itstool) path: simplesect/para@dropcapfileref
+#. (itstool) comment: simplesect/para@dropcapfileref
+#. File for the capital image, depending on the capital letter and the
+#. required color. Can be postponed to the publishing process. priority:70
+#: Ada_Zangemann.dbk:880
+msgid "images/capitals/T-cyan.png"
+msgstr ""
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -490,6 +586,14 @@ msgstr "images/illustrations/ada-p40.de.png"
 msgid "images/illustrations/ada-p41.en.png"
 msgstr "images/illustrations/ada-p41.de.png"
 
+#. (itstool) path: simplesect/para@dropcapfileref
+#. (itstool) comment: simplesect/para@dropcapfileref
+#. File for the capital image, depending on the capital letter and the
+#. required color. Can be postponed to the publishing process. priority:70
+#: Ada_Zangemann.dbk:925
+msgid "images/capitals/A-violet.png"
+msgstr ""
+
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
 #. Link to the image. Only needs to be changed if the image is localized.
@@ -511,6 +615,14 @@ msgstr "images/illustrations/ada-p42.ltr.png"
 #: Ada_Zangemann.dbk:941
 msgid "images/illustrations/ada-p43.ltr.png"
 msgstr "images/illustrations/ada-p43.ltr.png"
+
+#. (itstool) path: simplesect/para@dropcapfileref
+#. (itstool) comment: simplesect/para@dropcapfileref
+#. File for the capital image, depending on the capital letter and the
+#. required color. Can be postponed to the publishing process. priority:70
+#: Ada_Zangemann.dbk:952
+msgid "images/capitals/T-red3.png"
+msgstr ""
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -555,6 +667,14 @@ msgstr "images/illustrations/ada-p46.ltr.png"
 #: Ada_Zangemann.dbk:987
 msgid "images/illustrations/ada-p47.ltr.png"
 msgstr "images/illustrations/ada-p47.ltr.png"
+
+#. (itstool) path: simplesect/para@dropcapfileref
+#. (itstool) comment: simplesect/para@dropcapfileref
+#. File for the capital image, depending on the capital letter and the
+#. required color. Can be postponed to the publishing process. priority:70
+#: Ada_Zangemann.dbk:999
+msgid "images/capitals/A-yellow.png"
+msgstr ""
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
