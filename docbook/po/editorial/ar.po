@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-06-17 20:33+0200\n"
-"PO-Revision-Date: 2025-06-15 13:56+0200\n"
+"PO-Revision-Date: 2025-06-21 15:23+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
@@ -19,7 +19,7 @@ msgstr ""
 #. but some variants are generated in the automation.
 #: Ada_Zangemann.dbk:311
 msgid "images/illustrations/ada-a01.en.png"
-msgstr ""
+msgstr "images/illustrations/ada-a01.ar.png"
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -74,7 +74,7 @@ msgstr ""
 #. but some variants are generated in the automation.
 #: Ada_Zangemann.dbk:464
 msgid "images/illustrations/ada-p03-author.ltr.png"
-msgstr ""
+msgstr "images/illustrations/ada-p03-author.ar.png"
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -85,7 +85,7 @@ msgstr ""
 #. but some variants are generated in the automation.
 #: Ada_Zangemann.dbk:471
 msgid "images/illustrations/ada-p03-title.en.png"
-msgstr ""
+msgstr "images/illustrations/ada-p03-title.ar.png"
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -151,7 +151,7 @@ msgstr ""
 #. but some variants are generated in the automation.
 #: Ada_Zangemann.dbk:543
 msgid "images/illustrations/ada-p08b.ltr.png"
-msgstr ""
+msgstr "images/illustrations/ada-p08b.ar.png"
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -162,7 +162,7 @@ msgstr ""
 #. but some variants are generated in the automation.
 #: Ada_Zangemann.dbk:550
 msgid "images/illustrations/ada-p08a.ltr.png"
-msgstr ""
+msgstr "images/illustrations/ada-p08a.ar.png"
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -195,7 +195,7 @@ msgstr ""
 #. but some variants are generated in the automation.
 #: Ada_Zangemann.dbk:582
 msgid "images/illustrations/ada-p11.ltr.png"
-msgstr ""
+msgstr "images/illustrations/ada-p11.ar.png"
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -228,7 +228,7 @@ msgstr ""
 #. but some variants are generated in the automation.
 #: Ada_Zangemann.dbk:618
 msgid "images/illustrations/ada-p14.ltr.png"
-msgstr ""
+msgstr "images/illustrations/ada-p14.ar.png"
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -239,7 +239,7 @@ msgstr ""
 #. but some variants are generated in the automation.
 #: Ada_Zangemann.dbk:628
 msgid "images/illustrations/ada-p15.ltr.png"
-msgstr ""
+msgstr "images/illustrations/ada-p15.ar.png"
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -250,7 +250,7 @@ msgstr ""
 #. but some variants are generated in the automation.
 #: Ada_Zangemann.dbk:638
 msgid "images/illustrations/ada-p16.ltr.png"
-msgstr ""
+msgstr "images/illustrations/ada-p16.ar.png"
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -261,7 +261,7 @@ msgstr ""
 #. but some variants are generated in the automation.
 #: Ada_Zangemann.dbk:646
 msgid "images/illustrations/ada-p17.ltr.png"
-msgstr ""
+msgstr "images/illustrations/ada-p17.ar.png"
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -272,7 +272,7 @@ msgstr ""
 #. but some variants are generated in the automation.
 #: Ada_Zangemann.dbk:661
 msgid "images/illustrations/ada-p18.ltr.png"
-msgstr ""
+msgstr "images/illustrations/ada-p18.ar.png"
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -327,7 +327,7 @@ msgstr ""
 #. but some variants are generated in the automation.
 #: Ada_Zangemann.dbk:752
 msgid "images/illustrations/ada-p27.ltr.png"
-msgstr ""
+msgstr "images/illustrations/ada-p27.ar.png"
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -338,7 +338,7 @@ msgstr ""
 #. but some variants are generated in the automation.
 #: Ada_Zangemann.dbk:763
 msgid "images/illustrations/ada-p28.ltr.png"
-msgstr ""
+msgstr "images/illustrations/ada-p28.ar.png"
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -349,7 +349,7 @@ msgstr ""
 #. but some variants are generated in the automation.
 #: Ada_Zangemann.dbk:773
 msgid "images/illustrations/ada-p29.ltr.png"
-msgstr ""
+msgstr "images/illustrations/ada-p29.ar.png"
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -382,7 +382,7 @@ msgstr ""
 #. but some variants are generated in the automation.
 #: Ada_Zangemann.dbk:809
 msgid "images/illustrations/ada-p32.ltr.png"
-msgstr ""
+msgstr "images/illustrations/ada-p32.ar.png"
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -426,7 +426,7 @@ msgstr ""
 #. but some variants are generated in the automation.
 #: Ada_Zangemann.dbk:856
 msgid "images/illustrations/ada-p37.ltr.png"
-msgstr ""
+msgstr "images/illustrations/ada-p37.ar.png"
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -459,7 +459,7 @@ msgstr ""
 #. but some variants are generated in the automation.
 #: Ada_Zangemann.dbk:893
 msgid "images/illustrations/ada-p40-41.en.png"
-msgstr ""
+msgstr "images/illustrations/ada-p40-41.ar.png"
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -470,7 +470,7 @@ msgstr ""
 #. but some variants are generated in the automation.
 #: Ada_Zangemann.dbk:904
 msgid "images/illustrations/ada-p40.en.png"
-msgstr ""
+msgstr "images/illustrations/ada-p40.ar.png"
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -481,7 +481,7 @@ msgstr ""
 #. but some variants are generated in the automation.
 #: Ada_Zangemann.dbk:910
 msgid "images/illustrations/ada-p41.en.png"
-msgstr ""
+msgstr "images/illustrations/ada-p41.ar.png"
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -503,7 +503,7 @@ msgstr ""
 #. but some variants are generated in the automation.
 #: Ada_Zangemann.dbk:941
 msgid "images/illustrations/ada-p43.ltr.png"
-msgstr ""
+msgstr "images/illustrations/ada-p43.ar.png"
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -547,7 +547,7 @@ msgstr ""
 #. but some variants are generated in the automation.
 #: Ada_Zangemann.dbk:987
 msgid "images/illustrations/ada-p47.ltr.png"
-msgstr ""
+msgstr "images/illustrations/ada-p47.ar.png"
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -580,7 +580,7 @@ msgstr ""
 #. but some variants are generated in the automation.
 #: Ada_Zangemann.dbk:1023
 msgid "images/illustrations/ada-p50-title.en.png"
-msgstr ""
+msgstr "images/illustrations/ada-p50-title.ar.png"
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -602,7 +602,7 @@ msgstr ""
 #. but some variants are generated in the automation.
 #: Ada_Zangemann.dbk:1052
 msgid "images/illustrations/ada-p52-title.en.png"
-msgstr ""
+msgstr "images/illustrations/ada-p52-title.ar.png"
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -624,7 +624,7 @@ msgstr ""
 #. but some variants are generated in the automation.
 #: Ada_Zangemann.dbk:1075
 msgid "images/illustrations/ada-p53-title.en.png"
-msgstr ""
+msgstr "images/illustrations/ada-p53-title.ar.png"
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -646,7 +646,7 @@ msgstr ""
 #. but some variants are generated in the automation.
 #: Ada_Zangemann.dbk:1095
 msgid "images/illustrations/ada-p54-title.en.png"
-msgstr ""
+msgstr "images/illustrations/ada-p54-title.ar.png"
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -657,7 +657,7 @@ msgstr ""
 #. but some variants are generated in the automation.
 #: Ada_Zangemann.dbk:1112
 msgid "images/illustrations/ada-p55-title.en.png"
-msgstr ""
+msgstr "images/illustrations/ada-p55-title.ar.png"
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
