@@ -45,11 +45,11 @@ po/Ada_Zangemann.pot: Ada_Zangemann.dbk
 # Update .po files when .pot strings get updated
 po/text/en.po: po/Ada_Zangemann.pot
 	mkdir -p po/text || exit 0
-	if [ ! -e $@ ]; then msggrep --invert-match --msgid -e '^images/illustrations' -o $@ $< ; fi
+	msggrep --invert-match --msgid -e '^images/illustrations' -o $@ $<
 
 po/editorial/en.po: po/Ada_Zangemann.pot
 	mkdir -p po/editorial || exit 0
-	if [ ! -e $@ ]; then msggrep --msgid -e '^images/illustrations' -o $@ $< ; fi
+	msggrep --msgid -e '^images/illustrations' -o $@ $<
 
 # TODO: migrate existing translations with:
 # msggrep --invert-match --msgid -e '^images/illustrations' -o po/text/nl.po po/nl.po
