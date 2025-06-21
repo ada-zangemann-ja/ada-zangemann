@@ -44,20 +44,20 @@ po/Ada_Zangemann.pot: Ada_Zangemann.dbk
 
 # Update .po files when .pot strings get updated
 po/text/Ada_Zangemann.pot: po/Ada_Zangemann.pot
-	msggrep --invert-match --msgid -e '^images/illustrations' -o $@ $<
+	msggrep --invert-match --msgid -e '^images/' -o $@ $<
 
 po/editorial/Ada_Zangemann.pot: po/Ada_Zangemann.pot
-	msggrep --msgid -e '^images/illustrations' -o $@ $<
+	msggrep --msgid -e '^images/' -o $@ $<
 
 # TODO: migrate existing translations with:
-# msggrep --invert-match --msgid -e '^images/illustrations' -o po/text/nl.po po/nl.po
+# msggrep --invert-match --msgid -e '^images/' -o po/text/nl.po po/nl.po
 .PRECIOUS: po/text/%.po
 po/text/%.po: po/text/Ada_Zangemann.pot
 	if [ ! -e $@ ]; then cp $< $@; fi
 	msgmerge --update $@ $<
 
 # TODO: migrate existing translations with:
-# msggrep --msgid -e '^images/illustrations' -o po/editorial/nl.po po/nl.po
+# msggrep --msgid -e '^images/' -o po/editorial/nl.po po/nl.po
 .PRECIOUS: po/editorial/%.po
 po/editorial/%.po: po/editorial/Ada_Zangemann.pot
 	if [ ! -e $@ ]; then cp $< $@; fi
