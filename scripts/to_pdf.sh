@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # SPDX-FileCopyrightText: 2024 Nico Rikken <nico.rikken@fsfe.org>
 # SPDX-FileCopyrightText: 2024 Petter Reinholdtsen <pere@hungry.com>
