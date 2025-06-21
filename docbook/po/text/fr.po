@@ -1,0 +1,2877 @@
+# SPDX-FileCopyrightText: 2022 Matthias Kirschner
+#
+# SPDX-License-Identifier: CC-BY-SA-4.0
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2025-06-17 20:33+0200\n"
+"PO-Revision-Date: 2025-05-06 19:39+0200\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: French <https://hosted.weblate.org/projects/fsfe/ada-"
+"zangemann/fr/>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Poedit 3.2.2\n"
+
+#. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
+msgctxt "_"
+msgid "translator-credits"
+msgstr ""
+
+#. (itstool) path: info/title
+#. (itstool) path: cover/bridgehead
+#. Ampersand character & is escaped for XML source format as &amp;
+#.
+#. ignore-same
+#: Ada_Zangemann.dbk:262 Ada_Zangemann.dbk:306 Ada_Zangemann.dbk:496
+msgid "Ada &amp; Zangemann"
+msgstr "Ada &amp; Zangemann"
+
+#. (itstool) path: info/subtitle
+#. (itstool) path: cover/bridgehead
+#: Ada_Zangemann.dbk:263 Ada_Zangemann.dbk:307
+msgid "A Tale of Software, Skateboards, and Raspberry Ice Cream"
+msgstr "Un conte sur les logiciels, les skateboards et la glace à la framboise"
+
+#. (itstool) path: info/biblioid
+#. ISBN of print edition
+#: Ada_Zangemann.dbk:264
+msgid "978-1-7185-0318-2"
+msgstr ""
+
+#. (itstool) path: info/biblioid
+#. ISBN of ebook edition
+#: Ada_Zangemann.dbk:265
+msgid "978-1-7185-0319-9"
+msgstr ""
+
+#. (itstool) path: info/author
+#. ignore-same
+#: Ada_Zangemann.dbk:267
+msgid ""
+"<personname> <firstname>Matthias</firstname> <surname>Kirschner</surname> </"
+"personname>"
+msgstr ""
+
+#. (itstool) path: info/othercredit
+#. ignore-same
+#: Ada_Zangemann.dbk:273
+msgid ""
+"<personname> <firstname>Sandra</firstname> <surname>Brandstätter</surname> </"
+"personname>"
+msgstr ""
+
+#. (itstool) path: character/charactername
+#. Name must not be changed.
+#.
+#. ignore-same
+#: Ada_Zangemann.dbk:282
+msgid "Ada"
+msgstr ""
+
+#. (itstool) path: character/charactername
+#. Name must not be changed.
+#.
+#. ignore-same
+#: Ada_Zangemann.dbk:285
+msgid "Zangemann"
+msgstr ""
+
+#. (itstool) path: character/charactername
+#. Name must not be changed.
+#.
+#. ignore-same
+#: Ada_Zangemann.dbk:288
+msgid "Alan"
+msgstr ""
+
+#. (itstool) path: character/charactername
+#. Character names are mostly reference to existing people in computer
+#. history or science, but if you want to change them in order to make it
+#. easier for children to relate to the characters you should find names
+#. which are still common but connected to important figures in the
+#. computer history. If you have problems with that, feel free to reach
+#. out to Matthias. Please also make sure to just exchange male names with
+#. male names, female names with female names to keep the gender balance
+#. as intended, or use names which can be male and female.
+#.
+#. ignore-same
+#: Ada_Zangemann.dbk:291
+msgid "Toni"
+msgstr ""
+
+#. (itstool) path: character/charactername
+#. Character names are mostly reference to existing people in computer
+#. history or science, but if you want to change them in order to make it
+#. easier for children to relate to the characters you should find names
+#. which are still common but connected to important figures in the
+#. computer history. If you have problems with that, feel free to reach
+#. out to Matthias. Please also make sure to just exchange male names with
+#. male names, female names with female names to keep the gender balance
+#. as intended, or use names which can be male and female.
+#.
+#. ignore-same
+#: Ada_Zangemann.dbk:294
+msgid "Konrad"
+msgstr ""
+
+#. (itstool) path: character/charactername
+#. Character names are mostly reference to existing people in computer
+#. history or science, but if you want to change them in order to make it
+#. easier for children to relate to the characters you should find names
+#. which are still common but connected to important figures in the
+#. computer history. If you have problems with that, feel free to reach
+#. out to Matthias. Please also make sure to just exchange male names with
+#. male names, female names with female names to keep the gender balance
+#. as intended, or use names which can be male and female.
+#.
+#. ignore-same
+#: Ada_Zangemann.dbk:297
+msgid "Marie"
+msgstr ""
+
+#. (itstool) path: character/charactername
+#. Character names are mostly reference to existing people in computer
+#. history or science, but if you want to change them in order to make it
+#. easier for children to relate to the characters you should find names
+#. which are still common but connected to important figures in the
+#. computer history. If you have problems with that, feel free to reach
+#. out to Matthias. Please also make sure to just exchange male names with
+#. male names, female names with female names to keep the gender balance
+#. as intended, or use names which can be male and female.
+#.
+#. ignore-same
+#: Ada_Zangemann.dbk:300
+msgid "Ms. Gernet"
+msgstr ""
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:320
+msgid ""
+"Ada &amp; Zangemann - A Tale of Software, Skateboards, and Raspberry Ice "
+"Cream. By Matthias Kirschner and Sandra Brandstätter. On a mostly "
+"desaturated dark cyan background, in a frame composed of sometimes curled "
+"white lines that connect a mouse, a keyboard, and a pink smartphone, Ada and "
+"Zangemann are facing each other, both with their hands on their hips as a "
+"sign of challenge. Ada is smiling and Zangemann is frowning. Ada has black "
+"hair collected in two big right- and left-bound ringlets with red rubber "
+"bands, and red cheeks. She has little yellow stud earrings. She wears cyan "
+"and white horizontal striped shorts and a yellow shirt over a white "
+"undershirt that ends with embroidery that goes beyond the shirt. The shirt "
+"and undershirt come out over the shorts. Above the shirt Ada wears a blue "
+"hoodie. Ada is wearing red shoes with white tips and soles, and short white "
+"socks. She has one foot on a skateboard and the other on the ground. "
+"Zangemann has short gray hair and square glasses. He is wearing a purple "
+"turtle-neck sweater, light blue pants turned up, brown shoes, and white "
+"socks. He’s wearing a big tech watch. Above Zangemann there are a pair of "
+"pliers with red handles crossing the wire frame."
+msgstr ""
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:329
+msgid ""
+"A soldering iron and a brush and can with yellow paint, connected by white "
+"electrical cord that forms a frame."
+msgstr ""
+"Un fer à souder en étain et un pinceau avec de la peinture jaune, reliés par "
+"une ligne blanche formant un cadre."
+
+#. (itstool) path: simplesect/para@dropcapfileref
+#. (itstool) comment: simplesect/para@dropcapfileref
+#. File for the capital image, depending on the capital letter and the
+#. required color. Can be postponed to the publishing process. priority:70
+#: Ada_Zangemann.dbk:332
+msgid "images/capitals/T-yellow2.png"
+msgstr ""
+
+#. (itstool) path: simplesect/para
+#. (itstool) id: Ada_Zangemann.dbk#para-back-1
+#: Ada_Zangemann.dbk:332
+#, fuzzy
+msgid ""
+"<phrase condition=\"capitals-text\">The</phrase><phrase condition=\"capitals-"
+"img\">he</phrase> inventor Zangemann is world-famous and immensely rich. "
+"Adults and children alike love his fabulous technical inventions. But one "
+"day there is a problem: the children’s electronic skateboards no longer work "
+"properly. What’s going on? The curious girl Ada sees through what is going "
+"on. Together with her friends, she experiments with hardware and software, "
+"and the children forge a plan: Zangemann can no longer be the only one in "
+"control of the devices!"
+msgstr ""
+"<phrase condition=\"capitals-text\">The</phrase><phrase condition=\"capitals-"
+"img\">he</phrase> est un inventeur mondialement connu et immensément riche. "
+"Enfants et adultes adorent ses fabuleuses inventions. Mais soudain, gros "
+"problème : les skateboards électroniques des enfants buggent et les glaces "
+"ont toutes le même parfum. Que se passe-t-il ? Ada, jeune fille curieuse, va "
+"découvrir comment Zangemann contrôle ses produits depuis son ordinateur en "
+"or. Avec ses amis, elle va bricoler des objets informatisés qui échappent "
+"aux décisions de Zangemann."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:333
+msgid ""
+"A book that arouses interest in tinkering and encourages shaping technology."
+msgstr ""
+"Un livre pour les enfants et jeunes ados qui pourrait bien leur transmettre "
+"le plaisir de bricoler. Un livre sur l’informatique libre, la camaraderie et "
+"le rôle des filles pour une technique au service de l’autonomie. Un conte "
+"vivant et superbement illustré."
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:340
+msgid ""
+"A power strip, with input and output of white electrical cord that is the "
+"frame."
+msgstr ""
+"Une multiprise, toujours connectée avec une ligne blanche en guise de cadre."
+
+#. (itstool) path: info/title
+#. Page before the colophon and the title page, with just the title. Also
+#. know as 'bastard title'.
+#: Ada_Zangemann.dbk:355
+msgid "Half-title page"
+msgstr ""
+
+#. (itstool) path: mediaobject/alt
+#. (itstool) path: simplesect/para
+#. (itstool) id: Ada_Zangemann.dbk#title-titlepage
+#. ignore-same
+#.
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:362 Ada_Zangemann.dbk:488
+msgid "ADA &amp; ZANGEMANN"
+msgstr "ADA &amp; ZANGEMANN"
+
+#. (itstool) path: info/title
+#. Also known as 'imprint'
+#: Ada_Zangemann.dbk:368
+msgid "Colophon"
+msgstr ""
+
+#. (itstool) path: simplesect/literallayout
+#. Smaller colophon to be combined with grey free cultural license
+#. section. Intended for non-print use or print if it fits. Otherwise use
+#. the fullpage colophon. Please reuse the license text translation from
+#. the official Creative Commons website
+#. https://creativecommons.org/licenses/by-sa/4.0/
+#.
+#. In a literallayout element all space and newline characters are kept.
+#: Ada_Zangemann.dbk:372
+#, no-wrap
+msgid ""
+"Copyright © 2023 Matthias Kirschner and Sandra Brandstätter.\n"
+"This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.\n"
+"To view a copy of this license, visit <link xlink:href=\"https://creativecommons.org/licenses/by-sa/4.0/\">https://creativecommons.org/licenses/by-sa/4.0/</link> or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.\n"
+"\n"
+"<emphasis role=\"bold\">Ada &amp; Zangemann: A Tale of Software, Skateboards, and Raspberry Ice Cream</emphasis> is a translation of the German original, Ada und Zangemann: Ein Märchen über Software, Skateboards und Himbeereis, published by Dpunkt.verlag in cooperation with O’Reilly Media, Inc., under the imprint “O’REILLY,” © 2022 by Matthias Kirschner and Sandra Brandstätter.\n"
+"\n"
+"This book by Matthias Kirschner (author) and Sandra Brandstätter (illustrator) is licensed under <emphasis role=\"bold\">Creative Commons CC-BY-SA</emphasis>, a free cultural license.\n"
+"\n"
+"<emphasis role=\"bold\">You may</emphasis> share, copy, and redistribute the material in any medium or format. <emphasis role=\"bold\">You may</emphasis> adapt, remix, transform, and build upon the material for any purpose, even commercially. <emphasis role=\"bold\">You must</emphasis> give appropriate credit, provide a link to the license, and indicate if changes were made.\n"
+"\n"
+"<emphasis role=\"bold\">You may</emphasis> do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. If you remix, transform, or build upon the material, <emphasis role=\"bold\">you must</emphasis> distribute your contributions under the same license as the original. (This is a human-readable summary of - and not a substitute for - the “legal code” of CC-BY-SA 4.0.)\n"
+"\n"
+"Furthermore for remix versions (derivative works), the licensor asks you not to make any modifications of the author’s personal acknowledgments and the author’s and illustrator’s short biographies, instead please completely remove those parts from your remix version.\n"
+"\n"
+"Publication under this free cultural license was possible due to the great support by dpunkt.verlag GmbH / O’Reilly Media, Inc. for the German book and No Starch Press for the English book. Unfortunately, Creative Commons licenses are still rare exceptions for commercially published books, and often considered revolutionary and risky by publishers.\n"
+"\n"
+"<emphasis role=\"bold\">A big thank you</emphasis> to <emphasis role=\"bold\">dpunkt.verlag</emphasis> and <emphasis role=\"bold\">No Starch Press</emphasis> for understanding the values of software freedom, taking the time to discuss and understand the advantages of free cultural licenses, and the great support to publish this book under conditions that respect the FSFE’s values."
+msgstr ""
+
+#. (itstool) path: simplesect/literallayout
+#. Full page colophon. Intended for print use, as an alternative to the
+#. half-page colophon that is combined with the grey free cultural license
+#. section. Please reuse the license text translation from the official
+#. Creative Commons website https://creativecommons.org/licenses/by-sa/4.0/
+#.
+#. In a literallayout element all space and newline characters are kept.
+#: Ada_Zangemann.dbk:389
+#, no-wrap
+msgid ""
+"Copyright © 2023 Matthias Kirschner and Sandra Brandstätter.\n"
+"This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.\n"
+"To view a copy of this license, visit <link xlink:href=\"https://creativecommons.org/licenses/by-sa/4.0/\">https://creativecommons.org/licenses/by-sa/4.0/</link> or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.\n"
+"\n"
+"<emphasis role=\"bold\">Ada &amp; Zangemann: A Tale of Software, Skateboards, and Raspberry Ice Cream</emphasis> is a translation of the German original, Ada und Zangemann: Ein Märchen über Software, Skateboards und Himbeereis, published by Dpunkt.verlag in cooperation with O’Reilly Media, Inc., under the imprint “O’REILLY,” © 2022 by Matthias Kirschner and Sandra Brandstätter.\n"
+"\n"
+"First printing\n"
+"\n"
+"26 25 24 23 22 1 2 3 4 5\n"
+"\n"
+"ISBN-13: 978-1-7185-0318-2 (print)\n"
+"ISBN-13: 978-1-7185-0319-9 (ebook)\n"
+"\n"
+"Publisher: William Pollock\n"
+"Author: Matthias Kirschner\n"
+"Illustrator: Sandra Brandstätter\n"
+"Managing Editor: Jill Franklin\n"
+"Production Editor: Jennifer Kepler\n"
+"Editor: Wiebke Helmchen\n"
+"Color Assistance: Olga Biryukova, Noémi Sárkány, Nathalie Scattolon, Kristina Haidinger, and Jasmin Schlögl\n"
+"Cover Design: Sandra Brandstätter and Susan Brown\n"
+"Compositor: Maureen Forys, Happenstance Type-O-Rama\n"
+"\n"
+"For information on distribution, bulk sales, or corporate sales, please contact No Starch Press, Inc. directly at <link xlink:href=\"mailto:info@nostarch.com\">info@nostarch.com</link> or:\n"
+"\n"
+"No Starch Press, Inc.\n"
+"245 8th Street, San Francisco, CA 94103\n"
+"phone: 1.415.863.9900\n"
+"<link xlink:href=\"https://nostarch.com/\">www.nostarch.com</link>\n"
+"\n"
+"A catalog record of this book is available from the Library of Congress.\n"
+"\n"
+"No Starch Press and the No Starch Press logo are registered trademarks of No Starch Press, Inc. Other product and company names mentioned herein may be the trademarks of their respective owners. Rather than use a trademark symbol with every occurrence of a trademarked name, we are using the names only in an editorial fashion and to the benefit of the trademark owner, with no intention of infringement of the trademark.\n"
+"\n"
+"The information in this book is distributed on an “As Is” basis, without warranty. While every precaution has been taken in the preparation of this work, neither the author nor No Starch Press, Inc. shall have any liability to any person or entity with respect to any loss or damage caused or alleged to be caused directly or indirectly by the information contained in it.\n"
+"\n"
+"All characters in this publication are fictitious, and any resemblance to real persons, living or dead, is purely coincidental.\n"
+"\n"
+"**\n"
+"\n"
+"This book by Matthias Kirschner (author) and Sandra Brandstätter (illustrator) is licensed under <emphasis role=\"bold\">Creative Commons CC-BY-SA</emphasis>, a free cultural license.\n"
+"\n"
+"<emphasis role=\"bold\">You may</emphasis> share, copy, and redistribute the material in any medium or format. <emphasis role=\"bold\">You may</emphasis> adapt, remix, transform, and build upon the material for any purpose, even commercially. <emphasis role=\"bold\">You must</emphasis> give appropriate credit, provide a link to the license, and indicate if changes were made.\n"
+"\n"
+"<emphasis role=\"bold\">You may</emphasis> do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. If you remix, transform, or build upon the material, <emphasis role=\"bold\">you must</emphasis> distribute your contributions under the same license as the original. (This is a human-readable summary of - and not a substitute for - the “legal code” of CC-BY-SA 4.0.)\n"
+"\n"
+"Furthermore for remix versions (derivative works), the licensor asks you not to make any modifications of the author’s personal acknowledgments and the author’s and illustrator’s short biographies, instead please completely remove those parts from your remix version.\n"
+"\n"
+"Publication under this free cultural license was possible due to the great support by dpunkt.verlag GmbH / O’Reilly Media, Inc. for the German book and No Starch Press for the English book. Unfortunately, Creative Commons licenses are still rare exceptions for commercially published books, and often considered revolutionary and risky by publishers.\n"
+"\n"
+"<emphasis role=\"bold\">A big thank you</emphasis> to <emphasis role=\"bold\">dpunkt.verlag</emphasis> and <emphasis role=\"bold\">No Starch Press</emphasis> for understanding the values of software freedom, taking the time to discuss and understand the advantages of free cultural licenses, and the great support to publish this book under conditions that respect the FSFE’s values."
+msgstr ""
+
+#. (itstool) path: simplesect/literallayout
+#. Grey section in the bottom of half page colophon.
+#.
+#. In a literallayout element all space and newline characters are kept.
+#: Ada_Zangemann.dbk:443
+#, no-wrap
+msgid ""
+"<emphasis role=\"bold\">Free as in freedom not price</emphasis>\n"
+"Free Software is about the freedoms you receive with the software, not about the price. Likewise publishing a book under a free culture license does not mean you have the right to get a gratis copy of the book or ebook. It means you get the rights described above, which enable society to benefit further from this book, as it should from all cultural works.\n"
+"\n"
+"We encourage you to support authors, publishers, and others involved in the creation of culture under free licenses – including <emphasis role=\"bold\">financially supporting them through purchases or donations</emphasis>. (<link xlink:href=\"https://fsfe.org/donate\">https://fsfe.org/donate</link>)\n"
+"Society should support those who respect others’ freedom."
+msgstr ""
+
+#. (itstool) path: info/title
+#. Page next to the colophon with title, subtitle, authors and
+#. illustration of Ada’s dog.
+#: Ada_Zangemann.dbk:452
+msgid "Title page"
+msgstr ""
+
+# Information missing compared to English translation.
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:459
+#, fuzzy
+msgid ""
+"Matthias Kirschner, Sandra Brandstätter - ADA &amp; ZANGEMANN - A Tale of "
+"Software, Skateboards and Raspberry Ice Cream. Title in the middle, authors "
+"in the upper left. In the lower right, Ada’s family’s dog with gray fur and "
+"some white patches and with a red collar with shiny yellow LEDs, which wags "
+"its tail."
+msgstr ""
+"Dessin d'un chien gris portant un colier rouge avec des LED jaunes "
+"clignotantes, qui regarde le titre en remuant la queue."
+
+#. (itstool) path: mediaobject/alt
+#. ignore-same
+#.
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:466
+msgid "Matthias Kirschner, Sandra Brandstätter"
+msgstr "Matthias Kirschner, Sandra Brandstätter"
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:476
+msgid ""
+"ADA &amp; ZANGEMANN - A Tale of Software, Skateboards and Raspberry Ice "
+"Cream. Title in the middle, authors in the upper left."
+msgstr ""
+"ADA &amp; ZANGEMANN - Un conte sur les logiciels, les skateboards et la "
+"glace à la framboise"
+
+# Information missing compared to English translation.
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:483
+#, fuzzy
+msgid ""
+"In the lower right, Ada’s family’s dog with gray fur and some white patches "
+"and with a red collar with shiny yellow LEDs, which wags its tail."
+msgstr ""
+"Dessin d'un chien gris portant un colier rouge avec des LED jaunes "
+"clignotantes, qui regarde le titre en remuant la queue."
+
+#. (itstool) path: simplesect/literallayout
+#. In a literallayout element all space and newline characters are kept.
+#: Ada_Zangemann.dbk:486
+#, no-wrap
+msgid ""
+"Matthias Kirschner\n"
+"Sandra Brandstätter"
+msgstr ""
+"Matthias Kirschner\n"
+"Sandra Brandstätter"
+
+#. (itstool) path: simplesect/literallayout
+#. (itstool) id: Ada_Zangemann.dbk#subtitle-titlepage
+#. In a literallayout element all space and newline characters are kept.
+#: Ada_Zangemann.dbk:489
+#, no-wrap
+msgid ""
+"A Tale of\n"
+"Software, Skateboards, and\n"
+"Raspberry Ice Cream"
+msgstr ""
+"Un conte sur\n"
+"les logiciels, les skateboards et\n"
+"la glace à la framboise"
+
+#. (itstool) path: simplesect/para@dropcapfileref
+#. (itstool) comment: simplesect/para@dropcapfileref
+#. File for the capital image, depending on the capital letter and the
+#. required color. Can be postponed to the publishing process. priority:70
+#: Ada_Zangemann.dbk:500
+msgid "images/capitals/O-cyan.png"
+msgstr ""
+
+#. (itstool) path: simplesect/para
+#. (itstool) id: Ada_Zangemann.dbk#para-p04-1
+#: Ada_Zangemann.dbk:500
+msgid ""
+"<phrase condition=\"capitals-text\">Once</phrase><phrase "
+"condition=\"capitals-img\">nce</phrase> upon a time, there was a little girl "
+"named Ada. Her family was so poor that all their savings fit inside a cookie "
+"jar. They didn’t have enough money to live in a proper home. Instead, Ada "
+"lived with her mother and her little brother, Alan, in a cabin near a "
+"junkyard on the edge of town."
+msgstr ""
+"<phrase condition=\"capitals-text\">Il</phrase><phrase condition=\"capitals-"
+"img\">l</phrase> était une fois une petite fille qui s’appelait Ada. Sa "
+"famille était si pauvre que leurs économies tenaient dans une boîte à "
+"biscuits. Ils n’avaient pas assez d’argent pour vivre dans une vraie maison. "
+"Ainsi, Ada, sa mère et son petit frère Alan habitaient-ils une cabane à "
+"proximité d’une décharge à la périphérie de la ville."
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:508
+#, fuzzy
+msgid ""
+"Ada in foreground leaving the house to go to school, in the background Ada’s "
+"house and the junkyard. Ada has a brown backpack with yellow shoulder "
+"straps. To the left of Ada there is a red car, a Volkswagen Beetle, without "
+"wheels and no longer working, with one of the headlights remaining attached "
+"only with its wires. On the left, in front of the car, there are two tires, "
+"two boxes – one of which is a wooden box with an overturned bucket –, and an "
+"empty can, all among some plants with yellow flowers. In the background "
+"there is Ada’s house, with her mother and her brother Alan waving goodbye, "
+"and the dog sitting on the ground. Alan is sitting on the two entrance steps "
+"of the house. He has short dark hair and is dressed in a white short-sleeved "
+"shirt with a red stripe at the edges of the sleeves and two red stripes at "
+"the bottom of the shirt. Alan wears blue shorts and he is barefoot. Ada’s "
+"mom has dark lipstick and long black hair in a white headband. She is "
+"wearing a short blue shirt with white trim, white pants, and yellow shoes. "
+"Ada’s house is built of wood, with the front being white. The roof is dark "
+"red corrugated sheeting. There are two windows in front in addition to the "
+"door, and another window on the left side. A yellow duck stands on top of "
+"the roof, while a gray chimney protrudes. An antenna on the left of the roof "
+"supports a clothesline on which red clothespins hold a green tank top, a "
+"pair of light blue pants, and white underpants. To the right of the house "
+"there is a veranda on which there is installed a solar panel. Under the "
+"veranda there are a mattress, a red oil drum, and a gray case. Behind the "
+"house there are piles of landfill objects among which you can see a washing "
+"machine, a car, and various wooden boards."
+msgstr ""
+"Ce dessin représente une petite fille avec deux grandes couettes brunes et "
+"frisées qui s'éloigne en souriant de chez elle avec son cartable sur le dos. "
+"Elle porte des habits colorés : hoodie bleu, robe jaune, short bleu à "
+"rayures, basket rouges. Elle habite une cabane au pied d'une décharge. "
+"Derrière sa maison, une montagne de détritus, de machines et de voitures "
+"abandonnées. Sur le seuil, sa mère et son petit frère sourient et lui font "
+"un au revoir avec les bras. Il y a aussi un petit chien gris sans collier. "
+"Sur l'appentis de sa cabane, il y a un gros panneau solaire. Sur le toit, un "
+"oiseau jaune la regarde s'éloigner. Du linge sèche sur un fil tendu à "
+"l'antenne TV. On voit aussi au premier plan une voiture coccinelle rouge "
+"abandonnée, un phare décroché, des pneus remplis de végétation, des caisses "
+"et une boîte de conserves ouverte."
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:516
+msgid ""
+"Prestigious magazines (“STARS“, “MONEY”, “Richest Man”) on whose cover are "
+"Zangemann and his villa."
+msgstr ""
+"Ce dessin représente une pile de magazines bariolés de titres et d'images "
+"consacrés à Zangemann. C'est un homme maigre à lunettes, il porte un col "
+"roulé gris sous son menton pointu, avec des lunettes posées sur un nez "
+"encore plus pointu, et il occupe toutes les couvertures : Stars magazine "
+"montre son portrait satisfait devant sa villa, une construction ultra "
+"moderne avec terrasse accessible par un toboggan tourbillonnant, antennes, "
+"palmiers. Money magazine le montre fier de lui entouré d'étincelles et de "
+"Dollars. Un troisième magazine titre : “l'homme le plus riche”."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:518
+msgid ""
+"Far away, at the other end of town, lived a famous inventor named Zangemann. "
+"He was immensely rich. No sheet of paper in the world was big enough to show "
+"his bank balance with all its numbers and zeros! He lived in a huge house "
+"with a swimming pool and waterslide, lots of staircases and towers, hundreds "
+"of windows, and so many rooms that he often got lost in them himself. "
+"Zangemann’s mansion stood high on a hill. From there, he could look out over "
+"the whole city."
+msgstr ""
+"Loin de là, à l’autre bout de la ville, vivait un célèbre inventeur du nom "
+"de Zangemann. Il était immensément riche. Aucune feuille de papier n’était "
+"assez grande pour y écrire tous les chiffres et les zéros de son compte en "
+"banque. Il habitait une immense maison avec piscine et toboggan aquatique, "
+"de nombreux escaliers, des tours, des centaines de fenêtres et tant de "
+"pièces que lui-même s’y perdait régulièrement. La propriété de Zangemann "
+"était construite au sommet de la montagne. De là-haut, il pouvait observer "
+"toute la ville."
+
+#. (itstool) path: info/title
+#: Ada_Zangemann.dbk:523
+msgid "Zangemann and computers"
+msgstr "Zangemann et les ordinateurs"
+
+#. (itstool) path: simplesect/para@dropcapfileref
+#. (itstool) comment: simplesect/para@dropcapfileref
+#. File for the capital image, depending on the capital letter and the
+#. required color. Can be postponed to the publishing process. priority:70
+#: Ada_Zangemann.dbk:527
+msgid "images/capitals/C-red1.png"
+msgstr ""
+
+#. (itstool) path: simplesect/para
+#. (itstool) id: Ada_Zangemann.dbk#para-p06-1
+#: Ada_Zangemann.dbk:527
+msgid ""
+"<phrase condition=\"capitals-text\">Computers</phrase><phrase "
+"condition=\"capitals-img\">omputers</phrase> had fascinated Zangemann ever "
+"since he was a child. When he was young, computers were huge machines with "
+"lots of cables and loud, noisy fans. At school, little Zangemann often "
+"dreamed of all the things he would do with computers if they were just a "
+"little bit smaller — small enough that they could be built into other fun "
+"things. He knew what he would do. First, he would build a computer into his "
+"skateboard so that it would make cool noises when he rode it — maybe a fire "
+"engine siren or the sound of a rocket launch. Then he would use a computer "
+"to invent ice‑cream-making machines! The computer would mix the coolest "
+"flavors and even sell the ice cream. There would be machines on every street "
+"corner, and he could get ice cream in his favorite flavor whenever he felt "
+"like it, and just as much as he wanted. After that, he’d build a cleaning "
+"robot and a block-sorting machine so that his room would always be neat and "
+"clean. Zangemann had great new ideas like these every day. He could think of "
+"nothing else."
+msgstr ""
+"<phrase condition=\"capitals-text\">Depuis</phrase><phrase "
+"condition=\"capitals-img\">epuis</phrase> tout petit, Zangemann était "
+"fasciné par les ordinateurs. À cette époque-là, il s’agissait d’énormes "
+"machines avec des tas de câbles et de ventilateurs bruyants. À l’école, le "
+"petit Zangemann rêvait souvent à tout ce qu’il pourrait faire avec les "
+"ordinateurs le jour où ils seraient plus petits, suffisamment petits pour "
+"pouvoir être intégrés à d’autres appareils. Pour commencer, il installerait "
+"un ordinateur dans son skate pour lui faire faire des bruits cools en "
+"roulant, comme une sirène de pompier ou une fusée au décollage. Et il "
+"inventerait des machines à faire des glaces ! L’ordinateur pourrait "
+"automatiquement mixer les parfums les plus sensationnels et vendre la glace. "
+"Il y aurait des machines à tous les coins de rue, et il pourrait aller "
+"chercher sa glace préférée à chaque fois qu’il en aurait envie. Il "
+"construirait également un robot pour faire le ménage et une machine pour "
+"trier les briques de construction afin que sa chambre soit toujours bien "
+"rangée. Chaque jour, Zangemann avait de nouvelles idées. Il n’arrivait pas à "
+"penser à autre chose."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:528
+msgid ""
+"As the years went by, Zangemann grew bigger and computers got smaller. In "
+"fact, by the time he finished school, they were so small they fit in his "
+"pocket. The smallest ones even fit on his fingertip."
+msgstr ""
+"Plus Zangemann grandissait, plus les ordinateurs rétrécissaient. Quand il "
+"arriva en âge de quitter l’école, ils étaient si petits qu’ils pouvaient "
+"tenir dans la poche de son pantalon. Les plus miniaturisés tenaient même sur "
+"le bout de ses doigts."
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:535
+msgid ""
+"Zangemann as a child on a chair at a school table. From his head come six "
+"bubbles in which there are his ideas of places in which to insert computers: "
+"a video call system, a speaker, a washing machine, a skateboard with radio "
+"control on a big computer monitor, a wrist computer, and a shoulder computer "
+"with a monitor and keyboard. Zangemann has gray hair, a dark purple shirt "
+"with blue horizontal stripes, blue shorts, brown shoes and white socks. He "
+"wears glasses and a big watch on his left wrist. On the table there are an "
+"open notebook, a yellow pencil, and an eraser, while hanging on the side of "
+"the table there is his brown briefcase."
+msgstr ""
+"Ce dessin représente Zangemann enfant, en culottes courtes et polo rayé, à "
+"son pupitre d'écolier. Son cartable est accroché à un des pieds de ce "
+"pupitre. Zangemann a interrompu son travail. Son cahier encore ouvert repose "
+"sur la table, avec un cahier et une gomme. Il rêve les yeux grands ouverts "
+"derrière ses lunettes en se tenant le menton à deux bras. On voit ses "
+"pensées dans de petites bulles colorées : un petit garçon à casquette roule "
+"sur un skate-ordinateur qu'il pilote avec une télécommande ; un bras montre "
+"fièrement une montre qui est en fait un mini ordinateur avec moniteur et "
+"clavier ; une garçon marche avec sur le dos un cartable ordinateur, relié à "
+"un écran par un bras articulé qui passe au dessus de sa tête. Dans les mains "
+"un clavier tenu lui aussi par un bras articulé. On devine d'autres "
+"inventions dans des bulles en arrière-plan : un téléphone vidéo surmonté "
+"d'un gyrophare vert, avec une image de femme souriante à l'écran, une "
+"machine à laver…"
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:540
+msgid ""
+"“Finally, I can turn all my ideas into real things!” Zangemann exclaimed, "
+"and he got right to work. He found ways to put the small computers into all "
+"kinds of things to make them even more fun and useful. And then he sold them."
+msgstr ""
+"« Je peux enfin mettre toutes mes idées en pratique ! », jubila Zangemann, "
+"et il se mit au travail. Il intégra les petits ordinateurs à tous les "
+"appareils possibles et imaginables, pour les rendre encore plus pratiques. "
+"Et il vendit ensuite ces appareils."
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:545
+msgid ""
+"Zangemann original ice cream machine. It is ice blue in color and is similar "
+"to a vending machine of drinks, but instead of the cup there is a cone that "
+"is filled with ice cream. Above the dispenser there is a monitor showing the "
+"variety that is distributed, in this case pineapple ice cream. On the left "
+"there are the slot for inserting coins, the various buttons to choose the "
+"flavor, and the hole for returning coins. At the top there is a round white "
+"sign with a scoop of candy-pink ice cream in a cone. On the back of the "
+"machine there is the refrigeration machinery with the “Z” of the Zangemann "
+"logo."
+msgstr ""
+"Ce dessin représente une machine à glace Zangemann original. C'est un "
+"distributeur de glaces bleu gros et aux coins arrondis, reposant sur des "
+"pieds et surmonté d'une publicité lumineuse. Il y a un monnayeur et des "
+"boutons pour choisir son parfum. Elle est en train de remplir un cône de "
+"glace italienne à l'ananas. Sur le côté, il y a le logo Z."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:547
+msgid ""
+"Adults and children loved his inventions. All the kids wanted to have one of "
+"his skateboards — complete with the latest sounds to show off to their "
+"friends at school. Kids also loved his speaker invention, which could "
+"instantly play any song you requested. And, of course, everyone loved the "
+"ice cream served every afternoon from the automatic, extra-delicious "
+"Original Zangemann Ice Cream Machine. It all seemed like magic, but the "
+"secret was simple: the little computers that Zangemann built into his "
+"machines made it all possible."
+msgstr ""
+"Adultes et enfants adoraient ses inventions. Les enfants voulaient tous leur "
+"skateboard Zangemann avec le dernier son à la mode pour épater les copains "
+"dans la cour de l’école. Beaucoup possédaient également des enceintes "
+"Zangemann, très pratiques. Il suffisait de leur indiquer le titre d’une "
+"chanson pour l’écouter. Et celui qui avait encore de l’argent de poche "
+"allait s’acheter une glace préparée automatiquement par la machine-à-glace-"
+"originale-Zangemann en sortant de l’école. C’était comme de la magie – mais "
+"tout cela était contrôlé par les petits ordinateurs que Zangemann avait "
+"intégrés aux appareils."
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:552
+msgid ""
+"An original Zangemann electric skateboard leaving a blue trail with musical "
+"notes and colored circles. Only the knees, white socks, and olive green "
+"shoes with white soles of the child riding it are shown."
+msgstr ""
+"Ce dessin représente le passage d'un enfant à skateboard sur la page : le "
+"skateboard est muni d'un boîtier entre les roues avec le logo Z. Des effets "
+"de sons et couleurs harmonieux sont émis par le boîtier dans le sillage du "
+"skate."
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:560
+msgid ""
+"Ada tinkers with objects in her improvised lab. Ada is sitting on an "
+"overturned water case, and working on a repair with a yellow screwdriver. "
+"Also on the table are green pliers, a red hammer, a white power strip, and "
+"another gadget. Ada is at a table consisting of a wooden board supported by "
+"two oil drums (one gray and one red) and a small wooden sawhorse. Behind Ada "
+"there are a washing machine, pipes, and a board. In front of the improvised "
+"table there are tires and an old phone with faulty wire. Alan is coming "
+"toward Ada holding a yellow fan over his head. Alan now wears white socks "
+"and yellow shoes."
+msgstr ""
+"Ce dessin représente Ada qui bricole dans un coin de la décharge, sur un "
+"établi fabriqué avec une planche, un tréteau et des bidons, sur lequel il y "
+"a une pince, un marteau, une multiprise et un transistor ouvert. Elle est "
+"assise sur une caisse, une jambe repliée, et répare en tirant la langue "
+"d'application un circuit électronique dans un boîtier. Autour d'elle, une "
+"vieille machine à laver, des tuyaux en fer, des pneus, un téléphone ancien "
+"démonté. Son petit frère joyeux, en t-shirt blanc à rayures rouges et short "
+"bleu, lui apporte un gros ventilateur industriel jaune."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:562
+msgid ""
+"These inventions were very popular at Ada’s school, and many of her friends "
+"rode around on the cool skateboards. Ada was often sad, since her mother "
+"couldn’t buy her any of those great things: no skateboard, no speakers, no "
+"ice cream."
+msgstr ""
+"Dans l’école d’Ada aussi, ces inventions étaient très populaires et elle "
+"avait beaucoup d’amis qui se baladaient avec des skateboards super cools. "
+"Ada était souvent triste, car sa mère ne pouvait pas lui acheter toutes ces "
+"merveilleuses choses. Pas de skateboard, pas d’enceinte, pas de glace."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:564
+msgid ""
+"Luckily, Ada lived right next to the junkyard. There were lots of broken "
+"gadgets and rusty parts, which she put together to make cool new things, "
+"like a soapbox she and Alan rode roaring down the hill, a windmill, and "
+"scary junk monsters, which she and Alan would fight together. She also found "
+"many useful items—an old cell phone, for example. The screen was cracked, "
+"but she could fix that, and while there wasn’t internet at the junkyard, she "
+"could get access somewhere else."
+msgstr ""
+"Mais Ada vivait juste à côté de la décharge. Elle y trouvait des appareils "
+"cassés et des pièces rouillées avec lesquelles elle fabriquait des choses "
+"géniales : une caisse à savon dans laquelle son frère Alan et elle "
+"dévalaient la colline, une éolienne ou des monstres constitués de débris "
+"effrayants, qu’ils combattaient ensemble. Elle trouvait aussi beaucoup "
+"d’objets utiles, comme un vieux téléphone portable. L’écran était certes "
+"tout fissuré mais elle pourrait le réparer. Près de la décharge, il n’y "
+"avait pas Internet. Tant pis, elle le capterait ailleurs."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:565
+msgid ""
+"Ada had so much fun tinkering in the junkyard and fixing broken things that "
+"she forgot all about the skateboards and the ice cream."
+msgstr ""
+"Ada prenait un tel plaisir à bricoler dans la décharge et à réparer les "
+"objets cassés, qu’elle en oubliait complètement les skateboards et les "
+"glaces."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:569
+msgid ""
+"Because everyone bought his inventions, Zangemann soon became the richest "
+"person in the whole world. With all his money, he bought a huge golden "
+"computer with a keyboard made of jewels and set it up in the largest room of "
+"his mansion. From there, over the internet, he could control all the little "
+"computers built into his inventions."
+msgstr ""
+"Comme tout le monde achetait ses inventions, Zangemann devint bientôt "
+"l’homme le plus riche du monde. Avec son argent, il fit fabriquer un énorme "
+"ordinateur en or doté d’un clavier en pierres précieuses et l’installa dans "
+"la plus grande pièce de sa villa. De cet ordinateur, il pouvait contrôler "
+"par Internet tous les petits ordinateurs intégrés à ses inventions."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:570
+msgid ""
+"All he had to do was press the proper key on the golden computer, and "
+"immediately all the ice-cream machines in town would dispense only vanilla "
+"ice cream. If Zangemann wanted people to eat chocolate ice cream, he pressed "
+"the key for chocolate ice cream. If he gave the order for lemon ice cream, "
+"the machines made only lemon ice cream. Zangemann loved his inventions and "
+"was always thrilled at how amazingly well his machines worked. Sometimes "
+"people were disappointed when their favorite flavor wasn’t available, but "
+"what could they do? After all, there was ice cream on every street corner."
+msgstr ""
+"Il lui suffisait simplement de presser les bonnes touches de son ordinateur "
+"en or et aussitôt toutes les machines à glace de la ville ne distribuaient "
+"plus que de la glace à la vanille. Si Zangemann voulait que les gens mangent "
+"de la glace au chocolat, il appuyait sur la combinaison de touches "
+"correspondantes. S’il donnait l’ordre de vendre des glaces au citron, alors "
+"les machines ne produisaient plus que des glaces au citron. Zangemann "
+"adorait ses inventions et il était à chaque fois émerveillé de constater à "
+"quel point ses machines fonctionnaient magnifiquement bien. Parfois, les "
+"gens étaient déçus qu’il n’y ait pas leur parfum préféré mais que pouvaient-"
+"ils y faire ? Au moins, il y avait des glaces à chaque coin de rue."
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:575
+msgid ""
+"A white power strip attached to a wall socket. The power strip has 3 sockets "
+"and a green switch. One of the sockets is attached to a plug with a gray "
+"cable."
+msgstr ""
+"Une multiprise blanche fixée à une prise murale. La multiprise comporte "
+"trois prises et un bouton d'alimentation vert. Une fiche avec un câble gris "
+"est fixée à l'une des prises."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:579
+msgid ""
+"Zangemann had a lot of fun pressing the sparkling keys and watching people "
+"eat ice cream. He spent many hours every day in front of his golden computer "
+"doing this. Again and again, he looked down on the city through a long "
+"telescope, observing how reliably his inventions carried out his commands."
+msgstr ""
+"Cela amusait beaucoup Zangemann d’appuyer sur les touches scintillantes et "
+"de voir les gens manger ses glaces. C’est ainsi qu’il passait tous les jours "
+"de nombreuses heures devant son ordinateur en or. Il ne se lassait pas de "
+"regarder la ville d’en haut à travers un long télescope et de constater la "
+"fiabilité avec laquelle ses inventions exécutaient ses ordres."
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:584
+msgid ""
+"Zangeman sitting in front of his golden computer on a golden armchair with a "
+"very tall red padded backrest at whose top is the “Z” of the Zangemann logo. "
+"He is wearing a purple turtle-neck sweater and light blue trousers. The "
+"computer has four ornate monitors of various sizes, each of which has the "
+"logo on the back. It is integrated into a costly wooden desk from which a "
+"gray cable flows that is connected to the power strip of the previous page."
+msgstr ""
+"Ce dessin représente Zangemann à son bureau qui est très différent de "
+"l'établi d'Ada : couvert de boutons et de manettes intégrées et aussi de "
+"moulures luxueuses à l'ancienne. Sa chaise est un immense trône doré avec un "
+"dossier très haut, tapissé de velours rouge capitonné et surmontée du logo "
+"Z. Son ordinateur est doré aussi et doté de quatre grands écrans encadrés "
+"d'or comme des tableaux au musée, avec chacun un logo Z. Zangemann pianote "
+"sur son clavier doré, il a l'air concentré et très sérieux, pas vraiment "
+"amusé, il fait la tête. Il projette une grande ombre sur le mur."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:589
+msgid ""
+"When he wasn’t sitting at his golden computer, Zangemann was building his "
+"little computers into new devices and then selling those. He built washing "
+"machines that sent a message to your cell phone when your laundry was done. "
+"He made vacuums that played happy music instead of droning loudly. He "
+"invented light bulbs that turned on and off at the snap of a finger and cars "
+"that told you where the nearest grocery store was."
+msgstr ""
+"Quand il n’était pas assis devant son ordinateur en or, Zangemann installait "
+"ses petits ordinateurs dans de nouveaux appareils pour les vendre ensuite. "
+"Il construisit des machines à laver qui envoyaient un message sur le "
+"téléphone portable quand la lessive était terminée, des aspirateurs qui "
+"diffusaient une joyeuse musique au lieu de vrombir bruyamment, des lampes "
+"qui s’allumaient et s’éteignaient d’un claquement de doigts et des voitures "
+"qui indiquaient au conducteur où se trouvait le supermarché le plus proche."
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:594
+msgid ""
+"City landscape with houses and shops, with a central street turning right. "
+"On the road there are a car and a cyclist. There are various children and "
+"adults walking or going on skateboards, some eating ice cream, while others "
+"are buying ice cream from the original Zangemann machines."
+msgstr ""
+"Ce dessin représente une rue de la ville, en plan général. Il y a des "
+"immeubles, des boutiques. Sur la chaussée circulent une voiture rouge et une "
+"jeune femme en bleu à vélo. Sur les trottoirs, on voit des enfants. Certains "
+"achètent des glaces sur des machines Zangemann qui sont à chaque coin de "
+"rue, d'autres marchent en dégustant une de ces glaces, trois roulent sur un "
+"skateboard Zangemann en émettant des étincelles lumineuses et des sons."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:596
+msgid ""
+"Soon, almost every appliance in the world had a Zangemann computer built "
+"into it. Not all of his inventions seemed necessary at first, but people "
+"bought everything he made. That’s just the way it was. Everyone wanted the "
+"devices made by Zangemann, the greatest inventor in the world."
+msgstr ""
+"Bientôt presque tous les appareils furent contrôlés par un programme "
+"informatique de Zangemann. Certes toutes les inventions n’étaient pas "
+"toujours aussi pratiques qu’elles en avaient l’air, mais les gens achetaient "
+"tout ce qui venait de lui. C’était comme ça. Tout le monde voulait posséder "
+"les appareils de Zangemann, le plus grand inventeur du monde."
+
+#. (itstool) path: info/title
+#. Intended as 'on a day', not 'a single day'. This is supposed to be
+#. equal to the beginning of the first sentence of this chapter.
+#: Ada_Zangemann.dbk:601
+msgid "One day..."
+msgstr "Un jour..."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:604
+msgid ""
+"One day Zangemann thought, “Today I want to see my inventions up close.” He "
+"put away his big telescope, then climbed down the many stairs of his mansion "
+"and ventured out into the city, full of anticipation at the thought of "
+"enjoying his cool devices."
+msgstr ""
+"Un beau jour Zangemann se dit « aujourd’hui, je vais aller observer mes "
+"inventions de plus près ! ». Il mit son imposant téléscope de côté et "
+"descendit plein d’entrain les nombreuses marches pour se rendre en ville. Il "
+"se réjouissait à la perspective de voir ses super inventions en action."
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:609
+#, fuzzy
+msgid ""
+"Zangemann descends the stairs from his mansion on the hill towards the city. "
+"Zangemann’s house stands on a hill. The front is blue with large windows; "
+"the towers are dark blue, and from a window starts a yellow slide that ends "
+"in a large swimming pool with two palm trees. The roofs are red, and above "
+"the highest tower an antenna is installed. On the sides of the stairs to get "
+"off the hill there are evergreen trees."
+msgstr ""
+"Ce dessin représente Zangemann descendant un très long escalier qui serpente "
+"sur la colline au sommet de laquelle trône sa villa avec terrasse et "
+"toboggan, palmiers et antennes. Il porte toujours le même pull à col roulé "
+"gris, un jean bleu et des chaussures marron. Il a une démarche décidée, "
+"avançant en balançant ses bras aux poings fermés, et un sourire serein aux "
+"lèvres, les yeux clos. Il part en promenade. À son poignet, une grosse "
+"montre numérique."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:613
+msgid ""
+"“Maybe a little trip might even give me a few new ideas. If I’m completely "
+"honest, my last inventions weren’t quite as useful as the first ones... ,” "
+"Zangemann pondered. “But my ice-cream machines are and will remain second to "
+"none,” he thought immediately afterward, and not without pride, as he passed "
+"a group of people all eating coconut ice cream, the flavor of the day."
+msgstr ""
+"« Peut-être même que cette petite excursion me donnera quelques nouvelles "
+"idées. Car, pour être tout à fait honnête, mes dernières inventions "
+"n’étaient pas aussi pratiques que les premières... » pensait Zangemann. "
+"« Mais mes machines à glace restent indétrônables », se dit-il non sans "
+"fierté en passant juste après devant un groupe qui dégustait une glace à la "
+"noix de coco – le parfum du jour."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:615
+msgid ""
+"He was completely absorbed in his thoughts when suddenly — BAM! — something "
+"crashed into his shin."
+msgstr ""
+"Il était complètement plongé dans ses pensées lorsque soudain – BOUM ! – "
+"quelque chose percuta son tibia à vive allure."
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:620
+#, fuzzy
+msgid ""
+"Zangemann after the incident with the child. Zangemann screams from pain "
+"while holding up one of his legs with both hands at the shin. The child has "
+"brown hair that is blown back by Zangemann’s scream; he is wearing a light "
+"blue hooded sweatshirt and dark green pants. He holds a red Zangemann "
+"electric skateboard."
+msgstr ""
+"Ce dessin représente Zangemann furieux qui se tient le tibia à deux mains et "
+"crie sur un petit garçon. Zangemann a des étoiles autour du tibia, qui doit "
+"être très douloureux une explosion jaune sort de sa bouche. Le petit garçon "
+"est descendu de son skate au logo Z qu'il porte sous le bras, ses cheveux "
+"bruns sont soufflés en arrière par les cris de Zangemann."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:624
+msgid ""
+"Zangemann yelped and looked around for the cause. A startled child stood in "
+"front of him, holding an original Zangemann skateboard under his arm. "
+"“Sorry, I didn’t mean to do that,” the child stammered, but Zangemann wasn’t "
+"listening."
+msgstr ""
+"Zangemann hurla et regarda tout autour. Devant lui se tenait un enfant, "
+"terriblement effrayé, avec un skateboard Zangemann sous le bras. « Excusez-"
+"moi, je ne voulais pas », bégaya-t-il, mais Zangemann ne l’écouta pas et "
+"s’éloigna, furieux. Une musique retentit soudain bruyamment."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:625
+msgid ""
+"An angry Zangemann limped away. Suddenly, he heard loud music. He had never "
+"before heard something so horrible. He looked around and saw that the music "
+"was coming from a loudspeaker he himself had constructed. A child across the "
+"street was holding it. The child seemed to like the music, but it gave "
+"Zangemann a terrible headache, and his mood worsened. This was not how he "
+"had imagined his walk!"
+msgstr ""
+"Il n’avait jamais entendu quelque chose d’aussi horrible. Il regarda autour "
+"de lui et vit que la musique provenait d’une enceinte qu’il avait lui-même "
+"conçue et qu’un enfant, de l’autre côté de la rue, tenait dans ses mains. La "
+"musique avait l’air de plaire à l’enfant mais elle donna de terribles maux "
+"de tête à Zangemann dont l’humeur se dégrada encore un peu plus. Ce n’est "
+"pas comme ça qu’il s’était imaginé sa promenade !"
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:630
+#, fuzzy
+msgid ""
+"Advertisements for Zangemann ice cream (sandwich board), a Zangemann "
+"electric skateboard, and a Zangemann washing machine. The math teacher, Ms. "
+"Gernet, is passing in front of the billboards. Ms. Gernet is an old lady "
+"with short white hair. She is dressed in a light green t-shirt and a pea "
+"green sweater, dark brown pants, and light green heeled shoes. She has a "
+"fuchsia shoulder bag, worn behind her. She pushes a small shopping cart in "
+"which there is a small brown dog with a collar and tag."
+msgstr ""
+"Ce dessin représente une vieille dame qui marche sur le trottoir en poussant "
+"un petit chariot dans lequel elle a mis son chien marron. Elle passe devant "
+"des publicités colorées que le chien observe. Ce sont deux grands panneaux "
+"où l'on voit Zangemann qui présente fièrement son skateboard sur l'un, et "
+"vante une machine à laver sur l'autre. Toujours avec son logo. Il y a aussi "
+"sur la gauche un chevalet publicitaire pour une machine à glace sur lequel "
+"on voit un cornet de glace à la framboise et le logo Z."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:635
+msgid ""
+"Zangemann was so furious with the two children. How dare they use his "
+"inventions this way? That night, he couldn’t sleep, so he sat down at his "
+"golden computer. From there, he gave all the little computers in the "
+"skateboards a command that they were no longer allowed to go on sidewalks. "
+"He ordered the small computers in the speakers to play music only at a low "
+"volume, except for his favorite music, which he immediately turned on to get "
+"into a better mood."
+msgstr ""
+"Zangemann était fou de rage contre les enfants. Comment pouvaient-ils "
+"utiliser ses inventions aussi mal ? Il n’arrivait pas à trouver le sommeil "
+"et en pleine nuit, il s’assit devant son ordinateur en or. De là, il donna "
+"l’ordre à tous les microprocesseurs intégrés aux skateboards de ne plus "
+"permettre de rouler sur les trottoirs. Aux microprocesseurs dans les "
+"enceintes, il ordonna de ne jouer que de la musique à un niveau sonore "
+"raisonnable – à l’exception de sa musique préférée qu’il écouta "
+"immédiatement pour améliorer son humeur."
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:640
+#, fuzzy
+msgid ""
+"The city in the evening, with houses, a church, and two streetlights. Images/"
+"Illustrations emerge from the dwellings illustrating Zangemann’s inventions "
+"bought by the inhabitants: a washing machine, a yellow vacuum cleaner, and a "
+"red car, all with Internet connection signals."
+msgstr ""
+"Ce dessin représente une vue générale nocturne de la ville dominée par la "
+"colline au sommet de laquelle est posée la villa de Zangemann, sous un ciel "
+"étoilé avec un croissant de lune. L'antenne de la villa émet des ondes "
+"jaunes. En contrebas, des petites bulles colorées montrent que dans les "
+"immeubles, les maisons et les rues de la ville, les objets Zangemann (une "
+"machine à laver, une voiture, un aspirateur, des ampoules électriques, un "
+"skate, une machine à glace, et même des toilettes !) reçoivent des ondes, et "
+"échangent des informations à distance avec l'antenne de la villa. La "
+"silhouette de la villa ressemble un peu à la tête de Zangemann, avec son nez "
+"pointu et son menton."
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:648
+msgid ""
+"Continuation of the previous picture, where in the background there is the "
+"hill with Zangemann’s house from whose antenna come the signals to control "
+"the various devices. In emerging images/illustrations there are: a red "
+"electric skateboard, a light bulb, an ice cream machine, and a toilet, all "
+"of which are receiving commands from Zangemann."
+msgstr ""
+
+#. (itstool) path: info/title
+#: Ada_Zangemann.dbk:654
+msgid "Skateboards no longer work"
+msgstr "Les skateboards ne fonctionnent plus"
+
+#. (itstool) path: simplesect/para@dropcapfileref
+#. (itstool) comment: simplesect/para@dropcapfileref
+#. File for the capital image, depending on the capital letter and the
+#. required color. Can be postponed to the publishing process. priority:70
+#: Ada_Zangemann.dbk:658
+msgid "images/capitals/T-olive.png"
+msgstr ""
+
+#. (itstool) path: simplesect/para
+#. (itstool) id: Ada_Zangemann.dbk#para-p18-1
+#: Ada_Zangemann.dbk:658
+msgid ""
+"<phrase condition=\"capitals-text\">The</phrase><phrase condition=\"capitals-"
+"img\">he</phrase> next day, there was a big commotion at Ada’s school. On "
+"the way to school, the kids’ skateboards had stopped working. The wheels "
+"simply stood still. And the children could no longer turn up the volume on "
+"their speakers. What was going on?"
+msgstr ""
+"<phrase condition=\"capitals-text\">Le</phrase><phrase condition=\"capitals-"
+"img\">e</phrase> lendemain, à l’école, régnait une grande agitation. Sur le "
+"chemin de l’école les skateboards avaient cessé de fonctionner. Les roues "
+"refusaient tout simplement de bouger. Et ensuite les enceintes. Les enfants "
+"ne pouvaient plus monter le volume. Mais que se passait-t-il donc ?"
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:663
+#, fuzzy
+msgid ""
+"Five kids from the school who can’t make skateboards work. Two girls wear "
+"helmets, respectively blue and red. A little girl with brown hair tied in "
+"two tails with yellow rubber bands is kneeling. She is trying to understand "
+"why the skateboard of her friend with the red helmet does not work. Four "
+"children have backpacks on their shoulders, while the little girl with the "
+"red helmet left hers leaning on a bench on which there are a yellow apple "
+"and a light blue bottle with a white flower on it."
+msgstr ""
+"Ce dessin représente un groupe de cinq enfants, trois filles et deux "
+"garçons, tenant des skateboards au logo Z qui ne fonctionnent plus. Un "
+"garçon brun perplexe examine son skate en le tenant à bout de bras, et une "
+"fille brune avec un casque lui parle, tenant son skate Z debout contre elle. "
+"Une fille brune à genoux essaie de manipuler le skate d'une autre fille "
+"blonde, qui est debout dessus et porte un casque rouge, attendant qu'il "
+"démarre. Un garçon roux les observe en se touchant le menton, il a lui aussi "
+"un skate sous le bras. Sur un banc, la fille qui essaie de démarrer son "
+"skate a laissé son gros cartable rose et prune, une pomme et sa gourde."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:667
+msgid ""
+"Although she didn’t own any of these things, Ada wondered why the "
+"skateboards and the speakers suddenly stopped working. But she didn’t really "
+"have time to think much about it, because she was tinkering again. She put "
+"together a complete bicycle from the parts of three broken bicycles. She "
+"gave the bicycle to her mother as a present so that she wouldn’t have to "
+"spend her money on bus tickets to work. For her brother, Ada built a "
+"loudspeaker so he could fall asleep to nice stories in the evenings when "
+"their mother was still at work."
+msgstr ""
+"Même si elle ne possédait aucun de ces objets, Ada s’étonna que les "
+"skateboards et les enceintes cessent brutalement de fonctionner comme avant. "
+"Mais elle n’avait pas beaucoup de temps pour y réfléchir, car elle était de "
+"nouveau en train de bricoler. À partir des pièces détachées de trois vélos "
+"cassés, elle fabriqua un nouveau vélo. Elle l’offrit à sa mère pour qu’elle "
+"puisse se rendre au travail en économisant l’argent du ticket de bus. À son "
+"frère, elle offrit une enceinte afin qu’il puisse écouter une histoire le "
+"soir avant d’aller dormir, quand sa mère n’était pas encore rentrée du "
+"travail."
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:672
+msgid ""
+"Close-up of Ada thoughtful, with a backpack and with one hand on her chin "
+"and the other resting on her side."
+msgstr ""
+"Ce dessin représente un gros plan sur Ada, elle se touche le menton avec un "
+"doigt, le dos de l'autre main posé sur la hanche, elle lève les sourcils, "
+"elle a une expression perplexe. Ada est une petite fille brune frisée, sa "
+"peau est matte, elle a une queue de cheval. Elle porte un sweat bleu à "
+"capuche et un haut jaune et blanc ainsi que son cartable sur le dos."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:675
+msgid ""
+"After a few days, the initial shock at Ada’s school was forgotten. The "
+"skateboards still didn’t go on the sidewalk, but apart from that, they still "
+"worked. And so now the children rode in circles around the playground and "
+"listened to soft music. Only a strange, pompous marching music continued to "
+"play at an unchanged volume, which the children found rather puzzling."
+msgstr ""
+"En quelques jours, à l’école d’Ada, on oublia la frayeur du début. Les "
+"skateboards ne roulaient certes plus sur les trottoirs mais à part ça, ils "
+"fonctionnaient toujours. Les enfants tournaient en rond dans la cour et "
+"écoutaient de la musique tout doucement. Seule une musique militaire, "
+"pompeuse et bizarre, retentissait avec le même volume sonore qu’avant. "
+"Plutôt énigmatique."
+
+#. (itstool) path: info/title
+#: Ada_Zangemann.dbk:680
+msgid "Ada and software"
+msgstr "Ada et le logiciel"
+
+#. (itstool) path: simplesect/para@dropcapfileref
+#. (itstool) comment: simplesect/para@dropcapfileref
+#. File for the capital image, depending on the capital letter and the
+#. required color. Can be postponed to the publishing process. priority:70
+#: Ada_Zangemann.dbk:684
+msgid "images/capitals/A-fucsia.png"
+msgstr ""
+
+#. (itstool) path: simplesect/para
+#. (itstool) id: Ada_Zangemann.dbk#para-p20-1
+#: Ada_Zangemann.dbk:684
+msgid ""
+"<phrase condition=\"capitals-text\">Ada</phrase><phrase condition=\"capitals-"
+"img\">da</phrase> loved Wednesdays. Every Wednesday, her mother and Alan "
+"would pick her up from school, and they would all go to the library "
+"together. Ada was always drawn to the technology section. There were books "
+"with blueprints, instructions for experiments, and explanations of how "
+"different devices worked. In the library, Ada could also go online with her "
+"cell phone. She quickly realized that there was also much to discover on the "
+"internet. There, many people shared their ideas and repair tips to help "
+"others."
+msgstr ""
+"<phrase condition=\"capitals-text\">Le</phrase><phrase condition=\"capitals-"
+"img\">e</phrase> jour préféré d’Ada était le mercredi. Tous les mercredis, "
+"sa mère venait la chercher à l’école avec Alan et ils allaient ensemble à la "
+"bibliothèque. Ada filait dans le coin consacré aux ouvrages techniques. On y "
+"trouvait des livres avec des schémas de construction, des consignes pour "
+"effectuer des expériences, et des explications sur le fonctionnement de "
+"divers appareils. Dans la bibliothèque, Ada pouvait aussi accéder à Internet "
+"sur son téléphone portable. Elle se rendit vite compte qu’on pouvait y "
+"trouver tout un tas de choses. Sur Internet, beaucoup de gens partageaient "
+"leurs idées et leurs astuces de réparation pour aider les autres."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:685
+msgid ""
+"On one of those afternoons, Ada learned two new words: hardware and "
+"software. Hardware was a word for something Ada already knew: the electronic "
+"devices she tinkered with after school, or those devices she could hold in "
+"her hands and try to fix or make into something else. What was completely "
+"new to Ada was the word software. She soon learned that it meant "
+"instructions that ran on a computer to control other devices or computers. "
+"Some books called those instructions programs or code. With such a computer "
+"program, one could, for example, tell a loudspeaker which song to play and "
+"how loud."
+msgstr ""
+"Cet après-midi-là, Ada apprit deux nouveaux mots : matériel et logiciel. "
+"Matériel désignait quelque chose qu’en fait, Ada connaissait déjà : les "
+"appareils électroniques sur lesquels elle bricolait. Ces appareils, elle "
+"pouvait les tenir dans sa main et les traficoter. Mais le mot logiciel, "
+"était tout à fait nouveau pour Ada. Elle comprit vite qu’il désignait les "
+"consignes données aux appareils ou aux ordinateurs. Dans certains livres, on "
+"appelait ces consignes des programmes ou du code. Avec un programme "
+"informatique, on pouvait par exemple dire aux enceintes quelle chanson elles "
+"devaient diffuser et à quel niveau sonore."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:686
+msgid ""
+"The best thing about Ada’s new discovery was realizing that she could tinker "
+"with software just as she could with hardware. Hardware is built with tools "
+"— hammers, drills, and screws. Software is built simply by writing down the "
+"commands for the hardware, one after the other. There was a separate "
+"language for this — the programming language. With software, Ada could make "
+"her inventions even more useful. She really wanted to learn the programming "
+"language!"
+msgstr ""
+"Le plus génial dans la nouvelle découverte d’Ada était qu’on pouvait "
+"bricoler le logiciel de la même manière que le matériel. On pouvait bricoler "
+"les objets avec un marteau, une perceuse ou des vis. On construisait des "
+"logiciels en inscrivant les ordres donnés au matériel les uns à la suite des "
+"autres. Il existait même une langue pour ça : le langage de programmation. "
+"Avec les logiciels, Ada pourrait rendre ses inventions encore plus "
+"pratiques. Il fallait absolument qu’elle apprenne le langage de "
+"programmation."
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:693
+#, fuzzy
+msgid ""
+"Computer screen from which the elements of the programming language "
+"symbolically emerge: “while num &gt; 0“, “init“, “sx=42“, “for“, “v**3“. Ada "
+"is typing on a white keyboard with a blue cable, while her other hand enters "
+"the screen to change the program (“print(msg)”, “a+b+c+d=e”, “if”, “break”, "
+"“continue”, “exit()”). Next to the keyboard there are a pencil and an eraser."
+msgstr ""
+"Ce dessin représente Ada en train de programmer, d'une manière symbolique. "
+"C'est une vue subjective des bras d'Ada qui utilise son ordinateur. Au "
+"centre de l'image il y a un grand écran gris qui affiche une fenêtre avec du "
+"code dans un coin, et les briques d'un programme (\"Print(msg)\", "
+"\"a+b+c+d+e\", \"exit()\", \"if\", \"continue…\"). Au dessus de l'écran on "
+"voit que le schéma du programme se prolonge, et que l'ensemble (schéma et "
+"écran) forme un jeu de billes, une machine de Rube Goldberg. Les billes qui "
+"sont stockées dans un réservoir en forme d'entonnoir s'écoulent le long de "
+"tuyaux, d'escaliers de roues et d'aiguillages qui représentent chaque étape "
+"du programme. La main droite d'Ada repose sur le clavier, à côté d'un crayon "
+"et d'une gomme, sa main gauche plonge dans l'écran, traversant sa surface "
+"comme si elle plongeait dans l'eau, pour saisir un élément du programme et "
+"le déplacer."
+
+#. (itstool) path: info/title
+#: Ada_Zangemann.dbk:699
+msgid "Programming"
+msgstr "Programmation"
+
+#. (itstool) path: simplesect/para@dropcapfileref
+#. (itstool) comment: simplesect/para@dropcapfileref
+#. File for the capital image, depending on the capital letter and the
+#. required color. Can be postponed to the publishing process. priority:70
+#: Ada_Zangemann.dbk:703
+msgid "images/capitals/O-lightcyan.png"
+msgstr ""
+
+#. (itstool) path: simplesect/para
+#. (itstool) id: Ada_Zangemann.dbk#para-p22-1
+#: Ada_Zangemann.dbk:703
+msgid ""
+"<phrase condition=\"capitals-text\">Over</phrase><phrase "
+"condition=\"capitals-img\">ver</phrase> the next few weeks, Ada spent her "
+"afternoons in the library. She found books and websites that explained how "
+"programming languages and code worked. For Ada, it felt a bit like learning "
+"a secret language, or like studying vocabulary in school. Ada ate it all up. "
+"She expected her first program to do something simple: “Make this lamp "
+"blink!”"
+msgstr ""
+"<phrase condition=\"capitals-text\">Les</phrase><phrase condition=\"capitals-"
+"img\">es</phrase> semaines suivantes, Ada passa tout son temps libre à la "
+"bibliothèque. Elle trouva des livres et des sites Internet qui expliquaient "
+"comment fonctionnaient le langage de programmation et le code. Ada avait un "
+"peu l’impression que c’était comme si elle apprenait un langage secret – ou "
+"révisait du vocabulaire à l’école. Ada fit des recherches. Son premier "
+"programme devait produire quelque chose de simple : « Fais clignoter cette "
+"lampe ! »"
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:704
+msgid ""
+"Of course, she wanted to try her program out right away to see if it really "
+"worked. At the junkyard, she connected her cell phone to a small LED lamp. "
+"Then she typed the lines of code into her cell phone."
+msgstr ""
+"Bien sûr, elle voulut aussitôt essayer pour voir si cela fonctionnait "
+"vraiment ! Dans la décharge, elle connecta son téléphone à une petite lampe "
+"LED. Ensuite, elle rentra dans son téléphone les lignes de programme qu’elle "
+"avait notées..."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:705
+msgid ""
+"At first, nothing happened. Ada wondered where the error could be. She made "
+"a few small changes and tried again and .... “Yeesss!” The little light "
+"began to flash. On, off, on, off. Ada looked at the LED in amazement. She "
+"had written her first program!"
+msgstr ""
+"Il ne se passa rien. Ada réfléchit à l’endroit où l’erreur pouvait se "
+"trouver. Elle entreprit quelques modifications, tenta à nouveau et "
+"« Ouiiii ! ». La petite lampe commença à clignoter. Jour, nuit, jour, nuit. "
+"Ada regarda avec émerveillement la LED. Elle avait créé son tout premier "
+"programme !"
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:706
+msgid ""
+"Ada was totally thrilled. She imagined all the great things she could do. If "
+"she just entered the right code, she could make her inventions do exactly "
+"what she wanted. It was not so easy, but after a few weeks, Ada wrote a "
+"truly useful program: one that would make Alan’s speakers automatically turn "
+"off half an hour after he had fallen asleep."
+msgstr ""
+"Ada était totalement aux anges. Elle se mit à imaginer les choses géniales "
+"qu’elle pourrait faire fonctionner avec ça. Si elle entrait le bon code de "
+"programmation, alors ses découvertes feraient exactement ce qu’elle "
+"voudrait. Ce n’était pas si facile, mais au bout de quelques semaines, Ada "
+"avait créé un programme vraiment pratique : l’enceinte d’Alan se "
+"déconnectait désormais automatiquement au bout d’une demi-heure quand il "
+"s’endormait."
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:713
+msgid ""
+"Ada comes to grips with programming. She is typing on a keyboard resting on "
+"a gray mat and connected to a smartphone with a blue cable. The smartphone "
+"is connected with a red wire to an electronic card with a yellow LED lamp. "
+"The smartphone is powered by a transformer connected to a power strip with a "
+"gray wire and plug. On the table there are also: 3 books, of which one is "
+"open; a clipboard and a pencil; pliers; glue; solder; and a disconnected "
+"soldering iron."
+msgstr ""
+"Ce dessin représente Ada à sa table saisissant quelque chose sur un clavier "
+"en souriant avec l'air très heureuse. Le clavier est relié à un téléphone "
+"portable, lui-même relié à un contrôleur électronique avec une led allumée, "
+"et à une multiprise. Il beaucoup de choses sur le bureau : une pile de "
+"livres, dont un est ouvert reposant sur les autres, un bloc notes, un "
+"crayon, un fer à souder, de la soudure, une pince et une pince à épiler, un "
+"multimètre numérique, des composants."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:715
+msgid ""
+"Ada also had an idea for the next program she would write. It was a bigger "
+"deal, a real project. She would probably need the whole summer break for "
+"it... And she could hardly wait!"
+msgstr ""
+"Ada avait déjà une nouvelle idée de programme, quelque chose de plus "
+"important, un vrai projet. Elle aurait probablement besoin de toutes les "
+"vacances d’été pour ça ... et elle trépignait d’impatience !"
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:722
+#, fuzzy
+msgid ""
+"Zangemann looks thoughtfully with his arms crossed out one of the great "
+"windows of his house, into which the sun’s rays are shining."
+msgstr ""
+"Ce dessin représente Zangeman dans un cercle, comme si on l'observait avec "
+"une longue vue. Il est chez lui, derrière sa fenêtre aux montants dorés, sur "
+"laquelle les lumières nocturnes de la ville se reflètent. Zangemann regarde "
+"dehors les bras croisés, en faisant la moue l'air contrarié derrière ses "
+"lunettes, avec le front plissé et les sourcils froncés. Il porte son col "
+"roulé noir, un jean et sa grosse montre à l'écran vert."
+
+#. (itstool) path: info/title
+#: Ada_Zangemann.dbk:728
+msgid "A horrible night"
+msgstr "Une nuit horrible"
+
+#. (itstool) path: simplesect/para@dropcapfileref
+#. (itstool) comment: simplesect/para@dropcapfileref
+#. File for the capital image, depending on the capital letter and the
+#. required color. Can be postponed to the publishing process. priority:70
+#: Ada_Zangemann.dbk:732
+msgid "images/capitals/Z-brown.png"
+msgstr ""
+
+#. (itstool) path: simplesect/para
+#. (itstool) id: Ada_Zangemann.dbk#para-p25-1
+#: Ada_Zangemann.dbk:732
+msgid ""
+"<phrase condition=\"capitals-text\">Zangemann</phrase><phrase "
+"condition=\"capitals-img\">angemann</phrase> had slept horribly every night "
+"since his terrible walk in the city. When he went to bed each night, worries "
+"plagued him. “Oh no, my marvelous inventions. It can’t be that everyone just "
+"plays around with them. All the things that could go wrong! I put so much "
+"thought into everything, down to the last detail.” Zangemann pondered and "
+"pondered and tossed and turned sleeplessly in his bed all night."
+msgstr ""
+"<phrase condition=\"capitals-text\">Zangemann</phrase><phrase "
+"condition=\"capitals-img\">angemann</phrase> dormait terriblement mal depuis "
+"l’horrible promenade. Quand il allait se coucher le soir, de gros soucis "
+"l’angoissaient : « Oh non, mes merveilleuses inventions ! Ce n’est pas "
+"possible que tout le monde s’amuse avec comme ça. On ne sait pas ce qui peut "
+"arriver. J’ai pourtant bien réfléchi à tout, jusque dans le moindre détail. »"
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:733
+msgid ""
+"Waking up one morning with a deeply furrowed brow, he made a decision. He "
+"needed to make a change. Zangemann sat down at his computer and wrote one "
+"program after another. In these programs, he specified exactly what his "
+"inventions were to do and were not to do under any circumstances. The chaos "
+"had to stop!"
+msgstr ""
+"Zangemann cogitait, cogitait, se tournait et retournait toute la nuit dans "
+"son lit sans trouver le sommeil. Quand il se leva un matin, le front creusé "
+"par les soucis, Zangemann prit une décision. Cela ne pouvait pas continuer "
+"comme ça ! Il s’assit devant son ordinateur en or et se mit à écrire un "
+"programme après l’autre. Dans ces programmes, il détermina très précisément "
+"ce que ses inventions devaient faire et ce qui ne devait en aucun cas se "
+"produire. Fini le chaos !"
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:734
+msgid ""
+"Once he was done, he sent all the new programs from his golden computer to "
+"people’s devices. He ordered his speakers to play only his favorite music "
+"whenever he was within earshot. He programmed the ice-cream machines to stop "
+"selling ice cream in the afternoon. After all, he didn’t want his expensive "
+"clothes to get stained by ice cream while he was out for a walk. All day "
+"long he sat at the computer and typed and typed and typed..."
+msgstr ""
+"Lorsqu’il eut terminé, il envoya tous les nouveaux programmes depuis son "
+"ordinateur en or vers les appareils des gens. Zangemann ordonna à ses "
+"enceintes de ne jouer que sa musique préférée lorsqu’il passait à proximité, "
+"et aux machines à glace de ne plus vendre de glaces dans l’après-midi. Son "
+"coûteux pantalon risquait en effet d’être taché lors d’une promenade. Toute "
+"la journée, il resta assis devant l’ordinateur et pianota, pianota, "
+"pianota ..."
+
+#. (itstool) path: info/title
+#: Ada_Zangemann.dbk:739
+msgid "First real project"
+msgstr "Premier vrai projet"
+
+#. (itstool) path: simplesect/para@dropcapfileref
+#. (itstool) comment: simplesect/para@dropcapfileref
+#. File for the capital image, depending on the capital letter and the
+#. required color. Can be postponed to the publishing process. priority:70
+#: Ada_Zangemann.dbk:743
+msgid "images/capitals/S-red2.png"
+msgstr ""
+
+#. (itstool) path: simplesect/para
+#. (itstool) id: Ada_Zangemann.dbk#para-p26-1
+#: Ada_Zangemann.dbk:743
+msgid ""
+"<phrase condition=\"capitals-text\">Summer</phrase><phrase "
+"condition=\"capitals-img\">ummer</phrase> break was already halfway over. "
+"Ada stood in front of her big project and scratched her head. She had built "
+"a skateboard from old parts and then connected a motor to make the wheels "
+"turn. With a motorized skateboard, Ada could zoom to the library or the "
+"junkyard even faster after school. Super practical! But it didn’t work. When "
+"she stood on it and pressed the Go! button, the wheels moved, but way too "
+"fast. Ada fell off the skateboard every time she started. No matter what she "
+"tried, she just couldn’t get it right."
+msgstr ""
+"<phrase condition=\"capitals-text\">Les</phrase><phrase condition=\"capitals-"
+"img\">es</phrase> vacances d’été étaient déjà à moitié terminées. Ada était "
+"face son grand projet et se grattait la tête. À partir de vieilles pièces "
+"détachées, elle avait construit un skateboard et raccordé un moteur qui "
+"faisait tourner les roues. Avec un skateboard motorisé, Ada pourrait foncer "
+"encore plus vite à la bibliothèque ou à la décharge après l’école. Super "
+"pratique ! Mais ça ne fonctionnait pas. Quand elle montait dessus et "
+"appuyait sur le bouton « marche », les roues se mettaient certes en "
+"mouvement, mais beaucoup trop vite. À chaque départ, Ada tombait de la "
+"planche. Elle avait beau essayer, elle n’y arrivait tout simplement pas."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:744
+msgid ""
+"After falling on her bottom for the hundredth time, she went back to the "
+"library. She always found answers to her questions there. And indeed, on the "
+"internet, she came across a program that someone had written for an electric "
+"scooter that also needed to start slowly. Ada downloaded it to her phone."
+msgstr ""
+"Après être tombée sur les fesses pour la centième fois, elle alla à la "
+"bibliothèque. C’est là-bas qu ’elle trouvait toujours des réponses à ses "
+"questions. Et effectivement, sur Internet, elle tomba sur le programme que "
+"quelqu’un avait écrit pour sa trottinette électrique. Elle aussi devait "
+"démarrer lentement. Ada chargea le programme sur son téléphone."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:746
+msgid ""
+"Back at the junkyard, she adapted some lines of code for her skateboard "
+"program. She tweaked a few things and kept tinkering."
+msgstr ""
+"De retour à la décharge, elle recopia quelques lignes du programme pour son "
+"skateboard. Elle adapta deux, trois choses et continua à bricoler."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:747
+msgid ""
+"Several failed attempts later, on the last day of summer break, the time had "
+"finally come. Ada stood on the skateboard and pressed the Go! button, and "
+"the skateboard started moving, slowly at first, then faster. It worked! She "
+"tried to brake. It worked! Ada let out a cry of joy and took a trip to the "
+"park."
+msgstr ""
+"Après plusieurs tentatives ratées, le dernier jour des vacances, Ada monta "
+"encore une fois sur la planche et appuya sur le bouton « marche » : le "
+"skateboard se mit lentement en mouvement. Ensuite, il accéléra. Ça "
+"fonctionnait ! Elle freina. Ça fonctionnait ! Ada poussa un cri de joie et "
+"partit faire un tour au parc."
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:754
+#, fuzzy
+msgid ""
+"Ada racing with her electric skateboard for city sidewalks. Ada’s skateboard "
+"is blue, with gray and pink wheels; the electronic part is placed above the "
+"skateboard (as opposed to Zangemann’s skateboards where the electronic part "
+"is below). Ada is holding in both hands a remote control with a short "
+"antenna to maneuver it. Behind Ada are Marie and Toni who carry their own "
+"skateboards under their arms and look with amazement at Ada, who has shot "
+"past them and in front of them. Marie has dark long hair with two braids "
+"fastened with orange clips, yellow earrings, a fuchsia shirt with white "
+"sleeves with purple horizontal stripes, a white skirt, white and yellow "
+"sneakers, white socks, a white hat with yellow sides, and a light purple "
+"backpack. Marie has a blue artificial leg. Her skateboard is blue with "
+"yellow wheels. Toni has red hair closely trimmed on the sides. He is wearing "
+"a blue sweatshirt, dark green pants, and white shoes. He has a red backpack "
+"with white inserts and shoulder straps. One hand is next to his mouth. His "
+"skateboard is purple with orange wheels. There’s also a father with his son "
+"walking in the opposite direction: the father is dressed in a blue checked "
+"jacket and blue pants and holds a brown briefcase. He is smiling at Ada. His "
+"son has a blue shirt, blue shorts, white shoes, a brown backpack, and a red "
+"and white hat. He holds under his arm a yellow Zangemann skateboard with "
+"light brown wheels, and he grins at Ada. In the background there is a bakery "
+"with large windows through which you can see the bread. It has a green and "
+"white striped awning around the corner and a sign on the sidewalk with the "
+"list of products. Overhead, a large pretzel is displayed. On the road there "
+"is a puddle that reflects the blue of the sky."
+msgstr ""
+"Ce dessin représente une scène de rue. Devant la vitrine d'une boulangerie, "
+"Ada portant un casque sur la tête se faufile entre les passants sur un "
+"skateboard à pleine vitesse. Le skate a l'air bricolé maison avec un boitier "
+"et des fils électriques. Elle le pilote avec une manette sans fil dotée "
+"d'une grande antenne, et elle exulte en doublant un garçon roux et une fille "
+"qui a une casquette et une prothèse de jambe articulée marchent ensemble "
+"avec leurs skates Zangemann désactivés sous le bras. Ils la regardent passer "
+"étonnés. Un petit garçon tient aussi d'une main un skate Zangemann désactivé "
+"et de l'autre son papa, ils regardent passer Ada en souriant."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:759
+msgid ""
+"When Ada rode her skateboard to school on the first day back after summer "
+"break, the other children were amazed. During recess, Ada’s curious "
+"classmates surrounded her."
+msgstr ""
+"Lorsqu’après les vacances, Ada se rendit à l’école avec son skate, les "
+"autres élèves n’en crurent pas leurs yeux. Pendant la grande récré, les "
+"copains et les copines de classe firent un cercle autour d’Ada et lui "
+"demandèrent, curieux :"
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:760
+msgid "“How can you ride your skateboard on the sidewalk?” they asked."
+msgstr "« Comment tu fais pour rouler sur le trottoir avec ton skate ? »"
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:765
+#, fuzzy
+msgid ""
+"Ada stops on her skateboard surrounded by children. Marie is on one end. She "
+"is pointing to Ada’s skateboard and she’s talking. Next to her is Konrad, "
+"with short blond hair, a dark gray helmet, glasses, a green shirt with white "
+"collar and cuffs, light blue pants with white cuffs, and gray shoes with "
+"white soles. He has a red skateboard with orange wheels. Behind Ada there "
+"are 4 other children. On the other end Toni is smiling. He touches his chin "
+"with one hand while with the other he holds a yellow helmet by the laces."
+msgstr ""
+"Ce dessin représente Ada sur son skate télécommandé au milieu d'un groupe de "
+"7 autres garçons et filles. Ada a l'air contente et fière de montrer le "
+"skate qu'elle a fait elle même à ses camarades. De gauche à droite, la fille "
+"avec la casquette et la prothèse de jambe qui tient un skate inactif au logo "
+"Z montre celui d'Ada du doigt en lui parlant avec l'air enthousiaste, un "
+"garçon blond à lunettes rondes portant un casque et tenant son skate au logo "
+"Z verticalement a une expression de surprise, une fille en salopette beige "
+"regarde en souriant les mains dans les poches, une autre avec des couettes "
+"frisées se tient les mains d'admiration. Un garçon sourit, un autre, tient "
+"son skate Z et semble dépité. Le garçon roux frisé se tient le menton avec "
+"l'air pensif et souriant."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:769
+msgid ""
+"Ada thought for a moment, then said, “I don’t think it’s your skateboards "
+"but actually the software in them. It’s probably programmed into the "
+"software that the skateboards aren’t allowed to go on the sidewalk. But that "
+"can be changed!”"
+msgstr ""
+"Ada réfléchit. « Je crois que ça ne vient pas de vos skates mais plutôt du "
+"logiciel qu’il y a dedans. Sans doute que les logiciels ont été programmés "
+"pour que les skates n’aient pas le droit de rouler sur le trottoir. Mais on "
+"peut changer ça ! »"
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:770
+msgid ""
+"That evening, Ada tested out her theory on her classmate Toni’s skateboard. "
+"She worked secretly through most of the night, and the next day, Toni could "
+"ride on the sidewalk again. Unfortunately, his skateboard could no longer "
+"make the sounds that his parents had bought from Zangemann. Instead, every "
+"10 minutes it made a strange noise that sounded like a drawn-out burp. Ada "
+"knew that little errors like that could pop up in programs all the time. But "
+"Toni’s burping skateboard was really quite funny."
+msgstr ""
+"Le soir même, Ada fit tout de suite un essai sur le skate de son camarade "
+"Toni. Elle travailla en cachette jusque tard dans la nuit et le lendemain, "
+"Toni pouvait de nouveau rouler sur le trottoir. En revanche, son skate ne "
+"pouvait désormais hélas plus émettre les sons que ses parents avaient "
+"achetés à Zangemann. À la place, un drôle de bruit retentissait toutes les "
+"dix minutes qui ressemblait à un long rot. Ada savait que ce genre d’erreurs "
+"pouvait toujours se produire. Mais le skate rotant de Toni était en fait "
+"plutôt rigolo."
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:775
+msgid ""
+"Hopscotch diagram drawn with chalk on asphalt. In a row, within squares, the "
+"numbers 1, 2; 3 and 4 next to each other; 5, 6; and 7 and 8 next to each "
+"other. The number 9 is not inside a square but inside a wider semicircle "
+"beyond the squares of numbers 7 and 8. Between the number 1 and the number 2 "
+"there is a blue bottle with white polka dots. A yellow Zangemann skateboard "
+"with orange wheels on the side of the diagram actually hides the number 1."
+msgstr ""
+"Ce dessin représente un skate jaune décoré d'un cœur aux ailes de chauve "
+"souris de marque Z sur le sol devant une marelle dessinée à la craie blanche "
+"sur fond rose. Il y a aussi sur la marelle une gourde bleue à pois blancs."
+
+#. (itstool) path: info/title
+#: Ada_Zangemann.dbk:781
+msgid "Hacking for freedom"
+msgstr "Hacking pour la liberté"
+
+#. (itstool) path: simplesect/para@dropcapfileref
+#. (itstool) comment: simplesect/para@dropcapfileref
+#. File for the capital image, depending on the capital letter and the
+#. required color. Can be postponed to the publishing process. priority:70
+#: Ada_Zangemann.dbk:785
+msgid "images/capitals/M-yellow.png"
+msgstr ""
+
+#. (itstool) path: simplesect/para
+#. (itstool) id: Ada_Zangemann.dbk#para-p30-1
+#: Ada_Zangemann.dbk:785
+msgid ""
+"<phrase condition=\"capitals-text\">More</phrase><phrase "
+"condition=\"capitals-img\">ore</phrase> and more children started to visit "
+"Ada at the junkyard after school, and she helped them rewrite the programs "
+"in their skateboards. Some of her classmates were very excited about this "
+"new discovery. It was unbelievable what you could do with software code! "
+"They wanted to learn everything Ada knew about programming languages, and "
+"soon they were riding their skateboards again, wherever they wanted to."
+msgstr ""
+"<phrase condition=\"capitals-text\">Maintenant</phrase><phrase "
+"condition=\"capitals-img\">aintenant</phrase>, les enfants étaient de plus "
+"en plus nombreux à venir voir Ada à la décharge en sortant des cours. Elle "
+"les aidait à modifier les programmes de leur skate. Ils étaient plusieurs à "
+"s’enthousiasmer de cette nouvelle découverte. Incroyable, tout ce qu’on "
+"pouvait faire avec un programme informatique ! Ils voulaient qu’Ada leur "
+"apprenne tout sur le langage de programmation. Et très vite, ils purent de "
+"nouveau rouler où ils voulaient avec leur skate."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:787
+msgid ""
+"But that wasn’t all. With the software, they could give their skateboards "
+"new, cool features. Marie attached colorful LED lights to her board that "
+"glowed different colors depending on the speed. Konrad built old propellers "
+"onto his skateboard for extra speed."
+msgstr ""
+"Mais ça n’était pas tout ! Grâce au logiciel, ils pouvaient ajouter de "
+"nouvelles fonctionnalités très cools à leurs skates. Marie installa sur sa "
+"planche des ampoules à LED qui changeaient de couleur selon la vitesse. Et "
+"Konrad fixa de vieux propulseurs à son skate pour lui donner plus d’élan."
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:792
+msgid ""
+"A green battery with red and yellow wires, a power strip, glue, a roll of "
+"solder, and two pencils."
+msgstr ""
+"Ce dessin est une frise formée des objets de bricolage électroniques et des "
+"fils. Il y a une multiprise branchée, des cellules de batterie, de la "
+"soudure, des crayons, un flacon blanc, un tournevis de précision, trois LED, "
+"et une pince."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:796
+msgid ""
+"Ada, Toni, Marie, and Konrad spent many afternoons at the junkyard. They "
+"even set up a real workshop where they could fine-tune their programs for "
+"hours, listening all the while to music from the speakers Ada had built for "
+"Alan."
+msgstr ""
+"Ada, Toni, Marie et Konrad passaient de nombreux après-midi à la décharge. "
+"Ils s’étaient même aménagé un véritable atelier où ils perfectionnaient "
+"leurs programmes pendant des heures en écoutant de la musique sur les "
+"enceintes qu’Ada avait fabriquées pour Alan."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:797
+msgid ""
+"“Your brother’s speakers are much louder than ours,” remarked Toni, who was "
+"busy attaching a speedometer to his helmet. “I’m sure that’s also because of "
+"the software,” Marie said."
+msgstr ""
+"« Les enceintes de ton frère sont bien plus puissantes que les nôtres » "
+"remarqua Toni qui était occupé à fixer un indicateur de vitesse sur son "
+"casque. « Cela vient certainement du logiciel » dit Marie."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:798
+msgid ""
+"Together, they changed the software for the speakers too. Then they turned "
+"up the music as loud as possible and danced wildly together."
+msgstr ""
+"Ensemble, ils modifièrent le logiciel pour les enceintes. Puis ils montèrent "
+"le son aussi fort que possible et se mirent à danser ensemble comme des fous."
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:803
+msgid ""
+"A screwdriver with orange and gray handle, red pliers, and three LEDs: "
+"yellow, green, pink."
+msgstr ""
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:811
+#, fuzzy
+msgid ""
+"Laboratory at the junkyard, under the veranda of Ada’s house. Ada is sitting "
+"on a water case with a leg bent under her, using a soldering iron. Konrad is "
+"standing next to her and dismounting a speaker. Marie is sitting on two "
+"tires with an arm resting on a table and her upside-down skateboard from "
+"which wires come out. She is talking with Alan, who is standing with his "
+"arms resting on the same table. On the table there are also: pliers, two "
+"wrenches, a spool of solder, a can of blue paint (a bit of paint has dried "
+"on the table), and a pitcher and two glasses containing a pink drink. Toni "
+"is testing his skateboard with added yellow wings and a fan. It burps."
+msgstr ""
+"Ce dessin est une vue générale en deux volets : à gauche, les enfants "
+"bricolent leurs objets sous un appentis adossé à la cabane d'Ada dans la "
+"décharge. Ils se sont fait des établis avec des planches, des bidons, des "
+"tréteaux. Ada fait une soudure à côté du petit garçon blond à lunettes qui "
+"visse quelque chose dans un boîtier. La fille qui a une casquette et une "
+"prothèse de jambe a démonté le boîtier de son skate Z et discute avec le "
+"petit frère d'Ada. Le garçon roux frisé roule sur un skate qu'il a décoré "
+"avec de grandes ailes dorées et qu'il pilote avec une télécommande. Il lui a "
+"ajouté un boîtier et un haut-parleur qui émet des rots. À droite, les mêmes "
+"enfants ont tous en train de danser devant un haut-parleur, avec la maman "
+"d'Ada. Le petit garçon roux s'amuse à sauter sur des pneus de la décharge. "
+"Il y a aussi deux souris qui dansent et le chien gris sans collier qui "
+"semble siffler une note de musique."
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:819
+msgid ""
+"Marie and Ada’s mom are dancing, facing each other. Alan, Ada, and Konrad "
+"are dancing in a circle. On the right there is a speaker playing, resting on "
+"an oil drum. Near the speaker there are two dancing mice. Toni is jumping "
+"through the tires. Ada’s dog is howling, and from his mouth come two "
+"distorted musical notes."
+msgstr ""
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:827
+msgid ""
+"Hands holding wonderful ice cream cones: blue ice cream with a chocolate "
+"heart on top with a yellow heart on its center, and whipped cream on top of "
+"the chocolate; green ice cream with colored stars with a cucumber stuck on a "
+"stick; pink fish-shaped ice cream; pyramid-shaped ice cream with candies, "
+"and chocolate syrup, and a cherry on top; rainbow ice cream with a yellow "
+"umbrella; blue ghost-shaped ice cream with candies on it."
+msgstr ""
+
+#. (itstool) path: simplesect/para@dropcapfileref
+#. (itstool) comment: simplesect/para@dropcapfileref
+#. File for the capital image, depending on the capital letter and the
+#. required color. Can be postponed to the publishing process. priority:70
+#: Ada_Zangemann.dbk:838
+msgid "images/capitals/E-pink.png"
+msgstr ""
+
+#. (itstool) path: simplesect/para
+#. (itstool) id: Ada_Zangemann.dbk#para-p35-1
+#: Ada_Zangemann.dbk:838
+msgid ""
+"<phrase condition=\"capitals-text\">Every</phrase><phrase "
+"condition=\"capitals-img\">very</phrase> day, Ada and her friends made plans "
+"together for the afternoon. From a broken ice-cream machine, they built a "
+"new one that could make ice cream in every imaginable shape and color. They "
+"ate square ice cream, heart-shaped ice cream, and even pyramid-shaped ice "
+"cream, as well as strawberry, raspberry, and rainbow ice cream, all with "
+"sprinkles and hot fudge — much better than the varieties from the Zangemann "
+"machines."
+msgstr ""
+"<phrase condition=\"capitals-text\">Tous</phrase><phrase "
+"condition=\"capitals-img\">ous</phrase> les jours, Ada et ses amis "
+"élaboraient des projets après l’école. À partir d’une machine à glace "
+"cassée, ils en construisirent une nouvelle, capable de produire des glaces "
+"de toutes les formes et de toutes les couleurs possibles et imaginables. "
+"Dorénavant, ils mangeaient des glaces en forme de cube, de cœur, de "
+"pyramide, des glaces à la fraise, à la framboise, des glaces arc-en-ciel, le "
+"tout parsemé de copeaux et nappé de chocolat. C’était bien meilleur que les "
+"parfums des machines de Zangemann."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:839
+msgid ""
+"Sometimes they could even help adults. Toni reprogrammed his father’s "
+"ironing machine so that it could also iron ties again — Zangemann had "
+"forbidden the machines to do so because he hated ties like the plague. For "
+"the bus driver, they built an automatic watering system out of old hoses and "
+"a computer so that her plants would not die of thirst during summer days. "
+"And they helped the school custodian modify his vacuum so that it "
+"automatically recognized toys and wouldn’t suck them up."
+msgstr ""
+"Parfois, il arrivait même qu’ils aident les adultes qui avaient des "
+"problèmes d’ordinateur. Toni reprogramma le fer à repasser de son père pour "
+"qu’il puisse à nouveau repasser des cravates. Zangemann détestant les "
+"cravates comme la peste, il en avait interdit le repassage à ses appareils. "
+"Pour la conductrice de bus, ils construisirent un système d’irrigation à "
+"partir d’un ordinateur et de tuyaux, pour que ses plantes ne meurent pas de "
+"soif en plein été. Ils aidèrent également l’agent de service de l’école à "
+"modifier son aspirateur pour qu’il reconnaisse automatiquement les jouets et "
+"ne les aspire plus."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:840
+#, fuzzy
+msgid ""
+"Some things they built just for fun, like the fart machine they put in their "
+"math teacher’s chair. Whenever Ms. Gernet sat down, the machine played a "
+"little fart sound. The teacher would scold them, but Ada was sure that she "
+"secretly smirked a little every time."
+msgstr ""
+"Parfois, ils construisaient des choses simplement pour s’amuser. Comme par "
+"exemple la machine à pets dans la chaise de Mme Gernet, leur professeure de "
+"maths. À chaque fois qu’elle s’asseyait, un petit pet retentissait. Alors "
+"Madame Gernet rouspétait, mais Ada était persuadée qu’à chaque fois cela "
+"devait aussi la faire rire un peu."
+
+#. (itstool) path: info/title
+#: Ada_Zangemann.dbk:845
+msgid "Zangemann and the President"
+msgstr "Zangemann et le Président"
+
+#. (itstool) path: simplesect/para@dropcapfileref
+#. (itstool) comment: simplesect/para@dropcapfileref
+#. File for the capital image, depending on the capital letter and the
+#. required color. Can be postponed to the publishing process. priority:70
+#: Ada_Zangemann.dbk:849
+msgid "images/capitals/O-green.png"
+msgstr ""
+
+#. (itstool) path: simplesect/para
+#. (itstool) id: Ada_Zangemann.dbk#para-p36-1
+#: Ada_Zangemann.dbk:849
+msgid ""
+"<phrase condition=\"capitals-text\">One</phrase><phrase condition=\"capitals-"
+"img\">ne</phrase> day, Zangemann noticed that some computers no longer "
+"obeyed his programming commands. Shocked and fuming with anger, he called "
+"the president. In a quivering voice, Zangemann yelled, “Someone is rewriting "
+"the programs in my devices. That can’t happen; after all, they are my "
+"inventions. It’s far too dangerous if everyone can do whatever they want "
+"with the computers. You must make a law against this!”"
+msgstr ""
+"<phrase condition=\"capitals-text\">Un</phrase><phrase condition=\"capitals-"
+"img\">n</phrase> jour, Zangemann remarqua que certains ordinateurs "
+"n’obéissaient plus à ses commandes de programmation. Il en fut terriblement "
+"choqué et fou de rage. Aussitôt, il appela le président et hurla, la voix "
+"tremblante : « Quelqu’un modifie les programmes de mes appareils. C’est "
+"inadmissible, ce sont tout de même mes inventions. Et c’est beaucoup trop "
+"dangereux que tout le monde puisse faire ce qu’il veut avec les ordinateurs. "
+"Il faut une loi contre ça ! »"
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:850
+msgid ""
+"The president did not want to upset Zangemann. All the government’s "
+"computers were programmed by Zangemann. Without the computers, the "
+"government would not be able to run the country. So they passed the law as "
+"Zangemann requested:"
+msgstr ""
+"Le président ne voulait pas contrarier Zangemann. C’est lui qui avait "
+"programmé tous les ordinateurs du gouvernement. Sans eux, il ne pourrait "
+"plus diriger le pays. Le gouvernement fit donc adopter la loi que Zangemann "
+"avait exigée :"
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:851
+msgid ""
+"“All computers that do not listen to Zangemann are banned. Anyone who "
+"reprograms Zangemann’s devices will be fined 500,000 gold pieces!”"
+msgstr ""
+"« Tous les ordinateurs qui n’obéissent pas à Zangemann sont interdits ! "
+"Quiconque déprogrammera les appareils de Zangemann, devra payer une amende "
+"de 500 000 pièces d’or ! »"
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:858
+#, fuzzy
+msgid ""
+"The President getting a phone call from the angry Zangemann. The videophone "
+"consists of an old red Zangemann dial phone connected to a monitor. "
+"Zangemann’s face appears on the monitor, while a yellow flare of Zangemann’s "
+"thundering voice comes out of the phone, and the President holds the "
+"receiver at arm’s length. The president has white hair and wears a light "
+"blue shirt, a red tie, and a blue jacket with yellow buttons. The President "
+"is sitting on a green chair with white vertical lines, and his other hand is "
+"on the desk. On the desk, in addition to the videophone, there are sheets "
+"with something written on them and an open purple fountain pen. The "
+"President was eating a sandwich of meat and cheese with greens with two "
+"olives on a toothpick, over a blue napkin with white stripes."
+msgstr ""
+"Ce dessin représente un homme aux cheveux gris et en veston bleu foncé, avec "
+"une chemise bleu clair et une cravate rouge assis devant son bureau. Il "
+"tient le gros combiné d'un téléphone rouge dans la main gauche, très loin de "
+"son visage, car une explosion jaune semble sortir de l'écouteur. L'homme a "
+"les cheveux en arrière comme si le vent soufflait dedans depuis le combiné. "
+"De son autre main, il se tient à la table. Le téléphone rouge qui porte le "
+"logo Z est très gros et équipé d'un cadran à l'ancienne mais aussi d'un "
+"grand écran plat fixé au bout d'un bras flexible. À l'écran on voit "
+"Zangemann furieux qui est en train de crier. L'appel a interrompu le repas "
+"du président qui a laissé sur son bureau un sandwich club posé sur une "
+"serviette bleue à carreaux. Il y a aussi son stylo à plume ouvert et "
+"quelques feuilles écrites."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:863
+msgid ""
+"When Ada and her friends heard this, they were furious. “This is unfair,” "
+"they said. “We rebuilt and reprogrammed our skateboards ourselves. They are "
+"much better now. We won’t let anyone take that away from us!”"
+msgstr ""
+"Lorsque Ada et ses amis entendirent parler de cette loi, ils se mirent très "
+"en colère. « C’est tellement injuste. Nous avons nous-mêmes transformé et "
+"reprogrammé nos skates. Maintenant ils sont bien mieux. On ne va laisser "
+"personne nous les enlever ! »"
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:864
+msgid ""
+"They gathered in front of one of their rebuilt ice-cream machines and "
+"discussed the situation. It was clear that something had to be done about "
+"the new law, and they made a plan..."
+msgstr ""
+"Ils se réunirent devant une des machines à glace qu’ils avaient modifiées et "
+"discutèrent de la situation. Il était clair qu’il fallait faire quelque "
+"chose contre cette nouvelle loi. Ils échafaudèrent un plan..."
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:869
+msgid ""
+"Cans of green, blue, and pink paint; a paintbrush with yellow paint; a light "
+"green marker; and a rolled banner on which some blue paint has fallen."
+msgstr ""
+"Ce dessin est une frise qui représente du matériel de peinture et de dessin "
+"posé sur le sol : un rouleau de papier beige, un gros pot dégoulinant de "
+"peinture verte avec un manche de pinceau qui en dépasse, un petit pot "
+"dégoulinant de bleu avec aussi un manche de pinceau, un petit pot "
+"dégoulinant de rose. Sur le sol sont éparpillés un marqueur jaune "
+"débouchonné, un pinceau imprégné de peinture jaune, une boîte de craies "
+"grasses dont sont sorties une craie rouge et une jaune, ainsi que des tâches "
+"de peinture jaune et verte."
+
+#. (itstool) path: info/title
+#: Ada_Zangemann.dbk:875
+msgid "Protest"
+msgstr "Protestation"
+
+#. (itstool) path: simplesect/para@dropcapfileref
+#. (itstool) comment: simplesect/para@dropcapfileref
+#. File for the capital image, depending on the capital letter and the
+#. required color. Can be postponed to the publishing process. priority:70
+#: Ada_Zangemann.dbk:880
+msgid "images/capitals/T-cyan.png"
+msgstr ""
+
+#. (itstool) path: simplesect/para
+#. (itstool) id: Ada_Zangemann.dbk#para-p39-1
+#: Ada_Zangemann.dbk:880
+msgid ""
+"<phrase condition=\"capitals-text\">The</phrase><phrase condition=\"capitals-"
+"img\">he</phrase> next day, they didn’t go to school. Instead, they rode "
+"their skateboards to the parliament building, with large protest signs under "
+"their arms, and sat down in front of the building. The evening before, they "
+"had put LED lights on some of the signs, which were now flashing brightly. "
+"They had connected their speakers together so everyone in the street could "
+"hear what they were saying. Some passersby stopped and asked the children "
+"what they were demonstrating for. “For software freedom!” they replied in "
+"unison and told the adults their story. Impressed, the adults nodded, and "
+"the president also looked curiously at their signs as he approached the "
+"building."
+msgstr ""
+"<phrase condition=\"capitals-text\">Le</phrase><phrase condition=\"capitals-"
+"img\">e</phrase> lendemain, ils n’allèrent pas à l’école. À la place, ils se "
+"rendirent au parlement avec leur skate et de grandes pancartes de "
+"protestation sous le bras et firent un sit-in devant le bâtiment. La veille, "
+"ils avaient installé des petites ampoules à LED sur plusieurs pancartes, qui "
+"maintenant s’illuminaient. Ils avaient interconnecté leurs enceintes si bien "
+"que dans toutes les rues, on pouvait entendre ce qu’ils disaient. Plusieurs "
+"passants s’arrêtèrent et demandèrent aux enfants pourquoi ils manifestaient. "
+"« Pour des logiciels libres », répondirent-ils en chœur. Et ils racontèrent "
+"leur histoire aux adultes. Ces derniers acquiescèrent impressionnés. Le "
+"président lui-même jeta un coup d’œil curieux à leurs pancartes en entrant "
+"dans le parlement."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:881
+msgid ""
+"On the following day, Ada and her friends again sat down in front of the "
+"parliament building, this time with support. Some classmates came whose "
+"skateboards Ada had reprogrammed. Toni’s father and other parents and adults "
+"also wanted to support the protest. They found the children’s devices very "
+"useful."
+msgstr ""
+"Dans les jours qui suivirent, Ada et ses amis se réunirent de nouveau pour "
+"un sit-in devant le parlement. Mais cette fois avec du soutien : plusieurs "
+"camarades de classe dont Ada avait reprogrammé le skate, se joignirent à "
+"eux. Le papa de Toni aussi. D’autres adultes voulaient soutenir leur "
+"protestation. Ils trouvaient les appareils des enfants très pratiques."
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:886
+msgid ""
+"Yellow and green paint on the floor and wax crayons yellow, red, blue, green "
+"and brown; the latter 3 are in a gray cardboard box."
+msgstr ""
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:890
+#, fuzzy
+msgid ""
+"With each passing day, more and more children and adults joined the protest. "
+"The bus driver they had helped drove up in her bus. She honked loudly to "
+"attract even more people to the protest. The custodian brought a few "
+"friends, and Toni’s father brought his colleagues from work, all wearing "
+"perfectly ironed ties. Even Ms. Gernet came. The crowd grew, and after a few "
+"weeks, there were protests not just in Ada’s city but also in many cities "
+"throughout the country."
+msgstr ""
+"Chaque jour, plus d’enfants et d’adultes venaient manifester. La conductrice "
+"de bus qu’ils avaient aidée pour l’arrosage de ses plantes vint avec son "
+"bus. Elle klaxonnait fort pour qu’encore plus de gens prêtent attention à la "
+"manifestation. Le concierge amena quelques amis avec lui. Le père de Toni "
+"vint avec ses collègues, qui portaient tous des cravates automatiquement "
+"repassées. Même la professeure de mathématiques était là. La foule "
+"grandissait à vue d’œil, et au bout de quelques semaines, les manifestations "
+"s’étaient propagées hors de la ville d’Ada. Partout dans le pays, les gens "
+"manifestaient."
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:895
+#, fuzzy
+msgid ""
+"Group of protesters. Among them there are: Ada’s mother holding Alan’s hand "
+"and raising a pink ice cream; 3 colleagues of Toni’s father dressed in ties; "
+"two children holding the banner “Do your homework Mr. President and we will "
+"do ours!”; a robot with tank treads, irons as feet, an electric fan as "
+"abdomen, a monitor as head, and an eggbeater as one hand, holding a blue ice "
+"cream in his other hand; two parents holding the banner “Hacking 4 Freedom”; "
+"a lady holding an electronic sign “There is a code B”; two small birds, "
+"flying; the math teacher, Ms. Gernet, who has inserted in her cart a sign "
+"that says “They are young + need the code!“ The dog in her cart is barking; "
+"Ada and Konrad are carrying the banner “Don’t wreck our tech!” Marie and "
+"Toni are walking beneath the banner, and Marie is talking through a bullhorn "
+"held in her hand; Ada’s family’s dog is now wearing a red harness with shiny "
+"yellow LEDs that matches the collar."
+msgstr ""
+"Ce dessin est une vue générale d'un cortège de nombreux manifestants sur "
+"fond jaune. Ils et elles ont tous les âges et toutes les couleurs de peau. "
+"Un papa pousse une poussette, une maman a un vélo cargo avec un enfant "
+"dedans. Un garçon se faufile avec un skate sonore et lumineux. On voit des "
+"gens comme la vieille dame avec son chariot et son chien, la maman d'Ada, et "
+"même un robot piloté par la télécommande d'un vieux monsieur. Ils semblent "
+"chanter en souriant, brandissent des glaces toutes différentes, des objets "
+"électroniques, des panneaux, des bannières. On peut lire sur celles-ci des "
+"messages comme \"Fais tes devoirs Monsieur le Président, et nous ferons les "
+"nôtres !\", \"Hacking 4 FREEDOM\", \"SANS PROGRAMME ON RAME !\", \"Ils sont "
+"jeunes et ont besoin du code !\" et \"THERE IS A CODE B\" sur un panneau "
+"électronique. Ada est en tête de cortège, avec ses trois amis : la fille à "
+"casquette avec une prothèse chante dans un mégaphone, le garçon roux marche "
+"à côté d'elle et le blond à lunettes brandit une glace. Devant elle, le "
+"petit chien gris qui arbore fièrement un collier et un harnais rouges "
+"équipés de LED jaunes clignotants !"
+
+#. (itstool) path: info/excerpt
+#. Text on big banner, left on the illustration
+#: Ada_Zangemann.dbk:897
+msgid "Do your homework Mr. President and we will do ours!"
+msgstr "Fais tes devoirs Monsieur le Président, et nous ferons les nôtres !"
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:906
+msgid ""
+"Detail of the previous image: two children holding the banner “Do your "
+"homework Mr. President and we will do ours!”"
+msgstr ""
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:912
+msgid ""
+"Detail of the previous image: Ada and Konrad are carrying the banner “Don’t "
+"wreck our tech!” Marie and Toni are walking beneath the banner, and Marie is "
+"talking through a bullhorn held in her hand; Ada’s family’s little dog is "
+"now wearing a red harness with shiny yellow LEDs that matches the collar."
+msgstr ""
+
+#. (itstool) path: info/excerpt
+#. Text on square signe on the right of the illustration
+#: Ada_Zangemann.dbk:914
+msgid "They are young + need the code!"
+msgstr "Ils sont jeunes et ont besoin du code !"
+
+#. (itstool) path: info/excerpt
+#. Text on banner on the banner held by children on the right of the
+#. illustration. Alternatively the German text 'Ohne Code ist alles doof!'
+#. can be used, which translates to 'without code everything is dull!'.
+#: Ada_Zangemann.dbk:915
+msgid "Don’t wreck our tech!"
+msgstr "SANS PROGRAMME, ON RAME !"
+
+#. (itstool) path: info/title
+#: Ada_Zangemann.dbk:922
+msgid "Children help the government"
+msgstr "Les enfants aident le gouvernement"
+
+#. (itstool) path: simplesect/para@dropcapfileref
+#. (itstool) comment: simplesect/para@dropcapfileref
+#. File for the capital image, depending on the capital letter and the
+#. required color. Can be postponed to the publishing process. priority:70
+#: Ada_Zangemann.dbk:925
+msgid "images/capitals/A-violet.png"
+msgstr ""
+
+#. (itstool) path: simplesect/para
+#. (itstool) id: Ada_Zangemann.dbk#para-p42-1
+#: Ada_Zangemann.dbk:925
+msgid ""
+"<phrase condition=\"capitals-text\">Ada</phrase><phrase condition=\"capitals-"
+"img\">da</phrase> protested in front of the parliament building every week, "
+"even in pouring rain. On one such rainy day, when the president passed the "
+"group of dripping-wet children, he couldn’t help but admire their "
+"stubbornness. He asked Ada, “Why do you sit here every day? What do you want "
+"to achieve?” Ada replied, “We want to determine for ourselves what we can "
+"and cannot do with our computers.” Her friends shouted in unison: “Don’t "
+"wreck our tech! Don’t wreck our tech!” and “We want the code! We want the "
+"code!”"
+msgstr ""
+"<phrase condition=\"capitals-text\">Ada</phrase><phrase condition=\"capitals-"
+"img\">da</phrase> manifestait tous les jours devant le parlement, même quand "
+"il pleuvait à verse. Quand le président passa devant les enfants tout "
+"mouillés, il ne put qu’admirer leur obstination. Il demanda à Ada : "
+"« Pourquoi venez-vous tous les jours ici ? Que demandez-vous ? » Ada "
+"répondit : « Nous voulons décider nous-mêmes de ce que nous avons le droit "
+"de faire avec nos ordinateurs ou pas » et tous ses amis et amies reprirent "
+"en choeur : « Sans programme, on rame ! »"
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:926
+msgid ""
+"The president looked at the determined faces of the children. Honestly, he, "
+"too, wanted to decide for himself what the government could and couldn’t do "
+"with its computers. But he didn’t understand anything about computers and "
+"code, so he had always left that to Zangemann. Deep in thought, the "
+"president entered the building."
+msgstr ""
+"Le président considéra les visages déterminés des enfants. Pour être tout à "
+"fait honnête, il aurait bien aimé lui aussi décider ce que le gouvernement "
+"avait le droit de faire ou pas avec ses ordinateurs. Mais il n’y connaissait "
+"rien, ni aux ordinateurs, ni à la programmation et c’est pour ça qu’il avait "
+"tout délégué à Zangemann. Pensif, le président pénétra dans le parlement."
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:932
+msgid ""
+"One of Ada’s friends lying on his stomach with one foot up in the air is "
+"typing on a laptop. He has wavy brown hair parted in the center, a red "
+"sweatshirt, blue pants, and white socks but no shoes. Next to the computer "
+"there are a green cup and two open books."
+msgstr ""
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:934
+msgid ""
+"The next day, the president invited Ada and her friends over. “We also want "
+"to be in charge of our software ourselves. In order for that to be true, the "
+"government must be independent from Zangemann. Can you tell me what you know "
+"about computer programs?” he asked them. Enthusiastically, they explained to "
+"him how software works and what you could do with it. The president was "
+"amazed."
+msgstr ""
+"Le jour suivant, il invita Ada et ses amis. « Nous aussi, nous voulons "
+"pouvoir programmer nos logiciels nous-mêmes. Pour ça, le gouvernement ne "
+"doit plus dépendre de Zangemann. Pouvez-vous me dire tout ce que vous savez "
+"sur les ordinateurs ? », demanda-t-il. Ils lui expliquèrent avec "
+"enthousiasme comment fonctionnaient les logiciels et tout ce qu’on pouvait "
+"faire avec. Le président en fut tout étonné."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:937
+msgid ""
+"With this new knowledge, the government would be able to design its own "
+"software, the way it wanted — completely without Zangemann. Immediately, the "
+"president called his advisers. In a large group, they discussed with the "
+"children everything they could change and improve in the software."
+msgstr ""
+"Avec ces nouvelles connaissances, son gouvernement pourrait désormais "
+"concevoir son propre logiciel, comme il le désirait, sans Zangemann. Il fit "
+"immédiatement appel à ses conseillers. Lors d’une grande réunion, ils "
+"discutèrent avec les enfants de tout ce qu’ils aimeraient changer et "
+"améliorer dans le logiciel."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:938
+msgid ""
+"That evening, the children went home proud and satisfied. Something finally "
+"happened! Their long protest was worth it."
+msgstr ""
+"Ce soir-là, les enfants rentrèrent chez eux fiers et satisfaits. Il se "
+"passait enfin quelque chose ! Leur longue protestation avait porté ses "
+"fruits."
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:943
+#, fuzzy
+msgid ""
+"Ada and her friends in the President’s office. Ada is reprogramming the "
+"President’s computer. Toni is setting up a speaker for the President’s "
+"secretary. Marie and Konrad are sitting on the floor and talking, and Marie "
+"has a laptop on her legs with an FSFE logo sticker (three stars: pea green, "
+"sky blue, and sea blue). On the floor are a bowl with candy and a plate with "
+"ice creams. The President’s phone is ringing, but nobody is answering."
+msgstr ""
+"Ce dessin représente le bureau du président transformé en un fablab "
+"improvisé. Des enfants, les trois amis d'Ada des dessins précédents et deux "
+"autres sont installés partout autour de lui, avec des ordinateurs et des "
+"appareils branchés à une multiprise. Certains sont assis par terre, "
+"bricolent, il y a un goûter avec des gâteaux, des bonbons, des boissons. Ada "
+"est installée sur le siège du président à son bureau et utilise son "
+"ordinateur. Elle lui montre quelque chose, il est debout à côté d'elle, et "
+"s'appuie d'une main sur le bureau, se tenant la hanche de l'autre, il a un "
+"grand sourire. Derrière on voit une femme aux cheveux gris et à lunettes à "
+"qui le petit garçon roux frisé tend un boîtier avec une grosse lumière rouge "
+"et un haut-parleur. Un peu plus loin, un enfant couché sur le ventre, par "
+"terre, tape sur le clavier d'un ordinateur portable, entouré de livres "
+"ouvert et d'une tasse. Sur le bureau du président, le téléphone rouge au "
+"logo Z sonne, mais personne ne s'y intéresse."
+
+#. (itstool) path: info/title
+#: Ada_Zangemann.dbk:949
+msgid "New law"
+msgstr "Nouvelle loi"
+
+#. (itstool) path: simplesect/para@dropcapfileref
+#. (itstool) comment: simplesect/para@dropcapfileref
+#. File for the capital image, depending on the capital letter and the
+#. required color. Can be postponed to the publishing process. priority:70
+#: Ada_Zangemann.dbk:952
+msgid "images/capitals/T-red3.png"
+msgstr ""
+
+#. (itstool) path: simplesect/para
+#. (itstool) id: Ada_Zangemann.dbk#para-p44-1
+#: Ada_Zangemann.dbk:952
+msgid ""
+"<phrase condition=\"capitals-text\">The</phrase><phrase condition=\"capitals-"
+"img\">he</phrase> next morning, the president’s phone rang very early. It "
+"was Zangemann. He was angrier than ever. “Without me, the government "
+"computers will no longer work,” he threatened. But the president kept the "
+"call short and quickly hung up. The phone rang many more times that day, but "
+"Zangemann’s calls went unanswered. The president sat in a meeting with Ada, "
+"Toni, Marie, Konrad, and the government experts."
+msgstr ""
+"<phrase condition=\"capitals-text\">Le</phrase><phrase condition=\"capitals-"
+"img\">e</phrase> lendemain matin, le téléphone sonna de bonne heure dans le "
+"bureau du président. C’était Zangemann. Plus furieux que jamais, il tenta de "
+"convaincre le président. « Sans moi, les ordinateurs du gouvernement ne "
+"fonctionneront plus », menaça-t-il. Mais le président fut bref et raccrocha "
+"rapidement. Le téléphone retentit encore de nombreuses fois ce jour-là mais "
+"personne ne décrocha. Le président et les experts et expertes du "
+"gouvernement étaient en pleine réunion avec Ada, Toni, Marie, Konrad."
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:957
+msgid ""
+"A herald, wearing a hat with a plume, playing a trumpet on which a red "
+"banner is hung."
+msgstr ""
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:959
+msgid ""
+"In the days that followed, they talked from morning to night and designed "
+"their first programs for the government’s computers. They were no longer "
+"disturbed by Zangemann’s calls. Toni had the good idea of reprogramming the "
+"telephones. When Zangemann called, he only heard an automated recording: "
+"“The government only wants to use software that it can freely use, study, "
+"share, and improve. Thank you for calling.”"
+msgstr ""
+"Les jours qui suivirent, ils discutèrent du matin au soir et conçurent leurs "
+"propres programmes pour les ordinateurs du gouvernement. Ils ne furent plus "
+"dérangés par les appels de Zangemann. Toni avait eu la bonne idée de "
+"reprogrammer les téléphones. Quand Zangemann appelait, il tombait "
+"automatiquement sur le message suivant : « Le gouvernement ne souhaite plus "
+"travailler qu’avec des logiciels qu’il pourra utiliser, comprendre, diffuser "
+"et améliorer librement. Merci pour votre appel. »"
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:961
+msgid ""
+"Then, after many weeks of protests and discussions, the time had finally "
+"come: they abolished the old Zangemann law! Instead, the government "
+"announced:"
+msgstr ""
+"Après de longues semaines, ils eurent enfin fini. Le parlement abrogea "
+"l’ancienne loi Zangemann et annonça :"
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:964
+msgid ""
+"“Everyone is allowed to program their own computers as long as they adhere "
+"to the other laws.”"
+msgstr ""
+"« Toute personne a le droit de programmer elle-même son ordinateur, tant "
+"qu’elle respecte les autres lois. »"
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:965
+msgid ""
+"In addition, a new school subject was introduced: computer hardware and "
+"software."
+msgstr ""
+"Par ailleurs, une nouvelle matière fut introduite à l’école : informatique "
+"et programmation."
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:970
+#, fuzzy
+msgid ""
+"The President with Toni, Konrad, Marie, Ada, and a herald playing a trumpet. "
+"Marie is standing on top of a ladder talking into a microphone. Konrad "
+"firmly holds the ladder on which Marie is standing. Ada is standing on a "
+"chair and holds a copy of the new law bearing a seal. Ada’s dog is sitting "
+"in front of her."
+msgstr ""
+"Ce dessin représente un groupe d'enfant autour du président, qui font "
+"ensemble une déclaration. Ils sont entourés de deux jeunes en uniforme "
+"soufflant dans des trompettes ornées d'oriflammes rouge et or. Au centre, le "
+"petit garçon frisé roux, le président debout les mains derrière le dos avec "
+"les yeux clos et un sourire bienveillant se tait. Le petit garçon blond "
+"tient un escabeau de bois sur lequel est montée la petite fille à casquette "
+"avec sa prothèse de jambe. Elle parle dans le micro avec le sourire. Devant "
+"elle, perchée sur un tabouret, Ada montre un texte sur un papier déroulé "
+"portant un sceau. Le petit chien est là aussi avec son collier rouge à LED "
+"clignotants."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:975
+#, fuzzy
+msgid ""
+"That evening, everyone celebrated with a big party. Ada, Alan, Toni, Marie, "
+"Konrad, and other children from school and their parents; the president; Ms. "
+"Gernet; the bus driver; the custodian — they were all there. They decorated "
+"the streets, listened to loud music, and ate ice cream, as much as they "
+"wanted, and in every imaginable shape and color."
+msgstr ""
+"Ce soir-là, ils organisèrent tous ensemble une grande fête : Ada, Alan, les "
+"enfants de l’école et leurs parents, le président, Mme Gernet, la "
+"conductrice de bus, le concierge. Ils étaient tous là. Ils décorèrent les "
+"rues, écoutèrent de la musique bien fort et, pour célébrer la journée, "
+"mangèrent des glaces à volonté, de toutes les formes et de toutes les "
+"couleurs possibles et imaginables."
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:980
+#, fuzzy
+msgid ""
+"Evening party. Children are holding ice cream and balloons with the words “I "
+"love FS (I love Free Software)”; other children are riding skateboards; "
+"yellow and orange flags are hanging; music comes out from a large speaker "
+"system; Ms. Gernet holds a pink tree-shaped ice cream with a yellow star on "
+"it; Ada’s mom is dancing with a gentleman."
+msgstr ""
+"Ce dessin est une vue générale d'un bal, des guirlandes de fanions sont "
+"tendus entre les lampadaires, un énorme haut-parleur diffuse de la musique, "
+"et une machine à glaces Zangemann transformée par un boîtier ajouté par les "
+"enfants distribue des cornets de glace. Il y a beaucoup de monde, les "
+"enfants, la maman d'Ada, le président, la vieille dame. Certains dansent, "
+"d'autres dégustent des glaces. Un garçon brun sillonne sur son skate, et un "
+"groupe d'enfants formé par Ada et ses trois amis se prépare à partir "
+"discrètement, suivis par le chien gris au collier clignotant."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:984
+msgid ""
+"While the others continued partying late into the night, Ada and her friends "
+"slipped away to their workshop. They already had a lot of ideas for new "
+"inventions. And they wanted to start right away."
+msgstr ""
+"Pendant que les autres continuèrent la fête jusque tard dans la nuit, Ada, "
+"Toni, Marie et Konrad s’éclipsèrent pour retourner à leur atelier. Ils "
+"avaient déjà plein de nouvelles idées d’inventions. Et ils voulaient s’y "
+"mettre sans tarder."
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:989
+#, fuzzy
+msgid ""
+"The President, the secretary, and other people around a table enjoying crazy "
+"ice cream; yellow and orange flags continue from the previous image; a "
+"little girl who just took a pink ghost-shaped ice cream from the modified "
+"ice cream machine; Ada’s dog, Konrad, Marie, Ada, and Toni sneaking away "
+"from the party."
+msgstr ""
+"Cette frise représente le petit chien gris avec son collier rouge clignotant "
+"qui suit une piste en reniflant le sol et en remuant la queue. Devant lui, "
+"on voit des taches multicolores sur le sol, de plus en plus grandes vers la "
+"droite. Peut-être de la peinture, ou plutôt de la glace fondue ?"
+
+#. (itstool) path: info/title
+#: Ada_Zangemann.dbk:995
+msgid "And Zangemann?"
+msgstr "Et Zangemann?"
+
+#. (itstool) path: simplesect/para@dropcapfileref
+#. (itstool) comment: simplesect/para@dropcapfileref
+#. File for the capital image, depending on the capital letter and the
+#. required color. Can be postponed to the publishing process. priority:70
+#: Ada_Zangemann.dbk:999
+msgid "images/capitals/A-yellow.png"
+msgstr ""
+
+#. (itstool) path: simplesect/para
+#. (itstool) id: Ada_Zangemann.dbk#para-p48-1
+#: Ada_Zangemann.dbk:999
+msgid ""
+"<phrase condition=\"capitals-text\">And</phrase><phrase condition=\"capitals-"
+"img\">nd</phrase> Zangemann? No one’s heard much from him. Maybe he’s still "
+"sitting angrily in front of his golden computer. Maybe he doesn’t dare go "
+"out into the street anymore and has boarded up all the windows of his "
+"mansion so that he doesn’t have to worry about what other people are doing "
+"with his inventions. But maybe he also sometimes looks out into the world "
+"through his telescope and sees what the children are inventing every day. "
+"Perhaps then he will remember how much fun it was for himself to tinker and "
+"experiment. And maybe, just maybe, he eats pyramid-shaped raspberry ice "
+"cream with rainbow sprinkles."
+msgstr ""
+"<phrase condition=\"capitals-text\">Et</phrase><phrase condition=\"capitals-"
+"img\">t</phrase> Zangemann ? On n’en a plus beaucoup entendu parler. Peut-"
+"être enrage-t-il encore dans son immense villa et reste assis, renfrogné, "
+"devant son ordinateur en or. Peut-être qu’il n’ose plus aller dans la rue et "
+"qu’il a condamné toutes les fenêtres de sa maison pour ne pas être contrarié "
+"par l’utilisation de ses inventions. Mais peut-être aussi observe-t-il le "
+"monde à travers son télescope et voit ce que les enfants inventent chaque "
+"jour de nouveau. Peut-être qu’il se souvient alors à quel point cela l’avait "
+"amusé autrefois, de bricoler et d’expérimenter. Et peut-être que, mais "
+"seulement peut-être, il lèche une glace à la framboise en forme de pyramide, "
+"parsemée de paillettes aux couleurs de l’arc-en-ciel."
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:1004
+#, fuzzy
+msgid "Ada’s little dog sniffing a trail of ice cream."
+msgstr ""
+"Cette frise représente le petit chien gris avec son collier rouge clignotant "
+"qui suit une piste en reniflant le sol et en remuant la queue. Devant lui, "
+"on voit des taches multicolores sur le sol, de plus en plus grandes vers la "
+"droite. Peut-être de la peinture, ou plutôt de la glace fondue ?"
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:1013
+msgid "A trail of candies and raspberry ice cream on the ground."
+msgstr ""
+
+#. (itstool) path: info/title
+#. (itstool) id: Ada_Zangemann.dbk#title-acknowledgments
+#: Ada_Zangemann.dbk:1020
+msgid "Acknowledgments"
+msgstr "Remerciements de l’auteur"
+
+#. (itstool) path: simplesect/para
+#. In the acknowledgments of the English version you can change 'No Starch
+#. Press' to the name of your publisher, as we would like to thank you for
+#. publishing this book in your language under a free cultural license,
+#. and encourage you to do that for other books in future as well.
+#: Ada_Zangemann.dbk:1028
+msgid ""
+"Many thanks to Reinhard Wiesemann from the Linuxhotel for the financial "
+"support and motivation to no longer plan but to make. Thanks to Sandra "
+"Brandstätter, who has brought me joy with every new design for the "
+"illustrations. Thanks to my editor Wiebke Helmchen, who made developing and "
+"sharpening the story fun, and to No Starch Press for agreeing to publish the "
+"book under a free culture license."
+msgstr ""
+"Un grand merci à Reinhard Wiesemann du Linuxhotel pour nous avoir apporté "
+"son soutien financier et nous avoir motivés à agir au lieu de toujours "
+"planifier. Merci à Sandra Brandstätter pour la joie que m’a apporté chacun "
+"de ses croquis. Merci à ma relectrice Wiebke Helmchen, avec qui j’ai pris "
+"énormément de plaisir à développer et à peaufiner cette histoire, et à "
+"Ariane Hesse pour son soutien incroyable chez l’éditeur."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:1029
+msgid ""
+"Thanks to Bea and Benni, Brian, Christine and Marc, Cory, Bernhard, Isabel "
+"and Amelia, Katta, Kristina, Martin, Mona and Arne, Nina, Oliver, Reinhard, "
+"Sabine, and Torsten for great ideas, inspiration, and practical tips, and to "
+"the many people of the Free Software movement, from which I was allowed to "
+"learn and whose engagement motivated me."
+msgstr ""
+"Merci à Bea et Benni, Christine et Marc, Cory, Bernhard, Isabel et Amelia, "
+"Katta, Kristina, Martin, Mona et Arne, Nina, Oliver, Reinhard, Sabine et "
+"Torsten pour leurs idées géniales, leur inspiration, et leurs conseils "
+"pratiques, ainsi qu’à toutes les personnes du mouvement du logiciel libre "
+"auprès desquelles j’ai pu beaucoup apprendre, et dont l’engagement me motive."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:1033
+msgid ""
+"Thanks to my family, who made me write early in the morning, late in the "
+"evening, and on holiday, and who always supports my work for software "
+"freedom. Especially, I would like to thank my children, who inspired me with "
+"new ideas at each reading. Without them, this book would not exist."
+msgstr ""
+"Un merci du fond du cœur à ma famille qui m’a laissé écrire tôt le matin, "
+"tard le soir et pendant les vacances, et qui a toujours soutenu mon travail "
+"pour la liberté des logiciels. Je voudrais remercier tout particulièrement "
+"mes enfants, qui m’ont inspiré de nouvelles idées à chaque fois que je leur "
+"lisais le livre. Sans eux, ce livre n’existerait pas."
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:1040
+#, fuzzy
+msgid ""
+"Ada’s dog wags its tail after finding Zangemann hidden behind a curtain and "
+"eating an ice cream cone with candies and a blue umbrella on it and lots of "
+"raspberry ice cream dripping."
+msgstr ""
+"Cette image représente la suite de l'image précédente : le petit chien gris "
+"avec son collier rouge clignotant a suivi la piste coulante sur le sol. Il a "
+"surpris Zangemann qui s'était caché derrière un grand rideau blanc pour "
+"déguster une glace énorme faite avec la machine des enfants. C'est un cornet "
+"rose, qui dégouline sur ses doigts et par terre, couvert de paillettes en "
+"forme de cœur et d'étoiles, piquée d'un parapluie de papier bleu. Zangemann "
+"fronce les sourcils, le chien semble ravi et remue en tirant la langue à la "
+"vue de la glace."
+
+#. (itstool) path: info/title
+#. (itstool) id: Ada_Zangemann.dbk#title-author
+#: Ada_Zangemann.dbk:1047
+msgid "About the Author"
+msgstr "À propos de l’auteur"
+
+#. (itstool) path: info/subtitle
+#. (itstool) id: Ada_Zangemann.dbk#subtitle-author
+#. ignore-same
+#: Ada_Zangemann.dbk:1048
+msgid "Matthias Kirschner"
+msgstr "Matthias Kirschner"
+
+#. (itstool) path: info/titleabbrev
+#: Ada_Zangemann.dbk:1049
+msgid "About the Author - Matthias Kirschner"
+msgstr "À propos de l’auteur Matthias Kirschner"
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:1062
+msgid ""
+"Close-up of Matthias smiling, waving with one hand, and wearing a headset. "
+"Matthias has short hair and a little beard."
+msgstr ""
+"Cette image est un portrait dessiné de Matthias Kirschner en noir et blanc, "
+"un jeune homme avec les cheveux frisés et une barbe de trois jours. Il porte "
+"un casque sur les oreilles, avec un micro articulé et nous regarde en "
+"souriant. Il semble parler et sa main est ouverte, paume vers le haut."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:1064
+msgid ""
+"Matthias was fascinated by computers and software as a child. He had an "
+"internet connection early, through which he learned a lot. Children have a "
+"right to take their future into their own hands. Therefore, Matthias is "
+"committed to the goal that all humans can use software in a self-determined "
+"way. He also wants to build an electric skateboard with Free Software."
+msgstr ""
+"Matthias était déjà fasciné par les ordinateurs et les logiciels lorsqu’il "
+"était enfant. Il a eu très tôt une connexion Internet grâce à laquelle il a "
+"beaucoup appris. Les enfants ont le droit de prendre leur avenir en main. "
+"C’est pourquoi Matthias s’engage pour que tout le monde puisse utiliser des "
+"logiciels de manière autonome. Il veut aussi un jour se construire un "
+"skateboard électrique avec des logiciels libres."
+
+#. (itstool) path: info/title
+#. (itstool) id: Ada_Zangemann.dbk#title-illustrator
+#: Ada_Zangemann.dbk:1070
+msgid "About the Illustrator"
+msgstr "À propos de l’illustratrice"
+
+#. (itstool) path: info/subtitle
+#. (itstool) id: Ada_Zangemann.dbk#subtitle-illustrator
+#. ignore-same
+#: Ada_Zangemann.dbk:1071
+msgid "Sandra Brandstätter"
+msgstr "Sandra Brandstätter"
+
+#. (itstool) path: info/titleabbrev
+#: Ada_Zangemann.dbk:1072
+msgid "About the Illustrator - Sandra Brandstätter"
+msgstr "À propos de l’illustratrice Sandra Brandstätter"
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:1085
+msgid ""
+"Sandra smiling with a pencil in her hand in front of her chin. She has "
+"earphones with an integrated microphone. Sandra has short hair and glasses."
+msgstr ""
+"Cette image est un portrait dessiné de Sandra Brandstätter en noir et blanc, "
+"une jeune femme avec les cheveux coupés en carré court et de grandes "
+"lunettes rondes. Elle a des écouteurs dans les oreilles, et semble songer en "
+"souriant, elle tient de sa main accoudée son crayon levé, dont le bout en "
+"gomme touche son menton."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:1087
+msgid ""
+"Sandra has always liked crafting with scissors, pliers, glue, wire, fabric, "
+"and paper. Today she works as an illustrator, comic author, and character "
+"designer for animated films and series, such as the German public television "
+"series Trudes Tier. On an ice-cream machine, Sandra would pick a creamy "
+"rainbow ice cream with lemon cucumber flavor and a lot of sprinkles."
+msgstr ""
+"Sandra a toujours bien aimé bricoler avec des ciseaux, des pinces, de la "
+"colle, du fil, du tissu et du papier. Aujourd’hui, elle est illustratrice, "
+"autrice de bandes dessinées et créatrice de personnages pour des dessins "
+"animés et des séries d’animations, par exemple pour la série <emphasis "
+"role=\"italic\">Trudes Tier (L’animal de Trude)</emphasis> dans l’émission "
+"<emphasis role=\"italic\">Sendung mit der Maus (L’émission avec la souris)</"
+"emphasis>. À la machine à glaces, Sandra prendrait une glace crémeuse arc-en-"
+"ciel au goût citron-concombre avec beaucoup de perles de sucre."
+
+#. (itstool) path: info/title
+#. (itstool) id: Ada_Zangemann.dbk#title-bookswebsite
+#: Ada_Zangemann.dbk:1092
+#, fuzzy
+msgid "Book’s website"
+msgstr "Page web su livre"
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:1100
+msgid ""
+"The Free Software Foundation Europe e.V. is a nonprofit association that "
+"empowers people to control technology. Software affects all areas of our "
+"life. That is why it is important that this technology gives us freedom "
+"instead of restricting us. Free Software (also called Open Source) gives "
+"everyone the right to use, study, share, and improve programs. Therefore, "
+"Free Software strengthens basic rights such as freedom of expression, "
+"freedom of the press, and the right to privacy."
+msgstr ""
+"Free Software Foundation Europe est une association à but non lucratif, qui "
+"aide les personnes à gérer la technologie de manière autonome. Les logiciels "
+"influencent tous les domaines de notre vie. Il est donc important que cette "
+"technologie nous donne des libertés au lieu de nous restreindre. Le Logiciel "
+"Libre (appelé aussi FLOSS - <emphasis role=\"italic\">Free, Libre, Open "
+"Source Software</emphasis>) donne à chacun le droit d’utiliser, de "
+"comprendre, de diffuser et d’améliorer les programmes. Le Logiciel Libre "
+"renforce alors les droits fondamentaux comme la liberté d’expression, la "
+"liberté de la presse et le droit à la vie privée."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:1102
+msgid ""
+"On the web page of the book, you will find more information and resources: "
+"<link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
+msgstr ""
+"Sur le site consacré au livre, vous retrouverez plus d’informations et de "
+"documentation : <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe."
+"org</link>."
+
+#. (itstool) path: info/title
+#. (itstool) id: Ada_Zangemann.dbk#title-license
+#: Ada_Zangemann.dbk:1109
+msgid "License"
+msgstr "Licence"
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:1117
+msgid ""
+"The book Ada &amp; Zangemann: A Tale of Software, Skateboards, and Raspberry "
+"Ice Cream by Matthias Kirschner and Sandra Brandstätter, published by No "
+"Starch Press, is licensed under “Creative Commons Attribution-ShareAlike 4.0 "
+"International (CC BY-SA 4.0).”"
+msgstr ""
+"Le livre « Ada &amp; Zangemann – Un conte sur les logiciels, les skateboards "
+"et la glace à la framboise » de Matthias Kirschner et Sandra Brandstätter, "
+"publié chez dpunkt.verlag SARL, a la licence « Creative commons attribution "
+"(CC BY-SA 4.0) »"
+
+# French translations has more copyright information
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:1118
+#, fuzzy
+msgid ""
+"<link xlink:href=\"https://creativecommons.org/licenses/by-sa/4.0/\">https://"
+"creativecommons.org/licenses/by-sa/4.0/</link>"
+msgstr ""
+"<link xlink:href=\"https://creativecommons.org/licenses/by-sa/4.0/deed."
+"fr\">https://creativecommons.org/licenses/by-sa/4.0/deed.fr</link>"
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:1127
+msgid ""
+"A hand that holds a fish-shaped ice cream cone with a cucumber on a "
+"decorated toothpick, to color. In a bottom corner, a pencil writing."
+msgstr ""
+
+#. (itstool) path: simplesect/literallayout
+#. In a literallayout element all space and newline characters are kept.
+#: Ada_Zangemann.dbk:1129
+#, no-wrap
+msgid ""
+"Come up with some delicious, funny, or crazy ice-cream flavors and draw them on the ice-cream cones on the following page.\n"
+"More information about the book can be found at <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
+msgstr ""
+"Imagine de délicieux parfums de glace, amusants ou farfelus et dessine-les dans les cornets.\n"
+"Tu trouveras d’autres informations sur le livre sur : <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:1137
+msgid ""
+"Three hands that hold as many empty ice cream cones, to draw and color. In "
+"the air above the middle cone is an umbrella."
+msgstr ""

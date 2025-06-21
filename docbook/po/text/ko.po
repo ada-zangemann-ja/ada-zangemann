@@ -1,0 +1,2841 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2025-06-17 20:33+0200\n"
+"PO-Revision-Date: 2025-05-19 19:54+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.2.2\n"
+
+#. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
+msgctxt "_"
+msgid "translator-credits"
+msgstr "Ki-hyun Lee (이기현) 2025"
+
+#. (itstool) path: info/title
+#. (itstool) path: cover/bridgehead
+#. Ampersand character & is escaped for XML source format as &amp;
+#.
+#. ignore-same
+#: Ada_Zangemann.dbk:262 Ada_Zangemann.dbk:306 Ada_Zangemann.dbk:496
+msgid "Ada &amp; Zangemann"
+msgstr "에이다와 장기만 아저씨"
+
+#. (itstool) path: info/subtitle
+#. (itstool) path: cover/bridgehead
+#: Ada_Zangemann.dbk:263 Ada_Zangemann.dbk:307
+msgid "A Tale of Software, Skateboards, and Raspberry Ice Cream"
+msgstr "소프트웨어와 스케이트보드와 라즈베리 아이스크림에 대한 이야기"
+
+#. (itstool) path: info/biblioid
+#. ISBN of print edition
+#: Ada_Zangemann.dbk:264
+msgid "978-1-7185-0318-2"
+msgstr ""
+
+#. (itstool) path: info/biblioid
+#. ISBN of ebook edition
+#: Ada_Zangemann.dbk:265
+msgid "978-1-7185-0319-9"
+msgstr ""
+
+#. (itstool) path: info/author
+#. ignore-same
+#: Ada_Zangemann.dbk:267
+msgid ""
+"<personname> <firstname>Matthias</firstname> <surname>Kirschner</surname> </"
+"personname>"
+msgstr ""
+"<personname> <firstname>마티아스</firstname> <surname>키르슈너</surname> </"
+"personname>"
+
+#. (itstool) path: info/othercredit
+#. ignore-same
+#: Ada_Zangemann.dbk:273
+msgid ""
+"<personname> <firstname>Sandra</firstname> <surname>Brandstätter</surname> </"
+"personname>"
+msgstr ""
+"<personname> <firstname>산드라</firstname> <surname>브란트슈태터</surname> </"
+"personname>"
+
+#. (itstool) path: character/charactername
+#. Name must not be changed.
+#.
+#. ignore-same
+#: Ada_Zangemann.dbk:282
+msgid "Ada"
+msgstr ""
+
+#. (itstool) path: character/charactername
+#. Name must not be changed.
+#.
+#. ignore-same
+#: Ada_Zangemann.dbk:285
+msgid "Zangemann"
+msgstr ""
+
+#. (itstool) path: character/charactername
+#. Name must not be changed.
+#.
+#. ignore-same
+#: Ada_Zangemann.dbk:288
+msgid "Alan"
+msgstr ""
+
+#. (itstool) path: character/charactername
+#. Character names are mostly reference to existing people in computer
+#. history or science, but if you want to change them in order to make it
+#. easier for children to relate to the characters you should find names
+#. which are still common but connected to important figures in the
+#. computer history. If you have problems with that, feel free to reach
+#. out to Matthias. Please also make sure to just exchange male names with
+#. male names, female names with female names to keep the gender balance
+#. as intended, or use names which can be male and female.
+#.
+#. ignore-same
+#: Ada_Zangemann.dbk:291
+msgid "Toni"
+msgstr ""
+
+#. (itstool) path: character/charactername
+#. Character names are mostly reference to existing people in computer
+#. history or science, but if you want to change them in order to make it
+#. easier for children to relate to the characters you should find names
+#. which are still common but connected to important figures in the
+#. computer history. If you have problems with that, feel free to reach
+#. out to Matthias. Please also make sure to just exchange male names with
+#. male names, female names with female names to keep the gender balance
+#. as intended, or use names which can be male and female.
+#.
+#. ignore-same
+#: Ada_Zangemann.dbk:294
+msgid "Konrad"
+msgstr ""
+
+#. (itstool) path: character/charactername
+#. Character names are mostly reference to existing people in computer
+#. history or science, but if you want to change them in order to make it
+#. easier for children to relate to the characters you should find names
+#. which are still common but connected to important figures in the
+#. computer history. If you have problems with that, feel free to reach
+#. out to Matthias. Please also make sure to just exchange male names with
+#. male names, female names with female names to keep the gender balance
+#. as intended, or use names which can be male and female.
+#.
+#. ignore-same
+#: Ada_Zangemann.dbk:297
+msgid "Marie"
+msgstr ""
+
+#. (itstool) path: character/charactername
+#. Character names are mostly reference to existing people in computer
+#. history or science, but if you want to change them in order to make it
+#. easier for children to relate to the characters you should find names
+#. which are still common but connected to important figures in the
+#. computer history. If you have problems with that, feel free to reach
+#. out to Matthias. Please also make sure to just exchange male names with
+#. male names, female names with female names to keep the gender balance
+#. as intended, or use names which can be male and female.
+#.
+#. ignore-same
+#: Ada_Zangemann.dbk:300
+msgid "Ms. Gernet"
+msgstr ""
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:320
+msgid ""
+"Ada &amp; Zangemann - A Tale of Software, Skateboards, and Raspberry Ice "
+"Cream. By Matthias Kirschner and Sandra Brandstätter. On a mostly "
+"desaturated dark cyan background, in a frame composed of sometimes curled "
+"white lines that connect a mouse, a keyboard, and a pink smartphone, Ada and "
+"Zangemann are facing each other, both with their hands on their hips as a "
+"sign of challenge. Ada is smiling and Zangemann is frowning. Ada has black "
+"hair collected in two big right- and left-bound ringlets with red rubber "
+"bands, and red cheeks. She has little yellow stud earrings. She wears cyan "
+"and white horizontal striped shorts and a yellow shirt over a white "
+"undershirt that ends with embroidery that goes beyond the shirt. The shirt "
+"and undershirt come out over the shorts. Above the shirt Ada wears a blue "
+"hoodie. Ada is wearing red shoes with white tips and soles, and short white "
+"socks. She has one foot on a skateboard and the other on the ground. "
+"Zangemann has short gray hair and square glasses. He is wearing a purple "
+"turtle-neck sweater, light blue pants turned up, brown shoes, and white "
+"socks. He’s wearing a big tech watch. Above Zangemann there are a pair of "
+"pliers with red handles crossing the wire frame."
+msgstr ""
+"에이다와 장기만 아저씨 - 소프트웨어와 스케이트보드와 라즈베리 아이스크림에 대"
+"한 이야기. 마티아스 키르슈너와 산드라 브란트슈태터 지음. 주로 채도가 낮은 어"
+"두운 청록색 배경에, 가끔 줄이 꼬이는 흰색 선이 마우스, 키보드와 핑크색 핸드폰"
+"을 연결해서 액자 모양을 만들고 있습니다. 에이다와 장기만은 서로를 마주보고 있"
+"으며 도전의 의미로 서로 허리에 손을 짚고 있습니다. 에이다는 미소를 짓고 있고 "
+"장기만 아저씨는 눈쌀을 찌푸리고 있습니다. 에이다는 오른쪽 왼쪽 각각 빨간색 고"
+"무줄로 커다랗게 두 갈래로 묶은 곱슬머리 스타일의 검은 머리를 가지고 있고 뺨"
+"이 발그레 합니다. 그녀는 노란색 버튼형 귀걸이를 하고 있습니다. 그녀는 청록색"
+"과 흰색 줄무늬를 가진 쫄바지를 입고 있고 끝자락이 자수 처리가 되어있는 흰색 "
+"티셔츠 위에 노란색 티셔츠틀 겹쳐 입고 있습니다. 티셔츠는 모두 바지 위로 나오"
+"게 입고 있습니다. 그리고 티셔츠 위에는 파란색 후드점퍼를 입고 있습니다. 에이"
+"다는 토캡 부분과 밑창이 흰색인 빨간색 신발을 신고있고, 짧은 흰색 양말을 신고 "
+"있습니다. 그녀는 한 발을 스케이트보드에 올려 놓고 있고 다른 발은 땅을 밟고 서"
+"있습니다. 장기만 아저씨는 짧은 회색 머리에 렌즈가 사각형인 안경을 끼고 있습니"
+"다. 그는 보라색 터틀넥 스웨터를 입고 있고, 밑단을 접어올린 파란색 바지와 갈"
+"색 신발 그리고 흰색 양말을 신었습니다. 그는 커다란 스마트 워치를 차고 있습니"
+"다. 장기만 아저씨 모습 위에는 액자 모양 전선 위에 겹쳐서 빨간색 손잡이가 달"
+"린 펜치가 놓여있습니다."
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:329
+msgid ""
+"A soldering iron and a brush and can with yellow paint, connected by white "
+"electrical cord that forms a frame."
+msgstr ""
+"납땜기와 페인트 붓 그리고 노란색 페인트통이 흰색 전선으로 연결되어 액자 형태"
+"의 모양을 만들었습니다."
+
+#. (itstool) path: simplesect/para@dropcapfileref
+#. (itstool) comment: simplesect/para@dropcapfileref
+#. File for the capital image, depending on the capital letter and the
+#. required color. Can be postponed to the publishing process. priority:70
+#: Ada_Zangemann.dbk:332
+msgid "images/capitals/T-yellow2.png"
+msgstr ""
+
+#. (itstool) path: simplesect/para
+#. (itstool) id: Ada_Zangemann.dbk#para-back-1
+#: Ada_Zangemann.dbk:332
+msgid ""
+"<phrase condition=\"capitals-text\">The</phrase><phrase condition=\"capitals-"
+"img\">he</phrase> inventor Zangemann is world-famous and immensely rich. "
+"Adults and children alike love his fabulous technical inventions. But one "
+"day there is a problem: the children’s electronic skateboards no longer work "
+"properly. What’s going on? The curious girl Ada sees through what is going "
+"on. Together with her friends, she experiments with hardware and software, "
+"and the children forge a plan: Zangemann can no longer be the only one in "
+"control of the devices!"
+msgstr ""
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:333
+msgid ""
+"A book that arouses interest in tinkering and encourages shaping technology."
+msgstr ""
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:340
+msgid ""
+"A power strip, with input and output of white electrical cord that is the "
+"frame."
+msgstr ""
+"멀티탭에서 나오고 들어오는 흰색 전선이 액자 형태의 모양을 만들었습니다."
+
+#. (itstool) path: info/title
+#. Page before the colophon and the title page, with just the title. Also
+#. know as 'bastard title'.
+#: Ada_Zangemann.dbk:355
+msgid "Half-title page"
+msgstr ""
+
+#. (itstool) path: mediaobject/alt
+#. (itstool) path: simplesect/para
+#. (itstool) id: Ada_Zangemann.dbk#title-titlepage
+#. ignore-same
+#.
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:362 Ada_Zangemann.dbk:488
+msgid "ADA &amp; ZANGEMANN"
+msgstr "에이다와 장기만 아저씨"
+
+#. (itstool) path: info/title
+#. Also known as 'imprint'
+#: Ada_Zangemann.dbk:368
+msgid "Colophon"
+msgstr "속표지(저작권정보)"
+
+#. (itstool) path: simplesect/literallayout
+#. Smaller colophon to be combined with grey free cultural license
+#. section. Intended for non-print use or print if it fits. Otherwise use
+#. the fullpage colophon. Please reuse the license text translation from
+#. the official Creative Commons website
+#. https://creativecommons.org/licenses/by-sa/4.0/
+#.
+#. In a literallayout element all space and newline characters are kept.
+#: Ada_Zangemann.dbk:372
+#, no-wrap
+msgid ""
+"Copyright © 2023 Matthias Kirschner and Sandra Brandstätter.\n"
+"This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.\n"
+"To view a copy of this license, visit <link xlink:href=\"https://creativecommons.org/licenses/by-sa/4.0/\">https://creativecommons.org/licenses/by-sa/4.0/</link> or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.\n"
+"\n"
+"<emphasis role=\"bold\">Ada &amp; Zangemann: A Tale of Software, Skateboards, and Raspberry Ice Cream</emphasis> is a translation of the German original, Ada und Zangemann: Ein Märchen über Software, Skateboards und Himbeereis, published by Dpunkt.verlag in cooperation with O’Reilly Media, Inc., under the imprint “O’REILLY,” © 2022 by Matthias Kirschner and Sandra Brandstätter.\n"
+"\n"
+"This book by Matthias Kirschner (author) and Sandra Brandstätter (illustrator) is licensed under <emphasis role=\"bold\">Creative Commons CC-BY-SA</emphasis>, a free cultural license.\n"
+"\n"
+"<emphasis role=\"bold\">You may</emphasis> share, copy, and redistribute the material in any medium or format. <emphasis role=\"bold\">You may</emphasis> adapt, remix, transform, and build upon the material for any purpose, even commercially. <emphasis role=\"bold\">You must</emphasis> give appropriate credit, provide a link to the license, and indicate if changes were made.\n"
+"\n"
+"<emphasis role=\"bold\">You may</emphasis> do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. If you remix, transform, or build upon the material, <emphasis role=\"bold\">you must</emphasis> distribute your contributions under the same license as the original. (This is a human-readable summary of - and not a substitute for - the “legal code” of CC-BY-SA 4.0.)\n"
+"\n"
+"Furthermore for remix versions (derivative works), the licensor asks you not to make any modifications of the author’s personal acknowledgments and the author’s and illustrator’s short biographies, instead please completely remove those parts from your remix version.\n"
+"\n"
+"Publication under this free cultural license was possible due to the great support by dpunkt.verlag GmbH / O’Reilly Media, Inc. for the German book and No Starch Press for the English book. Unfortunately, Creative Commons licenses are still rare exceptions for commercially published books, and often considered revolutionary and risky by publishers.\n"
+"\n"
+"<emphasis role=\"bold\">A big thank you</emphasis> to <emphasis role=\"bold\">dpunkt.verlag</emphasis> and <emphasis role=\"bold\">No Starch Press</emphasis> for understanding the values of software freedom, taking the time to discuss and understand the advantages of free cultural licenses, and the great support to publish this book under conditions that respect the FSFE’s values."
+msgstr ""
+
+#. (itstool) path: simplesect/literallayout
+#. Full page colophon. Intended for print use, as an alternative to the
+#. half-page colophon that is combined with the grey free cultural license
+#. section. Please reuse the license text translation from the official
+#. Creative Commons website https://creativecommons.org/licenses/by-sa/4.0/
+#.
+#. In a literallayout element all space and newline characters are kept.
+#: Ada_Zangemann.dbk:389
+#, fuzzy, no-wrap
+msgid ""
+"Copyright © 2023 Matthias Kirschner and Sandra Brandstätter.\n"
+"This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.\n"
+"To view a copy of this license, visit <link xlink:href=\"https://creativecommons.org/licenses/by-sa/4.0/\">https://creativecommons.org/licenses/by-sa/4.0/</link> or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.\n"
+"\n"
+"<emphasis role=\"bold\">Ada &amp; Zangemann: A Tale of Software, Skateboards, and Raspberry Ice Cream</emphasis> is a translation of the German original, Ada und Zangemann: Ein Märchen über Software, Skateboards und Himbeereis, published by Dpunkt.verlag in cooperation with O’Reilly Media, Inc., under the imprint “O’REILLY,” © 2022 by Matthias Kirschner and Sandra Brandstätter.\n"
+"\n"
+"First printing\n"
+"\n"
+"26 25 24 23 22 1 2 3 4 5\n"
+"\n"
+"ISBN-13: 978-1-7185-0318-2 (print)\n"
+"ISBN-13: 978-1-7185-0319-9 (ebook)\n"
+"\n"
+"Publisher: William Pollock\n"
+"Author: Matthias Kirschner\n"
+"Illustrator: Sandra Brandstätter\n"
+"Managing Editor: Jill Franklin\n"
+"Production Editor: Jennifer Kepler\n"
+"Editor: Wiebke Helmchen\n"
+"Color Assistance: Olga Biryukova, Noémi Sárkány, Nathalie Scattolon, Kristina Haidinger, and Jasmin Schlögl\n"
+"Cover Design: Sandra Brandstätter and Susan Brown\n"
+"Compositor: Maureen Forys, Happenstance Type-O-Rama\n"
+"\n"
+"For information on distribution, bulk sales, or corporate sales, please contact No Starch Press, Inc. directly at <link xlink:href=\"mailto:info@nostarch.com\">info@nostarch.com</link> or:\n"
+"\n"
+"No Starch Press, Inc.\n"
+"245 8th Street, San Francisco, CA 94103\n"
+"phone: 1.415.863.9900\n"
+"<link xlink:href=\"https://nostarch.com/\">www.nostarch.com</link>\n"
+"\n"
+"A catalog record of this book is available from the Library of Congress.\n"
+"\n"
+"No Starch Press and the No Starch Press logo are registered trademarks of No Starch Press, Inc. Other product and company names mentioned herein may be the trademarks of their respective owners. Rather than use a trademark symbol with every occurrence of a trademarked name, we are using the names only in an editorial fashion and to the benefit of the trademark owner, with no intention of infringement of the trademark.\n"
+"\n"
+"The information in this book is distributed on an “As Is” basis, without warranty. While every precaution has been taken in the preparation of this work, neither the author nor No Starch Press, Inc. shall have any liability to any person or entity with respect to any loss or damage caused or alleged to be caused directly or indirectly by the information contained in it.\n"
+"\n"
+"All characters in this publication are fictitious, and any resemblance to real persons, living or dead, is purely coincidental.\n"
+"\n"
+"**\n"
+"\n"
+"This book by Matthias Kirschner (author) and Sandra Brandstätter (illustrator) is licensed under <emphasis role=\"bold\">Creative Commons CC-BY-SA</emphasis>, a free cultural license.\n"
+"\n"
+"<emphasis role=\"bold\">You may</emphasis> share, copy, and redistribute the material in any medium or format. <emphasis role=\"bold\">You may</emphasis> adapt, remix, transform, and build upon the material for any purpose, even commercially. <emphasis role=\"bold\">You must</emphasis> give appropriate credit, provide a link to the license, and indicate if changes were made.\n"
+"\n"
+"<emphasis role=\"bold\">You may</emphasis> do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. If you remix, transform, or build upon the material, <emphasis role=\"bold\">you must</emphasis> distribute your contributions under the same license as the original. (This is a human-readable summary of - and not a substitute for - the “legal code” of CC-BY-SA 4.0.)\n"
+"\n"
+"Furthermore for remix versions (derivative works), the licensor asks you not to make any modifications of the author’s personal acknowledgments and the author’s and illustrator’s short biographies, instead please completely remove those parts from your remix version.\n"
+"\n"
+"Publication under this free cultural license was possible due to the great support by dpunkt.verlag GmbH / O’Reilly Media, Inc. for the German book and No Starch Press for the English book. Unfortunately, Creative Commons licenses are still rare exceptions for commercially published books, and often considered revolutionary and risky by publishers.\n"
+"\n"
+"<emphasis role=\"bold\">A big thank you</emphasis> to <emphasis role=\"bold\">dpunkt.verlag</emphasis> and <emphasis role=\"bold\">No Starch Press</emphasis> for understanding the values of software freedom, taking the time to discuss and understand the advantages of free cultural licenses, and the great support to publish this book under conditions that respect the FSFE’s values."
+msgstr ""
+"<emphasis role=\"bold-italic\">Copyright © 2023 Matthias Kirschner and Sandra Brandstätter.</emphasis>\n"
+"\n"
+"이 책은 Creative Commons Attribution-ShareAlike 4.0 International 라이센스 하에 작업되었습니다.\n"
+"라이센스에 대한 자세한 내용은 다음 사이트를 방문하시거나 <link xlink:href=\"https://creativecommons.org/licenses/by-sa/4.0/\">https://creativecommons.org/licenses/by-sa/4.0/</link> 다음의 주소로 \n"
+"\n"
+"<emphasis role=\"bold-italic\">에이다와 장기만 아저씨: 소프트웨어와 스케이트보드와 라즈베리 아이스크림에 대한 이야기</emphasis>는 Dpunkt.verlag 출판사가 O’Reilly Media, Inc.와 협력하여 <emphasis role=\"bold-italic\">“O’REILLY,” © 2022 by Matthias Kirschner and Sandra Brandstätter.</emphasis> 라는 이름 아래 출판된 독일어 원문, <emphasis role=\"bold-italic\">Ada und Zangemann: Ein Märchen über Software, Skateboards und Himbeereis</emphasis>를 번역한 글입니다.\n"
+"\n"
+"First printing\n"
+"\n"
+"26 25 24 23 22 1 2 3 4 5\n"
+"\n"
+"ISBN-13: 978-1-7185-0318-2\n"
+"\n"
+"펴낸이: 윌리엄 폴록\n"
+"글: 마티아스 키르슈너\n"
+"그림: 산드라 브란트슈태터\n"
+"옮김: 이기현\n"
+"책임편집: 질 프랭클린\n"
+"프로덕션 편집: 제니퍼 케플러\n"
+"편집: 비브케 헴헨\n"
+"컬러 어시스턴스: 올가 비류코바, 노에미 사르카니, 나탈리 스캐톨론, 크리스티나 하이딩거, 야스민 슐뢰글\n"
+"표지 디자인: 산드라 브란트슈태터와 수잔 브라운\n"
+"조판: 모린 포리스, Happenstance Type-O-Rama\n"
+"\n"
+"책의 유통, 대량판매, 기업판매에 대한 정보를 원하시면 info@noname.com 으로 연락을 주시거나 아래 주소로 연락을 주시기 바랍니다:\n"
+"\n"
+"이름없는출판사\n"
+"주소: 123-456 경기도 파주시 교하읍 문발리 출판문화정보산업단지 000-0\n"
+"대표 전화: 031-955-0000\n"
+"팩스: 031-955-0000\n"
+"www.noname.com\n"
+"\n"
+"이 책의 국립중앙도서관 출판도서목록(CIP)은 다음 홈페이지에서 이용할 수 있습니다.\n"
+"http://www.nl.go.kr/cip.php  CIP제어번호:CIP0000000000 KDC분류 번호:0000_KXXX\n"
+"\n"
+"No Name Press와 No Name Press 로고는 No Name Press의 등록된 상표 입니다. 여기에 언급된 다른 상표는 각각의 상표 소유자의 등록된 상표입니다. 상표 이름이 나타날 때마다 상표명임을 나타내는 기호를 삽입하는 대신 당사는 상표를 침해할 의도없이 상표 소유자의 이익을 위해 비상업적인 방식으로만 해당 이름을 사용하고 있음을 밝힙니다.\n"
+"\n"
+"이 책의 정보는 어떠한 보증도 하지 않으면 \"있는 그대도\"를 기준으로 배포됩니다. 이 책의 작업을 준비하는 동안 모든 예방 조치를 취했지만, 저자나 No Starch Press, Inc.는 여기에 포함된 정보로 인해 직접적 또는 간접적으로 발생했거나 발생했다고 주장하는 어떤 개인이나 단체에 대해서도 손실이나 피해와 관련한 어떠한 책임도 지지 않습니다.\n"
+"\n"
+"이 책에 포함된 어떤 인물도 허구의 인물이며, 살아있거나 죽은 실제 인물과의 유사성이 있다면 그건 순전한 우연의 결과물입니다.\n"
+"\n"
+"**\n"
+"\n"
+"마티아스 키르슈너(작가)와 산드라 브란트슈태터(그림 작가)가 만든 이 책은 <emphasis role=\"bold\">Creative Commons CC-BY-SA</emphasis>, free cultural 라이센스를 따르고 있습니다.\n"
+"\n"
+"귀하는 어떤 형식의 매체로든 이 책의 자료를 공유, 복사 및 재배포 <emphasis role=\"bold\">할 수 있습니다.</emphasis> 또한 어떤 목적으로든, 심지어는 상업적으로도 자료를 개조하고 리믹스하고 변형하고 재구축 <emphasis role=\"bold\">할 수 있습니다</emphasis>. 이럴 경우 귀하는 저자에 대한 적절한 크레딧과 라이센스에 대한 링크, 그리고 어떤 부분이 수정되었는지를 표시 <emphasis role=\"bold\">해야합니다</emphasis>.\n"
+"귀하는 위의 표시 사항을 합리적으로 어떤 방식으로든 <emphasis role=\"bold\">표시 할 수 있으나</emphasis>, 라이센스 이용허락자가 당신 또는 당신의 사용을 승인했다는 걸 의미하고 있는 방식으로는 <emphasis role=\"bold\">표시 할 수 없습니다</emphasis>. 귀하는 귀하의 기여물을 원본과 동일한 라이센스로 배포 <emphasis role=\"bold\">해야 합니다</emphasis>. (이것은 CC-BY-SA 4.0의 법률 전문을 대체하는 것이 아닌 단지 간단히 읽을 수 있게 만든 요약본입니다.)\n"
+"\n"
+"더불어 리믹스 버젼의 경우 (파생 작품), 라이센스 소유자는 귀하에게 작가의 개인적인 감사의 말씀(acknoledgements)과 작가 및 그림 작가의 짧은 프로필(biographies)을 수정하지 말고, 리믹스 버젼에서는 해당 부분을 완전히 제거해 줄 것을 요청합니다.\n"
+"\n"
+"이 책이 free cultural 라이센스 아래 출판할 수 있었던 데에는 독일어 책자의 경우 dpunkt.verlag GmbH / O'Reilly Media, Inc.의 도움이 있었고, 영문 책자의 경우 No Starch Press의 도움이 있었습니다. 안타깝게도, Creative Commons 라이센스의 경우 상업적인 출판에서의 사용은 여전히 드믄 케이스이고 출판업계에서의 도입은 종종 혁명적이거나 위험 부담이 있는 시도로 여겨지고 있습니다.\n"
+"\n"
+"<emphasis role=\"bold\">dpunkt.verlag</emphasis>와 </small><small><emphasis role=\"bold\">No Starch Press</emphasis></small><small>에게 자유 소프트웨어의 가치를 공감하고 free cultural 라이센스의 유용성에 대해서 이해하고 논의하는데 시간을 할애 해주신 점, 그리고 FSFE의 가치를 존중하는 가운데 이 책을 출판할 수 있도록 도움을 주신 점에 대해서 <emphasis role=\"bold\">크나 큰 감사를 드립니다.</emphasis>"
+
+#. (itstool) path: simplesect/literallayout
+#. Grey section in the bottom of half page colophon.
+#.
+#. In a literallayout element all space and newline characters are kept.
+#: Ada_Zangemann.dbk:443
+#, no-wrap
+msgid ""
+"<emphasis role=\"bold\">Free as in freedom not price</emphasis>\n"
+"Free Software is about the freedoms you receive with the software, not about the price. Likewise publishing a book under a free culture license does not mean you have the right to get a gratis copy of the book or ebook. It means you get the rights described above, which enable society to benefit further from this book, as it should from all cultural works.\n"
+"\n"
+"We encourage you to support authors, publishers, and others involved in the creation of culture under free licenses – including <emphasis role=\"bold\">financially supporting them through purchases or donations</emphasis>. (<link xlink:href=\"https://fsfe.org/donate\">https://fsfe.org/donate</link>)\n"
+"Society should support those who respect others’ freedom."
+msgstr ""
+"<emphasis role=\"bold\">Free라는 단어는 자유를 의미하며 공짜를 의미하는 것이 아닙니다</emphasis>\n"
+"\n"
+"Free 소프트웨어란 소프트웨어를 통해 얻는 자유(Free)를 의미하는 것이지, 공짜(Free)를 의미하는 것이 아닙니다. 마찬가지로 free culture 라이센스에 따라 책을 출판하는 것은 당신이 해당 책이나 e북의 사본을 공짜로 받을 수 있는 권리가 생기는 것을 의미하는 것이 아닙니다. 이는 당신이 위에서 설명한 자유의 권리를 얻는다는 것을 의미하며, 이를 통해 모든 인류의 문화 행위가 그러하듯 이 책을 통해 우리 사회가 더 많은 혜택을 누릴 수 있게 된다는 것을 의미합니다.\n"
+"\n"
+"우리는 free 라이센스에 따라 문화를 창조하는데 기여하는 작가나 출판사 그리고 이 일을 하는 사람들을 지원 할 수 있도록 당신의 도움을 기다리고 있습니다 - <emphasis role=\"bold\">재정적인 지원과 기부를 포함해서</emphasis>\n"
+"(<link xlink:href=\"https://fsfe.org/donate\">https://fsfe.org/donate</link>)\n"
+"우리 사회는 다른 사람들의 자유를 존중하는 이들을 지원해야 합니다."
+
+#. (itstool) path: info/title
+#. Page next to the colophon with title, subtitle, authors and
+#. illustration of Ada’s dog.
+#: Ada_Zangemann.dbk:452
+msgid "Title page"
+msgstr ""
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:459
+msgid ""
+"Matthias Kirschner, Sandra Brandstätter - ADA &amp; ZANGEMANN - A Tale of "
+"Software, Skateboards and Raspberry Ice Cream. Title in the middle, authors "
+"in the upper left. In the lower right, Ada’s family’s dog with gray fur and "
+"some white patches and with a red collar with shiny yellow LEDs, which wags "
+"its tail."
+msgstr ""
+
+#. (itstool) path: mediaobject/alt
+#. ignore-same
+#.
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:466
+msgid "Matthias Kirschner, Sandra Brandstätter"
+msgstr "마티아스 키르슈너, 산드라 브란트슈태터"
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:476
+msgid ""
+"ADA &amp; ZANGEMANN - A Tale of Software, Skateboards and Raspberry Ice "
+"Cream. Title in the middle, authors in the upper left."
+msgstr ""
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:483
+msgid ""
+"In the lower right, Ada’s family’s dog with gray fur and some white patches "
+"and with a red collar with shiny yellow LEDs, which wags its tail."
+msgstr ""
+
+#. (itstool) path: simplesect/literallayout
+#. In a literallayout element all space and newline characters are kept.
+#: Ada_Zangemann.dbk:486
+#, no-wrap
+msgid ""
+"Matthias Kirschner\n"
+"Sandra Brandstätter"
+msgstr ""
+"마티아스 키르슈너\n"
+"산드라 브란트슈태터"
+
+#. (itstool) path: simplesect/literallayout
+#. (itstool) id: Ada_Zangemann.dbk#subtitle-titlepage
+#. In a literallayout element all space and newline characters are kept.
+#: Ada_Zangemann.dbk:489
+#, no-wrap
+msgid ""
+"A Tale of\n"
+"Software, Skateboards, and\n"
+"Raspberry Ice Cream"
+msgstr ""
+"소프트웨어와 스케이트보드와\n"
+"라즈베리 아이스크림에 대한\n"
+"이야기"
+
+#. (itstool) path: simplesect/para@dropcapfileref
+#. (itstool) comment: simplesect/para@dropcapfileref
+#. File for the capital image, depending on the capital letter and the
+#. required color. Can be postponed to the publishing process. priority:70
+#: Ada_Zangemann.dbk:500
+msgid "images/capitals/O-cyan.png"
+msgstr ""
+
+#. (itstool) path: simplesect/para
+#. (itstool) id: Ada_Zangemann.dbk#para-p04-1
+#: Ada_Zangemann.dbk:500
+msgid ""
+"<phrase condition=\"capitals-text\">Once</phrase><phrase "
+"condition=\"capitals-img\">nce</phrase> upon a time, there was a little girl "
+"named Ada. Her family was so poor that all their savings fit inside a cookie "
+"jar. They didn’t have enough money to live in a proper home. Instead, Ada "
+"lived with her mother and her little brother, Alan, in a cabin near a "
+"junkyard on the edge of town."
+msgstr ""
+"<phrase condition=\"capitals-text\">옛날에</phrase><phrase "
+"condition=\"capitals-img\">날에</phrase> 에이다라는 이름의 작은 소녀가 살고 "
+"있었어요. 그녀의 가족은 너무 가난해서 전 재산이라곤 쿠키통안에 들어있는 돈이 "
+"전부였어요. 그래서 좋은 집을 사기에 충분한 돈이 없었지요. 그래서 에이다는 엄"
+"마와 남동생 앨런과 함께 도시 외곽에 있는 고물 수집장 옆의 낡은 오두막에서 살"
+"았어요."
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:508
+msgid ""
+"Ada in foreground leaving the house to go to school, in the background Ada’s "
+"house and the junkyard. Ada has a brown backpack with yellow shoulder "
+"straps. To the left of Ada there is a red car, a Volkswagen Beetle, without "
+"wheels and no longer working, with one of the headlights remaining attached "
+"only with its wires. On the left, in front of the car, there are two tires, "
+"two boxes – one of which is a wooden box with an overturned bucket –, and an "
+"empty can, all among some plants with yellow flowers. In the background "
+"there is Ada’s house, with her mother and her brother Alan waving goodbye, "
+"and the dog sitting on the ground. Alan is sitting on the two entrance steps "
+"of the house. He has short dark hair and is dressed in a white short-sleeved "
+"shirt with a red stripe at the edges of the sleeves and two red stripes at "
+"the bottom of the shirt. Alan wears blue shorts and he is barefoot. Ada’s "
+"mom has dark lipstick and long black hair in a white headband. She is "
+"wearing a short blue shirt with white trim, white pants, and yellow shoes. "
+"Ada’s house is built of wood, with the front being white. The roof is dark "
+"red corrugated sheeting. There are two windows in front in addition to the "
+"door, and another window on the left side. A yellow duck stands on top of "
+"the roof, while a gray chimney protrudes. An antenna on the left of the roof "
+"supports a clothesline on which red clothespins hold a green tank top, a "
+"pair of light blue pants, and white underpants. To the right of the house "
+"there is a veranda on which there is installed a solar panel. Under the "
+"veranda there are a mattress, a red oil drum, and a gray case. Behind the "
+"house there are piles of landfill objects among which you can see a washing "
+"machine, a car, and various wooden boards."
+msgstr ""
+"전경에는 학교를 가려고 집을 나서는 에이다가 있습니다, 배경에는 에이다의 집과 "
+"고물 수집장이 있습니다. 에이다는 노란색 가방끈이 달린 갈색 가방을 메고 있습니"
+"다. 에이다의 왼쪽에는 빨간색 폭스바겐 비틀 자동차가 있는데, 바퀴도 하나없고 "
+"더 이상 동작하지 않는 고물 자동차에다가 고장난 헤드라이트 하나는 전선에 달려 "
+"아슬아슬하게 자동차에 매달려 있습니다. 그리고 차 앞에는 노란꽃을 피운 무성한 "
+"잡초가 있는데, 그 사이로 두 개의 타이어, 두 개의 나무로 만든 상자 그리고 빈 "
+"깡통이 놓여져 있습니다 - 나무 상자 중에 하나에는 양동이가 거꾸로 세워져 있습"
+"니다. 배경에는 에이다의 집이 있고, 에이다의 엄마와 남동생 앨런이 배웅을 하며 "
+"손을 흔들고 있습니다. 에이다의 강아지는 문앞 땅에 앉아있습니다. 앨런은 현관"
+"문 앞 두 번째 계단에 앉아있습니다. 앨런은 짧은 검은색 머리에 소매에 빨간 스트"
+"라이프가 그려져 있고 셔츠 하단에도 2개의 빨간 스트라이프가 그려져 있는 흰색 "
+"반팔 셔츠를 입고 있습니다. 또한 앨런은 파란색 반바지를 입고있고 아무것도 신"
+"지 않은 맨발입니다. 에이다의 엄마는 짙은 립스틱을 바르고있고 긴 검은색 머리"
+"에 흰색 헤어밴드를 하고 있습니다. 또 흰색 트림 장식이 달린 파란색 셔츠, 흰색 "
+"바지를 입고 노란색 신발을 신고 있습니다. 에이다의 집은 앞면이 흰색으로 칠해져"
+"있고 나무로 만들어져 있습니다. 지붕은 짙은 빨간색의 골강판으로 이루어져 있습"
+"니다. 집 앞면에는 2개의 창문이 문 주위에 달려있고, 다른 창문은 옆면에 달려있"
+"습니다. 지붕에는 회색 굴뚝이 튀어나와 있는 가운데, 노란 오리가 지붕에 서있습"
+"니다. 지붕 왼편에는 안테나가 있는데 빨래줄이 묶여있고 빨래줄에는 빨간색 빨래"
+"집게로 초록색 탱크탑과 엹은 파란색 바지, 흰색 팬티를 널어놓았습니다. 집 오른"
+"편에는 베란다가 있는데 베란다 지붕에는 태양열 전지판이 설치되어 있고 베란다 "
+"안에는 매트리스와 빨간색 기름통, 회색 상자가 놓여져 있습니다. 집 뒷편에는 버"
+"려진 잡동사니 더미가 있는데, 그 중에는 버려진 세탁기, 자동차, 나무판등이 보입"
+"니다."
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:516
+msgid ""
+"Prestigious magazines (“STARS“, “MONEY”, “Richest Man”) on whose cover are "
+"Zangemann and his villa."
+msgstr ""
+"표지에 장기만과 그의 집이 실려있는 권위있는 잡지들. (“스타”, “머니”, “리치스"
+"트맨”)"
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:518
+msgid ""
+"Far away, at the other end of town, lived a famous inventor named Zangemann. "
+"He was immensely rich. No sheet of paper in the world was big enough to show "
+"his bank balance with all its numbers and zeros! He lived in a huge house "
+"with a swimming pool and waterslide, lots of staircases and towers, hundreds "
+"of windows, and so many rooms that he often got lost in them himself. "
+"Zangemann’s mansion stood high on a hill. From there, he could look out over "
+"the whole city."
+msgstr ""
+"멀리, 도시 저 편에는 장기만이라는 이름의 유명한 발명가가 살고 있었어요. 그는 "
+"어마어마하게 부자였어요. 통장 잔고가 셀 수 없이 많은 숫자들과 0으로 이루어져 "
+"있어서 아저씨의 통장 잔고를 보여줄 수 있는 종이는 세상에 존재하지 않을 정도였"
+"어요! 아저씨 집은 수영장과 워터슬라이드, 수많은 계단과 타워, 수백 개의 창문"
+"이 달려 있었어요. 그 집에는 수많은 방들도 있었는데 아저씨가 종종 길을 잃어버"
+"리기도 했죠. 장기만 아저씨의 저택은 언덕에 우뚝 솟아 있었어요. 그는 거기에서 "
+"도시를 한 눈에 내려다 볼 수 있었지요."
+
+#. (itstool) path: info/title
+#: Ada_Zangemann.dbk:523
+msgid "Zangemann and computers"
+msgstr "장기만과 컴퓨터"
+
+#. (itstool) path: simplesect/para@dropcapfileref
+#. (itstool) comment: simplesect/para@dropcapfileref
+#. File for the capital image, depending on the capital letter and the
+#. required color. Can be postponed to the publishing process. priority:70
+#: Ada_Zangemann.dbk:527
+msgid "images/capitals/C-red1.png"
+msgstr ""
+
+#. (itstool) path: simplesect/para
+#. (itstool) id: Ada_Zangemann.dbk#para-p06-1
+#: Ada_Zangemann.dbk:527
+msgid ""
+"<phrase condition=\"capitals-text\">Computers</phrase><phrase "
+"condition=\"capitals-img\">omputers</phrase> had fascinated Zangemann ever "
+"since he was a child. When he was young, computers were huge machines with "
+"lots of cables and loud, noisy fans. At school, little Zangemann often "
+"dreamed of all the things he would do with computers if they were just a "
+"little bit smaller — small enough that they could be built into other fun "
+"things. He knew what he would do. First, he would build a computer into his "
+"skateboard so that it would make cool noises when he rode it — maybe a fire "
+"engine siren or the sound of a rocket launch. Then he would use a computer "
+"to invent ice‑cream-making machines! The computer would mix the coolest "
+"flavors and even sell the ice cream. There would be machines on every street "
+"corner, and he could get ice cream in his favorite flavor whenever he felt "
+"like it, and just as much as he wanted. After that, he’d build a cleaning "
+"robot and a block-sorting machine so that his room would always be neat and "
+"clean. Zangemann had great new ideas like these every day. He could think of "
+"nothing else."
+msgstr ""
+"<phrase condition=\"capitals-text\">컴퓨터는</phrase><phrase "
+"condition=\"capitals-img\">퓨터는</phrase> 어렸을 때부터 장기만 아저씨를 매료"
+"시켰어요. 아저씨가 어렸을 때, 컴퓨터는 수많은 케이블과 크고 시끄러운 팬소리"
+"가 나는 거대한 기계였어요. 학교를 다닐 때 꼬마 장기만은 만약 컴퓨터가 지금보"
+"다 작아지게 된다면 무얼 할 수 있을까?라며 많은 것들을 상상하곤 했어요. 컴퓨터"
+"가 충분히 작아져서 여러가지 물건에 컴퓨터가 쏙 들어가게 될 때를 말이죠. 그렇"
+"게 된다면 뭘 해야 할지를 알 것 같았어요. 우선 컴퓨터가 달린 스케이트보드를 만"
+"들 작정이었어요. 그래서 스케이드보드를 타면 소방차 사이렌 소리나 로켓 발사 소"
+"리같은 멋진 소리를 내는 거에요. 그런 다음에는 아이스크림 만드는 기계에 컴퓨터"
+"를 넣을 생각이에요. 기계에 달린 컴퓨터가 가장 맛있는 맛을 섞어서 아이스크림"
+"을 만들어 파는거죠. 모든 길모퉁이에 아이스크림 만드는 기계를 놓을거에요. 그래"
+"서 내가 원할 때 마다 내가 좋아하는 맛의 아이스크림을 언제든 맘껏 먹을 수 있는"
+"거죠. 그리고나서 청소 로봇과 장난감 블럭 정리 기계를 만들 생각이에요. 그러면 "
+"항상 방이 깨끗하고 깔끔할거에요. 꼬마 장기만은 이렇게 훌륭하고 새로운 아이디"
+"어를 매일 매일 떠올렸어요. 사실 꼬마 장기만은 이것말고 다른 건 도무지 떠올릴 "
+"수 없었거든요."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:528
+msgid ""
+"As the years went by, Zangemann grew bigger and computers got smaller. In "
+"fact, by the time he finished school, they were so small they fit in his "
+"pocket. The smallest ones even fit on his fingertip."
+msgstr ""
+"시간이 흘러, 꼬마 장기만은 점점 커지고 컴퓨터는 점점 작아졌어요. 장기만 아저"
+"씨가 막 학교를 졸업했을 때, 컴퓨터는 주머니에 쏙 들어갈 정도로 작아졌어요. 정"
+"말 작은 컴퓨터는 손가락 끝에 올려놓을 정도의 작은 크기였지요."
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:535
+msgid ""
+"Zangemann as a child on a chair at a school table. From his head come six "
+"bubbles in which there are his ideas of places in which to insert computers: "
+"a video call system, a speaker, a washing machine, a skateboard with radio "
+"control on a big computer monitor, a wrist computer, and a shoulder computer "
+"with a monitor and keyboard. Zangemann has gray hair, a dark purple shirt "
+"with blue horizontal stripes, blue shorts, brown shoes and white socks. He "
+"wears glasses and a big watch on his left wrist. On the table there are an "
+"open notebook, a yellow pencil, and an eraser, while hanging on the side of "
+"the table there is his brown briefcase."
+msgstr ""
+"꼬마 장기만이 학교 책상에 앉아있는 모습. 머리 위에는 6개의 생각 주머니가 떠올"
+"라 있는데, 어떤 곳에 컴퓨터를 넣을지에 대한 생각을 보여주고 있습니다 : 화상 "
+"회의 시스템, 스피커, 세탁기, 대형 모니터에 무선 제어 기능이 있는 스케이트보"
+"드, 손목 컴퓨터 그리고 모니터와 키보드가 달린 배낭 컴퓨터 꼬마 장기만은 회색 "
+"머리카락에 파란색 줄무늬가 들어간 짙은 보라색 티셔츠와 푸른색 반바지, 흰색 양"
+"말과 갈색 신발을 신었습니다. 또 안경을 끼었고 오른 손목에는 커다란 시계를 차"
+"고 있습니다. 그가 앉아있는 책상 위에는 펼쳐진 공책과 노란색 연필 그리고 지우"
+"개가 놓여있고 책상 한 편에는 갈색 가방이 걸려있습니다."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:540
+msgid ""
+"“Finally, I can turn all my ideas into real things!” Zangemann exclaimed, "
+"and he got right to work. He found ways to put the small computers into all "
+"kinds of things to make them even more fun and useful. And then he sold them."
+msgstr ""
+"“마침내 내 생각을 모두 현실로 만들수 있겠어!” 장기만 아저씨는 소리쳤어요. 그"
+"리곤 곧장 작업에 들어갔지요. 그는 모든 종류의 물건에 작은 컴퓨터를 넣어서 그"
+"것들은 좀 더 재미나고 유용하게 만드는 법을 찾아 냈어요. 그리고는 그것들은 사"
+"람들에게 팔기 시작했지요."
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:545
+msgid ""
+"Zangemann original ice cream machine. It is ice blue in color and is similar "
+"to a vending machine of drinks, but instead of the cup there is a cone that "
+"is filled with ice cream. Above the dispenser there is a monitor showing the "
+"variety that is distributed, in this case pineapple ice cream. On the left "
+"there are the slot for inserting coins, the various buttons to choose the "
+"flavor, and the hole for returning coins. At the top there is a round white "
+"sign with a scoop of candy-pink ice cream in a cone. On the back of the "
+"machine there is the refrigeration machinery with the “Z” of the Zangemann "
+"logo."
+msgstr ""
+"“마침내 내 생각을 모두 현실로 만들수 있겠어!” 장기만 아저씨는 소리쳤어요. 그"
+"리곤 곧장 작업에 들어갔지요. 그는 모든 종류의 물건에 작은 컴퓨터를 넣어서 그"
+"것들은 좀 더 재미나고 유용하게 만드는 법을 찾아 냈어요. 그리고는 그것들은 사"
+"람들에게 팔기 시작했지요."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:547
+msgid ""
+"Adults and children loved his inventions. All the kids wanted to have one of "
+"his skateboards — complete with the latest sounds to show off to their "
+"friends at school. Kids also loved his speaker invention, which could "
+"instantly play any song you requested. And, of course, everyone loved the "
+"ice cream served every afternoon from the automatic, extra-delicious "
+"Original Zangemann Ice Cream Machine. It all seemed like magic, but the "
+"secret was simple: the little computers that Zangemann built into his "
+"machines made it all possible."
+msgstr ""
+"어른 아이 할 것 없이 모두 그의 발명품을 좋아했어요. 아이들은 그가 만든 스케이"
+"드보드를 갖고 싶어했어요. 최신 사운드가 탑재되어 있어 친구들에게 자랑하기 좋"
+"았거든요. 아이들은 어떤 음악이든지 바로바로 틀어주는 그의 스피커 발명품도 좋"
+"아했어요. 그리고 매일 오후에 판매되는 장기만 아저씨의 엄청 맛있기로 소문난 오"
+"리지날 자동 아이스크림 기계도 모두들 좋아했지요. 모든 게 마치 마법 같았어요. "
+"그러나 비밀은 아주 간단했어요. 바로 장기만 아저씨가 기계에 넣어놓은 작은 컴퓨"
+"터 덕분이었죠."
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:552
+msgid ""
+"An original Zangemann electric skateboard leaving a blue trail with musical "
+"notes and colored circles. Only the knees, white socks, and olive green "
+"shoes with white soles of the child riding it are shown."
+msgstr ""
+"음표와 색색깔 동그라미가 춤을 추며 푸른색 잔상을 남기는 장기만 아저씨의 오리"
+"지날 전동 스케이트 보드. 흰색 양말과 흰색 밑창이 달린 올리브 그린 신발을 신"
+"은 아이가 그 스케이드보드를 타고 있는데 무릎 아래쪽만 보이는 모습."
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:560
+msgid ""
+"Ada tinkers with objects in her improvised lab. Ada is sitting on an "
+"overturned water case, and working on a repair with a yellow screwdriver. "
+"Also on the table are green pliers, a red hammer, a white power strip, and "
+"another gadget. Ada is at a table consisting of a wooden board supported by "
+"two oil drums (one gray and one red) and a small wooden sawhorse. Behind Ada "
+"there are a washing machine, pipes, and a board. In front of the improvised "
+"table there are tires and an old phone with faulty wire. Alan is coming "
+"toward Ada holding a yellow fan over his head. Alan now wears white socks "
+"and yellow shoes."
+msgstr ""
+"에이다가 그녀의 즉석 연구실에서 물건을 만지작 거리고 있습니다. 에이다는 뒤집"
+"은 우유박스에 앉아서 노란색 드라이버로 무언가를 고치고 있습니다. 테이블 위에"
+"는 초록색 펜치와 빨간색 망치, 흰색 멀티탭 그리고 도구들이 놓여 있습니다. 에이"
+"다는 나무판으로 만들어진 책상 앞에 앉아있는데 나무판은 두개의 기름통과 (하나"
+"는 회색 하나는 빨간색) 작은 톱질용 작업대로 지지하고 있습니다. 에이다 뒤에는 "
+"세탁기, 파이프관, 판자가 놓여있습니다. 간이 테이블 앞에는 타이어들과 전선들"
+"이 헝클어진 오래된 전화기가 있습니다. 앨런이 노란색 환풍기를 머리 위로 들고 "
+"에이다에게 달려오고 있습니다. 앨런은 이제 흰색 양말과 노란색 신발을 신고 있습"
+"니다."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:562
+msgid ""
+"These inventions were very popular at Ada’s school, and many of her friends "
+"rode around on the cool skateboards. Ada was often sad, since her mother "
+"couldn’t buy her any of those great things: no skateboard, no speakers, no "
+"ice cream."
+msgstr ""
+"아저씨의 발명품은 에이다의 학교에서 유행했어요. 에이다의 다른 많은 친구들이 "
+"그 멋진 스케이드보드를 타고 다녔지요. 에이다는 하지만 가끔 슬펐어요. 왜냐면 "
+"에이다의 엄마는 에이다에게 그런 멋진 것을 사줄 수 없었기 때문이에요. 멋진 스"
+"케이드보드도 스피커도 그리고 아이스크림도요..."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:564
+msgid ""
+"Luckily, Ada lived right next to the junkyard. There were lots of broken "
+"gadgets and rusty parts, which she put together to make cool new things, "
+"like a soapbox she and Alan rode roaring down the hill, a windmill, and "
+"scary junk monsters, which she and Alan would fight together. She also found "
+"many useful items—an old cell phone, for example. The screen was cracked, "
+"but she could fix that, and while there wasn’t internet at the junkyard, she "
+"could get access somewhere else."
+msgstr ""
+"하지만 운좋게도 에이다는 고물 수집장 옆에서 살았어요. 거기에는 다양한 부서진 "
+"물건들과 오래된 부품들이 있었어요. 그걸로 에이다는 동생 앨런과 신나게 언덕을 "
+"미끄러져서 내려갈 수 있는 나무 상자라던가 풍차라던가 힘을 합쳐 무찌를 수 있"
+"는 무서운 쓰레기 괴물같은걸 만들 수 있었어요. 에이다는 오래된 핸드폰 같은 유"
+"용한 물건도 찾을 수 있었어요. 화면은 비록 깨져있었지만 다시 고칠 수 있었어"
+"요. 고물 수집장에 인터넷이 깔려 있지 않았지만 여기가 아닌 다른 곳에서 핸드폰"
+"으로 인터넷에 접속할 수 있었어요."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:565
+msgid ""
+"Ada had so much fun tinkering in the junkyard and fixing broken things that "
+"she forgot all about the skateboards and the ice cream."
+msgstr ""
+"에이다는 고물 수집장에서 이것저것 만지작거리며 부서진 물건을 고치는게 너무 재"
+"미있었어요. 스케이드보드나 아이스크림 같은 건 까맣게 잊어버릴만큼요."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:569
+msgid ""
+"Because everyone bought his inventions, Zangemann soon became the richest "
+"person in the whole world. With all his money, he bought a huge golden "
+"computer with a keyboard made of jewels and set it up in the largest room of "
+"his mansion. From there, over the internet, he could control all the little "
+"computers built into his inventions."
+msgstr ""
+"모두가 장기만 아저씨의 발명품을 좋아했기 때문에 장기만 아저씨는 곧 세계에서 "
+"가장 큰 부자가 되었어요. 가진 돈을 모두 모아서 장기만 아저씨는 키보드가 보석"
+"으로 만들어진 거대한 황금 컴퓨터를 샀어요. 그리곤 저택 가장 큰 방에 설치했어"
+"요. 그는 그 컴퓨터로 인터넷을 통해 전 세계에 있는 모든 발명품 안에 있는 그의 "
+"작은 컴퓨터를 조종했어요."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:570
+msgid ""
+"All he had to do was press the proper key on the golden computer, and "
+"immediately all the ice-cream machines in town would dispense only vanilla "
+"ice cream. If Zangemann wanted people to eat chocolate ice cream, he pressed "
+"the key for chocolate ice cream. If he gave the order for lemon ice cream, "
+"the machines made only lemon ice cream. Zangemann loved his inventions and "
+"was always thrilled at how amazingly well his machines worked. Sometimes "
+"people were disappointed when their favorite flavor wasn’t available, but "
+"what could they do? After all, there was ice cream on every street corner."
+msgstr ""
+"마을의 모든 아이스크림 기계에서 바닐라 아이스크림만 나오게 하고 싶으면, 아저"
+"씨는 황금 컴퓨터에 달린 적절한 키를 누르기만 하면 되었죠. 모든 사람들이 초콜"
+"렛 아이스크림을 먹길 원한다면, 아저씨는 초코렛 아이스크림 키만 누르면 되는거"
+"에요. 레몬 아이스크림을 만들라고 명령을 내리면? 기계가 레몬 아이스크림만을 만"
+"드는 거죠. 장기만 아저씨는 그런 그의 발명품들을 사랑했어요. 그는 자신의 기계"
+"들이 항상 놀랍게 일을 잘 수행해내는 것에 짜릿함을 느꼈어요. 때때로 사람들이 "
+"자기가 좋아하는 맛이 없다고 불평을 하긴 했지만, 그 사람들이 그 이상 무슨 일"
+"을 할 수 있겠어요? 결국 모든 거리의 모퉁이에는 아저씨의 아이스크림 기계가 존"
+"재할테니까요."
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:575
+msgid ""
+"A white power strip attached to a wall socket. The power strip has 3 sockets "
+"and a green switch. One of the sockets is attached to a plug with a gray "
+"cable."
+msgstr ""
+"흰색 멀티탭이 벽면 콘센트에 꾳혀있습니다. 멀티탭은 3개의 소켓과 초록 불빛이 "
+"나는 스위치가 달려있습니다. 그 중 한 개의 소켓에는 회색 케이블이 꽃혀있습니"
+"다."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:579
+msgid ""
+"Zangemann had a lot of fun pressing the sparkling keys and watching people "
+"eat ice cream. He spent many hours every day in front of his golden computer "
+"doing this. Again and again, he looked down on the city through a long "
+"telescope, observing how reliably his inventions carried out his commands."
+msgstr ""
+"장기만 아저씨는 반짝이는 키를 누르고 사람들이 아이스크림을 먹는 모습을 보는"
+"게 즐거웠어요. 그는 황금 컴퓨터 앞에서 이 일을 하면서 수많은 시간을 보냈어"
+"요. 계속 또 계속.. 그는 긴 망원경을 이용해서 도시를 내려다 보면서 그의 발명품"
+"들이 얼마나 제대로 그의 명령을 잘 수행하는지 관찰했어요."
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:584
+msgid ""
+"Zangeman sitting in front of his golden computer on a golden armchair with a "
+"very tall red padded backrest at whose top is the “Z” of the Zangemann logo. "
+"He is wearing a purple turtle-neck sweater and light blue trousers. The "
+"computer has four ornate monitors of various sizes, each of which has the "
+"logo on the back. It is integrated into a costly wooden desk from which a "
+"gray cable flows that is connected to the power strip of the previous page."
+msgstr ""
+"장기만 아저씨가 황금 컴퓨터 앞에 앉아있습니다. 장기만 아저씨는 “Z” 로고가 꼭"
+"대기에 달려있는 황금색 팔걸이 의자에 앉아 있는데 등판에는 매우 기다란 빨간색 "
+"패드가 달려있습니다. 그는 보라색의 터틀넥 스웨터를 입고 있고 연청색 바지를 입"
+"고 있습니다. 황금 컴퓨터는 다양한 크기의 화려한 모니터를 4개나 가지고 있습니"
+"다. 각각의 모니터 뒷면에는 로고가 달려있습니다. 모니터들은 비싸보이는 나무 책"
+"상에 견고히 부착되어 있는데 회색 케이블들이 각각 연결되어 있고 앞 장에서 보았"
+"던 멀티탭으로까지 연결되어 있습니다."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:589
+msgid ""
+"When he wasn’t sitting at his golden computer, Zangemann was building his "
+"little computers into new devices and then selling those. He built washing "
+"machines that sent a message to your cell phone when your laundry was done. "
+"He made vacuums that played happy music instead of droning loudly. He "
+"invented light bulbs that turned on and off at the snap of a finger and cars "
+"that told you where the nearest grocery store was."
+msgstr ""
+"아저씨가 황금 컴퓨터 앞에 앉아있지 않을 때에는 작은 컴퓨터를 이용해 새로운 장"
+"치를 만들거나 만든 새 장치를 팔았어요. 그는 새로운 세탁기를 만들었는데 이 세"
+"탁기는 세탁이 끝나면 핸드폰으로 문자를 보내주었어요. 아저씨는 진공청소기도 만"
+"들었는데 시끄러운 소리대신 즐거운 음악을 연주해 주었어요. 또 손가락을 딱하고 "
+"튕기면 켜지고 꺼지는 전구와 어디에 가까운 마트가 있는지 알려주는 자동차도 발"
+"명했어요."
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:594
+msgid ""
+"City landscape with houses and shops, with a central street turning right. "
+"On the road there are a car and a cyclist. There are various children and "
+"adults walking or going on skateboards, some eating ice cream, while others "
+"are buying ice cream from the original Zangemann machines."
+msgstr ""
+"집들과 가게들이 즐비한 도시의 모습. 도시에는 오른쪽으로 굽어지는 중앙 도로가 "
+"있습니다. 도로에는 자동차들과 자전거를 타는 사람들이 있습니다. 아이들과 어른"
+"들이 길거리를 걸어다니거나 스케이드보드를 타고 있습니다. 몇몇은 아이스크림을 "
+"먹고 있고 또 어떤 사람들은 장기만 아저씨의 아이스크림 기계에서 아이스크림을 "
+"사고 있습니다."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:596
+msgid ""
+"Soon, almost every appliance in the world had a Zangemann computer built "
+"into it. Not all of his inventions seemed necessary at first, but people "
+"bought everything he made. That’s just the way it was. Everyone wanted the "
+"devices made by Zangemann, the greatest inventor in the world."
+msgstr ""
+"곧 세상의 모든 가전제품에 장기만 아저씨의 컴퓨터가 들어가게 되었어요. 처음에"
+"는 아저씨의 발명품이 전부 다 필요해 보이지는 않았어요. 그러나 사람들은 점차 "
+"그것들은 하나둘씩 사기 시작했어요. 어쩌다 보니 그렇게 되었지요. 모두가 최고"
+"의 발명가인 장기만 아저씨가 만드는 제품을 가지고 싶어했어요."
+
+#. (itstool) path: info/title
+#. Intended as 'on a day', not 'a single day'. This is supposed to be
+#. equal to the beginning of the first sentence of this chapter.
+#: Ada_Zangemann.dbk:601
+msgid "One day..."
+msgstr "어느 날..."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:604
+msgid ""
+"One day Zangemann thought, “Today I want to see my inventions up close.” He "
+"put away his big telescope, then climbed down the many stairs of his mansion "
+"and ventured out into the city, full of anticipation at the thought of "
+"enjoying his cool devices."
+msgstr ""
+"어느 날 장기만 아저씨는 생각했어요, “오늘은 내 발명품들을 가까이서 보고싶"
+"군.” 그는 큰 망원경을 밀어두고, 도시를 탐험하기 위해 그의 저택 계단을 내려가"
+"기로 했어요. 그가 만든 멋진 장치들을 직접 눈으로 보고 즐길 수 있으리란 희망"
+"을 안고서요."
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:609
+msgid ""
+"Zangemann descends the stairs from his mansion on the hill towards the city. "
+"Zangemann’s house stands on a hill. The front is blue with large windows; "
+"the towers are dark blue, and from a window starts a yellow slide that ends "
+"in a large swimming pool with two palm trees. The roofs are red, and above "
+"the highest tower an antenna is installed. On the sides of the stairs to get "
+"off the hill there are evergreen trees."
+msgstr ""
+"장기만 아저씨는 도시로 내려가기 위해 언덕 위에 있는 그의 저택 계단을 내려오"
+"고 있습니다. 장기만 아저씨의 저택은 언덕 위에 있습니다. 저택은 큰 창문을 가"
+"진 파란색이었어요; 높은 타워는 짙은 파란색이고 타워에 연결된 노란색 미끄럼틀"
+"이 두 그루의 야자수 나무가 있는 수영장으로 연결되어 있습니다. 지붕은 빨간색이"
+"고 가장 높은 타워에는 안테나가 설치되어 있습니다. 언덕을 내려가는 계단 옆에"
+"는 푸른 상록수 나무가 심어져 있습니다."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:613
+msgid ""
+"“Maybe a little trip might even give me a few new ideas. If I’m completely "
+"honest, my last inventions weren’t quite as useful as the first ones... ,” "
+"Zangemann pondered. “But my ice-cream machines are and will remain second to "
+"none,” he thought immediately afterward, and not without pride, as he passed "
+"a group of people all eating coconut ice cream, the flavor of the day."
+msgstr ""
+"“아마도 잠깐의 산책이 나에게 새로운 활력소를 불어 넣어줄꺼야. 만약 내 생각이 "
+"맞다면, 내 마지막 발명품은 처음 발명품 만큼 유용하지는 않을꺼야...” 아저씨는 "
+"깊은 생각에 빠졌어요. “그래도 내 아이스크림 기계는 누구에게도 뒤지지 않고 앞"
+"으로도 그럴꺼야” 아저씨는 한 무리의 사람들이 오늘의 아이스크림인 코코넛 아이"
+"스크림을 먹으며 스쳐 지나가는 걸 보면서 자부심이 차올랐습니다."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:615
+msgid ""
+"He was completely absorbed in his thoughts when suddenly — BAM! — something "
+"crashed into his shin."
+msgstr ""
+"아저씨가 완전히 자기 생각에 잠겨있던 그 때 - 쾅!!! - 무언가가 아저씨의 정강이"
+"를 완전히 걷어찼습니다."
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:620
+msgid ""
+"Zangemann after the incident with the child. Zangemann screams from pain "
+"while holding up one of his legs with both hands at the shin. The child has "
+"brown hair that is blown back by Zangemann’s scream; he is wearing a light "
+"blue hooded sweatshirt and dark green pants. He holds a red Zangemann "
+"electric skateboard."
+msgstr ""
+"아이와 사고가 난 직후의 장기만 아저씨. 장기만 아저씨는 한 발을 들고 자신의 정"
+"강이를 손으로 부여 잡으며 비명을 지르고 있습니다. 장기만 아저씨의 비명 소리"
+"에 아이의 갈색 머리가 뒤로 휘날리고 있습니다: 아이는 하늘색의 후드 티셔츠와 "
+"짙은 녹색 바지를 입고 있습니다. 또 한 손에는 빨간색의 장기만 아저씨표 전동 스"
+"케이드보드를 들고 있습니다."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:624
+msgid ""
+"Zangemann yelped and looked around for the cause. A startled child stood in "
+"front of him, holding an original Zangemann skateboard under his arm. "
+"“Sorry, I didn’t mean to do that,” the child stammered, but Zangemann wasn’t "
+"listening."
+msgstr ""
+"장기만 아저써는 “악”하고 비명을 질렀습니다. 주위를 둘러봤지요. 깜짝놀란 아이"
+"가 아저씨 앞에 서있었어요. 한 손에는 장기만 아저씨의 스케이드 보드를 안고서"
+"요. “죄송해요, 그럴려고 한게 아닌데..” 아이는 당황해서 말을 더듬었어요. 하지"
+"만 장기만 아저씨에게는 귀에는 들리지 않았죠."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:625
+msgid ""
+"An angry Zangemann limped away. Suddenly, he heard loud music. He had never "
+"before heard something so horrible. He looked around and saw that the music "
+"was coming from a loudspeaker he himself had constructed. A child across the "
+"street was holding it. The child seemed to like the music, but it gave "
+"Zangemann a terrible headache, and his mood worsened. This was not how he "
+"had imagined his walk!"
+msgstr ""
+"화가 난 아저씨가 절뚝거리며 떠났어요. 갑자기 어디선가 시끄러운 음악이 들렸어"
+"요. 하지만 그렇게 끔직한 음악는 난생 처음 들어봤어요. 주변을 둘러봤더니 아저"
+"씨가 만든 스피커에서 음악이 흘러나오고 있는게 아니겠어요. 건너편 아이가 그 스"
+"피커를 가지고 있었어요. 아이는 그 음악을 좋아하는 것 같았지만 아저씨에겐 심각"
+"한 두통만 선사할 뿐이었죠. 아저씨는 기분이 안좋아졌어요. 이건 정말이지 예상하"
+"지 못한 하루였죠!"
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:630
+msgid ""
+"Advertisements for Zangemann ice cream (sandwich board), a Zangemann "
+"electric skateboard, and a Zangemann washing machine. The math teacher, Ms. "
+"Gernet, is passing in front of the billboards. Ms. Gernet is an old lady "
+"with short white hair. She is dressed in a light green t-shirt and a pea "
+"green sweater, dark brown pants, and light green heeled shoes. She has a "
+"fuchsia shoulder bag, worn behind her. She pushes a small shopping cart in "
+"which there is a small brown dog with a collar and tag."
+msgstr ""
+"장기만표 아이스크림 광고판 (접이식 간판), 장기만표 전동 스케이트보드 광고판 "
+"그리고 장기만표 세탁기 광고판. 수학을 가르치는 가넷 선생님이 광고판 앞을 걸어"
+"가고 있습니다. 가넷 선생님은 흰색 짧은 머리의 할머니 선생님이에요. 그녀는 밝"
+"은 녹색 티셔츠와 완두콩색 스웨터, 짙은 갈색의 바지, 밝은 녹색의 굽높은 구두"
+"를 신었어요. 그녀는 핫핑크색 핸드백을 뒤로 메고 있어요. 그녀는 작은 쇼핑 카트"
+"를 밀고 있었는데 카트 안에는 팬던트 목걸이를 찬 갈색 강이지가 타고 있습니다."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:635
+msgid ""
+"Zangemann was so furious with the two children. How dare they use his "
+"inventions this way? That night, he couldn’t sleep, so he sat down at his "
+"golden computer. From there, he gave all the little computers in the "
+"skateboards a command that they were no longer allowed to go on sidewalks. "
+"He ordered the small computers in the speakers to play music only at a low "
+"volume, except for his favorite music, which he immediately turned on to get "
+"into a better mood."
+msgstr ""
+"장기만 아저씨는 낮에 만났던 두 아이 때문에 화가 났습니다. 아이들은 어째서 자"
+"신의 발명품을 감히 그런 식으로 사용하는 걸까요? 그는 통 잠을 이루지 못했습니"
+"다. 그는 황금 컴퓨터에 앉았습니다. 거기서 아저씨는 스케이보드에 달린 작은 컴"
+"퓨터에게 더 이상 인도에서 동작하지 않도록 명령을 내렸습니다. 스피커에 달린 컴"
+"퓨터에게는 자신이 좋아하는 음악을 빼고는 모두 작은 소리로 연주되도록 지시를 "
+"내렸습니다. 아저씨는 지시를 내리고 난 뒤에 지금껏 가라앉은 기분을 바꾸고자 스"
+"피커를 켰답니다."
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:640
+msgid ""
+"The city in the evening, with houses, a church, and two streetlights. Images/"
+"Illustrations emerge from the dwellings illustrating Zangemann’s inventions "
+"bought by the inhabitants: a washing machine, a yellow vacuum cleaner, and a "
+"red car, all with Internet connection signals."
+msgstr ""
+"저녁 무렵의 어둑한 도시. 집들과 교회 그리고 가로등 두 개가 있습니다. 도시 곳"
+"곳에서 주민들이 구입한 장기만 아저씨의 발명품을 보여주는 모습: 세탁기, 노란"
+"색 진공 청소기, 빨간색 자동차. 모든 발명품에는 인터넷에 연결되어 있다는 신호 "
+"표시가 있습니다."
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:648
+msgid ""
+"Continuation of the previous picture, where in the background there is the "
+"hill with Zangemann’s house from whose antenna come the signals to control "
+"the various devices. In emerging images/illustrations there are: a red "
+"electric skateboard, a light bulb, an ice cream machine, and a toilet, all "
+"of which are receiving commands from Zangemann."
+msgstr ""
+"이전 페이지 그림에서 이어지는 장면, 배경으로는 장기만 아저씨의 저택이 높은 언"
+"덕 위에 솟아있고 저택의 안테나로부터 다양한 기계를 조종하기 위한 신호가 나오"
+"고 있습니다. 도시 곳곳의 모습으로는: 빨간 스케이트보드, 전구, 아이스크림 기"
+"계, 변기가 장기만 아저씨로부터 명령을 수신하고 있습니다."
+
+#. (itstool) path: info/title
+#: Ada_Zangemann.dbk:654
+msgid "Skateboards no longer work"
+msgstr "스케이트보드가 멈췄다"
+
+#. (itstool) path: simplesect/para@dropcapfileref
+#. (itstool) comment: simplesect/para@dropcapfileref
+#. File for the capital image, depending on the capital letter and the
+#. required color. Can be postponed to the publishing process. priority:70
+#: Ada_Zangemann.dbk:658
+msgid "images/capitals/T-olive.png"
+msgstr ""
+
+#. (itstool) path: simplesect/para
+#. (itstool) id: Ada_Zangemann.dbk#para-p18-1
+#: Ada_Zangemann.dbk:658
+msgid ""
+"<phrase condition=\"capitals-text\">The</phrase><phrase condition=\"capitals-"
+"img\">he</phrase> next day, there was a big commotion at Ada’s school. On "
+"the way to school, the kids’ skateboards had stopped working. The wheels "
+"simply stood still. And the children could no longer turn up the volume on "
+"their speakers. What was going on?"
+msgstr ""
+"<phrase condition=\"capitals-text\">다음날</phrase><phrase "
+"condition=\"capitals-img\">음날</phrase> 에이다의 학교는 커다란 혼란에 빠졌어"
+"요. 학교로 오늘 길에 스케이트보드가 동작을 멈춰버렸기 때문입니다. 바퀴가 그"
+"냥 동작을 멈췄어요. 게다가 아이들은 더 이상 스피커의 볼륨을 높일 수 가 없게 "
+"되었어요. 도대체 무슨 일이 벌어진 걸까요?"
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:663
+msgid ""
+"Five kids from the school who can’t make skateboards work. Two girls wear "
+"helmets, respectively blue and red. A little girl with brown hair tied in "
+"two tails with yellow rubber bands is kneeling. She is trying to understand "
+"why the skateboard of her friend with the red helmet does not work. Four "
+"children have backpacks on their shoulders, while the little girl with the "
+"red helmet left hers leaning on a bench on which there are a yellow apple "
+"and a light blue bottle with a white flower on it."
+msgstr ""
+"스케이트 보드가 동작하지 않는 5명의 아이들. 두 명의 소녀가 각각 파란색과 빨간"
+"색의 헬맷을 쓰고 있습니다. 갈색 머리에 고무줄로 머리를 양갈래로 묶은 한 소녀"
+"가 무릎을 꿇고있습니다. 그녀는 빨간색 헬맷을 쓰고 있는 친구의 스케이트보드가 "
+"왜 동작을 안하는지 파악하려 애쓰고 있습니다. 4명의 아이들이 가방을 메고 있는 "
+"가운데 빨간색 헬맷을 쓴 아이의 가방은 벤치에 기대어져 있습니다. 벤치에는 노란"
+"색 사과와 흰색 꽃모양이 그려진 하늘색 물병이 놓여져 있습니다."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:667
+msgid ""
+"Although she didn’t own any of these things, Ada wondered why the "
+"skateboards and the speakers suddenly stopped working. But she didn’t really "
+"have time to think much about it, because she was tinkering again. She put "
+"together a complete bicycle from the parts of three broken bicycles. She "
+"gave the bicycle to her mother as a present so that she wouldn’t have to "
+"spend her money on bus tickets to work. For her brother, Ada built a "
+"loudspeaker so he could fall asleep to nice stories in the evenings when "
+"their mother was still at work."
+msgstr ""
+"비록 에이다는 스케이드보드나 스피커가 없었지만, 이것들이 왜 작동을 멈췄는지 "
+"궁금해 했어요. 하지만 그녀는 곧 거기에 집중할 여유가 없어졌어요. 왜냐하면 또 "
+"다시 뭔가를 만들고 싶었거든요. 에이다는 세 대의 부서진 자전거를 이용해 새로"
+"운 자전거를 만들어 냈어요. 그리고 그 자전거를 엄마에게 선물했어요. 자전거 덕"
+"분에 엄마는 일하러 갈 때 버스비를 아낄 수 있었지요. 에이다는 동생에게는 스피"
+"커를 만들어 주었어요. 그래서 엄마가 늦게오는 날에 동생이 스피커로 재밌는 이야"
+"기를 들으며 잠들 수 있도록 만들어 주었지요."
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:672
+msgid ""
+"Close-up of Ada thoughtful, with a backpack and with one hand on her chin "
+"and the other resting on her side."
+msgstr ""
+"궁금해하는 에이다의 모습을 클로즈업, 가방을 메고 한 손은 그녀의 턱에 한 손은 "
+"그녀의 옆구리에 가져다 댄 모습."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:675
+msgid ""
+"After a few days, the initial shock at Ada’s school was forgotten. The "
+"skateboards still didn’t go on the sidewalk, but apart from that, they still "
+"worked. And so now the children rode in circles around the playground and "
+"listened to soft music. Only a strange, pompous marching music continued to "
+"play at an unchanged volume, which the children found rather puzzling."
+msgstr ""
+"몇 일이 지나고, 에이다의 학교에서 벌어진 소동은 잊혀졌어요. 스케이드보드가 여"
+"전히 인도에서는 동작을 안했지만 그것과는 별개로 스케이드보드 자체가 동작을 하"
+"긴 했거든요. 아이들은 놀이터를 뱅뱅돌며 스케이드보드를 탔고, 오로지 조용한 음"
+"악만을 들었답니다. 스피커에선 요상하면서도 화려한 행진곡이 변함없는 음량으로 "
+"계속 연주가 되었는데, 아이들은 이를 조금 당혹스럽게 여겼습니다."
+
+#. (itstool) path: info/title
+#: Ada_Zangemann.dbk:680
+msgid "Ada and software"
+msgstr "에이다와 소프트웨어"
+
+#. (itstool) path: simplesect/para@dropcapfileref
+#. (itstool) comment: simplesect/para@dropcapfileref
+#. File for the capital image, depending on the capital letter and the
+#. required color. Can be postponed to the publishing process. priority:70
+#: Ada_Zangemann.dbk:684
+msgid "images/capitals/A-fucsia.png"
+msgstr ""
+
+#. (itstool) path: simplesect/para
+#. (itstool) id: Ada_Zangemann.dbk#para-p20-1
+#: Ada_Zangemann.dbk:684
+msgid ""
+"<phrase condition=\"capitals-text\">Ada</phrase><phrase condition=\"capitals-"
+"img\">da</phrase> loved Wednesdays. Every Wednesday, her mother and Alan "
+"would pick her up from school, and they would all go to the library "
+"together. Ada was always drawn to the technology section. There were books "
+"with blueprints, instructions for experiments, and explanations of how "
+"different devices worked. In the library, Ada could also go online with her "
+"cell phone. She quickly realized that there was also much to discover on the "
+"internet. There, many people shared their ideas and repair tips to help "
+"others."
+msgstr ""
+"<phrase condition=\"capitals-text\">에이다는</phrase><phrase "
+"condition=\"capitals-img\">이다는</phrase> 수요일을 좋아합니다. 매주 수요일에"
+"는 엄마와 앨런이 학교로 마중을 나오는 날이거든요. 그리고 방과 후 모두 다 함"
+"께 도서관으로 갑니다. 에이다는 항상 기술 관련 서적이 있는 코너에 끌렸습니다. "
+"거기에는 설계도라던가 실험 방법, 그리고 각각의 장치들이 어떻게 움직이는지에 "
+"대한 책들이 잔뜩 있었거든요. 도서관에서는 핸드폰을 이용해 인터넷에 접속할 수 "
+"도 있었습니다. 에이다는 인터넷에서 찾을 수 있는 정보도 많다는 것을 알았어요. "
+"거기에는 다른 사람들을 도와주기위해 사람들이 자신의 아이디어나 수리에 필요한 "
+"팁을 공유해주고 있었거든요."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:685
+msgid ""
+"On one of those afternoons, Ada learned two new words: hardware and "
+"software. Hardware was a word for something Ada already knew: the electronic "
+"devices she tinkered with after school, or those devices she could hold in "
+"her hands and try to fix or make into something else. What was completely "
+"new to Ada was the word software. She soon learned that it meant "
+"instructions that ran on a computer to control other devices or computers. "
+"Some books called those instructions programs or code. With such a computer "
+"program, one could, for example, tell a loudspeaker which song to play and "
+"how loud."
+msgstr ""
+"어느 날 오후 에이다는 두가지 새로운 단어를 배웠어요. 바로 하드웨어와 소프트웨"
+"어지요. 하드웨어는 에이다가 이미 알고 있는 거였어요: 하드웨어는 에이다가 방"
+"과 후에 매일 쪼물딱 거리던 전자 기기이거나 손에 쥐고 고치거나 무언가 다른 것"
+"으로 만들 수 있는 장치를 의미하는 거였어요. 하지만 소프트웨어라는 단어는 에이"
+"다에게 완전히 새로운 단어였어요. 그녀는 곧 그 단어가 다른 장치나 컴퓨터를 제"
+"어하기 위해 컴퓨터상에서 동작하는 명령어들을 의미한다는 것을 배웠어요. 어떤 "
+"책에서는 그 명령어들을 프로그램 또는 코드라고 불렀어요. 그러한 컴퓨터 프로그"
+"램을 가지고 우리는 스피커에게 얼마나 큰 소리로 음악을 연주해도 되는지 얘기해 "
+"줄 수 있는 거였어요."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:686
+msgid ""
+"The best thing about Ada’s new discovery was realizing that she could tinker "
+"with software just as she could with hardware. Hardware is built with tools "
+"— hammers, drills, and screws. Software is built simply by writing down the "
+"commands for the hardware, one after the other. There was a separate "
+"language for this — the programming language. With software, Ada could make "
+"her inventions even more useful. She really wanted to learn the programming "
+"language!"
+msgstr ""
+"에이다가 발견한 가장 큰 발견은 바로 그녀가 하드웨어를 쪼물딱 거리며 놀았던 것"
+"처럼 소프트웨어도 쪼물딱 거리며 놀 수 있다는 것이었어요. 하드웨어는 도구를 써"
+"서 만들 수 있었어요. 망치, 드릴, 드라이버 같은 걸로 말이죠. 소프트웨어는 단순"
+"하게 하드웨어를 위한 명령어들을 하나씩 하나씩 적어주기만 하면 만들 수 있어"
+"요. 이 일을 하기 위해 별도로 언어가 있지요 - 바로 프로그래밍 언어요. 소프트웨"
+"어를 통해서 에이다는 자신의 발명품을 더 유용하게 만들 수 있을 것 같았어요. 에"
+"이다는 프로그래밍 언어를 무척이나 배우고 싶어했어요."
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:693
+msgid ""
+"Computer screen from which the elements of the programming language "
+"symbolically emerge: “while num &gt; 0“, “init“, “sx=42“, “for“, “v**3“. Ada "
+"is typing on a white keyboard with a blue cable, while her other hand enters "
+"the screen to change the program (“print(msg)”, “a+b+c+d=e”, “if”, “break”, "
+"“continue”, “exit()”). Next to the keyboard there are a pencil and an eraser."
+msgstr ""
+"프로그래밍 언어의 구성 요소들을 도형으로 표시한 컴퓨터 화면: “while num > "
+"0“, “init“, “sx=42“, “for“, “v**3“. 에이다는 한 손으로 파란색 케이블이 달린 "
+"흰색 키보드를 치고 있고 다른 손으로는 화면 속에 손을 집어넣고 다음과 같은 프"
+"로그램을 고치고 있다: (“print(msg)”, “a+b+c+d=e”, “if”, “break”, “continue”, "
+"“exit()“). 키보드 옆에는 연필과 지우개가 놓여져 있습니다."
+
+#. (itstool) path: info/title
+#: Ada_Zangemann.dbk:699
+msgid "Programming"
+msgstr "프로그래밍"
+
+#. (itstool) path: simplesect/para@dropcapfileref
+#. (itstool) comment: simplesect/para@dropcapfileref
+#. File for the capital image, depending on the capital letter and the
+#. required color. Can be postponed to the publishing process. priority:70
+#: Ada_Zangemann.dbk:703
+msgid "images/capitals/O-lightcyan.png"
+msgstr ""
+
+#. (itstool) path: simplesect/para
+#. (itstool) id: Ada_Zangemann.dbk#para-p22-1
+#: Ada_Zangemann.dbk:703
+msgid ""
+"<phrase condition=\"capitals-text\">Over</phrase><phrase "
+"condition=\"capitals-img\">ver</phrase> the next few weeks, Ada spent her "
+"afternoons in the library. She found books and websites that explained how "
+"programming languages and code worked. For Ada, it felt a bit like learning "
+"a secret language, or like studying vocabulary in school. Ada ate it all up. "
+"She expected her first program to do something simple: “Make this lamp "
+"blink!”"
+msgstr ""
+"<phrase condition=\"capitals-text\">그뒤로</phrase><phrase "
+"condition=\"capitals-img\">뒤로</phrase> 몇 주 동안, 에이다는 오후를 내내 도"
+"서관에서 보냈어요. 에이다는 프로그래밍 언어와 코드가 어떻게 동작하는 지 알려"
+"주는 책과 웹사이트를 찾아냈어요. 에이다에게 이것은 마치 마법의 언어를 배우는 "
+"것 같기도 하고 학교에서 낱말 공부를 하는 것 같은 느낌이 들었어요. 에이다는 "
+"이 모든걸 자기껄로 만들었죠. 첫 번째 프로그램으로 에이다는 뭔가 단순한 일을 "
+"해보고 싶었어요. “그래 이 전구를 깜빡이게 해보는 거야!”"
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:704
+msgid ""
+"Of course, she wanted to try her program out right away to see if it really "
+"worked. At the junkyard, she connected her cell phone to a small LED lamp. "
+"Then she typed the lines of code into her cell phone."
+msgstr ""
+"그녀는 자신이 만든 프로그램이 실제로 동작하는지 확인해 보기위해 바로 실험을 "
+"진행했어요. 에이다는 고물 수집장에서 자신의 핸드폰에 작은 LED 전구를 연결했습"
+"니다. 그리고 몇 줄의 코드를 핸드폰에다 입력했어요."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:705
+msgid ""
+"At first, nothing happened. Ada wondered where the error could be. She made "
+"a few small changes and tried again and .... “Yeesss!” The little light "
+"began to flash. On, off, on, off. Ada looked at the LED in amazement. She "
+"had written her first program!"
+msgstr ""
+"처음에는 아무일도 일어나지 않았어요. 어디에서 오류가 생긴걸까? 그녀는 조금씩 "
+"코드를 바꿔보고 다시 시도해 봤어요 그러다가... “오~예!” 작은 전구가 깜빡이기 "
+"시작했어요. 켜졌다, 꺼졌다, 켜졌다, 꺼졋다. 에이다는 LED 전구를 신기하게 쳐다"
+"봤어요. 마침내 그녀의 첫 번째 프로그램이 완성되었죠!"
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:706
+msgid ""
+"Ada was totally thrilled. She imagined all the great things she could do. If "
+"she just entered the right code, she could make her inventions do exactly "
+"what she wanted. It was not so easy, but after a few weeks, Ada wrote a "
+"truly useful program: one that would make Alan’s speakers automatically turn "
+"off half an hour after he had fallen asleep."
+msgstr ""
+"에이다는 완전히 신이 났어요. 에이다는 자기가 할 수 있을 엄청난 일들을 상상해"
+"봤어요. 만약 적절한 코드를 넣기만 한다면, 에이다가 만든 발명품들이 정확히 그"
+"녀가 원하는 일들을 척척 해 낼수 있게 되는 거에요. 쉽지 않았지만 몇 주가 지나"
+"고 에이다는 정말로 유용한 프로그램을 만들 수 있게 되었어요: 에이다는 앨런의 "
+"스피커에 프로그램을 넣어서 앨런이 잠든 후 30분이 지나면 자동으로 스피커가 꺼"
+"지도록 만들었어요."
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:713
+msgid ""
+"Ada comes to grips with programming. She is typing on a keyboard resting on "
+"a gray mat and connected to a smartphone with a blue cable. The smartphone "
+"is connected with a red wire to an electronic card with a yellow LED lamp. "
+"The smartphone is powered by a transformer connected to a power strip with a "
+"gray wire and plug. On the table there are also: 3 books, of which one is "
+"open; a clipboard and a pencil; pliers; glue; solder; and a disconnected "
+"soldering iron."
+msgstr ""
+"에이다는 프로그래밍을 해보려고 하고 있어요. 그녀는 회색 매트 위에 올려놓은 키"
+"보드를 치고 있습니다. 키보드는 스마트폰과 파란색 케이블로 연결되어 있습니다. "
+"스마트폰은 노란색 LED 전구가 달린 회로 기판에 빨간색 케이블로 연결되어 있습니"
+"다. 스마트폰은 전원 어댑터에 연결되어 있는데 전원 어댑터는 전원플러그가 달린 "
+"회색 전선으로 멀티탭과 연결되어 있습니다. 책상 위에는 그것 외에도: 책 세 권, "
+"그 중에 한 권은 펼쳐저 있음; 클립보드와 연필; 펜치; 풀; 땜납; 그리고 전원이 "
+"뽑힌 납땜 인두기가 있습니다."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:715
+msgid ""
+"Ada also had an idea for the next program she would write. It was a bigger "
+"deal, a real project. She would probably need the whole summer break for "
+"it... And she could hardly wait!"
+msgstr ""
+"에이다는 다음에 작성할 프로그램에 대한 아이디어를 생각해 냈어요. 이건 좀 더 "
+"대단한 진짜 프로젝트였어요. 아마도 이 프로젝트를 위해선 여름 방학을 통채로 써"
+"야 할 것 같았아요... 머뭇거릴 여유가 없었죠!"
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:722
+msgid ""
+"Zangemann looks thoughtfully with his arms crossed out one of the great "
+"windows of his house, into which the sun’s rays are shining."
+msgstr ""
+"장기만 아저씨가 저택의 커다란 창문 앞에서 생각에 잠긴채 팔짱을 끼고 있습니"
+"다. 밖에서 들어오는 밝은 빛이 창문에 비치고 있습니다."
+
+#. (itstool) path: info/title
+#: Ada_Zangemann.dbk:728
+msgid "A horrible night"
+msgstr "끔찍한 밤"
+
+#. (itstool) path: simplesect/para@dropcapfileref
+#. (itstool) comment: simplesect/para@dropcapfileref
+#. File for the capital image, depending on the capital letter and the
+#. required color. Can be postponed to the publishing process. priority:70
+#: Ada_Zangemann.dbk:732
+msgid "images/capitals/Z-brown.png"
+msgstr ""
+
+#. (itstool) path: simplesect/para
+#. (itstool) id: Ada_Zangemann.dbk#para-p25-1
+#: Ada_Zangemann.dbk:732
+msgid ""
+"<phrase condition=\"capitals-text\">Zangemann</phrase><phrase "
+"condition=\"capitals-img\">angemann</phrase> had slept horribly every night "
+"since his terrible walk in the city. When he went to bed each night, worries "
+"plagued him. “Oh no, my marvelous inventions. It can’t be that everyone just "
+"plays around with them. All the things that could go wrong! I put so much "
+"thought into everything, down to the last detail.” Zangemann pondered and "
+"pondered and tossed and turned sleeplessly in his bed all night."
+msgstr ""
+"<phrase condition=\"capitals-text\">장기만</phrase><phrase "
+"condition=\"capitals-img\">기만</phrase> 아저씨는 끔찍했던 그 날의 산책 이후"
+"로 걱정에 파뭍혀 잠을 제대로 이룰 수 없었어요. “안 돼! 나의 소중한 발명품을 "
+"사람들이 그냥 멋대로 하게 놔둘 순 없어. 모든 게 잘못되어 가고 있다고! 내가 "
+"좀 더 생각해서 세부적인 사항들을 끝까지 고민해야 했어.” 아저씨는 이 말을 되뇌"
+"이면서 밤새 잠을 이루지 못했답니다."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:733
+msgid ""
+"Waking up one morning with a deeply furrowed brow, he made a decision. He "
+"needed to make a change. Zangemann sat down at his computer and wrote one "
+"program after another. In these programs, he specified exactly what his "
+"inventions were to do and were not to do under any circumstances. The chaos "
+"had to stop!"
+msgstr ""
+"눈썹을 찌푸린 채 잠에서 깨어난 어느 날, 장기만 아저씨는 결심을 했어요. 그는 "
+"상황이 변하길 바랬어요. 그래서 그는 황금 컴퓨터에 앉아 프로그램을 하나씩 하나"
+"씩 짜기 시작했어요. 그 프로그램은 어떤 상황 속에서도 아저씨의 발명품들이 해"
+"야 할 일과 하지 말아야 할 일을 정해놓은 프로그램이었어요. 정말이지 이 혼돈을 "
+"끝내야만 해요!"
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:734
+msgid ""
+"Once he was done, he sent all the new programs from his golden computer to "
+"people’s devices. He ordered his speakers to play only his favorite music "
+"whenever he was within earshot. He programmed the ice-cream machines to stop "
+"selling ice cream in the afternoon. After all, he didn’t want his expensive "
+"clothes to get stained by ice cream while he was out for a walk. All day "
+"long he sat at the computer and typed and typed and typed..."
+msgstr ""
+"아저씨는 이 일을 끝내자 마자 새로운 프로그램을 모든 기기로 전송했어요. 스피커"
+"에게는 자신이 근처에 있을 때 오직 자신이 좋아하는 음악만 연주하도록 지시했어"
+"요. 아이스크림 기계는 프로그램밍을 해서 오후에는 아이스크림이 판매되지 않도"
+"록 하였어요. 그가 도시로 산책을 나갈 일이 있을 때 그의 비싼 옷이 아이스크림 "
+"자국으로 더렵혀 지지 않도록 말이죠. 아저씨는 하루 종일 컴퓨터 앞에 앉아서 키"
+"보드 자판을 치고 또 쳤어요. 온종일 계속해서 자판만 두드렸죠."
+
+#. (itstool) path: info/title
+#: Ada_Zangemann.dbk:739
+msgid "First real project"
+msgstr "첫 진짜 프로젝트"
+
+#. (itstool) path: simplesect/para@dropcapfileref
+#. (itstool) comment: simplesect/para@dropcapfileref
+#. File for the capital image, depending on the capital letter and the
+#. required color. Can be postponed to the publishing process. priority:70
+#: Ada_Zangemann.dbk:743
+msgid "images/capitals/S-red2.png"
+msgstr ""
+
+#. (itstool) path: simplesect/para
+#. (itstool) id: Ada_Zangemann.dbk#para-p26-1
+#: Ada_Zangemann.dbk:743
+msgid ""
+"<phrase condition=\"capitals-text\">Summer</phrase><phrase "
+"condition=\"capitals-img\">ummer</phrase> break was already halfway over. "
+"Ada stood in front of her big project and scratched her head. She had built "
+"a skateboard from old parts and then connected a motor to make the wheels "
+"turn. With a motorized skateboard, Ada could zoom to the library or the "
+"junkyard even faster after school. Super practical! But it didn’t work. When "
+"she stood on it and pressed the Go! button, the wheels moved, but way too "
+"fast. Ada fell off the skateboard every time she started. No matter what she "
+"tried, she just couldn’t get it right."
+msgstr ""
+"<phrase condition=\"capitals-text\">여름</phrase><phrase "
+"condition=\"capitals-img\">름</phrase> 방학이 벌써 반이나 지나갔습니다. 에이"
+"다는 자신의 야심찬 프로젝트를 앞에 두고 머리를 긁적이고 있습니다. 에이다는 오"
+"래된 부품을 이용해서 스케이드보드를 만들고 바퀴에다가 모터를 달았습니다. 모터"
+"를 단 스케이드보드로 방과 후에 도서관이나 고철 수집장으로 더 빨리 갈 수 있게 "
+"말이죠. 하지만 그게 뜻대로 잘 되지 않았어요. 에이다가 스케이트보드에 올라타"
+"서 전진! 버튼을 누루면 바퀴가 움직이긴 움직였는데 너무 빨리 움직였거든요. 그"
+"러면 에이다는 매번 스케이드보드 위에서 굴러 떨어졌죠. 어떤 방법을 써봐도 이"
+"걸 제대로 동작하도록 만들 수 는 없었어요."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:744
+msgid ""
+"After falling on her bottom for the hundredth time, she went back to the "
+"library. She always found answers to her questions there. And indeed, on the "
+"internet, she came across a program that someone had written for an electric "
+"scooter that also needed to start slowly. Ada downloaded it to her phone."
+msgstr ""
+"아마도 바닥에 한 백 번쯤 굴러 떨어진 뒤였을까요, 에이다는 도서관을 다시 찾았"
+"어요. 그녀는 무언가에 대한 답을 항상 거기서 찾았어요. 그리고 정말로 인터넷에"
+"서 누군가가 전동 스쿠터를 위해서 만들어 놓은 바퀴를 천천히 출발하도록 하는 프"
+"로그램을 찾았어요. 에이다는 그걸 다운로드 받아서 자신의 핸드폰에 저장했지요."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:746
+msgid ""
+"Back at the junkyard, she adapted some lines of code for her skateboard "
+"program. She tweaked a few things and kept tinkering."
+msgstr ""
+"고물 수집장으로 돌아온 에이다는 스케이드보드 프로그램에 몇 줄의 코드를 추가했"
+"어요. 에이다는 또 몇 가지를 수정하고 계속해서 손보기 시작했어요."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:747
+msgid ""
+"Several failed attempts later, on the last day of summer break, the time had "
+"finally come. Ada stood on the skateboard and pressed the Go! button, and "
+"the skateboard started moving, slowly at first, then faster. It worked! She "
+"tried to brake. It worked! Ada let out a cry of joy and took a trip to the "
+"park."
+msgstr ""
+"몇 차례의 실패 끝에 여름 방학의 마지막 날, 드디어 그 날이 찾아왔어요. 에이다"
+"는 스케이드보드에 올라타 전진! 버튼을 눌렀어요. 스케이트보드가 처음에는 천천"
+"히 움직이다 점차 빨라지기 시작했어요. 성공! 성공이에요! 브레이크도 잘 동작했"
+"지요. 역시 성공이었어요! 에이다는 기쁨의 함성을 지르며 스케이드보드를 타고 곧"
+"장 공원으로 달려나갔어요."
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:754
+msgid ""
+"Ada racing with her electric skateboard for city sidewalks. Ada’s skateboard "
+"is blue, with gray and pink wheels; the electronic part is placed above the "
+"skateboard (as opposed to Zangemann’s skateboards where the electronic part "
+"is below). Ada is holding in both hands a remote control with a short "
+"antenna to maneuver it. Behind Ada are Marie and Toni who carry their own "
+"skateboards under their arms and look with amazement at Ada, who has shot "
+"past them and in front of them. Marie has dark long hair with two braids "
+"fastened with orange clips, yellow earrings, a fuchsia shirt with white "
+"sleeves with purple horizontal stripes, a white skirt, white and yellow "
+"sneakers, white socks, a white hat with yellow sides, and a light purple "
+"backpack. Marie has a blue artificial leg. Her skateboard is blue with "
+"yellow wheels. Toni has red hair closely trimmed on the sides. He is wearing "
+"a blue sweatshirt, dark green pants, and white shoes. He has a red backpack "
+"with white inserts and shoulder straps. One hand is next to his mouth. His "
+"skateboard is purple with orange wheels. There’s also a father with his son "
+"walking in the opposite direction: the father is dressed in a blue checked "
+"jacket and blue pants and holds a brown briefcase. He is smiling at Ada. His "
+"son has a blue shirt, blue shorts, white shoes, a brown backpack, and a red "
+"and white hat. He holds under his arm a yellow Zangemann skateboard with "
+"light brown wheels, and he grins at Ada. In the background there is a bakery "
+"with large windows through which you can see the bread. It has a green and "
+"white striped awning around the corner and a sign on the sidewalk with the "
+"list of products. Overhead, a large pretzel is displayed. On the road there "
+"is a puddle that reflects the blue of the sky."
+msgstr ""
+"에이다는 자신의 전동 스케이드보드를 타고 인도를 달리고 있습니다. 에이다의 스"
+"케이드 보드는 파란색이며 회색과 핑크색의 바퀴를 달고 있습니다; 스케이드 보드 "
+"위쪽에 전자부품이 달려있습니다.(장기만표 스케이드 보드는 아래쪽에 달려있습니"
+"다) 에이다는 조종하기 위해 짧은 안테나가 달린 리모콘을 양손에 들고 있습니다. "
+"에이다의 뒤에서 스케이드 보드를 들고 길을 가고 있던 마리와 토니가 자신을 지나"
+"쳐 앞을 향해 달려가는 에이다를 놀란 눈으로 쳐다보고 있습니다. 마리는 양갈래"
+"로 땋아서 주황색 클립으로 고정시킨 짙은 긴 머리를 가졌고 노란색 귀걸이를 하"
+"고 핫핑크색 티셔츠를 입고 있는데 안에는 보라색 가로 줄무늬가 있는 흰색 긴소매"
+"티를 받쳐입고 있습니다. 그리고 흰색과 노란색의 스니커즈와 흰색 양말, 옆면에 "
+"노란색이 들어간 흰색 모자를 쓰고 연보라색 배낭을 메고 있습니다. 다리에는 파란"
+"색 의족을 끼고 있습니다. 그녀의 스케이드보드는 노란색 바퀴가 달린 파란색입니"
+"다. 토니는 옆머리를 깔끔하게 다듬은 빨간 머리를 하고 있고, 파란색 후드티와 짙"
+"은 녹색 바지, 흰색 신발을 착용하고 있습니다. 토니는 보조 가방들과 가방끈이 흰"
+"색인 빨간색 배낭을 메고 있습니다. 토니는 한 손을 입 근처에 가져대고 힜습니"
+"다. 토니의 스케이드보드는 주황색 바퀴를 단 보라색입니다. 인도에는 아들과 함"
+"께 반대방향으로 걸어가고 있던 아저씨도 있습니다: 아저씨는 파란색 체크무늬 자"
+"켓과 파란색 바지를 입고 손에는 갈색 서류가방을 들고 있습니다. 그는 에이다를 "
+"향해 미소짓고 있습니다. 아저씨의 아들은 파란색 셔츠와 파란색 반바지, 흰색 신"
+"발과 갈색 가방을 메고있고 빨간색과 흰색이 섞인 모자를 쓰고 있습니다. 아이는 "
+"옅은 갈색 바퀴를 단 노란색의 장기만표 스케이드보드를 들고 있습니다. 그는 에이"
+"다를 보고 활짝 웃고 있습니다. 배경에는 커다란 쇼윈도에 빵이 진열되어 있는 제"
+"과점이 있습니다. 모퉁이에는 녹색과 흰색의 줄무늬 차양이 설치되어 있고 인도에"
+"는 빵집 안내판이 놓여져 있습니다. 머리 위에는 커다란 프리젤 모양 간판이 설치"
+"되어 있습니다. 도로에는 파란 하늘을 비치는 물웅덩이가 하나 있습니다."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:759
+msgid ""
+"When Ada rode her skateboard to school on the first day back after summer "
+"break, the other children were amazed. During recess, Ada’s curious "
+"classmates surrounded her."
+msgstr ""
+"여름 방학이 끝나고 첫 등교날 에이다가 스케이드보드를 타고 학교에 왔을 때 친구"
+"들은 놀라워 했어요. 쉬는 시간이 되자 궁금함이 가득한 친구들이 에이다한테 구름"
+"처럼 몰려들었어요."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:760
+msgid "“How can you ride your skateboard on the sidewalk?” they asked."
+msgstr "“어떻게 넌 인도에서 스케이트보드를 탈 수 있니?” 친구들이 물어봤어요."
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:765
+msgid ""
+"Ada stops on her skateboard surrounded by children. Marie is on one end. She "
+"is pointing to Ada’s skateboard and she’s talking. Next to her is Konrad, "
+"with short blond hair, a dark gray helmet, glasses, a green shirt with white "
+"collar and cuffs, light blue pants with white cuffs, and gray shoes with "
+"white soles. He has a red skateboard with orange wheels. Behind Ada there "
+"are 4 other children. On the other end Toni is smiling. He touches his chin "
+"with one hand while with the other he holds a yellow helmet by the laces."
+msgstr ""
+"에이다가 스케이드보드 위에 멈춰서서 친구들에게 둘러싸여 있습니다. 마리가 한 "
+"편에 서 있습니다. 그녀는 에이다의 스케이드보드를 가리키며 얘기하고 있습니다. "
+"마리의 옆에 있는 건 콘라트인데 짧은 금발 머리에 짙은 회색 헬멧을 쓰고있고 안"
+"경을 끼고 있습니다. 콘라트는 옷깃과 소매가 흰색인 녹색 셔츠를 입고 있고 접어"
+"올린 밑단이 흰색인 연청색 바지를 입고있으며 흰색 밑창이 달린 회색 신발을 신"
+"고 있습니다. 그는 주황색 바퀴가 달린 빨간색 스케이드보드를 가지고 있습니다. "
+"에이다의 뒷 편에는 4명의 아이들이 서 있었고 다른 한 편에서는 토니가 미소를 짓"
+"고 있습니다. 그는 한 손으로 그의 턱을 만지면서 다른 한 손으로는 끈이 달린 헬"
+"맷을 들고 있습니다."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:769
+msgid ""
+"Ada thought for a moment, then said, “I don’t think it’s your skateboards "
+"but actually the software in them. It’s probably programmed into the "
+"software that the skateboards aren’t allowed to go on the sidewalk. But that "
+"can be changed!”"
+msgstr ""
+"에이다는 잠시 생각하더니 말했어요, “내 생각엔 그건 스케이트보드 문제가 아니"
+"라 그 안에 들어있는 소프트웨어가 문제인거 같아. 아마도 너희 스케이드보드에는 "
+"인도에서 달릴 수 없도록 프로그래밍이 된 것 같아. 하지만 걱정마 그건 수정 할 "
+"수 있는거야!”"
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:770
+msgid ""
+"That evening, Ada tested out her theory on her classmate Toni’s skateboard. "
+"She worked secretly through most of the night, and the next day, Toni could "
+"ride on the sidewalk again. Unfortunately, his skateboard could no longer "
+"make the sounds that his parents had bought from Zangemann. Instead, every "
+"10 minutes it made a strange noise that sounded like a drawn-out burp. Ada "
+"knew that little errors like that could pop up in programs all the time. But "
+"Toni’s burping skateboard was really quite funny."
+msgstr ""
+"그 날 저녁, 에이다는 자신의 이론을 시험해 보기로 했어요. 반 친구인 토니의 스"
+"케이드보드를 빌려서요. 그리고 다음 날 토니는 다시 인도에서 스케이드보드를 탈 "
+"수 있게 되었어요. 하지만 안타깝게도 토니의 스케이트보드는 그의 부모님이 구입"
+"해준 멋진 소리를 더 이상 낼 수 없게 되었어요. 대신에 스케이트보드는 10분마다 "
+"한 번씩 트림을 하는 것 같은 이상한 소리를 냈어요. 에이다는 그런 사소한 오류"
+"는 어느 때라도 나타날 수 있다는 걸 알았어요. 그럼에도 불구하고 토니의 트림하"
+"는 스케이트보드는 정말로 웃겼답니다."
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:775
+msgid ""
+"Hopscotch diagram drawn with chalk on asphalt. In a row, within squares, the "
+"numbers 1, 2; 3 and 4 next to each other; 5, 6; and 7 and 8 next to each "
+"other. The number 9 is not inside a square but inside a wider semicircle "
+"beyond the squares of numbers 7 and 8. Between the number 1 and the number 2 "
+"there is a blue bottle with white polka dots. A yellow Zangemann skateboard "
+"with orange wheels on the side of the diagram actually hides the number 1."
+msgstr ""
+"아스팔트에 분필로 그린 망줍기 놀이판. 네모난 칸에 연달아 1번, 2번 숫자판이 있"
+"고; 3번, 4번 숫자판이 나란히 놓여있고; 그 다음 5번, 6번; 7번과 8번이 다시 나"
+"란히 붙어있습니다. 숫자판 9번은 7번, 8번을 넘어서 네모칸이 아닌 넓은 반원 모"
+"양의 칸 안에 그려져 있습니다. 1번, 2번 숫자칸 사이에는 흰색 물방울 무늬가 그"
+"려져 있는 파란색 병이 놓여져 있습니다. 주황색 바퀴를 단 노란색 장기만표 스케"
+"이트 보드가 놀이판 옆에 세워져 있는데 실제로 1번 숫자판의 숫자를 가리고 있는 "
+"위치에 놓여져 있습니다."
+
+#. (itstool) path: info/title
+#: Ada_Zangemann.dbk:781
+msgid "Hacking for freedom"
+msgstr "자유를 위한 해킹"
+
+#. (itstool) path: simplesect/para@dropcapfileref
+#. (itstool) comment: simplesect/para@dropcapfileref
+#. File for the capital image, depending on the capital letter and the
+#. required color. Can be postponed to the publishing process. priority:70
+#: Ada_Zangemann.dbk:785
+msgid "images/capitals/M-yellow.png"
+msgstr ""
+
+#. (itstool) path: simplesect/para
+#. (itstool) id: Ada_Zangemann.dbk#para-p30-1
+#: Ada_Zangemann.dbk:785
+msgid ""
+"<phrase condition=\"capitals-text\">More</phrase><phrase "
+"condition=\"capitals-img\">ore</phrase> and more children started to visit "
+"Ada at the junkyard after school, and she helped them rewrite the programs "
+"in their skateboards. Some of her classmates were very excited about this "
+"new discovery. It was unbelievable what you could do with software code! "
+"They wanted to learn everything Ada knew about programming languages, and "
+"soon they were riding their skateboards again, wherever they wanted to."
+msgstr ""
+"<phrase condition=\"capitals-text\">점점</phrase><phrase "
+"condition=\"capitals-img\">점</phrase> 더 많은 아이들이 방과 후에 고물 수집장"
+"에 있는 에이다를 찾아오기 시작했어요. 에이다는 아이들이 스케이트보드에 내장"
+"된 프로그램을 재작성하는걸 도와주었어요. 그녀의 반 친구들 몇 몇은 이 발견에 "
+"매우 흥분했어요. 소프트웨어로 할 수 있는 근사한 일들이 믿기지 않았어요! 친구"
+"들은 에이다가 알고 있는 프로그래밍 언어에 대한 모든 걸 배우고 싶어했어요. 곧 "
+"아이들은 자기가 원할 때면 언제든 다시 스케이트보드를 탈 수 있게 되었어요."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:787
+msgid ""
+"But that wasn’t all. With the software, they could give their skateboards "
+"new, cool features. Marie attached colorful LED lights to her board that "
+"glowed different colors depending on the speed. Konrad built old propellers "
+"onto his skateboard for extra speed."
+msgstr ""
+"그뿐만이 아니었어요. 아이들은 소프트웨어를 수정해서 스케이트보드에 새롭고 멋"
+"진 기능을 추가할 수 있었어요. 마리는 그녀의 스케이트보드에 속도에 따라서 다"
+"른 빛을 내는 색색깔의 LED 전구를 장착했어요. 콘라트는 좀 더 속도를 내고 싶어"
+"서 낡은 프로펠러 여러 개를 스케이드보드에 장착했지요."
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:792
+msgid ""
+"A green battery with red and yellow wires, a power strip, glue, a roll of "
+"solder, and two pencils."
+msgstr ""
+"빨간색과 노란색 전선이 달린 녹색 배터리팩, 멀티탭, 풀, 땜납뭉치, 연필 두 자"
+"루."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:796
+msgid ""
+"Ada, Toni, Marie, and Konrad spent many afternoons at the junkyard. They "
+"even set up a real workshop where they could fine-tune their programs for "
+"hours, listening all the while to music from the speakers Ada had built for "
+"Alan."
+msgstr ""
+"에이다, 토니, 마리 그리고 콘라트는 오후의 대부분을 고물 수집장에서 보냈습니"
+"다. 아이들은 자신의 프로그램을 미세하게 조정 하기 위한 세미나를 오랜 시간동"
+"안 열기도 했어요. 세미나를 하는 내내 에이다가 앨런을 위해 만든 스피커를 통해 "
+"즐거운 음악을 들으면서 말이죠."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:797
+msgid ""
+"“Your brother’s speakers are much louder than ours,” remarked Toni, who was "
+"busy attaching a speedometer to his helmet. “I’m sure that’s also because of "
+"the software,” Marie said."
+msgstr ""
+"“너네 동생 스피커는 우리 집꺼보다 소리가 훨씬 크네?” 자신의 헬멧에 속도계를 "
+"붙이느라 바뻐보이는 토니가 말했어요. “그것 역시 소프트웨어 때문인거 같은데?” "
+"마리가 말했어요."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:798
+msgid ""
+"Together, they changed the software for the speakers too. Then they turned "
+"up the music as loud as possible and danced wildly together."
+msgstr ""
+"아이들은 함께 스피커 소프트웨어도 수정했어요. 그리곤 스피커의 볼륨을 최대한 "
+"높여서 다 같이 음악에 맞춰 춤을 추었답니다."
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:803
+msgid ""
+"A screwdriver with orange and gray handle, red pliers, and three LEDs: "
+"yellow, green, pink."
+msgstr ""
+"주황색과 회색 손잡이가 달린 드라이버, 빨간색 펜치 그리고 세 개의 LED: 노란"
+"색, 녹색, 핑크색 LED."
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:811
+msgid ""
+"Laboratory at the junkyard, under the veranda of Ada’s house. Ada is sitting "
+"on a water case with a leg bent under her, using a soldering iron. Konrad is "
+"standing next to her and dismounting a speaker. Marie is sitting on two "
+"tires with an arm resting on a table and her upside-down skateboard from "
+"which wires come out. She is talking with Alan, who is standing with his "
+"arms resting on the same table. On the table there are also: pliers, two "
+"wrenches, a spool of solder, a can of blue paint (a bit of paint has dried "
+"on the table), and a pitcher and two glasses containing a pink drink. Toni "
+"is testing his skateboard with added yellow wings and a fan. It burps."
+msgstr ""
+"에이다의 집 베란다 아래에 위치한 고물 수집장 연구실. 에이다는 한 쪽 다리를 접"
+"고 우유박스에 앉아서 납땜질을 하고 있습니다. 콘라트는 그녀의 옆에 서서 스피커"
+"를 분해하고 있습니다. 마리는 팔을 책상에 기대고 쌓여있는 두 개의 타이어 위에 "
+"앉아있고 그녀의 스케이트보드가 전선이 튀어나와 있는 상태로 책상에 놓여있습니"
+"다. 마리는 책상에 두 팔을 걸치고 서 있는 앨런과 얘기하고 있습니다. 책상 위에"
+"은 다른 물건들도 놓여있어요: 펜치, 두 개의 스패너, 땜납 한 통, 파란색 페인트"
+"가 담긴 통 (페인트 일부가 책상위에 말라있다) 그리고 음료수가 담긴 용기와 핑크"
+"색 음료가 담긴 유리컵 두 개. 토니는 노란색 날개와 팬을 단 스케이트보드를 테스"
+"트 하고 있습니다. 토니의 스케이트보드가 트림을 했네요."
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:819
+msgid ""
+"Marie and Ada’s mom are dancing, facing each other. Alan, Ada, and Konrad "
+"are dancing in a circle. On the right there is a speaker playing, resting on "
+"an oil drum. Near the speaker there are two dancing mice. Toni is jumping "
+"through the tires. Ada’s dog is howling, and from his mouth come two "
+"distorted musical notes."
+msgstr ""
+"마리와 에이다의 엄마는 서로를 마주보며 춤을 추고 있습니다. 앨런, 에이다, 콘라"
+"트는 동그랗게 모여 춤을 추고 있습니다. 오른편에는 기름통 위에 놓여있는 스피커"
+"에서 음악이 흘러나오고 있어요. 스피커 근처에는 생쥐 두 마리가 춤을 추고 있습"
+"니다. 토니는 타이어 사이를 껑충껑충 뛰어다니고 있습니다. 에이다의 강아지는 울"
+"부짖고 있는데 두 개의 꼬부라진 음표가 입에서 튀어나왔어요."
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:827
+msgid ""
+"Hands holding wonderful ice cream cones: blue ice cream with a chocolate "
+"heart on top with a yellow heart on its center, and whipped cream on top of "
+"the chocolate; green ice cream with colored stars with a cucumber stuck on a "
+"stick; pink fish-shaped ice cream; pyramid-shaped ice cream with candies, "
+"and chocolate syrup, and a cherry on top; rainbow ice cream with a yellow "
+"umbrella; blue ghost-shaped ice cream with candies on it."
+msgstr ""
+"세상에서 가장 멋진 아이스크림 콘을 들고있는 모습: 파란색 아이스크림은 위에 하"
+"트 모양 초콜렛이 올려져 있는데 하트 안에는 노란색 하트 모양이 다시 그려져 있"
+"고 위에는 휘핑 크림이 얹혀져 있습니다; 초록색 아이스크림은 색색깔의 별모양이 "
+"붙어있고 이쑤시게에 꽃힌 오이가 꼽혀져 있습니다; 핑크색 물고기 모양 아이스크"
+"림도 있습니다; 캔디가 빅힌 피라미드 모양 아이스크림은 위에 초콜렛 시럽이 뿌려"
+"져 있고 체리가 꼭대기에 올려져 있습니다; 노란색 우산이 꽃혀있는 무지개색 아이"
+"스크림도 있구요; 캔디가 박혀있는 파란색 유령모양 아이스크림도 있습니다."
+
+#. (itstool) path: simplesect/para@dropcapfileref
+#. (itstool) comment: simplesect/para@dropcapfileref
+#. File for the capital image, depending on the capital letter and the
+#. required color. Can be postponed to the publishing process. priority:70
+#: Ada_Zangemann.dbk:838
+msgid "images/capitals/E-pink.png"
+msgstr ""
+
+#. (itstool) path: simplesect/para
+#. (itstool) id: Ada_Zangemann.dbk#para-p35-1
+#: Ada_Zangemann.dbk:838
+msgid ""
+"<phrase condition=\"capitals-text\">Every</phrase><phrase "
+"condition=\"capitals-img\">very</phrase> day, Ada and her friends made plans "
+"together for the afternoon. From a broken ice-cream machine, they built a "
+"new one that could make ice cream in every imaginable shape and color. They "
+"ate square ice cream, heart-shaped ice cream, and even pyramid-shaped ice "
+"cream, as well as strawberry, raspberry, and rainbow ice cream, all with "
+"sprinkles and hot fudge — much better than the varieties from the Zangemann "
+"machines."
+msgstr ""
+"<phrase condition=\"capitals-text\">매일</phrase><phrase "
+"condition=\"capitals-img\">일</phrase> 에이다와 친구들은 오후에 모여 계획을 "
+"세웠어요. 고장난 아이스크림 기계를 가져와서 상상하는 어떤 모양과 색깔이든 만"
+"들어 낼 수 있는 기계를 만들었어요. 이젠 사각형 모양, 하트 모양 심지어 피라미"
+"드 모양 아이스크림도 먹을 수 있었어요. 물론 스프링클 가루와 초코 시럽을 뿌린 "
+"딸기맛, 라즈베리맛, 레인보우맛 아이스크림도요. 그 기계는 장기만 아저씨의 아이"
+"스크림 기계보다 훨씬 더 메뉴가 다양했어요."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:839
+msgid ""
+"Sometimes they could even help adults. Toni reprogrammed his father’s "
+"ironing machine so that it could also iron ties again — Zangemann had "
+"forbidden the machines to do so because he hated ties like the plague. For "
+"the bus driver, they built an automatic watering system out of old hoses and "
+"a computer so that her plants would not die of thirst during summer days. "
+"And they helped the school custodian modify his vacuum so that it "
+"automatically recognized toys and wouldn’t suck them up."
+msgstr ""
+"때때로 친구들은 어른들도 도와 드렸어요. 토니는 아빠의 다림질 기계를 다시 프로"
+"그래밍해서 넥타이가 다림질 될 수 있도록 했어요 - 장기만 아저씨는 넥타이를 끔"
+"찍하게 싫어해서 다림질 기계가 넥타이를 다릴 수 없도록 했어요. 버스 기사 아줌"
+"마를 위해서는 오래된 호스와 컴퓨터를 이용해 자동 급수 시스템을 만들어 드렸어"
+"요. 아줌마의 식물들이 여름 동안 목이 말라 말라 죽지 않도록 해드렸죠. 그리고 "
+"학교 관리인 아저씨에게는 진공청소기가 장남감을 인식하도록 해드렸어요. 그랬더"
+"니 더 이상 진공청소기가 장남감을 빨아들이지 않게 되었어요."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:840
+msgid ""
+"Some things they built just for fun, like the fart machine they put in their "
+"math teacher’s chair. Whenever Ms. Gernet sat down, the machine played a "
+"little fart sound. The teacher would scold them, but Ada was sure that she "
+"secretly smirked a little every time."
+msgstr ""
+"어떤 것들은 그저 재미를 위해서 만들기도 했어요, 예를들면 수학을 가르쳐주시는 "
+"가넷 선생님 의자에 달아둔 방귀 기계 같은거요. 가넷 선생님이 의자에 앉을 때마"
+"다, 방귀 기계가 방귀 소리를 냈어요. 선생님은 매번 아이들을 꾸짖었지만 선생님"
+"이 매번 아무도 모르게 살짝 웃고 계셨다고 에이다는 생각했어요."
+
+#. (itstool) path: info/title
+#: Ada_Zangemann.dbk:845
+msgid "Zangemann and the President"
+msgstr "장기만과 대통령"
+
+#. (itstool) path: simplesect/para@dropcapfileref
+#. (itstool) comment: simplesect/para@dropcapfileref
+#. File for the capital image, depending on the capital letter and the
+#. required color. Can be postponed to the publishing process. priority:70
+#: Ada_Zangemann.dbk:849
+msgid "images/capitals/O-green.png"
+msgstr ""
+
+#. (itstool) path: simplesect/para
+#. (itstool) id: Ada_Zangemann.dbk#para-p36-1
+#: Ada_Zangemann.dbk:849
+msgid ""
+"<phrase condition=\"capitals-text\">One</phrase><phrase condition=\"capitals-"
+"img\">ne</phrase> day, Zangemann noticed that some computers no longer "
+"obeyed his programming commands. Shocked and fuming with anger, he called "
+"the president. In a quivering voice, Zangemann yelled, “Someone is rewriting "
+"the programs in my devices. That can’t happen; after all, they are my "
+"inventions. It’s far too dangerous if everyone can do whatever they want "
+"with the computers. You must make a law against this!”"
+msgstr ""
+"<phrase condition=\"capitals-text\">어느</phrase><phrase "
+"condition=\"capitals-img\">느</phrase> 날 장기만 아저씨는 몇 몇 컴퓨터가 더 "
+"이상 자신의 프로그래밍 명령에 복종하지 않는다는 걸 알아차렸어요. 아저씨는 충"
+"격을 받고 분노로 가득찼어요. 아저씨는 대통령에게 전화를 걸었죠. 떨리는 목소리"
+"로 아저씨는 소리쳤어요. “누군가 내 장치들을 다시 프로그래밍 하고 있어요. 그"
+"건 일어나선 안 되는 일이에요. 그건 내가 만든 장치들이고, 만약 모두가 컴퓨터"
+"를 이용해 자기가 하고 대로만 하려고 한다면 그건 너무나도 위험해요. 당장 이런 "
+"행위를 금지하는 법안을 만들어야만 합니다!”"
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:850
+msgid ""
+"The president did not want to upset Zangemann. All the government’s "
+"computers were programmed by Zangemann. Without the computers, the "
+"government would not be able to run the country. So they passed the law as "
+"Zangemann requested:"
+msgstr ""
+"대통령은 장기만 아저씨를 화내게 하고 싶지 않았어요. 왜냐면 모든 정부의 컴퓨터"
+"를 장기만 아저씨가 프로그래밍 했기 때문이죠. 그의 컴퓨터 없이는 나라를 운영하"
+"기가 어려웠어요. 그래서 장기만 아저씨가 요구한 법안을 다음과 같이 통과시키게 "
+"되었지요."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:851
+msgid ""
+"“All computers that do not listen to Zangemann are banned. Anyone who "
+"reprograms Zangemann’s devices will be fined 500,000 gold pieces!”"
+msgstr ""
+"“장기만의 명령을 따르지 않는 모든 컴퓨터는 이제부터 사용을 금지한다. 누구든"
+"지 장기만의 기계를 다시 프로그래밍하는 자는 500,000 골드의 벌금을 부과한다!”"
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:858
+msgid ""
+"The President getting a phone call from the angry Zangemann. The videophone "
+"consists of an old red Zangemann dial phone connected to a monitor. "
+"Zangemann’s face appears on the monitor, while a yellow flare of Zangemann’s "
+"thundering voice comes out of the phone, and the President holds the "
+"receiver at arm’s length. The president has white hair and wears a light "
+"blue shirt, a red tie, and a blue jacket with yellow buttons. The President "
+"is sitting on a green chair with white vertical lines, and his other hand is "
+"on the desk. On the desk, in addition to the videophone, there are sheets "
+"with something written on them and an open purple fountain pen. The "
+"President was eating a sandwich of meat and cheese with greens with two "
+"olives on a toothpick, over a blue napkin with white stripes."
+msgstr ""
+"대통령이 화가 난 장기만 아저씨의 전화를 받고 있습니다. 화상 전화기는 모니터"
+"가 달린 오래된 빨간색 장기만표 다이얼식 전화기 입니다. 모니터에는 장기만의 모"
+"습이 나타나있고, 수화기에는 아저씨의 성난 우뢰같은 목소리 때문에 노란색 화염"
+"이 뿜어져 나오고 있습니다. 대통령은 그런 수화기를 한 팔을 뻗어 멀찌감치 잡고 "
+"있습니다. 대통령은 흰색 머리이며 하늘색 셔츠와 빨간색 넥타이, 노란색 단추가 "
+"달린 파란색 양복 자켓을 입고 있습니다. 대통령은 흰색 가로 줄무늬가 그려진 녹"
+"색 의자에 앉아있습니다. 그리고 한 손은 책상을 짚고있습니다. 책상 위에는 화상 "
+"전화기 외에도 무언가 써져있는 서류 뭉치와 뚜껑이 열려있는 만년필이 놓여져 있"
+"습니다. 대통령은 흰색 체크무늬 냅킨 위에 놓여진 고기와 치즈와 채소로 만들어"
+"진 샌드위치를 먹으려고 하던 중이었어요. 올리브 두 개가 달린 이쑤시개가 샌드위"
+"치 위에 꽂혀 있습니다."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:863
+msgid ""
+"When Ada and her friends heard this, they were furious. “This is unfair,” "
+"they said. “We rebuilt and reprogrammed our skateboards ourselves. They are "
+"much better now. We won’t let anyone take that away from us!”"
+msgstr ""
+"에이다와 친구들이 이런 소식을 들었을 때, 그들은 분노했어요. “이건 불공평해” "
+"그들은 말했어요. “스케이트보드를 다시 만들고 프로그래밍한 건 우리고 그건 이"
+"제 옛날보다 훨씬 더 좋아졌잖아. 그걸 우리한테서 뺏어가게 할 수는 없어!”"
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:864
+msgid ""
+"They gathered in front of one of their rebuilt ice-cream machines and "
+"discussed the situation. It was clear that something had to be done about "
+"the new law, and they made a plan..."
+msgstr ""
+"아이들은 새로 만든 아이스크림 기계 앞에 모여 이 사태를 어떻게 해결 해야할 지 "
+"의논했어요. 새로 만든 법안에 대해서 무언가를 하지 않으면 안 된다는게 명확해졌"
+"어요. 아이들은 그래서 한 가지 계획을 세웠어요..."
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:869
+msgid ""
+"Cans of green, blue, and pink paint; a paintbrush with yellow paint; a light "
+"green marker; and a rolled banner on which some blue paint has fallen."
+msgstr ""
+"녹색, 파란색, 핑크색 페인트통; 노란색 페인트가 묻은 페인트붓; 연녹색의 형광"
+"팬; 약간의 파란색 페인트가 묻어있는 말려있는 두루마리 용지."
+
+#. (itstool) path: info/title
+#: Ada_Zangemann.dbk:875
+msgid "Protest"
+msgstr "시위"
+
+#. (itstool) path: simplesect/para@dropcapfileref
+#. (itstool) comment: simplesect/para@dropcapfileref
+#. File for the capital image, depending on the capital letter and the
+#. required color. Can be postponed to the publishing process. priority:70
+#: Ada_Zangemann.dbk:880
+msgid "images/capitals/T-cyan.png"
+msgstr ""
+
+#. (itstool) path: simplesect/para
+#. (itstool) id: Ada_Zangemann.dbk#para-p39-1
+#: Ada_Zangemann.dbk:880
+msgid ""
+"<phrase condition=\"capitals-text\">The</phrase><phrase condition=\"capitals-"
+"img\">he</phrase> next day, they didn’t go to school. Instead, they rode "
+"their skateboards to the parliament building, with large protest signs under "
+"their arms, and sat down in front of the building. The evening before, they "
+"had put LED lights on some of the signs, which were now flashing brightly. "
+"They had connected their speakers together so everyone in the street could "
+"hear what they were saying. Some passersby stopped and asked the children "
+"what they were demonstrating for. “For software freedom!” they replied in "
+"unison and told the adults their story. Impressed, the adults nodded, and "
+"the president also looked curiously at their signs as he approached the "
+"building."
+msgstr ""
+"<phrase condition=\"capitals-text\">다음날</phrase><phrase "
+"condition=\"capitals-img\">음날</phrase> 아이들은 학교에 가지 않았어요. 대신 "
+"스케이드보드를 타고 국회의사당으로 향했어요. 손에는 커다란 시위 팻말을 들고 "
+"국회의사당 앞에 자리를 잡았어요. 저녁이 되면 푯말 중 일부가 밝게 빛날 수 있도"
+"록 LED 전구를 달았지요. 아이들은 각자의 스피커를 서로 연결해서 주변에 있는 모"
+"두가 자신들이 하는 얘기를 들을 수 있도록 했어요. 지나가는 행인 중 누군가가 멈"
+"춰서서 아이들에게 왜 시위를 하는지 물었어요. “소프트웨어의 자유를 위해서요!” "
+"아이들은 일제히 대답하면서 어른들에게 그간의 이야기를 들려 주었어요. 감동을 "
+"받은 어른들은 고개를 끄덕였지요. 마침 국회의사당을 지나치던 대통령도 아이들"
+"의 시위 팻말을 보고 호기심 어린 눈으로 지켜보았어요."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:881
+msgid ""
+"On the following day, Ada and her friends again sat down in front of the "
+"parliament building, this time with support. Some classmates came whose "
+"skateboards Ada had reprogrammed. Toni’s father and other parents and adults "
+"also wanted to support the protest. They found the children’s devices very "
+"useful."
+msgstr ""
+"다음 날에도 에이다와 친구들은 국회의사당으로 향했어요. 이번에는 지원군과 함께"
+"였지요. 이전에 스케이드보드 프로그래밍을 도와주었던 친구들이 함께 와줬어요. "
+"토니의 아빠와 다른 아이들의 부모님, 주변의 어른들도 시위를 도와주러 오셨어"
+"요. 그들은 모두 에이다와 친구들이 새로 다시 만든 장치들이 무척 유용하다는걸 "
+"알았거든요."
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:886
+msgid ""
+"Yellow and green paint on the floor and wax crayons yellow, red, blue, green "
+"and brown; the latter 3 are in a gray cardboard box."
+msgstr ""
+"노란색과 초록색 페인트가 바닥에 묻어있고 노란색, 빨간색, 파란색, 녹색, 갈색 "
+"크레용이 있습니다; 마지막에 얘기한 3개의 크레용은 종이 상자에 들어있습니다."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:890
+msgid ""
+"With each passing day, more and more children and adults joined the protest. "
+"The bus driver they had helped drove up in her bus. She honked loudly to "
+"attract even more people to the protest. The custodian brought a few "
+"friends, and Toni’s father brought his colleagues from work, all wearing "
+"perfectly ironed ties. Even Ms. Gernet came. The crowd grew, and after a few "
+"weeks, there were protests not just in Ada’s city but also in many cities "
+"throughout the country."
+msgstr ""
+"날이 갈수록 더 많이 아이들과 어른들이 시위에 참여하였습니다. 이전에 도와드렸"
+"던 버스 운전사 아주머니는 버스를 끌고 오셨습니다. 그녀는 더 많은 사람들이 시"
+"위에 관심을 갖도록 큰 소리로 버스 경적을 울렸습니다. 학교 관리인 아저씨는 몇 "
+"몇 친구들을 데리고 왔습니다. 토니의 아빠는 그의 직장 동료들을 데리고 왔습니"
+"다. 토니 아빠의 직장 동료들은 깔끔하게 다림질 된 넥타이를 메고 왔습니다. 심지"
+"어 가넷 선생님도 오셨어요. 시위에 참여하는 군중들이 점점 늘어났습니다. 그리"
+"고 몇 주 뒤 시위에는 에이다가 살고있는 도시의 사람들뿐만 아니라 다른 도시의 "
+"사람들도 참여하게 되었습니다."
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:895
+msgid ""
+"Group of protesters. Among them there are: Ada’s mother holding Alan’s hand "
+"and raising a pink ice cream; 3 colleagues of Toni’s father dressed in ties; "
+"two children holding the banner “Do your homework Mr. President and we will "
+"do ours!”; a robot with tank treads, irons as feet, an electric fan as "
+"abdomen, a monitor as head, and an eggbeater as one hand, holding a blue ice "
+"cream in his other hand; two parents holding the banner “Hacking 4 Freedom”; "
+"a lady holding an electronic sign “There is a code B”; two small birds, "
+"flying; the math teacher, Ms. Gernet, who has inserted in her cart a sign "
+"that says “They are young + need the code!“ The dog in her cart is barking; "
+"Ada and Konrad are carrying the banner “Don’t wreck our tech!” Marie and "
+"Toni are walking beneath the banner, and Marie is talking through a bullhorn "
+"held in her hand; Ada’s family’s dog is now wearing a red harness with shiny "
+"yellow LEDs that matches the collar."
+msgstr ""
+"시위하는 사람들의 모습. 다음과 같은 사람들이 있습니다: 에이다의 엄마는 한 손"
+"으로 앨런의 손을 잡고 다른 손으로 핑크 아이스크림을 치켜들고 있습니다; 토니"
+"의 아빠는 회사 동료들과 넥타이를 메고 있습니다; 두 명의 아이가 “풀어야 할 숙"
+"제가 있잖아요 대통령 아저씨 저희도 저희 숙제를 하고 싶다구요!” 라고 적힌 현수"
+"막을 들고 있습니다; 무한궤도가 달린 로봇은 다리는 다리미이고 몸체는 네모난 선"
+"풍기에 머리는 모니터, 한 팔은 거품기에 다른 한 손에는 파란색 아이스크림을 들"
+"고 있습니다; 두 명의 부모님이 “Hacking 4 Freedom” 이라고 적힌 현수막을 들고 "
+"있습니다; 한 여성이 “There is a code B” 라고 적힌 LED 팻말을 들고 있습니다; "
+"두 마리의 작은 새가 날아가고 있습니다; 수학 선생님인 가넷 여사가 자신의 카트"
+"에 “젊은 그대에겐 + 코드가 필요해요!” 라고 적힌 팻말을 꽂아 놓았습니다. 카트"
+"에 탄 그녀의 강아지는 짖고 있습니다; 에이다와 콘라트가 “코드야 같이놀자!” 라"
+"고 적힌 현수막을 들고 걸어가고 있습니다. 마리와 토니는 현수막 아래를 걸어가"
+"고 있는데 마리는 한 손에 메가폰을 들고 무언가를 얘기하고 있습니다; 에이다의 "
+"강아지는 목줄과 매칭되는 빛나는 노란색 LED 전구가 달린 빨간색 하네스를 착용하"
+"고 있습니다."
+
+#. (itstool) path: info/excerpt
+#. Text on big banner, left on the illustration
+#: Ada_Zangemann.dbk:897
+msgid "Do your homework Mr. President and we will do ours!"
+msgstr ""
+"풀어야 할 숙제가 있잖아요 대통령 아저씨 저희도 저희 숙제를 하고 싶다구요!"
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:906
+msgid ""
+"Detail of the previous image: two children holding the banner “Do your "
+"homework Mr. President and we will do ours!”"
+msgstr ""
+"이전 이미지의 세부사항: 두 명의 아이가 “풀어야 할 숙제가 있잖아요 대통령 아저"
+"씨 저희도 저희 숙제를 하고 싶다구요!” 라고 적힌 현수막을 들고 있습니다;"
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:912
+msgid ""
+"Detail of the previous image: Ada and Konrad are carrying the banner “Don’t "
+"wreck our tech!” Marie and Toni are walking beneath the banner, and Marie is "
+"talking through a bullhorn held in her hand; Ada’s family’s little dog is "
+"now wearing a red harness with shiny yellow LEDs that matches the collar."
+msgstr ""
+"이전 이미지의 세부사항: 에이다와 콘라트가 “코드야 같이놀자!” 라고 적힌 현수막"
+"을 들고 걸어가고 있습니다. 마리와 토니는 현수막 아래를 걸어가고 있는데 마리"
+"는 한 손에 메가폰을 들고 무언가를 얘기하고 있습니다; 에이다의 강아지는 목줄"
+"과 매칭되는 빛나는 노란색 LED 전구가 달린 빨간색 하네스를 착용하고 있습니다."
+
+#. (itstool) path: info/excerpt
+#. Text on square signe on the right of the illustration
+#: Ada_Zangemann.dbk:914
+msgid "They are young + need the code!"
+msgstr "젊은 그대에겐 + 코드가 필요해요!"
+
+#. (itstool) path: info/excerpt
+#. Text on banner on the banner held by children on the right of the
+#. illustration. Alternatively the German text 'Ohne Code ist alles doof!'
+#. can be used, which translates to 'without code everything is dull!'.
+#: Ada_Zangemann.dbk:915
+msgid "Don’t wreck our tech!"
+msgstr "코드야 같이놀자!"
+
+#. (itstool) path: info/title
+#: Ada_Zangemann.dbk:922
+msgid "Children help the government"
+msgstr "아이들이 정부를 돕다"
+
+#. (itstool) path: simplesect/para@dropcapfileref
+#. (itstool) comment: simplesect/para@dropcapfileref
+#. File for the capital image, depending on the capital letter and the
+#. required color. Can be postponed to the publishing process. priority:70
+#: Ada_Zangemann.dbk:925
+msgid "images/capitals/A-violet.png"
+msgstr ""
+
+#. (itstool) path: simplesect/para
+#. (itstool) id: Ada_Zangemann.dbk#para-p42-1
+#: Ada_Zangemann.dbk:925
+msgid ""
+"<phrase condition=\"capitals-text\">Ada</phrase><phrase condition=\"capitals-"
+"img\">da</phrase> protested in front of the parliament building every week, "
+"even in pouring rain. On one such rainy day, when the president passed the "
+"group of dripping-wet children, he couldn’t help but admire their "
+"stubbornness. He asked Ada, “Why do you sit here every day? What do you want "
+"to achieve?” Ada replied, “We want to determine for ourselves what we can "
+"and cannot do with our computers.” Her friends shouted in unison: “Don’t "
+"wreck our tech! Don’t wreck our tech!” and “We want the code! We want the "
+"code!”"
+msgstr ""
+"<phrase condition=\"capitals-text\">에이다는</phrase><phrase "
+"condition=\"capitals-img\">이다는</phrase> 국회의사당 앞에서 매주 시위를 했어"
+"요, 심지어 비가 오는 날에도 말이죠. 비가 오는 어느 날, 대통령이 비에 젖은 아"
+"이들을 지나쳐 걸어 갈 때 그는 아이들의 집념에 감탄하지 않을 수 없었어요. 대통"
+"령은 에이다에게 물었어요, “얘야 여기에 왜 매일 앉아있니? 이렇게 해서 대체 무"
+"얼 얻고 싶은거니?” 에이다는 대답했어요. “저희는 컴퓨터를 가지고 무엇을 할 수 "
+"있고 무얼 할 수 없는지 스스로 결정하고 싶어요.” 에이다의 친구들은 한 목소리"
+"로 외쳤어요. “코드야 같이놀자! 코드야 같이놀자!” “우리는 코드가 필요해요! 우"
+"리는 코드가 필요해요!”"
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:926
+msgid ""
+"The president looked at the determined faces of the children. Honestly, he, "
+"too, wanted to decide for himself what the government could and couldn’t do "
+"with its computers. But he didn’t understand anything about computers and "
+"code, so he had always left that to Zangemann. Deep in thought, the "
+"president entered the building."
+msgstr ""
+"대통령은 아이들의 결의에 찬 얼굴을 바라보았어요. 사실은 그 역시도 컴퓨터로 "
+"할 수 있는 것과 없는 것을 정부 스스로 결정하게 하고 싶었어요. 그러나 그는 컴"
+"퓨터나 코드에 대해서는 아무 것도 몰랐어요, 그래서 항상 그 일은 장기만에게 맡"
+"겨 왔습니다. 대통령은 깊은 생각에 빠진채 건물 안으로 걸어 들어갔습니다."
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:932
+msgid ""
+"One of Ada’s friends lying on his stomach with one foot up in the air is "
+"typing on a laptop. He has wavy brown hair parted in the center, a red "
+"sweatshirt, blue pants, and white socks but no shoes. Next to the computer "
+"there are a green cup and two open books."
+msgstr ""
+"에이다의 친구 한 명이 바닥에 배를 깔고 한 발을 허공에 흔들면서 노트북을 치고 "
+"있습니다. 그 아이는 가운데 가름마를 탄 갈색 곱슬머리이고, 빨간색 스웨터와 파"
+"란색 바지 그리고 흰색 양말을 신었는데 신발은 신지 않고 있습니다. 노트북 옆에"
+"는 초록색 컵과 두 권의 책이 펼쳐져 있습니다."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:934
+msgid ""
+"The next day, the president invited Ada and her friends over. “We also want "
+"to be in charge of our software ourselves. In order for that to be true, the "
+"government must be independent from Zangemann. Can you tell me what you know "
+"about computer programs?” he asked them. Enthusiastically, they explained to "
+"him how software works and what you could do with it. The president was "
+"amazed."
+msgstr ""
+"다음 날, 대통령은 에이다와 친구들을 집무실로 초대했어요. “우리 또한 소프트웨"
+"어는 우리가 스스로 관리하고 싶단다. 그렇게 되려면 정부가 장기만으로부터 독립 "
+"할 수 있어야만 하지. 너희들이 컴퓨터 프로그램에 대해서 알고 있는 것들은 좀 "
+"더 얘기해 줄 수 있겠니?” 대통령이 얘기했어요. 아이들은 열정적으로 소프트웨어"
+"가 어떻게 동작하는지 그럴로 무얼 할 수 있는지 설명했어요. 대통령은 무척이나 "
+"놀라워 했죠."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:937
+msgid ""
+"With this new knowledge, the government would be able to design its own "
+"software, the way it wanted — completely without Zangemann. Immediately, the "
+"president called his advisers. In a large group, they discussed with the "
+"children everything they could change and improve in the software."
+msgstr ""
+"이 새로운 지식만 있다면, 정부는 자체적으로 원하는 방식의 소프트웨어를 만들 "
+"수 있을 것 같았어요. 물론 장기만 아저씨 없이 말이죠. 대통령은 즉시 보좌관에"
+"게 전화를 걸었어요. 좀 더 큰 모임에서 아이들은 여러 사람들과 정부의 소프트웨"
+"어를 바꿔서 더 좋게 만들 수 있는 방법에 대해 의논했어요."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:938
+msgid ""
+"That evening, the children went home proud and satisfied. Something finally "
+"happened! Their long protest was worth it."
+msgstr ""
+"그 날 저녁, 아이들은 자신들이 스스로 한 일에 자부심과 만족감을 갖고 집으로 돌"
+"아왔어요. 무언가가 시작되었어요. 아이들의 시위가 드디어 빛을 볼 차례인거에요."
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:943
+msgid ""
+"Ada and her friends in the President’s office. Ada is reprogramming the "
+"President’s computer. Toni is setting up a speaker for the President’s "
+"secretary. Marie and Konrad are sitting on the floor and talking, and Marie "
+"has a laptop on her legs with an FSFE logo sticker (three stars: pea green, "
+"sky blue, and sea blue). On the floor are a bowl with candy and a plate with "
+"ice creams. The President’s phone is ringing, but nobody is answering."
+msgstr ""
+"에이다와 친구들이 대통령 집무실에 있습니다. 에이다는 대통령 아저씨의 컴퓨터"
+"를 다시 프로그래밍 하고 있습니다. 토니는 대통령 비서 아줌마의 스피커를 다시 "
+"설정하고 있습니다. 마리와 콘라트는 바닥에 앉아서 얘기하고 있습니다. 마리는 그"
+"녀의 다리에 노트북을 놔두고 있는데 노트북에는 FSFE 로고 스티커가 붙어 있습니"
+"다. (FSFE 로고에 있는 세 개의 별: 완두콩 녹색, 하늘색, 바다색 별) 바닥에는 캔"
+"디가 담긴 그릇이 놓여져 있고 아이스크림이 담겨있는 접시도 있습니다. 대통령 아"
+"저씨의 전화기가 울리고 있지만, 아무도 받지 않습니다."
+
+#. (itstool) path: info/title
+#: Ada_Zangemann.dbk:949
+msgid "New law"
+msgstr "새로운 법"
+
+#. (itstool) path: simplesect/para@dropcapfileref
+#. (itstool) comment: simplesect/para@dropcapfileref
+#. File for the capital image, depending on the capital letter and the
+#. required color. Can be postponed to the publishing process. priority:70
+#: Ada_Zangemann.dbk:952
+msgid "images/capitals/T-red3.png"
+msgstr ""
+
+#. (itstool) path: simplesect/para
+#. (itstool) id: Ada_Zangemann.dbk#para-p44-1
+#: Ada_Zangemann.dbk:952
+msgid ""
+"<phrase condition=\"capitals-text\">The</phrase><phrase condition=\"capitals-"
+"img\">he</phrase> next morning, the president’s phone rang very early. It "
+"was Zangemann. He was angrier than ever. “Without me, the government "
+"computers will no longer work,” he threatened. But the president kept the "
+"call short and quickly hung up. The phone rang many more times that day, but "
+"Zangemann’s calls went unanswered. The president sat in a meeting with Ada, "
+"Toni, Marie, Konrad, and the government experts."
+msgstr ""
+"<phrase condition=\"capitals-text\">다음날</phrase><phrase "
+"condition=\"capitals-img\">음날</phrase> 아침 대통령 아저씨의 전화가 아침부"
+"터 울려댔어요. 그건 장기만 아저씨였어요. 그는 평소보다 더 화가 나 있었어요. "
+"\"나 없이는 정부의 컴퓨터가 더 이상 작동되지 않을겁니다\" 그는 협박했어요. 그"
+"러나 대통령은 전화를 짧게 마치고 얼른 끊어 버렸어요. 장기만 아저씨의 전화는 "
+"그 뒤로도 계속 울려댔지만 더 이상 받지 않았어요. 대신에 대통령은 에이다와 토"
+"니, 마리, 콘라트 그리고 정부 전문가들과 회의를 진행했지요."
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:957
+msgid ""
+"A herald, wearing a hat with a plume, playing a trumpet on which a red "
+"banner is hung."
+msgstr ""
+"깃털이 달린 모자를 쓴 전령의 모습. 빨간색 깃발이 달린 트럼펫을 연주하고 있다."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:959
+msgid ""
+"In the days that followed, they talked from morning to night and designed "
+"their first programs for the government’s computers. They were no longer "
+"disturbed by Zangemann’s calls. Toni had the good idea of reprogramming the "
+"telephones. When Zangemann called, he only heard an automated recording: "
+"“The government only wants to use software that it can freely use, study, "
+"share, and improve. Thank you for calling.”"
+msgstr ""
+"그 후 며칠 동안, 모두 함께 정부 컴퓨터를 위한 첫 프로그램을 설계하느라 밤낮으"
+"로 얘기를 나눴어요. 이제는 더 이상 장기만 아저씨의 전화로 방해를 받지 않았어"
+"요. 왜냐하면 토니가 전화기를 다시 프로그래밍하자는 좋은 아이디어를 떠올렸거든"
+"요. 장기만 아저씨 전화가 오면 수화기에선 오직 이 말만 들렸어요. “정부는 자유"
+"롭게 사용 및 연구되고 공유 및 개선이 가능한 소프트웨어만 사용합니다. 감사합니"
+"다.”"
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:961
+msgid ""
+"Then, after many weeks of protests and discussions, the time had finally "
+"come: they abolished the old Zangemann law! Instead, the government "
+"announced:"
+msgstr ""
+"결국 몇 주간의 길었던 시위와 토론 끝에 드디어 그 날이 찾아 왔습니다. 바로 장"
+"기만 법을 폐지하기로 한거죠! 대신 정부는 이런 내용을 공표하였습니다."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:964
+msgid ""
+"“Everyone is allowed to program their own computers as long as they adhere "
+"to the other laws.”"
+msgstr ""
+"“다른 법률을 준수하기만 한다면 모든 사람은 자신의 컴퓨터를 스스로 프로그래밍 "
+"할 수 있습니다.”"
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:965
+msgid ""
+"In addition, a new school subject was introduced: computer hardware and "
+"software."
+msgstr ""
+"그리고 학교에는 다음과 같은 새로운 과목이 생겼습니다. 과목명: 컴퓨터 하드웨어"
+"와 소프트웨어."
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:970
+msgid ""
+"The President with Toni, Konrad, Marie, Ada, and a herald playing a trumpet. "
+"Marie is standing on top of a ladder talking into a microphone. Konrad "
+"firmly holds the ladder on which Marie is standing. Ada is standing on a "
+"chair and holds a copy of the new law bearing a seal. Ada’s dog is sitting "
+"in front of her."
+msgstr ""
+"대통령이 토니와 콘라트, 마리와 함께 서있고 전령이 트럼펫을 연주하고 있습니"
+"다. 마리는 사다리 꼭대기에서 서서 마이크로 무언가를 발표하고 있습니다. 콘라트"
+"는 마리가 서있는 사다리를 단단히 붙잡고 있습니다. 에이다는 의자에 올라서서 도"
+"장이 찍힌 새로운 법안을 들고 있습니다. 에이다의 강아지가 그 앞에 앉아 있습니"
+"다."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:975
+msgid ""
+"That evening, everyone celebrated with a big party. Ada, Alan, Toni, Marie, "
+"Konrad, and other children from school and their parents; the president; Ms. "
+"Gernet; the bus driver; the custodian — they were all there. They decorated "
+"the streets, listened to loud music, and ate ice cream, as much as they "
+"wanted, and in every imaginable shape and color."
+msgstr ""
+"그 날 저녁, 모두가 함께모여 축하 파티를 열었어요. 에이다, 앨런, 토니, 마리, "
+"콘라트 그리고 다른 학교 친구들과 부모님들이 모였고 대통령 아저씨, 가넷 선생"
+"님, 버스 기사 아줌마, 학교 관리인 아저씨도 오셨어요. 모두가 함께였어요. 그들"
+"은 거리를 꾸미고 시끄러운 음악을 들으면서 맛있는 아이스크림을 먹었습니다. 다"
+"들 자기가 상상하는 모양과 색깔로 맘껏 먹고싶은 만큼 말이죠."
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:980
+msgid ""
+"Evening party. Children are holding ice cream and balloons with the words “I "
+"love FS (I love Free Software)”; other children are riding skateboards; "
+"yellow and orange flags are hanging; music comes out from a large speaker "
+"system; Ms. Gernet holds a pink tree-shaped ice cream with a yellow star on "
+"it; Ada’s mom is dancing with a gentleman."
+msgstr ""
+"저녁 파티. 아이들이 아이스크림과 “I love FS (나는 프리 소프트웨어를[Free "
+"Software] 사랑해요.)”라고 그려진 풍선을 들고 있습니다; 다른 아이들은 스케이트"
+"보드를 타고 있습니다; 노란색과 주황색 깃발이 달린 가랜드가 걸려 있습니다; 커"
+"다란 스피커 시스템에서 음악이 흘러나오고 있습니다; 가넷 선생님이 노란색 별장"
+"식이 꽃혀있는 핑크색 트리 모양 아이스크림을 들고 있습니다; 에이다의 엄나는 어"
+"떤 아저씨와 춤을 추고 있습니다."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:984
+msgid ""
+"While the others continued partying late into the night, Ada and her friends "
+"slipped away to their workshop. They already had a lot of ideas for new "
+"inventions. And they wanted to start right away."
+msgstr ""
+"사람들이 밤 늦도록 파티를 즐기고 있는 가운데, 에이다와 친구들은 몰래 파티를 "
+"빠져나와 그들의 작업실로 향했어요. 왜냐하면 그들의 머릿 속엔 새로운 발명품에 "
+"대한 아이디어가 한 가득이었거든요. 모두들 더는 기다릴 수가 없었어요!"
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:989
+msgid ""
+"The President, the secretary, and other people around a table enjoying crazy "
+"ice cream; yellow and orange flags continue from the previous image; a "
+"little girl who just took a pink ghost-shaped ice cream from the modified "
+"ice cream machine; Ada’s dog, Konrad, Marie, Ada, and Toni sneaking away "
+"from the party."
+msgstr ""
+"대통령과 비서, 그리고 사람들이 테이블에 둘러 앉아 엄청난 아이스크림을 맛보고 "
+"있습니다; 노란색과 주황색 가랜드 깃발이 이전 이미지에서부터 계속 이어져 있습"
+"니다; 한 소녀가 개조된 아이스크림 기계에서 핑크색 유령 모양의 아이스크림을 "
+"막 뽑았습니다; 에이다의 강아지, 콘라트, 마리, 에이다 그리고 토니는 파티에서 "
+"몰래 빠져나가고 있습니다."
+
+#. (itstool) path: info/title
+#: Ada_Zangemann.dbk:995
+msgid "And Zangemann?"
+msgstr "그리고 장기만은?"
+
+#. (itstool) path: simplesect/para@dropcapfileref
+#. (itstool) comment: simplesect/para@dropcapfileref
+#. File for the capital image, depending on the capital letter and the
+#. required color. Can be postponed to the publishing process. priority:70
+#: Ada_Zangemann.dbk:999
+msgid "images/capitals/A-yellow.png"
+msgstr ""
+
+#. (itstool) path: simplesect/para
+#. (itstool) id: Ada_Zangemann.dbk#para-p48-1
+#: Ada_Zangemann.dbk:999
+msgid ""
+"<phrase condition=\"capitals-text\">And</phrase><phrase condition=\"capitals-"
+"img\">nd</phrase> Zangemann? No one’s heard much from him. Maybe he’s still "
+"sitting angrily in front of his golden computer. Maybe he doesn’t dare go "
+"out into the street anymore and has boarded up all the windows of his "
+"mansion so that he doesn’t have to worry about what other people are doing "
+"with his inventions. But maybe he also sometimes looks out into the world "
+"through his telescope and sees what the children are inventing every day. "
+"Perhaps then he will remember how much fun it was for himself to tinker and "
+"experiment. And maybe, just maybe, he eats pyramid-shaped raspberry ice "
+"cream with rainbow sprinkles."
+msgstr ""
+"<phrase condition=\"capitals-text\">그러면</phrase><phrase "
+"condition=\"capitals-img\">러면</phrase> 장기만 아저씨는 어떻게 되었을까요? "
+"아저씨의 소식을 아는 사람은 아무도 없었어요. 아마도 그는 황금 컴퓨터 앞에서 "
+"여진히 화를 내고 있을지도 모르겠네요. 아니면 더 이상 거리로 나갈 생각을 하지 "
+"못하고 사람들이 자신의 발명품으로 무얼 하던지 간에 걱정하지 않도록 저택 창문"
+"을 꽁꽁 닫아 버렸을 지도 모르죠. 하지만 그는 자신의 망원경으로 아이들이 어떤 "
+"발명품을 만들어 내는지 가끔 지켜보고 있을지도 몰라요. 그러면 아마 아저씨는 스"
+"스로 무언가를 조물거리며 실험하던 때가 얼마나 재밌었는지 문득 머릿속에 떠올릴"
+"꺼에요. 그리고 어쩌면... 이건 정말이지 어쩌면 말이죠, 아저씨는 무지개색 스프"
+"링클 가루를 뿌린 피라미드 모양의 아이스크림을 먹고 있을지도 모를 일이에요."
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:1004
+msgid "Ada’s little dog sniffing a trail of ice cream."
+msgstr "에이다의 강아지가 아이스크림 흘린 냄새를 맡고있습니다."
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:1013
+msgid "A trail of candies and raspberry ice cream on the ground."
+msgstr "캔디와 라즈베리 아이스크림의 흔적이 땅에 떨어져 있습니다."
+
+#. (itstool) path: info/title
+#. (itstool) id: Ada_Zangemann.dbk#title-acknowledgments
+#: Ada_Zangemann.dbk:1020
+msgid "Acknowledgments"
+msgstr "감사의 말"
+
+#. (itstool) path: simplesect/para
+#. In the acknowledgments of the English version you can change 'No Starch
+#. Press' to the name of your publisher, as we would like to thank you for
+#. publishing this book in your language under a free cultural license,
+#. and encourage you to do that for other books in future as well.
+#: Ada_Zangemann.dbk:1028
+#, fuzzy
+msgid ""
+"Many thanks to Reinhard Wiesemann from the Linuxhotel for the financial "
+"support and motivation to no longer plan but to make. Thanks to Sandra "
+"Brandstätter, who has brought me joy with every new design for the "
+"illustrations. Thanks to my editor Wiebke Helmchen, who made developing and "
+"sharpening the story fun, and to No Starch Press for agreeing to publish the "
+"book under a free culture license."
+msgstr ""
+"우선 금전적인 지원과 더불어 계획 보다는 실행이 더 중요함을 일깨워 준 리눅스호"
+"텔의 라인하르트 비제만에게 감사의 인사를 전합니다. 매번 새로운 일러스트를 통"
+"해 저에게 큰 기쁨을 가져다 준 산드라 브란트슈태터에게도 감사를 전합니다. 그리"
+"고 이야기를 다듬고 좀 더 재밌게 만들어 준 편집자 비브케 헴헨에게도 감사를 전"
+"합니다. 그리고 이 책을 프리 컬쳐 라이센스로 펴내게 도와준 XXXXX 출판사에게도 "
+"감사를 드립니다."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:1029
+msgid ""
+"Thanks to Bea and Benni, Brian, Christine and Marc, Cory, Bernhard, Isabel "
+"and Amelia, Katta, Kristina, Martin, Mona and Arne, Nina, Oliver, Reinhard, "
+"Sabine, and Torsten for great ideas, inspiration, and practical tips, and to "
+"the many people of the Free Software movement, from which I was allowed to "
+"learn and whose engagement motivated me."
+msgstr ""
+"훌륭한 아이디어와 영감 그리고 실질적인 팁을 알려준 비, 베니, 브라이언, 크리스"
+"틴, 마크, 코리, 베른하르트, 이사벨, 아멜리아, 카타, 크리스티나, 마틴, 모나, "
+"아르네, 니나, 올리버, 라인하르트, 사빈 그리고 토르스텐에게 감사의 말을 전합니"
+"다. 더불어 자유 소프트웨어 운동을 함께하는 많은 사람들에게 고마움을 전합니"
+"다. 그들을 통해서 배울 수 있었고 그 분들의 참여가 나에게 많은 동기를 부여해 "
+"주었습니다."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:1033
+msgid ""
+"Thanks to my family, who made me write early in the morning, late in the "
+"evening, and on holiday, and who always supports my work for software "
+"freedom. Especially, I would like to thank my children, who inspired me with "
+"new ideas at each reading. Without them, this book would not exist."
+msgstr ""
+"그리고 아침이나 저녁이나 주말에도 이 일을 하도록 허락해 준 저의 가족에게 고맙"
+"다는 얘기를 하고 싶습니다. 가족들은 항상 저의 일과 소프트웨어의 자유를 위해"
+"서 저를 지지해주고 있습니다. 특별히 저는 저희 아이들에게 고맙다는 얘기를 하"
+"고 싶어요. 매번 책을 읽을 때마다 아이들은 제게 새로운 아이디어를 일깨워 줬거"
+"든요. 저희 아이들이 없었다면 아마 이 책은 세상에 존재하지 않았을 겁니다."
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:1040
+msgid ""
+"Ada’s dog wags its tail after finding Zangemann hidden behind a curtain and "
+"eating an ice cream cone with candies and a blue umbrella on it and lots of "
+"raspberry ice cream dripping."
+msgstr ""
+"그리고 아침이나 저녁이나 주말에도 이 일을 하도록 허락해 준 저의 가족에게 고맙"
+"다는 얘기를 하고 싶습니다. 가족들은 항상 저의 일과 소프트웨어의 자유를 위해"
+"서 저를 지지해주고 있습니다. 특별히 저는 저희 아이들에게 고맙다는 얘기를 하"
+"고 싶어요. 매번 책을 읽을 때마다 아이들은 제게 새로운 아이디어를 일깨워 줬거"
+"든요. 저희 아이들이 없었다면 아마 이 책은 세상에 존재하지 않았을 겁니다."
+
+#. (itstool) path: info/title
+#. (itstool) id: Ada_Zangemann.dbk#title-author
+#: Ada_Zangemann.dbk:1047
+msgid "About the Author"
+msgstr "작가에 대해"
+
+#. (itstool) path: info/subtitle
+#. (itstool) id: Ada_Zangemann.dbk#subtitle-author
+#. ignore-same
+#: Ada_Zangemann.dbk:1048
+msgid "Matthias Kirschner"
+msgstr "마티아스 키르슈너"
+
+#. (itstool) path: info/titleabbrev
+#: Ada_Zangemann.dbk:1049
+msgid "About the Author - Matthias Kirschner"
+msgstr "작가에 대해 - 마티아스 키르슈너"
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:1062
+msgid ""
+"Close-up of Matthias smiling, waving with one hand, and wearing a headset. "
+"Matthias has short hair and a little beard."
+msgstr ""
+"마티아스가 한 손을 흔들며 헤드셋을 쓰고 미소 짓고 있습니다. 마티아스는 짧은 "
+"머리에 약간의 수염이 있습니다."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:1064
+msgid ""
+"Matthias was fascinated by computers and software as a child. He had an "
+"internet connection early, through which he learned a lot. Children have a "
+"right to take their future into their own hands. Therefore, Matthias is "
+"committed to the goal that all humans can use software in a self-determined "
+"way. He also wants to build an electric skateboard with Free Software."
+msgstr ""
+"마티아스는 어렸을 때 컴퓨터와 소프트웨어 에 매료되었습니다. 그는 일찍부터 인"
+"터넷을 접했고 그 곳을 통해 많은 것을 배웠습니다. 아이들은 자신 스스로의 손으"
+"로 미래를 결정할 권리가 있습니다. 그래서 그는 모든 사람들이 스스로 결정한 방"
+"식으로 소프트웨어를 사용할 수 있도록 돕는 목표를 위해 헌신을 다하고 있습니"
+"다. 그는 또한 자유 소프트웨어로 전동 스케이트보드를 만들어 보고 싶어합니다."
+
+#. (itstool) path: info/title
+#. (itstool) id: Ada_Zangemann.dbk#title-illustrator
+#: Ada_Zangemann.dbk:1070
+msgid "About the Illustrator"
+msgstr "그림 작가에 대해서"
+
+#. (itstool) path: info/subtitle
+#. (itstool) id: Ada_Zangemann.dbk#subtitle-illustrator
+#. ignore-same
+#: Ada_Zangemann.dbk:1071
+msgid "Sandra Brandstätter"
+msgstr "산드라 브란트슈태터"
+
+#. (itstool) path: info/titleabbrev
+#: Ada_Zangemann.dbk:1072
+msgid "About the Illustrator - Sandra Brandstätter"
+msgstr "그림 작가에 대해서 - 산드라 브란트슈태터"
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:1085
+msgid ""
+"Sandra smiling with a pencil in her hand in front of her chin. She has "
+"earphones with an integrated microphone. Sandra has short hair and glasses."
+msgstr ""
+"산드라가 그녀의 턱 앞에 연필을 잡은 손을 가져다 놓고 미소 짓고있다. 그녀는 마"
+"이크가 달린 이어폰을 끼고 있다. 산드라는 짧은 머리에 안경을 끼고 있다."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:1087
+msgid ""
+"Sandra has always liked crafting with scissors, pliers, glue, wire, fabric, "
+"and paper. Today she works as an illustrator, comic author, and character "
+"designer for animated films and series, such as the German public television "
+"series Trudes Tier. On an ice-cream machine, Sandra would pick a creamy "
+"rainbow ice cream with lemon cucumber flavor and a lot of sprinkles."
+msgstr ""
+"산드라는 항상 가위나 펜치 접착제와 철사, 천, 종이를 이용해 무언가를 만드는 것"
+"을 좋아했습니다. 현재 그녀는 일러스트레이터, 만화 작가 그리고 독일 공영 방송"
+"의 Trudes Tier 시리즈 같은 애니메이션 영화와 시리즈의 캐릭터 디자이너로 일하"
+"고 있습니다. 아이스크림 기계 앞에서, 산드라는 아마도 스프링클 가루가 잔뜩 뿌"
+"려진 크림 가득한 레몬 오이맛 아이스크림을 선택할꺼라고 합니다."
+
+#. (itstool) path: info/title
+#. (itstool) id: Ada_Zangemann.dbk#title-bookswebsite
+#: Ada_Zangemann.dbk:1092
+msgid "Book’s website"
+msgstr "이 책을 위한 웹사이트"
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:1100
+msgid ""
+"The Free Software Foundation Europe e.V. is a nonprofit association that "
+"empowers people to control technology. Software affects all areas of our "
+"life. That is why it is important that this technology gives us freedom "
+"instead of restricting us. Free Software (also called Open Source) gives "
+"everyone the right to use, study, share, and improve programs. Therefore, "
+"Free Software strengthens basic rights such as freedom of expression, "
+"freedom of the press, and the right to privacy."
+msgstr ""
+"유럽 자유 소프트웨어 재단(FSFE)은 사람들이 스스로 기술을 통제 할 수 있도록 하"
+"는 권한을 부여하는 비영리 단체입니다. 소프트웨어는 우리의 삶의 모든 부분에 영"
+"향을 끼칩니다. 그래서 이런 기술들이 우리를 구속하는 무언가가 아닌 우리에게 자"
+"유를 부여하는 무언가가 되도록 만드는 것이 중요합니다. 자유 소프트웨어는(오픈"
+"소스라고도 불리는) 모두에게 자유롭게 프로그램을 사용하고 공유하고 개선할 수 "
+"있는 권리를 가져다 줍니다. 그러므로 자유 소프트웨어는 표현의 자유, 언론의 자"
+"유, 프라이버시의 자유와 같은 기본적 권리를 더욱 공고하게 만들고 있습니다."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:1102
+msgid ""
+"On the web page of the book, you will find more information and resources: "
+"<link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
+msgstr ""
+"이 책을 위한 다음 웹페이지에서, 좀 더 많은 정보와 자료를 찾을 수 있습니다. "
+"<link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
+
+#. (itstool) path: info/title
+#. (itstool) id: Ada_Zangemann.dbk#title-license
+#: Ada_Zangemann.dbk:1109
+msgid "License"
+msgstr "라이센스"
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:1117
+#, fuzzy
+msgid ""
+"The book Ada &amp; Zangemann: A Tale of Software, Skateboards, and Raspberry "
+"Ice Cream by Matthias Kirschner and Sandra Brandstätter, published by No "
+"Starch Press, is licensed under “Creative Commons Attribution-ShareAlike 4.0 "
+"International (CC BY-SA 4.0).”"
+msgstr ""
+"에이다와 장기만 아저씨: 소프트웨어와 스케이트보드와 라즈베리 아이스크림에 대"
+"한 이야기 - 마티아스 키르슈너와 산드라 브란트슈태터 지음, XXX 출판사 펴냄, "
+"이 책은 \"Creative Commons Attribution-ShareAlike 4.0 International (CC BY-"
+"SA 4.0)\" 라이센스 를 따르고 있습니다."
+
+#. (itstool) path: simplesect/para
+#: Ada_Zangemann.dbk:1118
+msgid ""
+"<link xlink:href=\"https://creativecommons.org/licenses/by-sa/4.0/\">https://"
+"creativecommons.org/licenses/by-sa/4.0/</link>"
+msgstr ""
+"<link xlink:href=\"https://creativecommons.org/licenses/by-sa/4.0/\">https://"
+"creativecommons.org/licenses/by-sa/4.0/</link>"
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:1127
+msgid ""
+"A hand that holds a fish-shaped ice cream cone with a cucumber on a "
+"decorated toothpick, to color. In a bottom corner, a pencil writing."
+msgstr ""
+"색칠 놀이용 페이지, 손으로 물고기 모양 아이스크림을 들고 있는 모습. 오이가 장"
+"식이 달린 이쑤시게에 꽂혀서 아이스크림 위에 놓여있다. 아래쪽 구석에는 연필로 "
+"그려진 낙서가 그려져있다."
+
+#. (itstool) path: simplesect/literallayout
+#. In a literallayout element all space and newline characters are kept.
+#: Ada_Zangemann.dbk:1129
+#, fuzzy, no-wrap
+msgid ""
+"Come up with some delicious, funny, or crazy ice-cream flavors and draw them on the ice-cream cones on the following page.\n"
+"More information about the book can be found at <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
+msgstr ""
+"달콤하면서도 우수꽝스럽고 엄청난 아이스크림 맛을 머릿 속에 떠올려 보고 한 번 다음 페이지에 그려보세요.\n"
+"더 많은 컬러링 밑그림과 책에 대한 정보는 다음 웹사이트에서 찾을 수 있어요. <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>"
+
+#. (itstool) path: mediaobject/alt
+#. The alt tag contains an alternative text, describing the image for the
+#. visual impaired. priority:80
+#: Ada_Zangemann.dbk:1137
+msgid ""
+"Three hands that hold as many empty ice cream cones, to draw and color. In "
+"the air above the middle cone is an umbrella."
+msgstr ""
+"그림그리기 및 색칠 놀이용 페이지. 빈 아이스크림콘을 들고 있는 세 명의 손. 중"
+"간 아이스크림 콘 위의 허공에는 우산 모양 장식이 그려져 있습니다."
