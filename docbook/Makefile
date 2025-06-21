@@ -39,27 +39,27 @@ build/images/illustrations/all: build/images/illustrations $(ada-p40s) $(ada-p41
 po/Ada_Zangemann.pot: Ada_Zangemann.dbk
 	itstool -n -o $@ Ada_Zangemann.dbk
 
-# Split po/Ada_Zangemann.po into po/text/en.po and po/editorial/en.po
+# Split po/Ada_Zangemann.po into po/text/Ada_Zangemann.pot and po/editorial/Ada_Zangemann.pot
 # Merge/update to other languages from there. Merge into a combined directory.
 
 # Update .po files when .pot strings get updated
-po/text/en.po: po/Ada_Zangemann.pot
+po/text/Ada_Zangemann.pot: po/Ada_Zangemann.pot
 	msggrep --invert-match --msgid -e '^images/illustrations' -o $@ $<
 
-po/editorial/en.po: po/Ada_Zangemann.pot
+po/editorial/Ada_Zangemann.pot: po/Ada_Zangemann.pot
 	msggrep --msgid -e '^images/illustrations' -o $@ $<
 
 # TODO: migrate existing translations with:
 # msggrep --invert-match --msgid -e '^images/illustrations' -o po/text/nl.po po/nl.po
 .PRECIOUS: po/text/%.po
-po/text/%.po: po/text/en.po
+po/text/%.po: po/text/Ada_Zangemann.pot
 	if [ ! -e $@ ]; then cp $< $@; fi
 	msgmerge --update $@ $<
 
 # TODO: migrate existing translations with:
 # msggrep --msgid -e '^images/illustrations' -o po/editorial/nl.po po/nl.po
 .PRECIOUS: po/editorial/%.po
-po/editorial/%.po: po/editorial/en.po
+po/editorial/%.po: po/editorial/Ada_Zangemann.pot
 	if [ ! -e $@ ]; then cp $< $@; fi
 	msgmerge --update $@ $<
 
