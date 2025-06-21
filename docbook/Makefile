@@ -51,12 +51,14 @@ po/editorial/en.po: po/Ada_Zangemann.pot
 
 # TODO: migrate existing translations with:
 # msggrep --invert-match --msgid -e '^images/illustrations' -o po/text/nl.po po/nl.po
+.PRECIOUS: po/text/%.po
 po/text/%.po: po/text/en.po
 	if [ ! -e $@ ]; then cp $< $@; fi
 	msgmerge --update $@ $<
 
 # TODO: migrate existing translations with:
 # msggrep --msgid -e '^images/illustrations' -o po/editorial/nl.po po/nl.po
+.PRECIOUS: po/editorial/%.po
 po/editorial/%.po: po/editorial/en.po
 	if [ ! -e $@ ]; then cp $< $@; fi
 	msgmerge --update $@ $<
