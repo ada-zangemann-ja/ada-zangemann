@@ -4,15 +4,18 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-17 20:33+0200\n"
-"PO-Revision-Date: 2025-05-06 19:40+0200\n"
+"PO-Revision-Date: 2025-06-24 18:57+0000\n"
 "Last-Translator: Aayush Gupta <aayushgupta219@gmail.com>\n"
-"Language-Team: \n"
+"Language-Team: Hindi <https://hosted.weblate.org/projects/fsfe/ada-zangemann/"
+"hi/>\n"
 "Language: hi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.2.2\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.13-dev\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
@@ -74,7 +77,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:282
 msgid "Ada"
-msgstr ""
+msgstr "एडा"
 
 #. (itstool) path: character/charactername
 #. Name must not be changed.
@@ -82,7 +85,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:285
 msgid "Zangemann"
-msgstr ""
+msgstr "ज़ैंगमैन"
 
 #. (itstool) path: character/charactername
 #. Name must not be changed.
@@ -90,7 +93,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:288
 msgid "Alan"
-msgstr ""
+msgstr "एलन"
 
 #. (itstool) path: character/charactername
 #. Character names are mostly reference to existing people in computer
@@ -105,7 +108,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:291
 msgid "Toni"
-msgstr ""
+msgstr "टोनी"
 
 #. (itstool) path: character/charactername
 #. Character names are mostly reference to existing people in computer
@@ -120,7 +123,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:294
 msgid "Konrad"
-msgstr ""
+msgstr "कोनराड"
 
 #. (itstool) path: character/charactername
 #. Character names are mostly reference to existing people in computer
@@ -135,7 +138,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:297
 msgid "Marie"
-msgstr ""
+msgstr "मैरी"
 
 #. (itstool) path: character/charactername
 #. Character names are mostly reference to existing people in computer
@@ -150,7 +153,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:300
 msgid "Ms. Gernet"
-msgstr ""
+msgstr "मिस गर्नेट"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -360,7 +363,6 @@ msgstr "शीर्षक पृष्ठ"
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:459
-#, fuzzy
 msgid ""
 "Matthias Kirschner, Sandra Brandstätter - ADA &amp; ZANGEMANN - A Tale of "
 "Software, Skateboards and Raspberry Ice Cream. Title in the middle, authors "
@@ -369,9 +371,9 @@ msgid ""
 "its tail."
 msgstr ""
 "मैथियास किर्शचनर, सैंड्रा ब्रांडस्टैटर - एडा और ज़ैंगमैन - एक कहानी सॉफ़्टवेयर, स्केटबोर्ड और "
-"रास्पबेरी आइसक्रीम की। शीर्षक मध्य में, लेखक ऊपर बाईं ओर। निचले दाएं भाग में, एडा के "
-"परिवार का कुत्ता है जिसके भूरे बाल और कुछ सफेद धब्बे हैं, तथा लाल कॉलर में चमकदार पीले एल.ई."
-"डी. लगी है, जो अपनी दुम हिला रहा है।"
+"रास्पबेरी आइसक्रीम की। शीर्षक मध्य में, लेखक ऊपर बाईं ओर। निचले दाएं भाग में, एडा के परिवा"
+"र का कुत्ता है जिसके भूरे बाल और कुछ सफेद धब्बे हैं, तथा लाल कॉलर में चमकदार पीले एल.ई.डी. "
+"लगी है, जो अपनी दुम हिला रहा है।"
 
 #. (itstool) path: mediaobject/alt
 #. ignore-same
@@ -397,7 +399,6 @@ msgstr ""
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:483
-#, fuzzy
 msgid ""
 "In the lower right, Ada’s family’s dog with gray fur and some white patches "
 "and with a red collar with shiny yellow LEDs, which wags its tail."
@@ -485,6 +486,8 @@ msgid ""
 "Prestigious magazines (“STARS“, “MONEY”, “Richest Man”) on whose cover are "
 "Zangemann and his villa."
 msgstr ""
+"प्रतिष्ठित पत्रिकाएँ (\"सितारे\", \"धन\", \"धनवान पुरुष\") जिनके कवर पर ज़ैंगमैन और उसकी "
+"हवेली हैं।"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:518
@@ -506,7 +509,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:523
 msgid "Zangemann and computers"
-msgstr ""
+msgstr "ज़ैंगमैन और कंप्यूटर्स"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p06-1
@@ -795,7 +798,7 @@ msgstr ""
 #. equal to the beginning of the first sentence of this chapter.
 #: Ada_Zangemann.dbk:601
 msgid "One day..."
-msgstr ""
+msgstr "एक दिन..।"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:604
@@ -942,7 +945,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:654
 msgid "Skateboards no longer work"
-msgstr ""
+msgstr "स्केटबोर्ड्स काम नहीं करते"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p18-1
@@ -1018,7 +1021,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:680
 msgid "Ada and software"
-msgstr ""
+msgstr "एडा और सॉफ्टवेर"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p20-1
@@ -1096,7 +1099,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:699
 msgid "Programming"
-msgstr ""
+msgstr "प्रोग्रामिंग"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p22-1
@@ -1190,7 +1193,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:728
 msgid "A horrible night"
-msgstr ""
+msgstr "एक डरावनी रात"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p25-1
@@ -1244,7 +1247,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:739
 msgid "First real project"
-msgstr ""
+msgstr "पहला सचमुच का प्रोजेक्ट"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p26-1
@@ -1411,7 +1414,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:781
 msgid "Hacking for freedom"
-msgstr ""
+msgstr "स्वतंत्रता के लिए हैकिंग"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p30-1
@@ -1586,7 +1589,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:845
 msgid "Zangemann and the President"
-msgstr ""
+msgstr "ज़ैंगमैन और राष्ट्रपति"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p36-1
@@ -1678,7 +1681,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:875
 msgid "Protest"
-msgstr ""
+msgstr "प्रदर्शन"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p39-1
@@ -1726,6 +1729,8 @@ msgid ""
 "Yellow and green paint on the floor and wax crayons yellow, red, blue, green "
 "and brown; the latter 3 are in a gray cardboard box."
 msgstr ""
+"फर्श पर पीला और हरा पेंट और पीले, लाल, नीले, हरे और भूरे रंग की मोम खड़िया; बाद के 3 एक "
+"धूसट कार्डबोर्ड बॉक्स में हैं।"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:890
@@ -1779,6 +1784,8 @@ msgid ""
 "Detail of the previous image: two children holding the banner “Do your "
 "homework Mr. President and we will do ours!”"
 msgstr ""
+"पिछले चित्र की जानकारी: दो बच्चे "
+"\"आप अपना होमवर्क करें श्रीमान राष्ट्रपति और हम अपना करेंगे!\" का बैनर पकड़े हुए"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1855,6 +1862,9 @@ msgid ""
 "sweatshirt, blue pants, and white socks but no shoes. Next to the computer "
 "there are a green cup and two open books."
 msgstr ""
+"एडा का एक दोस्त पेट के बल लेटा हुआ है और उसका एक पैर हवा में ऊपर है, लैपटॉप पर टाइप कर "
+"रहा है। उसके लहरदार भूरे रंग के बाल जिसमे बीच में मांग हैं, एक लाल स्वेटशर्ट, नीली पैंट और सफे"
+"द मोजे लेकिन कोई जूते नहीं हैं। कंप्यूटर के बगल में एक हरे रंग का कप और दो खुली किताबें हैं।"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:934
@@ -1938,6 +1948,8 @@ msgid ""
 "A herald, wearing a hat with a plume, playing a trumpet on which a red "
 "banner is hung."
 msgstr ""
+"एक संदेशवाहक, एक पंख वाली टोपी पहने हुए, एक तुरही बजा रहा है जिस पर एक लाल बैनर लटका "
+"हुआ है।"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:959
@@ -2035,7 +2047,6 @@ msgstr ""
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:989
-#, fuzzy
 msgid ""
 "The President, the secretary, and other people around a table enjoying crazy "
 "ice cream; yellow and orange flags continue from the previous image; a "
@@ -2080,7 +2091,6 @@ msgstr ""
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:1004
-#, fuzzy
 msgid "Ada’s little dog sniffing a trail of ice cream."
 msgstr "एडा का छोटा कुत्ता आइसक्रीम के निशान को सूँघते हुए।"
 
@@ -2147,7 +2157,6 @@ msgstr ""
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:1040
-#, fuzzy
 msgid ""
 "Ada’s dog wags its tail after finding Zangemann hidden behind a curtain and "
 "eating an ice cream cone with candies and a blue umbrella on it and lots of "
@@ -2248,7 +2257,6 @@ msgstr ""
 #. (itstool) path: info/title
 #. (itstool) id: Ada_Zangemann.dbk#title-bookswebsite
 #: Ada_Zangemann.dbk:1092
-#, fuzzy
 msgid "Book’s website"
 msgstr "पुस्तक की वेबसाइट"
 
