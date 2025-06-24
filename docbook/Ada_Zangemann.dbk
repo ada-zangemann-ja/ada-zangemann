@@ -321,7 +321,7 @@ SPDX-License-Identifier: CC-BY-SA-4.0
       </mediaobject>
     </cover>
     <cover role="back">
-      <!-- TODO: the cover is currently a single image, but alt-text is defined for 2 images/illustrations -->
+      <!-- TODO: the cover is currently a single image, but alt-text is defined for 2 illustrations -->
       <mediaobject xml:id="img-back_cover-a">
         <imageobject>
           <imagedata fileref="images/illustrations/ada-z04.ltr.png"/>
@@ -637,7 +637,7 @@ Raspberry Ice Cream</literallayout>
         <imageobject>
           <imagedata fileref="images/illustrations/ada-p16.ltr.png"/>
         </imageobject>
-        <alt>The city in the evening, with houses, a church, and two streetlights. Images/Illustrations emerge from the dwellings illustrating Zangemann’s inventions bought by the inhabitants: a washing machine, a yellow vacuum cleaner, and a red car, all with Internet connection signals.</alt>
+        <alt>The city in the evening, with houses, a church, and two streetlights. Images emerge from the dwellings illustrating Zangemann’s inventions bought by the inhabitants: a washing machine, a yellow vacuum cleaner, and a red car, all with Internet connection signals.</alt>
       </mediaobject>
     </simplesect>
     <simplesect xml:id="sec-p17" az:pagenum="17">
@@ -645,7 +645,7 @@ Raspberry Ice Cream</literallayout>
         <imageobject>
           <imagedata fileref="images/illustrations/ada-p17.ltr.png"/>
         </imageobject>
-        <alt>Continuation of the previous picture, where in the background there is the hill with Zangemann’s house from whose antenna come the signals to control the various devices. In emerging images/illustrations there are: a red electric skateboard, a light bulb, an ice cream machine, and a toilet, all of which are receiving commands from Zangemann.</alt>
+        <alt>Continuation of the previous picture, where in the background there is the hill with Zangemann’s house from whose antenna come the signals to control the various devices. In emerging images there are: a red electric skateboard, a light bulb, an ice cream machine, and a toilet, all of which are receiving commands from Zangemann.</alt>
       </mediaobject>
     </simplesect>
   </chapter>
