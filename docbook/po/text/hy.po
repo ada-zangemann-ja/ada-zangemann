@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-06-17 20:33+0200\n"
+"POT-Creation-Date: 2025-06-25 19:51+0200\n"
 "PO-Revision-Date: 2025-06-18 16:54+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -943,11 +943,12 @@ msgstr ""
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:640
+#, fuzzy
 msgid ""
-"The city in the evening, with houses, a church, and two streetlights. Images/"
-"Illustrations emerge from the dwellings illustrating Zangemann’s inventions "
-"bought by the inhabitants: a washing machine, a yellow vacuum cleaner, and a "
-"red car, all with Internet connection signals."
+"The city in the evening, with houses, a church, and two streetlights. Images "
+"emerge from the dwellings illustrating Zangemann’s inventions bought by the "
+"inhabitants: a washing machine, a yellow vacuum cleaner, and a red car, all "
+"with Internet connection signals."
 msgstr ""
 "Երեկոյեան քաղաք, տներ, եկեղեցի եւ երկու փողոցային լամպեր։ Բնակարաններից "
 "պատկերներ են դուրս գալիս իրենց գնումները, որ ցուցադրում են Զանգեմանի "
@@ -961,9 +962,9 @@ msgstr ""
 msgid ""
 "Continuation of the previous picture, where in the background there is the "
 "hill with Zangemann’s house from whose antenna come the signals to control "
-"the various devices. In emerging images/illustrations there are: a red "
-"electric skateboard, a light bulb, an ice cream machine, and a toilet, all "
-"of which are receiving commands from Zangemann."
+"the various devices. In emerging images there are: a red electric "
+"skateboard, a light bulb, an ice cream machine, and a toilet, all of which "
+"are receiving commands from Zangemann."
 msgstr ""
 
 #. (itstool) path: info/title

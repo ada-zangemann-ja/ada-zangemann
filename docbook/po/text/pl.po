@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2025-06-17 20:33+0200\n"
+"POT-Creation-Date: 2025-06-25 19:51+0200\n"
 "PO-Revision-Date: 2025-05-12 08:10+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -924,10 +924,10 @@ msgstr ""
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:640
 msgid ""
-"The city in the evening, with houses, a church, and two streetlights. Images/"
-"Illustrations emerge from the dwellings illustrating Zangemann’s inventions "
-"bought by the inhabitants: a washing machine, a yellow vacuum cleaner, and a "
-"red car, all with Internet connection signals."
+"The city in the evening, with houses, a church, and two streetlights. Images "
+"emerge from the dwellings illustrating Zangemann’s inventions bought by the "
+"inhabitants: a washing machine, a yellow vacuum cleaner, and a red car, all "
+"with Internet connection signals."
 msgstr ""
 
 #. (itstool) path: mediaobject/alt
@@ -937,9 +937,9 @@ msgstr ""
 msgid ""
 "Continuation of the previous picture, where in the background there is the "
 "hill with Zangemann’s house from whose antenna come the signals to control "
-"the various devices. In emerging images/illustrations there are: a red "
-"electric skateboard, a light bulb, an ice cream machine, and a toilet, all "
-"of which are receiving commands from Zangemann."
+"the various devices. In emerging images there are: a red electric "
+"skateboard, a light bulb, an ice cream machine, and a toilet, all of which "
+"are receiving commands from Zangemann."
 msgstr ""
 
 #. (itstool) path: info/title
