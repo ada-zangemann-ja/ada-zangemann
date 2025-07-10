@@ -423,7 +423,10 @@ msgid ""
 "A Tale of\n"
 "Software, Skateboards, and\n"
 "Raspberry Ice Cream"
-msgstr "Ein Märchen über Software, Skateboards und Himbeereis"
+msgstr ""
+"Ein Märchen über \n"
+"Software, Skateboards und \n"
+"Himbeereis"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p04-1
