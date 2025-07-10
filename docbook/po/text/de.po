@@ -6,21 +6,21 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2025-05-17 10:02+0000\n"
-"Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
-"Language-Team: German <https://hosted.weblate.org/projects/fsfe/ada-"
-"zangemann/de/>\n"
+"PO-Revision-Date: 2025-07-11 10:02+0000\n"
+"Last-Translator: Bonnie <bonnie@fsfe.org>\n"
+"Language-Team: German <https://hosted.weblate.org/projects/fsfe/"
+"ada-zangemann/de/>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.12-dev\n"
+"X-Generator: Weblate 5.13-dev\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
 msgid "translator-credits"
-msgstr ""
+msgstr "Anerkennung von Übersetzer*innen"
 
 #. (itstool) path: info/title
 #. (itstool) path: cover/bridgehead
@@ -106,7 +106,7 @@ msgstr "Alan"
 #. ignore-same
 #: Ada_Zangemann.dbk:291
 msgid "Toni"
-msgstr ""
+msgstr "Toni"
 
 #. (itstool) path: character/charactername
 #. Character names are mostly reference to existing people in computer
@@ -362,7 +362,7 @@ msgstr ""
 #. illustration of Ada’s dog.
 #: Ada_Zangemann.dbk:452
 msgid "Title page"
-msgstr ""
+msgstr "Titelseite"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -411,6 +411,8 @@ msgid ""
 "Matthias Kirschner\n"
 "Sandra Brandstätter"
 msgstr ""
+"Matthias Kirschner\n"
+"Sandra Brandstätter"
 
 #. (itstool) path: simplesect/literallayout
 #. (itstool) id: Ada_Zangemann.dbk#subtitle-titlepage
@@ -421,7 +423,7 @@ msgid ""
 "A Tale of\n"
 "Software, Skateboards, and\n"
 "Raspberry Ice Cream"
-msgstr ""
+msgstr "Ein Märchen über Software, Skateboards und Himbeereis"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p04-1
