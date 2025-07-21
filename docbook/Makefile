@@ -152,7 +152,7 @@ build/Ada_Zangemann-dblatex.%.pdf: build/Ada_Zangemann-pure-profiled-text.%.dbk 
 
 # Epub processing
 targets-dbtoepub = $(addprefix build/Ada_Zangemann-dbtoepub.,$(addsuffix .epub,$(translations)))
-$(targets-dbtoepub): build/Ada_Zangemann-dbtoepub.%.epub: build/Ada_Zangemann-pure-profiled-text.%.dbk
+$(targets-dbtoepub): build/Ada_Zangemann-dbtoepub.%.epub: build/Ada_Zangemann-pure-profiled-text.%.dbk build/images/illustrations/all
 	dbtoepub -o $@ $<
 	epubcheck $@
 
