@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2025-07-22 18:34+0000\n"
+"PO-Revision-Date: 2025-07-22 18:39+0000\n"
 "Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/fsfe/"
 "ada-zangemann/uk/>\n"
@@ -2733,8 +2733,8 @@ msgid ""
 "On the web page of the book, you will find more information and resources: "
 "<link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
 msgstr ""
-"На веб сторінці книги ви знайдете більше інформації та ресурсів: <link xlink:"
-"href=«https://ada.fsfe.org»>https://ada.fsfe.org</link>."
+"На веб сторінці книги ви знайдете більше інформації та ресурсів: <link "
+"xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
 
 #. (itstool) path: info/title
 #. (itstool) id: Ada_Zangemann.dbk#title-license
@@ -2783,8 +2783,10 @@ msgid ""
 "Come up with some delicious, funny, or crazy ice-cream flavors and draw them on the ice-cream cones on the following page.\n"
 "More information about the book can be found at <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
 msgstr ""
-"Придумайте смачні, кумедні або божевільні смаки морозива і намалюйте їх на ріжках морозива на наступній сторінці.\n"
-"Більше інформації про книгу можна знайти за посиланням <link xlink:href=«https://ada.fsfe.org»>https://ada.fsfe.org</link>."
+"Придумайте смачні, кумедні або божевільні смаки морозива і намалюйте їх на "
+"ріжках морозива на наступній сторінці.\n"
+"Більше інформації про книгу можна знайти за посиланням <link xlink:href="
+"\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
