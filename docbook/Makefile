@@ -126,6 +126,10 @@ build/Ada_Zangemann-pure-profiled-text.%.dbk: build/Ada_Zangemann-pure.%.dbk
 build/Ada_Zangemann-profiled-text.%.dbk: build/Ada_Zangemann.%.dbk
 	xsltproc -o $@ --verbose /usr/share/xml/docbook/stylesheet/docbook-xsl/profiling/profile.xsl --stringparam profile.condition "headings-text;capitals-text;colophon-halfpage" $< > $@.log 2>&1 || exit 0
 
+# Remove non-text elements from pure profiled docbook
+build/Ada_Zangemann-pure-profiled-text-only.%.dbk: build/Ada_Zangemann-pure-profiled-text.%.dbk
+	xsltproc -o $@ --verbose xsl/only-docbook-text.xsl $< > $@.log 2>&1 || exit 0
+
 # Generate text output for non-other processing scripts
 targets-txt = $(addprefix build/Ada_Zangemann.,$(addsuffix .txt,$(translations)))
 $(targets-txt): build/Ada_Zangemann.%.txt: build/Ada_Zangemann-profiled-text.%.dbk
@@ -171,6 +175,17 @@ build/Ada_Zangemann-pandoc.all.md: $(targets-pandoc-md)
 targets-pandoc-odt = $(addprefix build/Ada_Zangemann-pandoc.,$(addsuffix .odt,$(translations)))
 $(targets-pandoc-odt): build/Ada_Zangemann-pandoc.%.odt: build/Ada_Zangemann-pure-profiled-text.%.dbk build/images/illustrations/all
 	pandoc -f docbook -o $@ $<
+
+.PHONY: build/Ada_Zangemann-pandoc.all.odt
+build/Ada_Zangemann-pandoc.all.odt: $(targets-pandoc-odt)
+
+# Pandoc textonly odt
+targets-pandoc-text-only-odt = $(addprefix build/Ada_Zangemann-pandoc-text-only.,$(addsuffix .odt,$(translations)))
+$(targets-pandoc-text-only-odt): build/Ada_Zangemann-pandoc-text-only.%.odt: build/Ada_Zangemann-pure-profiled-text-only.%.dbk build/images/illustrations/all
+	pandoc -f docbook -o $@ $<
+
+.PHONY: build/Ada_Zangemann-pandoc-text-only.all.odt
+build/Ada_Zangemann-pandoc-text-only.all.odt: $(targets-pandoc-text-only-odt)
 
 # Build version with all images (for debugging)
 build/Ada_Zangemann-print-all.%.sla: build/Ada_Zangemann.%.dbk build/images/illustrations/all build/images/capitals xsl/scribus.xsl
