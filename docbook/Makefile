@@ -19,8 +19,11 @@ SHELL = /bin/sh
 
 # FIXME: use $(srcdir) best practice https://www.gnu.org/software/make/manual/html_node/Makefile-Basics.html
 
-# Use existing po translations as base to generate pattern rule targets for autocomplete
-translations = $(notdir $(basename $(wildcard po/text/*.po)))
+# List known translations to generate pattern rules for autocomplete by scanning translation files.
+translations = en $(notdir $(basename $(wildcard po/text/*.po)))
+
+# List known languages to generate pattern rules for autocomplate. Use translations and add English because there is no en.po file (unsupported by Weblate).
+languages = en $(translations)
 
 # Targets to create split protest pages based on protest pages present
 ada-p40s := $(addprefix build/,$(subst ada-p40-41,ada-p40,$(wildcard images/illustrations/ada-p40-41.*.png)))
@@ -107,7 +110,7 @@ build/images/capitals:
 	if [ ! -h $@ ]; then ln -s ../../images/capitals-opague build/images/capitals; fi
 
 # Create docbook files
-targets-dbk = $(addprefix build/Ada_Zangemann.,$(addsuffix .dbk,$(translations)))
+targets-dbk = $(addprefix build/Ada_Zangemann.,$(addsuffix .dbk,$(languages)))
 $(targets-dbk): build/Ada_Zangemann.%.dbk: build/%.mo Ada_Zangemann.dbk
 	itstool --strict --merge $< --out $@ Ada_Zangemann.dbk
 
@@ -131,7 +134,7 @@ build/Ada_Zangemann-pure-profiled-text-only.%.dbk: build/Ada_Zangemann-pure-prof
 	xsltproc -o $@ --verbose xsl/only-docbook-text.xsl $< > $@.log 2>&1 || exit 0
 
 # Generate text output for non-other processing scripts
-targets-txt = $(addprefix build/Ada_Zangemann.,$(addsuffix .txt,$(translations)))
+targets-txt = $(addprefix build/Ada_Zangemann.,$(addsuffix .txt,$(languages)))
 $(targets-txt): build/Ada_Zangemann.%.txt: build/Ada_Zangemann-profiled-text.%.dbk
 	xsltproc -o $@ --verbose xsl/az-text.xsl $< > $@.log 2>&1 || exit 0
 
@@ -142,7 +145,7 @@ build/Ada_Zangemann.all.txt: $(targets-txt)
 # TODO: use lower resolution images
 # FIXME: warning 'No localization exists for "ada_zangemann" or "ada". Using default "en".'
 # Relies on XSLT 1.0 stylesheets https://github.com/docbook/xslt10-stylesheets/ included in Debian docbook-xsl package
-targets-html = $(addprefix build/Ada_Zangemann.,$(addsuffix .html,$(translations)))
+targets-html = $(addprefix build/Ada_Zangemann.,$(addsuffix .html,$(languages)))
 $(targets-html): build/Ada_Zangemann.%.html: build/Ada_Zangemann-pure-profiled-text.%.dbk build/images/illustrations/all
 	xsltproc -o $@ /usr/share/xml/docbook/stylesheet/nwalsh/html/docbook.xsl $<
 
@@ -155,7 +158,7 @@ build/Ada_Zangemann-dblatex.%.pdf: build/Ada_Zangemann-pure-profiled-text.%.dbk 
 	dblatex -o $@ $<
 
 # Epub processing
-targets-dbtoepub = $(addprefix build/Ada_Zangemann-dbtoepub.,$(addsuffix .epub,$(translations)))
+targets-dbtoepub = $(addprefix build/Ada_Zangemann-dbtoepub.,$(addsuffix .epub,$(languages)))
 $(targets-dbtoepub): build/Ada_Zangemann-dbtoepub.%.epub: build/Ada_Zangemann-pure-profiled-text.%.dbk build/images/illustrations/all
 	dbtoepub -o $@ $<
 	epubcheck $@
@@ -164,7 +167,7 @@ $(targets-dbtoepub): build/Ada_Zangemann-dbtoepub.%.epub: build/Ada_Zangemann-pu
 build/Ada_Zangemann-dbtoepub.all.epub: $(targets-dbtoepub)
 
 # Pandoc markdown
-targets-pandoc-md = $(addprefix build/Ada_Zangemann-pandoc.,$(addsuffix .md,$(translations)))
+targets-pandoc-md = $(addprefix build/Ada_Zangemann-pandoc.,$(addsuffix .md,$(languages)))
 $(targets-pandoc-md): build/Ada_Zangemann-pandoc.%.md: build/Ada_Zangemann-pure-profiled-text.%.dbk build/images/illustrations/all
 	pandoc -f docbook -o $@ $<
 
@@ -172,7 +175,7 @@ $(targets-pandoc-md): build/Ada_Zangemann-pandoc.%.md: build/Ada_Zangemann-pure-
 build/Ada_Zangemann-pandoc.all.md: $(targets-pandoc-md)
 
 # Pandoc odt
-targets-pandoc-odt = $(addprefix build/Ada_Zangemann-pandoc.,$(addsuffix .odt,$(translations)))
+targets-pandoc-odt = $(addprefix build/Ada_Zangemann-pandoc.,$(addsuffix .odt,$(languages)))
 $(targets-pandoc-odt): build/Ada_Zangemann-pandoc.%.odt: build/Ada_Zangemann-pure-profiled-text.%.dbk build/images/illustrations/all
 	pandoc -f docbook -o $@ $<
 
@@ -180,7 +183,7 @@ $(targets-pandoc-odt): build/Ada_Zangemann-pandoc.%.odt: build/Ada_Zangemann-pur
 build/Ada_Zangemann-pandoc.all.odt: $(targets-pandoc-odt)
 
 # Pandoc textonly odt
-targets-pandoc-text-only-odt = $(addprefix build/Ada_Zangemann-pandoc-text-only.,$(addsuffix .odt,$(translations)))
+targets-pandoc-text-only-odt = $(addprefix build/Ada_Zangemann-pandoc-text-only.,$(addsuffix .odt,$(languages)))
 $(targets-pandoc-text-only-odt): build/Ada_Zangemann-pandoc-text-only.%.odt: build/Ada_Zangemann-pure-profiled-text-only.%.dbk build/images/illustrations/all
 	pandoc -f docbook -o $@ $<
 
@@ -192,14 +195,14 @@ build/Ada_Zangemann-print-all.%.sla: build/Ada_Zangemann.%.dbk build/images/illu
 	xsltproc -o $@ --verbose --stringparam docbook-contents-file ../$< --stringparam profile.condition "colophon-halfpage" xsl/scribus.xsl templates/template-print.sla > $@.log 2>&1
 
 # Build version with image headers
-targets-print-headings-img = $(addprefix build/Ada_Zangemann-print-headings-img.,$(addsuffix .sla,$(translations)))
+targets-print-headings-img = $(addprefix build/Ada_Zangemann-print-headings-img.,$(addsuffix .sla,$(languages)))
 $(targets-print-headings-img): build/Ada_Zangemann-print-headings-img.%.sla: build/Ada_Zangemann.%.dbk build/images/illustrations/all build/images/capitals xsl/scribus.xsl
 	xsltproc -o $@ --verbose --stringparam docbook-contents-file ../$< --stringparam profile.condition "headings-img;capitals-img;colophon-halfpage" xsl/scribus.xsl templates/template-print.sla > $@.log 2>&1
 
 .PHONY: build/Ada_Zangemann-print-headings-img.all.sla
 build/Ada_Zangemann-print-headings-img.all.sla: $(targets-print-headings-img)
 
-targets-print-headings-img-colophon-fullpage = $(addprefix build/Ada_Zangemann-print-headings-img-colophon-fullpage.,$(addsuffix .sla,$(translations)))
+targets-print-headings-img-colophon-fullpage = $(addprefix build/Ada_Zangemann-print-headings-img-colophon-fullpage.,$(addsuffix .sla,$(languages)))
 $(targets-print-headings-img-colophon-fullpage): build/Ada_Zangemann-print-headings-img-colophon-fullpage.%.sla: build/Ada_Zangemann.%.dbk build/images/illustrations/all build/images/capitals xsl/scribus.xsl
 	xsltproc -o $@ --verbose --stringparam docbook-contents-file ../$< --stringparam profile.condition "headings-img;capitals-img;colophon-fullpage" xsl/scribus.xsl templates/template-print.sla > $@.log 2>&1
 
@@ -207,14 +210,14 @@ $(targets-print-headings-img-colophon-fullpage): build/Ada_Zangemann-print-headi
 build/Ada_Zangemann-print-headings-img-colophon-fullpage.all.sla: $(targets-print-headings-img-colophon-fullpage)
 
 # Build version with text headers
-targets-print-headings-text = $(addprefix build/Ada_Zangemann-print-headings-text.,$(addsuffix .sla,$(translations)))
+targets-print-headings-text = $(addprefix build/Ada_Zangemann-print-headings-text.,$(addsuffix .sla,$(languages)))
 $(targets-print-headings-text): build/Ada_Zangemann-print-headings-text.%.sla: build/Ada_Zangemann.%.dbk build/images/illustrations/all build/images/capitals xsl/scribus.xsl
 	xsltproc -o $@ --verbose --stringparam docbook-contents-file ../$< --stringparam profile.condition "headings-text;capitals-text;colophon-halfpage" xsl/scribus.xsl templates/template-print.sla > $@.log 2>&1
 
 .PHONY: build/Ada_Zangemann-print-headings-text.all.sla
 build/Ada_Zangemann-print-headings-text.all.sla: $(targets-print-headings-text)
 
-targets-print-headings-text-colophon-fullpage = $(addprefix build/Ada_Zangemann-print-headings-text-colophon-fullpage.,$(addsuffix .sla,$(translations)))
+targets-print-headings-text-colophon-fullpage = $(addprefix build/Ada_Zangemann-print-headings-text-colophon-fullpage.,$(addsuffix .sla,$(languages)))
 $(targets-print-headings-text-colophon-fullpage): build/Ada_Zangemann-print-headings-text-colophon-fullpage.%.sla: build/Ada_Zangemann.%.dbk build/images/illustrations/all build/images/capitals xsl/scribus.xsl
 	xsltproc -o $@ --verbose --stringparam docbook-contents-file ../$< --stringparam profile.condition "headings-text;capitals-text;colophon-fullpage" xsl/scribus.xsl templates/template-print.sla > $@.log 2>&1
 
@@ -222,7 +225,7 @@ $(targets-print-headings-text-colophon-fullpage): build/Ada_Zangemann-print-head
 build/Ada_Zangemann-print-headings-text-colophon-fullpage.all.sla: $(targets-print-headings-text-colophon-fullpage)
 
 # Build version with text subtitle
-targets-coverhard-text = $(addprefix build/Ada_Zangemann-coverhard-text.,$(addsuffix .sla,$(translations)))
+targets-coverhard-text = $(addprefix build/Ada_Zangemann-coverhard-text.,$(addsuffix .sla,$(languages)))
 $(targets-coverhard-text): build/Ada_Zangemann-coverhard-text.%.sla: build/Ada_Zangemann.%.dbk build/images/illustrations/all build/images/capitals xsl/scribus.xsl
 	xsltproc -o $@ --verbose --stringparam docbook-contents-file ../$< --stringparam profile.condition "capitals-text;cover-print-text;colophon-halfpage" xsl/scribus.xsl templates/template-coverhard.sla > $@.log 2>&1
 
