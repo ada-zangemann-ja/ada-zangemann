@@ -114,6 +114,9 @@ targets-dbk = $(addprefix build/Ada_Zangemann.,$(addsuffix .dbk,$(languages)))
 $(targets-dbk): build/Ada_Zangemann.%.dbk: build/%.mo Ada_Zangemann.dbk
 	itstool --strict --merge $< --out $@ Ada_Zangemann.dbk
 
+.PHONY: build/Ada_Zangemann.all.dbk
+build/Ada_Zangemann.all.dbk: $(targets-dbk)
+
 # Create 'pure' docbook files without custom elements
 build/Ada_Zangemann-pure.%.dbk: build/Ada_Zangemann.%.dbk xsl/clean-docbook.xsl
 	xsltproc -o $@ xsl/clean-docbook.xsl $<
@@ -389,3 +392,12 @@ docbook-5.2.rng:
 validate: docbook-5.1-its.rng docbook-5.1-its.sch Ada_Zangemann-en.dbk
 	xmllint --noout --relaxng docbook-5.1-its.rng Ada_Zangemann-en.dbk
 	xmllint --noout --schematron docbook-5.1-its.sch Ada_Zangemann-en.dbk
+
+# Lint generated output. Phony target to trigger the analysis. Does not check with XML schema.
+.PHONY: build/Ada_Zangemann.%.dbk.lint
+build/Ada_Zangemann.%.dbk.lint: build/Ada_Zangemann.%.dbk
+	xmllint --noout $<
+
+# Generate all translated docbook files and run xmllint on them. Early exit in case of failure.
+.PHONY: quick-check
+quick-check: $(addprefix build/Ada_Zangemann.,$(addsuffix .dbk.lint,$(languages)))
