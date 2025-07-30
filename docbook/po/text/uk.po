@@ -6,8 +6,8 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2025-07-22 18:39+0000\n"
-"Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
+"PO-Revision-Date: 2025-07-28 21:10+0000\n"
+"Last-Translator: Максим Горпиніч <gorpinicmaksim5@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/fsfe/"
 "ada-zangemann/uk/>\n"
 "Language: uk\n"
@@ -1176,23 +1176,21 @@ msgstr ""
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:640
-#, fuzzy
 msgid ""
 "The city in the evening, with houses, a church, and two streetlights. Images "
 "emerge from the dwellings illustrating Zangemann’s inventions bought by the "
 "inhabitants: a washing machine, a yellow vacuum cleaner, and a red car, all "
 "with Internet connection signals."
 msgstr ""
-"Вечірнє місто з будинками, церквою та двома вуличними ліхтарями. Зображення/"
-"ілюстрації з'являються з осель, що ілюструють винаходи Занґеманна, придбані "
-"мешканцями: пральна машина, жовтий пилосос і червона машина, всі з сигналами "
-"інтернет-зв'язку."
+"Вечірнє місто з будинками, церквою та двома вуличними ліхтарями. З осель "
+"з'являються зображення винаходів Цангемана, придбаних мешканцями: пральна "
+"машина, жовтий пилосос і червоний автомобіль, усі з підключенням до "
+"Інтернету."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:648
-#, fuzzy
 msgid ""
 "Continuation of the previous picture, where in the background there is the "
 "hill with Zangemann’s house from whose antenna come the signals to control "
@@ -1200,11 +1198,10 @@ msgid ""
 "skateboard, a light bulb, an ice cream machine, and a toilet, all of which "
 "are receiving commands from Zangemann."
 msgstr ""
-"Продовження попереднього малюнка, де на задньому плані зображено пагорб з "
-"будинком Занґеманна, з антени якого надходять сигнали для керування різними "
-"пристроями. На наступних зображеннях/ілюстраціях: червоний електричний "
-"скейтборд, лампочка, автомат з морозивом і туалет, які отримують команди від "
-"Занґеманна."
+"Продовження попереднього зображення, де на задньому плані видно пагорб з "
+"будинком Цангемана, з антени якого надходять сигнали для керування різними "
+"пристроями. На нових зображеннях видно: червоний електричний скейтборд, "
+"лампочку, машину для морозива та туалет, які отримують команди від Цангемана."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:654
