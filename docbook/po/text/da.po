@@ -7,16 +7,16 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2025-06-17 18:22+0000\n"
+"PO-Revision-Date: 2025-08-14 12:02+0000\n"
 "Last-Translator: Øjvind Fritjof Arnfred <fritjof@mencagli-arnfred.dk>\n"
-"Language-Team: Danish <https://hosted.weblate.org/projects/fsfe/ada-"
-"zangemann/da/>\n"
+"Language-Team: Danish <https://hosted.weblate.org/projects/fsfe/"
+"ada-zangemann/da/>\n"
 "Language: da\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.12.1\n"
+"X-Generator: Weblate 5.13-dev\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
@@ -42,7 +42,7 @@ msgstr "En fortælling om software, skateboards og hindbæris"
 #. ISBN of print edition
 #: Ada_Zangemann.dbk:264
 msgid "978-1-7185-0318-2"
-msgstr ""
+msgstr "9788797597910"
 
 #. (itstool) path: info/biblioid
 #. ISBN of ebook edition
@@ -972,6 +972,10 @@ msgid ""
 "inhabitants: a washing machine, a yellow vacuum cleaner, and a red car, all "
 "with Internet connection signals."
 msgstr ""
+"Byen om aftenen med huse, en kirke og to gadelamper. Billed-bobler kommer op "
+"fra husene med illustrationer af de af Zangemanns opfindelser, folk har købt:"
+" en vaskemaskine, en gul støvsuger, en rød bil. Alle tingene har internet-"
+"signal streger ud fra sig."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -984,6 +988,11 @@ msgid ""
 "skateboard, a light bulb, an ice cream machine, and a toilet, all of which "
 "are receiving commands from Zangemann."
 msgstr ""
+"Fortsættelse af det forrige billede, hvor man i baggrunden kan se bakken med "
+"Zangemanns hus, hvorpå der står en antenne der sender signaler ud til de "
+"forskellige enheder. I billed-boblerne på denne side er der: et rødt "
+"elektrisk skateboard, en lyspære, en ismaskine og et toilet. Alle modtager "
+"kommandoer fra Zangemann."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:654
