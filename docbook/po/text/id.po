@@ -1,23 +1,23 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2025-08-27 17:02+0000\n"
-"Last-Translator: ButterflyOfFire <boffire@users.noreply.hosted.weblate.org>\n"
-"Language-Team: Kabyle <https://hosted.weblate.org/projects/fsfe/"
-"ada-zangemann/kab/>\n"
-"Language: kab\n"
+"PO-Revision-Date: 2025-08-26 02:01+0000\n"
+"Last-Translator: Luh Putu Ayu Prapitasari <luhtu@yahoo.com>\n"
+"Language-Team: Indonesian <https://hosted.weblate.org/projects/fsfe/"
+"ada-zangemann/id/>\n"
+"Language: id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 5.13\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
 msgid "translator-credits"
-msgstr "Ɛetman At Lmehdi <Butterflyoffire@protonmail.com>, 2025"
+msgstr ""
 
 #. (itstool) path: info/title
 #. (itstool) path: cover/bridgehead
@@ -26,25 +26,25 @@ msgstr "Ɛetman At Lmehdi <Butterflyoffire@protonmail.com>, 2025"
 #. ignore-same
 #: Ada_Zangemann.dbk:262 Ada_Zangemann.dbk:306 Ada_Zangemann.dbk:496
 msgid "Ada &amp; Zangemann"
-msgstr "Ada akked Zangemann"
+msgstr ""
 
 #. (itstool) path: info/subtitle
 #. (itstool) path: cover/bridgehead
 #: Ada_Zangemann.dbk:263 Ada_Zangemann.dbk:307
 msgid "A Tale of Software, Skateboards, and Raspberry Ice Cream"
-msgstr "Tamacahut ɣef yiseɣẓanen, iskitbruten d tmagrisin s tezwal"
+msgstr "Sebuah Cerita tentang Software, Skateboard, dan Es Krim Raspberry"
 
 #. (itstool) path: info/biblioid
 #. ISBN of print edition
 #: Ada_Zangemann.dbk:264
 msgid "978-1-7185-0318-2"
-msgstr "978-1-7185-0318-2"
+msgstr "(itstool) path: info/biblioid ISBN dari edisi cetak"
 
 #. (itstool) path: info/biblioid
 #. ISBN of ebook edition
 #: Ada_Zangemann.dbk:265
 msgid "978-1-7185-0319-9"
-msgstr "978-1-7185-0319-9"
+msgstr ""
 
 #. (itstool) path: info/author
 #. ignore-same
@@ -53,8 +53,6 @@ msgid ""
 "<personname> <firstname>Matthias</firstname> <surname>Kirschner</surname> </"
 "personname>"
 msgstr ""
-"<personname> <firstname>Matthias</firstname> <surname>Kirschner</surname> </"
-"personname>"
 
 #. (itstool) path: info/othercredit
 #. ignore-same
@@ -63,8 +61,6 @@ msgid ""
 "<personname> <firstname>Sandra</firstname> <surname>Brandstätter</surname> </"
 "personname>"
 msgstr ""
-"<personname> <firstname>Sandra</firstname> <surname>Brandstätter</surname> </"
-"personname>"
 
 #. (itstool) path: character/charactername
 #. Name must not be changed.
@@ -72,7 +68,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:282
 msgid "Ada"
-msgstr "Ada"
+msgstr ""
 
 #. (itstool) path: character/charactername
 #. Name must not be changed.
@@ -80,7 +76,7 @@ msgstr "Ada"
 #. ignore-same
 #: Ada_Zangemann.dbk:285
 msgid "Zangemann"
-msgstr "Zangemann"
+msgstr ""
 
 #. (itstool) path: character/charactername
 #. Name must not be changed.
@@ -88,7 +84,7 @@ msgstr "Zangemann"
 #. ignore-same
 #: Ada_Zangemann.dbk:288
 msgid "Alan"
-msgstr "Alan"
+msgstr ""
 
 #. (itstool) path: character/charactername
 #. Character names are mostly reference to existing people in computer
@@ -103,7 +99,7 @@ msgstr "Alan"
 #. ignore-same
 #: Ada_Zangemann.dbk:291
 msgid "Toni"
-msgstr "Toni"
+msgstr ""
 
 #. (itstool) path: character/charactername
 #. Character names are mostly reference to existing people in computer
@@ -118,7 +114,7 @@ msgstr "Toni"
 #. ignore-same
 #: Ada_Zangemann.dbk:294
 msgid "Konrad"
-msgstr "Konrad"
+msgstr ""
 
 #. (itstool) path: character/charactername
 #. Character names are mostly reference to existing people in computer
@@ -133,7 +129,7 @@ msgstr "Konrad"
 #. ignore-same
 #: Ada_Zangemann.dbk:297
 msgid "Marie"
-msgstr "Marie"
+msgstr ""
 
 #. (itstool) path: character/charactername
 #. Character names are mostly reference to existing people in computer
@@ -148,7 +144,7 @@ msgstr "Marie"
 #. ignore-same
 #: Ada_Zangemann.dbk:300
 msgid "Ms. Gernet"
-msgstr "Mass Gernet"
+msgstr "Ibu Gernet"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -182,6 +178,8 @@ msgid ""
 "A soldering iron and a brush and can with yellow paint, connected by white "
 "electrical cord that forms a frame."
 msgstr ""
+"Sebuah alat solder dan kuas serta kaleng berisi cat berwarna kuning, "
+"dihubungkan dengan kabel listrik yang berbentuk bingkai."
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-back-1
@@ -202,9 +200,8 @@ msgstr ""
 msgid ""
 "A book that arouses interest in tinkering and encourages shaping technology."
 msgstr ""
-"Adlis i warrac d tullas timeẓyanin i yezmer asen-d-yawi lferḥ n unulfuy. "
-"Adlis ɣef tsenselkimt tilellit, tadukli d wamur n teḥdayin i tektiwin i "
-"yettakken afud i tmussni. D tamacahut yeddren, tettwassugen akken iwata."
+"Sebuah buku yang membangkitkan minat dalam mengutak-atik dan mendorong "
+"pembentukan teknologi."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -214,13 +211,15 @@ msgid ""
 "A power strip, with input and output of white electrical cord that is the "
 "frame."
 msgstr ""
+"Sebuah stopkontak listrik, dengan input dan output dari kabel listrik putih "
+"yang adalah rangkanya."
 
 #. (itstool) path: info/title
 #. Page before the colophon and the title page, with just the title. Also
 #. know as 'bastard title'.
 #: Ada_Zangemann.dbk:355
 msgid "Half-title page"
-msgstr ""
+msgstr "Halaman Prancis"
 
 #. (itstool) path: mediaobject/alt
 #. (itstool) path: simplesect/para
@@ -231,13 +230,13 @@ msgstr ""
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:362 Ada_Zangemann.dbk:488
 msgid "ADA &amp; ZANGEMANN"
-msgstr "ADA akked ZANGEMANN"
+msgstr "ADA &amp; ZANGEMANN"
 
 #. (itstool) path: info/title
 #. Also known as 'imprint'
 #: Ada_Zangemann.dbk:368
 msgid "Colophon"
-msgstr "Siggez"
+msgstr "Kolofon"
 
 #. (itstool) path: simplesect/literallayout
 #. Smaller colophon to be combined with grey free cultural license
@@ -351,7 +350,7 @@ msgstr ""
 #. illustration of Ada’s dog.
 #: Ada_Zangemann.dbk:452
 msgid "Title page"
-msgstr "Azwel n usebtar"
+msgstr "Halaman Judul"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -364,6 +363,12 @@ msgid ""
 "some white patches and with a red collar with shiny yellow LEDs, which wags "
 "its tail."
 msgstr ""
+"Matthias Kirschner, Sandra Brandstätter - ADA &amp; ZANGEMANN - Sebuah "
+"Cerita tentang Software, Skateboard dan Es Krim Raspberry. Judul di bagian "
+"tengah, nama penulis di bagian kiri atas. Pada bagian kanan bawah, terdapat "
+"anjing keluarga Ada dengan bulu berwarna abu-abu dan beberapa bercak "
+"berwarna putih serta berkerah warna merah dengan LED kuning mengilap, yang "
+"sedang mengibaskan ekornya."
 
 #. (itstool) path: mediaobject/alt
 #. ignore-same
@@ -382,6 +387,8 @@ msgid ""
 "ADA &amp; ZANGEMANN - A Tale of Software, Skateboards and Raspberry Ice "
 "Cream. Title in the middle, authors in the upper left."
 msgstr ""
+"ADA &amp; ZANGEMANN - Sebuah Cerita tentang Software, Skateboard dan Es Krim "
+"Raspberry. Judul di bagian tengah, nama penulis di bagian kiri atas."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -391,6 +398,9 @@ msgid ""
 "In the lower right, Ada’s family’s dog with gray fur and some white patches "
 "and with a red collar with shiny yellow LEDs, which wags its tail."
 msgstr ""
+"Pada bagian kanan bawah, terdapat anjing keluarga Ada dengan bulu berwarna "
+"abu-abu dan beberapa bercak berwarna putih serta berkerah warna merah dengan "
+"LED kuning mengilap, yang sedang mengibaskan ekornya."
 
 #. (itstool) path: simplesect/literallayout
 #. In a literallayout element all space and newline characters are kept.
@@ -413,6 +423,9 @@ msgid ""
 "Software, Skateboards, and\n"
 "Raspberry Ice Cream"
 msgstr ""
+"Sebuah Cerita tentang\n"
+"Software, Skateboard, dan\n"
+"Es Krim Raspberry"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p04-1
@@ -425,13 +438,12 @@ msgid ""
 "lived with her mother and her little brother, Alan, in a cabin near a "
 "junkyard on the edge of town."
 msgstr ""
-"<phrase condition=\"capitals-text\">Yiwet</phrase><phrase "
-"condition=\"capitals-img\">y</phrase> n tikkelt, tella yiwet n teqcict "
-"tamecṭuḥt isem-is Ada. Tawacult-is tella d tigellilt mliḥ armi tewweḍ "
-"tḥawact-nsen tkeččem deg tbewwaṭ n tgaṭutin. Ur llin ara sɛan idrimen ara "
-"ten-id-iqamen akken ad zedɣen deg uxxam am nutni am medden. Akka, Ada, yemma-"
-"s d gma-s amecṭuḥ Alan llan zedɣen deg yiwet n tbaṛṛakt ɣer yiri n yiwet n "
-"tzebbalt deg temdint."
+"<phrase condition=\"capitals-text\">Pada</phrase><phrase condition"
+"=\"capitals-img\">ada</phrase> suatu hari, ada seorang gadis kecil bernama "
+"Ada yang berasal dari keluarga yang miskin yang hanya mempunyai sedikit "
+"uang. Mereka bahkan tidak memiliki rumah yang layak untuk ditinggali. Si "
+"gadis kecil Ada tinggal bersama ibu dan adiknya yang bernama Alan di sebuah "
+"kabin dekat tempat barang rongsokan di pinggiran kota."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -463,6 +475,36 @@ msgid ""
 "house there are piles of landfill objects among which you can see a washing "
 "machine, a car, and various wooden boards."
 msgstr ""
+"Si gadis kecil Ada tampak berada di latar depan sedang meninggalkan rumah "
+"untuk berangkat ke sekolah, dan pada latar belakang terlihat rumah Ada dan "
+"juga tempat barang bekas. Ada terlihat membawa ransel cokelat dengan tali "
+"bahu berwarna kuning. Di sebelah kirinya terdapat sebuah mobil merah jenis "
+"Volkswagen Beetle, tanpa roda dan sudah tidak berfungsi lagi, dengan salah "
+"satu lampu depannya yang masih menempel melalui kabel saja. Di sebelah kiri, "
+"di depan mobil tersebut, terlihat ada dua buah ban, dua buah kotak – salah "
+"satunya kotak kayu dengan ember terbalik di atasnya –, serta sebuah kaleng "
+"kosong, semuanya berada di antara tanaman yang berbunga kuning. Di latar "
+"belakang terlihat rumah Ada, dengan ibunya dan adiknya, Alan, melambaikan "
+"tangan mengucapkan selamat tinggal, sementara anjingnya terlihat duduk di "
+"atas tanah. Alan duduk di antara dua anak tangga pintu masuk rumah. Ia "
+"berambut pendek gelap dan mengenakan kaos putih lengan pendek dengan garis "
+"merah di tepi lengan serta dua garis merah di bagian bawah kaosnya. Alan "
+"mengenakan celana pendek biru dan tidak memakai alas kaki. Ibu Ada memakai "
+"lipstik berwarna gelap, rambutnya hitam panjang dengan ikat kepala berwarna "
+"putih. Ia mengenakan kemeja biru pendek dengan lis putih, celana putih, dan "
+"sepatu kuning. Rumah Ada terbuat dari kayu, dengan bagian depan berwarna "
+"putih. Atapnya berupa seng bergelombang berwarna merah tua. Di bagian depan, "
+"terdapat sebuah pintu dan dua buah jendela, serta sebuah jendela lainnya "
+"lagi di sisi sebelah kiri. Seekor bebek kuning berdiri di atas atap, dan di "
+"sebelahnya, sebuah cerobong asap berwarna abu-abu tampak menonjol keluar. "
+"Sebuah antena di sisi kiri atap menopang tali jemuran yang digantungkan "
+"dengan penjepit baju berwarna merah, menahan sebuah kaos tanpa lengan yang "
+"berwarna hijau, sepasang celana panjang biru muda, dan sebuah celana pendek "
+"berwana putih. Di sebelah kanan rumah terdapat serambi yang dipasangi panel "
+"surya. Kemudian, di bawah serambi terdapat sebuah kasur, drum untuk minyak "
+"merah atau Red Oil, dan sebuah kotak abu-abu. Di belakang rumah terdapat "
+"tumpukan barang bekas, di antaranya terlihat mesin cuci, sebuah mobil, dan "
+"beberapa papan kayu."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -472,10 +514,11 @@ msgid ""
 "Prestigious magazines (“STARS“, “MONEY”, “Richest Man”) on whose cover are "
 "Zangemann and his villa."
 msgstr ""
+"Beberapa majalah bergengsi (“STARS”, “MONEY”, “Richest Man”) yang sampulnya "
+"menampilkan bapak Zangemann dan villa-nya."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:518
-#, fuzzy
 msgid ""
 "Far away, at the other end of town, lived a famous inventor named Zangemann. "
 "He was immensely rich. No sheet of paper in the world was big enough to show "
@@ -485,19 +528,19 @@ msgid ""
 "Zangemann’s mansion stood high on a hill. From there, he could look out over "
 "the whole city."
 msgstr ""
-"Seg tama nniḍen n temdint, yella yettidir yiwen umesnulfu mucaɛen, win mi "
-"qqaren s yisem-s Zangemann. Yella d amerkanti mačči d kra. Ulac tawriqt "
-"meqqren di ddunnit ara yedkfun i tira n wuṭṭunen akk d yilemawen n uṣrudi-s "
-"yesɛa di lbanka. Yella yezdeɣ deg yiwen n wexxam d ameqqran degs **tanerdabt "
-"d waman** akked **taḥnaccegt**, aṭas n **yisunan, tiberninin**, timaḍ n "
-"ṭṭiqan d waṭas n texxamin, armi yettaɛṛaq-as, tikwal, webrid. Yettwabna "
-"wexxam n Zangemann deg tqacuct n wedrar. Seg-inna, yella yezmer ad iwali akk "
-"tamdint-nni."
+"Nan jauh di sana, di ujung kota yang lain, hiduplah seorang penemu terkenal "
+"bernama bapak Zangemann. Ia sangat kaya. Tak ada selembar kertas pun di "
+"dunia ini yang cukup besar untuk menuliskan saldo banknya dengan semua angka "
+"dan jumlah nolnya! Ia tinggal di sebuah rumah yang sangat besar dengan kolam "
+"renang yang dilengkapi perosotan air, rumah dengan banyak tangga dan menara, "
+"serta ratusan jendela, dan begitu banyak ruangan sehingga ia sendiri sering "
+"tersesat di dalamnya. Rumah besar bapak Zangemann berdiri tinggi di atas "
+"bukit. Dari sana, ia dapat memandang seluruh kota."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:523
 msgid "Zangemann and computers"
-msgstr "Zangemann d yiselkimen"
+msgstr "Bapak Zangemann dan komputer"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p06-1
@@ -520,6 +563,26 @@ msgid ""
 "clean. Zangemann had great new ideas like these every day. He could think of "
 "nothing else."
 msgstr ""
+"<phrase condition=\"capitals-text\">Komputer</phrase><phrase condition"
+"=\"capitals-img\">omputer</phrase> telah memikat bapak Zangemann sejak "
+"kecil. Waktu bapak Zangemann masih kecil dulu, komputer adalah berupa mesin "
+"dengan ukuran sangat besar dengan banyak kabel dan kipas yang sangat "
+"berisik. Di sekolahnya, bapak Zangemann kecil sering memimpikan ingin "
+"melakukan banyak hal dengan komputer jika ukuran komputer bisa sedikit lebih "
+"kecil dari ukuran saat itu—cukup kecil sehingga dapat dibuat menjadi benda-"
+"benda menyenangkan lainnya. Walaupun waktu itu ia masih kecil, tapi ia tahu "
+"apa yang ingin dilakukan. Misalnya, pertama, ia akan memasang komputer di "
+"skateboard-nya supaya dapat mengeluarkan suara-suara keren saat ia "
+"menaikinya—misalnya suara sirene pemadam kebakaran atau suara roket yang "
+"meluncur. Lalu, ia juga ingin menggunakan komputer untuk menciptakan mesin "
+"pembuat es krim. Dalam khayalannya, komputer bisa dibuat untuk meracik rasa-"
+"rasa es krim paling keren dan bahkan bisa menjual sendiri es krim yang telah "
+"dibuat. Ia membayangkan juga akan ada mesin pembuat es krim ini di setiap "
+"sudut jalan, dan ia bisa mendapatkan es krim dengan rasa favoritnya kapan "
+"pun ia mau, sepuasnya. Setelah itu, ia akan membuat robot pembersih dan "
+"pemilah agar kamarnya selalu rapi dan bersih. Bapak Zangemann kecil selalu "
+"punya ide-ide baru yang hebat seperti ini setiap hari. Hanya hal-hal seperti "
+"inilah yang ada di dalam pikirannya waktu itu."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:528
@@ -544,6 +607,19 @@ msgid ""
 "open notebook, a yellow pencil, and an eraser, while hanging on the side of "
 "the table there is his brown briefcase."
 msgstr ""
+"Bapak Zangemann saat masih anak-anak duduk di kursi di meja sekolah. Dari "
+"kepalanya muncul enam gelembung yang berisi ide-idenya tentang tempat-tempat "
+"untuk memasukkan komputer, misalnya pada sistem panggilan video, sistem "
+"pengeras suara, mesin cuci, skateboard yang dilengkapi dengan radio control "
+"pada monitor komputer yang berukuran besar, komputer yang dapat dikenakan di "
+"pergelangan tangan, dan juga komputer yang dapat dipasangkan pada bahu "
+"dilengkapi dengan monitor serta papan ketik. Bapak Zangemann berambut abu-"
+"abu, mengenakan kemeja ungu tua dengan garis-garis horizontal biru, "
+"bercelana pendek biru, bersepatu cokelat, dan berkaus kaki putih. Ia memakai "
+"kacamata dan memakai jam tangan besar di pergelangan tangan kirinya. Di atas "
+"meja terdapat buku catatan yang sedang terbuka, sebuah pensil berwarna "
+"kuning, dan penghapus, sementara di sisi meja tergantung tas kerja cokelat "
+"miliknya."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:540
@@ -568,6 +644,16 @@ msgid ""
 "machine there is the refrigeration machinery with the “Z” of the Zangemann "
 "logo."
 msgstr ""
+"Mesin es krim asli buatan bapak Zangemann. Warnanya ice blue yaitu warna "
+"berona biru muda dan sejuk, dan bentuknya mirip mesin penjual minuman "
+"otomatis, dengan contong yang berisi es krim. Di atas dispenser terdapat "
+"sebuah monitor yang menampilkan varian es krim yang dijual, dalam hal ini es "
+"krim nanas. Di sebelah kiri terdapat slot untuk memasukkan koin, berbagai "
+"tombol untuk memilih rasa, serta lubang untuk koin kembalian. Di bagian atas "
+"terdapat papan berbentuk bulat berwarna putih dengan gambar satu scoop es "
+"krim berwarna candy-pink atau merah muda dalam sebuah contong. Di bagian "
+"belakang mesin terdapat mesin pendingin dengan huruf “Z” dari logo milik "
+"bapak Zangemann."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:547
@@ -591,6 +677,11 @@ msgid ""
 "notes and colored circles. Only the knees, white socks, and olive green "
 "shoes with white soles of the child riding it are shown."
 msgstr ""
+"Sebuah skateboard listrik asli buatan bapak Zangemann yang meninggalkan "
+"jejak berwarna biru dengan not-not musik dan lingkaran-lingkaran berwarna "
+"warni. Yang terlihat hanya bagian lutut, kaus kaki berwarna putih, serta "
+"sepatu berwarna hijau Zaitun dengan sol berwarna putih dari anak yang "
+"mengendarai stakeboard itu."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -607,6 +698,18 @@ msgid ""
 "toward Ada holding a yellow fan over his head. Alan now wears white socks "
 "and yellow shoes."
 msgstr ""
+"Si gadis kecil Ada sedang mengutak-atik benda-benda di laboratorium "
+"buatannya. Ia duduk di atas sebuah kotak air yang terbalik, dan sedang "
+"memperbaiki sesuatu dengan obeng berwarna kuning. Di atas meja terdapat "
+"sebuah tang berwarna hijau, palu merah, soket listrik warna putih, dan "
+"sebuah perangkat lainnya. Si kecil Ada berada di meja yang terbuat dari "
+"papan kayu yang ditopang oleh dua buah drum minyak (satu warna abu-abu dan "
+"satu merah) serta sebuah alat pemotong kayu berukuran kecil. Sedangkan di "
+"belakangnya terdapat mesin cuci, beberapa pipa, dan sebuah papan. Kemudian, "
+"di depan meja tersebut terdapat beberapa ban dan sebuah telepon tua dengan "
+"kabel yang rusak. Alan sedang berjalan menuju Ada sambil memegang kipas "
+"angin kuning di atas kepalanya. Saat ini Alan mengenakan kaus kaki putih dan "
+"sepatu berwarna kuning."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:562
@@ -668,6 +771,10 @@ msgid ""
 "and a green switch. One of the sockets is attached to a plug with a gray "
 "cable."
 msgstr ""
+"Sebuah blok soket listrik berwarna putih terhubung ke sebuah stopkontak yang "
+"ada di dinding. Blok soket listrik tersebut terdiri atas 3 soket dan sebuah "
+"sakelar berwarna hijau. Salah satu soketnya terpasang steker dengan kabel "
+"berwarna abu-abu."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:579
@@ -690,6 +797,15 @@ msgid ""
 "logo on the back. It is integrated into a costly wooden desk from which a "
 "gray cable flows that is connected to the power strip of the previous page."
 msgstr ""
+"Bapak Zangeman duduk di depan komputernya yang berwarna emas, ia duduk di "
+"atas kursi dengan sandaran lengan yang juga berwarna keemasan, dengan "
+"sandaran merah yang sangat tinggi dan empuk, dengan logo Zangemann berbentuk "
+"huruf \"Z\" di bagian atasnya. Ia mengenakan sweter turtleneck ungu dan "
+"celana panjang berwarna biru muda. Komputer yang digunakannya itu memiliki "
+"empat monitor dengan berbagai ukuran, masing-masing dengan logo di bagian "
+"belakang. Keempat monitor tersebut terintegrasi dengan meja kayu yang mahal "
+"yang dialiri kabel abu-abu yang terhubung ke stopkontak di halaman "
+"sebelumnya."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:589
@@ -712,6 +828,11 @@ msgid ""
 "adults walking or going on skateboards, some eating ice cream, while others "
 "are buying ice cream from the original Zangemann machines."
 msgstr ""
+"Lanskap kota dengan rumah-rumah dan toko-toko, dengan jalan utama yang "
+"berbelok ke kanan. Di jalanan tersebut terdapat sebuah mobil dan seorang "
+"pesepeda. Ada beberapa anak dan orang dewasa yang berjalan kaki dan bermain "
+"skateboard, beberapa terlihat sedang menikmati es krim, sementara yang lain "
+"tampak sedang membeli es krim dari mesin es krim Zangemann yang asli."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:596
@@ -727,7 +848,7 @@ msgstr ""
 #. equal to the beginning of the first sentence of this chapter.
 #: Ada_Zangemann.dbk:601
 msgid "One day..."
-msgstr "Yiwen n wass…"
+msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:604
@@ -750,6 +871,14 @@ msgid ""
 "the highest tower an antenna is installed. On the sides of the stairs to get "
 "off the hill there are evergreen trees."
 msgstr ""
+"Bapak Zangemann menuruni tangga dari rumahnya di atas bukit menuju kota. "
+"Rumah Bapak Zangemann berdiri tegak di atas bukit. Bagian depannya berwarna "
+"biru dengan jendela-jendela berukuran besar; menara-menaranya berwarna biru "
+"tua, dan dari sebuah jendela terdapat perosotan berwarna kuning yang "
+"terhubung ke kolam renang besar di bawah yang dilengkapi dengan dua buah "
+"pohon palem. Atapnya berwarna merah, dan di atas menara tertinggi terdapat "
+"antena. Di sisi-sisi tangga untuk menuruni bukit terdapat pepohonan hijau "
+"yang rimbun."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:613
@@ -779,6 +908,12 @@ msgid ""
 "blue hooded sweatshirt and dark green pants. He holds a red Zangemann "
 "electric skateboard."
 msgstr ""
+"Bapak Zangemann setelah insiden dengan seorang anak. Bapak Zangemann "
+"menjerit kesakitan sambil memegang salah satu kakinya dengan kedua tangan "
+"pada bagian tulang kering kakinya tersebut. Anak yang berambut cokelat "
+"terlihat kaget karena mendengar teriakan dari bapak Zangemann. Ia mengenakan "
+"sweter dengan tudung atau tutup kepala berwarna biru muda dan celana hijau "
+"tua. Ia memegang skateboard listrik berwarna merah merk Zangemann."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:624
@@ -852,7 +987,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:654
 msgid "Skateboards no longer work"
-msgstr "Skateboards dayen ur iteddu ara"
+msgstr ""
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p18-1
@@ -914,7 +1049,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:680
 msgid "Ada and software"
-msgstr "Ada d useɣẓan"
+msgstr ""
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p20-1
@@ -972,7 +1107,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:699
 msgid "Programming"
-msgstr "Asihel"
+msgstr ""
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p22-1
@@ -1047,9 +1182,8 @@ msgstr ""
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:728
-#, fuzzy
 msgid "A horrible night"
-msgstr "Iḍ yessexlaɛen"
+msgstr ""
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p25-1
@@ -1088,7 +1222,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:739
 msgid "First real project"
-msgstr "Asenfaṛ amezwaru n tidet"
+msgstr ""
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p26-1
@@ -1120,9 +1254,6 @@ msgid ""
 "Back at the junkyard, she adapted some lines of code for her skateboard "
 "program. She tweaked a few things and kept tinkering."
 msgstr ""
-"Tuɣal ɣerwanda ttḍegiren akk ayen ixesṛent, tessenɣel-d kra n yizirigen n "
-"tengalt i wahil-is n skateboard. Tefren snat, tlata n tɣawsiwin syen tkemmel "
-"asfurkes-is."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:747
@@ -1176,7 +1307,7 @@ msgstr ""
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:760
 msgid "“How can you ride your skateboard on the sidewalk?” they asked."
-msgstr "Nnan-as: \"Amek ara tessekneḍ skateboard inek deg utṛutwar\"."
+msgstr ""
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1229,7 +1360,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:781
 msgid "Hacking for freedom"
-msgstr "Asɣendef i tlelli"
+msgstr ""
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p30-1
@@ -1374,7 +1505,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:845
 msgid "Zangemann and the President"
-msgstr "Zangemann akked uselway"
+msgstr ""
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p36-1
@@ -1451,7 +1582,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:875
 msgid "Protest"
-msgstr "Tarkawt"
+msgstr ""
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p39-1
@@ -1525,7 +1656,7 @@ msgstr ""
 #. Text on big banner, left on the illustration
 #: Ada_Zangemann.dbk:897
 msgid "Do your homework Mr. President and we will do ours!"
-msgstr "Eg aɣanen-ik Mass Aselway, ad neg widak-nneɣ!"
+msgstr ""
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1551,7 +1682,7 @@ msgstr ""
 #. Text on square signe on the right of the illustration
 #: Ada_Zangemann.dbk:914
 msgid "They are young + need the code!"
-msgstr "Meẓẓiyit yerna ḥwaǧen angal!"
+msgstr ""
 
 #. (itstool) path: info/excerpt
 #. Text on banner on the banner held by children on the right of the
@@ -1559,12 +1690,12 @@ msgstr "Meẓẓiyit yerna ḥwaǧen angal!"
 #. can be used, which translates to 'without code everything is dull!'.
 #: Ada_Zangemann.dbk:915
 msgid "Don’t wreck our tech!"
-msgstr "Ur aɣ-ttruẓu ara titiknulujiyin nneɣ!"
+msgstr ""
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:922
 msgid "Children help the government"
-msgstr "Igerdan ttɛawanen anabaḍ"
+msgstr ""
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p42-1
@@ -1645,7 +1776,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:949
 msgid "New law"
-msgstr "Asaḍuf amaynut"
+msgstr ""
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p44-1
@@ -1701,8 +1832,6 @@ msgid ""
 "In addition, a new school subject was introduced: computer hardware and "
 "software."
 msgstr ""
-"Seg tama niḍen, yettwasekcem usentel aɣurbiz d amaynut: arrum asenselkam d "
-"useɣẓan."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1761,7 +1890,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:995
 msgid "And Zangemann?"
-msgstr "I Zangemann?"
+msgstr ""
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p48-1
@@ -1791,13 +1920,13 @@ msgstr ""
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:1013
 msgid "A trail of candies and raspberry ice cream on the ground."
-msgstr "Tella tezribt n tḥelwatin akked tsemmaḍin ɣef lqaɛa."
+msgstr ""
 
 #. (itstool) path: info/title
 #. (itstool) id: Ada_Zangemann.dbk#title-acknowledgments
 #: Ada_Zangemann.dbk:1020
 msgid "Acknowledgments"
-msgstr "Asnemmer n umeskar"
+msgstr ""
 
 #. (itstool) path: simplesect/para
 #. In the acknowledgments of the English version you can change 'No Starch
@@ -1847,19 +1976,19 @@ msgstr ""
 #. (itstool) id: Ada_Zangemann.dbk#title-author
 #: Ada_Zangemann.dbk:1047
 msgid "About the Author"
-msgstr "Ɣef umeskar"
+msgstr ""
 
 #. (itstool) path: info/subtitle
 #. (itstool) id: Ada_Zangemann.dbk#subtitle-author
 #. ignore-same
 #: Ada_Zangemann.dbk:1048
 msgid "Matthias Kirschner"
-msgstr "Matthias Kirschner"
+msgstr ""
 
 #. (itstool) path: info/titleabbrev
 #: Ada_Zangemann.dbk:1049
 msgid "About the Author - Matthias Kirschner"
-msgstr "Ɣef umeskar - Matthias Kirschner"
+msgstr ""
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1891,7 +2020,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:1071
 msgid "Sandra Brandstätter"
-msgstr "Sandra Brandstätter"
+msgstr ""
 
 #. (itstool) path: info/titleabbrev
 #: Ada_Zangemann.dbk:1072
@@ -1921,7 +2050,7 @@ msgstr ""
 #. (itstool) id: Ada_Zangemann.dbk#title-bookswebsite
 #: Ada_Zangemann.dbk:1092
 msgid "Book’s website"
-msgstr "Asmel web n udlis"
+msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1100
@@ -1946,7 +2075,7 @@ msgstr ""
 #. (itstool) id: Ada_Zangemann.dbk#title-license
 #: Ada_Zangemann.dbk:1109
 msgid "License"
-msgstr "Turagt"
+msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1117
@@ -1963,8 +2092,6 @@ msgid ""
 "<link xlink:href=\"https://creativecommons.org/licenses/by-sa/4.0/\">https://"
 "creativecommons.org/licenses/by-sa/4.0/</link>"
 msgstr ""
-"<link xlink:href=\"https://creativecommons.org/licenses/by-sa/4.0/\">https://"
-"creativecommons.org/licenses/by-sa/4.0/</link>"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
