@@ -553,8 +553,9 @@ msgstr ""
 "<phrase condition=\"capitals-text\">Er</phrase><phrase condition=\"capitals-"
 "img\">r</phrase> was eens een klein meisje genaamd Ada. Haar familie was zo "
 "arm dat al hun spaargeld in een koektrommel paste. Ze hadden niet genoeg "
-"geld om in een echt huis te wonen. Ada woonde met haar "
-"moeder en haar kleine broer Alan aan de rand van de stad. In een hut vlakbij de schroothoop."
+"geld om in een echt huis te wonen. In plaats daarvan woonde Ada met haar "
+"moeder en haar kleine broer Alan in een hut, vlakbij een schroothoop aan de "
+"rand van de stad."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -777,8 +778,8 @@ msgstr ""
 "luidspreker-uitvinding. Die kon direct ieder lied spelen dat je aanvroeg. En "
 "natuurlijk hield iedereen van de ijsjes. Die werden iedere middag geserveerd "
 "door de automatische, extra-lekkere Originele Zangemann IJsjesmachines. Het "
-"leek allemaal magie. Niemand wist dat het geheim de kleine computers waren die "
-"Zangemann in zijn machines bouwde."
+"leek allemaal magie, maar het geheim was simpel: de kleine computers die Zangemann "
+"in zijn machines had ingebouwd."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -857,7 +858,7 @@ msgid ""
 "she forgot all about the skateboards and the ice cream."
 msgstr ""
 "Ada genoot van het sleutelen op de schroothoop en het "
-"repareren van kapotte dingen. Ze dacht niet meer  aan de skateboards en "
+"repareren van kapotte dingen. Ze dacht niet meer aan de skateboards en "
 "het ijs."
 
 #. (itstool) path: simplesect/para
@@ -1039,7 +1040,7 @@ msgid ""
 msgstr ""
 "‘Misschien zal een klein uitstapje me zelfs een paar nieuwe ideeën geven. "
 "Als ik helemaal eerlijk ben, waren mijn laatste uitvindingen lang niet zo "
-"nuttig als de eerste…,’ overpeinsde Zangemann. ‘Maar mijn ijsjesmachines "
+"nuttig als de eerste … ,’ overpeinsde Zangemann. ‘Maar mijn ijsjesmachines "
 "zijn en zullen ongeëvenaard blijven,’ dacht hij direct daarna en met enige "
 "trots, terwijl hij een groep mensen passeerde die allemaal de smaak van de "
 "dag aten: kokosnotenijs."
@@ -1139,8 +1140,8 @@ msgstr ""
 "gouden computer zitten. Daarvandaan gaf hij alle kleine computers in de "
 "skateboards de opdracht dat het niet langer was toegestaan om de stoep op te "
 "gaan. Hij droeg de kleine computers in de luidsprekers op om voortaan muziek zachtjes "
-"af te spelen. Alleen zijn favoriete muziek mocht hard en die zette hij"
-" meteen op om in een betere stemming te komen."
+"af te spelen. Alleen zijn favoriete muziek mocht hard en die zette hij "
+"meteen op om in een betere stemming te komen."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1400,7 +1401,7 @@ msgid ""
 "had written her first program!"
 msgstr ""
 "Eerst gebeurde er niets. Ada vroeg zich af wat de fout zou kunnen zijn. Ze "
-"maakte een paar kleine aanpassingen en probeerde het opnieuw en… ‘Jaaa!’ "
+"maakte een paar kleine aanpassingen en probeerde het opnieuw en … ‘Jaaa!’ "
 "Het kleine lichtje begon te knipperen. Aan, uit, aan, uit. Ada keek vol "
 "bewondering naar het lampje. Ze had haar eerste programma geschreven!"
 
@@ -1757,7 +1758,7 @@ msgstr ""
 "condition=\"capitals-img\">teeds</phrase> meer kinderen kwamen ’s middags na "
 "school langs bij Ada op de schroothoop. Ze hielp hen de programma’s in "
 "hun skateboards te herschrijven. Sommige van haar klasgenoten waren "
-"blij met deze nieuwe ontdekking. Ongelofelijk wat je allemaal kon doen met "
+"enthousiast over deze nieuwe ontdekking. Ongelofelijk wat je allemaal kon doen met "
 "programmacode! Ze wilden van Ada alles over programmeertalen leren. Al snel "
 "reden ze met hun skateboards weer overal waar ze wilden."
 
@@ -2043,7 +2044,7 @@ msgid ""
 msgstr ""
 "Ze verzamelden voor een van hun gebouwde ijsjesmachines en bespraken de "
 "situatie. Het was duidelijk dat iets gedaan moest worden aan deze nieuwe "
-"wet. Ze smeedden een plan…"
+"wet. Ze smeedden een plan …"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -2408,7 +2409,7 @@ msgid ""
 "to the other laws.”"
 msgstr ""
 "‘Het is iedereen toegestaan om hun eigen computer te programmeren zolang ze "
-"zich daarbij aan de andere wetten houdt.”"
+"zich daarbij aan de andere wetten houdt.’"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:965
