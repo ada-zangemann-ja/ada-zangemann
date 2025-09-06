@@ -1,20 +1,23 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-09-06 14:20+0000\n"
+"Last-Translator: abbas davarpanah <abbasdp@proton.me>\n"
+"Language-Team: Persian <https://hosted.weblate.org/projects/fsfe/"
+"ada-zangemann/fa/>\n"
 "Language: fa\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.14-dev\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
 msgid "translator-credits"
-msgstr ""
+msgstr "مترجمین"
 
 #. (itstool) path: info/title
 #. (itstool) path: cover/bridgehead
@@ -23,25 +26,25 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:262 Ada_Zangemann.dbk:306 Ada_Zangemann.dbk:496
 msgid "Ada &amp; Zangemann"
-msgstr ""
+msgstr "Ada &amp; Zangemann"
 
 #. (itstool) path: info/subtitle
 #. (itstool) path: cover/bridgehead
 #: Ada_Zangemann.dbk:263 Ada_Zangemann.dbk:307
 msgid "A Tale of Software, Skateboards, and Raspberry Ice Cream"
-msgstr ""
+msgstr "داستانی از نرم‌افزار، اسکیت‌بورد و بستنی تمشک"
 
 #. (itstool) path: info/biblioid
 #. ISBN of print edition
 #: Ada_Zangemann.dbk:264
 msgid "978-1-7185-0318-2"
-msgstr ""
+msgstr "(itstool) path: info/biblioid شابک نسخه چاپی"
 
 #. (itstool) path: info/biblioid
 #. ISBN of ebook edition
 #: Ada_Zangemann.dbk:265
 msgid "978-1-7185-0319-9"
-msgstr ""
+msgstr "(itstool) path: info/biblioid شابک نسخه الکترونیکی"
 
 #. (itstool) path: info/author
 #. ignore-same
@@ -49,7 +52,7 @@ msgstr ""
 msgid ""
 "<personname> <firstname>Matthias</firstname> <surname>Kirschner</surname> </"
 "personname>"
-msgstr ""
+msgstr "(itstool) path: info/author ignore-same"
 
 #. (itstool) path: info/othercredit
 #. ignore-same
@@ -57,7 +60,7 @@ msgstr ""
 msgid ""
 "<personname> <firstname>Sandra</firstname> <surname>Brandstätter</surname> </"
 "personname>"
-msgstr ""
+msgstr "(itstool) path: info/othercredit ignore-same"
 
 #. (itstool) path: character/charactername
 #. Name must not be changed.
@@ -66,6 +69,7 @@ msgstr ""
 #: Ada_Zangemann.dbk:282
 msgid "Ada"
 msgstr ""
+"(itstool) path: character/charactername Name must not be changed. ignore-same"
 
 #. (itstool) path: character/charactername
 #. Name must not be changed.
@@ -74,6 +78,7 @@ msgstr ""
 #: Ada_Zangemann.dbk:285
 msgid "Zangemann"
 msgstr ""
+"(itstool) path: character/charactername Name must not be changed. ignore-same"
 
 #. (itstool) path: character/charactername
 #. Name must not be changed.
