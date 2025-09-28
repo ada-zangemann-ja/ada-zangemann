@@ -1450,7 +1450,7 @@ msgid ""
 msgstr ""
 "Ada had ook een idee voor het volgende programma dat ze zou schrijven. Het "
 "was iets groters, een echt project. Ze zou er waarschijnlijk de hele "
-"zomervakantie voor nodig hebben en ze kon amper wachten!"
+"zomervakantie voor nodig hebben en ze kon haast niet wachten!"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1572,8 +1572,8 @@ msgid ""
 "Back at the junkyard, she adapted some lines of code for her skateboard "
 "program. She tweaked a few things and kept tinkering."
 msgstr ""
-"Terug op de schroothoop nam ze enkele programmadelen over voor haar "
-"skateboardprogramma. Ze paste een paar dingen aan en bleef sleutelen."
+"Terug op de schroothoop nam ze enkele regels code over voor haar "
+"skateboardprogramma. Ze paste nog een paar dingen aan en bleef sleutelen."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:747
@@ -1931,7 +1931,7 @@ msgstr ""
 "stropdassen kon strijken. Zangemann had een pesthekel aan stropdassen en had "
 "het zijn apparaten verboden. Voor de buschauffeur bouwden ze een automatisch "
 "bewateringssysteem uit oude slangen en een computer zodat haar planten niet "
-"zouden verdrogen in de zomerdag. En de conciërge hielpen ze zijn stofzuiger "
+"zouden uitdrogen in de zomerse hitte. En de conciërge hielpen ze zijn stofzuiger "
 "zo om te bouwen dat deze speelgoed automatisch herkende en niet meer opzoog."
 
 #. (itstool) path: simplesect/para
@@ -2524,9 +2524,9 @@ msgstr ""
 "Misschien zit hij nog altijd geërgerd achter zijn gouden computer. Misschien "
 "durft hij de straat niet meer op te gaan en heeft hij alle luiken van zijn "
 "landhuis dichtgedaan. Dan zou hij zich niet druk meer hoeven te maken over wat "
-"anderen doen met zijn uitvindingen. Maar misschien kijkt hij ook door zijn "
-"telescoop naar de wereld en ziet hij wat de kinderen elke dag nieuw "
-"uitvinden. Misschien herinnert hij zich hoeveel plezier het hemzelf vroeger "
+"anderen doen met zijn uitvindingen. Maar misschien kijkt hij door zijn "
+"telescoop naar de wereld en ziet hij wat de kinderen elke dag "
+"uitvinden. Misschien herinnert hij zich hoeveel plezier het hem vroeger "
 "gaf om te sleutelen en te experimenteren. En misschien, heel misschien, eet "
 "hij piramidevormig frambozenijs met discodip."
 
@@ -2594,7 +2594,7 @@ msgid ""
 "freedom. Especially, I would like to thank my children, who inspired me with "
 "new ideas at each reading. Without them, this book would not exist."
 msgstr ""
-"Hartelijk dank aan mijn familie die mij ‘s ochtends vroeg en ‘s avonds laat "
+"Hartelijk dank aan mijn familie die mij ’s ochtends vroeg en ’s avonds laat "
 "in de vakantie lieten schrijven en die mijn werk voor softwarevrijheid "
 "altijd ondersteunt. In het bijzonder wil ik mijn kinderen bedanken die mij "
 "bij het voorlezen met nieuwe ideeën inspireerden. Zonder hen zou dit boek "
@@ -2753,7 +2753,7 @@ msgid ""
 msgstr ""
 "Het boek Ada &amp; Zangemann: Een verhaal over software, skateboards en "
 "frambozenijs door Matthias Kirschner en Sandra Brandstätter is gelicenseerd "
-"onder “Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA "
+"onder “Creative Commons Naamsvermelding-GelijkDelen 4.0 International (CC BY-SA "
 "4.0).”"
 
 #. (itstool) path: simplesect/para
@@ -2762,8 +2762,8 @@ msgid ""
 "<link xlink:href=\"https://creativecommons.org/licenses/by-sa/4.0/\">https://"
 "creativecommons.org/licenses/by-sa/4.0/</link>"
 msgstr ""
-"<link xlink:href=\"https://creativecommons.org/licenses/by-sa/4.0/\">https://"
-"creativecommons.org/licenses/by-sa/4.0/</link>"
+"<link xlink:href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.nl\">https://"
+"creativecommons.org/licenses/by-sa/4.0/deed.nl</link>"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
