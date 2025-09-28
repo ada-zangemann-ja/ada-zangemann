@@ -733,8 +733,8 @@ msgid ""
 msgstr ""
 "‘Eindelijk kan ik alles maken wat ik wil!’ riep Zangemann uit. Hij ging "
 "meteen aan het werk. Hij vond manieren om kleine computers aan allerlei "
-"dingen toe te voegen om ze nog leuker en handiger te maken. Andere mensen wilden "
-"ze zelfs kopen."
+"dingen toe te voegen om ze nog leuker en handiger te maken. En toen verkocht "
+"hij ze."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
