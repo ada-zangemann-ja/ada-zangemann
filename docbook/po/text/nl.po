@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2025-07-26 11:56+0200\n"
+"PO-Revision-Date: 2025-09-28 13:11+0000\n"
 "Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/fsfe/ada-zangemann/"
 "nl/>\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.13-dev\n"
+"X-Generator: Weblate 5.14-dev\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
@@ -1378,8 +1378,8 @@ msgstr ""
 "bibliotheek. Ze vond boeken en websites die uitlegden hoe programmeertalen "
 "en code werkte. Voor Ada voelde het een beetje als het leren van een "
 "geheimtaal, of het vergroten van de woordenschat op school. Ada kon er geen "
-"genoeg van krijgen. Ze wilde snel beginnen met iets simpels te programmeren "
-"zoals het laten knipperen van een lampje."
+"genoeg van krijgen. Ze verwachtte dat haar eerste programma iets simpels zou "
+"doen: ‘Laat dit lampje knipperen!’"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:704
