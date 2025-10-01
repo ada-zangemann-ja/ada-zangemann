@@ -6,8 +6,8 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2025-10-02 04:01+0000\n"
-"Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
+"PO-Revision-Date: 2025-10-02 04:02+0000\n"
+"Last-Translator: Keunes <keunes@mailbox.org>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/fsfe/ada-zangemann/nl/>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
@@ -43,12 +43,14 @@ msgstr "Een verhaal over software, skateboards en frambozenijs"
 #. (itstool) path: info/biblioid
 #. ISBN of print edition
 #: Ada_Zangemann.dbk:264
+#, fuzzy
 msgid "978-1-7185-0318-2"
 msgstr "978-1-7185-0318-2"
 
 #. (itstool) path: info/biblioid
 #. ISBN of ebook edition
 #: Ada_Zangemann.dbk:265
+#, fuzzy
 msgid "978-1-7185-0319-9"
 msgstr "978-1-7185-0319-9"
 
@@ -160,7 +162,6 @@ msgstr "Mevrouw Gernet"
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:320
-#, fuzzy
 msgid ""
 "Ada &amp; Zangemann - A Tale of Software, Skateboards, and Raspberry Ice "
 "Cream. By Matthias Kirschner and Sandra Brandstätter. On a mostly "
@@ -179,24 +180,7 @@ msgid ""
 "turtle-neck sweater, light blue pants turned up, brown shoes, and white "
 "socks. He’s wearing a big tech watch. Above Zangemann there are a pair of "
 "pliers with red handles crossing the wire frame."
-msgstr ""
-"Een verhaal over software, skateboards en frambozenijs. Door Matthias "
-"Kirschner en Sandra Brandstätter. Op een voornamelijk onverzadigde cyaan "
-"achtergrond, in een kader bestaande uit soms gekrulde witte lijnen die een "
-"verbinding vormen tussen een computermuis, een toetsenbord en een roze "
-"smartphone. Ada en Zangemann zijn naar elkaar gericht, beiden met de handen "
-"op hun heupen in een uitdagende pose. Ada lacht en Zangemann fronst. Ada "
-"heeft zwart haar met rode elastieken in twee grote knotten links en rechts. "
-"Ze heeft rode wangen en kleine gele knopjes in de oren. Ze draagt een "
-"horizontaal gestreepte korte broek in cyaan en wit en een geel shirt over "
-"een wit ondershirt dat eindigt in kant dat onder het shirt uit komt. Over "
-"het shirt draagt Ada een blauw vest met capuchon. Ada draagt rode schoenen "
-"met witte neuzen, witte zolen en korte witte sokken. Ze heeft een voet op "
-"een skateboard en de andere op de grond. Zangemann heeft kort grijs haar en "
-"vierkante brillenglazen. Hij draagt een paarse trui aan met kol, een "
-"lichtblauwe opgetrokken broek, bruine schoenen en witte stokken. Hij draagt "
-"een groot technisch horloge. Boven Zangemann is een combinatietang afgebeeld "
-"met rode handvatten die het kader van draden doorkruist."
+msgstr "Ada &amp; Zangemann - Een verhaal over software, skateboards en frambozenijs. Door Matthias Kirschner en Sandra Brandstätter. Op een voornamelijk onverzadigde donker-cyaan achtergrond, in een kader bestaande uit witte lijnen die soms gekruld zijn en een verbinding vormen tussen een computermuis, een toetsenbord en een roze smartphone. Ada en Zangemann zijn naar elkaar gericht, beiden met de handen op hun heupen in een uitdagende houding. Ada lacht en Zangemann fronst. Ada heeft zwart haar met rode elastieken in twee grote knotten links en rechts. Ze heeft rode wangen en kleine gele knopjes in de oren. Ze draagt een horizontaal gestreepte korte broek in cyaan en wit en een geel shirt over een wit ondershirt dat eindigt in kant dat onder het shirt uit komt. Over het shirt draagt Ada een blauw vest met capuchon. Ada draagt rode schoenen met witte neuzen, witte zolen en korte witte sokken. Ze heeft een voet op een skateboard en de andere op de grond. Zangemann heeft kort grijs haar en vierkante brillenglazen. Hij draagt een paarse trui aan met kol, een lichtblauwe opgetrokken broek, bruine schoenen en witte stokken. Hij draagt een groot technisch horloge. Boven Zangemann is een combinatietang afgebeeld met rode handvatten die het kader van draden doorkruist."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -234,11 +218,10 @@ msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:333
+#, fuzzy
 msgid ""
 "A book that arouses interest in tinkering and encourages shaping technology."
-msgstr ""
-"Een boek dat bij kinderen de interesse voor sleutelen aanwakkert en een "
-"autonome omgang met techniek aanmoedigt."
+msgstr "Een boek dat bij kinderen de interesse voor sleutelen aanwakkert en een autonome omgang met techniek aanmoedigt."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -441,7 +424,7 @@ msgstr ""
 #.
 #. In a literallayout element all space and newline characters are kept.
 #: Ada_Zangemann.dbk:443
-#, fuzzy, no-wrap
+#, no-wrap
 msgid ""
 "<emphasis role=\"bold\">Free as in freedom not price</emphasis>\n"
 "Free Software is about the freedoms you receive with the software, not about the price. Likewise publishing a book under a free culture license does not mean you have the right to get a gratis copy of the book or ebook. It means you get the rights described above, which enable society to benefit further from this book, as it should from all cultural works.\n"
@@ -450,10 +433,10 @@ msgid ""
 "Society should support those who respect others’ freedom."
 msgstr ""
 "<emphasis role=\"bold\">Vrij als in vrijheid</emphasis>\n"
-"Vrije Software gaat over de vrijheden die je met de software ontvangt, niet over de prijs. Zo betekent het publiceren van een boek onder een vrije culturele licentie niet dat je het recht hebt om een gratis kopie van het boek of e-book te ontvangen. Het betekent dat je de hierboven beschreven rechten ontvangt, zodat de samenleving er baat bij heeft, zoals voor alle cultuur zou moeten gelden.\n"
+"Vrije Software gaat over de vrijheden die je met de software ontvangt, niet over de prijs. Zo betekent het publiceren van een boek onder een vrije culturele licentie niet dat je het recht hebt om een gratis kopie van het boek of e-book te ontvangen. Het betekent dat je de hierboven beschreven rechten ontvangt, zodat de samenleving er baat bij heeft, zoals dat voor alle culturele uitingen zou moeten gelden.\n"
 "\n"
-"We moedigen je aan om auteurs, uitgevers en anderen te steunen die betrokken zijn bij de creatie van cultuur onder vrije licenties, inclusief <emphasis role=\"bold\">financiële steun door aankopen of donaties</emphasis>.\n"
-"De samenleving zou degenen die vrijheid van de anderen respecteren moeten steunen."
+"We moedigen je aan om auteurs, uitgevers en anderen te steunen die betrokken zijn bij de creatie van cultuur onder vrije licenties, inclusief <emphasis role=\"bold\">financiële steun door aankopen of donaties</emphasis>. (<link xlink:href=\"https://fsfe.org/donate\">https://fsfe.org/donate</link>)\n"
+"De samenleving zou degenen moeten steunen die vrijheid van anderen respecteren."
 
 #. (itstool) path: info/title
 #. Page next to the colophon with title, subtitle, authors and
@@ -466,19 +449,13 @@ msgstr "Titelpagina"
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:459
-#, fuzzy
 msgid ""
 "Matthias Kirschner, Sandra Brandstätter - ADA &amp; ZANGEMANN - A Tale of "
 "Software, Skateboards and Raspberry Ice Cream. Title in the middle, authors "
 "in the upper left. In the lower right, Ada’s family’s dog with gray fur and "
 "some white patches and with a red collar with shiny yellow LEDs, which wags "
 "its tail."
-msgstr ""
-"Matthias Kirschner, Sandra Brandstätter - ADA &amp; ZANGEMANN - Een verhaal "
-"over software, skateboards en frambozenijs. Titel in het midden, auteurs "
-"linksboven. Rechtsonderin Ada's familiehond, met een grijze vacht met enkele "
-"witte vlekken en met een rode halsband met brandende gele leds, die kwispelt "
-"met de staart."
+msgstr "Matthias Kirschner, Sandra Brandstätter - ADA &amp; ZANGEMANN - Een verhaal over software, skateboards en frambozenijs. Titel in het midden, auteurs linksboven. Rechtsonderin Ada's familiehond, met een grijze vacht met enkele witte vlekken en met een rode halsband met brandende gele leds, die kwispelt met de staart."
 
 #. (itstool) path: mediaobject/alt
 #. ignore-same
@@ -1146,17 +1123,12 @@ msgstr ""
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:640
-#, fuzzy
 msgid ""
 "The city in the evening, with houses, a church, and two streetlights. Images "
 "emerge from the dwellings illustrating Zangemann’s inventions bought by the "
 "inhabitants: a washing machine, a yellow vacuum cleaner, and a red car, all "
 "with Internet connection signals."
-msgstr ""
-"De stad in de avond met huizen, een kerk en twee lantaarnpalen. Afbeeldingen "
-"verschijnen uit de woningen die Zangemann's uitvindingen illustreren gekocht "
-"door de inwoners: een wasmachine, een gele stofzuiger en een rode auto, "
-"allemaal met signalen voor de verbinding met het internet."
+msgstr "De stad in de avond met huizen, een kerk en twee lantaarnpalen. Afbeeldingen verschijnen uit de woningen die Zangemann's uitvindingen illustreren gekocht door de inwoners: een wasmachine, een gele stofzuiger en een rode auto, allemaal met signalen voor de verbinding met het internet."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1576,18 +1548,14 @@ msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:747
+#, fuzzy
 msgid ""
 "Several failed attempts later, on the last day of summer break, the time had "
 "finally come. Ada stood on the skateboard and pressed the Go! button, and "
 "the skateboard started moving, slowly at first, then faster. It worked! She "
 "tried to brake. It worked! Ada let out a cry of joy and took a trip to the "
 "park."
-msgstr ""
-"Meerdere mislukte pogingen later, op de laatste vakantiedag, ging Ada "
-"opnieuw op het skateboard staan en drukte op de Ga!-knop. Het skateboard "
-"begon langzaam te bewegen en daarna sneller. Het werkte! Ze probeerde te "
-"remmen. Het lukte! Ada juichte van plezier en nam een uitstapje naar het "
-"park."
+msgstr "Meerdere mislukte pogingen later, op de laatste vakantiedag, ging Ada opnieuw op het skateboard staan en drukte op de Ga!-knop. Het skateboard begon langzaam te bewegen en daarna sneller. Het werkte! Ze probeerde te remmen. Het lukte! Ada juichte van plezier en nam een uitstapje naar het park."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1812,12 +1780,11 @@ msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:798
+#, fuzzy
 msgid ""
 "Together, they changed the software for the speakers too. Then they turned "
 "up the music as loud as possible and danced wildly together."
-msgstr ""
-"Samen veranderden ze daarop de software voor de speakers. Ze speelden de "
-"muziek zo hard mogelijk en dansten samen wild op de muziek."
+msgstr "Samen veranderden ze daarop de software voor de speakers. Ze speelden de muziek zo hard mogelijk en dansten samen wild op de muziek."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -2471,14 +2438,12 @@ msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:984
+#, fuzzy
 msgid ""
 "While the others continued partying late into the night, Ada and her friends "
 "slipped away to their workshop. They already had a lot of ideas for new "
 "inventions. And they wanted to start right away."
-msgstr ""
-"Terwijl anderen tot laat in de nacht bleven feesten, knepen Ada, Toni, Marie "
-"en Bram ertussenuit naar hun werkplaats. Ze hadden al veel ideeën voor "
-"nieuwe uitvindingen en wilden er direct mee beginnen."
+msgstr "Terwijl anderen tot laat in de nacht bleven feesten, knepen Ada, Toni, Marie en Bram ertussenuit naar hun werkplaats. Ze hadden al veel ideeën voor nieuwe uitvindingen en wilden er direct mee beginnen."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
