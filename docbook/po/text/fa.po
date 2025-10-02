@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
 "PO-Revision-Date: 2025-10-03 14:26+0000\n"
-"Last-Translator: Hedie Hamdamian <hamdamiyan@gmail.com>\n"
+"Last-Translator: Setayesh Naderian <setayesh.naderian@gmail.com>\n"
 "Language-Team: Persian <https://hosted.weblate.org/projects/fsfe/ada-zangemann/fa/>\n"
 "Language: fa\n"
 "MIME-Version: 1.0\n"
@@ -950,7 +950,7 @@ msgid ""
 "is typing on a white keyboard with a blue cable, while her other hand enters "
 "the screen to change the program (“print(msg)”, “a+b+c+d=e”, “if”, “break”, "
 "“continue”, “exit()”). Next to the keyboard there are a pencil and an eraser."
-msgstr ""
+msgstr "صفحه نمایش کامپیوتری که عناصر زبان برنامه‌نویسی به صورت نمادین از آن پدیدار می‌شن: «while num > 0»، «init»، «sx=42»، «for»، «v**3». ادا در حال تایپ روی یک صفحه‌کلید سفید با کابل آبیه، در حالی که دست دیگرش وارد صفحه می‌شه تا برنامه را تغییر بده(«print(msg)»، «a+b+c+d=e»، «if»، «break»، «continue»، «exit()»). در کنار صفحه‌کلید یک مداد و پاک‌کن وجود داره."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:699
@@ -1009,7 +1009,7 @@ msgid ""
 "gray wire and plug. On the table there are also: 3 books, of which one is "
 "open; a clipboard and a pencil; pliers; glue; solder; and a disconnected "
 "soldering iron."
-msgstr ""
+msgstr "ادا کم‌کم با برنامه‌نویسی آشنا می‌شه. او روی کیبوردی که روی یک زیرانداز خاکستری قرار داره و با یک کابل آبی به یک گوشی هوشمند متصله، تایپ می‌کنه. گوشی هوشمند با یک سیم قرمز به یک کارت الکترونیکی با یک لامپ ال ای دی زرد متصله. گوشی هوشمند توسط یک ترانسفورماتور متصل به یک پریز برق با سیم خاکستری و دوشاخه تغذیه می‌شه. روی میز همچنین موارد زیر هم وجود داره: ۳ کتاب که یکی از اونا بازه؛ یک تخته شاسی و یک مداد؛ انبردست؛ چسب؛ لحیم؛ و یک هویه جدا شده."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:715
@@ -1026,7 +1026,7 @@ msgstr "آدا همچنین ایده‌ای برای برنامهٔ بعدی ک�
 msgid ""
 "Zangemann looks thoughtfully with his arms crossed out one of the great "
 "windows of his house, into which the sun’s rays are shining."
-msgstr ""
+msgstr "زنگمن با دست‌های ضربدری‌شده، با نگاهی متفکر از یکی از پنجره‌های بزرگ خانه‌اش به بیرون خیره شده؛ جایی که پرتوهای خورشید به داخل می‌تابند و فضا را روشن کرده‌اند."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:728
@@ -1204,6 +1204,8 @@ msgid ""
 "there is a blue bottle with white polka dots. A yellow Zangemann skateboard "
 "with orange wheels on the side of the diagram actually hides the number 1."
 msgstr ""
+"یه نقاشی لی‌لی با گچ روی آسفالت کشیده شده. عددها به ترتیب توی خونه‌ها هستن: اول ۱ و ۲ پشت سر هم، بعد ۳ و ۴ کنار هم، بعد ۵ و ۶، و بعد ۷ و ۸ کنار هم. عدد ۹ دیگه توی خونه نیست، بلکه توی یه نیم‌دایره بزرگ‌تره که بعد از خونه‌های ۷ و ۸ قرار گرفته.\n"
+"بین عدد ۱ و ۲ یه بطری آبی با خال‌های سفید دیده می‌شه. یه اسکیت‌برد زرد رنگ از برند Zangemann با چرخ‌های نارنجی هم کنار نقاشی افتاده که در واقع عدد ۱ رو پوشونده."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:781
@@ -1313,7 +1315,7 @@ msgid ""
 "stick; pink fish-shaped ice cream; pyramid-shaped ice cream with candies, "
 "and chocolate syrup, and a cherry on top; rainbow ice cream with a yellow "
 "umbrella; blue ghost-shaped ice cream with candies on it."
-msgstr ""
+msgstr "دست‌هایی که بستنی‌های فوق‌العاده‌ای رو نگه داشتن: بستنی آبی با یه قلب شکلاتی روی اون که وسطش یه قلب زرده و روش خامه زده شده؛ بستنی سبز با ستاره‌های رنگی و یه خیار که روی یه چوب فرو رفته؛ بستنی صورتی به شکل ماهی؛ بستنی هرمی‌شکل با آب‌نبات، سس شکلات و یه گیلاس روی نوکش؛ بستنی رنگین‌کمانی با یه چتر زرد؛ و بستنی آبی به شکل روح با آب‌نبات‌های چسبیده بهش."
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p35-1
@@ -1425,7 +1427,7 @@ msgstr "آن‌ها جلوی یکی از ماشین‌های بستنی‌ساز
 msgid ""
 "Cans of green, blue, and pink paint; a paintbrush with yellow paint; a light "
 "green marker; and a rolled banner on which some blue paint has fallen."
-msgstr ""
+msgstr "چند تا قوطی رنگ سبز، آبی و صورتی روی زمینه؛ یه قلم‌مو که روش رنگ زرده؛ یه ماژیک سبز روشن؛ و یه بنر لوله‌شده که یه کم رنگ آبی روش ریخته. صحنه‌ایه پر از رنگ و آماده برای یه پروژه‌ی خلاقانه!"
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:875
@@ -1466,7 +1468,7 @@ msgstr "روز بعد، اِدا و دوستانش دوباره در مقابل 
 msgid ""
 "Yellow and green paint on the floor and wax crayons yellow, red, blue, green "
 "and brown; the latter 3 are in a gray cardboard box."
-msgstr ""
+msgstr "رنگ زرد و سبز روی زمین پخش شده، و چند تا مداد شمعی هم هستن: زرد، قرمز، آبی، سبز و قهوه‌ای. سه تای آخر، یعنی آبی، سبز و قهوه‌ای که توی یه جعبه مقوایی خاکستری قرار دارن. صحنه‌ایه پر از رنگ و آماده برای یه عالمه خلاقیت!"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:890
@@ -1524,7 +1526,7 @@ msgid ""
 "wreck our tech!” Marie and Toni are walking beneath the banner, and Marie is "
 "talking through a bullhorn held in her hand; Ada’s family’s little dog is "
 "now wearing a red harness with shiny yellow LEDs that matches the collar."
-msgstr ""
+msgstr "جزئیات تصویر قبلی: ادا و کنراد دارن یه بنر با نوشته‌ی \"دست از خرابکاری روی فناوریمون بردار!\" رو حمل می‌کنن. ماری و تونی زیر این بنر راه می‌رن و ماری داره با یه بلندگوی دستی که توی دستشه صحبت می‌کنه. سگ کوچولوی خانواده‌ی ادا حالا یه قلاده قرمز با چراغ‌های LED زرد براق پوشیده که با گردنبندش ست شده."
 
 #. (itstool) path: info/excerpt
 #. Text on square signe on the right of the illustration
@@ -1579,7 +1581,7 @@ msgid ""
 "typing on a laptop. He has wavy brown hair parted in the center, a red "
 "sweatshirt, blue pants, and white socks but no shoes. Next to the computer "
 "there are a green cup and two open books."
-msgstr ""
+msgstr "یکی از دوست‌های ادا روی شکم دراز کشیده، یه پاش رو هم هواست، و داره با لپ‌تاپ تایپ می‌کنه. موهاش قهوه‌ای و موج‌دارن و از وسط فرق داده. یه سویشرت قرمز پوشیده، با شلوار آبی و جوراب‌های سفید، ولی کفش نداره. کنار لپ‌تاپش یه لیوان سبز و دو تا کتاب باز دیده می‌شن."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:934
@@ -1619,7 +1621,7 @@ msgid ""
 "has a laptop on her legs with an FSFE logo sticker (three stars: pea green, "
 "sky blue, and sea blue). On the floor are a bowl with candy and a plate with "
 "ice creams. The President’s phone is ringing, but nobody is answering."
-msgstr ""
+msgstr "ادا و دوستاش توی دفتر رئیس‌جمهور هستن. ادا مشغول برنامه‌نویسی دوباره‌ی کامپیوتر رئیس‌جمهوره. تونی داره یه بلندگو برای منشی رئیس‌جمهور نصب می‌کنه. ماری و کنراد روی زمین نشستن و دارن با هم صحبت می‌کنن؛ لپ‌تاپ ماری روی پاشه و یه برچسب FSFE روش چسبونده شده که سه تا ستاره داره: سبز نخودی، آبی آسمونی و آبی دریایی. روی زمین یه کاسه پر از آب‌نبات و یه بشقاب بستنی دیده می‌شه. تلفن رئیس‌جمهور زنگ می‌زنه، ولی هیچ‌کس جواب نمیده."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:949
@@ -1646,7 +1648,7 @@ msgstr "<phrase condition=\"capitals-text\">صبح</phrase><phrase condition=\"c
 msgid ""
 "A herald, wearing a hat with a plume, playing a trumpet on which a red "
 "banner is hung."
-msgstr ""
+msgstr "یک جارچی با کلاهی که یک پر تزئینی روی آن قرار دارد، در حال نواختن شیپور است؛ شیپوری که یک پرچم قرمز از آن آویزان شده. صحنه‌ای پر از شکوه و حس اعلامیه‌های مهم، انگار خبری بزرگ در راه است!"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:959
@@ -1691,7 +1693,7 @@ msgid ""
 "firmly holds the ladder on which Marie is standing. Ada is standing on a "
 "chair and holds a copy of the new law bearing a seal. Ada’s dog is sitting "
 "in front of her."
-msgstr ""
+msgstr "رئیس‌جمهور همراه با تونی، کنراد، ماری، ادا و یه جارچی که داره شیپور می‌زنه، در صحنه حضور دارن. ماری بالای یه نردبون ایستاده و با میکروفن صحبت می‌کنه، در حالی که کنراد محکم نردبون رو گرفته تا تعادلش حفظ بشه. ادا روی یه صندلی ایستاده و یه نسخه از قانون جدید رو که مهر رسمی روش خورده، در دست داره. سگ کوچولوی ادا هم جلوی صندلی نشسته و با دقت به اطراف نگاه می‌کنه."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:975
@@ -1713,7 +1715,7 @@ msgid ""
 "yellow and orange flags are hanging; music comes out from a large speaker "
 "system; Ms. Gernet holds a pink tree-shaped ice cream with a yellow star on "
 "it; Ada’s mom is dancing with a gentleman."
-msgstr ""
+msgstr "مهمونی عصرونه‌ست. بچه‌ها بستنی دستشونه و بادکنک‌هایی گرفتن که روش نوشته شده «من عاشق نرم‌افزار آزاد هستم». یه عده دیگه از بچه‌ها دارن اسکیت‌سواری می‌کنن. پرچم‌های زرد و نارنجی از بالا آویزونن و موسیقی از یه سیستم صوتی بزرگ پخش می‌شه و فضا رو پر کرده. خانم گرنت یه بستنی صورتی به شکل درخت گرفته که یه ستاره زرد روشه. مامان آدا هم با یه آقا مشغول رقصه."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:984
@@ -1733,7 +1735,7 @@ msgid ""
 "little girl who just took a pink ghost-shaped ice cream from the modified "
 "ice cream machine; Ada’s dog, Konrad, Marie, Ada, and Toni sneaking away "
 "from the party."
-msgstr ""
+msgstr "رئیس‌جمهور، منشی‌اش و چند نفر دیگه دور یه میز نشستن و دارن بستنی‌های عجیب و غریب می‌خورن؛ پرچم‌های زرد و نارنجی از تصویر قبلی همچنان در فضا آویزونن. یه دختر کوچولو تازه یه بستنی صورتی به شکل روح از دستگاه بستنی‌ساز تغییر یافته برداشته. در همین حال، سگ ادا، کنراد، ماری، ادا و تونی دارن یواشکی از مهمونی دور می‌شن."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:995
@@ -1761,14 +1763,14 @@ msgstr "<phrase condition=\"capitals-text\">و</phrase><phrase condition=\"capit
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:1004
 msgid "Ada’s little dog sniffing a trail of ice cream."
-msgstr "سگ کوچک آدا ردی از بستنی را بو می‌کشد."
+msgstr "سگ کوچک ادا ردی از بستنی را بو می‌کشد."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:1013
 msgid "A trail of candies and raspberry ice cream on the ground."
-msgstr ""
+msgstr "ردی از آب‌نبات‌ها و بستنی تمشکی روی زمین کشیده شده."
 
 #. (itstool) path: info/title
 #. (itstool) id: Ada_Zangemann.dbk#title-acknowledgments
@@ -1818,7 +1820,7 @@ msgid ""
 "Ada’s dog wags its tail after finding Zangemann hidden behind a curtain and "
 "eating an ice cream cone with candies and a blue umbrella on it and lots of "
 "raspberry ice cream dripping."
-msgstr ""
+msgstr "سگ ادا با خوشحالی دمش رو تکون میده، چون پشت پرده زنگمن رو پیدا کرده که یواشکی داره یه بستنی قیفی خوشمزه می‌خوره؛ بستنی‌ای پر از آبنبات، یه چتر آبی کوچولو روی اون، و کلی بستنی تمشکی که ازش چکه می‌کنه."
 
 #. (itstool) path: info/title
 #. (itstool) id: Ada_Zangemann.dbk#title-author
@@ -1845,7 +1847,7 @@ msgstr "درباره نویسنده - ماتیاس کیرشنر"
 msgid ""
 "Close-up of Matthias smiling, waving with one hand, and wearing a headset. "
 "Matthias has short hair and a little beard."
-msgstr ""
+msgstr "ماتیس از نزدیک دیده می‌شه؛ لبخند به لب داره، با یه دستش داره دست تکون میده، و یه هدست روی گوشش گذاشته. موهاش کوتاهه و یه ریش کم‌پشت داره. حالت چهره‌اش پر از انرژی مثبته، انگار داره با کسی خوش‌آمد می‌گه یا توی یه تماس تصویری دوستانه‌ هست."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1064
@@ -1882,7 +1884,7 @@ msgstr ""
 msgid ""
 "Sandra smiling with a pencil in her hand in front of her chin. She has "
 "earphones with an integrated microphone. Sandra has short hair and glasses."
-msgstr ""
+msgstr "ساندرا با لبخندی دلنشین دیده می‌شه؛ یه مداد رو جلوی چونه‌اش گرفته، انگار داره فکر می‌کنه یا آماده‌ی نوشتنه. هدفون‌هایی با میکروفون داخلی روی گوششه. موهاش کوتاهه و عینک به چشم داره. حالت چهره‌اش پر از تمرکز و آرامشه، انگار توی یه جلسه‌ی آنلاین یا در حال برنامه‌ریزی برای یه پروژه‌ی خلاقانه‌ست."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1087
@@ -1948,7 +1950,7 @@ msgstr ""
 msgid ""
 "A hand that holds a fish-shaped ice cream cone with a cucumber on a "
 "decorated toothpick, to color. In a bottom corner, a pencil writing."
-msgstr ""
+msgstr "«دستی دیده می‌شه که یه بستنی قیفی به شکل ماهی رو گرفته؛ روی بستنی یه خیار کوچولو با خلال تزئینی قرار داره. همه چیز آماده‌ی رنگ‌آمیزی‌یه! در گوشه‌ی پایین تصویر، یه مداد در حال نوشتنه."
 
 #. (itstool) path: simplesect/literallayout
 #. In a literallayout element all space and newline characters are kept.
