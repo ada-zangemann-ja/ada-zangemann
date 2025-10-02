@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
 "PO-Revision-Date: 2025-10-03 14:26+0000\n"
-"Last-Translator: Roustapour <parsaroustapour@gmail.com>\n"
+"Last-Translator: Parsa Ranjbar <p.ranjbar@anche.no>\n"
 "Language-Team: Persian <https://hosted.weblate.org/projects/fsfe/ada-zangemann/fa/>\n"
 "Language: fa\n"
 "MIME-Version: 1.0\n"
@@ -500,7 +500,7 @@ msgid ""
 "robot and a block-sorting machine so that his room would always be neat and "
 "clean. Zangemann had great new ideas like these every day. He could think of "
 "nothing else."
-msgstr ""
+msgstr "<phrase condition=\"capitals-text\">رایانه‌ها<phrase condition=\"capitals-img\"></phrase> از کودکی زنگمان را شیفته خود کرده بودند. وقتی او کوچک بود، رایانه‌ها دستگاه‌هایی عظیم با کلی کابل و فن‌های پر سر و صدای بلند بودند. در مدرسه، زنگمان کوچک اغلب رؤیای کارهایی را می‌دید که اگر رایانه‌ها فقط کمی کوچک‌تر بودند می‌توانست با آن‌ها انجام دهد. آنقدر کوچک که بشود آن‌ها را در چیزهای سرگرم‌کننده دیگری ساخت. او می‌دانست چه کار خواهد کرد. اول از همه، او یک رایانه را در اسکیت‌بوردش کار می‌گذاشت تا هنگام سوار شدن، صداهای جالبی از خود تولید کند. شاید صدای آژیر ماشین آتش‌نشانی یا صدای پرتاب موشک. سپس از یک رایانه برای اختراع دستگاه‌های ساخت بستنی استفاده می‌کرد! رایانه باحال‌ترین طعم‌ها را مخلوط می‌کرد و حتی بستنی را می‌فروخت. در هر گوشه خیابان دستگاه‌هایی وجود داشت و او می‌توانست هر وقت که دلش می‌خواست، بستنی با طعم مورد علاقه‌اش و به هر اندازه‌ای که می‌خواست، تهیه کند. بعد از آن، او یک ربات تمیزکننده و یک دستگاه مرتب‌سازی بلوک‌ها می‌ساخت تا اتاقش همیشه مرتب و تمیز باشد. زنگمان هر روز ایده‌های جدید و بزرگی مانند این‌ها داشت. او به هیچ چیز دیگری نمی‌توانست فکر کند."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:528
@@ -596,7 +596,7 @@ msgid ""
 "rode around on the cool skateboards. Ada was often sad, since her mother "
 "couldn’t buy her any of those great things: no skateboard, no speakers, no "
 "ice cream."
-msgstr ""
+msgstr "این اختراعات در مدرسه آدا بسیار محبوب بودند و بسیاری از دوستانش با اسکیت‌بوردهای باحال اینور و اونور می‌رفتند. آدا اغلب ناراحت بود، چون مادرش نمی‌توانست هیچ‌کدام از آن وسایل عالی را برایش بخرد: نه اسکیت‌بورد، نه اسپیکر، نه بستنی."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:564
@@ -608,7 +608,7 @@ msgid ""
 "many useful items—an old cell phone, for example. The screen was cracked, "
 "but she could fix that, and while there wasn’t internet at the junkyard, she "
 "could get access somewhere else."
-msgstr ""
+msgstr "خوشبختانه، آدا درست کنار اوراقچی زندگی می‌کرد. آنجا پر از ابزارک‌های خراب و قطعات زنگ‌زده بود، که او آن‌ها را سر هم می‌کرد تا چیزهای جدید و جالبی بسازد، مثل یک ماشین چوبی (سوباکس) که او و آلن با غرش از تپه پایین می‌راندند، یک آسیاب بادی، و هیولاهای ترسناک اوراقی، که او و آلن با هم با آن‌ها مبارزه می‌کردند. او همچنین وسایل مفید زیادی پیدا می‌کرد—مثلاً یک تلفن همراه قدیمی. صفحه نمایش آن شکسته بود، اما می‌توانست آن را تعمیر کند، و اگرچه در اوراقچی اینترنت نبود، می‌توانست در جای دیگری به آن دسترسی پیدا کند."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:565
@@ -625,7 +625,7 @@ msgid ""
 "computer with a keyboard made of jewels and set it up in the largest room of "
 "his mansion. From there, over the internet, he could control all the little "
 "computers built into his inventions."
-msgstr "چون همه اختراعات زانگمن رو خریدن، خیلی زود شد پولدارترین آدم دنیا. با اون همه پولش، یه کامپیوتر طلایی گنده خرید با کیبوردی که از جواهر درست شده بود و گذاشتش توی بزرگ‌ترین اتاق عمارتش. از همون‌جا، با اینترنت می‌تونست همه کامپیوترای کوچیکی رو که توی اختراعاتش کار گذاشته بود کنترل کنه."
+msgstr "چون همه اختراعات زانگمن رو خریدن، خیلی زود شد پولدارترین آدم دنیا. با اون همه پولش، یه کامپیوتر طلایی گنده خرید با کیبوردی که از جواهر درست شده بود و گذاشتش توی بزرگ‌ترین اتاق عمارتش. از همون‌جا، با اینترنت می‌تونست همه کامپیوترهای کوچیکی رو که توی اختراعاتش کار گذاشته بود کنترل کنه."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:570
@@ -638,7 +638,7 @@ msgid ""
 "was always thrilled at how amazingly well his machines worked. Sometimes "
 "people were disappointed when their favorite flavor wasn’t available, but "
 "what could they do? After all, there was ice cream on every street corner."
-msgstr "کافی بود زانگمن فقط دکمه‌ی درست رو روی اون کامپیوتر طلایی فشار بده، همون لحظه همه بستنی‌سازای شهر فقط بستنی وانیلی می‌دادن بیرون. اگه دلش می‌خواست مردم بستنی شکلاتی بخورن، دکمه شکلاتو می‌زد. اگه دستور بستنی لیمویی می‌داد، دستگاها فقط لیمویی درست می‌کردن. زانگمن عاشق اختراعاتش بود و همیشه کیف می‌کرد که چه‌قدر عالی کار می‌کنن. بعضی وقتا مردم حالشون گرفته می‌شد چون طعم مورد علاقه‌شون نبود، ولی خب چیکار می‌تونستن بکنن؟ آخرش که تو هر گوشه خیابون بستنی پیدا می‌شد."
+msgstr "تمام کاری که باید می‌کرد این بود که کلید مناسب را روی کامپیوتر طلایی فشار دهد، و بلافاصله تمام ماشین‌های بستنی‌سازی در شهر فقط بستنی وانیلی می‌دادند. اگر زنگمان می‌خواست مردم بستنی شکلاتی بخورند، کلید بستنی شکلاتی را فشار می‌داد. اگر دستور بستنی لیمویی می‌داد، دستگاه‌ها فقط بستنی لیمویی تولید می‌کردند. زنگمان اختراعاتش را دوست داشت و همیشه از اینکه دستگاه‌هایش چقدر خوب و شگفت‌انگیز کار می‌کنند، هیجان‌زده می‌شد. گاهی اوقات مردم وقتی طعم مورد علاقه‌شان در دسترس نبود، ناامید می‌شدند، اما چه کاری از دستشان برمی‌آمد؟ به هر حال، در هر گوشه خیابان بستنی وجود داشت."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -657,7 +657,7 @@ msgid ""
 "eat ice cream. He spent many hours every day in front of his golden computer "
 "doing this. Again and again, he looked down on the city through a long "
 "telescope, observing how reliably his inventions carried out his commands."
-msgstr ""
+msgstr "زنگمان از فشار دادن کلیدهای براق و تماشای مردم در حال بستنی خوردن، لذت زیادی می‌برد. او هر روز ساعت‌های زیادی را جلوی کامپیوتر طلایی‌اش صرف این کار می‌کرد. او بارها و بارها از طریق یک تلسکوپ بلند به شهر نگاه می‌کرد و مشاهده می‌کرد که اختراعاتش با چه دقتی دستورات او را انجام می‌دهند."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -717,7 +717,7 @@ msgid ""
 "put away his big telescope, then climbed down the many stairs of his mansion "
 "and ventured out into the city, full of anticipation at the thought of "
 "enjoying his cool devices."
-msgstr "یه روز زنگمن با خودش گفت: «امروز دلم می‌خواد از نزدیک ببینم چی اختراع کردم.» تلسکوپ بزرگشو جمع کرد، از پله‌های بلند عمارتش پایین رفت و راه افتاد سمت شهر، پر از هیجان که بالاخره می‌خواد با دستگاه‌های باحال خودش حال کنه."
+msgstr "یه روز زنگمان با خودش گفت: «امروز دلم می‌خواد از نزدیک ببینم چی اختراع کردم.» تلسکوپ بزرگشو جمع کرد، از پله‌های بلند عمارتش پایین رفت و راه افتاد سمت شهر، پر از هیجان که بالاخره می‌خواد با دستگاه‌های باحال خودش حال کنه."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -768,7 +768,7 @@ msgid ""
 "front of him, holding an original Zangemann skateboard under his arm. "
 "“Sorry, I didn’t mean to do that,” the child stammered, but Zangemann wasn’t "
 "listening."
-msgstr "زنگمن یه جیغ کوتاه کشید و دور و برشو نگاه کرد ببینه چی شد. جلوش یه بچه‌ی هراسون وایساده بود که زیر بغلش یه اسکیت‌برد اصل زنگمن رو گرفته بود. بچه با لکنت گفت: «ببخشید… قصد نداشتم این کارو بکنم.» اما زانگمن اصلاً گوش نمی‌داد."
+msgstr "زانگمان فریادی کشید و به اطراف نگاه کرد تا علت را پیدا کند. کودکی هراسان روبروی او ایستاده بود، یک تخته اسکیت اصل زانگمن را زیر بغل داشت. کودک به لکنت گفت: «ببخشید، نمی‌خواستم این کار رو بکنم»، اما زانگمان گوش نمی‌داد."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:625
@@ -779,7 +779,7 @@ msgid ""
 "street was holding it. The child seemed to like the music, but it gave "
 "Zangemann a terrible headache, and his mood worsened. This was not how he "
 "had imagined his walk!"
-msgstr "زنگمن با عصبانیت لنگ‌لنگون راهشو کشید و رفت. یهو یه موزیک خیلی بلند به گوشش رسید. هیچ‌وقت همچین چیز وحشتناکی نشنیده بود! دور و برشو نگاه کرد و دید صدا از یه بلندگویی میاد که خودش ساخته بود. اون طرف خیابون یه بچه داشت بلندگو رو دستش می‌گرفت. به نظر می‌رسید بچه حال می‌کنه با اون آهنگا، ولی برای زنگمن فقط یه سردرد وحشتناک آورد و حالش بدتر شد. اصلاً همچین پیاده‌روی‌ای تو ذهنش تصور نکرده بود!"
+msgstr "زنگمان با عصبانیت لنگ‌لنگون راهشو کشید و رفت. یهو یه موزیک خیلی بلند به گوشش رسید. هیچ‌وقت همچین چیز وحشتناکی نشنیده بود! دور و برشو نگاه کرد و دید صدا از یه بلندگویی میاد که خودش ساخته بود. اون طرف خیابون یه بچه داشت بلندگو رو دستش می‌گرفت. به نظر می‌رسید بچه حال می‌کنه با اون آهنگ‌ها، ولی برای زنگمان فقط یه سردرد وحشتناک آورد و حالش بدتر شد. اصلاً همچین پیاده‌روی تو ذهنش تصور نکرده بود!"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -805,7 +805,7 @@ msgid ""
 "He ordered the small computers in the speakers to play music only at a low "
 "volume, except for his favorite music, which he immediately turned on to get "
 "into a better mood."
-msgstr ""
+msgstr "زنگمان از دست آن دو بچه به شدت عصبانی بود. چطور جرئت کرده بودند از اختراعات او به این شکل استفاده کنند؟ آن شب، خوابش نمی‌برد، بنابراین پشت کامپیوتر طلایی خود نشست. از آنجا، به تمام کامپیوترهای کوچک موجود در اسکیت‌بردها دستوری صادر کرد که دیگر اجازه ندارند در پیاده‌روها حرکت کنند. او همچنین به کامپیوترهای کوچک داخل بلندگوها فرمان داد که موسیقی را فقط با صدای کم پخش کنند، به جز موسیقی مورد علاقه‌اش که فوراً آن را با صدای بلند روشن کرد تا حالش بهتر شود."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -816,7 +816,7 @@ msgid ""
 "emerge from the dwellings illustrating Zangemann’s inventions bought by the "
 "inhabitants: a washing machine, a yellow vacuum cleaner, and a red car, all "
 "with Internet connection signals."
-msgstr "شهر توی غروب، با خونه‌ها، یه کلیسا و دو چراغ خیابون. از خونه‌ها تصاویری بیرون میان که اختراعات زنگمنو نشون می‌ده که ساکنا خریده بودن: یه ماشین لباسشویی، یه جاروبرقی زرد و یه ماشین قرمز، همشون با علامت‌های اتصال به اینترنت."
+msgstr "شهر در هنگام غروب، با خانه‌ها، یک کلیسا، و دو چراغ خیابان. تصاویری از درون خانه‌ها نمایان می‌شوند که اختراعات زنگمان را نشان می‌دهند که توسط ساکنان خریداری شده‌اند: یک ماشین لباسشویی، یک جاروبرقی زرد، و یک خودروی قرمز، که همگی دارای علامت اتصال به اینترنت هستند."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -828,12 +828,12 @@ msgid ""
 "the various devices. In emerging images there are: a red electric "
 "skateboard, a light bulb, an ice cream machine, and a toilet, all of which "
 "are receiving commands from Zangemann."
-msgstr "ادامه‌ی تصویر قبلی، که تو پس‌زمینه تپه‌ای با خونه‌ی زنگمن دیده می‌شه و از آنتنش سیگنال‌هایی میاد که وسایل مختلفو کنترل می‌کنه. توی تصاویر ظاهرشده هستن: یه اسکیت‌برد برقی قرمز، یه لامپ، یه دستگاه بستنی‌ساز و یه توالت، که همه دارن فرمان‌های زنگمنو دریافت می‌کنن."
+msgstr "ادامه‌ی تصویر قبلی، که در پس‌زمینه تپه‌ای به همراه خانه‌ی زانگمان وجود دارد که سیگنال‌های کنترل دستگاه‌های مختلف از آنتن آن ساطع می‌شوند. در تصاویر پدیدار شده، موارد زیر دیده می‌شوند: یک اسکیت‌بورد برقی قرمز، یک لامپ، یک دستگاه بستنی‌ساز و یک توالت، که همگی در حال دریافت فرمان از زانگمان هستند."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:654
 msgid "Skateboards no longer work"
-msgstr "اسکیت بورد دیگر کار نمی کند"
+msgstr "اسکیت بورد دیگر کار نمی‌کند"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p18-1
@@ -844,7 +844,7 @@ msgid ""
 "the way to school, the kids’ skateboards had stopped working. The wheels "
 "simply stood still. And the children could no longer turn up the volume on "
 "their speakers. What was going on?"
-msgstr ""
+msgstr "<phrase condition=\"capitals-text\">روز بعد<phrase condition=\"capitals-img\"></phrase>، در مدرسۀ آدا هیاهوی بزرگی بود. در راه مدرسه، اسکیت‌بردهای بچه‌ها از کار افتاده بودند. چرخ‌ها به سادگی ثابت مانده بودند. و کودکان دیگر نمی‌توانستند صدای بلندگوهایشان را زیاد کنند. چه اتفاقی داشت می‌افتاد؟"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -871,7 +871,7 @@ msgid ""
 "spend her money on bus tickets to work. For her brother, Ada built a "
 "loudspeaker so he could fall asleep to nice stories in the evenings when "
 "their mother was still at work."
-msgstr ""
+msgstr "اگرچه آدا صاحب هیچ‌کدام از این وسایل نبود، اما تعجب می‌کرد که چرا اسکیت‌بوردها و بلندگوها ناگهان از کار افتادند. با این حال، او واقعاً وقت زیادی برای فکر کردن به این موضوع نداشت، چون دوباره مشغول ور رفتن و تعمیرکاری بود. او از قطعات سه دوچرخه‌ی خراب، یک دوچرخه‌ی کامل سر هم کرد. آدا دوچرخه را به عنوان هدیه به مادرش داد تا او مجبور نباشد پولش را صرف بلیط اتوبوس برای رفتن به سر کار کند. برای برادرش نیز، آدا یک بلندگو ساخت تا او بتواند عصرها که مادرشان هنوز سر کار بود، با قصه‌های خوب به خواب برود."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -890,7 +890,7 @@ msgid ""
 "worked. And so now the children rode in circles around the playground and "
 "listened to soft music. Only a strange, pompous marching music continued to "
 "play at an unchanged volume, which the children found rather puzzling."
-msgstr ""
+msgstr "بعد از چند روز، شوک اولیه در مدرسهٔ آدا فراموش شد. اسکیت‌بردها هنوز هم نمی‌توانستند روی پیاده‌رو بروند، اما به جز آن، همچنان کار می‌کردند. و بنابراین اکنون بچه‌ها دور زمین بازی چرخ می‌زدند و به موسیقی ملایمی گوش می‌دادند. تنها یک موسیقی مارش عجیب و متکبرانه با همان حجم صدای ثابت به پخش شدن ادامه می‌داد، که برای بچه‌ها کاملاً گیج‌کننده بود."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:680
