@@ -779,7 +779,7 @@ msgid ""
 "street was holding it. The child seemed to like the music, but it gave "
 "Zangemann a terrible headache, and his mood worsened. This was not how he "
 "had imagined his walk!"
-msgstr ""
+msgstr "زنگمن با عصبانیت لنگ‌لنگون راهشو کشید و رفت. یهو یه موزیک خیلی بلند به گوشش رسید. هیچ‌وقت همچین چیز وحشتناکی نشنیده بود! دور و برشو نگاه کرد و دید صدا از یه بلندگویی میاد که خودش ساخته بود. اون طرف خیابون یه بچه داشت بلندگو رو دستش می‌گرفت. به نظر می‌رسید بچه حال می‌کنه با اون آهنگا، ولی برای زنگمن فقط یه سردرد وحشتناک آورد و حالش بدتر شد. اصلاً همچین پیاده‌روی‌ای تو ذهنش تصور نکرده بود!"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -816,7 +816,7 @@ msgid ""
 "emerge from the dwellings illustrating Zangemann’s inventions bought by the "
 "inhabitants: a washing machine, a yellow vacuum cleaner, and a red car, all "
 "with Internet connection signals."
-msgstr ""
+msgstr "شهر توی غروب، با خونه‌ها، یه کلیسا و دو چراغ خیابون. از خونه‌ها تصاویری بیرون میان که اختراعات زنگمنو نشون می‌ده که ساکنا خریده بودن: یه ماشین لباسشویی، یه جاروبرقی زرد و یه ماشین قرمز، همشون با علامت‌های اتصال به اینترنت."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
