@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
 "PO-Revision-Date: 2025-10-03 14:26+0000\n"
-"Last-Translator: Parsa Ranjbar <p.ranjbar@anche.no>\n"
+"Last-Translator: matin eshtiagh <matin.eshtiagh@gmail.com>\n"
 "Language-Team: Persian <https://hosted.weblate.org/projects/fsfe/ada-zangemann/fa/>\n"
 "Language: fa\n"
 "MIME-Version: 1.0\n"
@@ -115,7 +115,7 @@ msgstr "تونی"
 #. ignore-same
 #: Ada_Zangemann.dbk:294
 msgid "Konrad"
-msgstr "کنارد"
+msgstr "(itstool) path: character/charactername نام شخصیت‌ها بیشتر به افراد موجود در تاریخ رایانه یا علم اشاره دارند، اما اگر بخواهید آن‌ها را تغییر دهید تا برای کودکان قابل‌ارتباط‌تر باشند، بهتر است نام‌هایی انتخاب کنید که همچنان رایج باشند ولی به شخصیت‌های مهم در تاریخ رایانه مرتبط باشند. اگر در این زمینه مشکلی داشتید، می‌توانید با ماتیاس در تماس باشید. همچنین لطفاً مطمئن شوید که فقط نام‌های مردانه را با نام‌های مردانه و نام‌های زنانه را با نام‌های زنانه جایگزین کنید تا تعادل جنسیتی حفظ شود، یا از نام‌هایی استفاده کنید که می‌توانند هم برای مردان و هم برای زنان به کار روند."
 
 #. (itstool) path: character/charactername
 #. Character names are mostly reference to existing people in computer
@@ -615,7 +615,7 @@ msgstr ""
 msgid ""
 "Ada had so much fun tinkering in the junkyard and fixing broken things that "
 "she forgot all about the skateboards and the ice cream."
-msgstr ""
+msgstr "آدا انقدر توی آشغال‌دونی سرگرم دست‌کاری و درست کردن وسایل خراب شده بود که کلاً یادش رفت اسکیت‌بردا و بستنی رو."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:569
@@ -625,7 +625,7 @@ msgid ""
 "computer with a keyboard made of jewels and set it up in the largest room of "
 "his mansion. From there, over the internet, he could control all the little "
 "computers built into his inventions."
-msgstr ""
+msgstr "چون همه اختراعات زانگمن رو خریدن، خیلی زود شد پولدارترین آدم دنیا. با اون همه پولش، یه کامپیوتر طلایی گنده خرید با کیبوردی که از جواهر درست شده بود و گذاشتش توی بزرگ‌ترین اتاق عمارتش. از همون‌جا، با اینترنت می‌تونست همه کامپیوترای کوچیکی رو که توی اختراعاتش کار گذاشته بود کنترل کنه."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:570
