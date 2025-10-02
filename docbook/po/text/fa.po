@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
 "PO-Revision-Date: 2025-10-03 14:26+0000\n"
-"Last-Translator: keyvan dehghani <oook1ooo@users.noreply.hosted.weblate.org>\n"
+"Last-Translator: o-lieh <olia7nr@gmail.com>\n"
 "Language-Team: Persian <https://hosted.weblate.org/projects/fsfe/ada-zangemann/fa/>\n"
 "Language: fa\n"
 "MIME-Version: 1.0\n"
@@ -1226,7 +1226,7 @@ msgid ""
 "new, cool features. Marie attached colorful LED lights to her board that "
 "glowed different colors depending on the speed. Konrad built old propellers "
 "onto his skateboard for extra speed."
-msgstr ""
+msgstr "ولی همه‌اش این نبود. با اون نرم‌افزار اونا میتونستند به اسکیت‌برد هاشون قابلیت های جدید و باحال اضافه کنند. ماری به اسکیت‌برد خود لامپ های LED رنگی رنگی وصل کرد  که وابسته به سرعت نور های مختلفی  میداد. کنراد برای سرعت بیشتر پره های قدیمی خود را به اسکیت بردش وصل کرد."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1371,14 +1371,14 @@ msgid ""
 "computers were programmed by Zangemann. Without the computers, the "
 "government would not be able to run the country. So they passed the law as "
 "Zangemann requested:"
-msgstr ""
+msgstr "رئیس جمهور نمیخواست زانگمن را ناراحت کن. همه‌ی کامپیوتر های دولت توسط زانگمن برنامه‌نویسی شده بودند. بدون کامپیوتر ها دولت نمیتونست کشور را اداره کند. پس به درخواست زانگمن این قانون رو تصویب کرد:"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:851
 msgid ""
 "“All computers that do not listen to Zangemann are banned. Anyone who "
 "reprograms Zangemann’s devices will be fined 500,000 gold pieces!”"
-msgstr ""
+msgstr "\"همه‌ی کامپیوتر هایی که به حرف زنگمن گوش نمیدهند، از دسترس خارج میشوند. هر کسی که برنامه‌ی دستگاه های زنگمن رو بازنویسی کند، 500,000 سکه‎‌ی طلا باید بپردازد!\""
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
