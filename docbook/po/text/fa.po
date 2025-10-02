@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
 "PO-Revision-Date: 2025-10-03 14:26+0000\n"
-"Last-Translator: matin eshtiagh <matin.eshtiagh@gmail.com>\n"
+"Last-Translator: Roustapour <parsaroustapour@gmail.com>\n"
 "Language-Team: Persian <https://hosted.weblate.org/projects/fsfe/ada-zangemann/fa/>\n"
 "Language: fa\n"
 "MIME-Version: 1.0\n"
@@ -717,7 +717,7 @@ msgid ""
 "put away his big telescope, then climbed down the many stairs of his mansion "
 "and ventured out into the city, full of anticipation at the thought of "
 "enjoying his cool devices."
-msgstr ""
+msgstr "یه روز زنگمن با خودش گفت: «امروز دلم می‌خواد از نزدیک ببینم چی اختراع کردم.» تلسکوپ بزرگشو جمع کرد، از پله‌های بلند عمارتش پایین رفت و راه افتاد سمت شهر، پر از هیجان که بالاخره می‌خواد با دستگاه‌های باحال خودش حال کنه."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -740,7 +740,7 @@ msgid ""
 "Zangemann pondered. “But my ice-cream machines are and will remain second to "
 "none,” he thought immediately afterward, and not without pride, as he passed "
 "a group of people all eating coconut ice cream, the flavor of the day."
-msgstr ""
+msgstr "«شاید یه گردش کوچیک چندتا ایده‌ی تازه هم بهم بده. راستشو بخوای، اختراع‌های آخرم اون‌قدر به درد بخور نبودن که اولی‌ها بودن...» زنگمن با خودش فکر کرد. «ولی دستگاه‌های بستنی‌سازم بی‌رقیب بودن و همیشه بی‌رقیب هم می‌مونن»، بلافاصله با غرور تو دلش گفت، همون‌طور که از کنار یه گروه آدم رد می‌شد که همگی داشتن بستنی نارگیلی می‌خوردن ، طعم مخصوص امروز بود."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:615
@@ -748,6 +748,9 @@ msgid ""
 "He was completely absorbed in his thoughts when suddenly — BAM! — something "
 "crashed into his shin."
 msgstr ""
+"اون حسابی تو تفکراتش غرق شده بود که یکدفعه....\n"
+"بَممممممب!!!\n"
+"یه چیزی خورد به ساق پاش."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
