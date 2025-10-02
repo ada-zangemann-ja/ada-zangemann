@@ -638,7 +638,7 @@ msgid ""
 "was always thrilled at how amazingly well his machines worked. Sometimes "
 "people were disappointed when their favorite flavor wasn’t available, but "
 "what could they do? After all, there was ice cream on every street corner."
-msgstr ""
+msgstr "کافی بود زانگمن فقط دکمه‌ی درست رو روی اون کامپیوتر طلایی فشار بده، همون لحظه همه بستنی‌سازای شهر فقط بستنی وانیلی می‌دادن بیرون. اگه دلش می‌خواست مردم بستنی شکلاتی بخورن، دکمه شکلاتو می‌زد. اگه دستور بستنی لیمویی می‌داد، دستگاها فقط لیمویی درست می‌کردن. زانگمن عاشق اختراعاتش بود و همیشه کیف می‌کرد که چه‌قدر عالی کار می‌کنن. بعضی وقتا مردم حالشون گرفته می‌شد چون طعم مورد علاقه‌شون نبود، ولی خب چیکار می‌تونستن بکنن؟ آخرش که تو هر گوشه خیابون بستنی پیدا می‌شد."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
