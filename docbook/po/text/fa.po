@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
 "PO-Revision-Date: 2025-10-03 14:26+0000\n"
-"Last-Translator: Sahar <sahargarmsiri96@gmail.com>\n"
+"Last-Translator: Hedie Hamdamian <hamdamiyan@gmail.com>\n"
 "Language-Team: Persian <https://hosted.weblate.org/projects/fsfe/ada-zangemann/fa/>\n"
 "Language: fa\n"
 "MIME-Version: 1.0\n"
@@ -377,7 +377,7 @@ msgstr ""
 msgid ""
 "ADA &amp; ZANGEMANN - A Tale of Software, Skateboards and Raspberry Ice "
 "Cream. Title in the middle, authors in the upper left."
-msgstr ""
+msgstr "داستانی از نرم افزار، اسکیت برد و بستنی تمشکی. عنوان در وسط، نویسندگان در بالا سمت چپ."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -454,7 +454,7 @@ msgid ""
 "veranda there are a mattress, a red oil drum, and a gray case. Behind the "
 "house there are piles of landfill objects among which you can see a washing "
 "machine, a car, and various wooden boards."
-msgstr ""
+msgstr "در پیش‌زمینه‌ی تصویر، آدا در حال ترک خانه برای رفتن به مدرسه است و در پس‌زمینه، خانه‌ی او و انباری از زباله‌ها دیده می‌شود. آدا یک کوله‌پشتی قهوه‌ای با بندهای زرد روی شانه دارد. در سمت چپ او، یک خودروی قرمز فولکس‌واگن بیتل بدون چرخ و از کار افتاده قرار گرفته است؛ تنها یکی از چراغ‌های جلو آن با سیم‌هایش آویزان مانده است .جلوی ماشین، دو تایر، دو جعبه – که یکی از آن‌ها جعبه‌ای چوبی با سطلی افتاده روی زمین است – و یک قوطی خالی در میان چند گیاه با گل‌های زرد دیده می‌شود.در پس‌زمینه، خانه‌ی آدا قرار دارد. مادر و برادرش آلن در حال دست تکان دادن برای خداحافظی هستند و سگ خانواده روی زمین نشسته است. آلن روی دو پله‌ی ورودی خانه نشسته، موهای کوتاه و تیره دارد و پیراهن سفید آستین‌کوتاهی به تن کرده که لبه‌ی آستین‌ها و پایین آن با نوارهای قرمز تزئین شده است. او شلوارک آبی پوشیده و پابرهنه است"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
