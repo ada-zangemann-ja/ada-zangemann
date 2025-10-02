@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
 "PO-Revision-Date: 2025-10-03 14:26+0000\n"
-"Last-Translator: Armila Zarifi <armilazarifi84@gmail.com>\n"
+"Last-Translator: Artemis Zarifi <artizarifi@gmail.com>\n"
 "Language-Team: Persian <https://hosted.weblate.org/projects/fsfe/ada-zangemann/fa/>\n"
 "Language: fa\n"
 "MIME-Version: 1.0\n"
@@ -1241,7 +1241,7 @@ msgstr "ولی همه‌اش این نبود. با اون نرم‌افزار ا
 msgid ""
 "A green battery with red and yellow wires, a power strip, glue, a roll of "
 "solder, and two pencils."
-msgstr ""
+msgstr "یک باتری سبز با سیم‌های قرمز و زرد، یک چندراهی برق، چسب، یک رول لحیم و دو مداد."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:796
@@ -1274,7 +1274,7 @@ msgstr "آن‌ها با هم، نرم‌افزار بلندگوها را نیز
 msgid ""
 "A screwdriver with orange and gray handle, red pliers, and three LEDs: "
 "yellow, green, pink."
-msgstr ""
+msgstr "یک پیچ‌گوشتی با دسته نارنجی و خاکستری، انبردست قرمز و سه چراغ LED: زرد، سبز، صورتی."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1290,7 +1290,7 @@ msgid ""
 "wrenches, a spool of solder, a can of blue paint (a bit of paint has dried "
 "on the table), and a pitcher and two glasses containing a pink drink. Toni "
 "is testing his skateboard with added yellow wings and a fan. It burps."
-msgstr ""
+msgstr "بچه‌‌ها در آزمایشگاهی در محل اوراق فروشی، در زیر ایوان خانه‌ی ادا هستن. ادا روی یک محفظه آب نشسته و یک پاش رو زیر خودش خم کرده و از هویه لحیم‌کاری استفاده می‌کنه. کنراد کنارش ایستاده و بلندگو رو جدا می‌کنه. ماری روی دو لاستیک نشسته و یک دستش رو روی میز و اسکیت‌بورد وارونه‌اش که سیم‌هایی ازش بیرون زده‌، گذاشته. او با آلن صحبت می‌کنه که دستاش رو روی همون میز گذاشته. وسایل زیر هم روی میز وجود دارد: انبردست، دو آچار، یک قرقره لحیم، یک قوطی رنگ آبی (یه کم رنگ روی میز خشک شده) و یک پارچ و دو لیوان که توش یک نوشیدنی صورتیه. تونی داره اسکیت‌بورد خودش که بال‌های زرد اضافه و یک پنکه داره رو آزمایش میکنه. از اسکیت‌بورد، گاز خارج میشد ."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1515,7 +1515,7 @@ msgstr "آقای رئیس جمهور شما تکلیف خودت رو انجام 
 msgid ""
 "Detail of the previous image: two children holding the banner “Do your "
 "homework Mr. President and we will do ours!”"
-msgstr ""
+msgstr "دو تا بچه یه بنر دستشون گرفتن که روش نوشته: «آقای رئیس‌جمهور، شما کارها و تحقیق‌های خودتون رو انجام بدین، ما هم مال خودمون رو انجام می‌دیم!»"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1970,4 +1970,4 @@ msgstr ""
 msgid ""
 "Three hands that hold as many empty ice cream cones, to draw and color. In "
 "the air above the middle cone is an umbrella."
-msgstr ""
+msgstr "سه تا دست هست که هر کدوم یه قیف بستنی گرفتن تا بچه‌ها بکشن و رنگش کنن. بالای قیف وسطی یه چتر توی هواست."
