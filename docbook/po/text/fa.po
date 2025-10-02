@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
 "PO-Revision-Date: 2025-10-03 14:26+0000\n"
-"Last-Translator: Parsa Ranjbar <p.ranjbar@anche.no>\n"
+"Last-Translator: matin eshtiagh <matin.eshtiagh@gmail.com>\n"
 "Language-Team: Persian <https://hosted.weblate.org/projects/fsfe/ada-zangemann/fa/>\n"
 "Language: fa\n"
 "MIME-Version: 1.0\n"
@@ -844,7 +844,7 @@ msgid ""
 "the way to school, the kids’ skateboards had stopped working. The wheels "
 "simply stood still. And the children could no longer turn up the volume on "
 "their speakers. What was going on?"
-msgstr "<phrase condition=\"capitals-text\">روز بعد<phrase condition=\"capitals-img\"></phrase>، در مدرسۀ آدا هیاهوی بزرگی بود. در راه مدرسه، اسکیت‌بردهای بچه‌ها از کار افتاده بودند. چرخ‌ها به سادگی ثابت مانده بودند. و کودکان دیگر نمی‌توانستند صدای بلندگوهایشان را زیاد کنند. چه اتفاقی داشت می‌افتاد؟"
+msgstr "<phrase condition=\"capitals-text\">روز بعد<phrase condition=\"capitals-img\"></phrase>، در مدرسۀ آدا هیاهوی بزرگی بود. در راه مدرسه، اسکیت‌بردهای بچه‌ها از کار افتاده بودند. چرخ‌ها به سادگی ثابت مانده بودند. و کودکان دیگر نمی‌توانستند صدای بلندگوهایشان را زیاد کنند. یعنی چه اتفاقی داشت می‌افتاد؟"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
