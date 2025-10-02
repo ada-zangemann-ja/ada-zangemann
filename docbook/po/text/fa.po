@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
 "PO-Revision-Date: 2025-10-03 14:26+0000\n"
-"Last-Translator: Roustapour <parsaroustapour@gmail.com>\n"
+"Last-Translator: Ali Pourghasemi <alipoorqasemi364@gmail.com>\n"
 "Language-Team: Persian <https://hosted.weblate.org/projects/fsfe/ada-zangemann/fa/>\n"
 "Language: fa\n"
 "MIME-Version: 1.0\n"
@@ -681,7 +681,7 @@ msgid ""
 "He made vacuums that played happy music instead of droning loudly. He "
 "invented light bulbs that turned on and off at the snap of a finger and cars "
 "that told you where the nearest grocery store was."
-msgstr ""
+msgstr "وقتی زنگمن پای کامپیوتر طلاییش نمی‌نشست، سرگرم این بود که کامپیوترهای کوچیکش رو توی وسایل جدید جاساز کنه و بعد هم اونا رو بفروشه. مثلاً ماشین لباسشویی ساخت که وقتی لباست شسته می‌شد، یه پیام می‌فرستاد روی گوشیت. یا جاروبرقی‌هایی درست کرد که به‌جای سر و صدای اعصاب‌خردکن، آهنگای شاد پخش می‌کردن. حتی لامپایی اختراع کرد که با یه بشکن روشن و خاموش می‌شدن و ماشین‌هایی که بهت می‌گفتن نزدیک‌ترین فروشگاه مواد غذایی کجاست."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -747,10 +747,7 @@ msgstr "«شاید یه گردش کوچیک چندتا ایده‌ی تازه ه
 msgid ""
 "He was completely absorbed in his thoughts when suddenly — BAM! — something "
 "crashed into his shin."
-msgstr ""
-"اون حسابی تو تفکراتش غرق شده بود که یکدفعه....\n"
-"بَممممممب!!!\n"
-"یه چیزی خورد به ساق پاش."
+msgstr "اون حسابی تو تفکراتش غرق شده بود که یکدفعه — بمم!!! — یه چیزی خورد به ساق پاش."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -771,7 +768,7 @@ msgid ""
 "front of him, holding an original Zangemann skateboard under his arm. "
 "“Sorry, I didn’t mean to do that,” the child stammered, but Zangemann wasn’t "
 "listening."
-msgstr ""
+msgstr "زنگمن یه جیغ کوتاه کشید و دور و برشو نگاه کرد ببینه چی شد. جلوش یه بچه‌ی هراسون وایساده بود که زیر بغلش یه اسکیت‌برد اصل زنگمن رو گرفته بود. بچه با لکنت گفت: «ببخشید… قصد نداشتم این کارو بکنم.» اما زانگمن اصلاً گوش نمی‌داد."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:625
