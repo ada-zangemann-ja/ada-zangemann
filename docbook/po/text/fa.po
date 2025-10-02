@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
 "PO-Revision-Date: 2025-10-03 14:26+0000\n"
-"Last-Translator: Setayesh Naderian <setayesh.naderian@gmail.com>\n"
+"Last-Translator: Armila Zarifi <armilazarifi84@gmail.com>\n"
 "Language-Team: Persian <https://hosted.weblate.org/projects/fsfe/ada-zangemann/fa/>\n"
 "Language: fa\n"
 "MIME-Version: 1.0\n"
@@ -1169,7 +1169,7 @@ msgid ""
 "white soles. He has a red skateboard with orange wheels. Behind Ada there "
 "are 4 other children. On the other end Toni is smiling. He touches his chin "
 "with one hand while with the other he holds a yellow helmet by the laces."
-msgstr ""
+msgstr "ادا روی اسکیت‌بردش وایستاده و دورش پر از بچه‌هاست. ماری یک طرف ایستاده، به اسکیت‌برد ادا اشاره می‌کند و چیزی می‌گوید. کنار ماری، کنراد ایستاده؛ موهای کوتاه بلوند دارد، یک کلاه ایمنی خاکستری تیره سرش است، عینک زده، پیراهن سبز با یقه و سرآستین سفید پوشیده، شلوار آبی روشن با لبه‌های سفید و کفش‌های خاکستری با کف سفید به پا داره. او یک اسکیت‌برد قرمز با چرخ‌های نارنجی دارد. پشت سر ادا چهار بچه‌ی دیگر جمع شده‌اند. آن طرف‌تر، تونی با لبخند ایستاده؛ یک دستش زیر چانه‌اش است و با دست دیگر کلاه ایمنی زردش را از بند گرفته."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:769
@@ -1402,7 +1402,7 @@ msgid ""
 "with something written on them and an open purple fountain pen. The "
 "President was eating a sandwich of meat and cheese with greens with two "
 "olives on a toothpick, over a blue napkin with white stripes."
-msgstr ""
+msgstr "رئیس‌جمهور از زنگمن که عصبانی است یک تماس تصویری دریافت می‌کند. تماس تصویری از یک تلفن قدیمی قرمز شماره‌گیر زنگمن تشکیل شده که به یک مانیتور وصل است. صورت زنگمن روی مانیتور دیده می‌شود و هم‌زمان شعاع زردی از صدای خشمگین و رعدآسای او از گوشی بیرون می‌زند. رئیس‌جمهور گوشی را تا جایی که دستش می‌رسد، دور نگه می‌دارد. او موهای سفید دارد و یک پیراهن آبی روشن، کراوات قرمز و کت آبی با دکمه‌های زرد پوشیده. روی یک صندلی سبز با خط‌های عمودی سفید نشسته و دست دیگرش روی میز است. روی میز، کنار تلفن تصویری، چند برگه با نوشته و یک خودنویس بنفش باز قرار دارد. رئیس‌جمهور داشت یک ساندویچ با گوشت و پنیر و سبزی می‌خورد که دو زیتون با خلال‌دندان رویش بود، روی یک دستمال آبی با خط‌های سفید."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:863
@@ -1500,7 +1500,7 @@ msgid ""
 "Toni are walking beneath the banner, and Marie is talking through a bullhorn "
 "held in her hand; Ada’s family’s dog is now wearing a red harness with shiny "
 "yellow LEDs that matches the collar."
-msgstr ""
+msgstr "گروهی از معترضان جمع شده‌اند. در میان آن‌ها: مادر ادا دست آلن را گرفته و یک بستنی صورتی بالا می‌برد؛ سه همکار پدر تونی که کراوات پوشیده‌اند؛ دو کودک پلاکاردی با نوشته‌ی «شما کارهای خودتان رو انجام دهید آقای رئیس‌جمهور و ما هم کارهای خودمون رو!» در دست دارند؛ یک ربات با باک شنی، پاهای آهنی، شکم پنکه برقی، سر مانیتور و یکی از دست‌هایش همزن برقی، در دست دیگرش بستنی آبی گرفته است؛ دو والدین پلاکارد «هک برای آزادی» را در دست دارند؛ یک خانم تابلوی الکترونیکی با نوشته‌ی «کد B وجود دارد» را نگه داشته؛ دو پرنده کوچک در حال پروازند؛ معلم ریاضی، خانم گرنت، تابلویی با نوشته‌ی «آن‌ها جوان‌اند + به کد نیاز دارند!» را در سبدش گذاشته و سگش در سبد پارس می‌کند. ادا و کنراد پلاکاردی با نوشته‌ی «فناوری ما را خراب نکنید!» را حمل می‌کنند. ماری و تونی زیر پلاکارد راه می‌روند و ماری با یک بلندگو که در دستش است صحبت می‌کند. سگ خانواده‌ی ادا حالا قلاده‌ی قرمز با LEDهای زرد و براق به تن دارد که با گردنش هماهنگ است."
 
 #. (itstool) path: info/excerpt
 #. Text on big banner, left on the illustration
