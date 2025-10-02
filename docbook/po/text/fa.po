@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
 "PO-Revision-Date: 2025-10-03 14:26+0000\n"
-"Last-Translator: Hosein Salmani <cyberllloner@proton.me>\n"
+"Last-Translator: caspian keyes <fr4nc15.c45tl3@gmail.com>\n"
 "Language-Team: Persian <https://hosted.weblate.org/projects/fsfe/ada-zangemann/fa/>\n"
 "Language: fa\n"
 "MIME-Version: 1.0\n"
@@ -893,7 +893,7 @@ msgstr "بعد از چند روز، شوک اولیه در مدرسهٔ آدا �
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:680
 msgid "Ada and software"
-msgstr ""
+msgstr "ادا و نرم افزار"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p20-1
@@ -1757,7 +1757,7 @@ msgstr ""
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:1004
 msgid "Ada’s little dog sniffing a trail of ice cream."
-msgstr ""
+msgstr "سگ کوچک آدا ردی از بستنی را بو می‌کشد."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
