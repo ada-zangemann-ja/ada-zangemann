@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
 "PO-Revision-Date: 2025-10-03 14:26+0000\n"
-"Last-Translator: matin eshtiagh <matin.eshtiagh@gmail.com>\n"
+"Last-Translator: keyvan dehghani <oook1ooo@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Persian <https://hosted.weblate.org/projects/fsfe/ada-zangemann/fa/>\n"
 "Language: fa\n"
 "MIME-Version: 1.0\n"
@@ -1029,7 +1029,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:728
 msgid "A horrible night"
-msgstr ""
+msgstr "یک شب وحشتناک"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p25-1
@@ -1068,7 +1068,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:739
 msgid "First real project"
-msgstr ""
+msgstr "اولین پروژه واقهی"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p26-1
@@ -1153,7 +1153,7 @@ msgstr ""
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:760
 msgid "“How can you ride your skateboard on the sidewalk?” they asked."
-msgstr ""
+msgstr "دیگران پرسیدن؟ چطور می توانی با اسکیت بورد در پیاده رو اسکیت سواری کنی."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
