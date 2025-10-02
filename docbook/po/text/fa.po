@@ -828,12 +828,12 @@ msgid ""
 "the various devices. In emerging images there are: a red electric "
 "skateboard, a light bulb, an ice cream machine, and a toilet, all of which "
 "are receiving commands from Zangemann."
-msgstr ""
+msgstr "ادامه‌ی تصویر قبلی، که تو پس‌زمینه تپه‌ای با خونه‌ی زنگمن دیده می‌شه و از آنتنش سیگنال‌هایی میاد که وسایل مختلفو کنترل می‌کنه. توی تصاویر ظاهرشده هستن: یه اسکیت‌برد برقی قرمز، یه لامپ، یه دستگاه بستنی‌ساز و یه توالت، که همه دارن فرمان‌های زنگمنو دریافت می‌کنن."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:654
 msgid "Skateboards no longer work"
-msgstr ""
+msgstr "اسکیت بورد دیگر کار نمی کند"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p18-1
