@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
 "PO-Revision-Date: 2025-10-03 14:26+0000\n"
-"Last-Translator: o-lieh <olia7nr@gmail.com>\n"
+"Last-Translator: Athena-IO <mehdifazzli83@gmail.com>\n"
 "Language-Team: Persian <https://hosted.weblate.org/projects/fsfe/ada-zangemann/fa/>\n"
 "Language: fa\n"
 "MIME-Version: 1.0\n"
@@ -1244,7 +1244,7 @@ msgid ""
 "even set up a real workshop where they could fine-tune their programs for "
 "hours, listening all the while to music from the speakers Ada had built for "
 "Alan."
-msgstr ""
+msgstr "ادا، تونی، ماری و کنراد بعد از ظهر های زیادی را داخل قراضه فروشی میگذراندند. اونا حتی یه کارگاه ایجاد کردند که در اونجا میتونستند ساعت ها برنامه هاشون رو ارتقا بدهند، در حالی که به آهنگ هایی گوش میدادند، با اسپیکری که ادا برای آلن ساخته بود."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:797
