@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
 "PO-Revision-Date: 2025-10-03 14:26+0000\n"
-"Last-Translator: oODANIYALOo <daniyalx64@gmail.com>\n"
+"Last-Translator: Parsa Ranjbar <p.ranjbar@anche.no>\n"
 "Language-Team: Persian <https://hosted.weblate.org/projects/fsfe/ada-zangemann/fa/>\n"
 "Language: fa\n"
 "MIME-Version: 1.0\n"
@@ -908,7 +908,7 @@ msgid ""
 "cell phone. She quickly realized that there was also much to discover on the "
 "internet. There, many people shared their ideas and repair tips to help "
 "others."
-msgstr ""
+msgstr "<phrase condition=\"capitals-text\">آدا<phrase condition=\"capitals-img\"></phrase> عاشق چهارشنبه‌ها بود. هر چهارشنبه، مادرش و آلن به دنبال او به مدرسه می‌آمدند و همگی با هم به کتابخانه می‌رفتند. آدا همیشه جذب بخش فناوری می‌شد. آنجا کتاب‌هایی با طرح‌های اولیه، دستورالعمل‌هایی برای آزمایش‌ها و توضیحاتی در مورد نحوه کار دستگاه‌های مختلف وجود داشت. آدا می‌توانست در کتابخانه با تلفن همراهش آنلاین شود. او به سرعت متوجه شد که در اینترنت نیز چیزهای زیادی برای کشف کردن وجود دارد. در آنجا، افراد زیادی ایده‌ها و نکات تعمیراتی خود را به اشتراک می‌گذاشتند تا به دیگران کمک کنند."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:685
@@ -922,7 +922,7 @@ msgid ""
 "Some books called those instructions programs or code. With such a computer "
 "program, one could, for example, tell a loudspeaker which song to play and "
 "how loud."
-msgstr ""
+msgstr "در یکی از آن بعدازظهرها، آدا دو کلمه جدید یاد گرفت: سخت‌افزار و نرم‌افزار. سخت‌افزار کلمه‌ای برای چیزی بود که آدا از قبل می‌شناخت: وسایل الکترونیکی که بعد از مدرسه با آن‌ها ور می‌رفت، یا وسایلی که می‌توانست در دستانش نگه دارد و سعی کند تعمیر کند یا به چیز دیگری تبدیلشان کند. آنچه برای آدا کاملاً جدید بود، کلمه نرم‌افزار بود. او به زودی یاد گرفت که این کلمه به معنای دستورالعمل‌هایی است که روی یک کامپیوتر اجرا می‌شوند تا سایر دستگاه‌ها یا کامپیوترها را کنترل کنند. برخی کتاب‌ها این دستورالعمل‌ها را برنامه یا کد می‌نامیدند. با چنین برنامه کامپیوتری، می‌شد، به عنوان مثال، به یک بلندگو گفت که چه آهنگی را پخش کند و با چه شدتی."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:686
@@ -934,7 +934,7 @@ msgid ""
 "language for this — the programming language. With software, Ada could make "
 "her inventions even more useful. She really wanted to learn the programming "
 "language!"
-msgstr ""
+msgstr "بهترین چیز در مورد کشف جدید آدا این بود که فهمید می‌تواند همان‌طور که با سخت‌افزار ور می‌رفت، با نرم‌افزار هم ور برود. سخت‌افزار با ابزارهایی مانند چکش، مته و پیچ ساخته می‌شود. نرم‌افزار به سادگی با نوشتن دستورات برای سخت‌افزار، یکی پس از دیگری، ساخته می‌شود. زبان جداگانه‌ای برای این کار وجود داشت. زبان برنامه‌نویسی. با نرم‌افزار، آدا می‌توانست اختراعات خود را حتی مفیدتر کند. او واقعاً می‌خواست زبان برنامه‌نویسی را یاد بگیرد!"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -951,7 +951,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:699
 msgid "Programming"
-msgstr ""
+msgstr "برنامه‌نویسی"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p22-1
@@ -964,7 +964,7 @@ msgid ""
 "a secret language, or like studying vocabulary in school. Ada ate it all up. "
 "She expected her first program to do something simple: “Make this lamp "
 "blink!”"
-msgstr ""
+msgstr "<phrase condition=\"capitals-text\">در طول<phrase condition=\"capitals-img\"></phrase> چند هفته‌ی آینده، آدا بعد از ظهرها را در کتابخانه گذراند. او کتاب‌ها و وب‌سایت‌هایی پیدا کرد که نحوه‌ی کار زبان‌های برنامه‌نویسی و کد را توضیح می‌دادند. برای آدا، این کمی شبیه یادگیری یک زبان مخفی بود، یا مثل مطالعه‌ی لغات در مدرسه. آدا همه‌ی این‌ها را با اشتیاق جذب کرد. او انتظار داشت اولین برنامه‌اش کار ساده‌ای انجام دهد: «این لامپ را چشمک‌زن کن!»"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:704
@@ -972,7 +972,7 @@ msgid ""
 "Of course, she wanted to try her program out right away to see if it really "
 "worked. At the junkyard, she connected her cell phone to a small LED lamp. "
 "Then she typed the lines of code into her cell phone."
-msgstr ""
+msgstr "البته، او می‌خواست برنامه خود را فوراً امتحان کند تا ببیند آیا واقعاً کار می‌کند یا خیر. در انبار اوراقی، او تلفن همراه خود را به یک چراغ کوچک وصل کرد. سپس خطوط کد را در تلفن همراه خود تایپ کرد."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:705
@@ -981,7 +981,7 @@ msgid ""
 "a few small changes and tried again and .... “Yeesss!” The little light "
 "began to flash. On, off, on, off. Ada looked at the LED in amazement. She "
 "had written her first program!"
-msgstr ""
+msgstr "در ابتدا، هیچ اتفاقی نیفتاد. آدا در این فکر بود که خطا از کجا می‌تواند باشد. چند تغییر کوچک اعمال کرد و دوباره امتحان کرد و... «بله!» چراغ کوچک شروع به چشمک زدن کرد. روشن، خاموش، روشن، خاموش. آدا با حیرت به چراغ کوچک نگاه کرد. او اولین برنامه‌ی خود را نوشته بود!"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:706
@@ -991,7 +991,7 @@ msgid ""
 "what she wanted. It was not so easy, but after a few weeks, Ada wrote a "
 "truly useful program: one that would make Alan’s speakers automatically turn "
 "off half an hour after he had fallen asleep."
-msgstr ""
+msgstr "آدا کاملا هیجان‌زده بود. او تمام کارهای بزرگی را که می‌توانست انجام دهد، تصور می‌کرد. اگر فقط کد درست را وارد می‌کرد، می‌توانست اختراعاتش را وادار کند دقیقاً همان کاری را انجام دهند که او می‌خواست. این کار چندان آسان نبود، اما پس از چند هفته، آدا یک برنامه واقعاً مفید نوشت: برنامه‌ای که باعث می‌شد بلندگوهای آلن نیم ساعت پس از به خواب رفتنش به‌طور خودکار خاموش شوند."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1013,7 +1013,7 @@ msgid ""
 "Ada also had an idea for the next program she would write. It was a bigger "
 "deal, a real project. She would probably need the whole summer break for "
 "it... And she could hardly wait!"
-msgstr ""
+msgstr "آدا همچنین ایده‌ای برای برنامهٔ بعدی که می‌نوشت داشت. این یک کار مهم‌تر، یک پروژهٔ واقعی بود. احتمالاً تمام تعطیلات تابستان را برای آن نیاز داشت... و به‌سختی می‌توانست صبر کند!"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
