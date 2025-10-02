@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
 "PO-Revision-Date: 2025-10-03 14:26+0000\n"
-"Last-Translator: Hosein Salmani <cyberllloner@proton.me>\n"
+"Last-Translator: Parsa Ranjbar <p.ranjbar@anche.no>\n"
 "Language-Team: Persian <https://hosted.weblate.org/projects/fsfe/ada-zangemann/fa/>\n"
 "Language: fa\n"
 "MIME-Version: 1.0\n"
@@ -85,7 +85,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:288
 msgid "Alan"
-msgstr ""
+msgstr "آلان"
 
 #. (itstool) path: character/charactername
 #. Character names are mostly reference to existing people in computer
@@ -100,7 +100,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:291
 msgid "Toni"
-msgstr ""
+msgstr "تونی"
 
 #. (itstool) path: character/charactername
 #. Character names are mostly reference to existing people in computer
@@ -115,7 +115,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:294
 msgid "Konrad"
-msgstr ""
+msgstr "کنارد"
 
 #. (itstool) path: character/charactername
 #. Character names are mostly reference to existing people in computer
@@ -130,7 +130,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:297
 msgid "Marie"
-msgstr ""
+msgstr "ماری"
 
 #. (itstool) path: character/charactername
 #. Character names are mostly reference to existing people in computer
@@ -145,7 +145,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:300
 msgid "Ms. Gernet"
-msgstr ""
+msgstr "خانم گرنت"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -192,7 +192,7 @@ msgid ""
 "on. Together with her friends, she experiments with hardware and software, "
 "and the children forge a plan: Zangemann can no longer be the only one in "
 "control of the devices!"
-msgstr ""
+msgstr "<phrase condition=\"capitals-text\">مخترع، زنگمن<phrase condition=\"capitals-img\"></phrase> ، شهرت جهانی و ثروت هنگفتی دارد. بزرگسالان و کودکان به طور یکسان عاشق اختراعات فنی فوق‌العاده او هستند. اما یک روز مشکلی پیش می‌آید: اسکیت‌بردهای الکترونیکی کودکان دیگر به درستی کار نمی‌کنند. چه خبر است؟ دختری کنجکاو به نام آدا به اصل ماجرا پی می‌برد. او همراه با دوستانش، با سخت‌افزار و نرم‌افزار آزمایش می‌کند!"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:333
@@ -393,7 +393,9 @@ msgstr ""
 msgid ""
 "Matthias Kirschner\n"
 "Sandra Brandstätter"
-msgstr "(ابزار) مسیر: simplesect/literallayout در یک عنصر literallayout، تمام فضاها و کاراکترهای خط جدید حفظ می‌شوند."
+msgstr ""
+"ماتیاس کرشنر\n"
+"ساندرا براندشتتر"
 
 #. (itstool) path: simplesect/literallayout
 #. (itstool) id: Ada_Zangemann.dbk#subtitle-titlepage
@@ -406,8 +408,8 @@ msgid ""
 "Raspberry Ice Cream"
 msgstr ""
 "داستانی از\n"
-"نرم‌افزار، اسکیت‌بردها و\n"
-"بستنی یخ‌زده تمشک"
+"نرم‌افزار، اسکیت‌بورد، و\n"
+"بستنی تمشک"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p04-1
@@ -419,7 +421,7 @@ msgid ""
 "jar. They didn’t have enough money to live in a proper home. Instead, Ada "
 "lived with her mother and her little brother, Alan, in a cabin near a "
 "junkyard on the edge of town."
-msgstr ""
+msgstr "<phrase condition=\"capitals-text\">«روزی روزگاری<phrase condition=\"capitals-img\"></phrase>، دختری کوچک به نام آدا زندگی می‌کرد. خانواده‌اش آنقدر فقیر بودند که تمام پس‌اندازشان در یک شیشه‌ی بیسکویت جا می‌شد. آن‌ها پول کافی برای زندگی در یک خانه‌ی درست و حسابی نداشتند. در عوض، آدا با مادر و برادر کوچکش، آلن، در یک کلبه نزدیک یک آشغال‌دانی در حاشیه شهر زندگی می‌کرد»."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -471,7 +473,7 @@ msgid ""
 "of windows, and so many rooms that he often got lost in them himself. "
 "Zangemann’s mansion stood high on a hill. From there, he could look out over "
 "the whole city."
-msgstr "در دوردست، در انتهای دیگر شهر، مخترع معروفی به نام زنگمان زندگی می‌کرد. او به شدت ثروتمند بود. هیچ برگه‌ای در دنیا به اندازه کافی بزرگ نبود تا موجودی حساب بانکی‌اش را با تمام اعداد و صفرهایش نشان دهد! او در یک خانه بزرگ با استخر شنا و سرسره آبی، تعداد زیادی پله و برج، صدها پنجره و اتاق‌های زیادی زندگی می‌کرد که او اغلب در آن‌ها گم می‌شد. عمارت زنگمان بر روی تپه‌ای بلند قرار داشت. از آنجا می‌توانست به تمام شهر نگاه کند."
+msgstr "در نقطه‌ای دور، در انتهای دیگر شهر، مخترع مشهوری به نام زنگمان زندگی می‌کرد. او فوق‌العاده ثروتمند بود. هیچ برگ کاغذی در دنیا به اندازه‌ای بزرگ نبود که بتواند موجودی حساب بانکی او را با تمام اعداد و صفرهایش نشان دهد! او در یک خانه عظیم با استخر، سرسره آبی، پلکان‌ها و برج‌های فراوان، صدها پنجره و آنقدر اتاق زندگی می‌کرد که اغلب خودش نیز در آن‌ها گم می‌شد. عمارت زنگمن در بالای یک تپه قرار داشت. او از آنجا می‌توانست کل شهر را زیر نظر داشته باشد."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:523
