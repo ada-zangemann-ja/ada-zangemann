@@ -3,10 +3,9 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2025-09-06 14:20+0000\n"
-"Last-Translator: abbas davarpanah <abbasdp@proton.me>\n"
-"Language-Team: Persian <https://hosted.weblate.org/projects/fsfe/"
-"ada-zangemann/fa/>\n"
+"PO-Revision-Date: 2025-10-03 14:26+0000\n"
+"Last-Translator: Hosein Salmani <cyberllloner@proton.me>\n"
+"Language-Team: Persian <https://hosted.weblate.org/projects/fsfe/ada-zangemann/fa/>\n"
 "Language: fa\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -199,7 +198,7 @@ msgstr ""
 #: Ada_Zangemann.dbk:333
 msgid ""
 "A book that arouses interest in tinkering and encourages shaping technology."
-msgstr ""
+msgstr "کتابی که علاقه به دست‌کاری را برمی‌انگیزد و به شکل‌دهی فناوری تشویق می‌کند."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -215,7 +214,7 @@ msgstr ""
 #. know as 'bastard title'.
 #: Ada_Zangemann.dbk:355
 msgid "Half-title page"
-msgstr ""
+msgstr "(ابزار) مسیر: اطلاعات/عنوان صفحه قبل از کتب‌نامه و صفحه عنوان، با فقط عنوان. همچنین به عنوان 'عنوان نامناسب' شناخته می‌شود."
 
 #. (itstool) path: mediaobject/alt
 #. (itstool) path: simplesect/para
@@ -232,7 +231,7 @@ msgstr ""
 #. Also known as 'imprint'
 #: Ada_Zangemann.dbk:368
 msgid "Colophon"
-msgstr ""
+msgstr "(itstool) path: اطلاعات/عنوان همچنان به عنوان 'imprint' شناخته می‌شود"
 
 #. (itstool) path: simplesect/literallayout
 #. Smaller colophon to be combined with grey free cultural license
@@ -346,7 +345,7 @@ msgstr ""
 #. illustration of Ada’s dog.
 #: Ada_Zangemann.dbk:452
 msgid "Title page"
-msgstr ""
+msgstr "(itstool) path: اطلاعات/عنوان صفحه در کنار کتب‌نامه با عنوان، زیرعنوان، نویسندگان و تصویر سگ آدا."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -394,7 +393,7 @@ msgstr ""
 msgid ""
 "Matthias Kirschner\n"
 "Sandra Brandstätter"
-msgstr ""
+msgstr "(ابزار) مسیر: simplesect/literallayout در یک عنصر literallayout، تمام فضاها و کاراکترهای خط جدید حفظ می‌شوند."
 
 #. (itstool) path: simplesect/literallayout
 #. (itstool) id: Ada_Zangemann.dbk#subtitle-titlepage
