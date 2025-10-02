@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
 "PO-Revision-Date: 2025-10-03 14:26+0000\n"
-"Last-Translator: abbas davarpanah <abbasdp@proton.me>\n"
+"Last-Translator: AmirHossein Heidari <amirhossein.heidari.email@gmail.com>\n"
 "Language-Team: Persian <https://hosted.weblate.org/projects/fsfe/ada-zangemann/fa/>\n"
 "Language: fa\n"
 "MIME-Version: 1.0\n"
@@ -25,7 +25,7 @@ msgstr "اعتبارات-مترجم"
 #. ignore-same
 #: Ada_Zangemann.dbk:262 Ada_Zangemann.dbk:306 Ada_Zangemann.dbk:496
 msgid "Ada &amp; Zangemann"
-msgstr "آدا و زنگمن"
+msgstr "ادا و زنگمن"
 
 #. (itstool) path: info/subtitle
 #. (itstool) path: cover/bridgehead
@@ -1066,7 +1066,7 @@ msgstr "هنگامی که کارش تمام شد، تمام برنامه‌ها�
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:739
 msgid "First real project"
-msgstr "اولین پروژه واقهی"
+msgstr "اولین پروژه واقعی"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p26-1
