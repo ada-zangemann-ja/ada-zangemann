@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
 "PO-Revision-Date: 2025-10-03 14:26+0000\n"
-"Last-Translator: Athena-IO <mehdifazzli83@gmail.com>\n"
+"Last-Translator: Sahar <sahargarmsiri96@gmail.com>\n"
 "Language-Team: Persian <https://hosted.weblate.org/projects/fsfe/ada-zangemann/fa/>\n"
 "Language: fa\n"
 "MIME-Version: 1.0\n"
@@ -337,6 +337,10 @@ msgid ""
 "We encourage you to support authors, publishers, and others involved in the creation of culture under free licenses – including <emphasis role=\"bold\">financially supporting them through purchases or donations</emphasis>. (<link xlink:href=\"https://fsfe.org/donate\">https://fsfe.org/donate</link>)\n"
 "Society should support those who respect others’ freedom."
 msgstr ""
+"آزاد بودن به معنیه آزادیه، نه رایگان بودن.\n"
+"نرم‌افزار آزاد درباره‌ی آزادی‌هاییه که باهاش دریافت می‌کنید، نه درباره‌ی قیمتش. همین‌طور وقتی یه کتاب با مجوز فرهنگ آزاد منتشر می‌شه، معنیش این نیست که حتماً باید یه نسخه مجانی ازش بگیری، معنیش اینه که  شما یکسری حقوقی داری (مثل استفاده، یاد گرفتن، اشتراک گذاشتن و تغییر دادن)؛ حقوقی که به جامعه امکان می‌دهه بیشتر از این کتاب بهره‌ ببرن، همونطور که باید از همه‌ی آثار فرهنگی بهره برد.\n"
+"\n"
+"ما شما رو تشویق می‌کنیم که از نویسنده‌ها، ناشرها و افراد دیگه‌ای که تو خلق فرهنگ  آزاد نقش دارند حمایت کنید،   حتی از طریق خرید یا کمک‌مالی. https://fsfe.org/donate"
 
 #. (itstool) path: info/title
 #. Page next to the colophon with title, subtitle, authors and
@@ -1888,7 +1892,7 @@ msgid ""
 "designer for animated films and series, such as the German public television "
 "series Trudes Tier. On an ice-cream machine, Sandra would pick a creamy "
 "rainbow ice cream with lemon cucumber flavor and a lot of sprinkles."
-msgstr ""
+msgstr "ساندرا همیشه به کارهای دستی با قیچی٬ انبردست٬ چسب٬ سیم٬ پارچه و کاغذ علاقه داشت.  امروزه اون به عنوان تصویرگر٬ نویسنده‌ی کمیک و طراح شخصیت  برای فیلم‌ها و سریال‌های انیمیشنی کار می‌کنه٬ از جمله٬ سریال تلویزیونی آلمانی Trudes Tier. ساندرا اگه جلوی یک ماشین بستنی‌ساز باشه٬  انتخابش یه بستنی رنگین‌کمونی خامه‌ای با طعم لیمو و خیار و کلی اسپرینکله."
 
 #. (itstool) path: info/title
 #. (itstool) id: Ada_Zangemann.dbk#title-bookswebsite
@@ -1906,7 +1910,7 @@ msgid ""
 "everyone the right to use, study, share, and improve programs. Therefore, "
 "Free Software strengthens basic rights such as freedom of expression, "
 "freedom of the press, and the right to privacy."
-msgstr ""
+msgstr "بنیاد نرم‌افزار آزاد اروپا٬ یه انجمن غیرانتفاعیه که به مردم این توانایی رو میده که کنترل فناوری رو تو دستاشون داشته باشن. نرم‌افزار روی تمام جنبه‌های زندگی ما تأثیر می‌ذاره‌؛ به همین دلیل مهمه که این فناوری به ما آزادی بده، نه اینکه ما رو محدود کنه. نرم‌افزار آزاد (که با اسم متن‌باز هم شناخته می‌شه) به همه این حق رو می‌ده که برنامه‌ها رو استفاده کنن، یاد بگیرن، به اشتراک بذارن و بهبود بدن. بنابراین، نرم‌افزار آزاد حقوق بنیادینی مثل آزادی بیان، آزادی مطبوعات و حق حریم خصوصی رو تقویت می‌کنه."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1102
@@ -1919,7 +1923,7 @@ msgstr ""
 #. (itstool) id: Ada_Zangemann.dbk#title-license
 #: Ada_Zangemann.dbk:1109
 msgid "License"
-msgstr ""
+msgstr "گواهی‌نامه ها"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1117
@@ -1954,6 +1958,8 @@ msgid ""
 "Come up with some delicious, funny, or crazy ice-cream flavors and draw them on the ice-cream cones on the following page.\n"
 "More information about the book can be found at <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
 msgstr ""
+"چنتا طعم خوشمزه، خنده‌دار یا عجیب غریب بستنی ابداع کن و اونا رو، روی بستنی قیفی‌های صفحه‌ی بعد بکش.\n"
+"اگه می‌خوای بیشتر درباره‌ی این کتاب بدونی، یه سر بزن به این لینک: https://ada.fsfe.org"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
