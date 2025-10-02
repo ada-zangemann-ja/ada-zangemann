@@ -214,7 +214,7 @@ msgstr ""
 #. know as 'bastard title'.
 #: Ada_Zangemann.dbk:355
 msgid "Half-title page"
-msgstr "(ابزار) مسیر: اطلاعات/عنوان صفحه قبل از کتب‌نامه و صفحه عنوان، با فقط عنوان. همچنین به عنوان 'عنوان نامناسب' شناخته می‌شود."
+msgstr "(ابزار) مسیر: اطلاعات/عنوان صفحه قبل از کتب‌نامه و صفحه عنوان، با فقط عنوان. همچنین به عنوان \"عنوان نامناسب\" شناخته می‌شود."
 
 #. (itstool) path: mediaobject/alt
 #. (itstool) path: simplesect/para
@@ -405,6 +405,9 @@ msgid ""
 "Software, Skateboards, and\n"
 "Raspberry Ice Cream"
 msgstr ""
+"داستانی از\n"
+"نرم‌افزار، اسکیت‌بردها و\n"
+"بستنی یخ‌زده تمشک"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p04-1
@@ -468,12 +471,12 @@ msgid ""
 "of windows, and so many rooms that he often got lost in them himself. "
 "Zangemann’s mansion stood high on a hill. From there, he could look out over "
 "the whole city."
-msgstr ""
+msgstr "در دوردست، در انتهای دیگر شهر، مخترع معروفی به نام زنگمان زندگی می‌کرد. او به شدت ثروتمند بود. هیچ برگه‌ای در دنیا به اندازه کافی بزرگ نبود تا موجودی حساب بانکی‌اش را با تمام اعداد و صفرهایش نشان دهد! او در یک خانه بزرگ با استخر شنا و سرسره آبی، تعداد زیادی پله و برج، صدها پنجره و اتاق‌های زیادی زندگی می‌کرد که او اغلب در آن‌ها گم می‌شد. عمارت زنگمان بر روی تپه‌ای بلند قرار داشت. از آنجا می‌توانست به تمام شهر نگاه کند."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:523
 msgid "Zangemann and computers"
-msgstr ""
+msgstr "زنگمان و کامپیوترها"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p06-1
