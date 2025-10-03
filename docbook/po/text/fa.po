@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
 "PO-Revision-Date: 2025-10-03 14:26+0000\n"
-"Last-Translator: abbas davarpanah <abbasdp@proton.me>\n"
+"Last-Translator: Hosein Salmani <cyberllloner@proton.me>\n"
 "Language-Team: Persian <https://hosted.weblate.org/projects/fsfe/ada-zangemann/fa/>\n"
 "Language: fa\n"
 "MIME-Version: 1.0\n"
@@ -176,7 +176,7 @@ msgstr "اِدا و زنگِمن - داستانی از نرم‌افزار، ا�
 msgid ""
 "A soldering iron and a brush and can with yellow paint, connected by white "
 "electrical cord that forms a frame."
-msgstr ""
+msgstr "یک هویه لحیم‌کاری و یک قلم‌مو و قوطی رنگ زرد، که با یک سیم برق سفید به هم متصل شده‌اند و یک چارچوب را تشکیل می‌دهند."
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-back-1
@@ -205,7 +205,7 @@ msgstr "کتابی که علاقه به دست‌کاری را برمی‌انگ
 msgid ""
 "A power strip, with input and output of white electrical cord that is the "
 "frame."
-msgstr ""
+msgstr "یک چندراهی برق، با ورودی و خروجی سیم برق سفید که چارچوب را تشکیل می‌دهد."
 
 #. (itstool) path: info/title
 #. Page before the colophon and the title page, with just the title. Also
@@ -437,7 +437,7 @@ msgstr "ماتیاس کیرشنر، ساندرا براندشتتر - **اِدا
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:466
 msgid "Matthias Kirschner, Sandra Brandstätter"
-msgstr ""
+msgstr "متیاس کیرشنر، ساندرا براندشتایتر"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -465,7 +465,7 @@ msgid ""
 "Matthias Kirschner\n"
 "Sandra Brandstätter"
 msgstr ""
-"ماتیاس کرشنر\n"
+"ماتیاس کیرشنر\n"
 "ساندرا براندشتتر"
 
 #. (itstool) path: simplesect/literallayout
