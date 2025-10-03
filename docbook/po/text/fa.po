@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
 "PO-Revision-Date: 2025-10-03 14:26+0000\n"
-"Last-Translator: Artemis Zarifi <artizarifi@gmail.com>\n"
+"Last-Translator: abbas davarpanah <abbasdp@proton.me>\n"
 "Language-Team: Persian <https://hosted.weblate.org/projects/fsfe/ada-zangemann/fa/>\n"
 "Language: fa\n"
 "MIME-Version: 1.0\n"
@@ -25,7 +25,7 @@ msgstr "اعتبارات مترجم"
 #. ignore-same
 #: Ada_Zangemann.dbk:262 Ada_Zangemann.dbk:306 Ada_Zangemann.dbk:496
 msgid "Ada &amp; Zangemann"
-msgstr "ادا و زنگمن"
+msgstr "اِدا و زنگِمن"
 
 #. (itstool) path: info/subtitle
 #. (itstool) path: cover/bridgehead
@@ -51,7 +51,7 @@ msgstr "978-1-7185-0319-9"
 msgid ""
 "<personname> <firstname>Matthias</firstname> <surname>Kirschner</surname> </"
 "personname>"
-msgstr "<personname> <firstname>متیاس</firstname> <surname>کیرشنر</surname> </personname>"
+msgstr "<personname> <firstname>ماتیاس</firstname> <surname>کیرشنر</surname> </personname>"
 
 #. (itstool) path: info/othercredit
 #. ignore-same
@@ -67,7 +67,7 @@ msgstr "<personname> <firstname>ساندرا</firstname> <surname>براندشت
 #. ignore-same
 #: Ada_Zangemann.dbk:282
 msgid "Ada"
-msgstr "ادا"
+msgstr "اِدا"
 
 #. (itstool) path: character/charactername
 #. Name must not be changed.
@@ -75,7 +75,7 @@ msgstr "ادا"
 #. ignore-same
 #: Ada_Zangemann.dbk:285
 msgid "Zangemann"
-msgstr "زنگمن"
+msgstr "زنگِمن"
 
 #. (itstool) path: character/charactername
 #. Name must not be changed.
@@ -83,7 +83,7 @@ msgstr "زنگمن"
 #. ignore-same
 #: Ada_Zangemann.dbk:288
 msgid "Alan"
-msgstr "آلان"
+msgstr "آلن"
 
 #. (itstool) path: character/charactername
 #. Character names are mostly reference to existing people in computer
@@ -167,7 +167,7 @@ msgid ""
 "turtle-neck sweater, light blue pants turned up, brown shoes, and white "
 "socks. He’s wearing a big tech watch. Above Zangemann there are a pair of "
 "pliers with red handles crossing the wire frame."
-msgstr ""
+msgstr "اِدا و زنگِمن - داستانی از نرم‌افزار، اسکیت‌برد و بستنی تمشک. اثر ماتیاس کیرشنر و ساندرا براندشتتر. در پس‌زمینه‌ای عمدتاً بی‌رنگ از فیروزه‌ای تیره، در قابی متشکل از خطوط سفید گاهی منحنی که ماوس، صفحه‌کلید و یک گوشی هوشمند صورتی را به هم متصل می‌کنند، اِدا و زنگِمن در مقابل یکدیگر ایستاده‌اند و هر دو دست به کمر به نشانه چالش هستند. اِدا لبخند می‌زند و زنگِمن اخم کرده. اِدا موهای سیاهی دارد که با کش موهای قرمز به دو حلقه بزرگ به چپ و راست بسته شده و گونه‌های قرمزی دارد. او گوشواره‌های میخ‌دار کوچک زردرنگ دارد. او شلوارک راه‌راه فیروزه‌ای و سفید و یک پیراهن زرد روی یک زیرپیراهن سفید پوشیده که با گلدوزی‌هایی که از پیراهن بیرون زده پایان می‌یابد. پیراهن و زیرپیراهن از روی شلوارک بیرون زده‌اند. روی پیراهن، اِدا یک هودی آبی پوشیده. اِدا کفش‌های قرمزی با پنجه و کف سفید، و جوراب‌های سفید کوتاه به پا دارد. او یک پا را روی اسکیت‌برد و پای دیگر را روی زمین گذاشته.زنگِمن موهای خاکستری کوتاه و عینک مربعی دارد. او یک پولیور یقه‌دار بنفش، شلوار آبی روشن برگردان‌دار، کفش قهوه‌ای و جوراب سفید پوشیده. او یک ساعت تکنولوژی بزرگ به دست کرده. بالای زنگِمن یک انبرک با دسته‌های قرمز وجود دارد که قاب سیمی را قطع می‌کند."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -190,7 +190,7 @@ msgid ""
 "on. Together with her friends, she experiments with hardware and software, "
 "and the children forge a plan: Zangemann can no longer be the only one in "
 "control of the devices!"
-msgstr "<phrase condition=\"capitals-text\">مخترع</phrase><phrase condition=\"capitals-img\">خترع</phrase> زانگمان در سراسر جهان شهرت دارد و بسیار ثروتمند است. بزرگسالان و کودکان به یک اندازه اختراعات فنی شگفت‌انگیز او را دوست دارند. اما روزی مشکلی پیش می‌آید: اسکیت‌بوردهای الکترونیکی کودکان دیگر به درستی کار نمی‌کنند. چه اتفاقی رخ داده است؟ دختر کنجکاو آدا پی به ماجرا می‌برد. او همراه با دوستانش با سخت‌افزار و نرم‌افزار آزمایش می‌کند و کودکان نقشه‌ای می‌چینند: زانگمان دیگر نباید تنها کنترل کننده دستگاه‌ها باشد!"
+msgstr "<phrase condition=\"capitals-text\">مخترع</phrase><phrase condition=\"capitals-img\">اخترع</phrase>زنگِمن در سراسر جهان شهرت دارد و بسیار ثروتمند است. بزرگسالان و کودکان به یک اندازه اختراعات فنی شگفت‌انگیز او را دوست دارند. اما روزی مشکلی پیش می‌آید: اسکیت‌بوردهای الکترونیکی کودکان دیگر به درستی کار نمی‌کنند. چه اتفاقی رخ داده است؟ دختر کنجکاو اِدا پی به ماجرا می‌برد. او همراه با دوستانش با سخت‌افزار و نرم‌افزار آزمایش می‌کند و کودکان نقشه‌ای می‌چینند: زنگِمن دیگر نباید تنها کنترل کننده دستگاه‌ها باشد!"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:333
@@ -223,7 +223,7 @@ msgstr "صفحه نیم‌عنوان"
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:362 Ada_Zangemann.dbk:488
 msgid "ADA &amp; ZANGEMANN"
-msgstr ""
+msgstr "اِدا و زنگِمن"
 
 #. (itstool) path: info/title
 #. Also known as 'imprint'
@@ -260,6 +260,23 @@ msgid ""
 "\n"
 "<emphasis role=\"bold\">A big thank you</emphasis> to <emphasis role=\"bold\">dpunkt.verlag</emphasis> and <emphasis role=\"bold\">No Starch Press</emphasis> for understanding the values of software freedom, taking the time to discuss and understand the advantages of free cultural licenses, and the great support to publish this book under conditions that respect the FSFE’s values."
 msgstr ""
+"حق نشر © 2023 ماتیاس کیرشنر و ساندرا براندشتتر.\n"
+"این اثر تحت مجوز کرییتیو کامنز انتساب-اشتراک‌گذاری یکسان 4.0 بین‌المللی منتشر شده است.\n"
+"برای مشاهده متن کامل این مجوز به <link xlink:href=\"https://creativecommons.org/licenses/by-sa/4.0/\">https://creativecommons.org/licenses/by-sa/4.0/</link> مراجعه کنید یا نامه‌ای به Creative Commons، صندوق پستی 1866، مانتین ویو، کالیفرنیا 94042، ایالات متحده آمریکا ارسال کنید.\n"
+"\n"
+"<emphasis role=\"bold\">اِدا و زنگِمن: داستانی از نرم‌افزار، اسکیت‌برد و بستنی تمشک</emphasis> برگردانی است از نسخه اصلی آلمانی، Ada und Zangemann: Ein Märchen über Software, Skateboards und Himbeereis، که توسط انتشارات dpunkt.verlag با همکاری O’Reilly Media, Inc.، تحت نشان تجاری \"O’REILLY\"، © 2022 توسط ماتیاس کیرشنر و ساندرا براندشتتر منتشر شده است.\n"
+"\n"
+"این کتاب اثر ماتیاس کیرشنر (نویسنده) و ساندرا براندشتتر (تصویرگر) تحت <emphasis role=\"bold\">مجوز کرییتیو کامنز CC-BY-SA</emphasis>، یک مجوز فرهنگی آزاد، منتشر شده است.\n"
+"\n"
+"<emphasis role=\"bold\">شما مجاز هستید</emphasis> به اشتراک بگذارید، کپی کنید و مواد را در هر رسانه یا قالبی مجدداً توزیع کنید. <emphasis role=\"bold\">شما مجاز هستید</emphasis> مواد را برای هر هدفی، حتی اهداف تجاری، تطبیق دهید، بازآمیزه کنید، تغییر دهید و بر اساس آن بسازید. <emphasis role=\"bold\">شما باید</emphasis> اعتبار مناسب را داده، پیوندی به مجوز ارائه دهید و در صورت ایجاد تغییرات آن را مشخص کنید.\n"
+"\n"
+"<emphasis role=\"bold\">شما مجاز هستید</emphasis> این کار را به هر روش معقولی انجام دهید، اما نه به گونه‌ای که暗示 دهد مجوزدهنده از شما یا استفاده شما حمایت می‌کند. اگر مواد را بازآمیزه، تغییر یا بر اساس آن می‌سازید، <emphasis role=\"bold\">شما باید</emphasis> مشارکت‌های خود را تحت همان مجوز اثر اصلی توزیع کنید. (این یک خلاصه قابل فهم برای انسان است - و جایگزین \"کد قانونی\" CC-BY-SA 4.0 نیست.)\n"
+"\n"
+"علاوه بر این، برای نسخه‌های بازآمیزه شده (آثار مشتق)، مجوزدهنده از شما درخواست می‌کند که هیچ گونه تغییری در سپاسگزاری‌های شخصی نویسنده و زندگینامه‌های کوتاه نویسنده و تصویرگر ایجاد نکنید، در عوض لطفاً آن بخش‌ها را به طور کامل از نسخه بازآمیزه شده خود حذف کنید.\n"
+"\n"
+"انتشار تحت این مجوز فرهنگی آزاد به لطف پشتیبانی فوق‌العاده dpunkt.verlag GmbH / O’Reilly Media, Inc. برای کتاب آلمانی و No Starch Press برای کتاب انگلیسی ممکن شد. متأسفانه، مجوزهای کرییتیو کامنز هنوز برای کتاب‌های منتشر شده تجاری استثناهای نادری هستند و اغلب توسط ناشران انقلابی و پرریسک تلقی می‌شوند.\n"
+"\n"
+"<emphasis role=\"bold\">سپاس فراوان</emphasis> از <emphasis role=\"bold\">dpunkt.verlag</emphasis> و <emphasis role=\"bold\">No Starch Press</emphasis> برای درک ارزش‌های آزادی نرم‌افزار، وقت گذاری برای بحث و درک مزایای مجوزهای فرهنگی آزاد، و پشتیبانی فوق‌العاده برای انتشار این کتاب تحت شرایطی که به ارزش‌های FSFE احترام می‌گذارد."
 
 #. (itstool) path: simplesect/literallayout
 #. Full page colophon. Intended for print use, as an alternative to the
@@ -323,6 +340,57 @@ msgid ""
 "\n"
 "<emphasis role=\"bold\">A big thank you</emphasis> to <emphasis role=\"bold\">dpunkt.verlag</emphasis> and <emphasis role=\"bold\">No Starch Press</emphasis> for understanding the values of software freedom, taking the time to discuss and understand the advantages of free cultural licenses, and the great support to publish this book under conditions that respect the FSFE’s values."
 msgstr ""
+"حق نشر © 2023 ماتیاس کیرشنر و ساندرا براندشتتر.\n"
+"این اثر تحت مجوز بین‌المللی کرییتیو کامنز انتساب-اشتراک‌گذاری یکسان 4.0 منتشر شده است.\n"
+"برای مشاهده متن کامل این مجوز به <link xlink:href=\"https://creativecommons.org/licenses/by-sa/4.0/\">https://creativecommons.org/licenses/by-sa/4.0/</link> مراجعه کنید یا نامه‌ای به کرییتیو کامنز، صندوق پستی 1866، مانتین ویو، کالیفرنیا 94042، ایالات متحده آمریکا ارسال کنید.\n"
+"\n"
+"<emphasis role=\"bold\">اِدا و زنگِمن: داستانی از نرم‌افزار، اسکیت‌برد و بستنی تمشک</emphasis> برگردانی است از نسخه اصلی آلمانی، Ada und Zangemann: Ein Märchen über Software, Skateboards und Himbeereis، که توسط انتشارات Dpunkt.verlag با همکاری O’Reilly Media, Inc.، تحت نشان تجاری \"O’REILLY\"، © 2022 توسط ماتیاس کیرشنر و ساندرا براندشتتر منتشر شده است.\n"
+"\n"
+"اولین چاپ\n"
+"\n"
+"26 25 24 23 22 1 2 3 4 5\n"
+"\n"
+"شابک: 978-1-7185-0318-2 (چاپی)\n"
+"شابک: 978-1-7185-0319-9 (کتاب الکترونیکی)\n"
+"\n"
+"ناشر: ویلیام پولاک\n"
+"نویسنده: ماتیاس کیرشنر\n"
+"تصویرگر: ساندرا براندشتتر\n"
+"مدیر ویراستاری: جیل فرانکلین\n"
+"ویراستار تولید: جنیفر کپلر\n"
+"ویراستار: ویبکه هلمشن\n"
+"کمک رنگ: اولگا بیروکووا، نوئمی سارکانی، ناتالی اسکاتولون، کریستینا هایدینگر و یاسمین اشلگل\n"
+"طراحی جلد: ساندرا براندشتتر و سوزان براون\n"
+"حروف‌چین: مورین فوریس، هپنستنس تایپ-او-راما\n"
+"\n"
+"برای اطلاعات در مورد توزیع، فروش عمده یا فروش شرکتی، لطفاً مستقیماً با نو استارچ پرس تماس بگیرید:\n"
+"\n"
+"نو استارچ پرس\n"
+"245 خیابان هشتم، سان فرانسیسکو، کالیفرنیا 94103\n"
+"تلفن: 1.415.863.9900\n"
+"<link xlink:href=\"https://nostarch.com/\">www.nostarch.com</link>\n"
+"\n"
+"سوابق کتابشناسی این کتاب در کتابخانه کنگره موجود است.\n"
+"\n"
+"نو استارچ پرس و لوگوی آن علائم تجاری ثبت شده نو استارچ پرس هستند. سایر نام‌های محصولات و شرکت‌های ذکر شده ممکن است علائم تجاری صاحبان مربوطه باشند.\n"
+"\n"
+"اطلاعات این کتاب بر اساس \"همانطور که هست\" ارائه می‌شود، بدون هیچ گونه تضمین. اگرچه در تهیه این اثر تمام احتیاط‌ها رعایت شده، اما neither نویسنده و neither نو استارچ پرس مسئولیتی در قبال هرگونه خسارت مستقیم یا غیرمستقیم ناشی از اطلاعات contained در آن ندارند.\n"
+"\n"
+"تمام شخصیت‌های این publication تخیلی هستند و هر گونه شباهت به persons واقعی، زنده یا مرده، کاملاً تصادفی است.\n"
+"\n"
+"**\n"
+"\n"
+"این کتاب اثر ماتیاس کیرشنر (نویسنده) و ساندرا براندشتتر (تصویرگر) تحت <emphasis role=\"bold\">مجوز کرییتیو کامنز CC-BY-SA</emphasis>، یک مجوز فرهنگی آزاد، منتشر شده است.\n"
+"\n"
+"<emphasis role=\"bold\">شما مجاز هستید</emphasis> مطالب را در هر رسانه یا قالبی به اشتراک بگذارید، کپی کنید و مجدداً توزیع نمایید. <emphasis role=\"bold\">شما مجاز هستید</emphasis> مطالب را برای هر هدفی، حتی اهداف تجاری، تطبیق دهید، بازآمیزه کنید، تغییر داده و بر اساس آن اثر جدید ایجاد نمایید. <emphasis role=\"bold\">شما باید</emphasis> اعتبار مناسب را داده، پیوندی به مجوز ارائه دهید و در صورت ایجاد تغییرات آن را مشخص کنید.\n"
+"\n"
+"<emphasis role=\"bold\">شما مجاز هستید</emphasis> این کار را به هر روش معقولی انجام دهید، اما نه به گونه‌ای که القا کند مجوزدهنده از شما یا استفاده شما حمایت می‌کند. اگر مطالب را بازآمیزه، تغییر یا بر اساس آن اثر جدید ایجاد می‌کنید، <emphasis role=\"bold\">شما باید</emphasis> آثار خود را تحت همان مجوز اثر اصلی منتشر کنید. (این یک خلاصه قابل درک برای انسان است و جایگزین \"متن قانونی\" CC-BY-SA 4.0 نمی‌باشد.)\n"
+"\n"
+"علاوه بر این، برای نسخه‌های بازآمیزه شده (آثار مشتق)، مجوزدهنده از شما درخواست می‌کند که هیچ گونه تغییری در سپاسگزاری‌های شخصی نویسنده و زندگینامه‌های کوتاه نویسنده و تصویرگر ایجاد نکنید، بلکه آن بخش‌ها را به طور کامل از نسخه بازآمیزه شده خود حذف کنید.\n"
+"\n"
+"انتشار تحت این مجوز فرهنگی آزاد به لطف پشتیبانی فوق‌العاده dpunkt.verlag GmbH / O’Reilly Media, Inc. برای کتاب آلمانی و نو استارچ پرس برای کتاب انگلیسی ممکن شد. متأسفانه، مجوزهای کرییتیو کامنز هنوز برای کتاب‌های منتشر شده تجاری استثناهای نادری هستند و اغلب توسط ناشران انقلابی و پرریسک تلقی می‌شوند.\n"
+"\n"
+"<emphasis role=\"bold\">سپاس فراوان</emphasis> از <emphasis role=\"bold\">dpunkt.verlag</emphasis> و <emphasis role=\"bold\">نو استارچ پرس</emphasis> برای درک ارزش‌های آزادی نرم‌افزار، وقت گذاری برای بحث و درک مزایای مجوزهای فرهنگی آزاد، و پشتیبانی فوق‌العاده برای انتشار این کتاب تحت شرایطی که به ارزش‌های FSFE احترام می‌گذارد."
 
 #. (itstool) path: simplesect/literallayout
 #. Grey section in the bottom of half page colophon.
@@ -337,10 +405,11 @@ msgid ""
 "We encourage you to support authors, publishers, and others involved in the creation of culture under free licenses – including <emphasis role=\"bold\">financially supporting them through purchases or donations</emphasis>. (<link xlink:href=\"https://fsfe.org/donate\">https://fsfe.org/donate</link>)\n"
 "Society should support those who respect others’ freedom."
 msgstr ""
-"آزاد بودن به معنیه آزادیه، نه رایگان بودن.\n"
-"نرم‌افزار آزاد درباره‌ی آزادی‌هاییه که باهاش دریافت می‌کنید، نه درباره‌ی قیمتش. همین‌طور وقتی یه کتاب با مجوز فرهنگ آزاد منتشر می‌شه، معنیش این نیست که حتماً باید یه نسخه مجانی ازش بگیری، معنیش اینه که  شما یکسری حقوقی داری (مثل استفاده، یاد گرفتن، اشتراک گذاشتن و تغییر دادن)؛ حقوقی که به جامعه امکان می‌دهه بیشتر از این کتاب بهره‌ ببرن، همونطور که باید از همه‌ی آثار فرهنگی بهره برد.\n"
+"<emphasis role=\"bold\">آزاد به معنای آزادی است، نه قیمت</emphasis>\n"
+"نرم‌افزار آزاد درباره آزادی‌هایی است که با نرم‌افزار دریافت می‌کنید، نه درباره قیمت آن. به همین ترتیب، انتشار یک کتاب تحت مجوز فرهنگ آزاد به این معنی نیست که شما حق دریافت رایگان کتاب یا کتاب الکترونیکی را دارید. این بدان معناست که شما حقوق توصیف شده در بالا را دریافت می‌کنید که جامعه را قادر می‌سازد از این کتاب بهره بیشتری ببرد، همانطور که باید از تمام آثار فرهنگی بهره‌مند شود.\n"
 "\n"
-"ما شما رو تشویق می‌کنیم که از نویسنده‌ها، ناشرها و افراد دیگه‌ای که تو خلق فرهنگ  آزاد نقش دارند حمایت کنید،   حتی از طریق خرید یا کمک‌مالی. https://fsfe.org/donate"
+"ما شما را تشویق می‌کنیم از نویسندگان، ناشران و دیگران involved در خلق فرهنگ تحت مجوزهای آزاد - از جمله <emphasis role=\"bold\">پشتیبانی مالی از آنها through خرید یا donations</emphasis> - حمایت کنید. (<link xlink:href=\"https://fsfe.org/donate\">https://fsfe.org/donate</link>)\n"
+"جامعه باید از those که به آزادی دیگران احترام می‌گذارند، حمایت کند."
 
 #. (itstool) path: info/title
 #. Page next to the colophon with title, subtitle, authors and
@@ -359,7 +428,7 @@ msgid ""
 "in the upper left. In the lower right, Ada’s family’s dog with gray fur and "
 "some white patches and with a red collar with shiny yellow LEDs, which wags "
 "its tail."
-msgstr ""
+msgstr "ماتیاس کیرشنر، ساندرا براندشتتر - **اِدا و زنگِمن** - داستانی از نرم‌افزار، اسکیت‌برد و بستنی تمشک. عنوان در وسط، نام نویسنده و تصویرگر در گوشه بالا سمت چپ. در گوشه پایین سمت راست، سگ خانواده اِدا با پوشش خاکستری و لکه‌های سفید، با گردنبند قرمز مجهز به ال‌ای‌دی های زرد درخشان دیده می‌شود که در حال تکان دادن دم است."
 
 #. (itstool) path: mediaobject/alt
 #. ignore-same
@@ -377,7 +446,7 @@ msgstr ""
 msgid ""
 "ADA &amp; ZANGEMANN - A Tale of Software, Skateboards and Raspberry Ice "
 "Cream. Title in the middle, authors in the upper left."
-msgstr "داستانی از نرم افزار، اسکیت برد و بستنی تمشکی. عنوان در وسط، نویسندگان در بالا سمت چپ."
+msgstr "اِدا و زنگِمن - داستانی از نرم‌افزار، اسکیت‌برد و بستنی تمشک، نام نویسنده و تصویرگر در بالا سمت چپ."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -386,7 +455,7 @@ msgstr "داستانی از نرم افزار، اسکیت برد و بستنی 
 msgid ""
 "In the lower right, Ada’s family’s dog with gray fur and some white patches "
 "and with a red collar with shiny yellow LEDs, which wags its tail."
-msgstr ""
+msgstr "در پایین سمت راست، سگ خانواده اِدا با پوششی خاکستری و لکه‌های سفید، با گردنبند قرمزی که ال‌ای‌دی های زرد درخشانی دارد دیده می‌شود و در حال تکان دادن دم است."
 
 #. (itstool) path: simplesect/literallayout
 #. In a literallayout element all space and newline characters are kept.
@@ -423,7 +492,7 @@ msgid ""
 "jar. They didn’t have enough money to live in a proper home. Instead, Ada "
 "lived with her mother and her little brother, Alan, in a cabin near a "
 "junkyard on the edge of town."
-msgstr "<phrase condition=\"capitals-text\">روزگاری</phrase><phrase condition=\"capitals-img\">وزگاری</phrase> دختری کوچک به نام آدا بود. خانواده‌اش آنقدر فقیر بودند که تمام پس‌اندازشان در یک شیرینی‌خوری جا می‌شد. آنها پول کافی برای زندگی در یک خانه معمولی نداشتند. در عوض، آدا با مادرش و برادر کوچکش، آلن، در کلبه‌ای نزدیک به یک آهن‌قراضه‌فروشی در حاشیه شهر زندگی می‌کرد."
+msgstr "<phrase condition=\"capitals-text\">روزگاری</phrase><phrase condition=\"capitals-img\">وزگاری</phrase> دختری کوچک به نام اِدا بود. خانواده‌اش آنقدر فقیر بودند که تمام پس‌اندازشان در یک شیرینی‌خوری جا می‌شد. آنها پول کافی برای زندگی در یک خانه معمولی نداشتند. در عوض،اِدا با مادرش و برادر کوچکش، آلن، در کلبه‌ای نزدیک به یک آهن‌قراضه‌فروشی در حاشیه شهر زندگی می‌کرد."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -454,7 +523,7 @@ msgid ""
 "veranda there are a mattress, a red oil drum, and a gray case. Behind the "
 "house there are piles of landfill objects among which you can see a washing "
 "machine, a car, and various wooden boards."
-msgstr "در پیش‌زمینه‌ی تصویر، آدا در حال ترک خانه برای رفتن به مدرسه است و در پس‌زمینه، خانه‌ی او و انباری از زباله‌ها دیده می‌شود. آدا یک کوله‌پشتی قهوه‌ای با بندهای زرد روی شانه دارد. در سمت چپ او، یک خودروی قرمز فولکس‌واگن بیتل بدون چرخ و از کار افتاده قرار گرفته است؛ تنها یکی از چراغ‌های جلو آن با سیم‌هایش آویزان مانده است .جلوی ماشین، دو تایر، دو جعبه – که یکی از آن‌ها جعبه‌ای چوبی با سطلی افتاده روی زمین است – و یک قوطی خالی در میان چند گیاه با گل‌های زرد دیده می‌شود.در پس‌زمینه، خانه‌ی آدا قرار دارد. مادر و برادرش آلن در حال دست تکان دادن برای خداحافظی هستند و سگ خانواده روی زمین نشسته است. آلن روی دو پله‌ی ورودی خانه نشسته، موهای کوتاه و تیره دارد و پیراهن سفید آستین‌کوتاهی به تن کرده که لبه‌ی آستین‌ها و پایین آن با نوارهای قرمز تزئین شده است. او شلوارک آبی پوشیده و پابرهنه است"
+msgstr "در پیش‌زمینه‌ی تصویر، آدا در حال ترک خانه برای رفتن به مدرسه است و در پس‌زمینه، خانه‌ی او و انباری از زباله‌ها دیده می‌شود. آدا یک کوله‌پشتی قهوه‌ای با بندهای زرد روی شانه دارد. در سمت چپ او، یک خودروی قرمز فولکس‌واگن بیتل بدون چرخ و از کار افتاده قرار گرفته است؛ تنها یکی از چراغ‌های جلو آن با سیم‌هایش آویزان مانده است .جلوی ماشین، دو تایر، دو جعبه – که یکی از آن‌ها جعبه‌ای چوبی با سطلی افتاده روی زمین است – و یک قوطی خالی در میان چند گیاه با گل‌های زرد دیده می‌شود.در پس‌زمینه، خانه‌ی آدا قرار دارد. مادر و برادرش آلن در حال دست تکان دادن برای خداحافظی هستند و سگ خانواده روی زمین نشسته است. آلن روی دو پله‌ی ورودی خانه نشسته، موهای کوتاه و تیره دارد و پیراهن سفید آستین‌کوتاهی به تن کرده که لبه‌ی آستین‌ها و پایین آن با نوارهای قرمز تزئین شده است. او شلوارک آبی پوشیده و پابرهنه است."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -463,7 +532,7 @@ msgstr "در پیش‌زمینه‌ی تصویر، آدا در حال ترک خ�
 msgid ""
 "Prestigious magazines (“STARS“, “MONEY”, “Richest Man”) on whose cover are "
 "Zangemann and his villa."
-msgstr ""
+msgstr "مجلات معتبر («ستاره‌ها»، «پول»، «ثروتمندترین مرد») که روی جلد آنها تصویر زنگِمن و ویلایش دیده می‌شود."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:518
@@ -475,12 +544,12 @@ msgid ""
 "of windows, and so many rooms that he often got lost in them himself. "
 "Zangemann’s mansion stood high on a hill. From there, he could look out over "
 "the whole city."
-msgstr "در نقطه‌ای دور، در انتهای دیگر شهر، مخترع مشهوری به نام زنگمان زندگی می‌کرد. او فوق‌العاده ثروتمند بود. هیچ برگ کاغذی در دنیا به اندازه‌ای بزرگ نبود که بتواند موجودی حساب بانکی او را با تمام اعداد و صفرهایش نشان دهد! او در یک خانه عظیم با استخر، سرسره آبی، پلکان‌ها و برج‌های فراوان، صدها پنجره و آنقدر اتاق زندگی می‌کرد که اغلب خودش نیز در آن‌ها گم می‌شد. عمارت زنگمن در بالای یک تپه قرار داشت. او از آنجا می‌توانست کل شهر را زیر نظر داشته باشد."
+msgstr "در نقطه‌ای دور، در انتهای دیگر شهر، مخترع مشهوری به نام زنگِمن زندگی می‌کرد. او فوق‌العاده ثروتمند بود. هیچ برگ کاغذی در دنیا به اندازه‌ای بزرگ نبود که بتواند موجودی حساب بانکی او را با تمام اعداد و صفرهایش نشان دهد! او در یک خانه عظیم با استخر، سرسره آبی، پلکان‌ها و برج‌های فراوان، صدها پنجره و آنقدر اتاق زندگی می‌کرد که اغلب خودش نیز در آن‌ها گم می‌شد. عمارت زنگِمن در بالای یک تپه قرار داشت. او از آنجا می‌توانست کل شهر را زیر نظر داشته باشد."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:523
 msgid "Zangemann and computers"
-msgstr "زنگمن و کامپیوترها"
+msgstr "زنگِمن و کامپیوترها"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p06-1
@@ -502,7 +571,7 @@ msgid ""
 "robot and a block-sorting machine so that his room would always be neat and "
 "clean. Zangemann had great new ideas like these every day. He could think of "
 "nothing else."
-msgstr "<phrase condition=\"capitals-text\">کامپیوترها</phrase><phrase condition=\"capitals-img\">امپیوترها</phrase> از زمانی که کودک بود، زانگمان را مجذوب کرده بودند. وقتی جوان بود، کامپیوترها ماشین‌های عظیمی با کابل‌های فراوان و پنکه‌های بلند و پرسر و صدا بودند. در مدرسه، زانگمان کوچک اغلب رویای کارهایی را در سر می‌پروراند که با کامپیوترها انجام می‌داد اگر فقط کمی کوچک‌تر می‌شدند — آنقدر کوچک که بتوان آنها را در چیزهای سرگرم‌کننده دیگر تعبیه کرد. او می‌دانست چه کاری باید انجام دهد. اول، کامپیوتری را در اسکیت‌بورد خود می‌ساخت تا صداهای جذابی هنگام سوار شدن ایجاد کند — شاید صدای آژیر ماشین آتش‌نشانی یا صدای پرتاب موشک. سپس از کامپیوتر برای اختراع دستگاه‌های بستنی‌سازی استفاده می‌کرد! کامپیوتر مزه‌های هیجان‌انگیز را مخلوط می‌کرد و حتی بستنی را می‌فروخت. دستگاه‌هایی در هر گوشه خیابان وجود داشت، و او می‌توانست هر زمان که دلش می‌خواست بستنی با مزه مورد علاقه‌اش را و به هر میزان که می‌خواست، تهیه کند. بعد از آن، ربات نظافتچی و دستگاه مرتب‌کننده بلوک‌ها می‌ساخت تا اتاقش همیشه مرتب و تمیز باشد. زانگمان هر روز ایده‌های جدید و خلاقانه‌ای مانند اینها داشت. او جز این به چیز دیگری فکر نمی‌کرد."
+msgstr "<phrase condition=\"capitals-text\">کامپیوترها</phrase><phrase condition=\"capitals-img\">omputers</phrase>از زمانی که کودک بود، زنگِمن را مجذوب کرده بودند. وقتی جوان بود، کامپیوترها ماشین‌های عظیمی با کابل‌های فراوان و پنکه‌های بلند و پرسر و صدا بودند. در مدرسه، زنگِمن کوچک اغلب رویای کارهایی را در سر می‌پروراند که با کامپیوترها انجام می‌داد اگر فقط کمی کوچک‌تر می‌شدند — آنقدر کوچک که بتوان آنها را در چیزهای سرگرم‌کننده دیگر تعبیه کرد. او می‌دانست چه کاری باید انجام دهد. اول، کامپیوتری را در اسکیت‌بورد خود می‌ساخت تا صداهای جذابی هنگام سوار شدن ایجاد کند — شاید صدای آژیر ماشین آتش‌نشانی یا صدای پرتاب موشک. سپس از کامپیوتر برای اختراع دستگاه‌های بستنی‌سازی استفاده می‌کرد! کامپیوتر مزه‌های هیجان‌انگیز را مخلوط می‌کرد و حتی بستنی را می‌فروخت. دستگاه‌هایی در هر گوشه خیابان وجود داشت، و او می‌توانست هر زمان که دلش می‌خواست بستنی با مزه مورد علاقه‌اش را و به هر میزان که می‌خواست، تهیه کند. بعد از آن، ربات نظافتچی و دستگاه مرتب‌کننده بلوک‌ها می‌ساخت تا اتاقش همیشه مرتب و تمیز باشد. زنگِمن هر روز ایده‌های جدید و خلاقانه‌ای مانند اینها داشت. او جز این به چیز دیگری فکر نمی‌کرد."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:528
@@ -510,7 +579,7 @@ msgid ""
 "As the years went by, Zangemann grew bigger and computers got smaller. In "
 "fact, by the time he finished school, they were so small they fit in his "
 "pocket. The smallest ones even fit on his fingertip."
-msgstr "با گذشت سال‌ها، زنگمان بزرگ‌تر شد و کامپیوترها کوچکتر شدند. در واقع، تا زمانی که او مدرسه را تمام کرد، آن‌ها به قدری کوچک شده بودند که در جیبش جا می‌شدند. کوچک‌ترین آن‌ها حتی بر روی نوک انگشتش جا می‌گرفتند."
+msgstr "با گذشت سال‌ها، زنگِمن بزرگ‌تر شد و کامپیوترها کوچکتر شدند. در واقع، تا زمانی که او مدرسه را تمام کرد، آن‌ها به قدری کوچک شده بودند که در جیبش جا می‌شدند. کوچک‌ترین آن‌ها حتی بر روی نوک انگشتش جا می‌گرفتند."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -526,7 +595,7 @@ msgid ""
 "wears glasses and a big watch on his left wrist. On the table there are an "
 "open notebook, a yellow pencil, and an eraser, while hanging on the side of "
 "the table there is his brown briefcase."
-msgstr ""
+msgstr "زنگِمن در کودکی روی صندلی پشت میز مدرسه نشسته است. از سرش شش حباب فکر خارج می‌شود که ایده‌های او برای جاهایی که می‌توان کامپیوتر کار گذاشت را نشان می‌دهد: یک سیستم تماس تصویری، یک بلندگو، یک ماشین لباسشویی، یک اسکیت‌برد با کنترل رادیویی روی مانیتور بزرگ کامپیوتر، یک کامپیوتر مچی و یک کامپیوتر شانه‌ای با مانیتور و صفحه کلید. زنگِمن موهای خاکستری، پیراهن بنفش تیره با راه‌راه های آبی، شلوارک آبی، کفش قهوه‌ای و جوراب سفید دارد. او عینک و یک ساعت بزرگ روی مچ چپش wear می‌کند. روی میز یک دفترچه باز، یک مداد زرد و یک پاک‌کن وجود دارد، در حالی که کیف مدرسه قهوه‌ای او از کنار میز آویزان است."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:540
@@ -534,7 +603,7 @@ msgid ""
 "“Finally, I can turn all my ideas into real things!” Zangemann exclaimed, "
 "and he got right to work. He found ways to put the small computers into all "
 "kinds of things to make them even more fun and useful. And then he sold them."
-msgstr "\"بالاخره می‌توانم تمام ایده‌هایم را به چیزهای واقعی تبدیل کنم!\" زنگمان با هیجان گفت و بلافاصله به کارش پرداخت. او راه‌هایی پیدا کرد تا کامپیوترهای کوچک را در انواع مختلفی از چیزها قرار دهد تا آن‌ها را حتی بیشتر سرگرم‌کننده و مفید کند. و سپس آن‌ها را فروخت."
+msgstr "\"بالاخره می‌توانم تمام ایده‌هایم را به چیزهای واقعی تبدیل کنم!\"زنگِمن با هیجان گفت و بلافاصله به کارش پرداخت. او راه‌هایی پیدا کرد تا کامپیوترهای کوچک را در انواع مختلفی از چیزها قرار دهد تا آن‌ها را حتی بیشتر سرگرم‌کننده و مفید کند. و سپس آن‌ها را فروخت."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -550,7 +619,7 @@ msgid ""
 "sign with a scoop of candy-pink ice cream in a cone. On the back of the "
 "machine there is the refrigeration machinery with the “Z” of the Zangemann "
 "logo."
-msgstr ""
+msgstr "ماشین بستنی‌سازی اصلی زنگِمن. این دستگاه به رنگ آبی یخی است و شبیه به دستگاه فروش نوشیدنی است، اما به جای لیوان، یک قیف وجود دارد که با بستنی پر می‌شود. above the dispenser there is a monitor showing the variety that is distributed, in this case pineapple ice cream. در سمت چپ، شیار برای انداختن سکه، دکمه‌های مختلف برای انتخاب طعم و سوراخ برگشت سکه قرار دارد. در بالای دستگاه یک تابلو گرد سفید با تصویر یک اسکوپ بستنی صورتی آبنباتی در قیف نصب شده است. در پشت دستگاه، تجهیزات خنک‌کننده با لوگو \"Z\" زنگِمن قرار دارد."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:547
@@ -563,7 +632,7 @@ msgid ""
 "Original Zangemann Ice Cream Machine. It all seemed like magic, but the "
 "secret was simple: the little computers that Zangemann built into his "
 "machines made it all possible."
-msgstr "بزرگ‌ترها و بچه‌ها اختراعات او را دوست داشتند. همه بچه‌ها می‌خواستند یکی از اسکیت‌بردهای او را داشته باشند — با آخرین صداها برای نمایش به دوستانشان در مدرسه. بچه‌ها همچنین اختراع بلندگوی او را دوست داشتند که می‌توانست به‌طور آنی هر آهنگی را که درخواست می‌کردید پخش کند. و البته، همه از بستنی که هر بعدازظهر از دستگاه بستنی‌ساز اتوماتیک و فوق‌العاده خوشمزه زنگمان سرو می‌شد، لذت می‌بردند. همه چیز به نظر جادو می‌رسید، اما راز آن ساده بود: کامپیوترهای کوچکی که زنگمان در دستگاه‌هایش ساخته بود، همه چیز را ممکن می‌کرد."
+msgstr "بزرگ‌ترها و بچه‌ها اختراعات او را دوست داشتند. همه بچه‌ها می‌خواستند یکی از اسکیت‌بردهای او را داشته باشند — با آخرین صداها برای نمایش به دوستانشان در مدرسه. بچه‌ها همچنین اختراع بلندگوی او را دوست داشتند که می‌توانست به‌طور آنی هر آهنگی را که درخواست می‌کردید پخش کند. و البته، همه از بستنی که هر بعدازظهر از دستگاه بستنی‌ساز اتوماتیک و فوق‌العاده خوشمزه زنگِمن سرو می‌شد، لذت می‌بردند. همه چیز به نظر جادو می‌رسید، اما راز آن ساده بود: کامپیوترهای کوچکی که زنگِمن در دستگاه‌هایش ساخته بود، همه چیز را ممکن می‌کرد."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -573,7 +642,7 @@ msgid ""
 "An original Zangemann electric skateboard leaving a blue trail with musical "
 "notes and colored circles. Only the knees, white socks, and olive green "
 "shoes with white soles of the child riding it are shown."
-msgstr ""
+msgstr "اسکیت‌برد الکتریکی اصلی زنگِمن که ردی آبی از نت‌های موسیقی و دایره‌های رنگی بر جای می‌گذارد. تنها زانوها، جوراب‌های سفید و کفش‌های سبز زیتونی با کف سفید کودک سوار بر آن نشان داده شده‌است."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -589,7 +658,7 @@ msgid ""
 "table there are tires and an old phone with faulty wire. Alan is coming "
 "toward Ada holding a yellow fan over his head. Alan now wears white socks "
 "and yellow shoes."
-msgstr ""
+msgstr "اِدا در آزمایشگاه غیرموفقش به اشیاء مشغول دست‌کاری است. اِدا روی یک ظرف آب واژگون نشسته و با یک پیچ‌گوشتی زرد در حال تعمیر است. روی میز همچنین انبردست سبز، چکش قرمز، یک چندراهی سفید و یک دستگاه دیگر وجود دارد. اِدا روی میزی نشسته که از یک تخته چوبی تشکیل شده و بر روی دو بشکه روغن (یکی خاکستری و یکی قرمز) و یک گهواره چوبی کوچک قرار دارد. پشت اِدا، یک ماشین لباسشویی، لوله‌ها و یک تخته وجود دارد. در مقابل میز غیرموفق، لاستیک‌ها و یک تلفن قدیمی با سیم معیوب قرار دارد. آلن به سمت اِدا می‌آید و یک پنکه زرد را بالای سرش نگه داشته است. آلن اکنون جوراب‌های سفیدی به پا و کفش‌های زردی پوشیده است."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:562
@@ -598,7 +667,7 @@ msgid ""
 "rode around on the cool skateboards. Ada was often sad, since her mother "
 "couldn’t buy her any of those great things: no skateboard, no speakers, no "
 "ice cream."
-msgstr "این اختراعات در مدرسه آدا بسیار محبوب بودند و بسیاری از دوستانش با اسکیت‌بوردهای باحال اینور و اونور می‌رفتند. آدا اغلب ناراحت بود، چون مادرش نمی‌توانست هیچ‌کدام از آن وسایل عالی را برایش بخرد: نه اسکیت‌بورد، نه اسپیکر، نه بستنی."
+msgstr "این اختراعات در مدرسه اِدا بسیار محبوب بودند و بسیاری از دوستانش با اسکیت‌بوردهای باحال اینور و اونور می‌رفتند. اِدا اغلب ناراحت بود، چون مادرش نمی‌توانست هیچ‌کدام از آن وسایل عالی را برایش بخرد: نه اسکیت‌بورد، نه اسپیکر، نه بستنی."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:564
@@ -610,14 +679,14 @@ msgid ""
 "many useful items—an old cell phone, for example. The screen was cracked, "
 "but she could fix that, and while there wasn’t internet at the junkyard, she "
 "could get access somewhere else."
-msgstr "خوشبختانه، آدا درست کنار اوراقچی زندگی می‌کرد. آنجا پر از ابزارک‌های خراب و قطعات زنگ‌زده بود، که او آن‌ها را سر هم می‌کرد تا چیزهای جدید و جالبی بسازد، مثل یک ماشین چوبی (سوباکس) که او و آلن با غرش از تپه پایین می‌راندند، یک آسیاب بادی، و هیولاهای ترسناک اوراقی، که او و آلن با هم با آن‌ها مبارزه می‌کردند. او همچنین وسایل مفید زیادی پیدا می‌کرد—مثلاً یک تلفن همراه قدیمی. صفحه نمایش آن شکسته بود، اما می‌توانست آن را تعمیر کند، و اگرچه در اوراقچی اینترنت نبود، می‌توانست در جای دیگری به آن دسترسی پیدا کند."
+msgstr "خوشبختانه، اِدا درست کنار اوراقچی زندگی می‌کرد. آنجا پر از ابزارک‌های خراب و قطعات زنگ‌زده بود، که او آن‌ها را سر هم می‌کرد تا چیزهای جدید و جالبی بسازد، مثل یک ماشین چوبی (سوباکس) که او و آلن با غرش از تپه پایین می‌راندند، یک آسیاب بادی، و هیولاهای ترسناک اوراقی، که او و آلن با هم با آن‌ها مبارزه می‌کردند. او همچنین وسایل مفید زیادی پیدا می‌کرد—مثلاً یک تلفن همراه قدیمی. صفحه نمایش آن شکسته بود، اما می‌توانست آن را تعمیر کند، و اگرچه در اوراقچی اینترنت نبود، می‌توانست در جای دیگری به آن دسترسی پیدا کند."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:565
 msgid ""
 "Ada had so much fun tinkering in the junkyard and fixing broken things that "
 "she forgot all about the skateboards and the ice cream."
-msgstr "ادا آنقدر از تعمیر کردن و ور رفتن با اشیای شکسته در آهن‌قراضه‌فروشی لذت می‌برد که اسکیت‌بوردها و بستنی را کاملاً فراموش کرده بود."
+msgstr "اِدا آنقدر از تعمیر کردن و ور رفتن با اشیای شکسته در آهن‌قراضه‌فروشی لذت می‌برد که اسکیت‌بوردها و بستنی را کاملاً فراموش کرده بود."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:569
@@ -627,7 +696,7 @@ msgid ""
 "computer with a keyboard made of jewels and set it up in the largest room of "
 "his mansion. From there, over the internet, he could control all the little "
 "computers built into his inventions."
-msgstr "چون همه اختراعات زانگمن رو خریدن، خیلی زود شد پولدارترین آدم دنیا. با اون همه پولش، یه کامپیوتر طلایی گنده خرید با کیبوردی که از جواهر درست شده بود و گذاشتش توی بزرگ‌ترین اتاق عمارتش. از همون‌جا، با اینترنت می‌تونست همه کامپیوترهای کوچیکی رو که توی اختراعاتش کار گذاشته بود کنترل کنه."
+msgstr "چون همه اختراعات زنگِمن رو خریدن، خیلی زود زنگِمن تبدیل شد به پولدارترین آدم دنیا. با اون همه پولش، یه کامپیوتر طلایی گنده خرید با کیبوردی که از جواهر درست شده بود و گذاشتش توی بزرگ‌ترین اتاق عمارتش. از همون‌جا، با اینترنت می‌تونست همه کامپیوترهای کوچیکی رو که توی اختراعاتش کار گذاشته بود کنترل کنه."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:570
@@ -640,7 +709,7 @@ msgid ""
 "was always thrilled at how amazingly well his machines worked. Sometimes "
 "people were disappointed when their favorite flavor wasn’t available, but "
 "what could they do? After all, there was ice cream on every street corner."
-msgstr "تمام کاری که باید می‌کرد این بود که کلید مناسب را روی کامپیوتر طلایی فشار دهد، و بلافاصله تمام ماشین‌های بستنی‌سازی در شهر فقط بستنی وانیلی می‌دادند. اگر زنگمان می‌خواست مردم بستنی شکلاتی بخورند، کلید بستنی شکلاتی را فشار می‌داد. اگر دستور بستنی لیمویی می‌داد، دستگاه‌ها فقط بستنی لیمویی تولید می‌کردند. زنگمان اختراعاتش را دوست داشت و همیشه از اینکه دستگاه‌هایش چقدر خوب و شگفت‌انگیز کار می‌کنند، هیجان‌زده می‌شد. گاهی اوقات مردم وقتی طعم مورد علاقه‌شان در دسترس نبود، ناامید می‌شدند، اما چه کاری از دستشان برمی‌آمد؟ به هر حال، در هر گوشه خیابان بستنی وجود داشت."
+msgstr "تمام کاری که باید می‌کرد این بود که کلید مناسب را روی کامپیوتر طلایی فشار دهد، و بلافاصله تمام ماشین‌های بستنی‌سازی در شهر فقط بستنی وانیلی می‌دادند. اگر زنگِمن می‌خواست مردم بستنی شکلاتی بخورند، کلید بستنی شکلاتی را فشار می‌داد. اگر دستور بستنی لیمویی می‌داد، دستگاه‌ها فقط بستنی لیمویی تولید می‌کردند. زنگِمن اختراعاتش را دوست داشت و همیشه از اینکه دستگاه‌هایش چقدر خوب و شگفت‌انگیز کار می‌کنند، هیجان‌زده می‌شد. گاهی اوقات مردم وقتی طعم مورد علاقه‌شان در دسترس نبود، ناامید می‌شدند، اما چه کاری از دستشان برمی‌آمد؟ به هر حال، در هر گوشه خیابان بستنی وجود داشت."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -650,7 +719,7 @@ msgid ""
 "A white power strip attached to a wall socket. The power strip has 3 sockets "
 "and a green switch. One of the sockets is attached to a plug with a gray "
 "cable."
-msgstr ""
+msgstr "یک محافظ برق سفید که به پریز دیواری متصل است. این محافظ برق دارای ۳ پریز و یک کلید سبز رنگ می‌باشد. یکی از پریزها به یک دوشاخه با کابل خاکستری متصل شده است."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:579
@@ -659,7 +728,7 @@ msgid ""
 "eat ice cream. He spent many hours every day in front of his golden computer "
 "doing this. Again and again, he looked down on the city through a long "
 "telescope, observing how reliably his inventions carried out his commands."
-msgstr "زنگمن از فشار دادن کلیدهای براق و تماشای مردم در حال بستنی خوردن، لذت زیادی می‌برد. او هر روز ساعت‌های زیادی را جلوی کامپیوتر طلایی‌اش صرف این کار می‌کرد. او بارها و بارها از طریق یک تلسکوپ بلند به شهر نگاه می‌کرد و مشاهده می‌کرد که اختراعاتش با چه دقتی دستورات او را انجام می‌دهند."
+msgstr "زنگِمن از فشار دادن کلیدهای براق و تماشای مردم در حال بستنی خوردن، لذت زیادی می‌برد. او هر روز ساعت‌های زیادی را جلوی کامپیوتر طلایی‌اش صرف این کار می‌کرد. او بارها و بارها از طریق یک تلسکوپ بلند به شهر نگاه می‌کرد و مشاهده می‌کرد که اختراعاتش با چه دقتی دستورات او را انجام می‌دهند."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -672,7 +741,7 @@ msgid ""
 "computer has four ornate monitors of various sizes, each of which has the "
 "logo on the back. It is integrated into a costly wooden desk from which a "
 "gray cable flows that is connected to the power strip of the previous page."
-msgstr ""
+msgstr "زنگِمن روی یک صندلی دسته‌دار طلایی با پشتی بلند قرمز رنگ که در بالای آن لوگوی \"Z\" زنگِمن قرار دارد، نشسته و مقابل کامپیوتر طلایی خود قرار گرفته. او یک پولیور یقه‌دار بنفش و شلوار آبی کمرنگ به تن دارد. کامپیوتر دارای چهار مانیتور تزئینی در اندازه‌های مختلف است که پشت هر یک از آنها لوگو نقش بسته. این کامپیوتر در یک میز کار چوبی گرانقیمت تعبیه شده که یک کابل خاکستری از آن خارج شده و به محافظ برق صفحه قبلی متصل است."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:589
@@ -683,7 +752,7 @@ msgid ""
 "He made vacuums that played happy music instead of droning loudly. He "
 "invented light bulbs that turned on and off at the snap of a finger and cars "
 "that told you where the nearest grocery store was."
-msgstr "وقتی زنگمن پای کامپیوتر طلاییش نمی‌نشست، سرگرم این بود که کامپیوترهای کوچیکش رو توی وسایل جدید جاساز کنه و بعد هم اونا رو بفروشه. مثلاً ماشین لباسشویی ساخت که وقتی لباست شسته می‌شد، یه پیام می‌فرستاد روی گوشیت. یا جاروبرقی‌هایی درست کرد که به‌جای سر و صدای اعصاب‌خردکن، آهنگای شاد پخش می‌کردن. حتی لامپایی اختراع کرد که با یه بشکن روشن و خاموش می‌شدن و ماشین‌هایی که بهت می‌گفتن نزدیک‌ترین فروشگاه مواد غذایی کجاست."
+msgstr "وقتی زنگِمن پای کامپیوتر طلاییش نمی‌نشست، سرگرم این بود که کامپیوترهای کوچیکش رو توی وسایل جدید جاساز کنه و بعد هم اونا رو بفروشه. مثلاً ماشین لباسشویی ساخت که وقتی لباست شسته می‌شد، یه پیام می‌فرستاد روی گوشیت. یا جاروبرقی‌هایی درست کرد که به‌جای سر و صدای اعصاب‌خردکن، آهنگای شاد پخش می‌کردن. حتی لامپایی اختراع کرد که با یه بشکن روشن و خاموش می‌شدن و ماشین‌هایی که بهت می‌گفتن نزدیک‌ترین فروشگاه مواد غذایی کجاست."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -694,7 +763,7 @@ msgid ""
 "On the road there are a car and a cyclist. There are various children and "
 "adults walking or going on skateboards, some eating ice cream, while others "
 "are buying ice cream from the original Zangemann machines."
-msgstr ""
+msgstr "منظره شهری با خانه‌ها و مغازه‌ها، با یک خیابان مرکزی که به سمت راست می‌پیچد. در جاده یک خودرو و یک دوچرخه‌سوار دیده می‌شود. کودکان و بزرگسالان مختلفی در حال راه رفتن یا اسکیت‌بردسواری هستند، برخی بستنی می‌خورند در حالی که دیگران از دستگاه‌های اصلی زنگِمن بستنی خریداری می‌کنند."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:596
@@ -703,7 +772,7 @@ msgid ""
 "into it. Not all of his inventions seemed necessary at first, but people "
 "bought everything he made. That’s just the way it was. Everyone wanted the "
 "devices made by Zangemann, the greatest inventor in the world."
-msgstr "تقریباً در هر وسیله‌ای در جهان یک رایانه‌ی زنگمن استفاده میکرد. همه‌ی اختراعات او در ابتدا ضروری به نظر نمی‌رسیدند، اما مردم هر چیزی را که او می‌ساخت می‌خریدند. اوضاع همین‌طور بود. همه دستگاه‌هایی را می‌خواستند که توسط زانگمن، بزرگ‌ترین مخترع جهان، ساخته شده بود."
+msgstr "تقریباً در هر وسیله‌ای در جهان یک رایانه‌ی زنگِمن استفاده میکرد. همه‌ی اختراعات او در ابتدا ضروری به نظر نمی‌رسیدند، اما مردم هر چیزی را که او می‌ساخت می‌خریدند. اوضاع همین‌طور بود. همه دستگاه‌هایی را می‌خواستند که توسط زنگِمن، بزرگ‌ترین مخترع جهان، ساخته شده بود."
 
 #. (itstool) path: info/title
 #. Intended as 'on a day', not 'a single day'. This is supposed to be
@@ -719,7 +788,7 @@ msgid ""
 "put away his big telescope, then climbed down the many stairs of his mansion "
 "and ventured out into the city, full of anticipation at the thought of "
 "enjoying his cool devices."
-msgstr "یه روز زنگمان با خودش گفت: «امروز دلم می‌خواد از نزدیک ببینم چی اختراع کردم.» تلسکوپ بزرگشو جمع کرد، از پله‌های بلند عمارتش پایین رفت و راه افتاد سمت شهر، پر از هیجان که بالاخره می‌خواد با دستگاه‌های باحال خودش حال کنه."
+msgstr "یه روز زنگِمن با خودش گفت: «امروز دلم می‌خواد از نزدیک ببینم چی اختراع کردم.» تلسکوپ بزرگشو جمع کرد، از پله‌های بلند عمارتش پایین رفت و راه افتاد سمت شهر، پر از هیجان که بالاخره می‌خواد با دستگاه‌های باحال خودش حال کنه."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -732,7 +801,7 @@ msgid ""
 "in a large swimming pool with two palm trees. The roofs are red, and above "
 "the highest tower an antenna is installed. On the sides of the stairs to get "
 "off the hill there are evergreen trees."
-msgstr "زانگمن از پله‌های عمارتش که بر فراز تپه قرار دارد به سمت شهر پایین می‌آید. خانه‌ی زانگمن روی یک تپه ساخته شده است. نمای جلویی آن آبی با پنجره‌های بزرگ است؛ برج‌ها به رنگ آبی تیره‌اند و از یکی از پنجره‌ها سرسره‌ای زرد آغاز می‌شود که به استخر بزرگی با دو درخت نخل ختم می‌گردد. سقف‌ها قرمز هستند و بر بالاترین برج یک آنتن نصب شده است. در دو طرف پله‌هایی که از تپه پایین می‌آیند درختان همیشه‌سبز وجود دارند."
+msgstr "زنگِمن از پله‌های عمارتش که بر فراز تپه قرار دارد به سمت شهر پایین می‌آید. خانه‌ی زنگِمن روی یک تپه ساخته شده است. نمای جلویی آن آبی با پنجره‌های بزرگ است؛ برج‌ها به رنگ آبی تیره‌اند و از یکی از پنجره‌ها سرسره‌ای زرد آغاز می‌شود که به استخر بزرگی با دو درخت نخل ختم می‌گردد. سقف‌ها قرمز هستند و بر بالاترین برج یک آنتن نصب شده است. در دو طرف پله‌هایی که از تپه پایین می‌آیند درختان همیشه‌سبز وجود دارند."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:613
@@ -742,7 +811,7 @@ msgid ""
 "Zangemann pondered. “But my ice-cream machines are and will remain second to "
 "none,” he thought immediately afterward, and not without pride, as he passed "
 "a group of people all eating coconut ice cream, the flavor of the day."
-msgstr "«شاید یه گردش کوچیک چندتا ایده‌ی تازه هم بهم بده. راستشو بخوای، اختراع‌های آخرم اون‌قدر به درد بخور نبودن که اولی‌ها بودن...» زنگمن با خودش فکر کرد. «ولی دستگاه‌های بستنی‌سازم بی‌رقیب بودن و همیشه بی‌رقیب هم می‌مونن»، بلافاصله با غرور تو دلش گفت، همون‌طور که از کنار یه گروه آدم رد می‌شد که همگی داشتن بستنی نارگیلی می‌خوردن ، طعم مخصوص امروز بود."
+msgstr "شاید یه گردش کوچیک چندتا ایده‌ی تازه هم بهم بده. راستشو بخوای، اختراع‌های آخرم اون‌قدر به درد بخور نبودن که اولی‌ها بودن...» زنگِمن با خودش فکر کرد. «ولی دستگاه‌های بستنی‌سازم بی‌رقیب بودن و همیشه بی‌رقیب هم می‌مونن»، بلافاصله با غرور تو دلش گفت، همون‌طور که از کنار یه گروه آدم رد می‌شد که همگی داشتن بستنی نارگیلی می‌خوردن ، طعم مخصوص امروز بود."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:615
@@ -761,7 +830,7 @@ msgid ""
 "brown hair that is blown back by Zangemann’s scream; he is wearing a light "
 "blue hooded sweatshirt and dark green pants. He holds a red Zangemann "
 "electric skateboard."
-msgstr "زنگمن پس از حادثه با کودک. زانگمن از شدت درد فریاد می‌کشید در حالی‌که هر دو دستش را بریک ساق پایش گرفته بود. کودک موهای قهوه‌ای دارد که بر اثر فریاد زانگمن به عقب رانده شد؛ او یک سوییشرت کلاه‌دار آبی روشن و شلوار سبز تیره پوشیده است. در دستش یک اسکیت‌برد برقی قرمزِ زانگمن را نگه داشته است."
+msgstr "زنگِمن پس از حادثه با کودک. زنگِمن از شدت درد فریاد می‌کشید در حالی‌که هر دو دستش را بریک ساق پایش گرفته بود. کودک موهای قهوه‌ای دارد که بر اثر فریاد زنگِمن به عقب رانده شد؛ او یک سوییشرت کلاه‌دار آبی روشن و شلوار سبز تیره پوشیده است. در دستش یک اسکیت‌برد برقی قرمزِ زنگِمن را نگه داشته است."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:624
@@ -770,7 +839,7 @@ msgid ""
 "front of him, holding an original Zangemann skateboard under his arm. "
 "“Sorry, I didn’t mean to do that,” the child stammered, but Zangemann wasn’t "
 "listening."
-msgstr "زانگمان فریادی کشید و به اطراف نگاه کرد تا علت را پیدا کند. کودکی هراسان روبروی او ایستاده بود، یک تخته اسکیت اصل زانگمن را زیر بغل داشت. کودک به لکنت گفت: «ببخشید، نمی‌خواستم این کار رو بکنم»، اما زانگمان گوش نمی‌داد."
+msgstr "زنگِمن فریادی کشید و به اطراف نگاه کرد تا علت را پیدا کند. کودکی هراسان روبروی او ایستاده بود، یک تخته اسکیت اصل زنگِمن را زیر بغل داشت. کودک به لکنت گفت: «ببخشید، نمی‌خواستم این کار رو بکنم»، اما زنگِمن گوش نمی‌داد."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:625
@@ -781,7 +850,7 @@ msgid ""
 "street was holding it. The child seemed to like the music, but it gave "
 "Zangemann a terrible headache, and his mood worsened. This was not how he "
 "had imagined his walk!"
-msgstr "زنگمان با عصبانیت لنگ‌لنگون راهشو کشید و رفت. یهو یه موزیک خیلی بلند به گوشش رسید. هیچ‌وقت همچین چیز وحشتناکی نشنیده بود! دور و برشو نگاه کرد و دید صدا از یه بلندگویی میاد که خودش ساخته بود. اون طرف خیابون یه بچه داشت بلندگو رو دستش می‌گرفت. به نظر می‌رسید بچه حال می‌کنه با اون آهنگ‌ها، ولی برای زنگمان فقط یه سردرد وحشتناک آورد و حالش بدتر شد. اصلاً همچین پیاده‌روی تو ذهنش تصور نکرده بود!"
+msgstr "زنگِمن با عصبانیت لنگ‌لنگون راهشو کشید و رفت. یهو یه موزیک خیلی بلند به گوشش رسید. هیچ‌وقت همچین چیز وحشتناکی نشنیده بود! دور و برشو نگاه کرد و دید صدا از یه بلندگویی میاد که خودش ساخته بود. اون طرف خیابون یه بچه داشت بلندگو رو دستش می‌گرفت. به نظر می‌رسید بچه حال می‌کنه با اون آهنگ‌ها، ولی برای زنگِمن فقط یه سردرد وحشتناک آورد و حالش بدتر شد. اصلاً همچین پیاده‌روی تو ذهنش تصور نکرده بود!"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -795,7 +864,7 @@ msgid ""
 "green sweater, dark brown pants, and light green heeled shoes. She has a "
 "fuchsia shoulder bag, worn behind her. She pushes a small shopping cart in "
 "which there is a small brown dog with a collar and tag."
-msgstr ""
+msgstr "تبلیغاتی برای بستنی زنگِمن (صفحه تبلیغاتی سه‌لتی)، اسکیت‌برد الکتریکی زنگِمن و ماشین لباسشویی زنگِمن. معلم ریاضی، خانم گرنت، در مقابل این بیلبوردها در حال گذر است. خانم گرنت یک بانوی مسن با موهای سفید کوتاه است. او یک تی‌شرت سبز روشن و پولیور سبز نخودی، شلوار قهوه‌ای تیره و کفش پاشنه‌دار سبز روشن به تن دارد. یک کیف دوشی صورتی روشن دارد که در پشتش آویزان است. او یک چرخ دستی کوچک را هل می‌دهد که در آن یک سگ کوچک قهوه‌ای با قلاده و پلاک وجود دارد."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:635
@@ -807,7 +876,7 @@ msgid ""
 "He ordered the small computers in the speakers to play music only at a low "
 "volume, except for his favorite music, which he immediately turned on to get "
 "into a better mood."
-msgstr "زنگمان از دست آن دو بچه به شدت عصبانی بود. چطور جرئت کرده بودند از اختراعات او به این شکل استفاده کنند؟ آن شب، خوابش نمی‌برد، بنابراین پشت کامپیوتر طلایی خود نشست. از آنجا، به تمام کامپیوترهای کوچک موجود در اسکیت‌بردها دستوری صادر کرد که دیگر اجازه ندارند در پیاده‌روها حرکت کنند. او همچنین به کامپیوترهای کوچک داخل بلندگوها فرمان داد که موسیقی را فقط با صدای کم پخش کنند، به جز موسیقی مورد علاقه‌اش که فوراً آن را با صدای بلند روشن کرد تا حالش بهتر شود."
+msgstr "زنگِمن از دست آن دو بچه به شدت عصبانی بود. چطور جرئت کرده بودند از اختراعات او به این شکل استفاده کنند؟ آن شب، خوابش نمی‌برد، بنابراین پشت کامپیوتر طلایی خود نشست. از آنجا، به تمام کامپیوترهای کوچک موجود در اسکیت‌بردها دستوری صادر کرد که دیگر اجازه ندارند در پیاده‌روها حرکت کنند. او همچنین به کامپیوترهای کوچک داخل بلندگوها فرمان داد که موسیقی را فقط با صدای کم پخش کنند، به جز موسیقی مورد علاقه‌اش که فوراً آن را با صدای بلند روشن کرد تا حالش بهتر شود."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -818,7 +887,7 @@ msgid ""
 "emerge from the dwellings illustrating Zangemann’s inventions bought by the "
 "inhabitants: a washing machine, a yellow vacuum cleaner, and a red car, all "
 "with Internet connection signals."
-msgstr "شهر در هنگام غروب، با خانه‌ها، یک کلیسا، و دو چراغ خیابان. تصاویری از درون خانه‌ها نمایان می‌شوند که اختراعات زنگمان را نشان می‌دهند که توسط ساکنان خریداری شده‌اند: یک ماشین لباسشویی، یک جاروبرقی زرد، و یک خودروی قرمز، که همگی دارای علامت اتصال به اینترنت هستند."
+msgstr "شهر در هنگام غروب، با خانه‌ها، یک کلیسا، و دو چراغ خیابان. تصاویری از درون خانه‌ها نمایان می‌شوند که اختراعات زنگِمن را نشان می‌دهند که توسط ساکنان خریداری شده‌اند: یک ماشین لباسشویی، یک جاروبرقی زرد، و یک خودروی قرمز، که همگی دارای علامت اتصال به اینترنت هستند."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -830,7 +899,7 @@ msgid ""
 "the various devices. In emerging images there are: a red electric "
 "skateboard, a light bulb, an ice cream machine, and a toilet, all of which "
 "are receiving commands from Zangemann."
-msgstr "ادامه‌ی تصویر قبلی، که در پس‌زمینه تپه‌ای به همراه خانه‌ی زانگمان وجود دارد که سیگنال‌های کنترل دستگاه‌های مختلف از آنتن آن ساطع می‌شوند. در تصاویر پدیدار شده، موارد زیر دیده می‌شوند: یک اسکیت‌بورد برقی قرمز، یک لامپ، یک دستگاه بستنی‌ساز و یک توالت، که همگی در حال دریافت فرمان از زانگمان هستند."
+msgstr "ادامه‌ی تصویر قبلی، که در پس‌زمینه تپه‌ای به همراه خانه‌ی زنگِمن وجود دارد که سیگنال‌های کنترل دستگاه‌های مختلف از آنتن آن ساطع می‌شوند. در تصاویر پدیدار شده، موارد زیر دیده می‌شوند: یک اسکیت‌بورد برقی قرمز، یک لامپ، یک دستگاه بستنی‌ساز و یک توالت، که همگی در حال دریافت فرمان از زنگِمن هستند."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:654
@@ -846,7 +915,7 @@ msgid ""
 "the way to school, the kids’ skateboards had stopped working. The wheels "
 "simply stood still. And the children could no longer turn up the volume on "
 "their speakers. What was going on?"
-msgstr "<phrase condition=\"capitals-text\">روز </phrase><phrase condition=\"capitals-img\"></phrase> ,بعد در مدرسه آدا هیاهوی بزرگی بود. در راه مدرسه، اسکیت‌بردهای بچه‌ها از کار افتاده بودند. چرخ‌ها به سادگی ثابت مانده بودند. و کودکان دیگر نمی‌توانستند صدای بلندگوهایشان را زیاد کنند. یعنی چه اتفاقی داشت می‌افتاد؟"
+msgstr "<phrase condition=\"capitals-text\">روز </phrase><phrase condition=\"capitals-img\"></phrase> ,بعد در مدرسه اِدا هیاهوی بزرگی بود. در راه مدرسه، اسکیت‌بردهای بچه‌ها از کار افتاده بودند. چرخ‌ها به سادگی ثابت مانده بودند. و کودکان دیگر نمی‌توانستند صدای بلندگوهایشان را زیاد کنند. یعنی چه اتفاقی داشت می‌افتاد؟"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -873,7 +942,7 @@ msgid ""
 "spend her money on bus tickets to work. For her brother, Ada built a "
 "loudspeaker so he could fall asleep to nice stories in the evenings when "
 "their mother was still at work."
-msgstr "اگرچه آدا صاحب هیچ‌کدام از این وسایل نبود، اما تعجب می‌کرد که چرا اسکیت‌بوردها و بلندگوها ناگهان از کار افتادند. با این حال، او واقعاً وقت زیادی برای فکر کردن به این موضوع نداشت، چون دوباره مشغول ور رفتن و تعمیرکاری بود. او از قطعات سه دوچرخه‌ی خراب، یک دوچرخه‌ی کامل سر هم کرد. آدا دوچرخه را به عنوان هدیه به مادرش داد تا او مجبور نباشد پولش را صرف بلیط اتوبوس برای رفتن به سر کار کند. برای برادرش نیز، آدا یک بلندگو ساخت تا او بتواند عصرها که مادرشان هنوز سر کار بود، با قصه‌های خوب به خواب برود."
+msgstr "اگرچه اِدا صاحب هیچ‌کدام از این وسایل نبود، اما تعجب می‌کرد که چرا اسکیت‌بوردها و بلندگوها ناگهان از کار افتادند. با این حال، او واقعاً وقت زیادی برای فکر کردن به این موضوع نداشت، چون دوباره مشغول ور رفتن و تعمیرکاری بود. او از قطعات سه دوچرخه‌ی خراب، یک دوچرخه‌ی کامل سر هم کرد. اِدا دوچرخه را به عنوان هدیه به مادرش داد تا او مجبور نباشد پولش را صرف بلیط اتوبوس برای رفتن به سر کار کند. برای برادرش نیز، اِدا یک بلندگو ساخت تا او بتواند عصرها که مادرشان هنوز سر کار بود، با قصه‌های خوب به خواب برود."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -882,7 +951,7 @@ msgstr "اگرچه آدا صاحب هیچ‌کدام از این وسایل نب
 msgid ""
 "Close-up of Ada thoughtful, with a backpack and with one hand on her chin "
 "and the other resting on her side."
-msgstr ""
+msgstr "نمای نزدیک از اِدا در حالت متفکر، با کوله‌پشتی و یک دست روی چانه و دست دیگر در کمر."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:675
@@ -892,12 +961,12 @@ msgid ""
 "worked. And so now the children rode in circles around the playground and "
 "listened to soft music. Only a strange, pompous marching music continued to "
 "play at an unchanged volume, which the children found rather puzzling."
-msgstr "بعد از چند روز، شوک اولیه در مدرسهٔ آدا فراموش شد. اسکیت‌بردها هنوز هم نمی‌توانستند روی پیاده‌رو بروند، اما به جز آن، همچنان کار می‌کردند. و بنابراین اکنون بچه‌ها دور زمین بازی چرخ می‌زدند و به موسیقی ملایمی گوش می‌دادند. تنها یک موسیقی مارش عجیب و متکبرانه با همان حجم صدای ثابت به پخش شدن ادامه می‌داد، که برای بچه‌ها کاملاً گیج‌کننده بود."
+msgstr "بعد از چند روز، شوک اولیه در مدرسهٔ اِدا فراموش شد. اسکیت‌بردها هنوز هم نمی‌توانستند روی پیاده‌رو بروند، اما به جز آن، همچنان کار می‌کردند. و بنابراین اکنون بچه‌ها دور زمین بازی چرخ می‌زدند و به موسیقی ملایمی گوش می‌دادند. تنها یک موسیقی مارش عجیب و متکبرانه با همان حجم صدای ثابت به پخش شدن ادامه می‌داد، که برای بچه‌ها کاملاً گیج‌کننده بود."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:680
 msgid "Ada and software"
-msgstr "ادا و نرم افزار"
+msgstr "اِدا و نرم‌افزار"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p20-1
@@ -912,7 +981,7 @@ msgid ""
 "cell phone. She quickly realized that there was also much to discover on the "
 "internet. There, many people shared their ideas and repair tips to help "
 "others."
-msgstr "<phrase condition=\"capitals-text\">آدا<phrase condition=\"capitals-img\"></phrase> عاشق چهارشنبه‌ها بود. هر چهارشنبه، مادرش و آلن به دنبال او به مدرسه می‌آمدند و همگی با هم به کتابخانه می‌رفتند. آدا همیشه جذب بخش فناوری می‌شد. آنجا کتاب‌هایی با طرح‌های اولیه، دستورالعمل‌هایی برای آزمایش‌ها و توضیحاتی در مورد نحوه کار دستگاه‌های مختلف وجود داشت. آدا می‌توانست در کتابخانه با تلفن همراهش آنلاین شود. او به سرعت متوجه شد که در اینترنت نیز چیزهای زیادی برای کشف کردن وجود دارد. در آنجا، افراد زیادی ایده‌ها و نکات تعمیراتی خود را به اشتراک می‌گذاشتند تا به دیگران کمک کنند."
+msgstr "<phrase condition=\"capitals-text\">اِدا</phrase><phrase condition=\"capitals-img\">da</phrase> عاشق چهارشنبه‌ها بود. هر چهارشنبه، مادرش و آلن به دنبال او به مدرسه می‌آمدند و همگی با هم به کتابخانه می‌رفتند. اِدا همیشه جذب بخش فناوری می‌شد. آنجا کتاب‌هایی با طرح‌های اولیه، دستورالعمل‌هایی برای آزمایش‌ها و توضیحاتی در مورد نحوه کار دستگاه‌های مختلف وجود داشت. اِدا می‌توانست در کتابخانه با تلفن همراهش آنلاین شود. او به سرعت متوجه شد که در اینترنت نیز چیزهای زیادی برای کشف کردن وجود دارد. در آنجا، افراد زیادی ایده‌ها و نکات تعمیراتی خود را به اشتراک می‌گذاشتند تا به دیگران کمک کنند."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:685
@@ -926,7 +995,7 @@ msgid ""
 "Some books called those instructions programs or code. With such a computer "
 "program, one could, for example, tell a loudspeaker which song to play and "
 "how loud."
-msgstr "در یکی از آن بعدازظهرها، آدا دو کلمه جدید یاد گرفت: سخت‌افزار و نرم‌افزار. سخت‌افزار کلمه‌ای برای چیزی بود که آدا از قبل می‌شناخت: وسایل الکترونیکی که بعد از مدرسه با آن‌ها ور می‌رفت، یا وسایلی که می‌توانست در دستانش نگه دارد و سعی کند تعمیر کند یا به چیز دیگری تبدیلشان کند. آنچه برای آدا کاملاً جدید بود، کلمه نرم‌افزار بود. او به زودی یاد گرفت که این کلمه به معنای دستورالعمل‌هایی است که روی یک کامپیوتر اجرا می‌شوند تا سایر دستگاه‌ها یا کامپیوترها را کنترل کنند. برخی کتاب‌ها این دستورالعمل‌ها را برنامه یا کد می‌نامیدند. با چنین برنامه کامپیوتری، می‌شد، به عنوان مثال، به یک بلندگو گفت که چه آهنگی را پخش کند و با چه شدتی."
+msgstr "در یکی از آن بعدازظهرها، اِدا دو کلمه جدید یاد گرفت: سخت‌افزار و نرم‌افزار. سخت‌افزار کلمه‌ای برای چیزی بود که اِدا از قبل می‌شناخت: وسایل الکترونیکی که بعد از مدرسه با آن‌ها ور می‌رفت، یا وسایلی که می‌توانست در دستانش نگه دارد و سعی کند تعمیر کند یا به چیز دیگری تبدیلشان کند. آنچه برای اِدا کاملاً جدید بود، کلمه نرم‌افزار بود. او به زودی یاد گرفت که این کلمه به معنای دستورالعمل‌هایی است که روی یک کامپیوتر اجرا می‌شوند تا سایر دستگاه‌ها یا کامپیوترها را کنترل کنند. برخی کتاب‌ها این دستورالعمل‌ها را برنامه یا کد می‌نامیدند. با چنین برنامه کامپیوتری، می‌شد، به عنوان مثال، به یک بلندگو گفت که چه آهنگی را پخش کند و با چه شدتی."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:686
@@ -938,7 +1007,7 @@ msgid ""
 "language for this — the programming language. With software, Ada could make "
 "her inventions even more useful. She really wanted to learn the programming "
 "language!"
-msgstr "بهترین چیز در مورد کشف جدید آدا این بود که فهمید می‌تواند همان‌طور که با سخت‌افزار ور می‌رفت، با نرم‌افزار هم ور برود. سخت‌افزار با ابزارهایی مانند چکش، مته و پیچ ساخته می‌شود. نرم‌افزار به سادگی با نوشتن دستورات برای سخت‌افزار، یکی پس از دیگری، ساخته می‌شود. زبان جداگانه‌ای برای این کار وجود داشت. زبان برنامه‌نویسی. با نرم‌افزار، آدا می‌توانست اختراعات خود را حتی مفیدتر کند. او واقعاً می‌خواست زبان برنامه‌نویسی را یاد بگیرد!"
+msgstr "بهترین چیز در مورد کشف جدید اِدا این بود که فهمید می‌تواند همان‌طور که با سخت‌افزار ور می‌رفت، با نرم‌افزار هم ور برود. سخت‌افزار با ابزارهایی مانند چکش، مته و پیچ ساخته می‌شود. نرم‌افزار به سادگی با نوشتن دستورات برای سخت‌افزار، یکی پس از دیگری، ساخته می‌شود. زبان جداگانه‌ای برای این کار وجود داشت. زبان برنامه‌نویسی. با نرم‌افزار، اِدا می‌توانست اختراعات خود را حتی مفیدتر کند. او واقعاً می‌خواست زبان برنامه‌نویسی را یاد بگیرد!"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -950,7 +1019,7 @@ msgid ""
 "is typing on a white keyboard with a blue cable, while her other hand enters "
 "the screen to change the program (“print(msg)”, “a+b+c+d=e”, “if”, “break”, "
 "“continue”, “exit()”). Next to the keyboard there are a pencil and an eraser."
-msgstr "صفحه نمایش کامپیوتری که عناصر زبان برنامه‌نویسی به صورت نمادین از آن پدیدار می‌شن: «while num > 0»، «init»، «sx=42»، «for»، «v**3». ادا در حال تایپ روی یک صفحه‌کلید سفید با کابل آبیه، در حالی که دست دیگرش وارد صفحه می‌شه تا برنامه را تغییر بده(«print(msg)»، «a+b+c+d=e»، «if»، «break»، «continue»، «exit()»). در کنار صفحه‌کلید یک مداد و پاک‌کن وجود داره."
+msgstr "صفحه کامپیوتری که عناصر زبان برنامه‌نویسی به صورت نمادین از آن خارج می‌شوند: «while num > 0»، «init»، «sx=42»، «for»، «v**3». اِدا روی یک صفحه‌کلید سفید با کابل آبی در حال تایپ است، در حالی که دست دیگرش وارد صفحه شده تا برنامه را تغییر دهد («print(msg)»، «a+b+c+d=e»، «if»، «break»، «continue»، «exit()»). در کنار صفحه‌کلید یک مداد و پاک‌کن قرار دارد."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:699
@@ -968,7 +1037,7 @@ msgid ""
 "a secret language, or like studying vocabulary in school. Ada ate it all up. "
 "She expected her first program to do something simple: “Make this lamp "
 "blink!”"
-msgstr "<phrase condition=\"capitals-text\">در طول<phrase condition=\"capitals-img\"></phrase> چند هفته‌ی آینده، آدا بعد از ظهرها را در کتابخانه گذراند. او کتاب‌ها و وب‌سایت‌هایی پیدا کرد که نحوه‌ی کار زبان‌های برنامه‌نویسی و کد را توضیح می‌دادند. برای آدا، این کمی شبیه یادگیری یک زبان مخفی بود، یا مثل مطالعه‌ی لغات در مدرسه. آدا همه‌ی این‌ها را با اشتیاق جذب کرد. او انتظار داشت اولین برنامه‌اش کار ساده‌ای انجام دهد: «این لامپ را چشمک‌زن کن!»"
+msgstr "<phrase condition=\"capitals-text\">در طول</phrase><phrase condition=\"capitals-img\">ver</phrase> چند هفته‌ی آینده، اِدا بعد از ظهرها را در کتابخانه گذراند. او کتاب‌ها و وب‌سایت‌هایی پیدا کرد که نحوه‌ی کار زبان‌های برنامه‌نویسی و کد را توضیح می‌دادند. برای اِد، این کمی شبیه یادگیری یک زبان مخفی بود، یا مثل مطالعه‌ی لغات در مدرسه. اِدا همه‌ی این‌ها را با اشتیاق جذب کرد. او انتظار داشت اولین برنامه‌اش کار ساده‌ای انجام دهد: «این لامپ را چشمک‌زن کن!»"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:704
@@ -985,7 +1054,7 @@ msgid ""
 "a few small changes and tried again and .... “Yeesss!” The little light "
 "began to flash. On, off, on, off. Ada looked at the LED in amazement. She "
 "had written her first program!"
-msgstr "در ابتدا، هیچ اتفاقی نیفتاد. آدا در این فکر بود که خطا از کجا می‌تواند باشد. چند تغییر کوچک اعمال کرد و دوباره امتحان کرد و... «بله!» چراغ کوچک شروع به چشمک زدن کرد. روشن، خاموش، روشن، خاموش. آدا با حیرت به چراغ کوچک نگاه کرد. او اولین برنامه‌ی خود را نوشته بود!"
+msgstr "در ابتدا، هیچ اتفاقی نیفتاد. اِدا در این فکر بود که خطا از کجا می‌تواند باشد. چند تغییر کوچک اعمال کرد و دوباره امتحان کرد و... «بله!» چراغ کوچک شروع به چشمک زدن کرد. روشن، خاموش، روشن، خاموش. اِدا با حیرت به چراغ کوچک نگاه کرد. او اولین برنامه‌ی خود را نوشته بود!"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:706
@@ -995,7 +1064,7 @@ msgid ""
 "what she wanted. It was not so easy, but after a few weeks, Ada wrote a "
 "truly useful program: one that would make Alan’s speakers automatically turn "
 "off half an hour after he had fallen asleep."
-msgstr "آدا کاملا هیجان‌زده بود. او تمام کارهای بزرگی را که می‌توانست انجام دهد، تصور می‌کرد. اگر فقط کد درست را وارد می‌کرد، می‌توانست اختراعاتش را وادار کند دقیقاً همان کاری را انجام دهند که او می‌خواست. این کار چندان آسان نبود، اما پس از چند هفته، آدا یک برنامه واقعاً مفید نوشت: برنامه‌ای که باعث می‌شد بلندگوهای آلن نیم ساعت پس از به خواب رفتنش به‌طور خودکار خاموش شوند."
+msgstr "اِدا کاملا هیجان‌زده بود. او تمام کارهای بزرگی را که می‌توانست انجام دهد، تصور می‌کرد. اگر فقط کد درست را وارد می‌کرد، می‌توانست اختراعاتش را وادار کند دقیقاً همان کاری را انجام دهند که او می‌خواست. این کار چندان آسان نبود، اما پس از چند هفته، اِدا یک برنامه واقعاً مفید نوشت: برنامه‌ای که باعث می‌شد بلندگوهای آلن نیم ساعت پس از به خواب رفتنش به‌طور خودکار خاموش شوند."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1009,7 +1078,7 @@ msgid ""
 "gray wire and plug. On the table there are also: 3 books, of which one is "
 "open; a clipboard and a pencil; pliers; glue; solder; and a disconnected "
 "soldering iron."
-msgstr "ادا کم‌کم با برنامه‌نویسی آشنا می‌شه. او روی کیبوردی که روی یک زیرانداز خاکستری قرار داره و با یک کابل آبی به یک گوشی هوشمند متصله، تایپ می‌کنه. گوشی هوشمند با یک سیم قرمز به یک کارت الکترونیکی با یک لامپ ال ای دی زرد متصله. گوشی هوشمند توسط یک ترانسفورماتور متصل به یک پریز برق با سیم خاکستری و دوشاخه تغذیه می‌شه. روی میز همچنین موارد زیر هم وجود داره: ۳ کتاب که یکی از اونا بازه؛ یک تخته شاسی و یک مداد؛ انبردست؛ چسب؛ لحیم؛ و یک هویه جدا شده."
+msgstr "اِدا کم‌کم با برنامه‌نویسی آشنا می‌شه. او روی کیبوردی که روی یک زیرانداز خاکستری قرار داره و با یک کابل آبی به یک گوشی هوشمند متصله، تایپ می‌کنه. گوشی هوشمند با یک سیم قرمز به یک کارت الکترونیکی با یک لامپ ال ای دی زرد متصله. گوشی هوشمند توسط یک ترانسفورماتور متصل به یک پریز برق با سیم خاکستری و دوشاخه تغذیه می‌شه. روی میز همچنین موارد زیر هم وجود داره: ۳ کتاب که یکی از اونا بازه؛ یک تخته شاسی و یک مداد؛ انبردست؛ چسب؛ لحیم؛ و یک هویه جدا شده."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:715
@@ -1017,7 +1086,7 @@ msgid ""
 "Ada also had an idea for the next program she would write. It was a bigger "
 "deal, a real project. She would probably need the whole summer break for "
 "it... And she could hardly wait!"
-msgstr "آدا همچنین ایده‌ای برای برنامهٔ بعدی که می‌نوشت داشت. این یک کار مهم‌تر، یک پروژهٔ واقعی بود. احتمالاً تمام تعطیلات تابستان را برای آن نیاز داشت... و به‌سختی می‌توانست صبر کند!"
+msgstr "اِدا همچنین ایده‌ای برای برنامهٔ بعدی که می‌نوشت داشت. این یک کار مهم‌تر، یک پروژهٔ واقعی بود. احتمالاً تمام تعطیلات تابستان را برای آن نیاز داشت... و به‌سختی می‌توانست صبر کند!"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1026,7 +1095,7 @@ msgstr "آدا همچنین ایده‌ای برای برنامهٔ بعدی ک�
 msgid ""
 "Zangemann looks thoughtfully with his arms crossed out one of the great "
 "windows of his house, into which the sun’s rays are shining."
-msgstr "زنگمن با دست‌های ضربدری‌شده، با نگاهی متفکر از یکی از پنجره‌های بزرگ خانه‌اش به بیرون خیره شده؛ جایی که پرتوهای خورشید به داخل می‌تابند و فضا را روشن کرده‌اند."
+msgstr "زنگِمن با دست‌های ضربدری‌شده، با نگاهی متفکر از یکی از پنجره‌های بزرگ خانه‌اش به بیرون خیره شده؛ جایی که پرتوهای خورشید به داخل می‌تابند و فضا را روشن کرده‌اند."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:728
@@ -1085,7 +1154,7 @@ msgid ""
 "she stood on it and pressed the Go! button, the wheels moved, but way too "
 "fast. Ada fell off the skateboard every time she started. No matter what she "
 "tried, she just couldn’t get it right."
-msgstr "<phrase condition=\"capitals-text\">تابستان</phrase><phrase condition=\"capitals-img\">ummer</phrase> تقریباً نصفش گذشته بود. اِدا جلو پروژه بزرگش ایستاده بود و سرش را می‌خاراند. او از قطعات قدیمی یک اسکیت‌برد ساخته بود و سپس یک موتور به آن وصل کرده بود تا چرخ‌ها بچرخند. با یک اسکیت‌برد موتوری، اِدا می‌توانست بعد از مدرسه حتی سریع‌تر به کتابخانه یا گورستان آهن‌آلات برود. فوق‌العاده کاربردی! اما کار نمی‌کرد. وقتی روی آن می‌ایستاد و دکمه \"برو!\" را فشار می‌داد، چرخ‌ها حرکت می‌کردند، اما خیلی سریع. اِدا هر بار که شروع می‌کرد از اسکیت‌برد می‌افتاد. بدون توجه به هر کاری که می‌کرد، فقط نمی‌توانست آن را درست کند."
+msgstr "<phrase condition=\"capitals-text\">تابستان</phrase><phrase condition=\"capitals-img\">Summer</phrase> تقریباً نصفش گذشته بود. اِدا جلو پروژه بزرگش ایستاده بود و سرش را می‌خاراند. او از قطعات قدیمی یک اسکیت‌برد ساخته بود و سپس یک موتور به آن وصل کرده بود تا چرخ‌ها بچرخند. با یک اسکیت‌برد موتوری، اِدا می‌توانست بعد از مدرسه حتی سریع‌تر به کتابخانه یا گورستان آهن‌آلات برود. فوق‌العاده کاربردی! اما کار نمی‌کرد. وقتی روی آن می‌ایستاد و دکمه \"برو!\" را فشار می‌داد، چرخ‌ها حرکت می‌کردند، اما خیلی سریع. اِدا هر بار که شروع می‌کرد از اسکیت‌برد می‌افتاد. بدون توجه به هر کاری که می‌کرد، فقط نمی‌توانست آن را درست کند."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:744
@@ -1142,7 +1211,7 @@ msgid ""
 "white striped awning around the corner and a sign on the sidewalk with the "
 "list of products. Overhead, a large pretzel is displayed. On the road there "
 "is a puddle that reflects the blue of the sky."
-msgstr ""
+msgstr "اِدا با اسکیت‌برد الکتریکی خود در پیاده‌روهای شهری در حال حرکت است. اسکیت‌برد اِدا آبی رنگ با چرخ‌های خاکستری و صورتی است؛ بخش الکترونیکی آن در بالای اسکیت‌برد نصب شده (برخلاف اسکیت‌بردهای زنگِمن که بخش الکترونیکی در زیر قرار دارد). اِدا با هر دو دست یک کنترل از راه دور با آنتن کوتاه در دست دارد تا آن را هدایت کند. پشت سر اِدا، ماری و تونی قرار دارند که اسکیت‌بردهای خود را زیر بغل حمل کرده و با حیرت به اِدا نگاه می‌کنند که از کنارشان عبور کرده و جلوتر رفته است. ماری موهای مشکی بلندی با دو بافته که با کلیپس‌های نارنجی بسته شده دارد، گوشواره‌های زرد، پیراهن صورتی با آستین‌های سفید و راه‌راه های افقی بنفش، دامن سفید، کفش کتانی سفید و زرد، جوراب سفید، کلاه سفید با لبه های زرد و کوله‌پشتی بنفش روشن به تن دارد. ماری یک پای مصنوعی آبی رنگ دارد. اسکیت‌برد او آبی با چرخ‌های زرد است. تونی موهای قرمزی دارد که در دو طرف به طور کوتاهی چیده شده. او یک سوییشرت آبی، شلوار سبز تیره و کفش سفید به تن دارد. کوله‌پشتی قرمزی با inserts سفید و بندهای شانه دارد. یک دستش کنار دهانش است. اسکیت‌برد او بنفش با چرخ‌های نارنجی است. یک پدر با پسرش نیز در جهت مخالف در حال راه رفتن هستند: پدر کت آبی چهارخانه و شلوار آبی به تن دارد و یک کیف قهوه‌ای در دست دارد. او به اِدا لبخند می‌زند. پسرش پیراهن آبی، شلوارک آبی، کفش سفید، کوله‌پشتی قهوه‌ای و کلاه قرمز و سفید دارد. او یک اسکیت‌برد زنگِمن زرد رنگ با چرخ‌های قهوه‌ای روشن زیر بغل دارد و به اِدا لبخند می‌زند. در پس‌زمینه یک نانوایی با پنجره‌های بزرگ دیده می‌شود که از داخل آن نان‌ها قابل مشاهده است. این نانوایی یک سایه‌بان راه‌راه سبز و سفید در گوشه دارد و یک تابلوی پیاده‌رو با لیست محصولات. در بالا، یک پرتزل بزرگ به نمایش گذاشته شده است. روی جاده یک گودال آب وجود دارد که رنگ آبی آسمان را منعکس می‌کند."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:759
@@ -1169,7 +1238,7 @@ msgid ""
 "white soles. He has a red skateboard with orange wheels. Behind Ada there "
 "are 4 other children. On the other end Toni is smiling. He touches his chin "
 "with one hand while with the other he holds a yellow helmet by the laces."
-msgstr "ادا روی اسکیت‌بردش وایستاده و دورش پر از بچه‌هاست. ماری یک طرف ایستاده، به اسکیت‌برد ادا اشاره می‌کند و چیزی می‌گوید. کنار ماری، کنراد ایستاده؛ موهای کوتاه بلوند دارد، یک کلاه ایمنی خاکستری تیره سرش است، عینک زده، پیراهن سبز با یقه و سرآستین سفید پوشیده، شلوار آبی روشن با لبه‌های سفید و کفش‌های خاکستری با کف سفید به پا داره. او یک اسکیت‌برد قرمز با چرخ‌های نارنجی دارد. پشت سر ادا چهار بچه‌ی دیگر جمع شده‌اند. آن طرف‌تر، تونی با لبخند ایستاده؛ یک دستش زیر چانه‌اش است و با دست دیگر کلاه ایمنی زردش را از بند گرفته."
+msgstr "اِدا روی اسکیت‌بردش وایستاده و دورش پر از بچه‌هاست. ماری یک طرف ایستاده، به اسکیت‌برد اِدا اشاره می‌کند و چیزی می‌گوید. کنار ماری، کنراد ایستاده؛ موهای کوتاه بلوند دارد، یک کلاه ایمنی خاکستری تیره سرش است، عینک زده، پیراهن سبز با یقه و سرآستین سفید پوشیده، شلوار آبی روشن با لبه‌های سفید و کفش‌های خاکستری با کف سفید به پا داره. او یک اسکیت‌برد قرمز با چرخ‌های نارنجی دارد. پشت سر اِدا چهار بچه‌ی دیگر جمع شده‌اند. آن طرف‌تر، تونی با لبخند ایستاده؛ یک دستش زیر چانه‌اش است و با دست دیگر کلاه ایمنی زردش را از بند گرفته."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:769
@@ -1203,14 +1272,12 @@ msgid ""
 "beyond the squares of numbers 7 and 8. Between the number 1 and the number 2 "
 "there is a blue bottle with white polka dots. A yellow Zangemann skateboard "
 "with orange wheels on the side of the diagram actually hides the number 1."
-msgstr ""
-"یه نقاشی لی‌لی با گچ روی آسفالت کشیده شده. عددها به ترتیب توی خونه‌ها هستن: اول ۱ و ۲ پشت سر هم، بعد ۳ و ۴ کنار هم، بعد ۵ و ۶، و بعد ۷ و ۸ کنار هم. عدد ۹ دیگه توی خونه نیست، بلکه توی یه نیم‌دایره بزرگ‌تره که بعد از خونه‌های ۷ و ۸ قرار گرفته.\n"
-"بین عدد ۱ و ۲ یه بطری آبی با خال‌های سفید دیده می‌شه. یه اسکیت‌برد زرد رنگ از برند Zangemann با چرخ‌های نارنجی هم کنار نقاشی افتاده که در واقع عدد ۱ رو پوشونده."
+msgstr "یه نقاشی لی‌لی با گچ روی آسفالت کشیده شده. عددها به ترتیب توی خونه‌ها هستن: اول ۱ و ۲ پشت سر هم، بعد ۳ و ۴ کنار هم، بعد ۵ و ۶، و بعد ۷ و ۸ کنار هم. عدد ۹ دیگه توی خونه نیست، بلکه توی یه نیم‌دایره بزرگ‌تره که بعد از خونه‌های ۷ و ۸ قرار گرفته. بین عدد ۱ و ۲ یه بطری آبی با خال‌های سفید دیده می‌شه. یه اسکیت‌برد زرد رنگ از برند زنگِمن با چرخ‌های نارنجی هم کنار نقاشی افتاده که در واقع عدد ۱ رو پوشونده."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:781
 msgid "Hacking for freedom"
-msgstr "هک کردن برای ازادی"
+msgstr "هک کردن برای آزادی"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p30-1
@@ -1232,7 +1299,7 @@ msgid ""
 "new, cool features. Marie attached colorful LED lights to her board that "
 "glowed different colors depending on the speed. Konrad built old propellers "
 "onto his skateboard for extra speed."
-msgstr "ولی همه‌اش این نبود. با اون نرم‌افزار اونا میتونستند به اسکیت‌برد هاشون قابلیت های جدید و باحال اضافه کنند. ماری به اسکیت‌برد خود لامپ های LED رنگی رنگی وصل کرد  که وابسته به سرعت نور های مختلفی  میداد. کنراد برای سرعت بیشتر پره های قدیمی خود را به اسکیت بردش وصل کرد."
+msgstr "ولی همه‌اش این نبود. با اون نرم‌افزار اونا میتونستند به اسکیت‌برد هاشون قابلیت های جدید و باحال اضافه کنند. ماری به اسکیت‌برد خود لامپ های LED رنگارنگی وصل کرد که وابسته به سرعت نور های مختلفی میداد. کنراد برای سرعت بیشتر پره های قدیمی خود را به اسکیت بردش وصل کرد."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1250,7 +1317,7 @@ msgid ""
 "even set up a real workshop where they could fine-tune their programs for "
 "hours, listening all the while to music from the speakers Ada had built for "
 "Alan."
-msgstr "ادا، تونی، ماری و کنراد بعد از ظهر های زیادی را داخل قراضه فروشی میگذراندند. اونا حتی یه کارگاه ایجاد کردند که در اونجا میتونستند ساعت ها برنامه هاشون رو ارتقا بدهند، در حالی که به آهنگ هایی گوش میدادند، با اسپیکری که ادا برای آلن ساخته بود."
+msgstr "اِدا، تونی، ماری و کنراد بعد از ظهر های زیادی را داخل قراضه فروشی میگذراندند. اونا حتی یه کارگاه ایجاد کردند که در اونجا میتونستند ساعت ها برنامه هاشون رو ارتقا بدهند، در حالی که به آهنگ هایی گوش میدادند، با اسپیکری که اِدا برای آلن ساخته بود."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:797
@@ -1290,7 +1357,7 @@ msgid ""
 "wrenches, a spool of solder, a can of blue paint (a bit of paint has dried "
 "on the table), and a pitcher and two glasses containing a pink drink. Toni "
 "is testing his skateboard with added yellow wings and a fan. It burps."
-msgstr "بچه‌‌ها در آزمایشگاهی در محل اوراق فروشی، در زیر ایوان خانه‌ی ادا هستن. ادا روی یک محفظه آب نشسته و یک پاش رو زیر خودش خم کرده و از هویه لحیم‌کاری استفاده می‌کنه. کنراد کنارش ایستاده و بلندگو رو جدا می‌کنه. ماری روی دو لاستیک نشسته و یک دستش رو روی میز و اسکیت‌بورد وارونه‌اش که سیم‌هایی ازش بیرون زده‌، گذاشته. او با آلن صحبت می‌کنه که دستاش رو روی همون میز گذاشته. وسایل زیر هم روی میز وجود دارد: انبردست، دو آچار، یک قرقره لحیم، یک قوطی رنگ آبی (یه کم رنگ روی میز خشک شده) و یک پارچ و دو لیوان که توش یک نوشیدنی صورتیه. تونی داره اسکیت‌بورد خودش که بال‌های زرد اضافه و یک پنکه داره رو آزمایش میکنه. از اسکیت‌بورد، گاز خارج میشد ."
+msgstr "بچه‌‌ها در آزمایشگاهی در محل اوراق فروشی، در زیر ایوان خانه‌ی اِدا هستن. اِدا روی یک محفظه آب نشسته و یک پاش رو زیر خودش خم کرده و از هویه لحیم‌کاری استفاده می‌کنه. کنراد کنارش ایستاده و بلندگو رو جدا می‌کنه. ماری روی دو لاستیک نشسته و یک دستش رو روی میز و اسکیت‌بورد وارونه‌اش که سیم‌هایی ازش بیرون زده‌، گذاشته. او با آلن صحبت می‌کنه که دستاش رو روی همون میز گذاشته. وسایل زیر هم روی میز وجود دارد: انبردست، دو آچار، یک قرقره لحیم، یک قوطی رنگ آبی (یه کم رنگ روی میز خشک شده) و یک پارچ و دو لیوان که توش یک نوشیدنی صورتیه. تونی داره اسکیت‌بورد خودش که بال‌های زرد اضافه و یک پنکه داره رو آزمایش میکنه. از اسکیت‌بورد، گاز خارج میشد ."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1302,7 +1369,7 @@ msgid ""
 "an oil drum. Near the speaker there are two dancing mice. Toni is jumping "
 "through the tires. Ada’s dog is howling, and from his mouth come two "
 "distorted musical notes."
-msgstr ""
+msgstr "ماری و مادر اِدا در حال رقصیدن روبروی یکدیگر هستند. آلن، اِدا و کنراد در حال رقصیدن به صورت دایره‌ای هستند. در سمت راست یک اسپیکر قرار دارد که روی یک بشکه روغن قرار گرفته. نزدیک اسپیکر دو موش در حال رقصیدن هستند. تونی در حال پریدن از میان تایرها است. سگ اِدا در حال زوزه کشیدن است و از دهانش دو نت موسیقی تحریف شده خارج می‌شود."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1341,7 +1408,7 @@ msgid ""
 "a computer so that her plants would not die of thirst during summer days. "
 "And they helped the school custodian modify his vacuum so that it "
 "automatically recognized toys and wouldn’t suck them up."
-msgstr "گاهی حتی می‌توانستند به بزرگسالان هم کمک کنند. تونی ماشین اتوی پدرش را دوباره برنامه‌ریزی کرد تا بتواند کراوات‌ها را هم اتو کند - **زنگِمن** این کار را برای ماشین‌ها ممنوع کرده بود چون از کراوات همانند طاعون متنفر بود. برای راننده اتوبوس، از شلنگ‌های قدیمی و یک کامپیوتر، سیستم آبیاری خودکاری ساختند تا گیاهانش در روزهای تابستان از تشنگی نمیرند. و به سرایدار مدرسه کمک کردند تا جاروبرقی‌اش را طوری اصلاح کند که اسباب‌بازی‌ها را به طور خودکار تشخیص دهد و آنها را به درون نکشد."
+msgstr "گاهی حتی می‌توانستند به بزرگسالان هم کمک کنند. تونی ماشین اتوی پدرش را دوباره برنامه‌ریزی کرد تا بتواند کراوات‌ها را هم اتو کند - زنگِمن این کار را برای ماشین‌ها ممنوع کرده بود چون از کراوات همانند طاعون متنفر بود. برای راننده اتوبوس، از شلنگ‌های قدیمی و یک کامپیوتر، سیستم آبیاری خودکاری ساختند تا گیاهانش در روزهای تابستان از تشنگی نمیرند. و به سرایدار مدرسه کمک کردند تا جاروبرقی‌اش را طوری اصلاح کند که اسباب‌بازی‌ها را به طور خودکار تشخیص دهد و آنها را به درون نکشد."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:840
@@ -1355,7 +1422,7 @@ msgstr "بعضی چیزها را فقط برای سرگرمی می‌ساختن�
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:845
 msgid "Zangemann and the President"
-msgstr "زنگمن و رئیس جمهور"
+msgstr "زنگِمن و رئیس جمهور"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p36-1
@@ -1377,14 +1444,14 @@ msgid ""
 "computers were programmed by Zangemann. Without the computers, the "
 "government would not be able to run the country. So they passed the law as "
 "Zangemann requested:"
-msgstr "رئیس جمهور نمیخواست زانگمن را ناراحت کن. همه‌ی کامپیوتر های دولت توسط زانگمن برنامه‌نویسی شده بودند. بدون کامپیوتر ها دولت نمیتونست کشور را اداره کند. پس به درخواست زانگمن این قانون رو تصویب کرد:"
+msgstr "رئیس جمهور نمیخواست زنگِمن را ناراحت کن. همه‌ی کامپیوتر های دولت توسط زنگِمن برنامه‌نویسی شده بودند. بدون کامپیوترها دولت نمیتونست کشور را اداره کند. پس به درخواست زنگِمن این قانون رو تصویب کرد:"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:851
 msgid ""
 "“All computers that do not listen to Zangemann are banned. Anyone who "
 "reprograms Zangemann’s devices will be fined 500,000 gold pieces!”"
-msgstr "\"همه‌ی کامپیوتر هایی که به حرف زنگمن گوش نمیدهند، از دسترس خارج میشوند. هر کسی که برنامه‌ی دستگاه های زنگمن رو بازنویسی کند، 500,000 سکه‎‌ی طلا باید بپردازد!\""
+msgstr "\"همه‌ی کامپیوتر هایی که به حرف زنگِمن گوش نمیدهند، از دسترس خارج میشوند. هر کسی که برنامه‌ی دستگاه های زنگِمن رو بازنویسی کند، 500,000 سکه‎‌ی طلا باید بپردازد!\""
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1402,7 +1469,7 @@ msgid ""
 "with something written on them and an open purple fountain pen. The "
 "President was eating a sandwich of meat and cheese with greens with two "
 "olives on a toothpick, over a blue napkin with white stripes."
-msgstr "رئیس‌جمهور از زنگمن که عصبانی است یک تماس تصویری دریافت می‌کند. تماس تصویری از یک تلفن قدیمی قرمز شماره‌گیر زنگمن تشکیل شده که به یک مانیتور وصل است. صورت زنگمن روی مانیتور دیده می‌شود و هم‌زمان شعاع زردی از صدای خشمگین و رعدآسای او از گوشی بیرون می‌زند. رئیس‌جمهور گوشی را تا جایی که دستش می‌رسد، دور نگه می‌دارد. او موهای سفید دارد و یک پیراهن آبی روشن، کراوات قرمز و کت آبی با دکمه‌های زرد پوشیده. روی یک صندلی سبز با خط‌های عمودی سفید نشسته و دست دیگرش روی میز است. روی میز، کنار تلفن تصویری، چند برگه با نوشته و یک خودنویس بنفش باز قرار دارد. رئیس‌جمهور داشت یک ساندویچ با گوشت و پنیر و سبزی می‌خورد که دو زیتون با خلال‌دندان رویش بود، روی یک دستمال آبی با خط‌های سفید."
+msgstr "رئیس‌جمهور از زنگِمن که عصبانی است یک تماس تصویری دریافت می‌کند. تماس تصویری از یک تلفن قدیمی قرمز شماره‌گیر زنگِمن تشکیل شده که به یک مانیتور وصل است. صورت زنگِمن روی مانیتور دیده می‌شود و هم‌زمان شعاع زردی از صدای خشمگین و رعدآسای او از گوشی بیرون می‌زند. رئیس‌جمهور گوشی را تا جایی که دستش می‌رسد، دور نگه می‌دارد. او موهای سفید دارد و یک پیراهن آبی روشن، کراوات قرمز و کت آبی با دکمه‌های زرد پوشیده. روی یک صندلی سبز با خط‌های عمودی سفید نشسته و دست دیگرش روی میز است. روی میز، کنار تلفن تصویری، چند برگه با نوشته و یک خودنویس بنفش باز قرار دارد. رئیس‌جمهور داشت یک ساندویچ با گوشت و پنیر و سبزی می‌خورد که دو زیتون با خلال‌دندان رویش بود، روی یک دستمال آبی با خط‌های سفید."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:863
@@ -1427,7 +1494,7 @@ msgstr "آن‌ها جلوی یکی از ماشین‌های بستنی‌ساز
 msgid ""
 "Cans of green, blue, and pink paint; a paintbrush with yellow paint; a light "
 "green marker; and a rolled banner on which some blue paint has fallen."
-msgstr "چند تا قوطی رنگ سبز، آبی و صورتی روی زمینه؛ یه قلم‌مو که روش رنگ زرده؛ یه ماژیک سبز روشن؛ و یه بنر لوله‌شده که یه کم رنگ آبی روش ریخته. صحنه‌ایه پر از رنگ و آماده برای یه پروژه‌ی خلاقانه!"
+msgstr "قوطی‌های رنگ سبز، آبی و صورتی؛ یک قلم‌مو با رنگ زرد؛ یک ماژیک سبز روشن؛ و یک بنر لوله‌شده که کمی رنگ آبی روی آن ریخته شده است."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:875
@@ -1468,7 +1535,7 @@ msgstr "روز بعد، اِدا و دوستانش دوباره در مقابل 
 msgid ""
 "Yellow and green paint on the floor and wax crayons yellow, red, blue, green "
 "and brown; the latter 3 are in a gray cardboard box."
-msgstr "رنگ زرد و سبز روی زمین پخش شده، و چند تا مداد شمعی هم هستن: زرد، قرمز، آبی، سبز و قهوه‌ای. سه تای آخر، یعنی آبی، سبز و قهوه‌ای که توی یه جعبه مقوایی خاکستری قرار دارن. صحنه‌ایه پر از رنگ و آماده برای یه عالمه خلاقیت!"
+msgstr "رنگ‌های زرد و سبز روی کف زمین و مدادشمعی‌های زرد، قرمز، آبی، سبز و قهوه‌ای؛ سه رنگ آخر در یک جعبه مقوایی خاکستری قرار دارند."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:890
@@ -1500,7 +1567,7 @@ msgid ""
 "Toni are walking beneath the banner, and Marie is talking through a bullhorn "
 "held in her hand; Ada’s family’s dog is now wearing a red harness with shiny "
 "yellow LEDs that matches the collar."
-msgstr "گروهی از معترضان جمع شده‌اند. در میان آن‌ها: مادر ادا دست آلن را گرفته و یک بستنی صورتی بالا می‌برد؛ سه همکار پدر تونی که کراوات پوشیده‌اند؛ دو کودک پلاکاردی با نوشته‌ی «شما کارهای خودتان رو انجام دهید آقای رئیس‌جمهور و ما هم کارهای خودمون رو!» در دست دارند؛ یک ربات با باک شنی، پاهای آهنی، شکم پنکه برقی، سر مانیتور و یکی از دست‌هایش همزن برقی، در دست دیگرش بستنی آبی گرفته است؛ دو والدین پلاکارد «هک برای آزادی» را در دست دارند؛ یک خانم تابلوی الکترونیکی با نوشته‌ی «کد B وجود دارد» را نگه داشته؛ دو پرنده کوچک در حال پروازند؛ معلم ریاضی، خانم گرنت، تابلویی با نوشته‌ی «آن‌ها جوان‌اند + به کد نیاز دارند!» را در سبدش گذاشته و سگش در سبد پارس می‌کند. ادا و کنراد پلاکاردی با نوشته‌ی «فناوری ما را خراب نکنید!» را حمل می‌کنند. ماری و تونی زیر پلاکارد راه می‌روند و ماری با یک بلندگو که در دستش است صحبت می‌کند. سگ خانواده‌ی ادا حالا قلاده‌ی قرمز با LEDهای زرد و براق به تن دارد که با گردنش هماهنگ است."
+msgstr "گروهی از معترضان جمع شده‌اند. در میان آن‌ها: مادر اِدا دست آلن را گرفته و یک بستنی صورتی بالا می‌برد؛ سه همکار پدر تونی که کراوات پوشیده‌اند؛ دو کودک پلاکاردی با نوشته‌ی «شما کارهای خودتان رو انجام دهید آقای رئیس‌جمهور و ما هم کارهای خودمون رو!» در دست دارند؛ یک ربات با باک شنی، پاهای آهنی، شکم پنکه برقی، سر مانیتور و یکی از دست‌هایش همزن برقی، در دست دیگرش بستنی آبی گرفته است؛ دو والدین پلاکارد «هک برای آزادی» را در دست دارند؛ یک خانم تابلوی الکترونیکی با نوشته‌ی «کد B وجود دارد» را نگه داشته؛ دو پرنده کوچک در حال پروازند؛ معلم ریاضی، خانم گرنت، تابلویی با نوشته‌ی «آن‌ها جوان‌اند + به کد نیاز دارند!» را در سبدش گذاشته و سگش در سبد پارس می‌کند. اِدا و کنراد پلاکاردی با نوشته‌ی «فناوری ما را خراب نکنید!» را حمل می‌کنند. ماری و تونی زیر پلاکارد راه می‌روند و ماری با یک بلندگو که در دستش است صحبت می‌کند. سگ خانواده‌ی اِدا حالا قلاده‌ی قرمز با LEDهای زرد و براق به تن دارد که با گردنش هماهنگ است."
 
 #. (itstool) path: info/excerpt
 #. Text on big banner, left on the illustration
@@ -1515,7 +1582,7 @@ msgstr "آقای رئیس جمهور شما تکلیف خودت رو انجام 
 msgid ""
 "Detail of the previous image: two children holding the banner “Do your "
 "homework Mr. President and we will do ours!”"
-msgstr "دو تا بچه یه بنر دستشون گرفتن که روش نوشته: «آقای رئیس‌جمهور، شما کارها و تحقیق‌های خودتون رو انجام بدین، ما هم مال خودمون رو انجام می‌دیم!»"
+msgstr "دو تا بچه یه بنر دستشون گرفتن که روش نوشته: \"آقای رئیس‌جمهور، شما کارها و تحقیق‌های خودتون رو انجام بدین، ما هم مال خودمون رو انجام می‌دیم!\""
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1526,7 +1593,7 @@ msgid ""
 "wreck our tech!” Marie and Toni are walking beneath the banner, and Marie is "
 "talking through a bullhorn held in her hand; Ada’s family’s little dog is "
 "now wearing a red harness with shiny yellow LEDs that matches the collar."
-msgstr "جزئیات تصویر قبلی: ادا و کنراد دارن یه بنر با نوشته‌ی \"دست از خرابکاری روی فناوریمون بردار!\" رو حمل می‌کنن. ماری و تونی زیر این بنر راه می‌رن و ماری داره با یه بلندگوی دستی که توی دستشه صحبت می‌کنه. سگ کوچولوی خانواده‌ی ادا حالا یه قلاده قرمز با چراغ‌های LED زرد براق پوشیده که با گردنبندش ست شده."
+msgstr "جزئیات تصویر قبلی: آدا و کنراد بنر \"تکنولوژی ما را خراب نکنید!\" را حمل می‌کنند. ماری و تونی زیر بنر در حال حرکت هستند و ماری از طریق یک بلندگو که در دست دارد صحبت می‌کند؛ سگ کوچک خانواده آدا اکنون یک هارنس قرمز با LEDهای زرد درخشان به تن دارد که با قلاده‌اش هماهنگ است."
 
 #. (itstool) path: info/excerpt
 #. Text on square signe on the right of the illustration
@@ -1540,7 +1607,7 @@ msgstr "اونا جوانند و به کد دسترسی نیاز دارند!"
 #. can be used, which translates to 'without code everything is dull!'.
 #: Ada_Zangemann.dbk:915
 msgid "Don’t wreck our tech!"
-msgstr "به فناوری های ما اسیب نزنید !"
+msgstr "به فناوری های ما آسیب نزنید !"
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:922
@@ -1570,7 +1637,7 @@ msgid ""
 "with its computers. But he didn’t understand anything about computers and "
 "code, so he had always left that to Zangemann. Deep in thought, the "
 "president entered the building."
-msgstr "رئیس‌جمهور به چهره‌های مصمم کودکان نگاه کرد. راستش را بخواهید، او هم می‌خواست خودش تصمیم بگیرد که دولت چه کاری می‌تواند و چه کاری نمی‌تواند با کامپیوترهایش انجام دهد. اما او چیزی از کامپیوتر و کد نمی‌فهمید، بنابراین همیشه این کار را به **زنگِمن** واگذار کرده بود. رئیس‌جمهور در حالی که غرق در فکر بود، وارد ساختمان شد."
+msgstr "رئیس‌جمهور به چهره‌های مصمم کودکان نگاه کرد. راستش را بخواهید، او هم می‌خواست خودش تصمیم بگیرد که دولت چه کاری می‌تواند و چه کاری نمی‌تواند با کامپیوترهایش انجام دهد. اما او چیزی از کامپیوتر و کد نمی‌فهمید، بنابراین همیشه این کار را به زنگِمن واگذار کرده بود. رئیس‌جمهور در حالی که غرق در فکر بود، وارد ساختمان شد."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1581,7 +1648,7 @@ msgid ""
 "typing on a laptop. He has wavy brown hair parted in the center, a red "
 "sweatshirt, blue pants, and white socks but no shoes. Next to the computer "
 "there are a green cup and two open books."
-msgstr "یکی از دوست‌های ادا روی شکم دراز کشیده، یه پاش رو هم هواست، و داره با لپ‌تاپ تایپ می‌کنه. موهاش قهوه‌ای و موج‌دارن و از وسط فرق داده. یه سویشرت قرمز پوشیده، با شلوار آبی و جوراب‌های سفید، ولی کفش نداره. کنار لپ‌تاپش یه لیوان سبز و دو تا کتاب باز دیده می‌شن."
+msgstr "یکی از دوست‌های اِدا روی شکم دراز کشیده، یه پاش رو هم هواست، و داره با لپ‌تاپ تایپ می‌کنه. موهاش قهوه‌ای و موج‌دارن و از وسط فرق داده. یه سویشرت قرمز پوشیده، با شلوار آبی و جوراب‌های سفید، ولی کفش نداره. کنار لپ‌تاپش یه لیوان سبز و دو تا کتاب باز دیده می‌شن."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:934
@@ -1601,7 +1668,7 @@ msgid ""
 "software, the way it wanted — completely without Zangemann. Immediately, the "
 "president called his advisers. In a large group, they discussed with the "
 "children everything they could change and improve in the software."
-msgstr "با این دانش جدید، دولت می‌توانست نرم‌افزارهای خود را به شیوه‌ای که می‌خواست طراحی کند - کاملاً مستقل از **زنگِمن**. رئیس‌جمهور بلافاصله با مشاورانش جلسه تشکیل داد. آنها در جمع بزرگی همراه با کودکان، تمام جنبه‌هایی که می‌توانستند در نرم‌افزار تغییر داده و بهبود بخشند را به بحث گذاشتند."
+msgstr "با این دانش جدید، دولت می‌توانست نرم‌افزارهای خود را به شیوه‌ای که می‌خواست طراحی کند - کاملاً مستقل از زنگِمن. رئیس‌جمهور بلافاصله با مشاورانش جلسه تشکیل داد. آنها در جمع بزرگی همراه با کودکان، تمام جنبه‌هایی که می‌توانستند در نرم‌افزار تغییر داده و بهبود بخشند را به بحث گذاشتند."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:938
@@ -1621,7 +1688,7 @@ msgid ""
 "has a laptop on her legs with an FSFE logo sticker (three stars: pea green, "
 "sky blue, and sea blue). On the floor are a bowl with candy and a plate with "
 "ice creams. The President’s phone is ringing, but nobody is answering."
-msgstr "ادا و دوستاش توی دفتر رئیس‌جمهور هستن. ادا مشغول برنامه‌نویسی دوباره‌ی کامپیوتر رئیس‌جمهوره. تونی داره یه بلندگو برای منشی رئیس‌جمهور نصب می‌کنه. ماری و کنراد روی زمین نشستن و دارن با هم صحبت می‌کنن؛ لپ‌تاپ ماری روی پاشه و یه برچسب FSFE روش چسبونده شده که سه تا ستاره داره: سبز نخودی، آبی آسمونی و آبی دریایی. روی زمین یه کاسه پر از آب‌نبات و یه بشقاب بستنی دیده می‌شه. تلفن رئیس‌جمهور زنگ می‌زنه، ولی هیچ‌کس جواب نمیده."
+msgstr "اِدا و دوستاش توی دفتر رئیس‌جمهور هستن. اِدا مشغول برنامه‌نویسی دوباره‌ی کامپیوتر رئیس‌جمهوره. تونی داره یه بلندگو برای منشی رئیس‌جمهور نصب می‌کنه. ماری و کنراد روی زمین نشستن و دارن با هم صحبت می‌کنن؛ لپ‌تاپ ماری روی پاشه و یه برچسب FSFE روش چسبونده شده که سه تا ستاره داره: سبز نخودی، آبی آسمونی و آبی دریایی. روی زمین یه کاسه پر از آب‌نبات و یه بشقاب بستنی دیده می‌شه. تلفن رئیس‌جمهور زنگ می‌زنه، ولی هیچ‌کس جواب نمیده."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:949
@@ -1648,7 +1715,7 @@ msgstr "<phrase condition=\"capitals-text\">صبح</phrase><phrase condition=\"c
 msgid ""
 "A herald, wearing a hat with a plume, playing a trumpet on which a red "
 "banner is hung."
-msgstr "یک جارچی با کلاهی که یک پر تزئینی روی آن قرار دارد، در حال نواختن شیپور است؛ شیپوری که یک پرچم قرمز از آن آویزان شده. صحنه‌ای پر از شکوه و حس اعلامیه‌های مهم، انگار خبری بزرگ در راه است!"
+msgstr "یک جارچی با کلاهی که یک پر تزئینی روی آن قرار دارد، در حال نواختن شیپور است؛ شیپوری که یک پرچم قرمز از آن آویزان شده. صحنه‌ای پر از شکوه و حس اعلامیه‌های مهم، انگار خبری بزرگ در راه است."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:959
@@ -1693,7 +1760,7 @@ msgid ""
 "firmly holds the ladder on which Marie is standing. Ada is standing on a "
 "chair and holds a copy of the new law bearing a seal. Ada’s dog is sitting "
 "in front of her."
-msgstr "رئیس‌جمهور همراه با تونی، کنراد، ماری، ادا و یه جارچی که داره شیپور می‌زنه، در صحنه حضور دارن. ماری بالای یه نردبون ایستاده و با میکروفن صحبت می‌کنه، در حالی که کنراد محکم نردبون رو گرفته تا تعادلش حفظ بشه. ادا روی یه صندلی ایستاده و یه نسخه از قانون جدید رو که مهر رسمی روش خورده، در دست داره. سگ کوچولوی ادا هم جلوی صندلی نشسته و با دقت به اطراف نگاه می‌کنه."
+msgstr "رئیس‌جمهور همراه با تونی، کنراد، ماری، اِدا و یه جارچی که داره شیپور می‌زنه، در صحنه حضور دارن. ماری بالای یه نردبون ایستاده و با میکروفن صحبت می‌کنه، در حالی که کنراد محکم نردبون رو گرفته تا تعادلش حفظ بشه. اِدا روی یه صندلی ایستاده و یه نسخه از قانون جدید رو که مهر رسمی روش خورده، در دست داره. سگ کوچولوی اِدا هم جلوی صندلی نشسته و با دقت به اطراف نگاه می‌کنه."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:975
@@ -1715,7 +1782,7 @@ msgid ""
 "yellow and orange flags are hanging; music comes out from a large speaker "
 "system; Ms. Gernet holds a pink tree-shaped ice cream with a yellow star on "
 "it; Ada’s mom is dancing with a gentleman."
-msgstr "مهمونی عصرونه‌ست. بچه‌ها بستنی دستشونه و بادکنک‌هایی گرفتن که روش نوشته شده «من عاشق نرم‌افزار آزاد هستم». یه عده دیگه از بچه‌ها دارن اسکیت‌سواری می‌کنن. پرچم‌های زرد و نارنجی از بالا آویزونن و موسیقی از یه سیستم صوتی بزرگ پخش می‌شه و فضا رو پر کرده. خانم گرنت یه بستنی صورتی به شکل درخت گرفته که یه ستاره زرد روشه. مامان آدا هم با یه آقا مشغول رقصه."
+msgstr "مهمونی عصرونه‌ست. بچه‌ها بستنی دستشونه و بادکنک‌هایی گرفتن که روش نوشته شده «من عاشق نرم‌افزار آزاد هستم». یه عده دیگه از بچه‌ها دارن اسکیت‌سواری می‌کنن. پرچم‌های زرد و نارنجی از بالا آویزونن و موسیقی از یه سیستم صوتی بزرگ پخش می‌شه و فضا رو پر کرده. خانم گرنت یه بستنی صورتی به شکل درخت گرفته که یه ستاره زرد روشه. مامان اِدا هم با یه آقا مشغول رقصه."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:984
@@ -1735,7 +1802,7 @@ msgid ""
 "little girl who just took a pink ghost-shaped ice cream from the modified "
 "ice cream machine; Ada’s dog, Konrad, Marie, Ada, and Toni sneaking away "
 "from the party."
-msgstr "رئیس‌جمهور، منشی‌اش و چند نفر دیگه دور یه میز نشستن و دارن بستنی‌های عجیب و غریب می‌خورن؛ پرچم‌های زرد و نارنجی از تصویر قبلی همچنان در فضا آویزونن. یه دختر کوچولو تازه یه بستنی صورتی به شکل روح از دستگاه بستنی‌ساز تغییر یافته برداشته. در همین حال، سگ ادا، کنراد، ماری، ادا و تونی دارن یواشکی از مهمونی دور می‌شن."
+msgstr "رئیس‌جمهور، منشی‌اش و چند نفر دیگه دور یه میز نشستن و دارن بستنی‌های عجیب و غریب می‌خورن؛ پرچم‌های زرد و نارنجی از تصویر قبلی همچنان در فضا آویزونن. یه دختر کوچولو تازه یه بستنی صورتی به شکل روح از دستگاه بستنی‌ساز تغییر یافته برداشته. در همین حال، سگ اِدا، کنراد، ماری، اِدا و تونی دارن یواشکی از مهمونی دور می‌شن."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:995
@@ -1763,7 +1830,7 @@ msgstr "<phrase condition=\"capitals-text\">و</phrase><phrase condition=\"capit
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:1004
 msgid "Ada’s little dog sniffing a trail of ice cream."
-msgstr "سگ کوچک ادا ردی از بستنی را بو می‌کشد."
+msgstr "سگ کوچک اِدا ردی از بستنی را بو می‌کشد."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1820,7 +1887,7 @@ msgid ""
 "Ada’s dog wags its tail after finding Zangemann hidden behind a curtain and "
 "eating an ice cream cone with candies and a blue umbrella on it and lots of "
 "raspberry ice cream dripping."
-msgstr "سگ ادا با خوشحالی دمش رو تکون میده، چون پشت پرده زنگمن رو پیدا کرده که یواشکی داره یه بستنی قیفی خوشمزه می‌خوره؛ بستنی‌ای پر از آبنبات، یه چتر آبی کوچولو روی اون، و کلی بستنی تمشکی که ازش چکه می‌کنه."
+msgstr "سگ اِدا با خوشحالی دمش رو تکون میده، چون پشت پرده زنگِمن رو پیدا کرده که یواشکی داره یه بستنی قیفی خوشمزه می‌خوره؛ بستنی‌ای پر از آبنبات، یه چتر آبی کوچولو روی اون، و کلی بستنی تمشکی که ازش چکه می‌کنه."
 
 #. (itstool) path: info/title
 #. (itstool) id: Ada_Zangemann.dbk#title-author
@@ -1870,12 +1937,12 @@ msgstr "درباره تصویرپرداز"
 #. ignore-same
 #: Ada_Zangemann.dbk:1071
 msgid "Sandra Brandstätter"
-msgstr ""
+msgstr "ساندرا براندشتتر"
 
 #. (itstool) path: info/titleabbrev
 #: Ada_Zangemann.dbk:1072
 msgid "About the Illustrator - Sandra Brandstätter"
-msgstr ""
+msgstr "درباره تصویرگر - ساندرا براندشتتر"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1894,13 +1961,13 @@ msgid ""
 "designer for animated films and series, such as the German public television "
 "series Trudes Tier. On an ice-cream machine, Sandra would pick a creamy "
 "rainbow ice cream with lemon cucumber flavor and a lot of sprinkles."
-msgstr "ساندرا همیشه به کارهای دستی با قیچی٬ انبردست٬ چسب٬ سیم٬ پارچه و کاغذ علاقه داشت.  امروزه اون به عنوان تصویرگر٬ نویسنده‌ی کمیک و طراح شخصیت  برای فیلم‌ها و سریال‌های انیمیشنی کار می‌کنه٬ از جمله٬ سریال تلویزیونی آلمانی Trudes Tier. ساندرا اگه جلوی یک ماشین بستنی‌ساز باشه٬  انتخابش یه بستنی رنگین‌کمونی خامه‌ای با طعم لیمو و خیار و کلی اسپرینکله."
+msgstr "ساندرا همیشه دوست داشته با قیچی، انبرک، چسب، سیم، پارچه و کاغذ کاردستی درست کند. امروز او به عنوان تصویرگر، نویسنده کمیک و طراح شخصیت برای فیلم‌ها و سریال‌های انیمیشن مانند سریال «حیوان تروده» شبکه تلویزیونی عمومی آلمان فعالیت می‌کند. اگر قرار باشد یک بستنی از ماشین بستنی‌سازی انتخاب کند، بستنی رنگین‌کمانی خامه‌ای با طعم خیار لیمو و پاشینه فراوان را برمی‌گزیند."
 
 #. (itstool) path: info/title
 #. (itstool) id: Ada_Zangemann.dbk#title-bookswebsite
 #: Ada_Zangemann.dbk:1092
 msgid "Book’s website"
-msgstr ""
+msgstr "وبسایت کتاب"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1100
@@ -1919,13 +1986,13 @@ msgstr "بنیاد نرم‌افزار آزاد اروپا٬ یه انجمن غ�
 msgid ""
 "On the web page of the book, you will find more information and resources: "
 "<link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
-msgstr ""
+msgstr "در صفحه وب کتاب، اطلاعات و منابع بیشتری پیدا خواهید کرد: <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
 
 #. (itstool) path: info/title
 #. (itstool) id: Ada_Zangemann.dbk#title-license
 #: Ada_Zangemann.dbk:1109
 msgid "License"
-msgstr "گواهی‌نامه ها"
+msgstr "مجوز"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1117
@@ -1934,14 +2001,14 @@ msgid ""
 "Ice Cream by Matthias Kirschner and Sandra Brandstätter, published by No "
 "Starch Press, is licensed under “Creative Commons Attribution-ShareAlike 4.0 "
 "International (CC BY-SA 4.0).”"
-msgstr ""
+msgstr "کتاب اِدا و زنگِمن: داستانی از نرم‌افزار، اسکیت‌برد و بستنی تمشک اثر ماتیاس کیرشنر و ساندرا براندشتتر، منتشر شده توسط انتشارات نو استارچ، تحت مجوز \"Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).\" منتشر شده است.\""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1118
 msgid ""
 "<link xlink:href=\"https://creativecommons.org/licenses/by-sa/4.0/\">https://"
 "creativecommons.org/licenses/by-sa/4.0/</link>"
-msgstr ""
+msgstr "<link xlink:href=\"https://creativecommons.org/licenses/by-sa/4.0/\">https://creativecommons.org/licenses/by-sa/4.0/</link>"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1960,8 +2027,8 @@ msgid ""
 "Come up with some delicious, funny, or crazy ice-cream flavors and draw them on the ice-cream cones on the following page.\n"
 "More information about the book can be found at <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
 msgstr ""
-"چنتا طعم خوشمزه، خنده‌دار یا عجیب غریب بستنی ابداع کن و اونا رو، روی بستنی قیفی‌های صفحه‌ی بعد بکش.\n"
-"اگه می‌خوای بیشتر درباره‌ی این کتاب بدونی، یه سر بزن به این لینک: https://ada.fsfe.org"
+"چند طعم بستنی خوشمزه، بامزه یا دیوانه‌وار ارائه دهید و آن‌ها را روی قیف‌های بستنی در صفحه بعد ترسیم کنید.\n"
+"اطلاعات بیشتر درباره کتاب را می‌توان در <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link> یافت."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
