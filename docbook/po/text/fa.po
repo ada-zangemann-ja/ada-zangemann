@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
 "PO-Revision-Date: 2025-10-03 14:26+0000\n"
-"Last-Translator: AmirHossein Heidari <amirhossein.heidari.email@gmail.com>\n"
+"Last-Translator: Hosein Salmani <cyberllloner@proton.me>\n"
 "Language-Team: Persian <https://hosted.weblate.org/projects/fsfe/ada-zangemann/fa/>\n"
 "Language: fa\n"
 "MIME-Version: 1.0\n"
@@ -16,7 +16,7 @@ msgstr ""
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
 msgid "translator-credits"
-msgstr "اعتبارات-مترجم"
+msgstr "اعتبارات مترجم"
 
 #. (itstool) path: info/title
 #. (itstool) path: cover/bridgehead
@@ -190,7 +190,7 @@ msgid ""
 "on. Together with her friends, she experiments with hardware and software, "
 "and the children forge a plan: Zangemann can no longer be the only one in "
 "control of the devices!"
-msgstr "<phrase condition=\"capitals-text\">مخترع</phrase><phrase condition=\"capitals-img\"></phrase> زنگمن، مشهور در سطح جهانی و فوق العاده ثروتمند است. بزرگسالان و کودکان به یک اندازه عاشق اختراعات فنی فوق العاده او هستند. اما یک روز مشکل پیش می آید: اسکیت بردهای الکترونیکی کودکان دیگر به درستی کار نمی کنند. چه اتفاقی افتاده است؟ دختر کنجکاوی به نام اِدا اصل ماجرا را می بیند. او به همراه دوستانش، بر روی سخت افزار و نرم افزار آزمایش می کند و بچه ها نقشه ای می کشند: دیگر نمی توان زنگمن را تنها کسی دانست که دستگاه ها را کنترل می کند!"
+msgstr "<phrase condition=\"capitals-text\">مخترع</phrase><phrase condition=\"capitals-img\">خترع</phrase> زانگمان در سراسر جهان شهرت دارد و بسیار ثروتمند است. بزرگسالان و کودکان به یک اندازه اختراعات فنی شگفت‌انگیز او را دوست دارند. اما روزی مشکلی پیش می‌آید: اسکیت‌بوردهای الکترونیکی کودکان دیگر به درستی کار نمی‌کنند. چه اتفاقی رخ داده است؟ دختر کنجکاو آدا پی به ماجرا می‌برد. او همراه با دوستانش با سخت‌افزار و نرم‌افزار آزمایش می‌کند و کودکان نقشه‌ای می‌چینند: زانگمان دیگر نباید تنها کنترل کننده دستگاه‌ها باشد!"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:333
