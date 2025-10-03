@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
 "PO-Revision-Date: 2025-10-03 14:26+0000\n"
-"Last-Translator: Hosein Salmani <cyberllloner@proton.me>\n"
+"Last-Translator: abbas davarpanah <abbasdp@proton.me>\n"
 "Language-Team: Persian <https://hosted.weblate.org/projects/fsfe/ada-zangemann/fa/>\n"
 "Language: fa\n"
 "MIME-Version: 1.0\n"
@@ -190,7 +190,7 @@ msgid ""
 "on. Together with her friends, she experiments with hardware and software, "
 "and the children forge a plan: Zangemann can no longer be the only one in "
 "control of the devices!"
-msgstr "<phrase condition=\"capitals-text\">مخترع، زنگمن<phrase condition=\"capitals-img\"></phrase> ، شهرت جهانی و ثروت هنگفتی دارد. بزرگسالان و کودکان به طور یکسان عاشق اختراعات فنی فوق‌العاده او هستند. اما یک روز مشکلی پیش می‌آید: اسکیت‌بردهای الکترونیکی کودکان دیگر به درستی کار نمی‌کنند. چه خبر است؟ دختری کنجکاو به نام آدا به اصل ماجرا پی می‌برد. او همراه با دوستانش، با سخت‌افزار و نرم‌افزار آزمایش می‌کند!"
+msgstr "<phrase condition=\"capitals-text\">مخترع</phrase><phrase condition=\"capitals-img\"></phrase> زنگمن، مشهور در سطح جهانی و فوق العاده ثروتمند است. بزرگسالان و کودکان به یک اندازه عاشق اختراعات فنی فوق العاده او هستند. اما یک روز مشکل پیش می آید: اسکیت بردهای الکترونیکی کودکان دیگر به درستی کار نمی کنند. چه اتفاقی افتاده است؟ دختر کنجکاوی به نام اِدا اصل ماجرا را می بیند. او به همراه دوستانش، بر روی سخت افزار و نرم افزار آزمایش می کند و بچه ها نقشه ای می کشند: دیگر نمی توان زنگمن را تنها کسی دانست که دستگاه ها را کنترل می کند!"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:333
