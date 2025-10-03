@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
 "PO-Revision-Date: 2025-10-03 14:26+0000\n"
-"Last-Translator: Reza Nikmanesh <Rezanikmanesh79@gmail.com>\n"
+"Last-Translator: Hosein Salmani <cyberllloner@proton.me>\n"
 "Language-Team: Persian <https://hosted.weblate.org/projects/fsfe/ada-zangemann/fa/>\n"
 "Language: fa\n"
 "MIME-Version: 1.0\n"
@@ -113,7 +113,7 @@ msgstr "تونی"
 #. ignore-same
 #: Ada_Zangemann.dbk:294
 msgid "Konrad"
-msgstr "(itstool) path: character/charactername نام شخصیت‌ها بیشتر به افراد موجود در تاریخ رایانه یا علم اشاره دارند، اما اگر بخواهید آن‌ها را تغییر دهید تا برای کودکان قابل‌ارتباط‌تر باشند، بهتر است نام‌هایی انتخاب کنید که همچنان رایج باشند ولی به شخصیت‌های مهم در تاریخ رایانه مرتبط باشند. اگر در این زمینه مشکلی داشتید، می‌توانید با ماتیاس در تماس باشید. همچنین لطفاً مطمئن شوید که فقط نام‌های مردانه را با نام‌های مردانه و نام‌های زنانه را با نام‌های زنانه جایگزین کنید تا تعادل جنسیتی حفظ شود، یا از نام‌هایی استفاده کنید که می‌توانند هم برای مردان و هم برای زنان به کار روند."
+msgstr "کنراد"
 
 #. (itstool) path: character/charactername
 #. Character names are mostly reference to existing people in computer
@@ -212,7 +212,7 @@ msgstr ""
 #. know as 'bastard title'.
 #: Ada_Zangemann.dbk:355
 msgid "Half-title page"
-msgstr "(ابزار) مسیر: اطلاعات/عنوان صفحه قبل از کتب‌نامه و صفحه عنوان، با فقط عنوان. همچنین به عنوان \"عنوان نامناسب\" شناخته می‌شود."
+msgstr "صفحه نیم‌عنوان"
 
 #. (itstool) path: mediaobject/alt
 #. (itstool) path: simplesect/para
@@ -229,7 +229,7 @@ msgstr ""
 #. Also known as 'imprint'
 #: Ada_Zangemann.dbk:368
 msgid "Colophon"
-msgstr "(itstool) path: اطلاعات/عنوان همچنان به عنوان 'imprint' شناخته می‌شود"
+msgstr "شناسنامه کتاب"
 
 #. (itstool) path: simplesect/literallayout
 #. Smaller colophon to be combined with grey free cultural license
@@ -343,7 +343,7 @@ msgstr ""
 #. illustration of Ada’s dog.
 #: Ada_Zangemann.dbk:452
 msgid "Title page"
-msgstr "(itstool) path: اطلاعات/عنوان صفحه در کنار کتب‌نامه با عنوان، زیرعنوان، نویسندگان و تصویر سگ آدا."
+msgstr "صفحه عنوان"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -419,7 +419,7 @@ msgid ""
 "jar. They didn’t have enough money to live in a proper home. Instead, Ada "
 "lived with her mother and her little brother, Alan, in a cabin near a "
 "junkyard on the edge of town."
-msgstr "<phrase condition=\"capitals-text\">«روزی روزگاری<phrase condition=\"capitals-img\"></phrase>، دختری کوچک به نام آدا زندگی می‌کرد. خانواده‌اش آنقدر فقیر بودند که تمام پس‌اندازشان در یک شیشه‌ی بیسکویت جا می‌شد. آن‌ها پول کافی برای زندگی در یک خانه‌ی درست و حسابی نداشتند. در عوض، آدا با مادر و برادر کوچکش، آلن، در یک کلبه نزدیک یک آشغال‌دانی در حاشیه شهر زندگی می‌کرد»."
+msgstr "<phrase condition=\"capitals-text\">روزگاری</phrase><phrase condition=\"capitals-img\">وزگاری</phrase> دختری کوچک به نام آدا بود. خانواده‌اش آنقدر فقیر بودند که تمام پس‌اندازشان در یک شیرینی‌خوری جا می‌شد. آنها پول کافی برای زندگی در یک خانه معمولی نداشتند. در عوض، آدا با مادرش و برادر کوچکش، آلن، در کلبه‌ای نزدیک به یک آهن‌قراضه‌فروشی در حاشیه شهر زندگی می‌کرد."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -476,7 +476,7 @@ msgstr "در نقطه‌ای دور، در انتهای دیگر شهر، مخت
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:523
 msgid "Zangemann and computers"
-msgstr "زنگمان و کامپیوترها"
+msgstr "زنگمن و کامپیوترها"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p06-1
@@ -498,7 +498,7 @@ msgid ""
 "robot and a block-sorting machine so that his room would always be neat and "
 "clean. Zangemann had great new ideas like these every day. He could think of "
 "nothing else."
-msgstr "<phrase condition=\"capitals-text\">رایانه‌ها<phrase condition=\"capitals-img\"></phrase> از کودکی زنگمان را شیفته خود کرده بودند. وقتی او کوچک بود، رایانه‌ها دستگاه‌هایی عظیم با کلی کابل و فن‌های پر سر و صدای بلند بودند. در مدرسه، زنگمان کوچک اغلب رؤیای کارهایی را می‌دید که اگر رایانه‌ها فقط کمی کوچک‌تر بودند می‌توانست با آن‌ها انجام دهد. آنقدر کوچک که بشود آن‌ها را در چیزهای سرگرم‌کننده دیگری ساخت. او می‌دانست چه کار خواهد کرد. اول از همه، او یک رایانه را در اسکیت‌بوردش کار می‌گذاشت تا هنگام سوار شدن، صداهای جالبی از خود تولید کند. شاید صدای آژیر ماشین آتش‌نشانی یا صدای پرتاب موشک. سپس از یک رایانه برای اختراع دستگاه‌های ساخت بستنی استفاده می‌کرد! رایانه باحال‌ترین طعم‌ها را مخلوط می‌کرد و حتی بستنی را می‌فروخت. در هر گوشه خیابان دستگاه‌هایی وجود داشت و او می‌توانست هر وقت که دلش می‌خواست، بستنی با طعم مورد علاقه‌اش و به هر اندازه‌ای که می‌خواست، تهیه کند. بعد از آن، او یک ربات تمیزکننده و یک دستگاه مرتب‌سازی بلوک‌ها می‌ساخت تا اتاقش همیشه مرتب و تمیز باشد. زنگمان هر روز ایده‌های جدید و بزرگی مانند این‌ها داشت. او به هیچ چیز دیگری نمی‌توانست فکر کند."
+msgstr "<phrase condition=\"capitals-text\">کامپیوترها</phrase><phrase condition=\"capitals-img\">امپیوترها</phrase> از زمانی که کودک بود، زانگمان را مجذوب کرده بودند. وقتی جوان بود، کامپیوترها ماشین‌های عظیمی با کابل‌های فراوان و پنکه‌های بلند و پرسر و صدا بودند. در مدرسه، زانگمان کوچک اغلب رویای کارهایی را در سر می‌پروراند که با کامپیوترها انجام می‌داد اگر فقط کمی کوچک‌تر می‌شدند — آنقدر کوچک که بتوان آنها را در چیزهای سرگرم‌کننده دیگر تعبیه کرد. او می‌دانست چه کاری باید انجام دهد. اول، کامپیوتری را در اسکیت‌بورد خود می‌ساخت تا صداهای جذابی هنگام سوار شدن ایجاد کند — شاید صدای آژیر ماشین آتش‌نشانی یا صدای پرتاب موشک. سپس از کامپیوتر برای اختراع دستگاه‌های بستنی‌سازی استفاده می‌کرد! کامپیوتر مزه‌های هیجان‌انگیز را مخلوط می‌کرد و حتی بستنی را می‌فروخت. دستگاه‌هایی در هر گوشه خیابان وجود داشت، و او می‌توانست هر زمان که دلش می‌خواست بستنی با مزه مورد علاقه‌اش را و به هر میزان که می‌خواست، تهیه کند. بعد از آن، ربات نظافتچی و دستگاه مرتب‌کننده بلوک‌ها می‌ساخت تا اتاقش همیشه مرتب و تمیز باشد. زانگمان هر روز ایده‌های جدید و خلاقانه‌ای مانند اینها داشت. او جز این به چیز دیگری فکر نمی‌کرد."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:528
@@ -613,7 +613,7 @@ msgstr "خوشبختانه، آدا درست کنار اوراقچی زندگی 
 msgid ""
 "Ada had so much fun tinkering in the junkyard and fixing broken things that "
 "she forgot all about the skateboards and the ice cream."
-msgstr "آدا انقدر توی آشغال‌دونی سرگرم دست‌کاری و درست کردن وسایل خراب شده بود که کلاً یادش رفت اسکیت‌بردا و بستنی رو."
+msgstr "ادا آنقدر از تعمیر کردن و ور رفتن با اشیای شکسته در آهن‌قراضه‌فروشی لذت می‌برد که اسکیت‌بوردها و بستنی را کاملاً فراموش کرده بود."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:569
@@ -655,7 +655,7 @@ msgid ""
 "eat ice cream. He spent many hours every day in front of his golden computer "
 "doing this. Again and again, he looked down on the city through a long "
 "telescope, observing how reliably his inventions carried out his commands."
-msgstr "زنگمان از فشار دادن کلیدهای براق و تماشای مردم در حال بستنی خوردن، لذت زیادی می‌برد. او هر روز ساعت‌های زیادی را جلوی کامپیوتر طلایی‌اش صرف این کار می‌کرد. او بارها و بارها از طریق یک تلسکوپ بلند به شهر نگاه می‌کرد و مشاهده می‌کرد که اختراعاتش با چه دقتی دستورات او را انجام می‌دهند."
+msgstr "زنگمن از فشار دادن کلیدهای براق و تماشای مردم در حال بستنی خوردن، لذت زیادی می‌برد. او هر روز ساعت‌های زیادی را جلوی کامپیوتر طلایی‌اش صرف این کار می‌کرد. او بارها و بارها از طریق یک تلسکوپ بلند به شهر نگاه می‌کرد و مشاهده می‌کرد که اختراعاتش با چه دقتی دستورات او را انجام می‌دهند."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -699,7 +699,7 @@ msgid ""
 "into it. Not all of his inventions seemed necessary at first, but people "
 "bought everything he made. That’s just the way it was. Everyone wanted the "
 "devices made by Zangemann, the greatest inventor in the world."
-msgstr "تقریباً در هر وسیله‌ای در جهان یک رایانه‌ی زانگمن استفاده میکرد. همه‌ی اختراعات او در ابتدا ضروری به نظر نمی‌رسیدند، اما مردم هر چیزی را که او می‌ساخت می‌خریدند. اوضاع همین‌طور بود. همه دستگاه‌هایی را می‌خواستند که توسط زانگمن، بزرگ‌ترین مخترع جهان، ساخته شده بود."
+msgstr "تقریباً در هر وسیله‌ای در جهان یک رایانه‌ی زنگمن استفاده میکرد. همه‌ی اختراعات او در ابتدا ضروری به نظر نمی‌رسیدند، اما مردم هر چیزی را که او می‌ساخت می‌خریدند. اوضاع همین‌طور بود. همه دستگاه‌هایی را می‌خواستند که توسط زانگمن، بزرگ‌ترین مخترع جهان، ساخته شده بود."
 
 #. (itstool) path: info/title
 #. Intended as 'on a day', not 'a single day'. This is supposed to be
