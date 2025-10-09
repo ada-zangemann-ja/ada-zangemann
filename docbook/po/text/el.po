@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2025-10-04 15:02+0000\n"
+"PO-Revision-Date: 2025-10-10 06:07+0000\n"
 "Last-Translator: Gerasimos Chourdakis <gerasimos.chourdakis@ipvs.uni-stuttgart.de>\n"
 "Language-Team: Greek <https://hosted.weblate.org/projects/fsfe/ada-zangemann/el/>\n"
 "Language: el\n"
@@ -414,7 +414,7 @@ msgid ""
 "jar. They didn’t have enough money to live in a proper home. Instead, Ada "
 "lived with her mother and her little brother, Alan, in a cabin near a "
 "junkyard on the edge of town."
-msgstr "<phrase condition=\"capitals-text\">Μια φορά</phrase><phrase condition=\"capitals-img\">ια φορά</phrase> κι έναν καιρό, ήταν ένα κοριτσάκι που το λέγαν Άντα. Η οικογένειά της ήταν τόσο φτωχή, που όλες οι οικονομίες τους χωρούσαν σε ένα βάζο από μπισκότα. Δεν είχαν αρκετά χρήματα για να ζήσουν σε ένα κανονικό σπίτι. Αντ' αυτού, η Άντα ζούσε με τη μητέρα της και τον μικρό της αδερφό, Άλαν, σε μια καλύβα κοντά σε έναν σκουπιδότοπο στις παρυφές της πόλης."
+msgstr "See ongoing effort on https://git.fsfe.org/zvr/ada-zangemann-el. Planning to merge and port to Weblate."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
