@@ -3,16 +3,15 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2025-05-11 20:01+0000\n"
-"Last-Translator: albanobattistella <albano_battistella@hotmail.com>\n"
-"Language-Team: Italian <https://hosted.weblate.org/projects/fsfe/ada-"
-"zangemann/it/>\n"
+"PO-Revision-Date: 2025-10-08 21:07+0000\n"
+"Last-Translator: Marco Ciampa <ciampix@posteo.net>\n"
+"Language-Team: Italian <https://hosted.weblate.org/projects/fsfe/ada-zangemann/it/>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.12-dev\n"
+"X-Generator: Weblate 5.14-dev\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
@@ -118,7 +117,7 @@ msgstr "Toni"
 #. ignore-same
 #: Ada_Zangemann.dbk:294
 msgid "Konrad"
-msgstr ""
+msgstr "Konrad"
 
 #. (itstool) path: character/charactername
 #. Character names are mostly reference to existing people in computer
@@ -133,7 +132,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:297
 msgid "Marie"
-msgstr ""
+msgstr "Marie"
 
 #. (itstool) path: character/charactername
 #. Character names are mostly reference to existing people in computer
@@ -207,7 +206,6 @@ msgstr ""
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-back-1
 #: Ada_Zangemann.dbk:332
-#, fuzzy
 msgid ""
 "<phrase condition=\"capitals-text\">The</phrase><phrase condition=\"capitals-"
 "img\">he</phrase> inventor Zangemann is world-famous and immensely rich. "
@@ -217,15 +215,7 @@ msgid ""
 "on. Together with her friends, she experiments with hardware and software, "
 "and the children forge a plan: Zangemann can no longer be the only one in "
 "control of the devices!"
-msgstr ""
-"<phrase condition=\"capitals-text\">L’inventore</phrase><phrase "
-"condition=\"capitals-img\">’inventore</phrase> Zangemann è famoso in tutto "
-"il mondo ed è immensamente ricco. Adulti e bambini amano le sue favolose "
-"invenzioni. Ma un giorno si verifica un problema: gli skateboard elettrici "
-"dei bambini non funzionano più correttamente. Che succede? La curiosa Ada "
-"scopre cosa sta accadendo. Insieme ai suoi amici smanetta con i programmi "
-"per computer ed escogita un piano: Zangemann non può più avere il controllo "
-"dei dispositivi!"
+msgstr "<phrase condition=\"capitals-text\">L’inventore</phrase><phrase condition=\"capitals-img\">’inventore</phrase> Zangemann è famoso in tutto il mondo ed è immensamente ricco. Adulti e bambini amano le sue favolose invenzioni. Ma un giorno si verifica un problema: gli skateboard elettrici dei bambini non funzionano più correttamente. Che succede? La curiosa Ada scopre cosa sta accadendo. Insieme ai suoi amici smanetta con l'elettronica e programmi per computer ed escogita un piano: Zangemann non può più avere il controllo dei dispositivi!"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:333
@@ -1033,20 +1023,13 @@ msgstr ""
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:620
-#, fuzzy
 msgid ""
 "Zangemann after the incident with the child. Zangemann screams from pain "
 "while holding up one of his legs with both hands at the shin. The child has "
 "brown hair that is blown back by Zangemann’s scream; he is wearing a light "
 "blue hooded sweatshirt and dark green pants. He holds a red Zangemann "
 "electric skateboard."
-msgstr ""
-"Zangemann dopo lo scontro con il bambino. Zangemann urla dal dolore mentre "
-"tiene sollevata una gamba tenendola con entrambe le mani all'altezza dello "
-"stinco. Il bambino ha i capelli castani che vengono tenuti indietro "
-"dall'urlo di Zangemann, è vestito con una felpa azzurra con cappuccio e dei "
-"pantaloni verde scuro. Tiene in mano lo skateboard elettrico Zangemann di "
-"colore rosso."
+msgstr "Zangemann dopo lo scontro con il bambino. Zangemann urla dal dolore mentre tiene sollevata una gamba tenendola con entrambe le mani all'altezza dello stinco. Il bambino ha i capelli castani che vengono tenuti indietro dall'urlo di Zangemann, è vestito con una felpa azzurra con cappuccio e dei pantaloni verde scuro. Tiene in mano lo skateboard elettrico Zangemann di colore rosso."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:624
@@ -1124,35 +1107,24 @@ msgstr ""
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:640
-#, fuzzy
 msgid ""
 "The city in the evening, with houses, a church, and two streetlights. Images "
 "emerge from the dwellings illustrating Zangemann’s inventions bought by the "
 "inhabitants: a washing machine, a yellow vacuum cleaner, and a red car, all "
 "with Internet connection signals."
-msgstr ""
-"La città di sera, con case, palazzi, una chiesa e due lampioni. Dalle "
-"abitazione escono dei fumetti che illustrano le invenzioni di Zangemann "
-"comprate dagli abitanti: una lavatrice, un'aspirapolvere gialla e un'auto "
-"rossa, tutte con i segnali di connessione ad Internet."
+msgstr "La città di sera, con case, palazzi, una chiesa e due lampioni. Dalle abitazioni escono dei fumetti che illustrano le invenzioni di Zangemann acquistate dagli abitanti: una lavatrice, un aspirapolvere giallo e un'auto rossa, tutte con i segnali di connessione a Internet."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:648
-#, fuzzy
 msgid ""
 "Continuation of the previous picture, where in the background there is the "
 "hill with Zangemann’s house from whose antenna come the signals to control "
 "the various devices. In emerging images there are: a red electric "
 "skateboard, a light bulb, an ice cream machine, and a toilet, all of which "
 "are receiving commands from Zangemann."
-msgstr ""
-"Continuazione della precedente immagine con altra parte della città, dove "
-"sullo sfondo c'è la collina con la villa di Zangemann dalla cui antenna "
-"escono i segnali per comandare i vari dispositivi. Nei fumetti ci sono: uno "
-"skateboard elettrico rosso, una lampadina, una macchina per il gelato, un "
-"water, tutti che stanno ricevendo comandi da Zangemann."
+msgstr "Continuazione della precedente immagine con altra parte della città, dove sullo sfondo c'è la collina con la villa di Zangemann dalla cui antenna escono i segnali per comandare i vari dispositivi. Nei fumetti ci sono: uno skateboard elettrico rosso, una lampadina, una macchina per il gelato, un water, tutti che ricevono comandi da Zangemann."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:654
@@ -2684,7 +2656,7 @@ msgstr ""
 #. (itstool) id: Ada_Zangemann.dbk#title-illustrator
 #: Ada_Zangemann.dbk:1070
 msgid "About the Illustrator"
-msgstr "Informazioni sull'illustratrice"
+msgstr "Info sull'illustratrice"
 
 #. (itstool) path: info/subtitle
 #. (itstool) id: Ada_Zangemann.dbk#subtitle-illustrator

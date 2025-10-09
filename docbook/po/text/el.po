@@ -1,15 +1,17 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-10-04 15:02+0000\n"
+"Last-Translator: Gerasimos Chourdakis <gerasimos.chourdakis@ipvs.uni-stuttgart.de>\n"
+"Language-Team: Greek <https://hosted.weblate.org/projects/fsfe/ada-zangemann/el/>\n"
 "Language: el\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.14-dev\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
@@ -412,7 +414,7 @@ msgid ""
 "jar. They didn’t have enough money to live in a proper home. Instead, Ada "
 "lived with her mother and her little brother, Alan, in a cabin near a "
 "junkyard on the edge of town."
-msgstr ""
+msgstr "<phrase condition=\"capitals-text\">Μια φορά</phrase><phrase condition=\"capitals-img\">ια φορά</phrase> κι έναν καιρό, ήταν ένα κοριτσάκι που το λέγαν Άντα. Η οικογένειά της ήταν τόσο φτωχή, που όλες οι οικονομίες τους χωρούσαν σε ένα βάζο από μπισκότα. Δεν είχαν αρκετά χρήματα για να ζήσουν σε ένα κανονικό σπίτι. Αντ' αυτού, η Άντα ζούσε με τη μητέρα της και τον μικρό της αδερφό, Άλαν, σε μια καλύβα κοντά σε έναν σκουπιδότοπο στις παρυφές της πόλης."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
