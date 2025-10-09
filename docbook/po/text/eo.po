@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2025-10-08 21:07+0000\n"
+"PO-Revision-Date: 2025-10-10 06:07+0000\n"
 "Last-Translator: Marco Ciampa <ciampix@posteo.net>\n"
 "Language-Team: Esperanto <https://hosted.weblate.org/projects/fsfe/ada-zangemann/eo/>\n"
 "Language: eo\n"
@@ -153,7 +153,6 @@ msgstr "S-ino Gernet"
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:320
-#, fuzzy
 msgid ""
 "Ada &amp; Zangemann - A Tale of Software, Skateboards, and Raspberry Ice "
 "Cream. By Matthias Kirschner and Sandra Brandstätter. On a mostly "
@@ -172,26 +171,7 @@ msgid ""
 "turtle-neck sweater, light blue pants turned up, brown shoes, and white "
 "socks. He’s wearing a big tech watch. Above Zangemann there are a pair of "
 "pliers with red handles crossing the wire frame."
-msgstr ""
-"Ada kaj Zangemann - Rakonto pri programaro, rultabuloj kaj framba glaciaĵo. "
-"De Matthias Kirschner kaj Sandra Brandstätter. Sur plejparte nesaturita "
-"malhela cejana fono, en kadro konsistanta el kelkfoje krispaj blankaj "
-"linioj, kiuj konektas muson, klavaron kaj rozkoloran inteligentan telefonon, "
-"Ada kaj Zangemann staras unu al la alia, ambaŭ kun la manoj sur la koksoj "
-"kiel signo de defio. Ada ridetas kaj Zangemann sulkas. Ada havas nigran "
-"hararon kolektitan en du grandajn dekstra- kaj maldekstra-laŭtune buklojn "
-"kun ruĝaj kaŭĉukaj bendoj, kaj ruĝajn vangojn. Ŝi havas malgrandajn flavajn "
-"orelringojn. Ŝi portas cejanajn kaj blankajn horizontale striitajn ŝortojn "
-"kaj flavan ĉemizon super blanka subĉemizo, kiu finiĝas per brodaĵo, kiu "
-"etendiĝas preter la ĉemizo. La ĉemizo kaj subĉemizo elstaras super la "
-"ŝortoj. Super la ĉemizo, Ada portas bluan ŝvitĉemizon kun kapuĉo. Ada portas "
-"ruĝajn ŝuojn kun blankaj pintoj kaj plandoj, kaj mallongajn blankajn "
-"ŝtrumpetojn. Ŝi havas unu piedon sur rultabulo kaj la alian sur la tero. "
-"Zangemann havas mallongajn grizajn harojn kaj kvadratajn okulvitrojn. Li "
-"portas purpuran sveteron kun rulkolumo, helbluajn pantalonojn "
-"suprenfaldigitajn, brunajn ŝuojn kaj blankajn ŝtrumpetojn. Li portas grandan "
-"teknologian horloĝon. Super Zangemann estas pinĉilo kun ruĝaj teniloj, kiuj "
-"transiras la dratan kadron."
+msgstr "Ada kaj Zangemann - Rakonto pri programaro, rultabuloj kaj framba glaciaĵo. De Matthias Kirschner kaj Sandra Brandstätter. Sur plejparte nesaturita malhela cejana fono, en kadro konsistanta el kelkfoje krispaj blankaj linioj, kiuj konektas muson, klavaron kaj rozkoloran inteligentan telefonon, Ada kaj Zangemann staras unu al la alia, ambaŭ kun la manoj sur la koksoj kiel signo de defio. Ada ridetas kaj Zangemann sulkas. Ada havas nigran hararon kolektitan en du grandajn dekstra- kaj maldekstra-laŭtune buklojn kun ruĝaj kaŭĉukaj bendoj, kaj ruĝajn vangojn. Ŝi havas malgrandajn flavajn orelringojn. Ŝi portas cejanajn kaj blankajn horizontale striitajn ŝortojn kaj flavan ĉemizon super blanka subĉemizo, kiu finiĝas per brodaĵo, kiu etendiĝas preter la ĉemizo. La ĉemizo kaj subĉemizo elstaras super la ŝortoj. Super la ĉemizo, Ada portas bluan ŝvitĉemizon kun kapuĉo. Ada portas ruĝajn ŝuojn kun blankaj pintoj kaj plandoj, kaj mallongajn blankajn ŝtrumpetojn. Ŝi havas unu piedon sur rultabulo kaj la alian sur la tero. Zangemann havas mallongajn grizajn harojn kaj kvadratajn okulvitrojn. Li portas purpuran sveteron kun rulkolumo, helbluajn pantalonojn suprenfaldigitajn, brunajn ŝuojn kaj blankajn ŝtrumpetojn. Li portas grandan teknologian horloĝon. Super Zangemann estas pinĉilo kun ruĝaj teniloj, kiuj transiras la dratan kadron."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -364,7 +344,7 @@ msgstr ""
 #.
 #. In a literallayout element all space and newline characters are kept.
 #: Ada_Zangemann.dbk:443
-#, fuzzy, no-wrap
+#, no-wrap
 msgid ""
 "<emphasis role=\"bold\">Free as in freedom not price</emphasis>\n"
 "Free Software is about the freedoms you receive with the software, not about the price. Likewise publishing a book under a free culture license does not mean you have the right to get a gratis copy of the book or ebook. It means you get the rights described above, which enable society to benefit further from this book, as it should from all cultural works.\n"
@@ -389,19 +369,13 @@ msgstr "Paĝo de la titolo"
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:459
-#, fuzzy
 msgid ""
 "Matthias Kirschner, Sandra Brandstätter - ADA &amp; ZANGEMANN - A Tale of "
 "Software, Skateboards and Raspberry Ice Cream. Title in the middle, authors "
 "in the upper left. In the lower right, Ada’s family’s dog with gray fur and "
 "some white patches and with a red collar with shiny yellow LEDs, which wags "
 "its tail."
-msgstr ""
-"Matthias Kirschner, Sandra Brandstätter - ADA &amp; ZANGEMANN - Rakonto pri "
-"programaro, rultabuloj kaj framba glaciaĵo. Titolo meze, aŭtoroj supre "
-"maldekstre. Malsupra dekstre, la hundo de la familio de Ada kun griza felo "
-"kaj kelkaj blankaj makuloj kaj kun ruĝa kolrimeno kun brile flavaj LED-oj, "
-"kiu skuas sian voston."
+msgstr "Matthias Kirschner, Sandra Brandstätter - ADA &amp; ZANGEMANN - Rakonto pri programaro, rultabuloj kaj framba glaciaĵo. Titolo meze, aŭtoroj supre maldekstre. Malsupra dekstre, la hundo de la familio de Ada kun griza felo kaj kelkaj blankaj makuloj kaj kun ruĝa kolrimeno kun brile flavaj LED-oj, kiu skuas sian voston."
 
 #. (itstool) path: mediaobject/alt
 #. ignore-same
@@ -427,14 +401,10 @@ msgstr ""
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:483
-#, fuzzy
 msgid ""
 "In the lower right, Ada’s family’s dog with gray fur and some white patches "
 "and with a red collar with shiny yellow LEDs, which wags its tail."
-msgstr ""
-"Malsupra dekstre, la hundo de la familio de Ada kun griza felo kaj kelkaj "
-"blankaj makuloj kaj kun ruĝa kolrimeno kun brile flavaj LED-oj, kiu skuas "
-"sian voston."
+msgstr "Malsupre dekstre, la hundo de la familio de Ada kun griza felo kaj kelkaj blankaj makuloj kaj kun ruĝa kolrimeno kun brile flavaj LED-oj, kiu skuas sian voston."
 
 #. (itstool) path: simplesect/literallayout
 #. In a literallayout element all space and newline characters are kept.
@@ -931,7 +901,7 @@ msgid ""
 "brown hair that is blown back by Zangemann’s scream; he is wearing a light "
 "blue hooded sweatshirt and dark green pants. He holds a red Zangemann "
 "electric skateboard."
-msgstr ""
+msgstr "Zangemann post la akcidento kun la infano. Zangemann krias pro doloro tenante unu el siaj kruroj per ambaŭ manoj ĉe la tibio. La infano havas brunan hararon, kiu estas blovita malantaŭen de la krio de Zangemann; li portas helbluan ŝvitĉemizon kun kapuĉo kaj malhelverdajn pantalonojn. Li tenas ruĝan elektran rultabulon de Zangemann."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:624
@@ -975,7 +945,7 @@ msgid ""
 "green sweater, dark brown pants, and light green heeled shoes. She has a "
 "fuchsia shoulder bag, worn behind her. She pushes a small shopping cart in "
 "which there is a small brown dog with a collar and tag."
-msgstr ""
+msgstr "Anoncoj por glaciaĵo Zangemann (sandviĉa tabulo), elektra rultabulo Zangemann, kaj lavmaŝino Zangemann. La matematika instruistino, S-ino Gernet, pasas antaŭ la afiŝtabuloj. S-ino Gernet estas maljuna sinjorino kun mallongaj blankaj haroj. Ŝi estas vestita per helverda t-ĉemizo kaj pizverda ŝvitĉemiso, malhelbrunaj pantalonoj, kaj helverdaj ŝuoj kun kalkanumoj. Ŝi havas fuksian dorsosakon, portatan malantaŭ si. Ŝi puŝas malgrandan aĉetĉaron, en kiu estas malgranda bruna hundo kun kolumo kaj etikedo."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:635
@@ -1052,7 +1022,7 @@ msgid ""
 "children have backpacks on their shoulders, while the little girl with the "
 "red helmet left hers leaning on a bench on which there are a yellow apple "
 "and a light blue bottle with a white flower on it."
-msgstr ""
+msgstr "Kvin infanoj el la lernejo, kiuj ne povas funkciigi rultabulojn. Du knabinoj portas kaskojn, respektive bluan kaj ruĝan. Knabineto kun bruna hararo ligita en du vostojn per flavaj kaŭĉukaj bendoj genuiĝas. Ŝi provas kompreni, kial la rultabulo de ŝia amikino kun la ruĝa kasko ne funkcias. Kvar infanoj havas dorsosakojn sur siaj ŝultroj, dum la knabineto kun la ruĝa kasko lasis la sian apogita sur benko, sur kiu estas flava pomo kaj helblua botelo kun blanka floro sur ĝi."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:667
@@ -1081,7 +1051,7 @@ msgstr ""
 msgid ""
 "Close-up of Ada thoughtful, with a backpack and with one hand on her chin "
 "and the other resting on her side."
-msgstr ""
+msgstr "Proksima bildo de Ada pensema, kun dorsosako kaj kun unu mano sur la mentono kaj la alia ripozanta sur la flanko."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:675
@@ -1154,7 +1124,7 @@ msgid ""
 "is typing on a white keyboard with a blue cable, while her other hand enters "
 "the screen to change the program (“print(msg)”, “a+b+c+d=e”, “if”, “break”, "
 "“continue”, “exit()”). Next to the keyboard there are a pencil and an eraser."
-msgstr ""
+msgstr "Komputila ekrano, el kiu simbole aperas la elementoj de la programlingvo: “while num > 0“, “init“, “sx=42“, “for“, “v**3“. Ada tajpas sur blanka klavaro kun blua kablo, dum ŝia alia mano eniras la ekranon por ŝanĝi la programon (“print(mesaĝo)”, “a+b+c+d=e”, “if”, “break”, “continue”, “exit()”). Apud la klavaro estas krajono kaj skrapgumo."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:699
@@ -1230,7 +1200,7 @@ msgstr "Ada ankaŭ havis ideon por la sekva programo, kiun ŝi verkus. Ĝi estis
 msgid ""
 "Zangemann looks thoughtfully with his arms crossed out one of the great "
 "windows of his house, into which the sun’s rays are shining."
-msgstr ""
+msgstr "Zangemann penseme rigardas kun krucitaj brakoj el unu el la grandaj fenestroj de sia domo, en kiujn brilas la sunradioj."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:728
@@ -1346,7 +1316,7 @@ msgid ""
 "white striped awning around the corner and a sign on the sidewalk with the "
 "list of products. Overhead, a large pretzel is displayed. On the road there "
 "is a puddle that reflects the blue of the sky."
-msgstr ""
+msgstr "Ada kuras per sia elektra rultabulo sur urbaj trotuaroj. La rultabulo de Ada estas blua, kun grizaj kaj rozkoloraj radoj; la elektronika parto estas lokita super la rultabulo (kontraste al la rultabuloj de Zangemann, kie la elektronika parto estas sube). Ada tenas en ambaŭ manoj teleregilon kun mallonga anteno por manovri ĝin. Malantaŭ Ada estas Marie kaj Toni, kiuj portas siajn proprajn rultabulojn sub la brakoj kaj rigardas kun miro Ada-n, kiu rapide preterpasis ilin kaj staris antaŭ ili. Marie havas malhelajn longajn harojn kun du plektaĵoj fiksitaj per oranĝaj agrafoj, flavajn orelringojn, fuksian ĉemizon kun blankaj manikoj kun violaj horizontalaj strioj, blankan jupon, blankajn kaj flavajn sportŝuojn, blankajn ŝtrumpetojn, blankan ĉapelon kun flavaj flankoj, kaj helviola dorsosako. Marie havas bluan artefaritan kruron. Ŝia rultabulo estas blua kun flavaj radoj. Toni havas ruĝajn harojn dense tonditajn flanke. Li portas bluan ŝvitĉemizon, malhelverdajn pantalonojn kaj blankajn ŝuojn. Li havas ruĝan dorsosakon kun blankaj enmetaĵoj kaj ŝultrobendoj. Unu mano estas apud lia buŝo. Lia rultabulo estas viola kun oranĝaj radoj. Ankaŭ estas patro kun sia filo iranta en la kontraŭa direkto: la patro estas vestita per blua kvadrata jako kaj bluaj pantalonoj kaj tenas brunan tekon. Li ridetas al Ada. Lia filo havas bluan ĉemizon, bluajn pantalonetojn, blankajn ŝuojn, brunan dorsosakon kaj ruĝan kaj blankan ĉapelon. Li tenas sub la brako flavan Zangemann-rultabulon kun helbrunaj radoj, kaj li ridetas al Ada. En la fono estas bakejo kun grandaj fenestroj tra kiuj oni povas vidi la panon. Ĝi havas verdajn kaj blankajn striojn ĉirkaŭ la angulo kaj ŝildon sur la trotuaro kun la listo de produktoj. Supre, granda pretzel (germana tipa de pano) estas montrata. Sur la vojo estas flako kiu reflektas la bluon de la ĉielo."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:759
@@ -1373,7 +1343,7 @@ msgid ""
 "white soles. He has a red skateboard with orange wheels. Behind Ada there "
 "are 4 other children. On the other end Toni is smiling. He touches his chin "
 "with one hand while with the other he holds a yellow helmet by the laces."
-msgstr ""
+msgstr "Ada haltas sur sia rultabulo ĉirkaŭata de infanoj. Marie estas ĉe unu fino. Ŝi montras al la rultabulo de Ada kaj ŝi parolas. Apud ŝi estas Konrad, kun mallonga blonda hararo, malhelgriza kasko, okulvitroj, verda ĉemizo kun blanka kolumo kaj manumoj, helbluaj pantalonoj kun blankaj manumoj, kaj grizaj ŝuoj kun blankaj plandoj. Li havas ruĝan rultabulon kun oranĝaj radoj. Malantaŭ Ada estas 4 aliaj infanoj. Ĉe la alia fino Toni ridetas. Li tuŝas sian mentonon per unu mano dum per la alia li tenas flavan kaskon per la laĉoj."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:769
@@ -1407,7 +1377,7 @@ msgid ""
 "beyond the squares of numbers 7 and 8. Between the number 1 and the number 2 "
 "there is a blue bottle with white polka dots. A yellow Zangemann skateboard "
 "with orange wheels on the side of the diagram actually hides the number 1."
-msgstr ""
+msgstr "Hopludo-diagramo desegnita per kreto sur asfalto. En vico, ene de kvadratoj, la numeroj 1, 2; 3 kaj 4 unu apud la alia; 5, 6; kaj 7 kaj 8 unu apud la alia. La numero 9 ne estas ene de kvadrato sed ene de pli larĝa duoncirklo preter la kvadratoj de la numeroj 7 kaj 8. Inter la numero 1 kaj la numero 2 estas blua botelo kun blankaj rondetoj. Flava Zangemann-rultabulo kun oranĝaj radoj sur la flanko de la diagramo fakte kaŝas la numeron 1."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:781
@@ -1478,7 +1448,7 @@ msgstr ""
 msgid ""
 "A screwdriver with orange and gray handle, red pliers, and three LEDs: "
 "yellow, green, pink."
-msgstr ""
+msgstr "Ŝraŭbturnilo kun oranĝkolora kaj griza tenilo, ruĝa pinĉilo, kaj tri LED-oj: flava, verda, rozkolora."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1494,7 +1464,7 @@ msgid ""
 "wrenches, a spool of solder, a can of blue paint (a bit of paint has dried "
 "on the table), and a pitcher and two glasses containing a pink drink. Toni "
 "is testing his skateboard with added yellow wings and a fan. It burps."
-msgstr ""
+msgstr "Laboratorio ĉe la rubodeponejo, sub la verando de la domo de Ada. Ada sidas sur akvoskatolo kun fleksita kruro sub ŝi, uzante lutilon. Konrad staras apud ŝi kaj demuntas laŭtparolilon. Marie sidas sur du pneŭoj kun brako ripozanta sur tablo kaj ŝia renversita rultabulo, el kiu eliras dratoj. Ŝi parolas kun Alan, kiu staras kun siaj brakoj ripozantaj sur la sama tablo. Sur la tablo estas ankaŭ: pinĉilo, du ŝraŭbilŝlosiloj, bobeno da lutaĵo, ladskatolo da blua farbo (iom da farbo sekiĝis sur la tablo), kaj kruĉo kaj du glasoj enhavantaj rozkoloran trinkaĵon. Toni testas sian rultabulon kun aldonitaj flavaj flugiloj kaj ventumilo. Ĝi ruktas."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1506,7 +1476,7 @@ msgid ""
 "an oil drum. Near the speaker there are two dancing mice. Toni is jumping "
 "through the tires. Ada’s dog is howling, and from his mouth come two "
 "distorted musical notes."
-msgstr ""
+msgstr "La panjo de Marie kaj Ada dancas, unu kontraŭ la alia. Alan, Ada, kaj Konrad dancas en cirklo. Dekstre estas laŭtparolilo ludanta, ripozanta sur oleujo. Proksime al la laŭtparolilo estas du dancantaj musoj. Toni saltas tra la pneŭoj. La hundo de Ada ululas, kaj el lia buŝo venas du distorditaj muziknotoj."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1519,7 +1489,7 @@ msgid ""
 "stick; pink fish-shaped ice cream; pyramid-shaped ice cream with candies, "
 "and chocolate syrup, and a cherry on top; rainbow ice cream with a yellow "
 "umbrella; blue ghost-shaped ice cream with candies on it."
-msgstr ""
+msgstr "Manoj tenantaj mirindajn glaciaĵkonusojn: blua glaciaĵo kun ĉokolada koro supre kun flava koro en ĝia centro, kaj ŝaŭmkremo sur la ĉokolado; verda glaciaĵo kun koloraj steloj kun kukumo algluita sur bastoneto; rozkolora fiŝforma glaciaĵo; piramidforma glaciaĵo kun bombonoj, kaj ĉokolada siropo, kaj ĉerizo supre; ĉielarka glaciaĵo kun flava ombrelo; blua fantomforma glaciaĵo kun bombonoj sur ĝi."
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p35-1
@@ -1606,7 +1576,7 @@ msgid ""
 "with something written on them and an open purple fountain pen. The "
 "President was eating a sandwich of meat and cheese with greens with two "
 "olives on a toothpick, over a blue napkin with white stripes."
-msgstr ""
+msgstr "La Prezidanto ricevas telefonvokon de la kolera Zangemann. La videotelefono konsistas el malnova ruĝa Zangemann-ciferdiska telefono konektita al ekrano. La vizaĝo de Zangemann aperas sur la ekrano, dum flava ekbrilo de la tondranta voĉo de Zangemann eliras el la telefono, kaj la Prezidanto tenas la aŭskultilon je etenda brako. La prezidanto havas blankajn harojn kaj portas helbluan ĉemizon, ruĝan kravaton kaj bluan jakon kun flavaj butonoj. La Prezidanto sidas sur verda seĝo kun blankaj vertikalaj linioj, kaj lia alia mano estas sur la skribotablo. Sur la skribotablo, krom la videotelefono, estas folioj kun io skribita sur ili kaj malfermita purpura plumo. La Prezidanto manĝis sandviĉon el viando kaj fromaĝo kun legomoj kaj du olivoj sur dentpinglo, super blua buŝtuko kun blankaj strioj."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:863
@@ -1631,7 +1601,7 @@ msgstr "Ili kolektiĝis antaŭ unu el siaj rekonstruitaj glaciaĵmaŝinoj kaj di
 msgid ""
 "Cans of green, blue, and pink paint; a paintbrush with yellow paint; a light "
 "green marker; and a rolled banner on which some blue paint has fallen."
-msgstr ""
+msgstr "Ladskatoloj da verda, blua kaj rozkolora farbo; peniko kun flava farbo; helverda markilo; kaj rulita standardo, sur kiu falis iom da blua farbo."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:875
@@ -1672,7 +1642,7 @@ msgstr "La sekvan tagon, Ada kaj ŝiaj amikoj denove sidiĝis antaŭ la parlamen
 msgid ""
 "Yellow and green paint on the floor and wax crayons yellow, red, blue, green "
 "and brown; the latter 3 are in a gray cardboard box."
-msgstr ""
+msgstr "Flava kaj verda farbo sur la planko kaj vaksokrajonoj flavaj, ruĝaj, bluaj, verdaj kaj brunaj; la lastaj 3 estas en griza kartona skatolo."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:890
@@ -1704,7 +1674,7 @@ msgid ""
 "Toni are walking beneath the banner, and Marie is talking through a bullhorn "
 "held in her hand; Ada’s family’s dog is now wearing a red harness with shiny "
 "yellow LEDs that matches the collar."
-msgstr ""
+msgstr "Grupo da protestantoj. Inter ili estas: la patrino de Ada tenanta la manon de Alan kaj levante rozkoloran glaciaĵon; 3 kolegoj de la patro de Toni vestitaj per kravatoj; du infanoj tenantaj la standardon “Faru viajn hejmtaskojn, sinjoro Prezidanto, kaj ni faros la niajn!”; roboto kun tankŝuoj, gladiloj kiel piedoj, elektra ventumilo kiel abdomeno, ekrano kiel kapo, kaj ovokirlilo kiel unu mano, tenante bluan glaciaĵon en la alia mano; du gepatroj tenantaj la standardon “Hacking 4 Freedom”; sinjorino tenanta elektronikan ŝildon “Ekzistas kodo B”; du malgrandaj birdoj, flugantaj; la matematika instruistino, sinjorino Gernet, kiu enigis en sian ĉaron ŝildon, kiu diras “Ili estas junaj + bezonas la kodon!”. La hundo en ŝia ĉaro bojas; Ada kaj Konrad portas la standardon “Ne detruu nian teknologion!”. Marie kaj Toni promenas sub la standardo, kaj Marie parolas per megafono tenata en ŝia mano; la hundo de la familio de Ada nun portas ruĝan jungilaron kun brilaj flavaj LED-oj, kiu kongruas kun la kolumo."
 
 #. (itstool) path: info/excerpt
 #. Text on big banner, left on the illustration
@@ -1719,7 +1689,7 @@ msgstr "Faru viajn hejmtaskojn sinjoro Prezidanto kaj ni faros la nian!"
 msgid ""
 "Detail of the previous image: two children holding the banner “Do your "
 "homework Mr. President and we will do ours!”"
-msgstr ""
+msgstr "Detalo de la antaŭa bildo: du infanoj tenantaj la standardon “Faru viajn hejmtaskojn, sinjoro Prezidanto, kaj ni faros la niajn!”"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1730,7 +1700,7 @@ msgid ""
 "wreck our tech!” Marie and Toni are walking beneath the banner, and Marie is "
 "talking through a bullhorn held in her hand; Ada’s family’s little dog is "
 "now wearing a red harness with shiny yellow LEDs that matches the collar."
-msgstr ""
+msgstr "Detalo de la antaŭa bildo: Ada kaj Konrad portas la standardon “Ne detruu nian teknologion!” Marie kaj Toni iras sub la standardon, kaj Marie parolas per megafono tenata en ŝia mano; la hundeto de la familio de Ada nun portas ruĝan jungilaron kun brilaj flavaj LED-oj, kiu kongruas kun la kolumo."
 
 #. (itstool) path: info/excerpt
 #. Text on square signe on the right of the illustration
@@ -1785,7 +1755,7 @@ msgid ""
 "typing on a laptop. He has wavy brown hair parted in the center, a red "
 "sweatshirt, blue pants, and white socks but no shoes. Next to the computer "
 "there are a green cup and two open books."
-msgstr ""
+msgstr "Unu el la amikoj de Ada, kuŝante sur la ventro kun unu piedo en la aero, tajpas sur tekokomputilo. Li havas ondajn brunajn harojn disigitajn en la mezo, ruĝan ŝvitĉemizon, bluajn pantalonojn kaj blankajn ŝtrumpetojn, sed ne ŝuojn. Apud la komputilo estas verda taso kaj du malfermitaj libroj."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:934
@@ -1825,7 +1795,7 @@ msgid ""
 "has a laptop on her legs with an FSFE logo sticker (three stars: pea green, "
 "sky blue, and sea blue). On the floor are a bowl with candy and a plate with "
 "ice creams. The President’s phone is ringing, but nobody is answering."
-msgstr ""
+msgstr "Ada kaj ŝiaj amikoj en la oficejo de la Prezidanto. Ada reprogramas la komputilon de la Prezidanto. Toni starigas laŭtparolilon por la sekretario de la Prezidanto. Marie kaj Konrad sidas sur la planko kaj parolas, kaj Marie havas tekokomputilon sur siaj kruroj kun glumarko de FSFE-emblemo (tri steloj: pizverda, ĉielblua kaj marblua). Sur la planko estas bovlo kun bombonoj kaj telero kun glaciaĵoj. La telefono de la Prezidanto sonoras, sed neniu respondas."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:949
@@ -1843,7 +1813,7 @@ msgid ""
 "call short and quickly hung up. The phone rang many more times that day, but "
 "Zangemann’s calls went unanswered. The president sat in a meeting with Ada, "
 "Toni, Marie, Konrad, and the government experts."
-msgstr ""
+msgstr "<phrase condition=\"capitals-text\">La</phrase><phrase condition=\"capitals-img\">a</phrase> sekvan matenon, la telefono de la prezidanto sonoris tre frue. Estis Zangemann. Li estis pli kolera ol iam ajn. “Sen mi, la registaraj komputiloj ne plu funkcios,” li minacis. Sed la prezidanto mallongigis la vokon kaj rapide finis la vokon. La telefono sonoris multajn pliajn fojojn tiun tagon, sed la vokoj de Zangemann restis neresponditaj. La prezidanto sidis en kunveno kun Ada, Toni, Marie, Konrad kaj la registaraj fakuloj."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1852,7 +1822,7 @@ msgstr ""
 msgid ""
 "A herald, wearing a hat with a plume, playing a trumpet on which a red "
 "banner is hung."
-msgstr ""
+msgstr "Heroldo, portante ĉapelon kun plumo, ludanta trumpeton sur kiu ruĝa standardo estas pendigita."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:959
@@ -1863,7 +1833,7 @@ msgid ""
 "telephones. When Zangemann called, he only heard an automated recording: "
 "“The government only wants to use software that it can freely use, study, "
 "share, and improve. Thank you for calling.”"
-msgstr ""
+msgstr "En la sekvaj tagoj, ili interparolis de mateno ĝis nokto kaj desegnis siajn unuajn programojn por la registaraj komputiloj. Ili jam ne estis ĝenataj de la vokoj de Zangemann. Toni havis la bonan ideon reprogrami la telefonojn. Kiam Zangemann telefonis, li aŭdis nur aŭtomatan registraĵon: “La registaro nur volas uzi programaron, kiun ĝi povas libere uzi, studi, dividi kaj plibonigi. Dankon pro via voko.”"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:961
@@ -1871,21 +1841,21 @@ msgid ""
 "Then, after many weeks of protests and discussions, the time had finally "
 "come: they abolished the old Zangemann law! Instead, the government "
 "announced:"
-msgstr ""
+msgstr "Tiam, post multaj semajnoj da protestoj kaj diskutoj, la tempo finfine venis: ili aboliciis la malnovan Zangemann-leĝon! Anstataŭe, la registaro anoncis:"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:964
 msgid ""
 "“Everyone is allowed to program their own computers as long as they adhere "
 "to the other laws.”"
-msgstr ""
+msgstr "“Ĉiu rajtas programi siajn proprajn komputilojn, kondiĉe ke ili respektas la aliajn leĝojn.”"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:965
 msgid ""
 "In addition, a new school subject was introduced: computer hardware and "
 "software."
-msgstr ""
+msgstr "Krome, nova lerneja fako estis enkondukita: komputila aparataro kaj programaro."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1897,7 +1867,7 @@ msgid ""
 "firmly holds the ladder on which Marie is standing. Ada is standing on a "
 "chair and holds a copy of the new law bearing a seal. Ada’s dog is sitting "
 "in front of her."
-msgstr ""
+msgstr "La Prezidanto kun Toni, Konrad, Marie, Ada, kaj heroldo ludanta trumpeton. Marie staras sur ŝtupetaro kaj parolas en mikrofonon. Konrad firme tenas la ŝtupetaron, sur kiu Marie staras. Ada staras sur seĝo kaj tenas kopion de la nova leĝo kun sigelo. La hundo de Ada sidas antaŭ ŝi."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:975
@@ -1907,7 +1877,7 @@ msgid ""
 "Gernet; the bus driver; the custodian — they were all there. They decorated "
 "the streets, listened to loud music, and ate ice cream, as much as they "
 "wanted, and in every imaginable shape and color."
-msgstr ""
+msgstr "Tiun vesperon, ĉiuj festis per granda festo. Ada, Alan, Toni, Marie, Konrad, kaj aliaj lernejaj infanoj kaj iliaj gepatroj; la prezidanto; sinjorino Gernet; la busŝoforo; la domzorgisto — ĉiuj ĉeestis. Ili ornamis la stratojn, aŭskultis laŭtan muzikon, kaj manĝis glaciaĵon, kiom ajn ili deziris, kaj en ĉiu imagebla formo kaj koloro."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1919,7 +1889,7 @@ msgid ""
 "yellow and orange flags are hanging; music comes out from a large speaker "
 "system; Ms. Gernet holds a pink tree-shaped ice cream with a yellow star on "
 "it; Ada’s mom is dancing with a gentleman."
-msgstr ""
+msgstr "Vespera festo. Infanoj tenas glaciaĵon kaj balonojn kun la vortoj “I love FS (Mi amas Liberan Programaron)”; aliaj infanoj veturas per rultabuloj; flavaj kaj oranĝaj flagoj pendas; muziko eliras el granda laŭtparolila sistemo; S-ino Gernet tenas rozkoloran arboforman glaciaĵon kun flava stelo sur ĝi; la panjo de Ada dancas kun sinjoro."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:984
@@ -1927,7 +1897,7 @@ msgid ""
 "While the others continued partying late into the night, Ada and her friends "
 "slipped away to their workshop. They already had a lot of ideas for new "
 "inventions. And they wanted to start right away."
-msgstr ""
+msgstr "Dum la aliaj daŭre festis ĝis malfrue en la nokton, Ada kaj ŝiaj amikinoj ŝteliris al sia metiejo. Ili jam havis multajn ideojn por novaj inventoj. Kaj ili volis komenci tuj."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1939,7 +1909,7 @@ msgid ""
 "little girl who just took a pink ghost-shaped ice cream from the modified "
 "ice cream machine; Ada’s dog, Konrad, Marie, Ada, and Toni sneaking away "
 "from the party."
-msgstr ""
+msgstr "La Prezidanto, la sekretario, kaj aliaj homoj ĉirkaŭ tablo ĝuantaj frenezan glaciaĵon; flavaj kaj oranĝaj flagoj daŭras el la antaŭa bildo; knabineto kiu ĵus prenis rozkoloran fantomforman glaciaĵon el la modifita glaciaĵmaŝino; la hundo de Ada, Konrad, Marie, Ada, kaj Toni ŝtelirante for de la festo."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:995
@@ -1967,14 +1937,14 @@ msgstr "<phrase condition=\"capitals-text\">Kaj</phrase><phrase condition=\"capi
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:1004
 msgid "Ada’s little dog sniffing a trail of ice cream."
-msgstr ""
+msgstr "La hundeto de Ada flaras spuron de glaciaĵo."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:1013
 msgid "A trail of candies and raspberry ice cream on the ground."
-msgstr ""
+msgstr "Spuro de bombonoj kaj framba glaciaĵo sur la tero."
 
 #. (itstool) path: info/title
 #. (itstool) id: Ada_Zangemann.dbk#title-acknowledgments
@@ -2024,7 +1994,7 @@ msgid ""
 "Ada’s dog wags its tail after finding Zangemann hidden behind a curtain and "
 "eating an ice cream cone with candies and a blue umbrella on it and lots of "
 "raspberry ice cream dripping."
-msgstr ""
+msgstr "La hundo de Ada skuas sian voston post trovado de Zangemann kaŝita malantaŭ kurteno kaj manĝanta glaciaĵkonuson kun bombonoj kaj blua ombrelo sur ĝi kaj multe da framba glaciaĵo gutante."
 
 #. (itstool) path: info/title
 #. (itstool) id: Ada_Zangemann.dbk#title-author
@@ -2051,7 +2021,7 @@ msgstr "Pri la Aŭtoro - Matthias Kirschner"
 msgid ""
 "Close-up of Matthias smiling, waving with one hand, and wearing a headset. "
 "Matthias has short hair and a little beard."
-msgstr ""
+msgstr "Proksima bildo de Matthias ridetanta, mansalutanta per unu mano, kaj portanta aŭdilojn. Matthias havas mallongajn harojn kaj malgrandan barbon."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1064
@@ -2088,7 +2058,7 @@ msgstr "Pri la ilustristo - Sandra Brandstätter"
 msgid ""
 "Sandra smiling with a pencil in her hand in front of her chin. She has "
 "earphones with an integrated microphone. Sandra has short hair and glasses."
-msgstr ""
+msgstr "Sandra ridetas kun krajono en la mano antaŭ la mentono. Ŝi havas aŭdilojn kun integrita mikrofono. Sandra havas mallongajn harojn kaj okulvitrojn."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1087
@@ -2154,7 +2124,7 @@ msgstr "<link xlink:href=\"https://creativecommons.org/licenses/by-sa/4.0/\">htt
 msgid ""
 "A hand that holds a fish-shaped ice cream cone with a cucumber on a "
 "decorated toothpick, to color. In a bottom corner, a pencil writing."
-msgstr ""
+msgstr "Mano kiu tenas fiŝforman glaciaĵkonuson kun kukumo sur ornamita dentpinglo, por kolorigi. En malsupra angulo, krajono skribas."
 
 #. (itstool) path: simplesect/literallayout
 #. In a literallayout element all space and newline characters are kept.
@@ -2174,4 +2144,4 @@ msgstr ""
 msgid ""
 "Three hands that hold as many empty ice cream cones, to draw and color. In "
 "the air above the middle cone is an umbrella."
-msgstr ""
+msgstr "Tri manoj kiuj tenas tiom da malplenaj glaciaĵkonusoj, por desegni kaj kolorigi. En la aero super la meza konuso estas ombrelo."
