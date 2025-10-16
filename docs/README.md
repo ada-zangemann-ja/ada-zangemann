@@ -19,6 +19,7 @@ SPDX-License-Identifier: CC-BY-SA-4.0
 
 ## Publication
 
+- [Building](building.md)
 - [Publishing](publishing.md)
 - [Editions and notable differences](editions.md)
 - [Printing](printing.md)
