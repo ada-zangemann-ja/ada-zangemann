@@ -3,16 +3,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2025-08-09 11:54+0000\n"
+"PO-Revision-Date: 2025-10-16 13:07+0000\n"
 "Last-Translator: Erik <erik.ds@fsfe.org>\n"
-"Language-Team: Albanian <https://hosted.weblate.org/projects/fsfe/"
-"ada-zangemann/sq/>\n"
+"Language-Team: Albanian <https://hosted.weblate.org/projects/fsfe/ada-zangemann/sq/>\n"
 "Language: sq\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.13-dev\n"
+"X-Generator: Weblate 5.14-dev\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
@@ -25,8 +24,9 @@ msgstr ""
 #.
 #. ignore-same
 #: Ada_Zangemann.dbk:262 Ada_Zangemann.dbk:306 Ada_Zangemann.dbk:496
+#, fuzzy
 msgid "Ada &amp; Zangemann"
-msgstr ""
+msgstr "Ada &amp; Zangemann"
 
 #. (itstool) path: info/subtitle
 #. (itstool) path: cover/bridgehead
@@ -197,7 +197,7 @@ msgid ""
 "on. Together with her friends, she experiments with hardware and software, "
 "and the children forge a plan: Zangemann can no longer be the only one in "
 "control of the devices!"
-msgstr ""
+msgstr "<phrase condition=\"capitals-text\">Zangemanni</phrase><phrase condition=\"capitals-img\">Z</phrase> është një shpikës i famshëm në të gjithë botën dhe jashtëzakonisht i pasur. Fëmijët dhe të rriturit i adhurojnë shpikjet e tij të jashtëzakonshme. Por papritmas, një problem i madh: skateboard-et elektronike të fëmijëve kanë defekte, dhe akulloret kanë vetëm një shije. Çfarë po ndodh? Ada, një vajzë kurioze, do të zbulojë sesi Zangemanni kontrollon produktet e tij nga kompjuteri i artë. Së bashku me miqtë e saj, ajo do të eksperimentojë me objekte të kompjuterizuara që i shpëtojnë vendimeve të Zangemannit. Një libër për fëmijë dhe të rinjtë që mund të përcjellë tek ata gëzimin e eksperimentimit. Një libër mbi lirinë e informatikës, shoqërinë dhe rolin e vajzave në teknologji që promovon autonominë femërore. Një rrëfim i gjallë dhe me ilustrime të jashtëzakonshme."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:333
@@ -371,7 +371,7 @@ msgstr ""
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:466
 msgid "Matthias Kirschner, Sandra Brandstätter"
-msgstr ""
+msgstr "Matthias Kirschner, Sandra Brandstätter"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -399,6 +399,8 @@ msgid ""
 "Matthias Kirschner\n"
 "Sandra Brandstätter"
 msgstr ""
+"Matthias Kirschner\n"
+"Sandra Brandstätter"
 
 #. (itstool) path: simplesect/literallayout
 #. (itstool) id: Ada_Zangemann.dbk#subtitle-titlepage
@@ -410,6 +412,9 @@ msgid ""
 "Software, Skateboards, and\n"
 "Raspberry Ice Cream"
 msgstr ""
+"Një përrallë për \n"
+"programet kompjuterike, skateboard-in dhe \n"
+"akulloren me shije mjedre"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p04-1
@@ -421,13 +426,7 @@ msgid ""
 "jar. They didn’t have enough money to live in a proper home. Instead, Ada "
 "lived with her mother and her little brother, Alan, in a cabin near a "
 "junkyard on the edge of town."
-msgstr ""
-"<phrase condition=\"capitals-text\">Na</phrase><phrase condition=\"capitals-"
-"img\"></phrase> ishte njëherë një vajzë e vogël që quhej Ada. Ajo dhe "
-"familja e saj ishin aq të varfër, saqë kursimet e tyre i ruanin në një kuti "
-"biskotash. Nuk kishin para të mjaftueshme për të jetuar në një shtëpi të "
-"vërtetë. Kështu, Ada, nëna e saj dhe vëllai i saj i vogël, Alan, banonin në "
-"një kasolle pranë një vendgrumbullimi mbeturinash, në periferi të qytetit."
+msgstr "<phrase condition=\"capitals-text\">Na</phrase><phrase condition=\"capitals-img\"></phrase> ishte njëherë një vajzë e vogël që quhej Ada. Ajo dhe familja e saj ishin aq të varfër, saqë kursimet e tyre i ruanin në një kuti biskotash. Nuk kishin para mjaftueshëm për të jetuar në një shtëpi të vërtetë. Kështu, Ada, nëna e saj dhe vëllai i saj i vogël, Alan, banonin në një kasolle pranë një vendgrumbullimi mbeturinash, në periferi të qytetit."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -479,15 +478,7 @@ msgid ""
 "of windows, and so many rooms that he often got lost in them himself. "
 "Zangemann’s mansion stood high on a hill. From there, he could look out over "
 "the whole city."
-msgstr ""
-"Larg prej andej, në skajin tjetër të qytetit, jetonte një shpikës i famshëm "
-"me emrin Zangemann. Ai ishte jashtëzakonisht i pasur. Nuk mjaftonte asnjë "
-"fletë letre, sado e madhe, për të shkruar të gjitha numrat dhe zerot e "
-"llogarisë së tij bankare. Ai banonte në një shtëpi gjigante me pishinë dhe "
-"rrëshqitëse uji, me shumë shkallë, kulla, qindra dritare dhe aq shumë dhoma, "
-"sa që edhe vetë humbiste shpesh rrugën brenda saj. Prona e Zangemann-it "
-"ishte ndërtuar në majë të malit, dhe nga atje lart ai mund të shihte të "
-"gjithë qytetin."
+msgstr "Larg prej andej, në skajin tjetër të qytetit, jetonte një shpikës i famshëm me emrin Zangemann. Ai ishte jashtëzakonisht i pasur. Asnjë fletë letre, sado e madhe, nuk mjaftonte për të shkruar të gjitha numrat dhe zerot e llogarisë së tij bankare. Ai banonte në një shtëpi gjigante me pishinë dhe rrëshqitëse uji, me shumë shkallë, kulla, qindra dritare dhe aq shumë dhoma, sa që edhe vetë humbiste shpesh rrugën brenda saj. Prona e Zangemann-it ishte ndërtuar në majë të malit, dhe nga atje lart ai mund të shihte të gjithë qytetin."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:523
@@ -515,22 +506,7 @@ msgid ""
 "robot and a block-sorting machine so that his room would always be neat and "
 "clean. Zangemann had great new ideas like these every day. He could think of "
 "nothing else."
-msgstr ""
-"<phrase condition=\"capitals-text\">Që</phrase><phrase condition=\"capitals-"
-"img\">ë</phrase> i vogël, Zangemann kishte një interes të madh për "
-"kompjuterët. Asokohe, ato ishin pajisje gjigante, plot kabuj dhe zhurma "
-"ventilatorësh që nuk pushonin. Në shkollë, Zangemani i vogël shpesh "
-"ëndërronte për të gjitha gjërat që ai mund të bënte me kompjuterët ditën kur "
-"ata do të bëheshin aq të vegjël sa të mund të integrohenin në pajisje të "
-"tjera. E para gjë që do bënte? Do fuste një kompjuter në skateboard-in e tij "
-"që të bënte tinguj interesant gjatë ngasjes, si sirena zjarrfikësish apo një "
-"raketë që ngrihet në ajër! Pastaj do shpikte makina akulloresh që përzinin "
-"vetë shijet më të mira dhe i shisnin automatikisht, në çdo cep rruge. Kështu "
-"ai mund të shkonte të merrte akulloren e tij të preferuar sa herë që donte. "
-"Zangemann do të ndërtonte edhe një robot që pastronte për të, si dhe një "
-"makinë që ndante copat e lodrave të ndërtimit, që dhoma e tij të ishte "
-"gjithmonë e rregullt. Çdo ditë, Zangemann kishte ide të reja. Nuk mund të "
-"mendonte për asgjë tjetër."
+msgstr "<phrase condition=\"capitals-text\">Që</phrase><phrase condition=\"capitals-img\">ë</phrase> i vogël, Zangemann kishte një interes të madh për kompjuterët. Asokohe, ato ishin pajisje gjigande, plot kabllo dhe zhurma ventilatorësh që nuk pushonin. Në shkollë, Zangemani i vogël shpesh ëndërronte për të gjitha gjërat që ai mund të bënte me kompjuterët ditën kur ata do të bëheshin aq të vegjël sa të mund të përfshiheshin në pajisje të tjera. E para gjë që do bënte? Do fuste një kompjuter në skateboard-in e tij që të bënte tinguj interesantë gjatë shëtitjes, si sirena zjarrfikësish apo një raketë që ngrihet në ajër! Pastaj do shpikte makina akulloresh që përzienin vetë shijet më të mira dhe i shisnin automatikisht, në çdo cep rruge. Kështu ai mund të shkonte të merrte akulloren e tij të preferuar sa herë që donte. Zangemann do të ndërtonte edhe një robot që pastronte për të, si dhe një makinë që ndante copat e lodrave të ndërtimit, që dhoma e tij të ishte gjithmonë e rregullt. Çdo ditë, Zangemann kishte ide të reja. Nuk mund të mendonte për asgjë tjetër."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:528
@@ -538,11 +514,7 @@ msgid ""
 "As the years went by, Zangemann grew bigger and computers got smaller. In "
 "fact, by the time he finished school, they were so small they fit in his "
 "pocket. The smallest ones even fit on his fingertip."
-msgstr ""
-"Sa më shumë rritej Zangemann, aq më shumë zvogëloheshin kompjuterët. Kur "
-"arriti moshën për të lënë shkollën, ata ishin bërë aq të vegjël sa i mbaje "
-"lehtësisht në xhepin e pantallonave. Madje, disa prej tyre ishin aq të "
-"vegjël sa mund të rrinin mbi majat e gishtave."
+msgstr "Sa më shumë rritej Zangemann, aq më shumë zvogëloheshin kompjuterët. Kur arriti moshën për të përfunduar shkollën, ata ishin bërë aq të vegjël sa i mbaje lehtësisht në xhepin e pantallonave. Madje, disa prej tyre ishin aq të vegjël sa mund të qëndronin mbi majat e gishtave."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -566,11 +538,7 @@ msgid ""
 "“Finally, I can turn all my ideas into real things!” Zangemann exclaimed, "
 "and he got right to work. He found ways to put the small computers into all "
 "kinds of things to make them even more fun and useful. And then he sold them."
-msgstr ""
-"“Më në fund mund t’i vë në praktikë të gjitha idetë e mia!”, brohoriti "
-"Zangemanni, dhe filloi punën. Ai integroi kompjuterë të vegjël në të gjitha "
-"pajisjet e mundshme dhe të imagjinueshme, për t’i bërë ato edhe më praktike. "
-"Pastaj i shiste këto pajisje."
+msgstr "«Më në fund mund t’i vë në praktikë të gjitha idetë e mia!», brohoriti Zangemanni, dhe filloi punën. Ai vendosi kompjuterë të vegjël në të gjitha pajisjet e mundshme dhe të imagjinueshme, për t’i bërë ato edhe më praktike. Pastaj i shiste këto pajisje."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -599,16 +567,7 @@ msgid ""
 "Original Zangemann Ice Cream Machine. It all seemed like magic, but the "
 "secret was simple: the little computers that Zangemann built into his "
 "machines made it all possible."
-msgstr ""
-"Të rriturit dhe fëmijët adhuronin shpikjet e tij. Të gjithë fëmijët "
-"dëshironin skateboard-in e Zangemannit me tingullin më të fundit për të bërë "
-"përshtypje te shokët në oborrin e shkollës. Shumë kishin gjithashtu "
-"altoparlantët Zangemann, shumë praktikë. Mjaftonte t’u tregoje titullin e "
-"një kënge dhe mund ta dëgjoje menjëherë. Dhe kush kishte ende para xhepi, "
-"shkonte të blinte një akullore të përgatitur automatikisht nga makina e "
-"akulloreve origjinale të Zangemannit sapo dilte nga shkolla. Ishte si magji –"
-" por gjithçka kontrollohej nga kompjuterët e vegjël që Zangemanni kishte "
-"integruar në pajisje."
+msgstr "Të rriturit dhe fëmijët i adhuronin shpikjet e tij. Të gjithë fëmijët dëshironin skateboard-in e Zangemannit me tingullin më të fundit për të bërë përshtypje te shokët në oborrin e shkollës. Shumë kishin gjithashtu bokse Zangemann, shumë praktikë. Mjaftonte t’u tregoje titullin e një kënge dhe mund ta dëgjoje menjëherë. Dhe kush kishte ende para xhepi, shkonte të blinte një akullore të përgatitur automatikisht nga makina e akulloreve origjinale të Zangemannit sapo dilte nga shkolla. Ishte si magji – por gjithçka kontrollohej nga kompjuterët e vegjël që Zangemanni kishte vendosur në pajisje."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -643,11 +602,7 @@ msgid ""
 "rode around on the cool skateboards. Ada was often sad, since her mother "
 "couldn’t buy her any of those great things: no skateboard, no speakers, no "
 "ice cream."
-msgstr ""
-"Edhe në shkollën e Adës, shpikje të tilla ishin shumë të njohura dhe ajo "
-"kishte plot miq që lëviznin me skateboardë super të bukur. Ada ndonjëherë "
-"ndjehej e trishtuar, sepse nëna e saj nuk mund t’i blinte të gjitha ato "
-"gjëra të mrekullueshme. As skateboard, as altoparlant, as akullore."
+msgstr "Edhe në shkollën e Adës, shpikje të tilla ishin shumë të njohura dhe ajo kishte plot miq që lëviznin me skateboardë super të bukur. Ada ndonjëherë ndihe e trishtuar, sepse nëna e saj nuk mund t’i blinte të gjitha ato gjëra të mrekullueshme. As skateboard, as bokse, as akullore."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:564
@@ -659,15 +614,7 @@ msgid ""
 "many useful items—an old cell phone, for example. The screen was cracked, "
 "but she could fix that, and while there wasn’t internet at the junkyard, she "
 "could get access somewhere else."
-msgstr ""
-"Por Ada jetonte afër një vendi ku hidheshin mbeturinat. Aty gjente pajisje "
-"të prishura dhe pjesë të ndryshkura me të cilat ndërtonte gjëra fantastike: "
-"një karrocë të vogël me të cilën ajo dhe vëllai i saj Alan zbrisnin kodrën "
-"me shpejtësi, një turbinë ere, apo përbindësha të bërë nga copa-copa të "
-"frikshme, kundër të cilëve luftonin së bashku. Gjente edhe sende të "
-"dobishme, si një telefon të vjetër. Ekrani ishte plot plasaritje, por ajo "
-"besonte se mund ta rregullonte. Aty pranë nuk kishte fare internet. Nuk "
-"bëhej nami — do e gjente diku tjetër."
+msgstr "Por Ada jetonte afër një vendi ku hidheshin mbeturinat. Aty gjente pajisje të prishura dhe pjesë të ndryshkura me të cilat ndërtonte gjëra fantastike: një karrocë të vogël me të cilën ajo dhe vëllai i saj Alan zbrisnin kodrën me shpejtësi, një turbinë ere, apo përbindësha të krijuar nga pjesë të frikshme, kundër të cilëve luftonin së bashku. Gjente edhe sende të dobishme, si një telefon të vjetër. Ekrani ishte plot plasaritje, por ajo besonte se mund ta rregullonte. Aty pranë nuk kishte fare internet. Punë e madhe, ajo do e gjente diku tjetër."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:565
@@ -687,13 +634,7 @@ msgid ""
 "computer with a keyboard made of jewels and set it up in the largest room of "
 "his mansion. From there, over the internet, he could control all the little "
 "computers built into his inventions."
-msgstr ""
-"Meqenëse të gjithë blinin shpikjet e tij, Zangemanni u bë shpejt njeriu më i "
-"pasur në botë. Me paratë e tij, ai bëri të prodhohej një kompjuter gjigant "
-"prej ari me tastierë të zbukuruar me gurë të çmuar dhe e instaloi atë në "
-"dhomën më të madhe të vilës së tij. Nga ky kompjuter, ai mund të "
-"kontrollonte përmes Internetit të gjithë kompjuterët e vegjël të vendosur në "
-"shpikjet e tij."
+msgstr "Meqenëse të gjithë blinin shpikjet e tij, Zangemanni u bë shpejt njeriu më i pasur në botë. Me paratë e tij, ai ndërtoi një kompjuter gjigand prej ari me tastierë të zbukuruar me gurë të çmuar dhe e vendosi në dhomën më të madhe të vilës së tij. Nga ky kompjuter, ai mund të kontrollonte përmes Internetit të gjithë kompjuterët e vegjël të vendosur në shpikjet e tij."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:570
@@ -734,12 +675,7 @@ msgid ""
 "eat ice cream. He spent many hours every day in front of his golden computer "
 "doing this. Again and again, he looked down on the city through a long "
 "telescope, observing how reliably his inventions carried out his commands."
-msgstr ""
-"Zangemann kënaqej shumë duke shtypur tastet që shkëlqenin dhe duke parë "
-"njerëzit teksa hanin akulloret e tij. Kështu ai kalonte çdo ditë shumë orë "
-"përpara kompjuterit të tij prej ari. Nuk lodhej kurrë së vëzhguari qytetin "
-"nga lart përmes një teleskopi të gjatë dhe së konstatuari me kënaqësi sa me "
-"besnikëri shpikjet e tij zbatonin urdhrat që u jepte."
+msgstr "Zangemann kënaqej shumë duke shtypur tastet që shkëlqenin dhe duke parë njerëzit teksa hanin akulloret e tij. Kështu ai kalonte çdo ditë shumë orë përpara kompjuterit të tij prej ari. Nuk lodhej kurrë së vëzhguari qytetin nga lart përmes një teleskopi të gjatë dhe së konstatuari me kënaqësi me sa besnikëri i zbatonin shpikjet e tij urdhrat që u jepte."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -763,14 +699,7 @@ msgid ""
 "He made vacuums that played happy music instead of droning loudly. He "
 "invented light bulbs that turned on and off at the snap of a finger and cars "
 "that told you where the nearest grocery store was."
-msgstr ""
-"Kur nuk ishte ulur përpara kompjuterit të tij prej ari, Zangemani instalonte "
-"kompjuterët e tij të vegjël në pajisje të reja për t’i shitur më pas. Ai "
-"ndërtoi makina larëse që dërgonin një mesazh në telefonin celular kur "
-"përfundonte larja, fshesa me korent që lëshonin muzikë të gëzueshme në vend "
-"që të bënin zhurmë të madhe, llamba që ndizeshin dhe fikeshin me një "
-"trokitje gishti dhe makina që i tregonin drejtuesit se ku ndodhej "
-"supermarketi më i afërt."
+msgstr "Kur nuk ishte ulur përpara kompjuterit të tij prej ari, Zangemani instalonte kompjuterët e tij të vegjël në pajisje të reja për t’i shitur më pas. Ai ndërtoi makina larëse që dërgonin një mesazh në telefonin celular kur përfundonte larja, fshesa me korent që lëshonin muzikë të gëzueshme në vend që të bënin potere, llamba që ndizeshin dhe fikeshin me një trokitje gishti dhe makina që i tregonin drejtuesit se ku ndodhej supermarketi më i afërt."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -811,11 +740,7 @@ msgid ""
 "put away his big telescope, then climbed down the many stairs of his mansion "
 "and ventured out into the city, full of anticipation at the thought of "
 "enjoying his cool devices."
-msgstr ""
-"Një ditë të bukur, Zangemann tha me vete: “Sot do të shkoj të vëzhgoj më nga "
-"afër shpikjet e mia!”. Ai la mënjanë teleskopin e tij madhështor dhe zbriti "
-"plot gjallëri shkallët e shumta,për të shkuar në qytet. Ai gëzohej nga ideja "
-"për të parë shpikjet e tij të mrekullueshme në veprim."
+msgstr "Një ditë të bukur, Zangemann tha me vete: «Sot do të shkoj të vëzhgoj më nga afër shpikjet e mia!». Ai la mënjanë teleskopin e tij madhështor dhe zbriti plot gjallëri shkallët e shumta, për të shkuar në qytet. Ai gëzohej nga ideja për të parë shpikjet e tij të mrekullueshme në veprim."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -838,13 +763,7 @@ msgid ""
 "Zangemann pondered. “But my ice-cream machines are and will remain second to "
 "none,” he thought immediately afterward, and not without pride, as he passed "
 "a group of people all eating coconut ice cream, the flavor of the day."
-msgstr ""
-"“Ndoshta kjo shëtitje e vogël do të më sjellë ndonjë ide të re. Sepse, për "
-"të qenë plotësisht i sinqertë, shpikjet e mia të fundit nuk kanë qenë aq "
-"praktike sa të parat...”, mendonte Zangemani. « Por makinat e mia të "
-"akullores mbeten të pakrahasueshme », tha me vehte, jo pa krenari, teksa "
-"kalonte pranë një grupi që po shijonte një akullore me shije arre kokosi – "
-"shija e ditës."
+msgstr "«Ndoshta kjo shëtitje e vogël do të më sjellë ndonjë ide të re. Sepse, për të qenë plotësisht i sinqertë, shpikjet e mia të fundit nuk kanë qenë aq praktike sa të parat...», mendonte Zangemani. « Por makinat e mia të akullores mbeten të pakrahasueshme », tha me vete, jo pa krenari, teksa kalonte pranë një grupi që po shijonte një akullore me shije arre kokosi – shija e ditës."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:615
@@ -874,10 +793,7 @@ msgid ""
 "front of him, holding an original Zangemann skateboard under his arm. "
 "“Sorry, I didn’t mean to do that,” the child stammered, but Zangemann wasn’t "
 "listening."
-msgstr ""
-"Zangemanni bërtiti dhe shikoi përreth. Përpara tij qëndronte një fëmijë, "
-"tmerrësisht i frikësuar, me një skateboard Zangemann nën krah. « Më falni, "
-"nuk doja », belbëzoi ai, por Zangemanni nuk e dëgjoi dhe u largua, i tërbuar."
+msgstr "Zangemani bërtiti dhe shikoi përreth. Përpara tij qëndronte një fëmijë, tmerrësisht i frikësuar, me një skateboard Zangemann nën krah. « Më falni, nuk doja », belbëzoi ai, por Zangemani nuk e dëgjoi dhe u largua, i tërbuar."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:625
@@ -888,7 +804,7 @@ msgid ""
 "street was holding it. The child seemed to like the music, but it gave "
 "Zangemann a terrible headache, and his mood worsened. This was not how he "
 "had imagined his walk!"
-msgstr ""
+msgstr "Papritur, një muzikë shpërtheu me zhurmë të madhe. Ai nuk kishte dëgjuar kurrë diçka kaq të tmerrshme. Shikoi përreth dhe pa që muzika vinte nga një boks që ai vetë e kishte projektuar dhe  një fëmijë, në anën tjetër të rrugës, e mbante në duar. Muzika dukej se i pëlqente fëmijës, por i shkaktoi Zangemanit dhimbje koke të tmerrshme dhe humori i tij u përkeqësua edhe më shumë. Nuk e kishte përfytyruar kështu shëtitjen e tij!"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -914,7 +830,7 @@ msgid ""
 "He ordered the small computers in the speakers to play music only at a low "
 "volume, except for his favorite music, which he immediately turned on to get "
 "into a better mood."
-msgstr ""
+msgstr "Zangemanni ishte tërbuar nga inati me fëmijët. Si guxonin ata të përdornin kaq keq shpikjet e tij? Nuk arrinte dot të flinte dhe në mes të natës, u ul përpara kompjuterit të tij prej ari. Prej andej, ai u dha urdhër të gjithë mikroprocesorëve të vendosur në skateboard-e që të mos lejonin më lëvizjen në trotuare. Mikroprocesorëve të bokseve u urdhëroi të luanin vetëm muzikë me një nivel të arsyeshëm zëri – me përjashtim të muzikës së tij të preferuar, të cilën e vuri menjëherë për të përmirësuar humorin."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -953,7 +869,7 @@ msgid ""
 "the way to school, the kids’ skateboards had stopped working. The wheels "
 "simply stood still. And the children could no longer turn up the volume on "
 "their speakers. What was going on?"
-msgstr ""
+msgstr "<phrase condition=\"capitals-text\">Të</phrase><phrase condition=\"capitals-img\">ë</phrase> nesërmen, në shkollë mbretëronte një gjallëri e jashtëzakonshme. Në rrugën drejt shkollës, skateboard-ët kishin pushuar së funksionuari. Rrotat nuk pranonin më të lëviznin, thjesht qëndronin të ngrira. Pastaj erdhi radha e bokseve: fëmijët nuk arrinin dot të ngrinin më zërin. Çfarë po ndodhte vallë?"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -980,7 +896,7 @@ msgid ""
 "spend her money on bus tickets to work. For her brother, Ada built a "
 "loudspeaker so he could fall asleep to nice stories in the evenings when "
 "their mother was still at work."
-msgstr ""
+msgstr "Edhe pse nuk zotëronte asnjë nga ato objekte, Ada u habit kur skateboard-ët dhe bokset pushuan papritur së funksionuari si më parë. Por nuk kishte shumë kohë të mendonte për këtë, sepse ishte sërish e zënë duke riparuar. Nga pjesët e shkeputura te tri biçikletave, ajo ndërtoi një biçikletë të re. Ia dhuroi nënës së saj, që ajo të mund të shkonte në punë duke kursyer paratë e biletës së autobusit. Ndërsa vëllait të vogël i dhuroi një boks që ai të mund të dëgjonte një tregim çdo mbrëmje para se të flinte, kur nëna ende nuk ishte kthyer nga puna."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -999,7 +915,7 @@ msgid ""
 "worked. And so now the children rode in circles around the playground and "
 "listened to soft music. Only a strange, pompous marching music continued to "
 "play at an unchanged volume, which the children found rather puzzling."
-msgstr ""
+msgstr "Brenda pak ditësh, në shkollën e Adës, frika e fillimit u harrua. Skateboard-ët nuk rrëshqisnin më nëpër trotuare, por përveç kësaj funksiononin ende. Fëmijët rrotulloheshin në oborr, duke dëgjuar muzikë me zë të ulët. Vetëm një muzikë ushtarake, pompoze dhe e çuditshme, vazhdonte të ushtonte me të njëjtin zë të lartë si më parë. Mjaft enigmatike."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:680
@@ -1019,7 +935,7 @@ msgid ""
 "cell phone. She quickly realized that there was also much to discover on the "
 "internet. There, many people shared their ideas and repair tips to help "
 "others."
-msgstr ""
+msgstr "<phrase condition=\"capitals-text\">Dita</phrase><phrase condition=\"capitals-img\">ita</phrase> e preferuar e Adës ishte e mërkura. Çdo të mërkurë, nëna e saj vinte ta merrte nga shkolla së bashku me Alanin dhe shkonin bashkë në bibliotekë. Ada nxitonte drejt këndit të librave teknikë. Aty gjendeshin libra me skema ndërtimi, udhëzime për të kryer eksperimente dhe shpjegime për funksionimin e pajisjeve të ndryshme. Në bibliotekë, Ada mund të përdorte gjithashtu internetin në telefonin e saj. Ajo e kuptoi shpejt që në internet mund të gjeje një mori gjërash. Në internet, shumë njerëz ndanin idetë dhe këshillat e tyre për riparime, për të ndihmuar të tjerët."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:685
@@ -1033,7 +949,7 @@ msgid ""
 "Some books called those instructions programs or code. With such a computer "
 "program, one could, for example, tell a loudspeaker which song to play and "
 "how loud."
-msgstr ""
+msgstr "Atë pasdite, Ada mësoi dy fjalë të reja: material dhe program. Materiali i referohej diçkaje që, në fakt, Ada e njihte tashmë: pajisjeve elektronike me të cilat ajo merrej. Këto pajisje, ajo mund t’i mbante në dorë dhe të ndërhynte në to. Por fjala program ishte krejtësisht e re për Adën. Ajo e kuptoi shpejt se ky term u referohej udhëzimeve që u jepeshin pajisjeve ose kompjuterëve. Në disa libra, këto udhëzime quheshin programe ose kode. Me një program kompjuterik, mund t’u thuhej për shembull bokseve se cilën këngë duhet të transmetonin dhe në çfarë niveli zanor."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:686
@@ -1045,7 +961,7 @@ msgid ""
 "language for this — the programming language. With software, Ada could make "
 "her inventions even more useful. She really wanted to learn the programming "
 "language!"
-msgstr ""
+msgstr "Gjëja më fantastike në zbulimin e ri të Adës ishte që mund të rregulloje programin në të njëjtën mënyrë si pajisjet. Mund të rregulloje objektet me një çekiç, një shpuese ose dhe me vida. Po ashtu mund të ndërtonte programe duke shkruar urdhrat që u jepeshin pajisjeve, njëri pas tjetrit. Madje ekzistonte edhe një gjuhë për këtë: gjuha e programimit. Me ndihmën e programeve, Ada mund t’i bënte shpikjet e saj edhe më praktike. Ajo duhej me patjetër të mësonte gjuhën e programimit."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1075,7 +991,7 @@ msgid ""
 "a secret language, or like studying vocabulary in school. Ada ate it all up. "
 "She expected her first program to do something simple: “Make this lamp "
 "blink!”"
-msgstr ""
+msgstr "<phrase condition=\"capitals-text\">Në</phrase><phrase condition=\"capitals-img\">ë</phrase> javët që pasuan, Ada kaloi gjithë kohën e saj të lirë në bibliotekë. Ajo gjeti libra dhe faqe interneti që shpjegonin se si funksiononin gjuha e programimit dhe kodi. Ada kishte pak ndjesinë sikur po mësonte një gjuhë të fshehtë – ose sikur po përsëriste fjalorin në shkollë. Ada bëri kërkime. Programi i saj i parë duhej të prodhonte diçka të thjeshtë: «Bëj që kjo llambë të ndizet e fiket!»"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:704
@@ -1083,7 +999,7 @@ msgid ""
 "Of course, she wanted to try her program out right away to see if it really "
 "worked. At the junkyard, she connected her cell phone to a small LED lamp. "
 "Then she typed the lines of code into her cell phone."
-msgstr ""
+msgstr "Sigurisht që ajo donte menjëherë të provonte nëse do të funksiononte vërtet! Në vendgrumbullimin e mbeturinave, ajo lidhi telefonin e saj me një llambë të vogël LED. Pastaj, futi në telefon rrjeshtat e programit që kishte shënuar..."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:705
@@ -1092,7 +1008,7 @@ msgid ""
 "a few small changes and tried again and .... “Yeesss!” The little light "
 "began to flash. On, off, on, off. Ada looked at the LED in amazement. She "
 "had written her first program!"
-msgstr ""
+msgstr "Nuk ndodhi asgjë. Ada mendoi se ku mund të ishte gabimi. Bëri disa ndryshime, provoi sërish dhe «Pooo!» Llamba e vogël filloi të pulsonte. Ditë, natë, ditë, natë. Ada e vështroi e mahnitur LED-in. Ajo kishte krijuar programin e saj të parë!"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:706
@@ -1102,7 +1018,7 @@ msgid ""
 "what she wanted. It was not so easy, but after a few weeks, Ada wrote a "
 "truly useful program: one that would make Alan’s speakers automatically turn "
 "off half an hour after he had fallen asleep."
-msgstr ""
+msgstr "Ada ishte e lumtur pa masë. Filloi të imagjinonte gjërat e mrekullueshme që mund të bënte me këtë. Nëse shkruante kodin e duhur të programimit, atëherë zbulimet e saj do të bënin saktësisht atë që ajo dëshironte. Nuk ishte edhe aq e lehtë, por pas disa javësh, Ada krijoi një program vërtet praktik: tashmë boksi i Alan-it çaktivizohej automatikisht pas gjysmë ore kur ai binte në gjumë."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1124,10 +1040,7 @@ msgid ""
 "Ada also had an idea for the next program she would write. It was a bigger "
 "deal, a real project. She would probably need the whole summer break for "
 "it... And she could hardly wait!"
-msgstr ""
-"Ada kishte tashmë një ide të re për një program, diçka më të madhe, një "
-"projekt të vërtetë. Ajo ndoshta do të kishte nevojë për të gjithë pushimet e "
-"verës për këtë ... dhe ajo po priste me padurim!"
+msgstr "Ada kishte tashmë një ide të re për një program, diçka më të madhe, një projekt të vërtetë. Ajo ndoshta do të kishte nevojë për të gjithë pushimet e verës për këtë... dhe ajo po priste me padurim!"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1154,7 +1067,7 @@ msgid ""
 "plays around with them. All the things that could go wrong! I put so much "
 "thought into everything, down to the last detail.” Zangemann pondered and "
 "pondered and tossed and turned sleeplessly in his bed all night."
-msgstr ""
+msgstr "<phrase condition=\"capitals-text\">Zangemann</phrase><phrase condition=\"capitals-img\">angemann</phrase> flinte tmerrësisht keq që nga ajo shëtitje e tmerrshme. Kur ai shkonte për të fjetur në mbrëmje, shqetësime të mëdha e trazonin: « Oh jo, shpikjet e mia të mrekullueshme! Nuk është e mundur që të gjithë të talleshin kështu. Nuk dihet se çfarë mund të ndodhë. Megjithatë, kam menduar mire për gjithçka, deri në detajin më të vogël. » Zangemann mendohej, mendohej, rrotullohej dhe rrotullohej gjithë natën në shtratin e tij  pa mbyllur sytë."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:733
@@ -1164,7 +1077,7 @@ msgid ""
 "program after another. In these programs, he specified exactly what his "
 "inventions were to do and were not to do under any circumstances. The chaos "
 "had to stop!"
-msgstr ""
+msgstr "Kur u ngrit një mëngjes, me ballin e thelluar nga shqetësimet, Zangemann mori një vendim. Kjo nuk mund të vazhdonte kështu! Ai u ul para kompjuterit të tij prej floriri dhe filloi të shkruante programe njëri pas tjetrit. Në këto programe, ai përcaktoi shumë saktësisht se çfarë duhej të bënin shpikjet e tij dhe çfarë nuk duhej të ndodhte në asnjë rast. Mjaft me kaosin!"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:734
@@ -1175,7 +1088,7 @@ msgid ""
 "selling ice cream in the afternoon. After all, he didn’t want his expensive "
 "clothes to get stained by ice cream while he was out for a walk. All day "
 "long he sat at the computer and typed and typed and typed..."
-msgstr ""
+msgstr "Kur përfundoi, ai dërgoi të gjithë programet e reja nga kompjuteri i tij prej floriri në pajisjet e njerëzve. Zangemann urdhëroi që bokset e tij të luanin vetëm muzikën e tij të preferuar kur ai të kalonte pranë, dhe makinave të akullit që të mos shisnin më akullore pasdite. Pantallonat e tij të shtrenjta rrezikonin të bëheshin me njolla gjatë shëtitjes. Tërë ditën, ai qëndroi ulur para kompjuterit dhe shtypte e shtypte në tastierë."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:739
@@ -1195,7 +1108,7 @@ msgid ""
 "she stood on it and pressed the Go! button, the wheels moved, but way too "
 "fast. Ada fell off the skateboard every time she started. No matter what she "
 "tried, she just couldn’t get it right."
-msgstr ""
+msgstr "<phrase condition=\"capitals-text\">Kishte</phrase><phrase condition=\"capitals-img\">ishte</phrase> kaluar gjysma e pushimeve të verës. Ada ishte përballë projektit të saj të madh dhe po vriste mendjen. Nga disa pjesë të vjetra që kishte mbledhur,  ajo kishte ndërtuar një skateboard dhe kishte lidhur një motorr që lëvizte rrotat. Me një skateboard me motorr, Ada mund të shkonte edhe më shpejt në bibliotekë ose në depon pas shkollës. Super praktik ! Por nuk funksiononte. Kur ajo e hipte dhe shtypte butonin «ndiz», rrotat fillonin sigurisht të lëvizin, por shumë më shpejt se sa duhej. Në çdo nisje, Ada binte nga suateri. Sa shumë përpiqej, thjesht nuk ia dilte."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:744
@@ -1204,14 +1117,14 @@ msgid ""
 "library. She always found answers to her questions there. And indeed, on the "
 "internet, she came across a program that someone had written for an electric "
 "scooter that also needed to start slowly. Ada downloaded it to her phone."
-msgstr ""
+msgstr "Pas rënies në prapanicë për herën e njëqind, ajo shkoi në bibliotekë. Aty ajo gjente gjithmonë përgjigje për pyetjet e saj. Dhe në të vërtetë, në Internet, ajo gjeti programin që dikush kishte shkruar për skuterin e saj elektrik. Ajo gjithashtu duhej ta niste ngadalë. Ada e shkarkoi programin në telefonin e saj."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:746
 msgid ""
 "Back at the junkyard, she adapted some lines of code for her skateboard "
 "program. She tweaked a few things and kept tinkering."
-msgstr ""
+msgstr "Kur u kthye në depo, filloi të kopjonte disa rreshta nga ai program për skateboard-in e saj. Ndryshoi dy a tri gjëra dhe vazhdoi të punonte me durim."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:747
@@ -1221,7 +1134,7 @@ msgid ""
 "the skateboard started moving, slowly at first, then faster. It worked! She "
 "tried to brake. It worked! Ada let out a cry of joy and took a trip to the "
 "park."
-msgstr ""
+msgstr "Pas shumë përpjekjesh të dështuara, ditën e fundit të pushimeve, Ada hipi përsëri në dërrasë dhe shtypi butonin «ndiz»: skateboard-i filloi të lëvizte ngadalë. Pastaj përshpejtoi. Po, funksiononte! Ajo frenoi. Edhe kjo funksionoi! Ada bërtiti nga gëzimi dhe doli të bënte një xhiro në park."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1260,12 +1173,12 @@ msgid ""
 "When Ada rode her skateboard to school on the first day back after summer "
 "break, the other children were amazed. During recess, Ada’s curious "
 "classmates surrounded her."
-msgstr ""
+msgstr "Pas pushimeve kur Ada shkoi në shkollë ,nxënësit e tjere nuk u besonin syve. Gjatë pushimit të gjatë, shokët e shoqet e klasës formuan një rreth rrotull Adës dhe e pyetën me kurreshtje:"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:760
 msgid "“How can you ride your skateboard on the sidewalk?” they asked."
-msgstr ""
+msgstr "«Çfarë bën për të levizur në trotuar me skuterin tënd?»"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1288,7 +1201,7 @@ msgid ""
 "but actually the software in them. It’s probably programmed into the "
 "software that the skateboards aren’t allowed to go on the sidewalk. But that "
 "can be changed!”"
-msgstr ""
+msgstr "Ada mendoi. « Mendoj se kjo nuk vjen nga skatet tuaja, por më shumë nga softueri që ka brenda. Pa dyshim që softuerët janë programuar që skatet të mos kenë të drejtë të lëvizin mbi trotuar. Por ne mund ta ndryshojmë këtë! »"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:770
@@ -1300,7 +1213,7 @@ msgid ""
 "10 minutes it made a strange noise that sounded like a drawn-out burp. Ada "
 "knew that little errors like that could pop up in programs all the time. But "
 "Toni’s burping skateboard was really quite funny."
-msgstr ""
+msgstr "Në atë mbrëmje, Ada bëri menjëherë një provë me skatin e shokut të saj Toni. Ajo punoi fshehurazi deri vonë në natë dhe ditën tjetër, Toni mundi sërish të lëvizte mbi trotuar. Megjithatë, skati i tij nuk mund të nxirrte më tingujt që prindërit e tij kishin blerë nga Zangemann. Në vend të tyre, një zë i çuditshëm dëgjohej çdo dhjetë minuta që ngjante me një të qeshur të gjatë. Ada e dinte se ky lloj gabimi mund të ndodhte gjithmonë. Por skati i Tonit që qeshte ishte në të vërtetë mjaft qesharak."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1331,7 +1244,7 @@ msgid ""
 "new discovery. It was unbelievable what you could do with software code! "
 "They wanted to learn everything Ada knew about programming languages, and "
 "soon they were riding their skateboards again, wherever they wanted to."
-msgstr ""
+msgstr "<phrase condition=\"capitals-text\">Tani</phrase><phrase condition=\"capitals-img\">ani</phrase>, gjithnjë e më shumë fëmijë vinin ta takonin Adën në depo pas mësimeve. Ajo i ndihmonte të ndryshonin programet e skateboard-eve të tyre. Të gjithë ishin shumë të entuziazmuar nga ky zbulim i ri. Fëmijëve nuk u besohej sa shumë gjëra mund të bëje me një program kompjuterik! Tani ata donin që Ada t’u mësonte gjithçka rreth gjuhës së programimit. Dhe shumë shpejt, të gjithë mund të lëviznin përsëri me skateboard-et e tyre, siç dëshironin."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:787
@@ -1340,7 +1253,7 @@ msgid ""
 "new, cool features. Marie attached colorful LED lights to her board that "
 "glowed different colors depending on the speed. Konrad built old propellers "
 "onto his skateboard for extra speed."
-msgstr ""
+msgstr "Por kjo nuk mbaronte me kaq sepse falë softuerit, ata mund të shtonin edhe funksione të reja shumë interesante në skateboard-et e tyre. Maria vendosi disa llamba LED që ndryshonin ngjyrë sipas shpejtësisë, ndërsa Konradi i lidhi disa shtytës të vjetër për t’i dhënë më shumë vrull dërrasës së tij."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1358,7 +1271,7 @@ msgid ""
 "even set up a real workshop where they could fine-tune their programs for "
 "hours, listening all the while to music from the speakers Ada had built for "
 "Alan."
-msgstr ""
+msgstr "Ada, Toni, Maria dhe Konradi kalonin pjesën më të madhe të kohës së tyre të lirë në depo. Madje kishin ndërtuar aty një atelie ku kalonin orë të tëra duke përmirësuar programet e tyre, ndërsa dëgjonin muzikë në bokset që Ada kishte ndërtuar për Alanin."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:797
@@ -1366,14 +1279,14 @@ msgid ""
 "“Your brother’s speakers are much louder than ours,” remarked Toni, who was "
 "busy attaching a speedometer to his helmet. “I’m sure that’s also because of "
 "the software,” Marie said."
-msgstr ""
+msgstr "«Bokset e vëllait tënd janë shumë më të fuqishëm se tanët», vuri re Toni, ndërsa po montonte një matës shpejtësie në kaskën mbrojtëse."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:798
 msgid ""
 "Together, they changed the software for the speakers too. Then they turned "
 "up the music as loud as possible and danced wildly together."
-msgstr ""
+msgstr "Së bashku, ata modifikuan programin për bokset. Pastaj ngritën zërin në maksimum dhe filluan të kërcenin si të çmendur."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1437,7 +1350,7 @@ msgid ""
 "cream, as well as strawberry, raspberry, and rainbow ice cream, all with "
 "sprinkles and hot fudge — much better than the varieties from the Zangemann "
 "machines."
-msgstr ""
+msgstr "<phrase condition=\"capitals-text\">Çdo</phrase><phrase condition=\"capitals-img\">do</phrase> ditë, Ada dhe miqtë e saj krijonin projekte pas shkollës. Nga një makinë akulloreje të prishur, ata ndërtuan një të re, që prodhonte akullore me të gjitha format dhe ngjyrat e mundshme dhe të imagjinueshme. Që prej asaj kohe, ata hanin akullore në formë kubi, zemre, piramide, akullore me shije luleshtrydheje, mjedre, akullore ylber, të gjitha të zbukuruara me copëza dhe të mbuluara me çokollatë. Ishin shumë më të mira se shijet e makinave të Zangemann-it."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:839
@@ -1449,7 +1362,7 @@ msgid ""
 "a computer so that her plants would not die of thirst during summer days. "
 "And they helped the school custodian modify his vacuum so that it "
 "automatically recognized toys and wouldn’t suck them up."
-msgstr ""
+msgstr "Ndonjëherë, ata madje ndihmonin edhe të rriturit që kishin probleme me kompjuterët. Toni riprogramoi hekurin e babait të tij që ai të mund të hekurosë përsëri kollaret. Zangemann i ka tmerr kollaret, ai e kishte ndaluar hekurosjen e tyre në pajiset e tija. Për shoferen e autobusit, ata ndërtuan një sistem ujitjeje nga një kompjuter dhe disa tuba, në mënyrë që bimët e saj të mos thaheshin nga etja në mes të verës. Ata ndihmuan gjithashtu punëtorin e mirëmbajtjes së shkollës të modifikonte fshesën e tij, që ajo të njihte automatikisht lodrat dhe të mos i thithte më."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:840
@@ -1458,7 +1371,7 @@ msgid ""
 "math teacher’s chair. Whenever Ms. Gernet sat down, the machine played a "
 "little fart sound. The teacher would scold them, but Ada was sure that she "
 "secretly smirked a little every time."
-msgstr ""
+msgstr "Ndonjëherë, ata ndërtonin gjëra thjesht për t’u argëtuar. Si për shembull makina e pordhave në karrigen e zonjës Gernet, mësueses së tyre të matematikës. Sa herë që ajo ulej, dëgjohej një pordhë e vogël. Atëherë zonja Gernet zemërohej, por Ada ishte e bindur që në secilin prej atyre rasteve, asaj duhej t’i vinte pak edhe për të qeshur."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:845
@@ -1476,7 +1389,7 @@ msgid ""
 "the programs in my devices. That can’t happen; after all, they are my "
 "inventions. It’s far too dangerous if everyone can do whatever they want "
 "with the computers. You must make a law against this!”"
-msgstr ""
+msgstr "<phrase condition=\"capitals-text\">Një</phrase><phrase condition=\"capitals-img\">jë</phrase> ditë, Zangemanni vuri re se disa kompjuterë nuk iu bindeshin më komandave të tij të programimit. Ai ishte i shokuar dhe i tërbuar nga inati. Menjëherë thirri presidentin dhe bërtiti me zë të dridhur: «Dikush ka modifikuar programet e pajisjeve të mia. Kjo është e papranueshme, ato gjithsesi janë shpikjet e mia. Dhe është shumë e rrezikshme nëse të gjithë bëjnë çfarë të duan me kompjuterët. Duhet një ligj kundër kësaj!»"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:850
@@ -1485,14 +1398,14 @@ msgid ""
 "computers were programmed by Zangemann. Without the computers, the "
 "government would not be able to run the country. So they passed the law as "
 "Zangemann requested:"
-msgstr ""
+msgstr "Presidenti nuk donte ta kundërshtonte Zangemannin. Ishte ai që kishte programuar të gjithë kompjuterët e qeverisë. Pa të, nuk mund të drejtonin shtetin. Prandaj qeveria miratoi ligjin që Zangemanni kishte kërkuar:"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:851
 msgid ""
 "“All computers that do not listen to Zangemann are banned. Anyone who "
 "reprograms Zangemann’s devices will be fined 500,000 gold pieces!”"
-msgstr ""
+msgstr "«Të gjithë kompjuterët që nuk i binden Zangemannit janë të ndaluar! Kushdo që çprogramon pajisjet e Zangemannit, do të duhet të paguajë një gjobë prej 500 000 monedhash ari!»"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1514,19 +1427,21 @@ msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:863
+#, fuzzy
 msgid ""
 "When Ada and her friends heard this, they were furious. “This is unfair,” "
 "they said. “We rebuilt and reprogrammed our skateboards ourselves. They are "
 "much better now. We won’t let anyone take that away from us!”"
-msgstr ""
+msgstr "Kur Ada dhe miqtë e saj e dëgjuan këtë, u zemëruan shumë. «Kjo është e padrejtë,» thanë ata. «Ne i kemi rindërtuar dhe riprogramuar vetë skateboard-et tona me rrota. Tani janë shumë më të mira. Nuk do të lejojmë askënd të na i marrë!»"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:864
+#, fuzzy
 msgid ""
 "They gathered in front of one of their rebuilt ice-cream machines and "
 "discussed the situation. It was clear that something had to be done about "
 "the new law, and they made a plan..."
-msgstr ""
+msgstr "Ata u mblodhën përpara njërit prej aparateve të tyre të akullores që kishin rindërtuar dhe filluan të diskutonin situatën. Ishte e qartë se duhej bërë diçka për ligjin e ri, keshtu ata hartuan një plan..."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1557,7 +1472,7 @@ msgid ""
 "unison and told the adults their story. Impressed, the adults nodded, and "
 "the president also looked curiously at their signs as he approached the "
 "building."
-msgstr ""
+msgstr "<phrase condition=\"capitals-text\">Të</phrase><phrase condition=\"capitals-img\">ë</phrase> nesërmen, ata nuk shkuan në shkollë. Në vend të kësaj, ata shkuan në ndërtesën e parlamentit me skateboard-et e tyre dhe parrullat e mëdha të protestës nën sqetulla dhe mbajtën një protestë ulur para ndërtesës. Një ditë më parë, ata kishin instaluar llamba të vogla LED në disa tabela, të cilat tani ndriçonin. Ata kishin lidhur bokset e tyre në mënyrë që ajo që po thoshin të dëgjohej nga çdo rrugë. Disa kalimtarë ndaluan dhe i pyetën fëmijët pse po protestonin. «Për softuer të lirë», u përgjigjën ata njëzëri. Dhe ata ua treguan historinë e tyre të rriturve. Të rriturit pohuan me kokë, të impresionuar. Vetë presidenti shikoi me kuriozitet tabelat e tyre ndërsa hynin në ndërtesën e parlamentit."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:881
@@ -1567,7 +1482,7 @@ msgid ""
 "skateboards Ada had reprogrammed. Toni’s father and other parents and adults "
 "also wanted to support the protest. They found the children’s devices very "
 "useful."
-msgstr ""
+msgstr "Në ditët në vijim, Ada dhe shoqet e saj u mblodhën përsëri për një protestë ulur para ndërtesës së parlamentit. Por këtë herë me mbështetje: disa shokë klase, skateboard-in e të cilëve Ada e kishte riprogramuar, iu bashkuan atyre. Edhe babai i Tonit. Të rritur të tjerë donin të mbështesnin protestën e tyre. Ayre iu dukën shumë të dobishme pajisjet e fëmijëve."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1588,7 +1503,7 @@ msgid ""
 "perfectly ironed ties. Even Ms. Gernet came. The crowd grew, and after a few "
 "weeks, there were protests not just in Ada’s city but also in many cities "
 "throughout the country."
-msgstr ""
+msgstr "Çdo ditë e më shumë fëmijë dhe të rritur vinin për të demonstruar. Shoferja i autobusit që ata e kishin ndihmuar të ujiste bimët, erdhi me autobusin e saj. Ajo i binte borisë fort që edhe më shumë njerëz t'i kushtonin vëmendje demonstratës. Portieri solli disa miq me vete. Babai i Tonit erdhi me kolegët e tij, të cilët të gjithë mbanin kollare  të hekurosura automatikisht. Edhe mësuesja e matematikës ishte atje. Turma u rrit me shpejtësi dhe pas disa javësh, demonstratat ishin përhapur përtej qytetit të Adës. Njerëzit po demonstronin në të gjithë vendin."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1614,7 +1529,7 @@ msgstr ""
 #. Text on big banner, left on the illustration
 #: Ada_Zangemann.dbk:897
 msgid "Do your homework Mr. President and we will do ours!"
-msgstr ""
+msgstr "Bëj detyrat tua, Zoti President, dhe ne do të bëjmë të tonat!"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1640,7 +1555,7 @@ msgstr ""
 #. Text on square signe on the right of the illustration
 #: Ada_Zangemann.dbk:914
 msgid "They are young + need the code!"
-msgstr ""
+msgstr "Ata janë të rinj + kanë nevojë për Kodin!"
 
 #. (itstool) path: info/excerpt
 #. Text on banner on the banner held by children on the right of the
@@ -1648,7 +1563,7 @@ msgstr ""
 #. can be used, which translates to 'without code everything is dull!'.
 #: Ada_Zangemann.dbk:915
 msgid "Don’t wreck our tech!"
-msgstr ""
+msgstr "Pa program, nuk shkon!"
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:922
@@ -1668,7 +1583,7 @@ msgid ""
 "and cannot do with our computers.” Her friends shouted in unison: “Don’t "
 "wreck our tech! Don’t wreck our tech!” and “We want the code! We want the "
 "code!”"
-msgstr ""
+msgstr "<phrase condition=\"capitals-text\">Ada</phrase><phrase condition=\"capitals-img\">da</phrase> protestonte çdo ditë para parlamentit, edhe kur binte shi me gjyma. Kur presidenti kaloi pranë fëmijëve të lagur, nuk mundi veçse të admirojë këmbënguljen e tyre. Ai e pyeti Adën: «Pse vini çdo ditë këtu? Çfarë kërkoni?» Ada u përgjigj: «Duam të vendosim vetë se çfarë kemi të drejtë të bëjmë me kompjuterët tanë apo jo», dhe të gjithë shokët dhe shoqet e saj thanë njëzëri: «Pa program, nuk ecim dot!»"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:926
@@ -1678,7 +1593,7 @@ msgid ""
 "with its computers. But he didn’t understand anything about computers and "
 "code, so he had always left that to Zangemann. Deep in thought, the "
 "president entered the building."
-msgstr ""
+msgstr "Presidenti pa fytyrat e vendosura të fëmijëve. Për të qenë i sinqertë, edhe ai do të donte të vendoste vetë se çfarë kishte të drejtë të bënte apo jo qeveria me kompjuterët e saj. Por ai nuk dinte asgjë, as për kompjuterët, as për programimin, dhe pikërisht për këtë arsye ia kishte deleguar gjithçka Zangemann-it. I menduar, presidenti hyri në parlament."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1700,7 +1615,7 @@ msgid ""
 "about computer programs?” he asked them. Enthusiastically, they explained to "
 "him how software works and what you could do with it. The president was "
 "amazed."
-msgstr ""
+msgstr "Të nesërmen, ai ftoi Adën dhe miqtë e saj. «Edhe ne duam të kemi mundësinë të programojmë vetë programet tona. Për këtë, qeveria nuk duhet të varet më nga Zangemann. A mund të më tregoni gjithçka që dini për kompjuterët?», i pyeti ai. Ata ia shpjeguan me entuziazëm se si funksionojnë programet dhe çfarë mund të bëhej me to. Presidenti mbeti i habitur."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:937
@@ -1709,14 +1624,14 @@ msgid ""
 "software, the way it wanted — completely without Zangemann. Immediately, the "
 "president called his advisers. In a large group, they discussed with the "
 "children everything they could change and improve in the software."
-msgstr ""
+msgstr "Me këto njohuri të reja, qeveria e tij tani mund të krijonte vetë programin e saj, ashtu siç dëshironte, pa Zangemannin. Ai thirri menjëherë këshilltarët e tij. Gjatë një takimi të madh, ata diskutuan me fëmijët për gjithçka që do të dëshironin të ndryshonin dhe përmirësonin në program."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:938
 msgid ""
 "That evening, the children went home proud and satisfied. Something finally "
 "happened! Their long protest was worth it."
-msgstr ""
+msgstr "Atë mbrëmje, fëmijët u kthyen në shtëpi krenarë dhe të kënaqur. Më në fund po ndodhte diçka! Protesta e tyre e gjatë kishte dhënë frytet e saj."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1734,7 +1649,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:949
 msgid "New law"
-msgstr ""
+msgstr "Ligj i ri"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p44-1
@@ -1747,7 +1662,7 @@ msgid ""
 "call short and quickly hung up. The phone rang many more times that day, but "
 "Zangemann’s calls went unanswered. The president sat in a meeting with Ada, "
 "Toni, Marie, Konrad, and the government experts."
-msgstr ""
+msgstr "<phrase condition=\"capitals-text\">Të</phrase><phrase condition=\"capitals-img\">ë</phrase> nesërmen në mëngjes, telefoni ra që herët në zyrën e presidentit. Ishte Zangemann. Më i zemëruar se kurrë, ai u përpoq ta bindte presidentin. «Pa mua, kompjuterët e qeverisë nuk do të funksionojnë më,» – kërcënoi ai. Por presidenti ishte i prerë në përgjigje dhe ia mbylli menjëherë. Telefoni ra përsëri shumë herë atë ditë, por askush nuk e ngriti. Presidenti dhe ekspertët e qeverisë u takuan në një mbledhje të gjatë me Adën, Tonin, Marinë dhe Konradin."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1767,7 +1682,7 @@ msgid ""
 "telephones. When Zangemann called, he only heard an automated recording: "
 "“The government only wants to use software that it can freely use, study, "
 "share, and improve. Thank you for calling.”"
-msgstr ""
+msgstr "Në ditët që pasuan, ata diskutuan nga mëngjesi deri në darkë dhe programuan vetë softuerët për kompjuterët e qeverisë. Askush nuk u shqetësua më nga telefonatat e Zangemannit. Toni pati një ide të mirë për të riprogramuar telefonat. Kur Zangemann telefononte, dëgjonte automatikisht mesazhin e mëposhtëm: «Qeveria nuk dëshiron më të punojë me programe që nuk mund t’i përdorë, kuptojë, shpërndajë dhe përmirësojë lirisht. Faleminderit për telefonatën tuaj.»"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:961
@@ -1775,21 +1690,21 @@ msgid ""
 "Then, after many weeks of protests and discussions, the time had finally "
 "come: they abolished the old Zangemann law! Instead, the government "
 "announced:"
-msgstr ""
+msgstr "Pas javësh të gjata, më në fund e përfunduan. Parlamenti shfuqizoi ligjin e vjetër të Zangemannit dhe shpalli:"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:964
 msgid ""
 "“Everyone is allowed to program their own computers as long as they adhere "
 "to the other laws.”"
-msgstr ""
+msgstr "«Çdo person ka të drejtën të programojë vetë kompjuterin e tij/saj, për aq kohë sa respekton ligjet e tjera.»"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:965
 msgid ""
 "In addition, a new school subject was introduced: computer hardware and "
 "software."
-msgstr ""
+msgstr "Për më tepër, një lëndë e re u fut në shkollë: informatika dhe programimi."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1811,7 +1726,7 @@ msgid ""
 "Gernet; the bus driver; the custodian — they were all there. They decorated "
 "the streets, listened to loud music, and ate ice cream, as much as they "
 "wanted, and in every imaginable shape and color."
-msgstr ""
+msgstr "Atë mbrëmje, të gjithë së bashku organizuan një festë të madhe: Ada, Alan, fëmijët e shkollës dhe prindërit e tyre, presidenti, zonja Gernet, shoferja e autobusit, kujdestari. Të gjithë ishin aty. Ata zbukuruan rrugët, dëgjuan muzikë me zë të lartë dhe, për të festuar ditën, hëngrën akullore pa kufi, në të gjitha format dhe ngjyrat e mundshme e të imagjinueshme."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1831,7 +1746,7 @@ msgid ""
 "While the others continued partying late into the night, Ada and her friends "
 "slipped away to their workshop. They already had a lot of ideas for new "
 "inventions. And they wanted to start right away."
-msgstr ""
+msgstr "Ndërkohë që të tjerët vazhduan festën deri vonë në natë, Ada, Toni, Maria dhe Konradi u larguan pa zhurmë për t’u kthyer në punishten e tyre. Ata tashmë kishin plot ide të reja për shpikje. Dhe donin të fillonin menjëherë."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1848,7 +1763,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:995
 msgid "And Zangemann?"
-msgstr ""
+msgstr "Po Zangemann?"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p48-1
@@ -1864,7 +1779,7 @@ msgid ""
 "Perhaps then he will remember how much fun it was for himself to tinker and "
 "experiment. And maybe, just maybe, he eats pyramid-shaped raspberry ice "
 "cream with rainbow sprinkles."
-msgstr ""
+msgstr "<phrase condition=\"capitals-text\">Po</phrase><phrase condition=\"capitals-img\">o</phrase> Zangemann? Nuk u dëgjua më shumë për të. Ndoshta ai ende zemërohet në vilën e tij të madhe dhe rri ulur, i zymtë, përpara kompjuterit të tij prej ari. Ndoshta nuk guxon më të dalë në rrugë dhe i ka mbyllur të gjitha dritaret e shtëpisë për të mos u mërzitur nga përdorimi i shpikjeve të tij. Por ndoshta gjithashtu, ai vëzhgon botën përmes teleskopit të tij dhe sheh se çfarë shpikin fëmijët çdo ditë. Ndoshta atëherë i kujtohet sa shumë ishte kënaqur dikur teksa eksperimente dhe shpikje. Dhe ndoshta, por vetëm ndoshta, ai po lëpin një akullore me shije mjedre në formë piramide, të mbuluar me shkëlqim në ngjyrat e ylberit."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1884,7 +1799,7 @@ msgstr ""
 #. (itstool) id: Ada_Zangemann.dbk#title-acknowledgments
 #: Ada_Zangemann.dbk:1020
 msgid "Acknowledgments"
-msgstr ""
+msgstr "Falënderimet e autorit"
 
 #. (itstool) path: simplesect/para
 #. In the acknowledgments of the English version you can change 'No Starch
@@ -1899,7 +1814,7 @@ msgid ""
 "illustrations. Thanks to my editor Wiebke Helmchen, who made developing and "
 "sharpening the story fun, and to No Starch Press for agreeing to publish the "
 "book under a free culture license."
-msgstr ""
+msgstr "Një falënderim i madh për Reinhard Wiesemann nga Linuxhotel për mbështetjen e tij financiare dhe për motivimin që na dha të veprojmë në vend që të planifikojmë gjithmonë. Faleminderit Sandra Brandstätter për gëzimin që më solli secila nga skicat e saj. Faleminderit për rilexuesen Wiebke Helmchen, me të cilën pata shumë kënaqësi në zhvillimin dhe përpunimin e kësaj historie, dhe Ariane Hesse për mbështetjen e saj të jashtëzakonshme tek botuesi."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1029
@@ -1909,7 +1824,7 @@ msgid ""
 "Sabine, and Torsten for great ideas, inspiration, and practical tips, and to "
 "the many people of the Free Software movement, from which I was allowed to "
 "learn and whose engagement motivated me."
-msgstr ""
+msgstr "Faleminderit Bea dhe Benni, Christine dhe Marc, Cory, Bernhard, Isabel dhe Amelia, Katta, Kristina, Martin, Mona dhe Arne, Nina, Oliver, Reinhard, Sabine dhe Torsten për idetë e tyre të shkëlqyera, frymëzimin dhe këshillat praktike, si edhe të gjithë personave nga lëvizja e softuerit të lirë prej të cilëve kam mësuar shumë dhe angazhimi i të cilëve më motivon."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1033
@@ -1918,7 +1833,7 @@ msgid ""
 "evening, and on holiday, and who always supports my work for software "
 "freedom. Especially, I would like to thank my children, who inspired me with "
 "new ideas at each reading. Without them, this book would not exist."
-msgstr ""
+msgstr "Një falënderim nga zemra për familjen time, që më la të shkruaja herët në mëngjes, vonë në mbrëmje dhe gjatë pushimeve, dhe që gjithmonë ka mbështetur punën time për lirinë e softuerit. Dua të falënderoj në mënyrë të veçantë fëmijët e mi, të cilët më frymëzuan me ide të reja sa herë që u lexoja librin. Pa ta, ky libër nuk do të ekzistonte."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1934,19 +1849,19 @@ msgstr ""
 #. (itstool) id: Ada_Zangemann.dbk#title-author
 #: Ada_Zangemann.dbk:1047
 msgid "About the Author"
-msgstr ""
+msgstr "Rreth autorit"
 
 #. (itstool) path: info/subtitle
 #. (itstool) id: Ada_Zangemann.dbk#subtitle-author
 #. ignore-same
 #: Ada_Zangemann.dbk:1048
 msgid "Matthias Kirschner"
-msgstr ""
+msgstr "Matthias Kirschner"
 
 #. (itstool) path: info/titleabbrev
 #: Ada_Zangemann.dbk:1049
 msgid "About the Author - Matthias Kirschner"
-msgstr ""
+msgstr "Rreth autorit Matthias Kirschner"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1965,25 +1880,25 @@ msgid ""
 "right to take their future into their own hands. Therefore, Matthias is "
 "committed to the goal that all humans can use software in a self-determined "
 "way. He also wants to build an electric skateboard with Free Software."
-msgstr ""
+msgstr "Matthias ka qenë që në fëmijëri i magjepsur nga kompjuterët dhe softuerët. Ai pati një lidhje me internetin që në një moshë shumë të re, përmes së cilës mësoi shumë gjëra. Fëmijët kanë të drejtë ta marrin të ardhmen e tyre në dorë. Prandaj, Matthias angazhohet që të gjithë të kenë mundësinë të përdorin softuerët në mënyrë të pavarur. Ai dëshiron gjithashtu që një ditë të ndërtojë një skateboard elektrik me softuerë të lirë."
 
 #. (itstool) path: info/title
 #. (itstool) id: Ada_Zangemann.dbk#title-illustrator
 #: Ada_Zangemann.dbk:1070
 msgid "About the Illustrator"
-msgstr ""
+msgstr "Rreth ilustratores"
 
 #. (itstool) path: info/subtitle
 #. (itstool) id: Ada_Zangemann.dbk#subtitle-illustrator
 #. ignore-same
 #: Ada_Zangemann.dbk:1071
 msgid "Sandra Brandstätter"
-msgstr ""
+msgstr "Sandra Brandstätter"
 
 #. (itstool) path: info/titleabbrev
 #: Ada_Zangemann.dbk:1072
 msgid "About the Illustrator - Sandra Brandstätter"
-msgstr ""
+msgstr "Rreth ilustratores Sandra Brandstätter"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -2002,7 +1917,7 @@ msgid ""
 "designer for animated films and series, such as the German public television "
 "series Trudes Tier. On an ice-cream machine, Sandra would pick a creamy "
 "rainbow ice cream with lemon cucumber flavor and a lot of sprinkles."
-msgstr ""
+msgstr "Sandra gjithmonë e ka dashur punën me dorë: me gërshërë, pinca, ngjitës, fije, pëlhurë dhe letër. Sot, ajo është ilustratore, autore komikësh dhe krijuese personazhesh për vizatime dhe seriale të animuara, për shembull për serialin Trudes Tier (Kafsha e Trudes) në emisionin Sendung mit der Maus (Emisioni me miun). Në makinën e akullores, Sandra do të zgjidhte një akullore kremoze ylber me shije limoni dhe kastraveci, me shumë kokrra sheqeri sipër."
 
 #. (itstool) path: info/title
 #. (itstool) id: Ada_Zangemann.dbk#title-bookswebsite
@@ -2020,14 +1935,14 @@ msgid ""
 "everyone the right to use, study, share, and improve programs. Therefore, "
 "Free Software strengthens basic rights such as freedom of expression, "
 "freedom of the press, and the right to privacy."
-msgstr ""
+msgstr "Fondacioni i Programeve të Lira Evropë është një organizatë jofitimprurëse që ndihmon njerëzit të menaxhojnë teknologjinë në mënyrë autonome. Programet kompjuterike ndikojnë në të gjitha fushat e jetës sonë. Prandaj, është e rëndësishme që kjo teknologji të na japë liri në vend që të na kufizojë. Programi i Lirë (i quajtur gjithashtu FLOSS - Free, Libre, Open Source Software) i jep të gjithëve të drejtën të përdorin, kuptojnë, shpërndajnë dhe përmirësojnë programet. Programi i Lirë përforcon kështu të drejtat themelore si liria e shprehjes, liria e shtypit dhe e drejta e privatësisë."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1102
 msgid ""
 "On the web page of the book, you will find more information and resources: "
 "<link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
-msgstr ""
+msgstr "Në faqen e internetit kushtuar librit, do të gjeni më shumë informacion dhe dokumentacion:<link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
 
 #. (itstool) path: info/title
 #. (itstool) id: Ada_Zangemann.dbk#title-license
@@ -2049,7 +1964,7 @@ msgstr ""
 msgid ""
 "<link xlink:href=\"https://creativecommons.org/licenses/by-sa/4.0/\">https://"
 "creativecommons.org/licenses/by-sa/4.0/</link>"
-msgstr ""
+msgstr "<link xlink:href=\"https://creativecommons.org/licenses/by-sa/4.0/\">https://creativecommons.org/licenses/by-sa/4.0/</link>"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
