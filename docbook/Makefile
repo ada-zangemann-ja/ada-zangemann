@@ -20,7 +20,8 @@ SHELL = /bin/sh
 # FIXME: use $(srcdir) best practice https://www.gnu.org/software/make/manual/html_node/Makefile-Basics.html
 
 # List known translations to generate pattern rules for autocomplete by scanning translation files.
-translations = en $(notdir $(basename $(wildcard po/text/*.po)))
+# Explicitly filter out 'en' langugae as it will be generated for English targets.
+translations = $(filter-out en, $(notdir $(basename $(wildcard po/text/*.po))))
 
 # List known languages to generate pattern rules for autocomplate. Use translations and add English because there is no en.po file (unsupported by Weblate).
 languages = en $(translations)
