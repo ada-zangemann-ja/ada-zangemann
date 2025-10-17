@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2025-10-11 06:20+0000\n"
-"Last-Translator: Marco Ciampa <ciampix@posteo.net>\n"
+"PO-Revision-Date: 2025-10-17 05:49+0000\n"
+"Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
 "Language-Team: Esperanto <https://hosted.weblate.org/projects/fsfe/ada-zangemann/eo/>\n"
 "Language: eo\n"
 "MIME-Version: 1.0\n"
@@ -1299,7 +1299,7 @@ msgstr "Licenco"
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1117
 msgid "The book Ada &amp; Zangemann: A Tale of Software, Skateboards, and Raspberry Ice Cream by Matthias Kirschner and Sandra Brandstätter, published by No Starch Press, is licensed under “Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).”"
-msgstr "La libro Ada & Zangemann: Rakonto pri Programaro, Rultabuloj kaj Framba Glaciaĵo de Matthias Kirschner kaj Sandra Brandstätter, eldonita de No Starch Press, estas licencita sub \"Krea Komunaĵo Atribuite-Samkondiĉe 4.0 Internacia (CC BY-SA 4.0).\""
+msgstr "La libro Ada &amp; Zangemann: Rakonto pri Programaro, Rultabuloj kaj Framba Glaciaĵo de Matthias Kirschner kaj Sandra Brandstätter, eldonita de No Starch Press, estas licencita sub \"Krea Komunaĵo Atribuite-Samkondiĉe 4.0 Internacia (CC BY-SA 4.0).\""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1118
