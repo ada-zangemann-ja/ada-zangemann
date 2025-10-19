@@ -14,13 +14,13 @@ msgstr ""
 #. ISBN of print edition
 #: Ada_Zangemann.dbk:264
 msgid "978-1-7185-0318-2"
-msgstr "978-82-93828-XX-X"
+msgstr "978-82-93828-24-2"
 
 #. (itstool) path: info/biblioid
 #. ISBN of ebook edition
 #: Ada_Zangemann.dbk:265
 msgid "978-1-7185-0319-9"
-msgstr "978-82-93828-XX-X"
+msgstr "978-82-93828-25-9"
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
