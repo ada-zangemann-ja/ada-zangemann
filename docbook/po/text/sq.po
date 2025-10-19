@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2025-10-16 13:07+0000\n"
+"PO-Revision-Date: 2025-10-20 04:54+0000\n"
 "Last-Translator: Erik <erik.ds@fsfe.org>\n"
 "Language-Team: Albanian <https://hosted.weblate.org/projects/fsfe/ada-zangemann/sq/>\n"
 "Language: sq\n"
@@ -160,7 +160,7 @@ msgstr ""
 #. (itstool) id: Ada_Zangemann.dbk#para-back-1
 #: Ada_Zangemann.dbk:332
 msgid "<phrase condition=\"capitals-text\">The</phrase><phrase condition=\"capitals-img\">he</phrase> inventor Zangemann is world-famous and immensely rich. Adults and children alike love his fabulous technical inventions. But one day there is a problem: the children’s electronic skateboards no longer work properly. What’s going on? The curious girl Ada sees through what is going on. Together with her friends, she experiments with hardware and software, and the children forge a plan: Zangemann can no longer be the only one in control of the devices!"
-msgstr "<phrase condition=\"capitals-text\">Zangemanni</phrase><phrase condition=\"capitals-img\">Z</phrase> është një shpikës i famshëm në të gjithë botën dhe jashtëzakonisht i pasur. Fëmijët dhe të rriturit i adhurojnë shpikjet e tij të jashtëzakonshme. Por papritmas, një problem i madh: skateboard-et elektronike të fëmijëve kanë defekte, dhe akulloret kanë vetëm një shije. Çfarë po ndodh? Ada, një vajzë kurioze, do të zbulojë sesi Zangemanni kontrollon produktet e tij nga kompjuteri i artë. Së bashku me miqtë e saj, ajo do të eksperimentojë me objekte të kompjuterizuara që i shpëtojnë vendimeve të Zangemannit. Një libër për fëmijë dhe të rinjtë që mund të përcjellë tek ata gëzimin e eksperimentimit. Një libër mbi lirinë e informatikës, shoqërinë dhe rolin e vajzave në teknologji që promovon autonominë femërore. Një rrëfim i gjallë dhe me ilustrime të jashtëzakonshme."
+msgstr "<phrase condition=\"capitals-text\">Zangemanni</phrase><phrase condition=\"capitals-img\">Z</phrase> është një shpikës i famshëm në të gjithë botën dhe jashtëzakonisht i pasur. Fëmijët dhe të rriturit i adhurojnë shpikjet e tij të jashtëzakonshme. Por papritmas, një problem i madh: skateboard-et elektronike të fëmijëve kanë defekte, dhe akulloret kanë vetëm një shije. Çfarë po ndodh? Ada, një vajzë kurioze, do të zbuloje sesi Zangemanni kontrollon produktet e tij nga kompjuteri i artë. Së bashku me miqtë e saj, ajo do të eksperimentojë me objekte të kompjuterizuara që i shpëtojnë vendimeve të Zangemannit. Një libër për fëmijë dhe të rinjtë që mund të përcjellë tek ata gëzimin e eksperimentimit. Një libër mbi lirinë e informatikës, shoqërinë dhe rolin e vajzave në teknologji që promovon autonominë femërore. Një rrëfim i gjallë dhe me ilustrime të jashtëzakonshme."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:333
@@ -371,7 +371,7 @@ msgstr ""
 #. (itstool) id: Ada_Zangemann.dbk#para-p04-1
 #: Ada_Zangemann.dbk:500
 msgid "<phrase condition=\"capitals-text\">Once</phrase><phrase condition=\"capitals-img\">nce</phrase> upon a time, there was a little girl named Ada. Her family was so poor that all their savings fit inside a cookie jar. They didn’t have enough money to live in a proper home. Instead, Ada lived with her mother and her little brother, Alan, in a cabin near a junkyard on the edge of town."
-msgstr "<phrase condition=\"capitals-text\">Na</phrase><phrase condition=\"capitals-img\"></phrase> ishte njëherë një vajzë e vogël që quhej Ada. Ajo dhe familja e saj ishin aq të varfër, saqë kursimet e tyre i ruanin në një kuti biskotash. Nuk kishin para mjaftueshëm për të jetuar në një shtëpi të vërtetë. Kështu, Ada, nëna e saj dhe vëllai i saj i vogël, Alan, banonin në një kasolle pranë një vendgrumbullimi mbeturinash, në periferi të qytetit."
+msgstr "<phrase condition=\"capitals-text\">Na</phrase><phrase condition=\"capitals-img\"></phrase> ishte njëherë një vajzë e vogël që quhej Ada. Ajo dhe familja e saj ishin aq të varfër, saqë kursimet e tyre i ruanin në një kuti biskotash. Nuk kishin para mjaftueshem për të jetuar në një shtëpi të vërtetë. Kështu, Ada, nëna e saj dhe vëllai i saj i vogël, Alan, banonin në një kasolle pranë një vendgrumbullimi mbeturinash, në periferi të qytetit."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1208,8 +1208,9 @@ msgstr "Sandra gjithmonë e ka dashur punën me dorë: me gërshërë, pinca, ng
 #. (itstool) path: info/title
 #. (itstool) id: Ada_Zangemann.dbk#title-bookswebsite
 #: Ada_Zangemann.dbk:1092
+#, fuzzy
 msgid "Book’s website"
-msgstr ""
+msgstr "Uebfaqja e Librit"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1100
