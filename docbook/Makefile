@@ -427,6 +427,16 @@ validate: docbook-5.1-its.rng docbook-5.1-its.sch Ada_Zangemann-en.dbk
 build/Ada_Zangemann.%.dbk.lint: build/Ada_Zangemann.%.dbk
 	xmllint --noout $<
 
+lulu-nb-book: build/Ada_Zangemann-print-headings-text-colophon-fullpage.nb-scaled.pdf
+
+build/Ada_Zangemann-print-headings-text-colophon-fullpage.nb-scaled.pdf: build/Ada_Zangemann-print-headings-text-colophon-fullpage.nb.sla
+	sed -i -e 's/cropMarks="1"/cropMarks="0"/g' \
+	  -e 's/docInfoMarks="1"/docInfoMarks="0"/' \
+	  templates/template-*.sla
+
+	$(MAKE) build/Ada_Zangemann-print-headings-text-colophon-fullpage.nb.pdf
+	makefile_helpers/pdfScale.sh -s 1.029 build/Ada_Zangemann-print-headings-text-colophon-fullpage.nb.pdf build/Ada_Zangemann-print-headings-text-colophon-fullpage.nb-scaled.pdf
+
 # Generate all translated docbook files and run xmllint on them. Early exit in case of failure.
 .PHONY: quick-check
 quick-check: $(addprefix build/Ada_Zangemann.,$(addsuffix .dbk.lint,$(languages)))
