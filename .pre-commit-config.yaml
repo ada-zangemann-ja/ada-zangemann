@@ -35,11 +35,12 @@ repos:
   hooks:
     - id: proselint
       files: '.*\.md$'
-- repo: https://github.com/markdownlint/markdownlint
-  # Rule documentation: https://github.com/markdownlint/markdownlint/blob/main/docs/RULES.md
-  rev: v0.13.0
+- repo: https://github.com/jackdewinter/pymarkdown
+  # Rule documentation: https://pymarkdown.readthedocs.io/en/latest/rules/
+  rev: v0.9.32
   hooks:
-    - id: markdownlint
+    - id: pymarkdown
+      args: [-d, "MD013", scan]
 - repo: https://github.com/codespell-project/codespell
   rev: v2.4.1
   hooks:
