@@ -6,8 +6,8 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2025-10-02 04:02+0000\n"
-"Last-Translator: Keunes <keunes@mailbox.org>\n"
+"PO-Revision-Date: 2025-10-23 05:24+0000\n"
+"Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/fsfe/ada-zangemann/nl/>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
@@ -714,7 +714,7 @@ msgstr "Programmeren"
 #. (itstool) id: Ada_Zangemann.dbk#para-p22-1
 #: Ada_Zangemann.dbk:703
 msgid "<phrase condition=\"capitals-text\">Over</phrase><phrase condition=\"capitals-img\">ver</phrase> the next few weeks, Ada spent her afternoons in the library. She found books and websites that explained how programming languages and code worked. For Ada, it felt a bit like learning a secret language, or like studying vocabulary in school. Ada ate it all up. She expected her first program to do something simple: “Make this lamp blink!”"
-msgstr "<phrase condition=\"capitals-text\">In</phrase><phrase condition=\"capitals-img\">n</phrase> de daaropvolgende weken bracht Ada haar middagen door in de bibliotheek. Ze vond boeken en websites die uitlegden hoe programmeertalen en code werkte. Voor Ada voelde het een beetje als het leren van een geheimtaal, of het vergroten van de woordenschat op school. Ada kon er geen genoeg van krijgen. Ze verwachtte dat haar eerste programma iets simpels zou doen: ‘Laat dit lampje knipperen!’"
+msgstr "<phrase condition=\"capitals-text\">In</phrase><phrase condition=\"capitals-img\">n</phrase> de daaropvolgende weken bracht Ada haar middagen door in de bibliotheek. Ze vond boeken en websites die uitlegden hoe programmeer­talen en code werkte. Voor Ada voelde het een beetje als het leren van een geheimtaal, of het vergroten van de woordenschat op school. Ada kon er geen genoeg van krijgen. Ze verwachtte dat haar eerste programma iets simpels zou doen: ‘Laat dit lampje knipperen!’"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:704
@@ -741,7 +741,7 @@ msgstr "Ada begint het programmeren te begrijpen. Ze typt op een toetsenbord dat
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:715
 msgid "Ada also had an idea for the next program she would write. It was a bigger deal, a real project. She would probably need the whole summer break for it... And she could hardly wait!"
-msgstr "Ada had ook een idee voor het volgende programma dat ze zou schrijven. Het was iets groters, een echt project. Ze zou er waarschijnlijk de hele zomervakantie voor nodig hebben en ze kon haast niet wachten!"
+msgstr "Ada had ook een idee voor het volgende programma dat ze zou schrijven. Het was iets groters, een echt project. Ze zou er waarschijnlijk de hele zomer­vakantie voor nodig hebben en ze kon haast niet wachten!"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -791,7 +791,7 @@ msgstr "Na voor de honderdste keer gevallen te zijn, ging ze naar de bibliotheek
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:746
 msgid "Back at the junkyard, she adapted some lines of code for her skateboard program. She tweaked a few things and kept tinkering."
-msgstr "Terug op de schroothoop nam ze enkele regels code over voor haar skateboardprogramma. Ze paste nog een paar dingen aan en bleef sleutelen."
+msgstr "Terug op de schroothoop nam ze enkele regels code over voor haar skateboard­programma. Ze paste nog een paar dingen aan en bleef sleutelen."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:747
@@ -987,7 +987,7 @@ msgstr "<phrase condition=\"capitals-text\">De</phrase><phrase condition=\"capit
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:881
 msgid "On the following day, Ada and her friends again sat down in front of the parliament building, this time with support. Some classmates came whose skateboards Ada had reprogrammed. Toni’s father and other parents and adults also wanted to support the protest. They found the children’s devices very useful."
-msgstr "Ook de volgende dag gingen Ada en haar vrienden weer zitten voor het parlementsgebouw. Ditmaal werden ze gesteund. Sommige klasgenoten, waarvoor Ada hun skateboards geherprogrammeerd had, waren ook gekomen. Toni’s vader en andere volwassenen wilden het protest ook steunen. Ze vonden de apparaten van de kinderen erg handig."
+msgstr "Ook de volgende dag gingen Ada en haar vrienden weer zitten voor het parlements­gebouw. Ditmaal werden ze gesteund. Sommige klasgenoten, waarvoor Ada hun skateboards geherprogrammeerd had, waren ook gekomen. Toni’s vader en andere volwassenen wilden het protest ook steunen. Ze vonden de apparaten van de kinderen erg handig."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1071,7 +1071,7 @@ msgstr "Een van Ada’s vrienden light op haar buik met een voet in de lucht en 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:934
 msgid "The next day, the president invited Ada and her friends over. “We also want to be in charge of our software ourselves. In order for that to be true, the government must be independent from Zangemann. Can you tell me what you know about computer programs?” he asked them. Enthusiastically, they explained to him how software works and what you could do with it. The president was amazed."
-msgstr "De volgende dag nodigde de president Ada en haar vrienden uit. ‘We willen ook zelf de controle over onze software hebben. Daarvoor moet de regering onafhankelijk zijn van Zangemann. Kan je me vertellen wat je over computerprogramma’s weet?’, vroeg hij. Enthousiast legden ze hem uit hoe software werkt en wat je er allemaal mee kan doen. De president was verbaasd."
+msgstr "De volgende dag nodigde de president Ada en haar vrienden uit. ‘We willen ook zelf de controle over onze software hebben. Daarvoor moet de regering onafhankelijk zijn van Zangemann. Kan je me vertellen wat je over computer­programma’s weet?’, vroeg hij. Enthousiast legden ze hem uit hoe software werkt en wat je er allemaal mee kan doen. De president was verbaasd."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:937
