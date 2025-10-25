@@ -3,15 +3,15 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2025-10-17 05:49+0000\n"
-"Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
+"PO-Revision-Date: 2025-10-26 08:02+0000\n"
+"Last-Translator: Marco Ciampa <ciampix@posteo.net>\n"
 "Language-Team: Esperanto <https://hosted.weblate.org/projects/fsfe/ada-zangemann/eo/>\n"
 "Language: eo\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.14-dev\n"
+"X-Generator: Weblate 5.14.1-dev\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
@@ -31,7 +31,7 @@ msgstr "Ada &amp; Zangemann"
 #. (itstool) path: cover/bridgehead
 #: Ada_Zangemann.dbk:263 Ada_Zangemann.dbk:307
 msgid "A Tale of Software, Skateboards, and Raspberry Ice Cream"
-msgstr "Rakonto pri programaro, rultabuloj, kaj framba glaciaĵo"
+msgstr "Rakonto pri programaro, rultabuloj kaj framba glaciaĵo"
 
 #. (itstool) path: info/biblioid
 #. ISBN of print edition
@@ -146,7 +146,7 @@ msgstr "S-ino Gernet"
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:320
 msgid "Ada &amp; Zangemann - A Tale of Software, Skateboards, and Raspberry Ice Cream. By Matthias Kirschner and Sandra Brandstätter. On a mostly desaturated dark cyan background, in a frame composed of sometimes curled white lines that connect a mouse, a keyboard, and a pink smartphone, Ada and Zangemann are facing each other, both with their hands on their hips as a sign of challenge. Ada is smiling and Zangemann is frowning. Ada has black hair collected in two big right- and left-bound ringlets with red rubber bands, and red cheeks. She has little yellow stud earrings. She wears cyan and white horizontal striped shorts and a yellow shirt over a white undershirt that ends with embroidery that goes beyond the shirt. The shirt and undershirt come out over the shorts. Above the shirt Ada wears a blue hoodie. Ada is wearing red shoes with white tips and soles, and short white socks. She has one foot on a skateboard and the other on the ground. Zangemann has short gray hair and square glasses. He is wearing a purple turtle-neck sweater, light blue pants turned up, brown shoes, and white socks. He’s wearing a big tech watch. Above Zangemann there are a pair of pliers with red handles crossing the wire frame."
-msgstr "Ada kaj Zangemann - Rakonto pri programaro, rultabuloj kaj framba glaciaĵo. De Matthias Kirschner kaj Sandra Brandstätter. Sur plejparte nesaturita malhela cejana fono, en kadro konsistanta el kelkfoje krispaj blankaj linioj, kiuj konektas muson, klavaron kaj rozkoloran inteligentan telefonon, Ada kaj Zangemann staras unu al la alia, ambaŭ kun la manoj sur la koksoj kiel signo de defio. Ada ridetas kaj Zangemann sulkas. Ada havas nigran hararon kolektitan en du grandajn dekstra- kaj maldekstra-laŭtune buklojn kun ruĝaj kaŭĉukaj bendoj, kaj ruĝajn vangojn. Ŝi havas malgrandajn flavajn orelringojn. Ŝi portas cejanajn kaj blankajn horizontale striitajn ŝortojn kaj flavan ĉemizon super blanka subĉemizo, kiu finiĝas per brodaĵo, kiu etendiĝas preter la ĉemizo. La ĉemizo kaj subĉemizo elstaras super la ŝortoj. Super la ĉemizo, Ada portas bluan ŝvitĉemizon kun kapuĉo. Ada portas ruĝajn ŝuojn kun blankaj pintoj kaj plandoj, kaj mallongajn blankajn ŝtrumpetojn. Ŝi havas unu piedon sur rultabulo kaj la alian sur la tero. Zangemann havas mallongajn grizajn harojn kaj kvadratajn okulvitrojn. Li portas purpuran sveteron kun rulkolumo, helbluajn pantalonojn suprenfaldigitajn, brunajn ŝuojn kaj blankajn ŝtrumpetojn. Li portas grandan teknologian horloĝon. Super Zangemann estas pinĉilo kun ruĝaj teniloj, kiuj transiras la dratan kadron."
+msgstr "Ada kaj Zangemann - Rakonto pri programaro, rultabuloj kaj framba glaciaĵo. De Matthias Kirschner kaj Sandra Brandstätter. Sur plejparte nesaturita malhela cejana fono, en kadro konsistanta el kelkfoje krispaj blankaj linioj, kiuj konektas muson, klavaron kaj rozkoloran inteligentan telefonon, Ada kaj Zangemann staras unu al la alia, ambaŭ kun la manoj sur la koksoj kiel signo de defio. Ada ridetas kaj Zangemann sulkas. Ada havas nigran hararon kolektitan en du grandajn dekstra- kaj maldekstra-laŭtune buklojn kun ruĝaj kaŭĉukaj bendoj kaj ruĝajn vangojn. Ŝi havas malgrandajn flavajn orelringojn. Ŝi portas cejanajn kaj blankajn horizontale striitajn ŝortojn kaj flavan ĉemizon super blanka subĉemizo, kiu finiĝas per brodaĵo, kiu etendiĝas preter la ĉemizo. La ĉemizo kaj subĉemizo elstaras super la ŝortoj. Super la ĉemizo, Ada portas bluan ŝvitĉemizon kun kapuĉo. Ada portas ruĝajn ŝuojn kun blankaj pintoj kaj plandoj kaj mallongajn blankajn ŝtrumpetojn. Ŝi havas unu piedon sur rultabulo kaj la alian sur la tero. Zangemann havas mallongajn grizajn harojn kaj kvadratajn okulvitrojn. Li portas purpuran sveteron kun rulkolumo, helbluajn pantalonojn suprenfaldigitajn, brunajn ŝuojn kaj blankajn ŝtrumpetojn. Li portas grandan teknologian horloĝon. Super Zangemann estas pinĉilo kun ruĝaj teniloj, kiuj transiras la dratan kadron."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -159,7 +159,7 @@ msgstr "Elektra lutilo kaj broso kaj ladskatolo kun flava farbo, konektitaj per 
 #. (itstool) id: Ada_Zangemann.dbk#para-back-1
 #: Ada_Zangemann.dbk:332
 msgid "<phrase condition=\"capitals-text\">The</phrase><phrase condition=\"capitals-img\">he</phrase> inventor Zangemann is world-famous and immensely rich. Adults and children alike love his fabulous technical inventions. But one day there is a problem: the children’s electronic skateboards no longer work properly. What’s going on? The curious girl Ada sees through what is going on. Together with her friends, she experiments with hardware and software, and the children forge a plan: Zangemann can no longer be the only one in control of the devices!"
-msgstr "<phrase condition=\"capitals-text\">La</phrase><phrase condition=\"capitals-img\">a</phrase> inventisto Zangemann estas mondfama kaj ege riĉa. Plenkreskuloj kaj infanoj egale amas liajn mirindajn teknikajn inventaĵojn. Sed unu tagon aperas problemo: la elektronikaj rultabuloj de la infanoj jam ne funkcias ĝuste. Kio okazas? La scivolema knabino Ada travidas tion, kio okazas. Kune kun siaj amikoj, ŝi eksperimentas kun aparataro kaj programaro, kaj la infanoj elpensas planon: Zangemann jam ne plu povas esti la sola, kiu regas la aparatojn!"
+msgstr "<phrase condition=\"capitals-text\">La</phrase><phrase condition=\"capitals-img\">a</phrase> inventisto Zangemann estas mondfama kaj ege riĉa. Plenkreskuloj kaj infanoj egale amas liajn mirindajn teknikajn inventaĵojn. Sed unu tagon aperas problemo: la elektronikaj rultabuloj de la infanoj jam ne funkcias ĝuste. Kio okazas? La scivolema knabino Ada travidas tion, kio okazas. Kune kun siaj amikoj, ŝi eksperimentas per aparataro kaj programaro; la infanoj elpensas planon: Zangemann jam ne plu povas esti la sola, kiu regas la aparatojn!"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:333
@@ -234,15 +234,15 @@ msgstr ""
 "\n"
 "Ĉi tiu libro de Matthias Kirschner (aŭtoro) kaj Sandra Brandstätter (ilustristino) estas licencita sub <emphasis role=\"bold\">Creative Commons CC-BY-SA</emphasis>, libera kultura licenco.\n"
 "\n"
-"<emphasis role=\"bold\">Vi rajtas</emphasis> kunhavigi, kopii kaj redistribui la materialon en iu ajn komunikilo aŭ formato. <emphasis role=\"bold\">Vi rajtas</emphasis> adapti, remiksi, transformi kaj konstrui sur la materialo por iu ajn celo, eĉ komerce. <emphasis role=\"bold\">Vi devas</emphasis> doni taŭgan krediton, provizi ligilon al la permesilo, kaj indiki ĉu ŝanĝoj estis faritaj.\n"
+"<emphasis role=\"bold\">Vi rajtas</emphasis> kunhavigi, kopii kaj redistribui la materialon en iu ajn komunikilo aŭ formato. <emphasis role=\"bold\">Vi rajtas</emphasis> adapti, remiksi, transformi kaj konstrui sur la materialo por iu ajn celo, eĉ komerce. <emphasis role=\"bold\">Vi devas</emphasis> doni taŭgan krediton, provizi ligilon al la permesilo kaj indiki ĉu ŝanĝoj estis faritaj.\n"
 "\n"
 "<emphasis role=\"bold\">Vi rajtas</emphasis> fari tion laŭ iu ajn racia maniero, sed ne laŭ iu ajn maniero, kiu sugestas, ke la licencanto aprobas vin aŭ vian uzon. Se vi remiksas, transformas aŭ konstruas surbaze de la materialo, <emphasis role=\"bold\">vi devas</emphasis> distribui viajn kontribuojn sub la sama permesilo kiel la originalo. (Ĉi tio estas homlegebla resumo de - kaj ne anstataŭaĵo por - la \"jura kodo\" de CC-BY-SA 4.0.)\n"
 "\n"
 "Plue por remiksaj versioj (derivitaj verkoj), la licencanto petas vin ne fari iujn ajn modifojn al la personaj agnoskoj de la aŭtoro kaj la mallongaj biografioj de la aŭtoro kaj ilustristo, anstataŭe bonvolu tute forigi tiujn partojn de via remiksa versio.\n"
 "\n"
-"Publikigo sub ĉi tiu libera kultura licenco eblis pro la granda subteno de dpunkt.verlag GmbH / O’Reilly Media, Inc. por la germana libro kaj No Starch Press por la angla libro. Bedaŭrinde, licencoj Creative Commons estas ankoraŭ maloftaj esceptoj por komerce publikigitaj libroj, kaj ofte konsiderataj revoluciaj kaj riskaj de eldonistoj.\n"
+"Publikigo sub ĉi tiu libera kultura licenco eblis pro la granda subteno de dpunkt.verlag GmbH / O’Reilly Media, Inc. por la germana libro kaj No Starch Press por la angla libro. Bedaŭrinde, licencoj Creative Commons estas ankoraŭ maloftaj esceptoj por komerce publikigitaj libroj kaj ofte konsiderataj revoluciaj kaj riskaj de eldonistoj.\n"
 "\n"
-"<emphasis role=\"bold\">Granda danko</emphasis> al <emphasis role=\"bold\">dpunkt.verlag</emphasis> kaj <emphasis role=\"bold\">No Starch Press</emphasis> pro kompreno de la valoroj de programara libereco, pro la tempo dediĉita al diskutado kaj kompreno de la avantaĝoj de liberaj kulturaj licencoj, kaj pro la granda subteno por publikigi ĉi tiun libron sub kondiĉoj, kiuj respektas la valorojn de FSFE."
+"<emphasis role=\"bold\">Granda danko</emphasis> al <emphasis role=\"bold\">dpunkt.verlag</emphasis> kaj <emphasis role=\"bold\">No Starch Press</emphasis> pro kompreno de la valoroj de programara libereco, pro la tempo dediĉita al diskutado kaj kompreno de la avantaĝoj de liberaj kulturaj licencoj kaj pro la granda subteno por publikigi ĉi tiun libron sub kondiĉoj, kiuj respektas la valorojn de FSFE."
 
 #. (itstool) path: simplesect/literallayout
 #. Full page colophon. Intended for print use, as an alternative to the
@@ -325,7 +325,7 @@ msgstr ""
 "Ĉefa Redaktoro: Jill Franklin\n"
 "Produktada Redaktoro: Jennifer Kepler\n"
 "Redaktoro: Wiebke Helmchen\n"
-"Kolorhelpo: Olga Biryukova, Noémi Sárkány, Nathalie Scattolon, Kristina Haidinger, kaj Jasmin Schlögl\n"
+"Kolorhelpo: Olga Biryukova, Noémi Sárkány, Nathalie Scattolon, Kristina Haidinger kaj Jasmin Schlögl\n"
 "Kovrila Dezajno: Sandra Brandstätter kaj Susan Brown\n"
 "Komponisto: Maureen Forys, Happenstance Type-O-Rama\n"
 "\n"
@@ -342,21 +342,21 @@ msgstr ""
 "\n"
 "La informoj en ĉi tiu libro estas distribuitaj \"Kiel Estas\", sen garantio. Kvankam ĉiu antaŭzorgo estis prenita dum la preparado de ĉi tiu verko, nek la aŭtoro nek No Starch Press, Inc. havos respondecon al iu ajn persono aŭ ento rilate al iu ajn perdo aŭ damaĝo kaŭzita aŭ supozeble kaŭzita rekte aŭ nerekte de la informoj en ĝi.\n"
 "\n"
-"Ĉiuj roluloj en ĉi tiu publikaĵo estas fikciaj, kaj iu ajn simileco al realaj personoj, vivantaj aŭ mortintaj, estas pure hazarda.\n"
+"Ĉiuj roluloj en ĉi tiu publikaĵo estas fikciaj kaj iu ajn simileco al realaj personoj, vivantaj aŭ mortintaj, estas pure hazarda.\n"
 "\n"
 "**\n"
 "\n"
 "Ĉi tiu libro de Matthias Kirschner (aŭtoro) kaj Sandra Brandstätter (ilustristino) estas licencita sub <emphasis role=\"bold\">Creative Commons CC-BY-SA</emphasis>, libera kultura permesilo.\n"
 "\n"
-"<emphasis role=\"bold\">Vi rajtas</emphasis> dividi, kopii kaj redistribui la materialon en iu ajn komunikilo aŭ formato. <emphasis role=\"bold\">Vi rajtas</emphasis> adapti, remiksi, transformi kaj konstrui sur la materialo por iu ajn celo, eĉ komerce. <emphasis role=\"bold\">Vi devas</emphasis> doni taŭgan krediton, provizi ligilon al la permesilo, kaj indiki ĉu ŝanĝoj estis faritaj.\n"
+"<emphasis role=\"bold\">Vi rajtas</emphasis> dividi, kopii kaj redistribui la materialon en iu ajn komunikilo aŭ formato. <emphasis role=\"bold\">Vi rajtas</emphasis> adapti, remiksi, transformi kaj konstrui sur la materialo por iu ajn celo, eĉ komerce. <emphasis role=\"bold\">Vi devas</emphasis> doni taŭgan krediton, provizi ligilon al la permesilo kaj indiki ĉu ŝanĝoj estis faritaj.\n"
 "\n"
 "<emphasis role=\"bold\">Vi rajtas</emphasis> fari tion laŭ iu ajn racia maniero, sed ne laŭ iu ajn maniero, kiu sugestas, ke la licencanto aprobas vin aŭ vian uzon. Se vi remiksas, transformas aŭ konstruas surbaze de la materialo, <emphasis role=\"bold\">vi devas</emphasis> distribui viajn kontribuojn sub la sama permesilo kiel la originalo. (Ĉi tio estas homlegebla resumo de - kaj ne anstataŭaĵo por - la \"jura kodo\" de CC-BY-SA 4.0.)\n"
 "\n"
 "Plue por remiksaj versioj (derivitaj verkoj), la licencanto petas vin ne fari iujn ajn modifojn al la personaj agnoskoj de la aŭtoro kaj la mallongaj biografioj de la aŭtoro kaj ilustristo, anstataŭe bonvolu tute forigi tiujn partojn de via remiksa versio.\n"
 "\n"
-"Publikigo sub ĉi tiu libera kultura licenco eblis pro la granda subteno de dpunkt.verlag GmbH / O’Reilly Media, Inc. por la germana libro kaj No Starch Press por la angla libro. Bedaŭrinde, licencoj Creative Commons estas ankoraŭ maloftaj esceptoj por komerce publikigitaj libroj, kaj ofte konsiderataj revoluciaj kaj riskaj de eldonistoj.\n"
+"Publikigo sub ĉi tiu libera kultura licenco eblis pro la granda subteno de dpunkt.verlag GmbH / O’Reilly Media, Inc. por la germana libro kaj No Starch Press por la angla libro. Bedaŭrinde, licencoj Creative Commons estas ankoraŭ maloftaj esceptoj por komerce publikigitaj libroj kaj ofte konsiderataj revoluciaj kaj riskaj de eldonistoj.\n"
 "\n"
-"<emphasis role=\"bold\">Granda danko</emphasis> al <emphasis role=\"bold\">dpunkt.verlag</emphasis> kaj <emphasis role=\"bold\">No Starch Press</emphasis> pro kompreno de la valoroj de programara libereco, pro la tempo dediĉita al diskutado kaj kompreno de la avantaĝoj de liberaj kulturaj licencoj, kaj pro la granda subteno por publikigi ĉi tiun libron sub kondiĉoj, kiuj respektas la valorojn de FSFE."
+"<emphasis role=\"bold\">Granda danko</emphasis> al <emphasis role=\"bold\">dpunkt.verlag</emphasis> kaj <emphasis role=\"bold\">No Starch Press</emphasis> pro kompreno de la valoroj de programara libereco, pro la tempo dediĉita al diskutado kaj kompreno de la avantaĝoj de liberaj kulturaj licencoj kaj pro la granda subteno por publikigi ĉi tiun libron sub kondiĉoj, kiuj respektas la valorojn de FSFE."
 
 #. (itstool) path: simplesect/literallayout
 #. Grey section in the bottom of half page colophon.
@@ -436,7 +436,7 @@ msgid ""
 "Raspberry Ice Cream"
 msgstr ""
 "Rakonto pri\n"
-"programaro, rultabuloj, kaj\n"
+"programaro, rultabuloj kaj\n"
 "framba glaciaĵo"
 
 #. (itstool) path: simplesect/para
@@ -450,7 +450,7 @@ msgstr "<phrase condition=\"capitals-text\">Iam</phrase><phrase condition=\"capi
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:508
 msgid "Ada in foreground leaving the house to go to school, in the background Ada’s house and the junkyard. Ada has a brown backpack with yellow shoulder straps. To the left of Ada there is a red car, a Volkswagen Beetle, without wheels and no longer working, with one of the headlights remaining attached only with its wires. On the left, in front of the car, there are two tires, two boxes – one of which is a wooden box with an overturned bucket –, and an empty can, all among some plants with yellow flowers. In the background there is Ada’s house, with her mother and her brother Alan waving goodbye, and the dog sitting on the ground. Alan is sitting on the two entrance steps of the house. He has short dark hair and is dressed in a white short-sleeved shirt with a red stripe at the edges of the sleeves and two red stripes at the bottom of the shirt. Alan wears blue shorts and he is barefoot. Ada’s mom has dark lipstick and long black hair in a white headband. She is wearing a short blue shirt with white trim, white pants, and yellow shoes. Ada’s house is built of wood, with the front being white. The roof is dark red corrugated sheeting. There are two windows in front in addition to the door, and another window on the left side. A yellow duck stands on top of the roof, while a gray chimney protrudes. An antenna on the left of the roof supports a clothesline on which red clothespins hold a green tank top, a pair of light blue pants, and white underpants. To the right of the house there is a veranda on which there is installed a solar panel. Under the veranda there are a mattress, a red oil drum, and a gray case. Behind the house there are piles of landfill objects among which you can see a washing machine, a car, and various wooden boards."
-msgstr "Ada en la malfono forlasas la domon por iri al la lernejo, en la fono la domo de Ada kaj la rubodeponejo. Ada havas brunan dorsosakon kun flavaj ŝultrorimenoj. Maldekstre de Ada estas ruĝa aŭto, Skarabo de Volkswagen, sen radoj kaj ne plu funkcianta, kun unu el la antaŭaj lampoj restanta nur per siaj dratoj. Maldekstre, antaŭ la aŭto, estas du pneŭoj, du skatoloj - unu el kiuj estas ligna skatolo kun renversita sitelo -, kaj malplena ladskatolo, ĉio inter kelkaj plantoj kun flavaj floroj. En la fono estas la domo de Ada, kun ŝia patrino kaj ŝia frato Alan adiaŭantaj, kaj la hundo sidanta sur la tero. Alan sidas sur la du enirejaj ŝtupoj de la domo. Li havas mallongajn malhelajn harojn kaj estas vestita per blanka mallongmanika ĉemizo kun ruĝa strio ĉe la randoj de la manikoj kaj du ruĝaj strioj ĉe la fundo de la ĉemizo. Alan portas bluajn pantalonetojn kaj li estas nudpieda. La patrino de Ada havas malhelan lipoŝminkon kaj longajn nigrajn harojn en blanka harbendo. Ŝi portas mallongan bluan ĉemizon kun blanka bordero, blankajn pantalonojn kaj flavajn ŝuojn. La domo de Ada estas konstruita el ligno, kun blanka fronto. La tegmento estas malhelruĝa el ondumita plataĵo. Estas du fenestroj antaŭe krom la pordo, kaj alia fenestro maldekstre. Flava anaso staras sur la tegmento, dum griza kamentubo elstaras. Anteno maldekstre de la tegmento subtenas ŝnuron por lavtukoj, sur kiu ruĝaj pinĉiloj tenas verdan senmanikan ĉemizon, paron da helbluaj pantalonoj kaj blankajn subvestojn. Dekstre de la domo estas verando, sur kiu estas instalita sunpanelo. Sub la verando estas matraco, ruĝa oleujo kaj griza ujo. Malantaŭ la domo estas amasoj da rubodeponejoj, inter kiuj videblas lavmaŝino, aŭto kaj diversaj lignaj tabuloj."
+msgstr "Ada en la malfono forlasas la domon por iri al la lernejo, en la fono la domo de Ada kaj la rubodeponejo. Ada havas brunan dorsosakon kun flavaj ŝultrorimenoj. Maldekstre de Ada estas ruĝa aŭto, Skarabo de Volkswagen, sen radoj kaj ne plu funkcianta, kun unu el la antaŭaj lampoj restanta nur per siaj dratoj. Maldekstre, antaŭ la aŭto, estas du pneŭoj, du skatoloj - unu el kiuj estas ligna skatolo kun renversita sitelo - kaj malplena ladskatolo, ĉio inter kelkaj plantoj kun flavaj floroj. En la fono estas la domo de Ada, kun ŝia patrino kaj ŝia frato Alan adiaŭantaj kaj la hundo sidanta sur la tero. Alan sidas sur la du enirejaj ŝtupoj de la domo. Li havas mallongajn malhelajn harojn kaj estas vestita per blanka mallongmanika ĉemizo kun ruĝa strio ĉe la randoj de la manikoj kaj du ruĝaj strioj ĉe la fundo de la ĉemizo. Alan portas bluajn pantalonetojn kaj li estas nudpieda. La patrino de Ada havas malhelan lipoŝminkon kaj longajn nigrajn harojn en blanka harbendo. Ŝi portas mallongan bluan ĉemizon kun blanka bordero, blankajn pantalonojn kaj flavajn ŝuojn. La domo de Ada estas konstruita el ligno, kun blanka fronto. La tegmento estas malhelruĝa el ondumita plataĵo. Estas du fenestroj antaŭe krom la pordo kaj alia fenestro maldekstre. Flava anaso staras sur la tegmento, dum griza kamentubo elstaras. Anteno maldekstre de la tegmento subtenas ŝnuron por lavtukoj, sur kiu ruĝaj pinĉiloj tenas verdan senmanikan ĉemizon, paron da helbluaj pantalonoj kaj blankajn subvestojn. Dekstre de la domo estas verando, sur kiu estas instalita sunpanelo. Sub la verando estas matraco, ruĝa oleujo kaj griza ujo. Malantaŭ la domo estas amasoj da rubodeponejoj, inter kiuj videblas lavmaŝino, aŭto kaj diversaj lignaj tabuloj."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -462,7 +462,7 @@ msgstr "Prestiĝaj revuoj (“STELOJ”, “MONO”, “Plej Riĉa Viro”) sur 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:518
 msgid "Far away, at the other end of town, lived a famous inventor named Zangemann. He was immensely rich. No sheet of paper in the world was big enough to show his bank balance with all its numbers and zeros! He lived in a huge house with a swimming pool and waterslide, lots of staircases and towers, hundreds of windows, and so many rooms that he often got lost in them himself. Zangemann’s mansion stood high on a hill. From there, he could look out over the whole city."
-msgstr "Malproksime, ĉe la alia ekstremaĵo de la urbo, loĝis fama inventisto nomita Zangemann. Li estis ege riĉa. Neniu paperfolio en la mondo estis sufiĉe granda por montri lian bankkonton kun ĉiuj ĝiaj nombroj kaj nuloj! Li loĝis en grandega domo kun naĝejo kaj akvoglitejo, multaj ŝtuparoj kaj turoj, centoj da fenestroj, kaj tiom da ĉambroj, ke li mem ofte perdiĝis en ili. La domego de Zangemann staris alte sur monteto. De tie, li povis rigardi la tutan urbon."
+msgstr "Malproksime, ĉe la alia ekstremaĵo de la urbo, loĝis fama inventisto nomita Zangemann. Li estis ege riĉa. Neniu paperfolio en la mondo estis sufiĉe granda por montri lian bankkonton kun ĉiuj ĝiaj nombroj kaj nuloj! Li loĝis en grandega domo kun naĝejo kaj akvoglitejo, multaj ŝtuparoj kaj turoj, centoj da fenestroj kaj tiom da ĉambroj, ke li mem ofte perdiĝis en ili. La domego de Zangemann staris alte sur monteto. De tie, li povis rigardi la tutan urbon."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:523
@@ -473,7 +473,7 @@ msgstr "Zangemann kaj komputiloj"
 #. (itstool) id: Ada_Zangemann.dbk#para-p06-1
 #: Ada_Zangemann.dbk:527
 msgid "<phrase condition=\"capitals-text\">Computers</phrase><phrase condition=\"capitals-img\">omputers</phrase> had fascinated Zangemann ever since he was a child. When he was young, computers were huge machines with lots of cables and loud, noisy fans. At school, little Zangemann often dreamed of all the things he would do with computers if they were just a little bit smaller — small enough that they could be built into other fun things. He knew what he would do. First, he would build a computer into his skateboard so that it would make cool noises when he rode it — maybe a fire engine siren or the sound of a rocket launch. Then he would use a computer to invent ice‑cream-making machines! The computer would mix the coolest flavors and even sell the ice cream. There would be machines on every street corner, and he could get ice cream in his favorite flavor whenever he felt like it, and just as much as he wanted. After that, he’d build a cleaning robot and a block-sorting machine so that his room would always be neat and clean. Zangemann had great new ideas like these every day. He could think of nothing else."
-msgstr "<phrase condition=\"capitals-text\">Komputiloj</phrase><phrase condition=\"capitals-img\">omputiloj</phrase> fascinis Zangemann-on ekde kiam li estis infano. Kiam li estis juna, komputiloj estis grandegaj maŝinoj kun multaj kabloj kaj laŭtaj, bruaj ventoliloj. En la lernejo, la malgranda Zangemann ofte revis pri ĉio, kion li farus per komputiloj se ili estus nur iom pli malgrandaj - sufiĉe malgrandaj por ke ili povu esti enigitaj en aliajn amuzajn aferojn. Li sciis, kion li farus. Unue, li enkonstruus komputilon en sian rultabulon, por ke ĝi faru malvarmetajn sonojn kiam li rajdus ĝin - eble pumpo-kamiona sireno aŭ la sono de raketo-lanĉo. Poste li uzus komputilon por inventi glaciaj-farajn maŝinojn! La komputilo miksus la plej malvarmetajn gustojn kaj eĉ vendus la glaciaĵon. Estus maŝinoj ĉe ĉiu stratangulo, kaj li povus akiri glaciaĵon en sia plej ŝatata gusto kiam ajn li volus, kaj tiom, kiom li dezirus. Post tio, li konstruus purigan roboton kaj bloko-sortigan maŝinon, por ke lia ĉambro ĉiam estu orda kaj pura. Zangemann havis bonegajn novajn ideojn kiel tiaj ĉi ĉiutage. Li povis pensi pri nenio alia."
+msgstr "<phrase condition=\"capitals-text\">Komputiloj</phrase><phrase condition=\"capitals-img\">omputiloj</phrase> fascinis Zangemann-on ekde kiam li estis infano. Kiam li estis juna, komputiloj estis grandegaj maŝinoj kun multaj kabloj kaj laŭtaj, bruaj ventoliloj. En la lernejo, la malgranda Zangemann ofte revis pri ĉio, kion li farus per komputiloj se ili estus nur iom pli malgrandaj - sufiĉe malgrandaj por ke ili povu esti enigitaj en aliajn amuzajn aferojn. Li sciis, kion li farus. Unue, li enkonstruus komputilon en sian rultabulon, por ke ĝi faru malvarmetajn sonojn kiam li rajdus ĝin - eble pumpo-kamiona sireno aŭ la sono de raketo-lanĉo. Poste li uzus komputilon por inventi glaciaĵ-farajn maŝinojn! La komputilo miksus la plej malvarmetajn gustojn kaj eĉ vendus la glaciaĵon. Estus maŝinoj ĉe ĉiu stratangulo kaj li povus akiri glaciaĵon en sia plej ŝatata gusto kiam ajn li volus kaj tiom, kiom li dezirus. Post tio, li konstruus purigan roboton kaj bloko-sortigan maŝinon, por ke lia ĉambro ĉiam estu orda kaj pura. Zangemann havis bonegajn novajn ideojn kiel tiaj ĉi ĉiutage. Li povis pensi pri nenio alia."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:528
@@ -485,19 +485,19 @@ msgstr "Dum la jaroj, Zangemann kreskis kaj komputiloj fariĝis pli malgrandaj. 
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:535
 msgid "Zangemann as a child on a chair at a school table. From his head come six bubbles in which there are his ideas of places in which to insert computers: a video call system, a speaker, a washing machine, a skateboard with radio control on a big computer monitor, a wrist computer, and a shoulder computer with a monitor and keyboard. Zangemann has gray hair, a dark purple shirt with blue horizontal stripes, blue shorts, brown shoes and white socks. He wears glasses and a big watch on his left wrist. On the table there are an open notebook, a yellow pencil, and an eraser, while hanging on the side of the table there is his brown briefcase."
-msgstr "Zangemann kiel infano sur seĝo ĉe lerneja tablo. El lia kapo venas ses vezikoj en kiuj estas liaj ideoj pri lokoj kie enmeti komputilojn: videolaŭtsistemon, laŭtparolilon, lavmaŝinon, rultabulon kun radio-regilo sur granda komputila ekrano, pojno-komputilon, kaj ŝultro-komputilon kun ekrano kaj klavaro. Zangemann havas grizajn harojn, malhelviolkoloran ĉemizon kun bluaj horizontalaj strioj, bluajn pantalonetojn, brunajn ŝuojn kaj blankajn ŝtrumpetojn. Li portas okulvitrojn kaj grandan horloĝon sur sia maldekstra pojno. Sur la tablo estas malfermita kajero, flava krajono kaj skrapgumo, dum flanke de la tablo pendas lia bruna teko."
+msgstr "Zangemann kiel infano sur seĝo ĉe lerneja tablo. El lia kapo venas ses vezikoj en kiuj estas liaj ideoj pri lokoj kie enmeti komputilojn: videolaŭtsistemon, laŭtparolilon, lavmaŝinon, rultabulon kun radio-regilo sur granda komputila ekrano, pojno-komputilon kaj ŝultro-komputilon kun ekrano kaj klavaro. Zangemann havas grizajn harojn, malhelviolkoloran ĉemizon kun bluaj horizontalaj strioj, bluajn pantalonetojn, brunajn ŝuojn kaj blankajn ŝtrumpetojn. Li portas okulvitrojn kaj grandan horloĝon sur sia maldekstra pojno. Sur la tablo estas malfermita kajero, flava krajono kaj skrapgumo, dum flanke de la tablo pendas lia bruna teko."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:540
 msgid "“Finally, I can turn all my ideas into real things!” Zangemann exclaimed, and he got right to work. He found ways to put the small computers into all kinds of things to make them even more fun and useful. And then he sold them."
-msgstr "“Finfine, mi povas transformi ĉiujn miajn ideojn en realajn aferojn!” Zangemann ekkriis, kaj li tuj eklaboris. Li trovis manierojn enmeti la malgrandajn komputilojn en ĉiajn aferojn por igi ilin eĉ pli amuzaj kaj utilaj. Kaj poste li vendis ilin."
+msgstr "“Finfine, mi povas transformi ĉiujn miajn ideojn en realajn aferojn!” Zangemann ekkriis kaj li tuj eklaboris. Li trovis manierojn enmeti la malgrandajn komputilojn en ĉiajn aferojn por igi ilin eĉ pli amuzaj kaj utilaj. Kaj poste li vendis ilin."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:545
 msgid "Zangemann original ice cream machine. It is ice blue in color and is similar to a vending machine of drinks, but instead of the cup there is a cone that is filled with ice cream. Above the dispenser there is a monitor showing the variety that is distributed, in this case pineapple ice cream. On the left there are the slot for inserting coins, the various buttons to choose the flavor, and the hole for returning coins. At the top there is a round white sign with a scoop of candy-pink ice cream in a cone. On the back of the machine there is the refrigeration machinery with the “Z” of the Zangemann logo."
-msgstr "Originala glaciaĵmaŝino de Zangemann. Ĝi estas glaciblua kaj similas al vendmaŝino de trinkaĵoj, sed anstataŭ la taso estas konuso plenigita per glaciaĵo. Super la disdonilo estas ekrano montranta la distribuatan varion, en ĉi tiu kazo ananasan glaciaĵon. Maldekstre estas la fendo por enmeti monerojn, la diversaj butonoj por elekti la guston, kaj la truo por redoni monerojn. Supre estas ronda blanka ŝildo kun kulero da bombonrozkolora glaciaĵo en konuso. Sur la malantaŭo de la maŝino estas la fridiga maŝinaro kun la \"Z\" de la Zangemann-emblemo."
+msgstr "Originala glaciaĵmaŝino de Zangemann. Ĝi estas glaciblua kaj similas al vendmaŝino de trinkaĵoj, sed anstataŭ la taso estas konuso plenigita per glaciaĵo. Super la disdonilo estas ekrano montranta la distribuatan varion, en ĉi tiu kazo ananasan glaciaĵon. Maldekstre estas la fendo por enmeti monerojn, la diversaj butonoj por elekti la guston kaj la truo por redoni monerojn. Supre estas ronda blanka ŝildo kun kulero da bombonrozkolora glaciaĵo en konuso. Sur la malantaŭo de la maŝino estas la fridiga maŝinaro kun la \"Z\" de la Zangemann-emblemo."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:547
@@ -521,12 +521,12 @@ msgstr "Ada ludas kun objektoj en sia improvizita laboratorio. Ada sidas sur ren
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:562
 msgid "These inventions were very popular at Ada’s school, and many of her friends rode around on the cool skateboards. Ada was often sad, since her mother couldn’t buy her any of those great things: no skateboard, no speakers, no ice cream."
-msgstr "Ĉi tiuj inventaĵoj estis tre popularaj en la lernejo de Ada, kaj multaj el ŝiaj amikoj rajdis ĉirkaŭe sur la mojosaj rultabuloj. Ada ofte estis malĝoja, ĉar ŝia patrino ne povis aĉeti al ŝi iujn ajn el tiuj bonegaĵoj: nek rultabulon, nek laŭtparolilojn, nek glaciaĵon."
+msgstr "Ĉi tiuj inventaĵoj estis tre popularaj en la lernejo de Ada kaj multaj el ŝiaj amikoj rajdis ĉirkaŭe sur la mojosaj rultabuloj. Ada ofte estis malĝoja, ĉar ŝia patrino ne povis aĉeti al ŝi iujn ajn el tiuj bonegaĵoj: nek rultabulon, nek laŭtparolilojn, nek glaciaĵon."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:564
 msgid "Luckily, Ada lived right next to the junkyard. There were lots of broken gadgets and rusty parts, which she put together to make cool new things, like a soapbox she and Alan rode roaring down the hill, a windmill, and scary junk monsters, which she and Alan would fight together. She also found many useful items—an old cell phone, for example. The screen was cracked, but she could fix that, and while there wasn’t internet at the junkyard, she could get access somewhere else."
-msgstr "Bonŝance, Ada loĝis tuj apud la rubejo. Tie estis multaj rompitaj aparatoj kaj rustaj partoj, kiujn ŝi kunmetis por fari mojosajn novajn aferojn, kiel ekzemple keston, kiun ŝi kaj Alan rajdis muĝante laŭ la monteto, ventomuelejon, kaj timigajn ruba-monstrojn, kiujn ŝi kaj Alan batalis kune. Ŝi ankaŭ trovis multajn utilajn objektojn - ekzemple malnovan poŝtelefonon. La ekrano estis fendita, sed ŝi povis ripari tion, kaj kvankam ne estis interreto ĉe la rubodeponejo, ŝi povis akiri aliron aliloke."
+msgstr "Bonŝance, Ada loĝis tuj apud la rubejo. Tie estis multaj rompitaj aparatoj kaj rustaj partoj, kiujn ŝi kunmetis por fari mojosajn novajn aferojn, kiel ekzemple keston, kiun ŝi kaj Alan rajdis muĝante laŭ la monteto, ventomuelejon kaj timigajn ruba-monstrojn, kiujn ŝi kaj Alan batalis kune. Ŝi ankaŭ trovis multajn utilajn objektojn - ekzemple malnovan poŝtelefonon. La ekrano estis fendita, sed ŝi povis ripari tion kaj kvankam ne estis interreto ĉe la rubodeponejo, ŝi povis akiri aliron aliloke."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:565
@@ -541,7 +541,7 @@ msgstr "Ĉar ĉiuj aĉetis liajn inventaĵojn, Zangemann baldaŭ fariĝis la ple
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:570
 msgid "All he had to do was press the proper key on the golden computer, and immediately all the ice-cream machines in town would dispense only vanilla ice cream. If Zangemann wanted people to eat chocolate ice cream, he pressed the key for chocolate ice cream. If he gave the order for lemon ice cream, the machines made only lemon ice cream. Zangemann loved his inventions and was always thrilled at how amazingly well his machines worked. Sometimes people were disappointed when their favorite flavor wasn’t available, but what could they do? After all, there was ice cream on every street corner."
-msgstr "Li nur devis premi la ĝustan klavon sur la ora komputilo, kaj tuj ĉiuj glaciaĵmaŝinoj en la urbo liverus nur vanilan glaciaĵon. Se Zangemann volis, ke homoj manĝu ĉokoladan glaciaĵon, li premis la klavon por ĉokolada glaciaĵo. Se li mendis citronan glaciaĵon, la maŝinoj faris nur citronan glaciaĵon. Zangemann amis siajn inventojn kaj ĉiam estis ravita pri tio, kiel mirinde bone funkciis liaj maŝinoj. Foje homoj seniluziiĝis, kiam ilia plej ŝatata gusto ne estis havebla, sed kion ili povis fari? Fine, glaciaĵo troviĝis sur ĉiu stratangulo."
+msgstr "Li nur devis premi la ĝustan klavon sur la ora komputilo kaj tuj ĉiuj glaciaĵmaŝinoj en la urbo liverus nur vanilan glaciaĵon. Se Zangemann volis, ke homoj manĝu ĉokoladan glaciaĵon, li premis la klavon por ĉokolada glaciaĵo. Se li mendis citronan glaciaĵon, la maŝinoj faris nur citronan glaciaĵon. Zangemann amis siajn inventojn kaj ĉiam estis ravita pri tio, kiel mirinde bone funkciis liaj maŝinoj. Foje homoj seniluziiĝis, kiam ilia plej ŝatata gusto ne estis havebla, sed kion ili povis fari? Fine, glaciaĵo troviĝis sur ĉiu stratangulo."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -565,7 +565,7 @@ msgstr "Zangeman sidas antaŭ sia ora komputilo sur ora brakseĝo kun tre alta r
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:589
 msgid "When he wasn’t sitting at his golden computer, Zangemann was building his little computers into new devices and then selling those. He built washing machines that sent a message to your cell phone when your laundry was done. He made vacuums that played happy music instead of droning loudly. He invented light bulbs that turned on and off at the snap of a finger and cars that told you where the nearest grocery store was."
-msgstr "Kiam li ne sidis ĉe sia ora komputilo, Zangemann konstruis siajn malgrandajn komputilojn en novajn aparatojn kaj poste vendis ilin. Li konstruis lavmaŝinojn, kiuj sendis mesaĝon al via poŝtelefono kiam via lavado estis farita. Li faris polvosuĉilojn, kiuj ludis ĝojan muzikon anstataŭ zumi laŭte. Li inventis ampolojn, kiuj ŝaltiĝis kaj malŝaltiĝis per fingroklako, kaj aŭtojn, kiuj indikis, kie estas la plej proksima nutraĵvendejo."
+msgstr "Kiam li ne sidis ĉe sia ora komputilo, Zangemann konstruis siajn malgrandajn komputilojn en novajn aparatojn kaj poste vendis ilin. Li konstruis lavmaŝinojn, kiuj sendis mesaĝon al via poŝtelefono kiam via lavado estis farita. Li faris polvosuĉilojn, kiuj ludis ĝojan muzikon anstataŭ zumi laŭte. Li inventis ampolojn, kiuj ŝaltiĝis kaj malŝaltiĝis per fingroklako kaj aŭtojn, kiuj indikis, kie estas la plej proksima nutraĵvendejo."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -596,12 +596,12 @@ msgstr "Iun tagon Zangemann pensis: “Hodiaŭ mi volas vidi miajn inventaĵojn 
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:609
 msgid "Zangemann descends the stairs from his mansion on the hill towards the city. Zangemann’s house stands on a hill. The front is blue with large windows; the towers are dark blue, and from a window starts a yellow slide that ends in a large swimming pool with two palm trees. The roofs are red, and above the highest tower an antenna is installed. On the sides of the stairs to get off the hill there are evergreen trees."
-msgstr "Zangemann malsupreniras la ŝtuparon de sia domego sur la monteto direkte al la urbo. La domo de Zangemann staras sur monteto. La fasado estas blua kun grandaj fenestroj; la turoj estas malhelbluaj, kaj de fenestro komenciĝas flava glitvojo, kiu finiĝas per granda naĝejo kun du palmoj. La tegmentoj estas ruĝaj, kaj super la plej alta turo estas instalita anteno. Ĉe la flankoj de la ŝtuparo por malsupreniri de la monteto estas ĉiamverdaj arboj."
+msgstr "Zangemann malsupreniras la ŝtuparon de sia domego sur la monteto direkte al la urbo. La domo de Zangemann staras sur monteto. La fasado estas blua kun grandaj fenestroj; la turoj estas malhelbluaj kaj de fenestro komenciĝas flava glitvojo, kiu finiĝas per granda naĝejo kun du palmoj. La tegmentoj estas ruĝaj kaj super la plej alta turo estas instalita anteno. Ĉe la flankoj de la ŝtuparo por malsupreniri de la monteto estas ĉiamverdaj arboj."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:613
 msgid "“Maybe a little trip might even give me a few new ideas. If I’m completely honest, my last inventions weren’t quite as useful as the first ones... ,” Zangemann pondered. “But my ice-cream machines are and will remain second to none,” he thought immediately afterward, and not without pride, as he passed a group of people all eating coconut ice cream, the flavor of the day."
-msgstr "“Eble eta vojaĝo eĉ donus al mi kelkajn novajn ideojn. Se mi estas tute honesta, miaj lastaj inventoj ne estis tiom utilaj kiel la unuaj…,” Zangemann pripensis. “Sed miaj glaciaĵmaŝinoj estas kaj restos senkompareblaj,” li pensis tuj poste, kaj ne sen fiereco, dum li preterpasis grupon da homoj, kiuj ĉiuj manĝis kokosan glaciaĵon, la guston de la tago."
+msgstr "“Eble eta vojaĝo eĉ donus al mi kelkajn novajn ideojn. Se mi estas tute honesta, miaj lastaj inventoj ne estis tiom utilaj kiel la unuaj…,” Zangemann pripensis. “Sed miaj glaciaĵmaŝinoj estas kaj restos senkompareblaj,” li pensis tuj poste kaj ne sen fiereco, dum li preterpasis grupon da homoj, kiuj ĉiuj manĝis kokosan glaciaĵon, la guston de la tago."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:615
@@ -623,14 +623,14 @@ msgstr "Zangemann ekkriis kaj ĉirkaŭrigardis por trovi la kaŭzon. Konsternita
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:625
 msgid "An angry Zangemann limped away. Suddenly, he heard loud music. He had never before heard something so horrible. He looked around and saw that the music was coming from a loudspeaker he himself had constructed. A child across the street was holding it. The child seemed to like the music, but it gave Zangemann a terrible headache, and his mood worsened. This was not how he had imagined his walk!"
-msgstr "Kolera Zangemann lamis for. Subite, li aŭdis laŭtan muzikon. Li neniam antaŭe aŭdis ion tiel teruran. Li rigardis ĉirkaŭen kaj vidis, ke la muziko venis de laŭtparolilo, kiun li mem konstruis. Infano trans la strato tenis ĝin. La infano ŝajnis ŝati la muzikon, sed ĝi kaŭzis al Zangemann teruran kapdoloron, kaj lia humoro plimalboniĝis. Tio ne estis kiel li imagis sian promenadon!"
+msgstr "Kolera Zangemann lamis for. Subite, li aŭdis laŭtan muzikon. Li neniam antaŭe aŭdis ion tiel teruran. Li rigardis ĉirkaŭen kaj vidis, ke la muziko venis de laŭtparolilo, kiun li mem konstruis. Infano trans la strato tenis ĝin. La infano ŝajnis ŝati la muzikon, sed ĝi kaŭzis al Zangemann teruran kapdoloron kaj lia humoro plimalboniĝis. Tio ne estis kiel li imagis sian promenadon!"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:630
 msgid "Advertisements for Zangemann ice cream (sandwich board), a Zangemann electric skateboard, and a Zangemann washing machine. The math teacher, Ms. Gernet, is passing in front of the billboards. Ms. Gernet is an old lady with short white hair. She is dressed in a light green t-shirt and a pea green sweater, dark brown pants, and light green heeled shoes. She has a fuchsia shoulder bag, worn behind her. She pushes a small shopping cart in which there is a small brown dog with a collar and tag."
-msgstr "Anoncoj por glaciaĵo Zangemann (sandviĉa tabulo), elektra rultabulo Zangemann, kaj lavmaŝino Zangemann. La matematika instruistino, S-ino Gernet, pasas antaŭ la afiŝtabuloj. S-ino Gernet estas maljuna sinjorino kun mallongaj blankaj haroj. Ŝi estas vestita per helverda t-ĉemizo kaj pizverda ŝvitĉemiso, malhelbrunaj pantalonoj, kaj helverdaj ŝuoj kun kalkanumoj. Ŝi havas fuksian dorsosakon, portatan malantaŭ si. Ŝi puŝas malgrandan aĉetĉaron, en kiu estas malgranda bruna hundo kun kolumo kaj etikedo."
+msgstr "Anoncoj por glaciaĵo Zangemann (sandviĉa tabulo), elektra rultabulo Zangemann kaj lavmaŝino Zangemann. La matematika instruistino, S-ino Gernet, pasas antaŭ la afiŝtabuloj. S-ino Gernet estas maljuna sinjorino kun mallongaj blankaj haroj. Ŝi estas vestita per helverda t-ĉemizo kaj pizverda ŝvitĉemiso, malhelbrunaj pantalonoj kaj helverdaj ŝuoj kun kalkanumoj. Ŝi havas fuksian dorsosakon, portatan malantaŭ si. Ŝi puŝas malgrandan aĉetĉaron, en kiu estas malgranda bruna hundo kun kolumo kaj etikedo."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:635
@@ -695,7 +695,7 @@ msgstr "Ada kaj programaro"
 #. (itstool) id: Ada_Zangemann.dbk#para-p20-1
 #: Ada_Zangemann.dbk:684
 msgid "<phrase condition=\"capitals-text\">Ada</phrase><phrase condition=\"capitals-img\">da</phrase> loved Wednesdays. Every Wednesday, her mother and Alan would pick her up from school, and they would all go to the library together. Ada was always drawn to the technology section. There were books with blueprints, instructions for experiments, and explanations of how different devices worked. In the library, Ada could also go online with her cell phone. She quickly realized that there was also much to discover on the internet. There, many people shared their ideas and repair tips to help others."
-msgstr "<phrase condition=\"capitals-text\">Ada</phrase><phrase condition=\"capitals-img\">da</phrase> amis merkredojn. Ĉiun merkredon, ŝia patrino kaj Alan prenis ŝin de la lernejo, kaj ili ĉiuj iris al la biblioteko kune. Ada ĉiam estis allogita al la teknologia sekcio. Estis libroj kun skizoj, instrukcioj por eksperimentoj, kaj klarigoj pri kiel malsamaj aparatoj funkciis. En la biblioteko, Ada ankaŭ povis iri interreten per sia poŝtelefono. Ŝi rapide komprenis, ke ankaŭ estis multe malkovrebla en la interreto. Tie, multaj homoj kundividis siajn ideojn kaj riparajn konsilojn por helpi aliajn."
+msgstr "<phrase condition=\"capitals-text\">Ada</phrase><phrase condition=\"capitals-img\">da</phrase> amis merkredojn. Ĉiun merkredon, ŝia patrino kaj Alan prenis ŝin de la lernejo kaj ili ĉiuj iris al la biblioteko kune. Ada ĉiam estis allogita al la teknologia sekcio. Estis libroj kun skizoj, instrukcioj por eksperimentoj kaj klarigoj pri kiel malsamaj aparatoj funkciis. En la biblioteko, Ada ankaŭ povis iri interreten per sia poŝtelefono. Ŝi rapide komprenis, ke ankaŭ estis multe malkovrebla en la interreto. Tie, multaj homoj kundividis siajn ideojn kaj riparajn konsilojn por helpi aliajn."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:685
@@ -804,14 +804,14 @@ msgstr "Reen ĉe la rubdeponejo, ŝi adaptis kelkajn liniojn de kodo por sia rul
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:747
 msgid "Several failed attempts later, on the last day of summer break, the time had finally come. Ada stood on the skateboard and pressed the Go! button, and the skateboard started moving, slowly at first, then faster. It worked! She tried to brake. It worked! Ada let out a cry of joy and took a trip to the park."
-msgstr "Post pluraj malsukcesaj provoj, en la lasta tago de la somera ferio, la tempo finfine alvenis. Ada stariĝis sur la rultabulo kaj premis la butonon “Ek!”, kaj la rultabulo ekmoviĝis, komence malrapide, poste pli rapide. Ĝi funkciis! Ŝi provis bremsi. Ĝi funkciis! Ada eligis ĝojkrion kaj iris al la parko."
+msgstr "Post pluraj malsukcesaj provoj, en la lasta tago de la somera ferio, la tempo finfine alvenis. Ada stariĝis sur la rultabulo kaj premis la butonon “Ek!” kaj la rultabulo ekmoviĝis, komence malrapide, poste pli rapide. Ĝi funkciis! Ŝi provis bremsi. Ĝi funkciis! Ada eligis ĝojkrion kaj iris al la parko."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:754
 msgid "Ada racing with her electric skateboard for city sidewalks. Ada’s skateboard is blue, with gray and pink wheels; the electronic part is placed above the skateboard (as opposed to Zangemann’s skateboards where the electronic part is below). Ada is holding in both hands a remote control with a short antenna to maneuver it. Behind Ada are Marie and Toni who carry their own skateboards under their arms and look with amazement at Ada, who has shot past them and in front of them. Marie has dark long hair with two braids fastened with orange clips, yellow earrings, a fuchsia shirt with white sleeves with purple horizontal stripes, a white skirt, white and yellow sneakers, white socks, a white hat with yellow sides, and a light purple backpack. Marie has a blue artificial leg. Her skateboard is blue with yellow wheels. Toni has red hair closely trimmed on the sides. He is wearing a blue sweatshirt, dark green pants, and white shoes. He has a red backpack with white inserts and shoulder straps. One hand is next to his mouth. His skateboard is purple with orange wheels. There’s also a father with his son walking in the opposite direction: the father is dressed in a blue checked jacket and blue pants and holds a brown briefcase. He is smiling at Ada. His son has a blue shirt, blue shorts, white shoes, a brown backpack, and a red and white hat. He holds under his arm a yellow Zangemann skateboard with light brown wheels, and he grins at Ada. In the background there is a bakery with large windows through which you can see the bread. It has a green and white striped awning around the corner and a sign on the sidewalk with the list of products. Overhead, a large pretzel is displayed. On the road there is a puddle that reflects the blue of the sky."
-msgstr "Ada kuras per sia elektra rultabulo sur urbaj trotuaroj. La rultabulo de Ada estas blua, kun grizaj kaj rozkoloraj radoj; la elektronika parto estas lokita super la rultabulo (kontraste al la rultabuloj de Zangemann, kie la elektronika parto estas sube). Ada tenas en ambaŭ manoj teleregilon kun mallonga anteno por manovri ĝin. Malantaŭ Ada estas Marie kaj Toni, kiuj portas siajn proprajn rultabulojn sub la brakoj kaj rigardas kun miro Ada-n, kiu rapide preterpasis ilin kaj staris antaŭ ili. Marie havas malhelajn longajn harojn kun du plektaĵoj fiksitaj per oranĝaj agrafoj, flavajn orelringojn, fuksian ĉemizon kun blankaj manikoj kun violaj horizontalaj strioj, blankan jupon, blankajn kaj flavajn sportŝuojn, blankajn ŝtrumpetojn, blankan ĉapelon kun flavaj flankoj, kaj helviola dorsosako. Marie havas bluan artefaritan kruron. Ŝia rultabulo estas blua kun flavaj radoj. Toni havas ruĝajn harojn dense tonditajn flanke. Li portas bluan ŝvitĉemizon, malhelverdajn pantalonojn kaj blankajn ŝuojn. Li havas ruĝan dorsosakon kun blankaj enmetaĵoj kaj ŝultrobendoj. Unu mano estas apud lia buŝo. Lia rultabulo estas viola kun oranĝaj radoj. Ankaŭ estas patro kun sia filo iranta en la kontraŭa direkto: la patro estas vestita per blua kvadrata jako kaj bluaj pantalonoj kaj tenas brunan tekon. Li ridetas al Ada. Lia filo havas bluan ĉemizon, bluajn pantalonetojn, blankajn ŝuojn, brunan dorsosakon kaj ruĝan kaj blankan ĉapelon. Li tenas sub la brako flavan Zangemann-rultabulon kun helbrunaj radoj, kaj li ridetas al Ada. En la fono estas bakejo kun grandaj fenestroj tra kiuj oni povas vidi la panon. Ĝi havas verdajn kaj blankajn striojn ĉirkaŭ la angulo kaj ŝildon sur la trotuaro kun la listo de produktoj. Supre, granda pretzel (germana tipa de pano) estas montrata. Sur la vojo estas flako kiu reflektas la bluon de la ĉielo."
+msgstr "Ada kuras per sia elektra rultabulo sur urbaj trotuaroj. La rultabulo de Ada estas blua, kun grizaj kaj rozkoloraj radoj; la elektronika parto estas lokita super la rultabulo (kontraste al la rultabuloj de Zangemann, kie la elektronika parto estas sube). Ada tenas en ambaŭ manoj teleregilon kun mallonga anteno por manovri ĝin. Malantaŭ Ada estas Marie kaj Toni, kiuj portas siajn proprajn rultabulojn sub la brakoj kaj rigardas kun miro Ada-n, kiu rapide preterpasis ilin kaj staris antaŭ ili. Marie havas malhelajn longajn harojn kun du plektaĵoj fiksitaj per oranĝaj agrafoj, flavajn orelringojn, fuksian ĉemizon kun blankaj manikoj kun violaj horizontalaj strioj, blankan jupon, blankajn kaj flavajn sportŝuojn, blankajn ŝtrumpetojn, blankan ĉapelon kun flavaj flankoj kaj helviola dorsosako. Marie havas bluan artefaritan kruron. Ŝia rultabulo estas blua kun flavaj radoj. Toni havas ruĝajn harojn dense tonditajn flanke. Li portas bluan ŝvitĉemizon, malhelverdajn pantalonojn kaj blankajn ŝuojn. Li havas ruĝan dorsosakon kun blankaj enmetaĵoj kaj ŝultrobendoj. Unu mano estas apud lia buŝo. Lia rultabulo estas viola kun oranĝaj radoj. Ankaŭ estas patro kun sia filo iranta en la kontraŭa direkto: la patro estas vestita per blua kvadrata jako kaj bluaj pantalonoj kaj tenas brunan tekon. Li ridetas al Ada. Lia filo havas bluan ĉemizon, bluajn pantalonetojn, blankajn ŝuojn, brunan dorsosakon kaj ruĝan kaj blankan ĉapelon. Li tenas sub la brako flavan Zangemann-rultabulon kun helbrunaj radoj kaj li ridetas al Ada. En la fono estas bakejo kun grandaj fenestroj tra kiuj oni povas vidi la panon. Ĝi havas verdajn kaj blankajn striojn ĉirkaŭ la angulo kaj ŝildon sur la trotuaro kun la listo de produktoj. Supre, granda pretzel (germana tipa de pano) estas montrata. Sur la vojo estas flako kiu reflektas la bluon de la ĉielo."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:759
@@ -828,7 +828,7 @@ msgstr "“Kiel vi povas rajdi vian rultabulon sur la trotuaro?” ili demandis.
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:765
 msgid "Ada stops on her skateboard surrounded by children. Marie is on one end. She is pointing to Ada’s skateboard and she’s talking. Next to her is Konrad, with short blond hair, a dark gray helmet, glasses, a green shirt with white collar and cuffs, light blue pants with white cuffs, and gray shoes with white soles. He has a red skateboard with orange wheels. Behind Ada there are 4 other children. On the other end Toni is smiling. He touches his chin with one hand while with the other he holds a yellow helmet by the laces."
-msgstr "Ada haltas sur sia rultabulo ĉirkaŭata de infanoj. Marie estas ĉe unu fino. Ŝi montras al la rultabulo de Ada kaj ŝi parolas. Apud ŝi estas Konrad, kun mallonga blonda hararo, malhelgriza kasko, okulvitroj, verda ĉemizo kun blanka kolumo kaj manumoj, helbluaj pantalonoj kun blankaj manumoj, kaj grizaj ŝuoj kun blankaj plandoj. Li havas ruĝan rultabulon kun oranĝaj radoj. Malantaŭ Ada estas 4 aliaj infanoj. Ĉe la alia fino Toni ridetas. Li tuŝas sian mentonon per unu mano dum per la alia li tenas flavan kaskon per la laĉoj."
+msgstr "Ada haltas sur sia rultabulo ĉirkaŭata de infanoj. Marie estas ĉe unu fino. Ŝi montras al la rultabulo de Ada kaj ŝi parolas. Apud ŝi estas Konrad, kun mallonga blonda hararo, malhelgriza kasko, okulvitroj, verda ĉemizo kun blanka kolumo kaj manumoj, helbluaj pantalonoj kun blankaj manumoj kaj grizaj ŝuoj kun blankaj plandoj. Li havas ruĝan rultabulon kun oranĝaj radoj. Malantaŭ Ada estas 4 aliaj infanoj. Ĉe la alia fino Toni ridetas. Li tuŝas sian mentonon per unu mano dum per la alia li tenas flavan kaskon per la laĉoj."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:769
@@ -838,7 +838,7 @@ msgstr "Ada pripensis momenton, poste diris: “Mi ne pensas, ke temas pri viaj 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:770
 msgid "That evening, Ada tested out her theory on her classmate Toni’s skateboard. She worked secretly through most of the night, and the next day, Toni could ride on the sidewalk again. Unfortunately, his skateboard could no longer make the sounds that his parents had bought from Zangemann. Instead, every 10 minutes it made a strange noise that sounded like a drawn-out burp. Ada knew that little errors like that could pop up in programs all the time. But Toni’s burping skateboard was really quite funny."
-msgstr "Tiun vesperon, Ada testis sian teorion sur la rultabulo de sia samklasanino Toni. Ŝi laboris sekrete dum plejparto de la nokto, kaj la sekvan tagon, Toni povis denove rajdi sur la trotuaro. Bedaŭrinde, lia rultabulo jam ne povis fari la sonojn, kiujn liaj gepatroj aĉetis de Zangemann. Anstataŭe, ĉiujn 10 minutojn ĝi faris strangan bruon, kiu sonis kiel longedaŭra rukto. Ada sciis, ke tiaj malgrandaj eraroj povas aperi en programoj ĉiam. Sed la ruktanta rultabulo de Toni estis vere tre amuza."
+msgstr "Tiun vesperon, Ada testis sian teorion sur la rultabulo de sia samklasanino Toni. Ŝi laboris sekrete dum plejparto de la nokto kaj la sekvan tagon, Toni povis denove rajdi sur la trotuaro. Bedaŭrinde, lia rultabulo jam ne povis fari la sonojn, kiujn liaj gepatroj aĉetis de Zangemann. Anstataŭe, ĉiujn 10 minutojn ĝi faris strangan bruon, kiu sonis kiel longedaŭra rukto. Ada sciis, ke tiaj malgrandaj eraroj povas aperi en programoj ĉiam. Sed la ruktanta rultabulo de Toni estis vere tre amuza."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -856,7 +856,7 @@ msgstr "Hakado por libereco"
 #. (itstool) id: Ada_Zangemann.dbk#para-p30-1
 #: Ada_Zangemann.dbk:785
 msgid "<phrase condition=\"capitals-text\">More</phrase><phrase condition=\"capitals-img\">ore</phrase> and more children started to visit Ada at the junkyard after school, and she helped them rewrite the programs in their skateboards. Some of her classmates were very excited about this new discovery. It was unbelievable what you could do with software code! They wanted to learn everything Ada knew about programming languages, and soon they were riding their skateboards again, wherever they wanted to."
-msgstr "<phrase condition=\"capitals-text\">Pli</phrase><phrase condition=\"capitals-img\">li</phrase> kaj pli da infanoj komencis viziti Ada-n ĉe la rubdeponejo post la lernejo, kaj ŝi helpis ilin reskribi la programojn en siaj rultabuloj. Kelkaj el ŝiaj samklasanoj estis tre ekscititaj pri ĉi tiu nova malkovro. Estis nekredeble, kion oni povis fari per programara kodo! Ili volis lerni ĉion, kion Ada sciis pri programlingvoj, kaj baldaŭ ili denove rajdis siajn rultabulojn, kien ajn ili volis."
+msgstr "<phrase condition=\"capitals-text\">Pli</phrase><phrase condition=\"capitals-img\">li</phrase> kaj pli da infanoj komencis viziti Ada-n ĉe la rubdeponejo post la lernejo kaj ŝi helpis ilin reskribi la programojn en siaj rultabuloj. Kelkaj el ŝiaj samklasanoj estis tre ekscititaj pri ĉi tiu nova malkovro. Estis nekredeble, kion oni povis fari per programara kodo! Ili volis lerni ĉion, kion Ada sciis pri programlingvoj kaj baldaŭ ili denove rajdis siajn rultabulojn, kien ajn ili volis."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:787
@@ -868,12 +868,12 @@ msgstr "Sed tio ne estis ĉio. Per la programaro, ili povis doni al siaj rultabu
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:792
 msgid "A green battery with red and yellow wires, a power strip, glue, a roll of solder, and two pencils."
-msgstr "Verda baterio kun ruĝaj kaj flavaj dratoj, multobla ŝtopilingo, gluo, rulo da lutaĵo, kaj du krajonoj."
+msgstr "Verda baterio kun ruĝaj kaj flavaj dratoj, multobla ŝtopilingo, gluo, rulo da lutaĵo kaj du krajonoj."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:796
 msgid "Ada, Toni, Marie, and Konrad spent many afternoons at the junkyard. They even set up a real workshop where they could fine-tune their programs for hours, listening all the while to music from the speakers Ada had built for Alan."
-msgstr "Ada, Toni, Marie, kaj Konrad pasigis multajn posttagmezojn ĉe la rubdeponejo. Ili eĉ starigis veran laborejon, kie ili povis dum horoj plibonigi siajn programojn, aŭskultante la tutan tempon muzikon el la laŭtparoliloj, kiujn Ada konstruis por Alan."
+msgstr "Ada, Toni, Marie kaj Konrad pasigis multajn posttagmezojn ĉe la rubdeponejo. Ili eĉ starigis veran laborejon, kie ili povis dum horoj plibonigi siajn programojn, aŭskultante la tutan tempon muzikon el la laŭtparoliloj, kiujn Ada konstruis por Alan."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:797
@@ -890,34 +890,34 @@ msgstr "Kune ili ŝanĝis ankaŭ la programaron por la laŭtparoliloj. Poste ili
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:803
 msgid "A screwdriver with orange and gray handle, red pliers, and three LEDs: yellow, green, pink."
-msgstr "Ŝraŭbturnilo kun oranĝkolora kaj griza tenilo, ruĝa pinĉilo, kaj tri LED-oj: flava, verda, rozkolora."
+msgstr "Ŝraŭbturnilo kun oranĝkolora kaj griza tenilo, ruĝa pinĉilo kaj tri LED-oj: flava, verda, rozkolora."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:811
 msgid "Laboratory at the junkyard, under the veranda of Ada’s house. Ada is sitting on a water case with a leg bent under her, using a soldering iron. Konrad is standing next to her and dismounting a speaker. Marie is sitting on two tires with an arm resting on a table and her upside-down skateboard from which wires come out. She is talking with Alan, who is standing with his arms resting on the same table. On the table there are also: pliers, two wrenches, a spool of solder, a can of blue paint (a bit of paint has dried on the table), and a pitcher and two glasses containing a pink drink. Toni is testing his skateboard with added yellow wings and a fan. It burps."
-msgstr "Laboratorio ĉe la rubodeponejo, sub la verando de la domo de Ada. Ada sidas sur akvoskatolo kun fleksita kruro sub ŝi, uzante lutilon. Konrad staras apud ŝi kaj demuntas laŭtparolilon. Marie sidas sur du pneŭoj kun brako ripozanta sur tablo kaj ŝia renversita rultabulo, el kiu eliras dratoj. Ŝi parolas kun Alan, kiu staras kun siaj brakoj ripozantaj sur la sama tablo. Sur la tablo estas ankaŭ: pinĉilo, du ŝraŭbilŝlosiloj, bobeno da lutaĵo, ladskatolo da blua farbo (iom da farbo sekiĝis sur la tablo), kaj kruĉo kaj du glasoj enhavantaj rozkoloran trinkaĵon. Toni testas sian rultabulon kun aldonitaj flavaj flugiloj kaj ventumilo. Ĝi ruktas."
+msgstr "Laboratorio ĉe la rubodeponejo, sub la verando de la domo de Ada. Ada sidas sur akvoskatolo kun fleksita kruro sub ŝi, uzante lutilon. Konrad staras apud ŝi kaj demuntas laŭtparolilon. Marie sidas sur du pneŭoj kun brako ripozanta sur tablo kaj ŝia renversita rultabulo, el kiu eliras dratoj. Ŝi parolas kun Alan, kiu staras kun siaj brakoj ripozantaj sur la sama tablo. Sur la tablo estas ankaŭ: pinĉilo, du ŝraŭbilŝlosiloj, bobeno da lutaĵo, ladskatolo da blua farbo (iom da farbo sekiĝis sur la tablo) kaj kruĉo kaj du glasoj enhavantaj rozkoloran trinkaĵon. Toni testas sian rultabulon kun aldonitaj flavaj flugiloj kaj ventumilo. Ĝi ruktas."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:819
 msgid "Marie and Ada’s mom are dancing, facing each other. Alan, Ada, and Konrad are dancing in a circle. On the right there is a speaker playing, resting on an oil drum. Near the speaker there are two dancing mice. Toni is jumping through the tires. Ada’s dog is howling, and from his mouth come two distorted musical notes."
-msgstr "La panjo de Marie kaj Ada dancas, unu kontraŭ la alia. Alan, Ada, kaj Konrad dancas en cirklo. Dekstre estas laŭtparolilo ludanta, ripozanta sur oleujo. Proksime al la laŭtparolilo estas du dancantaj musoj. Toni saltas tra la pneŭoj. La hundo de Ada ululas, kaj el lia buŝo venas du distorditaj muziknotoj."
+msgstr "La panjo de Marie kaj Ada dancas, unu kontraŭ la alia. Alan, Ada kaj Konrad dancas en cirklo. Dekstre estas laŭtparolilo ludanta, ripozanta sur oleujo. Proksime al la laŭtparolilo estas du dancantaj musoj. Toni saltas tra la pneŭoj. La hundo de Ada ululas kaj el lia buŝo venas du distorditaj muziknotoj."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:827
 msgid "Hands holding wonderful ice cream cones: blue ice cream with a chocolate heart on top with a yellow heart on its center, and whipped cream on top of the chocolate; green ice cream with colored stars with a cucumber stuck on a stick; pink fish-shaped ice cream; pyramid-shaped ice cream with candies, and chocolate syrup, and a cherry on top; rainbow ice cream with a yellow umbrella; blue ghost-shaped ice cream with candies on it."
-msgstr "Manoj tenantaj mirindajn glaciaĵkonusojn: blua glaciaĵo kun ĉokolada koro supre kun flava koro en ĝia centro, kaj ŝaŭmkremo sur la ĉokolado; verda glaciaĵo kun koloraj steloj kun kukumo algluita sur bastoneto; rozkolora fiŝforma glaciaĵo; piramidforma glaciaĵo kun bombonoj, kaj ĉokolada siropo, kaj ĉerizo supre; ĉielarka glaciaĵo kun flava ombrelo; blua fantomforma glaciaĵo kun bombonoj sur ĝi."
+msgstr "Manoj tenantaj mirindajn glaciaĵkonusojn: blua glaciaĵo kun ĉokolada koro supre kun flava koro en ĝia centro kaj ŝaŭmkremo sur la ĉokolado; verda glaciaĵo kun koloraj steloj kun kukumo algluita sur bastoneto; rozkolora fiŝforma glaciaĵo; piramidforma glaciaĵo kun bombonoj kaj ĉokolada siropo kaj ĉerizo supre; ĉielarka glaciaĵo kun flava ombrelo; blua fantomforma glaciaĵo kun bombonoj sur ĝi."
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p35-1
 #: Ada_Zangemann.dbk:838
 msgid "<phrase condition=\"capitals-text\">Every</phrase><phrase condition=\"capitals-img\">very</phrase> day, Ada and her friends made plans together for the afternoon. From a broken ice-cream machine, they built a new one that could make ice cream in every imaginable shape and color. They ate square ice cream, heart-shaped ice cream, and even pyramid-shaped ice cream, as well as strawberry, raspberry, and rainbow ice cream, all with sprinkles and hot fudge — much better than the varieties from the Zangemann machines."
-msgstr "<phrase condition=\"capitals-text\">Ĉiun</phrase><phrase condition=\"capitals-img\">iun</phrase> tagon, Ada kaj ŝiaj amikinoj faris planojn kune por la posttagmezo. El rompita glaciaĵmaŝino, ili konstruis novan, kiu povis fari glaciaĵon en ĉiu imagebla formo kaj koloro. Ili manĝis kvadratan glaciaĵon, korforman glaciaĵon, kaj eĉ piramidforman glaciaĵon, same kiel fragan, framban kaj ĉielarkan glaciaĵon, ĉion kun ŝprucetoj kaj varma ĉokolada saŭco — multe pli bone ol la variaĵoj de la Zangemann-maŝinoj."
+msgstr "<phrase condition=\"capitals-text\">Ĉiun</phrase><phrase condition=\"capitals-img\">iun</phrase> tagon, Ada kaj ŝiaj amikinoj faris planojn kune por la posttagmezo. El rompita glaciaĵmaŝino, ili konstruis novan, kiu povis fari glaciaĵon en ĉiu imagebla formo kaj koloro. Ili manĝis kvadratan glaciaĵon, korforman glaciaĵon kaj eĉ piramidforman glaciaĵon, same kiel fragan, framban kaj ĉielarkan glaciaĵon, ĉion kun ŝprucetoj kaj varma ĉokolada saŭco — multe pli bone ol la variaĵoj de la Zangemann-maŝinoj."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:839
@@ -955,7 +955,7 @@ msgstr "“Ĉiuj komputiloj, kiuj ne aŭskultas Zangemann, estas malpermesitaj. 
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:858
 msgid "The President getting a phone call from the angry Zangemann. The videophone consists of an old red Zangemann dial phone connected to a monitor. Zangemann’s face appears on the monitor, while a yellow flare of Zangemann’s thundering voice comes out of the phone, and the President holds the receiver at arm’s length. The president has white hair and wears a light blue shirt, a red tie, and a blue jacket with yellow buttons. The President is sitting on a green chair with white vertical lines, and his other hand is on the desk. On the desk, in addition to the videophone, there are sheets with something written on them and an open purple fountain pen. The President was eating a sandwich of meat and cheese with greens with two olives on a toothpick, over a blue napkin with white stripes."
-msgstr "La Prezidanto ricevas telefonvokon de la kolera Zangemann. La videotelefono konsistas el malnova ruĝa Zangemann-ciferdiska telefono konektita al ekrano. La vizaĝo de Zangemann aperas sur la ekrano, dum flava ekbrilo de la tondranta voĉo de Zangemann eliras el la telefono, kaj la Prezidanto tenas la aŭskultilon je etenda brako. La prezidanto havas blankajn harojn kaj portas helbluan ĉemizon, ruĝan kravaton kaj bluan jakon kun flavaj butonoj. La Prezidanto sidas sur verda seĝo kun blankaj vertikalaj linioj, kaj lia alia mano estas sur la skribotablo. Sur la skribotablo, krom la videotelefono, estas folioj kun io skribita sur ili kaj malfermita purpura plumo. La Prezidanto manĝis sandviĉon el viando kaj fromaĝo kun legomoj kaj du olivoj sur dentpinglo, super blua buŝtuko kun blankaj strioj."
+msgstr "La Prezidanto ricevas telefonvokon de la kolera Zangemann. La videotelefono konsistas el malnova ruĝa Zangemann-ciferdiska telefono konektita al ekrano. La vizaĝo de Zangemann aperas sur la ekrano, dum flava ekbrilo de la tondranta voĉo de Zangemann eliras el la telefono kaj la Prezidanto tenas la aŭskultilon je etenda brako. La prezidanto havas blankajn harojn kaj portas helbluan ĉemizon, ruĝan kravaton kaj bluan jakon kun flavaj butonoj. La Prezidanto sidas sur verda seĝo kun blankaj vertikalaj linioj kaj lia alia mano estas sur la skribotablo. Sur la skribotablo, krom la videotelefono, estas folioj kun io skribita sur ili kaj malfermita purpura plumo. La Prezidanto manĝis sandviĉon el viando kaj fromaĝo kun legomoj kaj du olivoj sur dentpinglo, super blua buŝtuko kun blankaj strioj."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:863
@@ -965,7 +965,7 @@ msgstr "Kiam Ada kaj ŝiaj amikoj aŭdis tion, ili furiozis. “Ĉi tio estas ma
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:864
 msgid "They gathered in front of one of their rebuilt ice-cream machines and discussed the situation. It was clear that something had to be done about the new law, and they made a plan..."
-msgstr "Ili kolektiĝis antaŭ unu el siaj rekonstruitaj glaciaĵmaŝinoj kaj diskutis la situacion. Estis klare, ke io devis esti farita pri la nova leĝo, kaj ili faris planon..."
+msgstr "Ili kolektiĝis antaŭ unu el siaj rekonstruitaj glaciaĵmaŝinoj kaj diskutis la situacion. Estis klare, ke io devis esti farita pri la nova leĝo kaj ili faris planon..."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -983,7 +983,7 @@ msgstr "Protesto"
 #. (itstool) id: Ada_Zangemann.dbk#para-p39-1
 #: Ada_Zangemann.dbk:880
 msgid "<phrase condition=\"capitals-text\">The</phrase><phrase condition=\"capitals-img\">he</phrase> next day, they didn’t go to school. Instead, they rode their skateboards to the parliament building, with large protest signs under their arms, and sat down in front of the building. The evening before, they had put LED lights on some of the signs, which were now flashing brightly. They had connected their speakers together so everyone in the street could hear what they were saying. Some passersby stopped and asked the children what they were demonstrating for. “For software freedom!” they replied in unison and told the adults their story. Impressed, the adults nodded, and the president also looked curiously at their signs as he approached the building."
-msgstr "<phrase condition=\"capitals-text\">La</phrase><phrase condition=\"capitals-img\">a</phrase> sekvan tagon, ili ne iris al la lernejo. Anstataŭe, ili rajdis siajn rultabulojn al la parlamentejo, kun grandaj protestaj ŝildoj sub la brakoj, kaj sidiĝis antaŭ la konstruaĵo. La antaŭan vesperon, ili metis LED-lumojn sur kelkajn el la ŝildoj, kiuj nun brilis hele. Ili konektis siajn laŭtparolilojn kune por ke ĉiu sur la strato povu aŭdi kion ili diris. Kelkaj preterpasantoj haltis kaj demandis la infanojn por kio ili manifestacias. “Por programara libereco!” ili respondis unuvoĉe kaj rakontis al la plenkreskuloj sian historion. Impresitaj, la plenkreskuloj kapjesis, kaj la prezidanto ankaŭ rigardis scivoleme iliajn ŝildojn dum li alproksimiĝis al la konstruaĵo."
+msgstr "<phrase condition=\"capitals-text\">La</phrase><phrase condition=\"capitals-img\">a</phrase> sekvan tagon, ili ne iris al la lernejo. Anstataŭe, ili rajdis siajn rultabulojn al la parlamentejo, kun grandaj protestaj ŝildoj sub la brakoj kaj sidiĝis antaŭ la konstruaĵo. La antaŭan vesperon, ili metis LED-lumojn sur kelkajn el la ŝildoj, kiuj nun brilis hele. Ili konektis siajn laŭtparolilojn kune por ke ĉiu sur la strato povu aŭdi kion ili diris. Kelkaj preterpasantoj haltis kaj demandis la infanojn por kio ili manifestacias. “Por programara libereco!” ili respondis unuvoĉe kaj rakontis al la plenkreskuloj sian historion. Impresitaj, la plenkreskuloj kapjesis kaj la prezidanto ankaŭ rigardis scivoleme iliajn ŝildojn dum li alproksimiĝis al la konstruaĵo."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:881
@@ -1000,14 +1000,14 @@ msgstr "Flava kaj verda farbo sur la planko kaj vaksokrajonoj flavaj, ruĝaj, bl
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:890
 msgid "With each passing day, more and more children and adults joined the protest. The bus driver they had helped drove up in her bus. She honked loudly to attract even more people to the protest. The custodian brought a few friends, and Toni’s father brought his colleagues from work, all wearing perfectly ironed ties. Even Ms. Gernet came. The crowd grew, and after a few weeks, there were protests not just in Ada’s city but also in many cities throughout the country."
-msgstr "Dum ĉiu pasanta tago, pli kaj pli da infanoj kaj plenkreskuloj aliĝis al la protesto. La busŝoforo, kiun ili helpis, alvenis per sia buso. Ŝi laŭte kornis por allogi eĉ pli da homoj al la protesto. La domzorgisto venigis kelkajn amikojn, kaj la patro de Toni venigis siajn kolegojn de la laboro, ĉiuj portantaj perfekte gladitajn kravatojn. Eĉ sinjorino Gernet venis. La homamaso kreskis, kaj post kelkaj semajnoj, okazis protestoj ne nur en la urbo de Ada, sed ankaŭ en multaj urboj tra la lando."
+msgstr "Dum ĉiu pasanta tago, pli kaj pli da infanoj kaj plenkreskuloj aliĝis al la protesto. La busŝoforo, kiun ili helpis, alvenis per sia buso. Ŝi laŭte kornis por allogi eĉ pli da homoj al la protesto. La domzorgisto venigis kelkajn amikojn kaj la patro de Toni venigis siajn kolegojn de la laboro, ĉiuj portantaj perfekte gladitajn kravatojn. Eĉ sinjorino Gernet venis. La homamaso kreskis kaj post kelkaj semajnoj, okazis protestoj ne nur en la urbo de Ada, sed ankaŭ en multaj urboj tra la lando."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:895
 msgid "Group of protesters. Among them there are: Ada’s mother holding Alan’s hand and raising a pink ice cream; 3 colleagues of Toni’s father dressed in ties; two children holding the banner “Do your homework Mr. President and we will do ours!”; a robot with tank treads, irons as feet, an electric fan as abdomen, a monitor as head, and an eggbeater as one hand, holding a blue ice cream in his other hand; two parents holding the banner “Hacking 4 Freedom”; a lady holding an electronic sign “There is a code B”; two small birds, flying; the math teacher, Ms. Gernet, who has inserted in her cart a sign that says “They are young + need the code!“ The dog in her cart is barking; Ada and Konrad are carrying the banner “Don’t wreck our tech!” Marie and Toni are walking beneath the banner, and Marie is talking through a bullhorn held in her hand; Ada’s family’s dog is now wearing a red harness with shiny yellow LEDs that matches the collar."
-msgstr "Grupo da protestantoj. Inter ili estas: la patrino de Ada tenanta la manon de Alan kaj levante rozkoloran glaciaĵon; 3 kolegoj de la patro de Toni vestitaj per kravatoj; du infanoj tenantaj la standardon “Faru viajn hejmtaskojn, sinjoro Prezidanto, kaj ni faros la niajn!”; roboto kun tankŝuoj, gladiloj kiel piedoj, elektra ventumilo kiel abdomeno, ekrano kiel kapo, kaj ovokirlilo kiel unu mano, tenante bluan glaciaĵon en la alia mano; du gepatroj tenantaj la standardon “Hacking 4 Freedom”; sinjorino tenanta elektronikan ŝildon “Ekzistas kodo B”; du malgrandaj birdoj, flugantaj; la matematika instruistino, sinjorino Gernet, kiu enigis en sian ĉaron ŝildon, kiu diras “Ili estas junaj + bezonas la kodon!”. La hundo en ŝia ĉaro bojas; Ada kaj Konrad portas la standardon “Ne detruu nian teknologion!”. Marie kaj Toni promenas sub la standardo, kaj Marie parolas per megafono tenata en ŝia mano; la hundo de la familio de Ada nun portas ruĝan jungilaron kun brilaj flavaj LED-oj, kiu kongruas kun la kolumo."
+msgstr "Grupo da protestantoj. Inter ili estas: la patrino de Ada tenanta la manon de Alan kaj levante rozkoloran glaciaĵon; 3 kolegoj de la patro de Toni vestitaj per kravatoj; du infanoj tenantaj la standardon “Faru viajn hejmtaskojn, sinjoro Prezidanto kaj ni faros la niajn!”; roboto kun tankŝuoj, gladiloj kiel piedoj, elektra ventumilo kiel abdomeno, ekrano kiel kapo kaj ovokirlilo kiel unu mano, tenante bluan glaciaĵon en la alia mano; du gepatroj tenantaj la standardon “Hacking por Libereco”; sinjorino tenanta elektronikan ŝildon “Ekzistas kodo B”; du malgrandaj birdoj, flugantaj; la matematika instruistino, sinjorino Gernet, kiu enigis en sian ĉaron ŝildon, kiu diras “Ili estas junaj + bezonas la kodon!”. La hundo en ŝia ĉaro bojas; Ada kaj Konrad portas la standardon “Ne detruu nian teknologion!”. Marie kaj Toni promenas sub la standardo kaj Marie parolas per megafono tenata en ŝia mano; la hundo de la familio de Ada nun portas ruĝan jungilaron kun brilaj flavaj LED-oj, kiu kongruas kun la kolumo."
 
 #. (itstool) path: info/excerpt
 #. Text on big banner, left on the illustration
@@ -1020,14 +1020,14 @@ msgstr "Faru viajn hejmtaskojn sinjoro Prezidanto kaj ni faros la nian!"
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:906
 msgid "Detail of the previous image: two children holding the banner “Do your homework Mr. President and we will do ours!”"
-msgstr "Detalo de la antaŭa bildo: du infanoj tenantaj la standardon “Faru viajn hejmtaskojn, sinjoro Prezidanto, kaj ni faros la niajn!”"
+msgstr "Detalo de la antaŭa bildo: du infanoj tenantaj la standardon “Faru viajn hejmtaskojn, sinjoro Prezidanto kaj ni faros la niajn!”"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:912
 msgid "Detail of the previous image: Ada and Konrad are carrying the banner “Don’t wreck our tech!” Marie and Toni are walking beneath the banner, and Marie is talking through a bullhorn held in her hand; Ada’s family’s little dog is now wearing a red harness with shiny yellow LEDs that matches the collar."
-msgstr "Detalo de la antaŭa bildo: Ada kaj Konrad portas la standardon “Ne detruu nian teknologion!” Marie kaj Toni iras sub la standardon, kaj Marie parolas per megafono tenata en ŝia mano; la hundeto de la familio de Ada nun portas ruĝan jungilaron kun brilaj flavaj LED-oj, kiu kongruas kun la kolumo."
+msgstr "Detalo de la antaŭa bildo: Ada kaj Konrad portas la standardon “Ne detruu nian teknologion!” Marie kaj Toni iras sub la standardon kaj Marie parolas per megafono tenata en ŝia mano; la hundeto de la familio de Ada nun portas ruĝan jungilaron kun brilaj flavaj LED-oj, kiu kongruas kun la kolumo."
 
 #. (itstool) path: info/excerpt
 #. Text on square signe on the right of the illustration
@@ -1086,7 +1086,7 @@ msgstr "Tiun vesperon, la infanoj hejmeniris fieraj kaj kontentaj. Io fine okazi
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:943
 msgid "Ada and her friends in the President’s office. Ada is reprogramming the President’s computer. Toni is setting up a speaker for the President’s secretary. Marie and Konrad are sitting on the floor and talking, and Marie has a laptop on her legs with an FSFE logo sticker (three stars: pea green, sky blue, and sea blue). On the floor are a bowl with candy and a plate with ice creams. The President’s phone is ringing, but nobody is answering."
-msgstr "Ada kaj ŝiaj amikoj en la oficejo de la Prezidanto. Ada reprogramas la komputilon de la Prezidanto. Toni starigas laŭtparolilon por la sekretario de la Prezidanto. Marie kaj Konrad sidas sur la planko kaj parolas, kaj Marie havas tekokomputilon sur siaj kruroj kun glumarko de FSFE-emblemo (tri steloj: pizverda, ĉielblua kaj marblua). Sur la planko estas bovlo kun bombonoj kaj telero kun glaciaĵoj. La telefono de la Prezidanto sonoras, sed neniu respondas."
+msgstr "Ada kaj ŝiaj amikoj en la oficejo de la Prezidanto. Ada reprogramas la komputilon de la Prezidanto. Toni starigas laŭtparolilon por la sekretario de la Prezidanto. Marie kaj Konrad sidas sur la planko kaj parolas kaj Marie havas tekokomputilon sur siaj kruroj kun glumarko de FSFE-emblemo (tri steloj: pizverda, ĉielblua kaj marblua). Sur la planko estas bovlo kun bombonoj kaj telero kun glaciaĵoj. La telefono de la Prezidanto sonoras, sed neniu respondas."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:949
@@ -1131,12 +1131,12 @@ msgstr "Krome, nova lerneja fako estis enkondukita: komputila aparataro kaj prog
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:970
 msgid "The President with Toni, Konrad, Marie, Ada, and a herald playing a trumpet. Marie is standing on top of a ladder talking into a microphone. Konrad firmly holds the ladder on which Marie is standing. Ada is standing on a chair and holds a copy of the new law bearing a seal. Ada’s dog is sitting in front of her."
-msgstr "La Prezidanto kun Toni, Konrad, Marie, Ada, kaj heroldo ludanta trumpeton. Marie staras sur ŝtupetaro kaj parolas en mikrofonon. Konrad firme tenas la ŝtupetaron, sur kiu Marie staras. Ada staras sur seĝo kaj tenas kopion de la nova leĝo kun sigelo. La hundo de Ada sidas antaŭ ŝi."
+msgstr "La Prezidanto kun Toni, Konrad, Marie, Ada kaj heroldo ludanta trumpeton. Marie staras sur ŝtupetaro kaj parolas en mikrofonon. Konrad firme tenas la ŝtupetaron, sur kiu Marie staras. Ada staras sur seĝo kaj tenas kopion de la nova leĝo kun sigelo. La hundo de Ada sidas antaŭ ŝi."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:975
 msgid "That evening, everyone celebrated with a big party. Ada, Alan, Toni, Marie, Konrad, and other children from school and their parents; the president; Ms. Gernet; the bus driver; the custodian — they were all there. They decorated the streets, listened to loud music, and ate ice cream, as much as they wanted, and in every imaginable shape and color."
-msgstr "Tiun vesperon, ĉiuj festis per granda festo. Ada, Alan, Toni, Marie, Konrad, kaj aliaj lernejaj infanoj kaj iliaj gepatroj; la prezidanto; sinjorino Gernet; la busŝoforo; la domzorgisto — ĉiuj ĉeestis. Ili ornamis la stratojn, aŭskultis laŭtan muzikon, kaj manĝis glaciaĵon, kiom ajn ili deziris, kaj en ĉiu imagebla formo kaj koloro."
+msgstr "Tiun vesperon, ĉiuj festis per granda festo. Ada, Alan, Toni, Marie, Konrad kaj aliaj lernejaj infanoj kaj iliaj gepatroj; la prezidanto; sinjorino Gernet; la busŝoforo; la domzorgisto — ĉiuj ĉeestis. Ili ornamis la stratojn, aŭskultis laŭtan muzikon kaj manĝis glaciaĵon, kiom ajn ili deziris kaj en ĉiu imagebla formo kaj koloro."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1155,7 +1155,7 @@ msgstr "Dum la aliaj daŭre festis ĝis malfrue en la nokton, Ada kaj ŝiaj amik
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:989
 msgid "The President, the secretary, and other people around a table enjoying crazy ice cream; yellow and orange flags continue from the previous image; a little girl who just took a pink ghost-shaped ice cream from the modified ice cream machine; Ada’s dog, Konrad, Marie, Ada, and Toni sneaking away from the party."
-msgstr "La Prezidanto, la sekretario, kaj aliaj homoj ĉirkaŭ tablo ĝuantaj frenezan glaciaĵon; flavaj kaj oranĝaj flagoj daŭras el la antaŭa bildo; knabineto kiu ĵus prenis rozkoloran fantomforman glaciaĵon el la modifita glaciaĵmaŝino; la hundo de Ada, Konrad, Marie, Ada, kaj Toni ŝtelirante for de la festo."
+msgstr "La Prezidanto, la sekretario kaj aliaj homoj ĉirkaŭ tablo ĝuantaj frenezan glaciaĵon; flavaj kaj oranĝaj flagoj daŭras el la antaŭa bildo; knabineto kiu ĵus prenis rozkoloran fantomforman glaciaĵon el la modifita glaciaĵmaŝino; la hundo de Ada, Konrad, Marie, Ada kaj Toni ŝtelirante for de la festo."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:995
@@ -1195,17 +1195,17 @@ msgstr "Agnoskoj"
 #. and encourage you to do that for other books in future as well.
 #: Ada_Zangemann.dbk:1028
 msgid "Many thanks to Reinhard Wiesemann from the Linuxhotel for the financial support and motivation to no longer plan but to make. Thanks to Sandra Brandstätter, who has brought me joy with every new design for the illustrations. Thanks to my editor Wiebke Helmchen, who made developing and sharpening the story fun, and to No Starch Press for agreeing to publish the book under a free culture license."
-msgstr "Multan dankon al Reinhard Wiesemann de la Linuksohotelo pro la financa subteno kaj instigo ne plu plani sed fari. Dankon al Sandra Brandstätter, kiu ĝojigis min per ĉiu nova dezajno por la ilustraĵoj. Dankon al mia redaktorino Wiebke Helmchen, kiu igis la disvolvon kaj akrigon de la rakonto amuza, kaj al No Starch Press pro konsento eldoni la libron sub libera kultura permesilo."
+msgstr "Multan dankon al Reinhard Wiesemann de la Linuksohotelo pro la financa subteno kaj instigo ne plu plani sed fari. Dankon al Sandra Brandstätter, kiu ĝojigis min per ĉiu nova dezajno por la ilustraĵoj. Dankon al mia redaktorino Wiebke Helmchen, kiu igis la disvolvon kaj akrigon de la rakonto amuza kaj al No Starch Press pro konsento eldoni la libron sub libera kultura permesilo."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1029
 msgid "Thanks to Bea and Benni, Brian, Christine and Marc, Cory, Bernhard, Isabel and Amelia, Katta, Kristina, Martin, Mona and Arne, Nina, Oliver, Reinhard, Sabine, and Torsten for great ideas, inspiration, and practical tips, and to the many people of the Free Software movement, from which I was allowed to learn and whose engagement motivated me."
-msgstr "Dankon al Bea kaj Benni, Brian, Christine kaj Marc, Cory, Bernhard, Isabel kaj Amelia, Katta, Kristina, Martin, Mona kaj Arne, Nina, Oliver, Reinhard, Sabine kaj Torsten pro bonegaj ideoj, inspiro kaj praktikaj konsiloj, kaj al la multaj homoj de la movado por libera programaro, de kiuj mi rajtis lerni kaj kies engaĝiĝo instigis min."
+msgstr "Dankon al Bea kaj Benni, Brian, Christine kaj Marc, Cory, Bernhard, Isabel kaj Amelia, Katta, Kristina, Martin, Mona kaj Arne, Nina, Oliver, Reinhard, Sabine kaj Torsten pro bonegaj ideoj, inspiro kaj praktikaj konsiloj kaj al la multaj homoj de la movado por libera programaro, de kiuj mi rajtis lerni kaj kies engaĝiĝo instigis min."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1033
 msgid "Thanks to my family, who made me write early in the morning, late in the evening, and on holiday, and who always supports my work for software freedom. Especially, I would like to thank my children, who inspired me with new ideas at each reading. Without them, this book would not exist."
-msgstr "Dankon al mia familio, kiu instigis min verki frumatene, malfruvespere kaj dum ferioj, kaj kiu ĉiam subtenas mian laboron por programara libereco. Precipe mi ŝatus danki miajn infanojn, kiuj inspiris min per novaj ideoj ĉe ĉiu legado. Sen ili, ĉi tiu libro ne ekzistus."
+msgstr "Dankon al mia familio, kiu instigis min verki frumatene, malfruvespere kaj dum ferioj kaj kiu ĉiam subtenas mian laboron por programara libereco. Precipe mi ŝatus danki miajn infanojn, kiuj inspiris min per novaj ideoj ĉe ĉiu legado. Sen ili, ĉi tiu libro ne ekzistus."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1237,7 +1237,7 @@ msgstr "Pri la Aŭtoro - Matthias Kirschner"
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:1062
 msgid "Close-up of Matthias smiling, waving with one hand, and wearing a headset. Matthias has short hair and a little beard."
-msgstr "Proksima bildo de Matthias ridetanta, mansalutanta per unu mano, kaj portanta aŭdilojn. Matthias havas mallongajn harojn kaj malgrandan barbon."
+msgstr "Proksima bildo de Matthias ridetanta, mansalutanta per unu mano kaj portanta aŭdilojn. Matthias havas mallongajn harojn kaj malgrandan barbon."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1064
