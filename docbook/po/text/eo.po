@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2025-10-27 12:02+0000\n"
+"PO-Revision-Date: 2025-10-28 13:02+0000\n"
 "Last-Translator: Marco Ciampa <ciampix@posteo.net>\n"
 "Language-Team: Esperanto <https://hosted.weblate.org/projects/fsfe/ada-zangemann/eo/>\n"
 "Language: eo\n"
@@ -315,7 +315,7 @@ msgstr ""
 "Unua eldono\n"
 "\n"
 "Aŭtoro: Matthias Kirschner\n"
-"Ilustristo: Sandra Brandstätter\n"
+"Ilustristino: Sandra Brandstätter\n"
 "\n"
 "La informoj en ĉi tiu libro estas distribuitaj \"Kiel Estas\", sen garantio. Kvankam ĉiu antaŭzorgo estis prenita dum la preparado de ĉi tiu verko, nek la aŭtoro nek la tradukistoj havos respondecon al iu ajn persono aŭ organizo rilate al iu ajn perdo aŭ damaĝo kaŭzita aŭ supozeble kaŭzita rekte aŭ nerekte de la informoj en ĝi.\n"
 "\n"
@@ -325,7 +325,7 @@ msgstr ""
 "\n"
 "Ĉi tiu libro de Matthias Kirschner (aŭtoro) kaj Sandra Brandstätter (ilustristino) estas licencita sub <emphasis role=\"bold\">Creative Commons CC-BY-SA</emphasis>, libera kultura permesilo.\n"
 "\n"
-"<emphasis role=\"bold\">Vi rajtas</emphasis> dividi, kopii kaj redistribui la materialon en iu ajn komunikilo aŭ formato. <emphasis role=\"bold\">Vi rajtas</emphasis> adapti, remiksi, transformi kaj konstrui sur la materialo por iu ajn celo, eĉ komerce. <emphasis role=\"bold\">Vi devas</emphasis> doni taŭgan krediton, provizi ligilon al la permesilo kaj indiki ĉu ŝanĝoj estis faritaj.\n"
+"<emphasis role=\"bold\">Vi rajtas</emphasis> kunpartigi, kopii kaj redistribui la materialon en iu ajn komunikilo aŭ formato. <emphasis role=\"bold\">Vi rajtas</emphasis> adapti, remiksi, transformi kaj konstrui sur la materialo por iu ajn celo, eĉ komerce. <emphasis role=\"bold\">Vi devas</emphasis> doni taŭgan krediton, provizi ligilon al la permesilo kaj indiki ĉu ŝanĝoj estis faritaj.\n"
 "\n"
 "<emphasis role=\"bold\">Vi rajtas</emphasis> fari tion laŭ iu ajn racia maniero, sed ne laŭ iu ajn maniero, kiu sugestas, ke la licencanto aprobas vin aŭ vian uzon. Se vi remiksas, transformas aŭ konstruas surbaze de la materialo, <emphasis role=\"bold\">vi devas</emphasis> distribui viajn kontribuojn sub la sama permesilo kiel la originalo. (Ĉi tio estas homlegebla resumo de - kaj ne anstataŭaĵo por - la \"jura kodo\" de CC-BY-SA 4.0.)\n"
 "\n"
@@ -460,7 +460,7 @@ msgstr "Dum la jaroj, Zangemann kreskis kaj komputiloj fariĝis pli malgrandaj. 
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:535
 msgid "Zangemann as a child on a chair at a school table. From his head come six bubbles in which there are his ideas of places in which to insert computers: a video call system, a speaker, a washing machine, a skateboard with radio control on a big computer monitor, a wrist computer, and a shoulder computer with a monitor and keyboard. Zangemann has gray hair, a dark purple shirt with blue horizontal stripes, blue shorts, brown shoes and white socks. He wears glasses and a big watch on his left wrist. On the table there are an open notebook, a yellow pencil, and an eraser, while hanging on the side of the table there is his brown briefcase."
-msgstr "Zangemann kiel infano sur seĝo ĉe lerneja tablo. El lia kapo venas ses vezikoj en kiuj estas liaj ideoj pri lokoj kie enmeti komputilojn: videolaŭtsistemon, laŭtparolilon, lavmaŝinon, rultabulon kun radio-regilo sur granda komputila ekrano, pojno-komputilon kaj ŝultro-komputilon kun ekrano kaj klavaro. Zangemann havas grizajn harojn, malhelviolkoloran ĉemizon kun bluaj horizontalaj strioj, bluajn pantalonetojn, brunajn ŝuojn kaj blankajn ŝtrumpetojn. Li portas okulvitrojn kaj grandan horloĝon sur sia maldekstra pojno. Sur la tablo estas malfermita kajero, flava krajono kaj skrapgumo, dum flanke de la tablo pendas lia bruna teko."
+msgstr "Zangemann kiam li estis infano sur seĝo ĉe lerneja tablo. El lia kapo venas ses vezikoj en kiuj estas liaj ideoj pri lokoj kie enmeti komputilojn: videolaŭtsistemon, laŭtparolilon, lavmaŝinon, rultabulon kun radio-regilo sur granda komputila ekrano, pojno-komputilon kaj ŝultro-komputilon kun ekrano kaj klavaro. Zangemann havas grizajn harojn, malhelviolkoloran ĉemizon kun bluaj horizontalaj strioj, bluajn pantalonetojn, brunajn ŝuojn kaj blankajn ŝtrumpetojn. Li portas okulvitrojn kaj grandan horloĝon sur sia maldekstra pojno. Sur la tablo estas malfermita kajero, flava krajono kaj skrapgumo, dum flanke de la tablo pendas lia bruna teko."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:540
@@ -540,7 +540,7 @@ msgstr "Zangeman sidas antaŭ sia ora komputilo sur ora brakseĝo kun tre alta r
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:589
 msgid "When he wasn’t sitting at his golden computer, Zangemann was building his little computers into new devices and then selling those. He built washing machines that sent a message to your cell phone when your laundry was done. He made vacuums that played happy music instead of droning loudly. He invented light bulbs that turned on and off at the snap of a finger and cars that told you where the nearest grocery store was."
-msgstr "Kiam li ne sidis ĉe sia ora komputilo, Zangemann konstruis siajn malgrandajn komputilojn en novajn aparatojn kaj poste vendis ilin. Li konstruis lavmaŝinojn, kiuj sendis mesaĝon al via poŝtelefono kiam via lavado estis farita. Li faris polvosuĉilojn, kiuj ludis ĝojan muzikon anstataŭ zumi laŭte. Li inventis ampolojn, kiuj ŝaltiĝis kaj malŝaltiĝis per fingroklako kaj aŭtojn, kiuj indikis, kie estas la plej proksima nutraĵvendejo."
+msgstr "Kiam li ne sidis ĉe sia ora komputilo, Zangemann konstruis siajn malgrandajn komputilojn en novajn aparatojn kaj poste vendis ilin. Li konstruis lavmaŝinojn, kiuj sendis mesaĝon al via poŝtelefono kiam la lavado estas farita. Li faris polvosuĉilojn, kiuj ludis ĝojan muzikon anstataŭ zumi laŭte. Li inventis ampolojn, kiuj ŝaltiĝas kaj malŝaltiĝas per fingroklako kaj aŭtojn, kiuj indikas, kie estas la plej proksima nutraĵvendejo."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -647,7 +647,7 @@ msgstr "Kvin infanoj el la lernejo, kiuj ne povas funkciigi rultabulojn. Du knab
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:667
 msgid "Although she didn’t own any of these things, Ada wondered why the skateboards and the speakers suddenly stopped working. But she didn’t really have time to think much about it, because she was tinkering again. She put together a complete bicycle from the parts of three broken bicycles. She gave the bicycle to her mother as a present so that she wouldn’t have to spend her money on bus tickets to work. For her brother, Ada built a loudspeaker so he could fall asleep to nice stories in the evenings when their mother was still at work."
-msgstr "Kvankam ŝi ne posedis iujn ajn el ĉi tiuj aĵoj, Ada scivolis, kial la rultabuloj kaj la laŭtparoliloj subite ĉesis funkcii. Sed ŝi ne vere havis tempon por multe pensi pri tio, ĉar ŝi denove riparis. Ŝi kunmetis kompletan biciklon el la partoj de tri rompitaj bicikloj. Ŝi donacis la biciklon al sia patrino, por ke ŝi ne devu elspezi sian monon por busbiletoj al la laboro. Por sia frato, Ada konstruis laŭtparolilon, por ke li povu endormiĝi al agrablaj rakontoj vespere, kiam ilia patrino ankoraŭ laboris."
+msgstr "Kvankam ŝi ne posedis iujn ajn el ĉi tiuj aĵoj, Ada scivolis, kial la rultabuloj kaj la laŭtparoliloj subite ĉesis funkcii. Sed ŝi ne vere havis tempon por multe pensi pri tio, ĉar ŝi denove riparis. Ŝi kunmetis kompletan biciklon el la partoj de tri rompitaj bicikloj. Ŝi donacis la biciklon al sia patrino, por ke ŝi ne devu elspezi sian monon por busbiletoj al la laboro. Por sia frato, Ada konstruis laŭtparolilon, por ke li povu endormiĝi je agrablaj rakontoj vespere, kiam ilia patrino ankoraŭ laboris."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -659,7 +659,7 @@ msgstr "Proksima bildo de Ada pensema, kun dorsosako kaj kun unu mano sur la men
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:675
 msgid "After a few days, the initial shock at Ada’s school was forgotten. The skateboards still didn’t go on the sidewalk, but apart from that, they still worked. And so now the children rode in circles around the playground and listened to soft music. Only a strange, pompous marching music continued to play at an unchanged volume, which the children found rather puzzling."
-msgstr "Post kelkaj tagoj, la komenca ŝoko ĉe la lernejo de Ada estis forgesita. La rultabuloj ankoraŭ ne iris sur la trotuaron, sed krom tio, ili ankoraŭ funkciis. Kaj tiel nun la infanoj biciklis en rondoj ĉirkaŭ la ludejo kaj aŭskultis mallaŭtan muzikon. Nur stranga, pompa marŝanta muziko daŭre ludis je senŝanĝa laŭteco, kion la infanoj trovis sufiĉe enigma."
+msgstr "Post kelkaj tagoj, la komenca ŝoko ĉe la lernejo de Ada estis forgesita. La rultabuloj ankoraŭ ne iris sur la trotuaron, sed krom tio, ili ankoraŭ funkciis. Kaj tiel nun la infanoj biciklis en rondoj ĉirkaŭ la ludejo kaj aŭskultis mallaŭtan muzikon. Nur stranga, pompa marŝanta muziko daŭre ludiĝis je senŝanĝa laŭteco, kion la infanoj trovis sufiĉe enigma."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:680
@@ -670,7 +670,7 @@ msgstr "Ada kaj programaro"
 #. (itstool) id: Ada_Zangemann.dbk#para-p20-1
 #: Ada_Zangemann.dbk:684
 msgid "<phrase condition=\"capitals-text\">Ada</phrase><phrase condition=\"capitals-img\">da</phrase> loved Wednesdays. Every Wednesday, her mother and Alan would pick her up from school, and they would all go to the library together. Ada was always drawn to the technology section. There were books with blueprints, instructions for experiments, and explanations of how different devices worked. In the library, Ada could also go online with her cell phone. She quickly realized that there was also much to discover on the internet. There, many people shared their ideas and repair tips to help others."
-msgstr "<phrase condition=\"capitals-text\">Ada</phrase><phrase condition=\"capitals-img\">da</phrase> amis merkredojn. Ĉiun merkredon, ŝia patrino kaj Alan prenis ŝin de la lernejo kaj ili ĉiuj iris al la biblioteko kune. Ada ĉiam estis allogita al la teknologia sekcio. Estis libroj kun skizoj, instrukcioj por eksperimentoj kaj klarigoj pri kiel malsamaj aparatoj funkciis. En la biblioteko, Ada ankaŭ povis iri interreten per sia poŝtelefono. Ŝi rapide komprenis, ke ankaŭ estis multe malkovrebla en la interreto. Tie, multaj homoj kundividis siajn ideojn kaj riparajn konsilojn por helpi aliajn."
+msgstr "<phrase condition=\"capitals-text\">Ada</phrase><phrase condition=\"capitals-img\">da</phrase> amis merkredojn. Ĉiun merkredon, ŝia patrino kaj Alan prenis ŝin de la lernejo kaj ili ĉiuj iris al la biblioteko kune. Ada ĉiam estis allogita al la teknologia sekcio. Estis libroj kun skizoj, instrukcioj por eksperimentoj kaj klarigoj pri kiel malsamaj aparatoj funkcias. En la biblioteko, Ada ankaŭ povis iri interreten per sia poŝtelefono. Ŝi rapide komprenis, ke ankaŭ estis multo malkovrebla en la interreto. Tie, multaj homoj kunpartigis siajn ideojn kaj riparajn konsilojn por helpi aliajn."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:685
@@ -753,7 +753,7 @@ msgstr "Vekiĝinte unu matenon kun profunde sulkiĝinta frunto, li faris decidon
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:734
 msgid "Once he was done, he sent all the new programs from his golden computer to people’s devices. He ordered his speakers to play only his favorite music whenever he was within earshot. He programmed the ice-cream machines to stop selling ice cream in the afternoon. After all, he didn’t want his expensive clothes to get stained by ice cream while he was out for a walk. All day long he sat at the computer and typed and typed and typed..."
-msgstr "Fininte, li sendis ĉiujn novajn programojn de sia ora komputilo al la aparatoj de homoj. Li ordonis, ke ĝiaj laŭtparoliloj ludu nur lian plej ŝatatan muzikon kiam ajn li estis aŭdebla. Li programis la glaciaĵmaŝinojn por ĉesi vendi glaciaĵon posttagmeze. Fine, li ne volis, ke liaj multekostaj vestaĵoj makuliĝu per glaciaĵo dum li promenis. La tutan tagon li sidis ĉe la komputilo kaj tajpis kaj tajpis kaj tajpis..."
+msgstr "Fininte, li sendis ĉiujn novajn programojn de sia ora komputilo al la aparatoj de homoj. Li ordonis, ke ĝiaj laŭtparoliloj ludu nur lian plej ŝatatan muzikon kiam ajn li estas aŭdeblaj de li. Li programis la glaciaĵmaŝinojn por ĉesi vendi glaciaĵon posttagmeze. Fine, li ne volis, ke liaj multekostaj vestaĵoj makuliĝu per glaciaĵo dum li promenis. La tutan tagon li sidis ĉe la komputilo kaj tajpis kaj tajpis kaj tajpis..."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:739
@@ -769,7 +769,7 @@ msgstr "<phrase condition=\"capitals-text\">Somera</phrase><phrase condition=\"c
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:744
 msgid "After falling on her bottom for the hundredth time, she went back to the library. She always found answers to her questions there. And indeed, on the internet, she came across a program that someone had written for an electric scooter that also needed to start slowly. Ada downloaded it to her phone."
-msgstr "Post falado sur sian pugon por la centa fojo, ŝi reiris al la biblioteko. Ŝi ĉiam trovis tie respondojn al siaj demandoj. Kaj efektive, en la interreto, ŝi trovis programon, kiun iu verkis por elektra skotero, kiu ankaŭ devis komenciĝi malrapide. Ada elŝutis ĝin al sia telefono."
+msgstr "Post falado sur sian pugon por la centa fojo, ŝi reiris al la biblioteko. Ŝi ĉiam trovis tie respondojn al siaj demandoj. Kaj efektive, en la interreto, ŝi trovis programon, kiun iu verkis por elektra skotero, kiu ankaŭ devis ekmoviĝi malrapide. Ada elŝutis ĝin al sia telefono."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:746
@@ -813,7 +813,7 @@ msgstr "Ada pripensis momenton, poste diris: “Mi ne pensas, ke temas pri viaj 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:770
 msgid "That evening, Ada tested out her theory on her classmate Toni’s skateboard. She worked secretly through most of the night, and the next day, Toni could ride on the sidewalk again. Unfortunately, his skateboard could no longer make the sounds that his parents had bought from Zangemann. Instead, every 10 minutes it made a strange noise that sounded like a drawn-out burp. Ada knew that little errors like that could pop up in programs all the time. But Toni’s burping skateboard was really quite funny."
-msgstr "Tiun vesperon, Ada testis sian teorion sur la rultabulo de sia samklasanino Toni. Ŝi laboris sekrete dum plejparto de la nokto kaj la sekvan tagon, Toni povis denove rajdi sur la trotuaro. Bedaŭrinde, lia rultabulo jam ne povis fari la sonojn, kiujn liaj gepatroj aĉetis de Zangemann. Anstataŭe, ĉiujn 10 minutojn ĝi faris strangan bruon, kiu sonis kiel longedaŭra rukto. Ada sciis, ke tiaj malgrandaj eraroj povas aperi en programoj ĉiam. Sed la ruktanta rultabulo de Toni estis vere tre amuza."
+msgstr "Tiun vesperon, Ada testis sian teorion sur la rultabulo de sia samklasano Toni. Ŝi laboris sekrete dum plejparto de la nokto kaj la sekvan tagon, Toni povis denove rajdi sur la trotuaro. Bedaŭrinde, lia rultabulo jam ne povis fari la sonojn, kiujn liaj gepatroj aĉetis de Zangemann. Anstataŭe, ĉiujn 10 minutojn ĝi faris strangan bruon, kiu sonis kiel longedaŭra rukto. Ada sciis, ke tiaj malgrandaj eraroj povas aperi en programoj ĉiam. Sed la ruktanta rultabulo de Toni estis vere tre amuza."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -831,12 +831,12 @@ msgstr "Hakado por libereco"
 #. (itstool) id: Ada_Zangemann.dbk#para-p30-1
 #: Ada_Zangemann.dbk:785
 msgid "<phrase condition=\"capitals-text\">More</phrase><phrase condition=\"capitals-img\">ore</phrase> and more children started to visit Ada at the junkyard after school, and she helped them rewrite the programs in their skateboards. Some of her classmates were very excited about this new discovery. It was unbelievable what you could do with software code! They wanted to learn everything Ada knew about programming languages, and soon they were riding their skateboards again, wherever they wanted to."
-msgstr "<phrase condition=\"capitals-text\">Pli</phrase><phrase condition=\"capitals-img\">li</phrase> kaj pli da infanoj komencis viziti Ada-n ĉe la rubdeponejo post la lernejo kaj ŝi helpis ilin reskribi la programojn en siaj rultabuloj. Kelkaj el ŝiaj samklasanoj estis tre ekscititaj pri ĉi tiu nova malkovro. Estis nekredeble, kion oni povis fari per programara kodo! Ili volis lerni ĉion, kion Ada sciis pri programlingvoj kaj baldaŭ ili denove rajdis siajn rultabulojn, kien ajn ili volis."
+msgstr "<phrase condition=\"capitals-text\">Pli</phrase><phrase condition=\"capitals-img\">li</phrase> kaj pli da infanoj komencis viziti Ada-n ĉe la rubdeponejo post la lernejo kaj ŝi helpis ilin reskribi la programojn en siaj rultabuloj. Kelkaj el ŝiaj samklasanoj estis tre ekscititaj pri ĉi tiu nova malkovro. Estis nekredeble, kion oni povis fari per programara kodo! Ili volis lerni ĉion, kion Ada sciis pri programlingvoj kaj baldaŭ ili denove rajdis sur siaj rultabuloj, kien ajn ili volis."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:787
 msgid "But that wasn’t all. With the software, they could give their skateboards new, cool features. Marie attached colorful LED lights to her board that glowed different colors depending on the speed. Konrad built old propellers onto his skateboard for extra speed."
-msgstr "Sed tio ne estis ĉio. Per la programaro, ili povis doni al siaj rultabuloj novajn, interesajn funkciojn. Marie alkroĉis kolorajn LED-lumojn al sia tabulo, kiuj brilis per diversaj koloroj depende de la rapido. Konrad konstruis malnovajn helicojn sur sian rultabulon por ekstra rapideco."
+msgstr "Sed tio ne estis ĉio. Per la programaro, ili povis doni al siaj rultabuloj novajn, interesajn funkciojn. Marie alkroĉis kolorajn LED-lumojn al sia tabulo, kiuj brilis per diversaj koloroj depende de la rapido. Konrad almontis malnovajn helicojn sur sian rultabulon por ekstra rapideco."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -892,12 +892,12 @@ msgstr "Manoj tenantaj mirindajn glaciaĵkonusojn: blua glaciaĵo kun ĉokolada 
 #. (itstool) id: Ada_Zangemann.dbk#para-p35-1
 #: Ada_Zangemann.dbk:838
 msgid "<phrase condition=\"capitals-text\">Every</phrase><phrase condition=\"capitals-img\">very</phrase> day, Ada and her friends made plans together for the afternoon. From a broken ice-cream machine, they built a new one that could make ice cream in every imaginable shape and color. They ate square ice cream, heart-shaped ice cream, and even pyramid-shaped ice cream, as well as strawberry, raspberry, and rainbow ice cream, all with sprinkles and hot fudge — much better than the varieties from the Zangemann machines."
-msgstr "<phrase condition=\"capitals-text\">Ĉiun</phrase><phrase condition=\"capitals-img\">iun</phrase> tagon, Ada kaj ŝiaj amikinoj faris planojn kune por la posttagmezo. El rompita glaciaĵmaŝino, ili konstruis novan, kiu povis fari glaciaĵon en ĉiu imagebla formo kaj koloro. Ili manĝis kvadratan glaciaĵon, korforman glaciaĵon kaj eĉ piramidforman glaciaĵon, same kiel fragan, framban kaj ĉielarkan glaciaĵon, ĉion kun ŝprucetoj kaj varma ĉokolada saŭco — multe pli bone ol la variaĵoj de la Zangemann-maŝinoj."
+msgstr "<phrase condition=\"capitals-text\">Ĉiun</phrase><phrase condition=\"capitals-img\">iun</phrase> tagon, Ada kaj ŝiaj amikinoj faris planojn kune por la posttagmezo. El rompita glaciaĵmaŝino, ili konstruis novan, kiu povis fari glaciaĵon en ĉiu imagebla formo kaj koloro. Ili manĝis kvadratan glaciaĵon, korforman glaciaĵon kaj eĉ piramidforman glaciaĵon, same kiel fragan, framban kaj ĉielarkan glaciaĵon, ĉion kun ŝprucetoj kaj varma ĉokolada saŭco — multe pli bonguste ol la variaĵoj de la Zangemann-maŝinoj."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:839
 msgid "Sometimes they could even help adults. Toni reprogrammed his father’s ironing machine so that it could also iron ties again — Zangemann had forbidden the machines to do so because he hated ties like the plague. For the bus driver, they built an automatic watering system out of old hoses and a computer so that her plants would not die of thirst during summer days. And they helped the school custodian modify his vacuum so that it automatically recognized toys and wouldn’t suck them up."
-msgstr "Iafoje ili eĉ povis helpi plenkreskulojn. Toni reprogramis la gladilon de sia patro por ke ĝi ankaŭ povu denove gladi kravatojn — Zangemann malpermesis al la maŝinoj fari tion ĉar li malamis kravatojn kiel la peston. Por la busŝoforo, ili konstruis aŭtomatan akvumadsistemon el malnovaj tuboj kaj komputilon por ke ŝiaj plantoj ne mortu pro soifo dum someraj tagoj. Kaj ili helpis la lernejgardiston modifi sian polvosuĉilon por ke ĝi aŭtomate rekonu ludilojn kaj ne ensuĉu ilin."
+msgstr "Iafoje ili eĉ povis helpi plenkreskulojn. Toni reprogramis la gladilon de sia patro por ke ĝi ankaŭ povu denove gladi kravatojn — Zangemann malpermesis al la maŝinoj fari tion ĉar li malamis kravatojn kiel la peston. Por la busŝoforino, ili konstruis aŭtomatan akvumadsistemon el malnovaj tuboj kaj komputilon por ke ŝiaj plantoj ne mortu pro soifo dum someraj tagoj. Kaj ili helpis la lernejgardiston modifi sian polvosuĉilon por ke ĝi aŭtomate rekonu ludilojn kaj ne ensuĉu ilin."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:840
@@ -913,7 +913,7 @@ msgstr "Zangemann kaj la Prezidanto"
 #. (itstool) id: Ada_Zangemann.dbk#para-p36-1
 #: Ada_Zangemann.dbk:849
 msgid "<phrase condition=\"capitals-text\">One</phrase><phrase condition=\"capitals-img\">ne</phrase> day, Zangemann noticed that some computers no longer obeyed his programming commands. Shocked and fuming with anger, he called the president. In a quivering voice, Zangemann yelled, “Someone is rewriting the programs in my devices. That can’t happen; after all, they are my inventions. It’s far too dangerous if everyone can do whatever they want with the computers. You must make a law against this!”"
-msgstr "<phrase condition=\"capitals-text\">Iun</phrase><phrase condition=\"capitals-img\">un</phrase> tagon, Zangemann rimarkis, ke kelkaj komputiloj jam ne obeis liajn programajn komandojn. Ŝokita kaj kolerplena, li telefonis al la prezidanto. Per tremanta voĉo, Zangemann kriis: “Iu reskribas la programojn en miaj aparatoj. Tio ne povas okazi; finfine, ili estas miaj inventaĵoj. Estas multe tro danĝere, se ĉiu povas fari kion ajn ili volas per la komputiloj. Vi devas fari leĝon kontraŭ tio!”"
+msgstr "<phrase condition=\"capitals-text\">Iun</phrase><phrase condition=\"capitals-img\">un</phrase> tagon, Zangemann rimarkis, ke kelkaj komputiloj ne plu obeis liajn programajn komandojn. Ŝokita kaj kolerplena, li telefonis al la prezidanto. Per tremanta voĉo, Zangemann kriis: “Iu reskribas la programojn en miaj aparatoj. Tio ne povas okazi; finfine, ili estas miaj inventaĵoj. Estas multe tro danĝere, se ĉiu povas fari kion ajn ili volas per la komputiloj. Vi devas fari leĝon kontraŭ tio!”"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:850
@@ -975,7 +975,7 @@ msgstr "Flava kaj verda farbo sur la planko kaj vaksokrajonoj flavaj, ruĝaj, bl
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:890
 msgid "With each passing day, more and more children and adults joined the protest. The bus driver they had helped drove up in her bus. She honked loudly to attract even more people to the protest. The custodian brought a few friends, and Toni’s father brought his colleagues from work, all wearing perfectly ironed ties. Even Ms. Gernet came. The crowd grew, and after a few weeks, there were protests not just in Ada’s city but also in many cities throughout the country."
-msgstr "Dum ĉiu pasanta tago, pli kaj pli da infanoj kaj plenkreskuloj aliĝis al la protesto. La busŝoforo, kiun ili helpis, alvenis per sia buso. Ŝi laŭte kornis por allogi eĉ pli da homoj al la protesto. La domzorgisto venigis kelkajn amikojn kaj la patro de Toni venigis siajn kolegojn de la laboro, ĉiuj portantaj perfekte gladitajn kravatojn. Eĉ sinjorino Gernet venis. La homamaso kreskis kaj post kelkaj semajnoj, okazis protestoj ne nur en la urbo de Ada, sed ankaŭ en multaj urboj tra la lando."
+msgstr "Dum ĉiu pasanta tago, pli kaj pli da infanoj kaj plenkreskuloj aliĝis al la protesto. La busŝoforino, kiun ili helpis, alvenis per sia buso. Ŝi laŭte kornis por allogi eĉ pli da homoj al la protesto. La domzorgisto venigis kelkajn amikojn kaj la patro de Toni venigis siajn kolegojn de la laboro, ĉiuj portantaj perfekte gladitajn kravatojn. Eĉ sinjorino Gernet venis. La homamaso kreskis kaj post kelkaj semajnoj, okazis protestoj ne nur en la urbo de Ada, sed ankaŭ en multaj urboj tra la lando."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1084,7 +1084,7 @@ msgstr "Heroldo, portante ĉapelon kun plumo, ludanta trumpeton sur kiu ruĝa st
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:959
 msgid "In the days that followed, they talked from morning to night and designed their first programs for the government’s computers. They were no longer disturbed by Zangemann’s calls. Toni had the good idea of reprogramming the telephones. When Zangemann called, he only heard an automated recording: “The government only wants to use software that it can freely use, study, share, and improve. Thank you for calling.”"
-msgstr "En la sekvaj tagoj, ili interparolis de mateno ĝis nokto kaj desegnis siajn unuajn programojn por la registaraj komputiloj. Ili jam ne estis ĝenataj de la vokoj de Zangemann. Toni havis la bonan ideon reprogrami la telefonojn. Kiam Zangemann telefonis, li aŭdis nur aŭtomatan registraĵon: “La registaro nur volas uzi programaron, kiun ĝi povas libere uzi, studi, dividi kaj plibonigi. Dankon pro via voko.”"
+msgstr "En la sekvaj tagoj, ili interparolis de mateno ĝis nokto kaj desegnis siajn unuajn programojn por la registaraj komputiloj. Ili jam ne estis ĝenataj de la vokoj de Zangemann. Toni havis la bonan ideon reprogrami la telefonojn. Kiam Zangemann telefonis, li aŭdis nur aŭtomatan registraĵon: “La registaro nur volas uzi programaron, kiun ĝi povas libere uzi, studi, kunpartigi kaj plibonigi. Dankon pro via voko.”"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:961
@@ -1094,7 +1094,7 @@ msgstr "Tiam, post multaj semajnoj da protestoj kaj diskutoj, la tempo finfine v
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:964
 msgid "“Everyone is allowed to program their own computers as long as they adhere to the other laws.”"
-msgstr "“Ĉiu rajtas programi siajn proprajn komputilojn, kondiĉe ke ili respektas la aliajn leĝojn.”"
+msgstr "“Ĉiu rajtas programi siajn proprajn komputilojn, kondiĉe ke ili respektu la aliajn leĝojn.”"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:965
@@ -1111,7 +1111,7 @@ msgstr "La Prezidanto kun Toni, Konrad, Marie, Ada kaj heroldo ludanta trumpeton
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:975
 msgid "That evening, everyone celebrated with a big party. Ada, Alan, Toni, Marie, Konrad, and other children from school and their parents; the president; Ms. Gernet; the bus driver; the custodian — they were all there. They decorated the streets, listened to loud music, and ate ice cream, as much as they wanted, and in every imaginable shape and color."
-msgstr "Tiun vesperon, ĉiuj festis per granda festo. Ada, Alan, Toni, Marie, Konrad kaj aliaj lernejaj infanoj kaj iliaj gepatroj; la prezidanto; sinjorino Gernet; la busŝoforo; la domzorgisto — ĉiuj ĉeestis. Ili ornamis la stratojn, aŭskultis laŭtan muzikon kaj manĝis glaciaĵon, kiom ajn ili deziris kaj en ĉiu imagebla formo kaj koloro."
+msgstr "Tiun vesperon, ĉiuj festis per granda festo. Ada, Alan, Toni, Marie, Konrad kaj aliaj lernejaj infanoj kaj iliaj gepatroj; la prezidanto; sinjorino Gernet; la busŝoforino; la domzorgisto — ĉiuj ĉeestis. Ili ornamis la stratojn, aŭskultis laŭtan muzikon kaj manĝis glaciaĵon, kiom ajn ili deziris kaj en ĉiu imagebla formo kaj koloro."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1170,12 +1170,15 @@ msgstr "Agnoskoj"
 #. and encourage you to do that for other books in future as well.
 #: Ada_Zangemann.dbk:1028
 msgid "Many thanks to Reinhard Wiesemann from the Linuxhotel for the financial support and motivation to no longer plan but to make. Thanks to Sandra Brandstätter, who has brought me joy with every new design for the illustrations. Thanks to my editor Wiebke Helmchen, who made developing and sharpening the story fun, and to No Starch Press for agreeing to publish the book under a free culture license."
-msgstr "Multan dankon al Reinhard Wiesemann de la Linuksohotelo pro la financa subteno kaj instigo ne plu plani sed fari. Dankon al Sandra Brandstätter, kiu ĝojigis min per ĉiu nova dezajno por la ilustraĵoj. Dankon al mia redaktorino Wiebke Helmchen, kiu igis la disvolvon kaj akrigon de la rakonto amuza kaj al No Starch Press pro konsento eldoni la libron sub libera kultura permesilo."
+msgstr "Dankon al Sandra Brandstätter, kiu ĝojigis min per ĉiu nova desegno por la ilustraĵoj. Dankon al mia redaktorino Wiebke Helmchen, kiu igis la disvolvon kaj akrigon de la rakonto amuza."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1029
 msgid "Thanks to Bea and Benni, Brian, Christine and Marc, Cory, Bernhard, Isabel and Amelia, Katta, Kristina, Martin, Mona and Arne, Nina, Oliver, Reinhard, Sabine, and Torsten for great ideas, inspiration, and practical tips, and to the many people of the Free Software movement, from which I was allowed to learn and whose engagement motivated me."
-msgstr "Dankon al Bea kaj Benni, Brian, Christine kaj Marc, Cory, Bernhard, Isabel kaj Amelia, Katta, Kristina, Martin, Mona kaj Arne, Nina, Oliver, Reinhard, Sabine kaj Torsten pro bonegaj ideoj, inspiro kaj praktikaj konsiloj kaj al la multaj homoj de la movado por libera programaro, de kiuj mi rajtis lerni kaj kies engaĝiĝo instigis min."
+msgstr ""
+"Dankon al Bea kaj Benni, Brian, Christine kaj Marc, Cory, Bernhard, Isabel kaj Amelia, Katta, Kristina, Martin, Mona kaj Arne, Nina, Oliver, Reinhard, Sabine kaj Torsten pro bonegaj ideoj, inspiro kaj praktikaj konsiloj kaj al la multaj homoj de la movado por libera programaro, de kiuj mi rajtis lerni kaj kies engaĝiĝo instigis min.\n"
+"\n"
+"Grandan dankon al Luigi kaj Luigia pro via helpo trovi erarojn kaj plibonigi la esperantan tekston."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1033
@@ -1217,13 +1220,13 @@ msgstr "Proksima bildo de Matthias ridetanta, mansalutanta per unu mano kaj port
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1064
 msgid "Matthias was fascinated by computers and software as a child. He had an internet connection early, through which he learned a lot. Children have a right to take their future into their own hands. Therefore, Matthias is committed to the goal that all humans can use software in a self-determined way. He also wants to build an electric skateboard with Free Software."
-msgstr "Matiaso estis fascinita de komputiloj kaj programaro kiel infano. Li havis retkonekton frue, per kiu li lernis multon. Infanoj rajtas preni sian estontecon en siajn proprajn manojn. Tial, Matthias estas dediĉita al la celo, ke ĉiuj homoj povu uzi programaron laŭ memdestinita maniero. Li ankaŭ volas konstrui elektran rultabulon per libera programaro."
+msgstr "Matiaso estis fascinita de komputiloj kaj programaro jam infano. Li havis retkonekton frue, per kiu li lernis multon. Infanoj rajtas preni sian estontecon en siajn proprajn manojn. Tial, Matthias estas dediĉita al la celo, ke ĉiuj homoj povu uzi programaron laŭ memdestinita maniero. Li ankaŭ volas konstrui elektran rultabulon per libera programaro."
 
 #. (itstool) path: info/title
 #. (itstool) id: Ada_Zangemann.dbk#title-illustrator
 #: Ada_Zangemann.dbk:1070
 msgid "About the Illustrator"
-msgstr "Pri la Ilustristo"
+msgstr "Pri la Ilustristino"
 
 #. (itstool) path: info/subtitle
 #. (itstool) id: Ada_Zangemann.dbk#subtitle-illustrator
@@ -1235,7 +1238,7 @@ msgstr "Sandra Brandstätter"
 #. (itstool) path: info/titleabbrev
 #: Ada_Zangemann.dbk:1072
 msgid "About the Illustrator - Sandra Brandstätter"
-msgstr "Pri la ilustristo - Sandra Brandstätter"
+msgstr "Pri la ilustristino - Sandra Brandstätter"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1247,7 +1250,7 @@ msgstr "Sandra ridetas kun krajono en la mano antaŭ la mentono. Ŝi havas aŭdi
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1087
 msgid "Sandra has always liked crafting with scissors, pliers, glue, wire, fabric, and paper. Today she works as an illustrator, comic author, and character designer for animated films and series, such as the German public television series Trudes Tier. On an ice-cream machine, Sandra would pick a creamy rainbow ice cream with lemon cucumber flavor and a lot of sprinkles."
-msgstr "Sandra ĉiam ŝatis metiartojn per tondilo, pinĉilo, gluo, drato, ŝtofo kaj papero. Hodiaŭ ŝi laboras kiel ilustristino, bildstria aŭtorino kaj rolula dizajnistino por animaciaj filmoj kaj serioj, kiel ekzemple la germana publika televida serio Trudes Tier. Sur glaciaĵmaŝino, Sandra elektus kreman ĉielarkan glaciaĵon kun citrona kukuma gusto kaj multaj ŝprucetoj."
+msgstr "Sandra ĉiam ŝatis metiartojn per tondilo, pinĉilo, gluo, drato, ŝtofo kaj papero. Hodiaŭ ŝi laboras kiel ilustristino, bildstria aŭtorino kaj rolula desegnistino por animaciaj filmoj kaj serioj, kiel ekzemple la germana publika televida serio Trudes Tier. Pri glaciaĵmaŝino, Sandra elektus kreman ĉielarkan glaciaĵon kun citrona kukuma gusto kaj multaj ŝprucetoj."
 
 #. (itstool) path: info/title
 #. (itstool) id: Ada_Zangemann.dbk#title-bookswebsite
@@ -1258,7 +1261,7 @@ msgstr "Retejo de la libro"
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1100
 msgid "The Free Software Foundation Europe e.V. is a nonprofit association that empowers people to control technology. Software affects all areas of our life. That is why it is important that this technology gives us freedom instead of restricting us. Free Software (also called Open Source) gives everyone the right to use, study, share, and improve programs. Therefore, Free Software strengthens basic rights such as freedom of expression, freedom of the press, and the right to privacy."
-msgstr "Free Software Foundation Europe e.V. estas neprofitcela asocio, kiu rajtigas homojn kontroli teknologion. Programaro influas ĉiujn areojn de nia vivo. Tial gravas, ke ĉi tiu teknologio donu al ni liberecon anstataŭ limigi nin. Libera programaro (ankaŭ nomata Malfermita Fonto) donas al ĉiu la rajton uzi, studi, dividi kaj plibonigi programojn. Tial, Libera programaro plifortigas bazajn rajtojn kiel ekzemple esprimliberecon, gazetaran liberecon kaj la rajton je privateco."
+msgstr "Free Software Foundation Europe e.V. estas neprofitcela asocio, kiu rajtigas homojn kontroli teknologion. Programaro influas ĉiujn areojn de nia vivo. Tial gravas, ke tiu teknologio donu al ni liberecon anstataŭ limigi nin. Libera programaro (ankaŭ nomata Malfermita Fonto) donas al ĉiu la rajton uzi, studi, kunpartigi kaj plibonigi programojn. Tial, Libera programaro plifortigas bazajn rajtojn kiel ekzemple esprimliberecon, gazetaran liberecon kaj la rajton je privateco."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1102
