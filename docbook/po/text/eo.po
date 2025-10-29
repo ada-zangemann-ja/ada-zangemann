@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2025-10-28 13:02+0000\n"
+"PO-Revision-Date: 2025-10-29 16:40+0000\n"
 "Last-Translator: Marco Ciampa <ciampix@posteo.net>\n"
 "Language-Team: Esperanto <https://hosted.weblate.org/projects/fsfe/ada-zangemann/eo/>\n"
 "Language: eo\n"
@@ -892,7 +892,7 @@ msgstr "Manoj tenantaj mirindajn glaciaĵkonusojn: blua glaciaĵo kun ĉokolada 
 #. (itstool) id: Ada_Zangemann.dbk#para-p35-1
 #: Ada_Zangemann.dbk:838
 msgid "<phrase condition=\"capitals-text\">Every</phrase><phrase condition=\"capitals-img\">very</phrase> day, Ada and her friends made plans together for the afternoon. From a broken ice-cream machine, they built a new one that could make ice cream in every imaginable shape and color. They ate square ice cream, heart-shaped ice cream, and even pyramid-shaped ice cream, as well as strawberry, raspberry, and rainbow ice cream, all with sprinkles and hot fudge — much better than the varieties from the Zangemann machines."
-msgstr "<phrase condition=\"capitals-text\">Ĉiun</phrase><phrase condition=\"capitals-img\">iun</phrase> tagon, Ada kaj ŝiaj amikinoj faris planojn kune por la posttagmezo. El rompita glaciaĵmaŝino, ili konstruis novan, kiu povis fari glaciaĵon en ĉiu imagebla formo kaj koloro. Ili manĝis kvadratan glaciaĵon, korforman glaciaĵon kaj eĉ piramidforman glaciaĵon, same kiel fragan, framban kaj ĉielarkan glaciaĵon, ĉion kun ŝprucetoj kaj varma ĉokolada saŭco — multe pli bonguste ol la variaĵoj de la Zangemann-maŝinoj."
+msgstr "<phrase condition=\"capitals-text\">Ada</phrase><phrase condition=\"capitals-img\">da</phrase> kaj ŝiaj amikinoj ĉiujn tagojn faris planojn kune por la posttagmezo. El rompita glaciaĵmaŝino, ili konstruis novan, kiu povis fari glaciaĵon en ĉiu imagebla formo kaj koloro. Ili manĝis kvadratan glaciaĵon, korforman glaciaĵon kaj eĉ piramidforman glaciaĵon, same kiel fragan, framban kaj ĉielarkan glaciaĵon, ĉion kun ŝprucetoj kaj varma ĉokolada saŭco — multe pli bonguste ol la variaĵoj de la Zangemann-maŝinoj."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:839
