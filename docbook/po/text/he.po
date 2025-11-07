@@ -1,20 +1,22 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-10-16 21:28+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-11-07 07:51+0000\n"
+"Last-Translator: Yaron Shahrabani <sh.yaron@gmail.com>\n"
+"Language-Team: Hebrew <https://hosted.weblate.org/projects/fsfe/ada-zangemann/he/>\n"
 "Language: he\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n == 1) ? 0 : ((n == 2) ? 1 : ((n > 10 && n % 10 == 0) ? 2 : 3));\n"
+"X-Generator: Weblate 5.15-dev\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
 msgid "translator-credits"
-msgstr ""
+msgstr "ירון שהרבני <sh.yaron@gmail.com>,‏ 2025"
 
 #. (itstool) path: info/title
 #. (itstool) path: cover/bridgehead
@@ -23,13 +25,13 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:262 Ada_Zangemann.dbk:306 Ada_Zangemann.dbk:496
 msgid "Ada &amp; Zangemann"
-msgstr ""
+msgstr "עַדַה וְזָנְגְמָן"
 
 #. (itstool) path: info/subtitle
 #. (itstool) path: cover/bridgehead
 #: Ada_Zangemann.dbk:263 Ada_Zangemann.dbk:307
 msgid "A Tale of Software, Skateboards, and Raspberry Ice Cream"
-msgstr ""
+msgstr "סיפור על תוכנה, סקייטבורדים וגלידת פטל"
 
 #. (itstool) path: info/biblioid
 #. ISBN of print edition
@@ -47,13 +49,13 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:267
 msgid "<personname> <firstname>Matthias</firstname> <surname>Kirschner</surname> </personname>"
-msgstr ""
+msgstr "<personname> <firstname>מתיאס</firstname> <surname>קירשנר</surname> </personname>"
 
 #. (itstool) path: info/othercredit
 #. ignore-same
 #: Ada_Zangemann.dbk:273
 msgid "<personname> <firstname>Sandra</firstname> <surname>Brandstätter</surname> </personname>"
-msgstr ""
+msgstr "<personname> <firstname>סנדרה</firstname> <surname>ברנדשטטור</surname> </personname>"
 
 #. (itstool) path: character/charactername
 #. Name must not be changed.
@@ -61,7 +63,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:282
 msgid "Ada"
-msgstr ""
+msgstr "עדה"
 
 #. (itstool) path: character/charactername
 #. Name must not be changed.
@@ -69,7 +71,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:285
 msgid "Zangemann"
-msgstr ""
+msgstr "זנגמן"
 
 #. (itstool) path: character/charactername
 #. Name must not be changed.
@@ -77,7 +79,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:288
 msgid "Alan"
-msgstr ""
+msgstr "אלן"
 
 #. (itstool) path: character/charactername
 #. Character names are mostly reference to existing people in computer
@@ -92,7 +94,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:291
 msgid "Toni"
-msgstr ""
+msgstr "טוני"
 
 #. (itstool) path: character/charactername
 #. Character names are mostly reference to existing people in computer
@@ -107,7 +109,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:294
 msgid "Konrad"
-msgstr ""
+msgstr "קונרד"
 
 #. (itstool) path: character/charactername
 #. Character names are mostly reference to existing people in computer
@@ -122,7 +124,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:297
 msgid "Marie"
-msgstr ""
+msgstr "מרי"
 
 #. (itstool) path: character/charactername
 #. Character names are mostly reference to existing people in computer
@@ -137,46 +139,46 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:300
 msgid "Ms. Gernet"
-msgstr ""
+msgstr "גב׳ גרנט"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:320
 msgid "Ada &amp; Zangemann - A Tale of Software, Skateboards, and Raspberry Ice Cream. By Matthias Kirschner and Sandra Brandstätter. On a mostly desaturated dark cyan background, in a frame composed of sometimes curled white lines that connect a mouse, a keyboard, and a pink smartphone, Ada and Zangemann are facing each other, both with their hands on their hips as a sign of challenge. Ada is smiling and Zangemann is frowning. Ada has black hair collected in two big right- and left-bound ringlets with red rubber bands, and red cheeks. She has little yellow stud earrings. She wears cyan and white horizontal striped shorts and a yellow shirt over a white undershirt that ends with embroidery that goes beyond the shirt. The shirt and undershirt come out over the shorts. Above the shirt Ada wears a blue hoodie. Ada is wearing red shoes with white tips and soles, and short white socks. She has one foot on a skateboard and the other on the ground. Zangemann has short gray hair and square glasses. He is wearing a purple turtle-neck sweater, light blue pants turned up, brown shoes, and white socks. He’s wearing a big tech watch. Above Zangemann there are a pair of pliers with red handles crossing the wire frame."
-msgstr ""
+msgstr "עדה וזנגמן - סיפור על תוכנה, סקייטבורדים וגלידת פסטל. מאת מתיאס קירשנר וסנדרה ברנדשטטור. על רקע שברובו ציאן כהה בלתי רווי, במסגרת שמורכבת לפעמים מקווים לבנים מסולסלים שמתחברים לעכבר, מקלדת וטלפון חכם ורוד, עדה וזנגמן עומדים זה מול זה, שניהם עם הידיים על הירכיים כסימן לתחרות ביניהם. עדה מחייכת וזנגמן זעוף. לעדה יש שיער שחור עם תלתלים מאורכים משמאל ומימין שאסופים בגומיות אדומות ולחיים אדומות. יש לה עגילים קטנים, צמודים וצהובים. היא לובשת מכנסיים עם פסים אופקיים בצבעי ציאן ולבן וחולצה צהובה על גבי גופייה לבנה שמסתיימת ברקמה ארוכה יותר מהחולצה. החולצה והגופייה מכסים את המכנסיים בחלקם העליון. מעל לחולצן עדה לובשת עליונית כחולה. עדה נועלת נעליים אדומות עם קצה וסוליה לבנים וגרביים לבנים קצרים. רגל אחת שלה על סקייטבורד והשנייה על הקרקע. לזנגמן יש שיער אפור קצר ומשקפיים מרובעים. הוא לובש אפודה סגולה, מכנסיים כחולים בהירים שנמשכו עד הסוף למעלה, נעליים חומות וגרביים לבנות. הוא עונד שעון של חברות טכנולוגיה גדולות. מעל זנגמן יש פלייר (צבת) עם ידיות אדומות שחוצה את מסגרת החוטים."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:329
 msgid "A soldering iron and a brush and can with yellow paint, connected by white electrical cord that forms a frame."
-msgstr ""
+msgstr "מלחם ומברשת עם צבע צהוב, מחוברים בכבל חשמל שמייצר מסגרת."
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-back-1
 #: Ada_Zangemann.dbk:332
 msgid "<phrase condition=\"capitals-text\">The</phrase><phrase condition=\"capitals-img\">he</phrase> inventor Zangemann is world-famous and immensely rich. Adults and children alike love his fabulous technical inventions. But one day there is a problem: the children’s electronic skateboards no longer work properly. What’s going on? The curious girl Ada sees through what is going on. Together with her friends, she experiments with hardware and software, and the children forge a plan: Zangemann can no longer be the only one in control of the devices!"
-msgstr ""
+msgstr "<phrase condition=\"capitals-text\">הממציא</phrase><phrase condition=\"capitals-img\">ממציא</phrase> זנגמן מפורסם בכל העולם ועשיר כקורח. מבוגרים וילדים גם יחד אוהבים את המצאותיו הטכנולוגיות המופלאות. אך יום אחד התגלתה בעיה: הסקייטבורדים החשמליים של הילדים לא עובדים עוד כראוי. מה קורה פה? הילדה הסקרנית עדה רואה מבעד למתרחש. יחד עם חבריה היא מתנסה בחומרה ובתוכנה והילדים מגבשים תוכנית: זנגמן לא יכול להיות יותר היחידי ששולט במכשירים!"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:333
 msgid "A book that arouses interest in tinkering and encourages shaping technology."
-msgstr ""
+msgstr "ספר שמצית את הדמיון ומעודד חשיבה ותכנון טכנולוגיים."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:340
 msgid "A power strip, with input and output of white electrical cord that is the frame."
-msgstr ""
+msgstr "מפצל חשמל, עם שקע ותקע של כבל לבן שהוא המסגרת."
 
 #. (itstool) path: info/title
 #. Page before the colophon and the title page, with just the title. Also
 #. know as 'bastard title'.
 #: Ada_Zangemann.dbk:355
 msgid "Half-title page"
-msgstr ""
+msgstr "עמוד שחציו כותרת"
 
 #. (itstool) path: mediaobject/alt
 #. (itstool) path: simplesect/para
@@ -187,13 +189,13 @@ msgstr ""
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:362 Ada_Zangemann.dbk:488
 msgid "ADA &amp; ZANGEMANN"
-msgstr ""
+msgstr "עדה וזנגמן"
 
 #. (itstool) path: info/title
 #. Also known as 'imprint'
 #: Ada_Zangemann.dbk:368
 msgid "Colophon"
-msgstr ""
+msgstr "קולופון"
 
 #. (itstool) path: simplesect/literallayout
 #. Smaller colophon to be combined with grey free cultural license
@@ -307,14 +309,14 @@ msgstr ""
 #. illustration of Ada’s dog.
 #: Ada_Zangemann.dbk:452
 msgid "Title page"
-msgstr ""
+msgstr "עמוד כותרת"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:459
 msgid "Matthias Kirschner, Sandra Brandstätter - ADA &amp; ZANGEMANN - A Tale of Software, Skateboards and Raspberry Ice Cream. Title in the middle, authors in the upper left. In the lower right, Ada’s family’s dog with gray fur and some white patches and with a red collar with shiny yellow LEDs, which wags its tail."
-msgstr ""
+msgstr "מתיאס קירשנר, סנדרה ברנדשטטור - עדה וזנגמן - סיפור על תוכנה, סקייטבורדים וגלידת פטל. הכותרת באמצע, שמות היוצרים מימין למעלה. משמאל למטה הכלב המשפחתי של עדה עם פרווה אפורה וטלאים לבנים עם קולר אדום ונוריות צהובות נוצצות, הוא מכשכש בזנבו."
 
 #. (itstool) path: mediaobject/alt
 #. ignore-same
@@ -323,7 +325,7 @@ msgstr ""
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:466
 msgid "Matthias Kirschner, Sandra Brandstätter"
-msgstr ""
+msgstr "מתיאס קירשנר, סנדרה ברנדשטטור"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -337,7 +339,7 @@ msgstr ""
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:483
 msgid "In the lower right, Ada’s family’s dog with gray fur and some white patches and with a red collar with shiny yellow LEDs, which wags its tail."
-msgstr ""
+msgstr "בפינה השמאלית התחתונה, הכלב המשפחתי של עדה עם פרווה אפורה וכמה טלאים לבדים וקולר אדום עם נוריות צהובות מהבהבות, שמכשכש בזנב."
 
 #. (itstool) path: simplesect/literallayout
 #. In a literallayout element all space and newline characters are kept.
@@ -347,6 +349,8 @@ msgid ""
 "Matthias Kirschner\n"
 "Sandra Brandstätter"
 msgstr ""
+"מתיאס קירשנר\n"
+"סנדרה ברנדשטטור"
 
 #. (itstool) path: simplesect/literallayout
 #. (itstool) id: Ada_Zangemann.dbk#subtitle-titlepage
@@ -358,12 +362,15 @@ msgid ""
 "Software, Skateboards, and\n"
 "Raspberry Ice Cream"
 msgstr ""
+"סיפור על\n"
+"תוכנה, סקייטבורדים\n"
+"וגלידת פטל"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p04-1
 #: Ada_Zangemann.dbk:500
 msgid "<phrase condition=\"capitals-text\">Once</phrase><phrase condition=\"capitals-img\">nce</phrase> upon a time, there was a little girl named Ada. Her family was so poor that all their savings fit inside a cookie jar. They didn’t have enough money to live in a proper home. Instead, Ada lived with her mother and her little brother, Alan, in a cabin near a junkyard on the edge of town."
-msgstr ""
+msgstr "<phrase condition=\"capitals-text\">בעבר</phrase><phrase condition=\"capitals-img\">עבר</phrase> הלא רחוק, חיה לה ילדה קטנה בשם עדה. המשפחה שלה הייתה כה ענייה עד כי כל החסכונות שלהם יכלו להיאסף בצנצנת עוגיות. לא היה להם מספיק כסף כדי לקנות בית ראוי. במקום, עדה גרה עם אימה ואחיה הקטן, אלן, בבקתה ליד מגרש הגרוטאות שבקצה העיר."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -377,28 +384,28 @@ msgstr ""
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:516
 msgid "Prestigious magazines (“STARS“, “MONEY”, “Richest Man”) on whose cover are Zangemann and his villa."
-msgstr ""
+msgstr "עיתונים יוקרתיים („כלכליסט”, „גלובס”, „דה מרקר”) שעל הכריכה שלהם זנגמן עם הווילה שלו."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:518
 msgid "Far away, at the other end of town, lived a famous inventor named Zangemann. He was immensely rich. No sheet of paper in the world was big enough to show his bank balance with all its numbers and zeros! He lived in a huge house with a swimming pool and waterslide, lots of staircases and towers, hundreds of windows, and so many rooms that he often got lost in them himself. Zangemann’s mansion stood high on a hill. From there, he could look out over the whole city."
-msgstr ""
+msgstr "הרחק משם, בצד השני של העיר, חי ממציא מפורסם בשם זנגמן. הוא היה עשיר כקורח. אין דף בעולם כולו שיכל להכיל את כל המספרים והאפסים שבחשבון הבנק שלו! הוא חי בבית גדול עם בריכת שחייה ומגלשת מים, המון מדרגות וצריחים, מאות חלונות וכל כך הרבה חדרים עד שלפעמים הלך לאיבוד בעצמו. האחוזה של זנגמן עמדה על ראש גבעה. משם, יכול היה לתצפת על העיר כולה."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:523
 msgid "Zangemann and computers"
-msgstr ""
+msgstr "זנגמן ומחשבים"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p06-1
 #: Ada_Zangemann.dbk:527
 msgid "<phrase condition=\"capitals-text\">Computers</phrase><phrase condition=\"capitals-img\">omputers</phrase> had fascinated Zangemann ever since he was a child. When he was young, computers were huge machines with lots of cables and loud, noisy fans. At school, little Zangemann often dreamed of all the things he would do with computers if they were just a little bit smaller — small enough that they could be built into other fun things. He knew what he would do. First, he would build a computer into his skateboard so that it would make cool noises when he rode it — maybe a fire engine siren or the sound of a rocket launch. Then he would use a computer to invent ice‑cream-making machines! The computer would mix the coolest flavors and even sell the ice cream. There would be machines on every street corner, and he could get ice cream in his favorite flavor whenever he felt like it, and just as much as he wanted. After that, he’d build a cleaning robot and a block-sorting machine so that his room would always be neat and clean. Zangemann had great new ideas like these every day. He could think of nothing else."
-msgstr ""
+msgstr "<phrase condition=\"capitals-text\">מחשבים</phrase><phrase condition=\"capitals-img\">חשבים</phrase> ריתקו את זנגמן מאז שהיה ילד. בצעירותו, מחשבים היו מכונות ענקיות עם המון כבלים ומאווררים גדולים ורעשניים. בבית הספר, זנגמן הקטן חלם רבות על כל הדברים שיכול היה לעשות עם מחשבים אילו היו קצת יותר קטנים – קטנים מספיק כדי שאפשר יהיה לבנות אותם בתוך דברים כיפים אחרים. הוא ידע מה לעשות. קודם כל, היא יבנה מחשב בתוך הסקייטבורד שלו כדי שיוכל לעשות קולות מגניבים כשהוא רוכב עליו – אולי צופר של כבאית או רעש של שיגור חללית. לאחר מכן הוא ישתמש במחשב כדי להמציא את מכונות הגלידה מחדש! המחשב יערבב את הטעמים המגניבים ביותר ואפילו ימכור את הגלידה. יהיו מכונות כאלה בכל פינה, והוא יוכל לקבל גלידה בטעם האהוב עליו מתי שרק ירצה, וכמה שירצה. לאחר מכן, הוא בנה רובוט ניקוי ומכונה לסידור לבנים כדי שהחדר שלו תמיד יהיה מסודר ונקי. לזנגמן היו רעיונות מעולים חדשים כאלה בכל יום. הוא לא יכל לחשוב על שום דבר אחר."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:528
 msgid "As the years went by, Zangemann grew bigger and computers got smaller. In fact, by the time he finished school, they were so small they fit in his pocket. The smallest ones even fit on his fingertip."
-msgstr ""
+msgstr "חלפו השנים, זנגמן גדל והמחשבים קטנו. למעשה, עד שסיים את בית הספר הם היו קטנים מספיק כדי להיכנס לו לכיס. הקטנים ביותר יכלו לשבת אפילו על קצה אצבעו."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -410,7 +417,7 @@ msgstr ""
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:540
 msgid "“Finally, I can turn all my ideas into real things!” Zangemann exclaimed, and he got right to work. He found ways to put the small computers into all kinds of things to make them even more fun and useful. And then he sold them."
-msgstr ""
+msgstr "„סוף כל סוף! אני יכול להפוך את כל הרעיונות שלי לדברים אמיתיים!” הכריז זנגמן, וניגש מיד לעבודה. הוא מצא דרכים להכניס את המחשבים הקטנים לתוך כל מיני דברים כדי להפוך אותם למהנים ושימושיים יותר. ואז הוא מכר אותם."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -422,14 +429,14 @@ msgstr ""
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:547
 msgid "Adults and children loved his inventions. All the kids wanted to have one of his skateboards — complete with the latest sounds to show off to their friends at school. Kids also loved his speaker invention, which could instantly play any song you requested. And, of course, everyone loved the ice cream served every afternoon from the automatic, extra-delicious Original Zangemann Ice Cream Machine. It all seemed like magic, but the secret was simple: the little computers that Zangemann built into his machines made it all possible."
-msgstr ""
+msgstr "מבוגרים וילדים אהבו את ההמצאות שלו. כל הילדים רצו את אחד מהסקייטבורדים שלו – עם הצלילים החדישים ביותר כדי להשוויץ בפני החברים בבית הספר. ילדים גם אהבו את הרמקול שהמציא, שמנגנן שירים לפי דרישה. וכמובן, כולם אהבו את הגלידה הטעימה בטירוף שהוגשה בכל צוהריים ממכונת הגלידה האוטומטית המקורית של זנגמן. הכול נראה כמו קסם, אבל הקסם היה פשוט: המחשבים הקטנים שזנגמן הרכיב לתוך המכונות שלו הם אלו שהפכו את כל זה למציאות."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:552
 msgid "An original Zangemann electric skateboard leaving a blue trail with musical notes and colored circles. Only the knees, white socks, and olive green shoes with white soles of the child riding it are shown."
-msgstr ""
+msgstr "סקייטבורד חשמלי מקורי של זנגמן שמשאיר מאחוריו שובל כחול עם תו מוזיקלי ועיגולים צבעוניים. מופיעים רק הברכיים, גרביים לבנים ונעליים בצבע ירוק זית עם סוליות לבנות של הילד שרוכב עליו."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -441,27 +448,27 @@ msgstr ""
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:562
 msgid "These inventions were very popular at Ada’s school, and many of her friends rode around on the cool skateboards. Ada was often sad, since her mother couldn’t buy her any of those great things: no skateboard, no speakers, no ice cream."
-msgstr ""
+msgstr "ההמצאות האלו היו מאוד נפוצות בבית הספר של עדה, ורבים מחבריה רכבו על הסקייטבורדים המגניבים. עדה הייתה בעיקר עצובה, כיוון שלאימה לא היה כסף לקנות לה את כל הדברים הנהדרים האלה: אין סקייטבורד, אין רמקולים, אין גלידה."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:564
 msgid "Luckily, Ada lived right next to the junkyard. There were lots of broken gadgets and rusty parts, which she put together to make cool new things, like a soapbox she and Alan rode roaring down the hill, a windmill, and scary junk monsters, which she and Alan would fight together. She also found many useful items—an old cell phone, for example. The screen was cracked, but she could fix that, and while there wasn’t internet at the junkyard, she could get access somewhere else."
-msgstr ""
+msgstr "למרבה המזל, עדה התגוררה ליד מגרש הגרוטאות. היו שם המון חפצים אלקטרוניים שבורים וחלודים, שמהם היא בנתה דברים חדשים ומגניבים כמו מכונית מרוץ ללא מנוע שהיא ואלן דהרו בה במורד הגבעה, טחנת רוח ומפלצות מפחידות מגרוטאות, שבהן היא ואלן לחמו יחד. היא גם מצאה שלל פריטים שימושיים – טלפון ישן, למשל. המסך היה שבור אבל היא הצליחה לתקן את זה, ולמרות שלא היה אינטרנט במגרש הגרוטאות, היא הצליחה לגשת ממקום אחר."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:565
 msgid "Ada had so much fun tinkering in the junkyard and fixing broken things that she forgot all about the skateboards and the ice cream."
-msgstr ""
+msgstr "לעדה היה ממש כיף לשפצר במגרש הגרוטאות ולתקן דברים שבורים עד שהיא שכחה לגמרי מהסקייטבורדים ומהגלידה."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:569
 msgid "Because everyone bought his inventions, Zangemann soon became the richest person in the whole world. With all his money, he bought a huge golden computer with a keyboard made of jewels and set it up in the largest room of his mansion. From there, over the internet, he could control all the little computers built into his inventions."
-msgstr ""
+msgstr "כיוון שכולם קנו את ההמצאות שלו, זנגמן הפך במהרה לאיש העשיר ביותר בעולם. עם כל הכסף שלו, הוא קנה מחשב ענקי מזהב עם מקלדת שעשויה מיהלומים והציב אותו בחדר הגדול ביותר באחוזה שלו. משם, דרך האינטרנט, הוא יכל לשלוט בכל המחשבים הקטנים שהרכיב לתוך ההמצאות שלו."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:570
 msgid "All he had to do was press the proper key on the golden computer, and immediately all the ice-cream machines in town would dispense only vanilla ice cream. If Zangemann wanted people to eat chocolate ice cream, he pressed the key for chocolate ice cream. If he gave the order for lemon ice cream, the machines made only lemon ice cream. Zangemann loved his inventions and was always thrilled at how amazingly well his machines worked. Sometimes people were disappointed when their favorite flavor wasn’t available, but what could they do? After all, there was ice cream on every street corner."
-msgstr ""
+msgstr "כל שהיה עליו לעשות הוא ללחוץ על המקש המתאים במחשב הזהב ואז כל מכונות הגלידה שבעיר תתחלנה להגיש גלידת וניל בלבד. אם זנגמן היה רוצה שהאנשים יאכלו גלידת שוקולד, הוא לחץ על המקש לגלידת שוקולד. אם הוא העדיף גלידת לימון, המכונות ייצרו רק גלידת לימון. זנגמן אהב את ההמצאות שלו ותמיד נפעם לראות כמה המכונות שלו עבדו בצורה נהדרת. לפעמים אנשים היו מאוכזבים כשהטעם האהוב עליהם לא היה זמין, אבל מה כבר יכלו לעשות? ככלות הכול הייתה מכונת גלידה בכל פינה."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -473,7 +480,7 @@ msgstr ""
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:579
 msgid "Zangemann had a lot of fun pressing the sparkling keys and watching people eat ice cream. He spent many hours every day in front of his golden computer doing this. Again and again, he looked down on the city through a long telescope, observing how reliably his inventions carried out his commands."
-msgstr ""
+msgstr "לזנגמן היה כיף מאוד ללחוץ על כל המקשים המנצנצים שלו ולצפות באנשים אוכלים גלידה. הוא השקיע בכך שעות רבות בכל יום מול מחשב הזהב שלו. שוב ושוב, הוא הביט מטה אל העיר מבעד למשקפת שלו, והבחין באיזו אמינות ההמצאות שלו מבצעות את הפקודות שלו."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -485,7 +492,7 @@ msgstr ""
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:589
 msgid "When he wasn’t sitting at his golden computer, Zangemann was building his little computers into new devices and then selling those. He built washing machines that sent a message to your cell phone when your laundry was done. He made vacuums that played happy music instead of droning loudly. He invented light bulbs that turned on and off at the snap of a finger and cars that told you where the nearest grocery store was."
-msgstr ""
+msgstr "כשלא היה מול מחשב הזהב שלו. זנגמן הרכיב את המחשבים הקטנים שלו לתוך מכשירים חדשים ואז מכר אותם. הוא בנה מכונת כביסה ששולחת הודעות לטלפון שלך כשהכביסה הסתיימה. הוא יצר שואבי אבק שהשמיעו מוזיקה שמחה במקום רעש שאיבה מחריש אוזניים. הוא המציא נורות שנדלקו ונכבו בנקישת אצבעותיו ומכוניות שסיפרו לך היכן נמצא המרכול הקרוב ביותר."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -497,19 +504,19 @@ msgstr ""
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:596
 msgid "Soon, almost every appliance in the world had a Zangemann computer built into it. Not all of his inventions seemed necessary at first, but people bought everything he made. That’s just the way it was. Everyone wanted the devices made by Zangemann, the greatest inventor in the world."
-msgstr ""
+msgstr "תוך זמן קצר, כמעט בכל המכשירים בעולם הורכב המחשב של זנגמן. לא כל ההמצאות שלו נראו הכרחיות בהתחלה, אבל אנשים קנו את כל מה שהוא ייצר. בדיוק כמו שהם. כולם רצו את המכשירים שייצר זנגמן, הממציא הגדול ביותר בעולם."
 
 #. (itstool) path: info/title
 #. Intended as 'on a day', not 'a single day'. This is supposed to be
 #. equal to the beginning of the first sentence of this chapter.
 #: Ada_Zangemann.dbk:601
 msgid "One day..."
-msgstr ""
+msgstr "עד שיום אחד…"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:604
 msgid "One day Zangemann thought, “Today I want to see my inventions up close.” He put away his big telescope, then climbed down the many stairs of his mansion and ventured out into the city, full of anticipation at the thought of enjoying his cool devices."
-msgstr ""
+msgstr "יום אחד חשב לעצמו זנגמן, „היום אני רוצה לראות את ההמצאות שלי מקרוב”. הוא שם את המשקפת שלו בצד, ירד במדרגות הרבות של האחוזה שלו לחקור את העיר, מלא ציפייה מהמחשבה שהוא הולך ליהנות מהמכשירים המגניבים שלו."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -521,12 +528,12 @@ msgstr ""
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:613
 msgid "“Maybe a little trip might even give me a few new ideas. If I’m completely honest, my last inventions weren’t quite as useful as the first ones... ,” Zangemann pondered. “But my ice-cream machines are and will remain second to none,” he thought immediately afterward, and not without pride, as he passed a group of people all eating coconut ice cream, the flavor of the day."
-msgstr ""
+msgstr "„אולי טיול קטן אפילו יספק לי כמה רעיונות. אם להיות כן, ההמצאות האחרונות שלי לא היו שימושיות כמו הראשונות…”, תהה זנגמן. „אך אין בעולם עוד כמו מכונות הגלידה שלי”, חשב לעצמו מיד לאחר מכן, ועם גאווה מסוימת, בעודו עובר ליד קבוצת אנשים שכולם אוכלים גלידת קוקוס, הטעם היומי."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:615
 msgid "He was completely absorbed in his thoughts when suddenly — BAM! — something crashed into his shin."
-msgstr ""
+msgstr "בעוד ראשו מלא במחשבות – טראח! – משהו התנגש לו ברגל."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -538,12 +545,12 @@ msgstr ""
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:624
 msgid "Zangemann yelped and looked around for the cause. A startled child stood in front of him, holding an original Zangemann skateboard under his arm. “Sorry, I didn’t mean to do that,” the child stammered, but Zangemann wasn’t listening."
-msgstr ""
+msgstr "זנגמן זעק והביט סביב כדי לנסות למצוא את הסיבה. מולו נעמד ילד מופתע, אוחז תחת זרועו בסקייטבורד של זנגמן. „אני מצטער, לא התכוונתי להתנגש בך”, גמגם הילד, אבל זנגמן לא הקשיב."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:625
 msgid "An angry Zangemann limped away. Suddenly, he heard loud music. He had never before heard something so horrible. He looked around and saw that the music was coming from a loudspeaker he himself had constructed. A child across the street was holding it. The child seemed to like the music, but it gave Zangemann a terrible headache, and his mood worsened. This was not how he had imagined his walk!"
-msgstr ""
+msgstr "זנגמן הכועס צלע לו לדרכו. לפתח, שמע מוזיקה רועשת. מימין לא שמע משהו כה נורא ואיום. הוא הביט סביב והבחין שהמוזיקה מגיעה מרמקול שהוא עצמו בנה. ילד בצידו השני של הרחוב החזיק אותו. נראה שהילד אהב את המוזיקה, אבל לזנגמן היא עשתה כאב ראש נוראי ומצב הרוח שלו הידרדר. לא כך הוא דמיין את הטיול שלו!"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -555,32 +562,32 @@ msgstr ""
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:635
 msgid "Zangemann was so furious with the two children. How dare they use his inventions this way? That night, he couldn’t sleep, so he sat down at his golden computer. From there, he gave all the little computers in the skateboards a command that they were no longer allowed to go on sidewalks. He ordered the small computers in the speakers to play music only at a low volume, except for his favorite music, which he immediately turned on to get into a better mood."
-msgstr ""
+msgstr "זנגמן כעס כל כך על שני הילדים. איך הם מעזים להשתמש כך בהמצאות שלי? באותו הלילה, נדדה שנתו, אז הוא ישב על מחשב הזהב שלו. משם, הוא פקד על כל המחשבים הקטנים שבסקייטבורדים פקודה שהם לא יורשו עוד ליסוע על מדרכות. הוא הורה למחשבים הקטנים שברמקולים להשמיע מוזיקה בעוצמה חלשה בלבד, למעט המוזיקה האהובה עליו, מה שבאופן מיידי שיפר את מצב רוחו."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:640
 msgid "The city in the evening, with houses, a church, and two streetlights. Images emerge from the dwellings illustrating Zangemann’s inventions bought by the inhabitants: a washing machine, a yellow vacuum cleaner, and a red car, all with Internet connection signals."
-msgstr ""
+msgstr "העיר בערב, עם בתים, כנסייה ושני פנסי רחוב. תמונות שמתארות את ההמצאות של זנגמן שנרכשו על ידי הדיירים מגיחות מהמבנים: מכונת כביסה, שואב אבק צהוב ומכונית אדומה, לכולם סימוני חיבור לאינטרנט."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:648
 msgid "Continuation of the previous picture, where in the background there is the hill with Zangemann’s house from whose antenna come the signals to control the various devices. In emerging images there are: a red electric skateboard, a light bulb, an ice cream machine, and a toilet, all of which are receiving commands from Zangemann."
-msgstr ""
+msgstr "המשך של התמונה הקודמת, בה ברקע יש גבעה עם הבית של זנגמן שמהאנטנה שלו מגיעים האותות לשליטה במכשירים השונים. בתמונות המגיחות יש: סקייטבורד אדום חשמלי, נורה חשמלית, מכונת גלידה ואסלה, כולם מקבלים פקודות מזנגמן."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:654
 msgid "Skateboards no longer work"
-msgstr ""
+msgstr "הסקייטבורדים לא עובדים יותר"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p18-1
 #: Ada_Zangemann.dbk:658
 msgid "<phrase condition=\"capitals-text\">The</phrase><phrase condition=\"capitals-img\">he</phrase> next day, there was a big commotion at Ada’s school. On the way to school, the kids’ skateboards had stopped working. The wheels simply stood still. And the children could no longer turn up the volume on their speakers. What was going on?"
-msgstr ""
+msgstr "<phrase condition=\"capitals-text\">ביום</phrase><phrase condition=\"capitals-img\">יום</phrase> שלמחרת הייתה המולה גדולה בבית הספר של עדה. בדרך לבית הספר, הסקייטבורדים של הילדים הפסיקו לעבוד. הגלגלים פשוט נתקעו. והילדים לא יכלו עוד להגביר את הרמקולים שלהם. מה קורה פה?"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -592,7 +599,7 @@ msgstr ""
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:667
 msgid "Although she didn’t own any of these things, Ada wondered why the skateboards and the speakers suddenly stopped working. But she didn’t really have time to think much about it, because she was tinkering again. She put together a complete bicycle from the parts of three broken bicycles. She gave the bicycle to her mother as a present so that she wouldn’t have to spend her money on bus tickets to work. For her brother, Ada built a loudspeaker so he could fall asleep to nice stories in the evenings when their mother was still at work."
-msgstr ""
+msgstr "למרות שלא היו לה אף אחד מהדברים האלה, תהתה עדה למה הסקייטבורדים והרמקולים הפסיקו לפתע לעבוד. אבל לא היה לה זמן לחשוב על כך לעומק, כיוון שהיא חזרה לשפצר. היא חיברה אופניים שלמים מחלקים של שלושה זוגות אופניים שבורים. היא נתנה את האופניים האלה לאימה במתנה כדי שלא תבזבז את כספה על תשלום לאוטובוס בדרך לעבודה. לאחיה, בנתה עדה רמקול כדי שיוכל לישון עם סיפורים נחמדים בערב כשאימם עדיין בעבודה."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -604,28 +611,28 @@ msgstr ""
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:675
 msgid "After a few days, the initial shock at Ada’s school was forgotten. The skateboards still didn’t go on the sidewalk, but apart from that, they still worked. And so now the children rode in circles around the playground and listened to soft music. Only a strange, pompous marching music continued to play at an unchanged volume, which the children found rather puzzling."
-msgstr ""
+msgstr "לאחר מספר ימים, ההלם הראשוני בבית הספר של עדה נרגע. הסקייטבורדים עדיין לא נסעו על המדרכות אך מלבד זאת הם עדיין עבדו. אז עכשיו הילדים נסעו במעגלים מסביב לגן השעשועים והאזינו למוזיקה חרישית. רק מוזיקת מצעדים יהירה המשיכה להתנגן באותה העוצמה, מה שהרגיש לילדים מאוד תמוה."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:680
 msgid "Ada and software"
-msgstr ""
+msgstr "עדה ותוכנה"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p20-1
 #: Ada_Zangemann.dbk:684
 msgid "<phrase condition=\"capitals-text\">Ada</phrase><phrase condition=\"capitals-img\">da</phrase> loved Wednesdays. Every Wednesday, her mother and Alan would pick her up from school, and they would all go to the library together. Ada was always drawn to the technology section. There were books with blueprints, instructions for experiments, and explanations of how different devices worked. In the library, Ada could also go online with her cell phone. She quickly realized that there was also much to discover on the internet. There, many people shared their ideas and repair tips to help others."
-msgstr ""
+msgstr "<phrase condition=\"capitals-text\">עדה</phrase><phrase condition=\"capitals-img\">דה</phrase> אהבה את ימי רביעי. כל יום רביעי, אימא שלה ואלן היו אוספים אותה מבית הספר ואז כולם היו הולכים יחד לספרייה. עדה תמיד נמשכה לאגף הטכנולוגי. היו שם ספרים עם תוכניות, הנחיות לניסויים והסברים על איך מכשירים שונים עובדים. בספרייה יכלה עדה גם להתחבר לאינטרנט דרך הטלפון שלה. במהרה היא הבינה שיש עוד המון מה לגלות באינטרנט. שם, המון אנשים חולקים את הרעיונות שלהם ואת העצות שלהם לתיקון כדי לסייע לאחרים."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:685
 msgid "On one of those afternoons, Ada learned two new words: hardware and software. Hardware was a word for something Ada already knew: the electronic devices she tinkered with after school, or those devices she could hold in her hands and try to fix or make into something else. What was completely new to Ada was the word software. She soon learned that it meant instructions that ran on a computer to control other devices or computers. Some books called those instructions programs or code. With such a computer program, one could, for example, tell a loudspeaker which song to play and how loud."
-msgstr ""
+msgstr "באחד מהביקורים האלה אחרי הצוהריים, עדה למדה שתי מילים חדשות: חומרה ותוכנה. חומרה הייתה מילה למשהו שעדה כבר הכירה: המכשיר האלקטרוני שהיא שפצרה אחרי שעות בית הספר, או המכשירים האלה שיכלה להחזיק בידיים ולנסות לתקן או להפוך אותם למשהו אחר. מה שעדה לא הכירה הייתה המילה תוכנה. מהר מאוד למדה שהמשמעות היא הנחיות שרצות על מחשב כדי לשלוט במכשירים או מחשבים אחרים. חלק מהספרים קראו להנחיות האלו תוכנות או קוד. עם תוכנות מחשב כאלו, אפשר למשל, להורות לרמקול איזה שיר לנגן ובאיזו עוצמה."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:686
 msgid "The best thing about Ada’s new discovery was realizing that she could tinker with software just as she could with hardware. Hardware is built with tools — hammers, drills, and screws. Software is built simply by writing down the commands for the hardware, one after the other. There was a separate language for this — the programming language. With software, Ada could make her inventions even more useful. She really wanted to learn the programming language!"
-msgstr ""
+msgstr "הדבר הטוב ביותר שקרה בזכות התגלית של עדה הוא שהיא הבינה שהיא יכולה לשפצר תוכנה כמו שהיא עושה עם חומרה. חומרה בונים עם כלים – פטישים, מקדחות ומברגים. תוכנה נבנית בצורה פשוטה יותר על ידי כתיבת הפקודות לחומרה, בזו אחר זו. יש שפה נפרדת לכך – שפת תכנות. עם תוכנה, עדה יכלה להפוך את ההמצאות שלה לשימושיות אפילו יותר. היא ממש רצתה ללמוד את שפת התכנות!"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -637,28 +644,28 @@ msgstr ""
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:699
 msgid "Programming"
-msgstr ""
+msgstr "תכנות"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p22-1
 #: Ada_Zangemann.dbk:703
 msgid "<phrase condition=\"capitals-text\">Over</phrase><phrase condition=\"capitals-img\">ver</phrase> the next few weeks, Ada spent her afternoons in the library. She found books and websites that explained how programming languages and code worked. For Ada, it felt a bit like learning a secret language, or like studying vocabulary in school. Ada ate it all up. She expected her first program to do something simple: “Make this lamp blink!”"
-msgstr ""
+msgstr "<phrase condition=\"capitals-text\">במהלך</phrase><phrase condition=\"capitals-img\">מהלך</phrase> השבועות שלאחר מכן, עדה בילתה את אחר הצוהריים שלה בספרייה. היא מצאה ספרים ואתרים שהסבירו איך שפות תכנות וקוד עובדים. לעדה זה הרגיש קצת כמו ללמוד שפת סתרים, או כמו שיעורי לשון בבית הספר. עדה למדה בשקידה. היא ציפתה שהתוכנית הראשונה שלה תעשה משהו פשוט כגון: „לגרום לנורית הזאת להבהב!”"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:704
 msgid "Of course, she wanted to try her program out right away to see if it really worked. At the junkyard, she connected her cell phone to a small LED lamp. Then she typed the lines of code into her cell phone."
-msgstr ""
+msgstr "כמובן שהיא רצתה לנסות את התוכנית שלה באותו הרגע כדי לראות אם היא באמת עובדת. במגרש הגרוטאות, היא חיברה את הטלפון שלה לנורית קטנה. ואז הקלידה את שורות הקוד לטלפון שלה."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:705
 msgid "At first, nothing happened. Ada wondered where the error could be. She made a few small changes and tried again and .... “Yeesss!” The little light began to flash. On, off, on, off. Ada looked at the LED in amazement. She had written her first program!"
-msgstr ""
+msgstr "בהתחלה, לא קרה כלום. עדה ניסתה להבין מה מקור השגיאה. היא ערכה כמה שינויים וניסתה שוב ו… „ישששששש!” האור הקטן החל להבהב. נדלק, נכבה, נדלק, נכבה. עדה הביטה בנורית בהשתאות. היא כתבה את התוכנית הראשונה שלה!"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:706
 msgid "Ada was totally thrilled. She imagined all the great things she could do. If she just entered the right code, she could make her inventions do exactly what she wanted. It was not so easy, but after a few weeks, Ada wrote a truly useful program: one that would make Alan’s speakers automatically turn off half an hour after he had fallen asleep."
-msgstr ""
+msgstr "עדה התרגשה עד מאוד. היא דמיינה את כל הדברים המופלאים שיכלה לעשות. אם רק כתבה את הקוד הנכון, היא יכולה לגרום להמצאות שלה לעשות בדיוק מה שרצתה. זה לא היה קל כל כך, אבל אחרי כמה שבועות, כתבה עדה תוכנית שימושית במיוחד: כזאת שתגרום לרמקולים של אלן להיכבות אוטומטית כחצי שעה לאחר שהלך לישון."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -670,7 +677,7 @@ msgstr ""
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:715
 msgid "Ada also had an idea for the next program she would write. It was a bigger deal, a real project. She would probably need the whole summer break for it... And she could hardly wait!"
-msgstr ""
+msgstr "לעדה גם היה רעיון לתוכנית הבאה שתכתוב. היא הייתה רצינית יותר, מיזם אמיתי. אולי אפילו הייתה צריכה להשקיע בזה את כל החופש הגדול… היא כבר ממש רצתה להתחיל!"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -682,49 +689,49 @@ msgstr ""
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:728
 msgid "A horrible night"
-msgstr ""
+msgstr "לילה נוראי"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p25-1
 #: Ada_Zangemann.dbk:732
 msgid "<phrase condition=\"capitals-text\">Zangemann</phrase><phrase condition=\"capitals-img\">angemann</phrase> had slept horribly every night since his terrible walk in the city. When he went to bed each night, worries plagued him. “Oh no, my marvelous inventions. It can’t be that everyone just plays around with them. All the things that could go wrong! I put so much thought into everything, down to the last detail.” Zangemann pondered and pondered and tossed and turned sleeplessly in his bed all night."
-msgstr ""
+msgstr "<phrase condition=\"capitals-text\">זנגמן</phrase><phrase condition=\"capitals-img\">נגמן</phrase> לא הצליח לישון היטב מאז אותו טיול נוראי בעיר. בכל לילה כשהלך לישון, הציף אותו חשש. „אוי לא, ההמצאות המדהימות שלי. לא יכול להיות שכולם יוכלו פשוט לשחק איתן. המון דברים עלולים להשתבש! השקעתי המון מחשבה בכל הפרטים, עד לפרט האחרון”. תהה לעצמו זנגמן תוך כדי שהוא מתהפך במיטתו כל הלילה בחוסר מנוחה."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:733
 msgid "Waking up one morning with a deeply furrowed brow, he made a decision. He needed to make a change. Zangemann sat down at his computer and wrote one program after another. In these programs, he specified exactly what his inventions were to do and were not to do under any circumstances. The chaos had to stop!"
-msgstr ""
+msgstr "בבוקר אחד, קם זנגמן עם מצח מקומט במיוחד, הוא החליט. הוא חייב לחולל שינוי. זנגמן ישב מול המחשב שלך וכתב תוכניות מחשב בזו אחר זו. בתוכניות האלה, הוא ציין במפורש מה יכולות ההמצאות שלו לעשות ומה הן לא יכולות לעשות בשום פנים ואופן. את הבלאגן הזה חייבים לעצור!"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:734
 msgid "Once he was done, he sent all the new programs from his golden computer to people’s devices. He ordered his speakers to play only his favorite music whenever he was within earshot. He programmed the ice-cream machines to stop selling ice cream in the afternoon. After all, he didn’t want his expensive clothes to get stained by ice cream while he was out for a walk. All day long he sat at the computer and typed and typed and typed..."
-msgstr ""
+msgstr "לאחר שסיים, שלח את כל התוכניות החדשות ממחשב הזהב שלו למכשירים של האנשים. הוא הורה לרמקולים לנגן רק את המוזיקה האהובה עליו כאשר היו בסביבתו. הוא תיכנת את מכונות הגלידה להפסיק למכור גלידה אחר הצוהריים. ככלות הכול, הוא לא רצה שהבגדים היקרים שלו יוכתמו בגלידה בעודו צועד לו ברחוב. יום וליל ישב על המחשב שלו והקליד והקליד והקליד…"
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:739
 msgid "First real project"
-msgstr ""
+msgstr "המיזם האמיתי הראשון"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p26-1
 #: Ada_Zangemann.dbk:743
 msgid "<phrase condition=\"capitals-text\">Summer</phrase><phrase condition=\"capitals-img\">ummer</phrase> break was already halfway over. Ada stood in front of her big project and scratched her head. She had built a skateboard from old parts and then connected a motor to make the wheels turn. With a motorized skateboard, Ada could zoom to the library or the junkyard even faster after school. Super practical! But it didn’t work. When she stood on it and pressed the Go! button, the wheels moved, but way too fast. Ada fell off the skateboard every time she started. No matter what she tried, she just couldn’t get it right."
-msgstr ""
+msgstr "<phrase condition=\"capitals-text\">מחצית</phrase><phrase condition=\"capitals-img\">חצית</phrase> החופש הגדול כבר חלפה. עדה עמדה מול המיזם הגדול שלה וגרדה בראשה. היא בנתה סקייטבורד מחלקים ישנים ואז חיברה לו מנוע כדי שהגלגלים יסתובבו. עם סקייטבורד ממונע, עדה יכלה להגיע בזריזות לספרייה או למגרש הגרוטאות אחרי בית הספר. מאוד שימושי! אבל זה לא עבד. כשהיא עמדה עליו ולחצה על כפתור הנסיעה, הגלגלים הסתובבו, אבל מהר מדי. עדה נפלה מהסקייטבורד בכל פעם שהתחילה ליסוע. לא משנה מה ניסתה, זה פשוט לא הסתדר."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:744
 msgid "After falling on her bottom for the hundredth time, she went back to the library. She always found answers to her questions there. And indeed, on the internet, she came across a program that someone had written for an electric scooter that also needed to start slowly. Ada downloaded it to her phone."
-msgstr ""
+msgstr "לאחר שנפלה על אחוריה בפעם במאה, חזרה לספריה. היא תמיד הצליחה למצוא שם תשובות לשאלות שלה. ואכן, באינטרנט, היא נתקלה בתוכנית שנכתבה עבור קטנוע חשמלי שגם היה צריך להתחיל לאט בנסיעה. עדה הורידה אותה לטלפון שלה."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:746
 msgid "Back at the junkyard, she adapted some lines of code for her skateboard program. She tweaked a few things and kept tinkering."
-msgstr ""
+msgstr "כשחזרה למגרש הגרוטאות, היא שכתבה חלק משורות הקוד כדי שתתאמנה לתוכנית הסקייטבורד שלה. היא כווננה כמה דברים והמשיכה לשפצר."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:747
 msgid "Several failed attempts later, on the last day of summer break, the time had finally come. Ada stood on the skateboard and pressed the Go! button, and the skateboard started moving, slowly at first, then faster. It worked! She tried to brake. It worked! Ada let out a cry of joy and took a trip to the park."
-msgstr ""
+msgstr "כמה ניסיונות כושלים מאוחר יותר, ביום האחרון של החופש הגדול, הגיע הרגע. עדה עמדה על הסקייטבורד ולחצה על כפתור הנסיעה, והסקייטבורד החל לנוע, בהתחלה לאט ולאחר מכן מהר יותר. זה עבד! עדה בכתה מאושר ויצאה לסיבוב בפארק."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -736,12 +743,12 @@ msgstr ""
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:759
 msgid "When Ada rode her skateboard to school on the first day back after summer break, the other children were amazed. During recess, Ada’s curious classmates surrounded her."
-msgstr ""
+msgstr "כשעדה רכבה על הסקייטבורד שלה לבית הספר ביום הראשון לאחר החופש הגדול, שאר הילדים נדהמו. בהפסקה, החברים הסקרנים מהכיתה של עדה נאספו סביבה."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:760
 msgid "“How can you ride your skateboard on the sidewalk?” they asked."
-msgstr ""
+msgstr "„איך את מצליחה לרכב עם הסקייטבורד שלך על המדרכה?” שאלו."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -753,12 +760,12 @@ msgstr ""
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:769
 msgid "Ada thought for a moment, then said, “I don’t think it’s your skateboards but actually the software in them. It’s probably programmed into the software that the skateboards aren’t allowed to go on the sidewalk. But that can be changed!”"
-msgstr ""
+msgstr "עדה חשבה לרגע, ואמרה, „אני לא חושבת שאלו הסקייטבורדים שלכם אלא למעשה התוכנה שבהם. כנראה שבתוכנה יש הוראות שאוסרות על סקייטבורדים ליסוע על המדרכה. אבל אפשר לשנות את זה!”"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:770
 msgid "That evening, Ada tested out her theory on her classmate Toni’s skateboard. She worked secretly through most of the night, and the next day, Toni could ride on the sidewalk again. Unfortunately, his skateboard could no longer make the sounds that his parents had bought from Zangemann. Instead, every 10 minutes it made a strange noise that sounded like a drawn-out burp. Ada knew that little errors like that could pop up in programs all the time. But Toni’s burping skateboard was really quite funny."
-msgstr ""
+msgstr "באותו הערב. עדה בחנה את ההשערה שלה על הסקייטבורד של טוני, חברה לכיתה. היא עבדה בסתר רוב הלילה, וביום שלמחרת, טוני יכל ליסוע שוב על המדרכה. לרוע המזל, הסקייטבורד שלו לא הצליח יותר להשמיע את הצלילים שההורים שלו קנו מזנגמן. במקום, כל 10 דקות נשמע צליל מוזר שנשמע כמו גיהוק מתמשך. עדה ידעה ששגיאות כאלו עלולות לצוץ בתוכניות כל הזמן. אבל הסקייטבורד המגהק של טוני היה מאוד משעשע."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -770,47 +777,47 @@ msgstr ""
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:781
 msgid "Hacking for freedom"
-msgstr ""
+msgstr "מפצחים למען חירות"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p30-1
 #: Ada_Zangemann.dbk:785
 msgid "<phrase condition=\"capitals-text\">More</phrase><phrase condition=\"capitals-img\">ore</phrase> and more children started to visit Ada at the junkyard after school, and she helped them rewrite the programs in their skateboards. Some of her classmates were very excited about this new discovery. It was unbelievable what you could do with software code! They wanted to learn everything Ada knew about programming languages, and soon they were riding their skateboards again, wherever they wanted to."
-msgstr ""
+msgstr "<phrase condition=\"capitals-text\">עוד</phrase><phrase condition=\"capitals-img\">וד</phrase> ועוד ילדים החלו לבקר את עדה במגרש הגרוטאות אחרי הלימודים, והיא עזרה להם לשכתב את התוכניות של הסקייטבורדים שלהם. חלק מחבריה לכיתה מאוד התרגשו לנוכח התגלית החדשה הזאת. קוד של תוכנות יכול לעשות כל כך הרבה דברים! הם רצו ללמוד כל מה שעדה ידעה על שפות תכנות, וזמן קצר לאחר מכן, כולם חזרו לרכב על הסקייטבורדים שלהם, בכל מקום שרק חפצו."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:787
 msgid "But that wasn’t all. With the software, they could give their skateboards new, cool features. Marie attached colorful LED lights to her board that glowed different colors depending on the speed. Konrad built old propellers onto his skateboard for extra speed."
-msgstr ""
+msgstr "אבל זה לא נגמר שם. עם התוכנה, הם יכלו להעניק לסקייטבורדים שלהם יכולות חדשות ומגניבות. מרי חיברה נוריות ללוח שלה שהאיר בצבעים שונים בהתאם למהירות. קונרד הרכיב מדחפים ישנים לתוך הסקייטבורד שלו כדי להאיץ אותו."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:792
 msgid "A green battery with red and yellow wires, a power strip, glue, a roll of solder, and two pencils."
-msgstr ""
+msgstr "סוללה ירוקה עם חוטים בצבעים אדום וצהוב, מפצל חשמל, דבק, גלגל בדיל ושני עפרונות."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:796
 msgid "Ada, Toni, Marie, and Konrad spent many afternoons at the junkyard. They even set up a real workshop where they could fine-tune their programs for hours, listening all the while to music from the speakers Ada had built for Alan."
-msgstr ""
+msgstr "עדה, טוני, מרי וקונרד בילו מספר פעמים בשעות אחר הצוהריים במגרש הגרוטאות. הם אפילו הקימו סדנה אמיתית בה יכלו לכוון את התוכנות שלהם במשך שעות, תוך כדי האזרה למוזיקה מהרמקולים שעדה בנתה בשביל אלן."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:797
 msgid "“Your brother’s speakers are much louder than ours,” remarked Toni, who was busy attaching a speedometer to his helmet. “I’m sure that’s also because of the software,” Marie said."
-msgstr ""
+msgstr "„הרמקולים של אחיך הרבה יותר חזקים משלנו”, העיר טוני, שבדיוק חיבר מד תאוצה לקסדה שלו. „אני בטוחה שגם זה בגלל התוכנה”, אמרה מרי."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:798
 msgid "Together, they changed the software for the speakers too. Then they turned up the music as loud as possible and danced wildly together."
-msgstr ""
+msgstr "יחד, הם החליפו גם את התוכנה של הרמקולים. ואז הם הגבירו את המוזיקה לעוצמה המרבית ורקדו יחד בטירוף."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:803
 msgid "A screwdriver with orange and gray handle, red pliers, and three LEDs: yellow, green, pink."
-msgstr ""
+msgstr "מברג עם ידית בצבעי כתום אפור, פלייר (צבת) אדום ושלוש נוריות: צהובה, ירוקה וורודה."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -837,38 +844,38 @@ msgstr ""
 #. (itstool) id: Ada_Zangemann.dbk#para-p35-1
 #: Ada_Zangemann.dbk:838
 msgid "<phrase condition=\"capitals-text\">Every</phrase><phrase condition=\"capitals-img\">very</phrase> day, Ada and her friends made plans together for the afternoon. From a broken ice-cream machine, they built a new one that could make ice cream in every imaginable shape and color. They ate square ice cream, heart-shaped ice cream, and even pyramid-shaped ice cream, as well as strawberry, raspberry, and rainbow ice cream, all with sprinkles and hot fudge — much better than the varieties from the Zangemann machines."
-msgstr ""
+msgstr "<phrase condition=\"capitals-text\">בכל</phrase><phrase condition=\"capitals-img\">כל</phrase> יום, עדה וחבריה תכננו להיפגש אחר הצוהריים. ממכונת גלידה מקולקלת הם בנו מכונה חדשה שיכלה להכין גלידה בכל צורה וצבע שרק ניתן לדמיין. הם אכלו גלידה מרובעת, גלידה בצורת לב ואפילו גלידה בצורת פירמידה כולל גלידת תות, פטל וקשת בענן, הכול עם סוכריות צבעוניות ושוקולד חם – הרבה יותר מוצלח מהמגוון שהציעו המכונות של זנגמן."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:839
 msgid "Sometimes they could even help adults. Toni reprogrammed his father’s ironing machine so that it could also iron ties again — Zangemann had forbidden the machines to do so because he hated ties like the plague. For the bus driver, they built an automatic watering system out of old hoses and a computer so that her plants would not die of thirst during summer days. And they helped the school custodian modify his vacuum so that it automatically recognized toys and wouldn’t suck them up."
-msgstr ""
+msgstr "לפעמים הם יכלו גם לעזור למבוגרים. טוני תכנת מחדש את המגהץ של אבא שלו כדי שיוכל לגהץ שוב עניבות – זנגמן אסר על המכונות לעשות זאת כי הוא שנא עניבות שנאה יוקדת. לנהגת האוטובוס, הם בנו מכונת השקייה אוטומטית מצינורות ישנים ומחשב כדי שהצמחים שלה לא ימותו מצמא במהלך ימי הקיץ. והם סייעו לעוזר הניקיון לערוך שינויים בשואב האבק שלו כדי שיזהה צעצועים אוטומטית ולא ישאב אותם."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:840
 msgid "Some things they built just for fun, like the fart machine they put in their math teacher’s chair. Whenever Ms. Gernet sat down, the machine played a little fart sound. The teacher would scold them, but Ada was sure that she secretly smirked a little every time."
-msgstr ""
+msgstr "חלק מהדברים הם בנו בשביל הכיף, כמו מכונת הפלוצים שהתקינו בכיסא של המורה למתמטיקה. כשגברת גרנט התיישבה, המכונה השמיעה צליל חלש של פלוץ. המורה הייתה נוזפת בהם, אבל עדה הייתה בטוחה שהיא מסתירה חיוך קטן בכל פעם שזה קרה."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:845
 msgid "Zangemann and the President"
-msgstr ""
+msgstr "זנגמן והנשיא"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p36-1
 #: Ada_Zangemann.dbk:849
 msgid "<phrase condition=\"capitals-text\">One</phrase><phrase condition=\"capitals-img\">ne</phrase> day, Zangemann noticed that some computers no longer obeyed his programming commands. Shocked and fuming with anger, he called the president. In a quivering voice, Zangemann yelled, “Someone is rewriting the programs in my devices. That can’t happen; after all, they are my inventions. It’s far too dangerous if everyone can do whatever they want with the computers. You must make a law against this!”"
-msgstr ""
+msgstr "<phrase condition=\"capitals-text\">יום</phrase><phrase condition=\"capitals-img\">ום</phrase> אחד, הבחין זנגמן שחלק מהמחשבים שלו לא צייתו יותר לפקודות התכנות שלו. מזועזע ורותח מזעם, התקשר זנגמן לנשיא. בקול רוטט, צרח זנגמן, „מישהו משכתב את התוכניות במכשירים שלי. אסור שזה יקרה, ככלות הכול אלו ההמצאות שלי. זה מסוכן מדי לאפשר לכל מי שחפץ לעשות כל שעולה על רוחו עם המחשבים. אתה חייב לחוקק חוק נגד זה!”"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:850
 msgid "The president did not want to upset Zangemann. All the government’s computers were programmed by Zangemann. Without the computers, the government would not be able to run the country. So they passed the law as Zangemann requested:"
-msgstr ""
+msgstr "הנשיא לא רצה שזנגמן ידאג. כל מחשבי הממשלה תוכנתו על ידי זנגמן. בלי מחשבים, הממשלה לא תוכל לנהל את המדינה. אז הם העבירו חוק כמו שזנגמן ביקש:"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:851
 msgid "“All computers that do not listen to Zangemann are banned. Anyone who reprograms Zangemann’s devices will be fined 500,000 gold pieces!”"
-msgstr ""
+msgstr "„כל המחשבים שלא מצייתים לזנגמן אסורים. כל מי שמתכנת את המכשירים של זנגמן מחדש ייקנס ב־500,000 חתיכות זהב!”"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -880,12 +887,12 @@ msgstr ""
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:863
 msgid "When Ada and her friends heard this, they were furious. “This is unfair,” they said. “We rebuilt and reprogrammed our skateboards ourselves. They are much better now. We won’t let anyone take that away from us!”"
-msgstr ""
+msgstr "כשעדה וחבריה שמעו זאת, הם כעסו מאוד. „זה לא הוגן” אמרו. „שיפצנו ותכנתנו מחדש את הסקייטבורדים שלנו בעצמנו. הם הרבה יותר מוצלחים עכשיו. לא ניתן לאף אחד לקחת את זה מאיתנו!”"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:864
 msgid "They gathered in front of one of their rebuilt ice-cream machines and discussed the situation. It was clear that something had to be done about the new law, and they made a plan..."
-msgstr ""
+msgstr "הם נאספו מול אחת ממכונות הגלידה שהרכיבו מחדש ושוחחו על המצב. היה ברור שצריך לעשות מעשה כנגד החוק החדש, והם גיבשו תוכנית…"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -897,7 +904,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:875
 msgid "Protest"
-msgstr ""
+msgstr "מחאה"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p39-1
