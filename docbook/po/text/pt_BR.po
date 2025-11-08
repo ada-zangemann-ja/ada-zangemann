@@ -3,20 +3,20 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2025-08-17 05:02+0000\n"
-"Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
+"PO-Revision-Date: 2025-10-28 13:02+0000\n"
+"Last-Translator: William Weber Berrutti <wwberrutti@protonmail.ch>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/fsfe/ada-zangemann/pt_BR/>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.13\n"
+"X-Generator: Weblate 5.14.1-dev\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
 msgid "translator-credits"
-msgstr "translator-credits"
+msgstr "William Weber Berrutti <wwberrutti@protonmail.ch>, 2025"
 
 #. (itstool) path: info/title
 #. (itstool) path: cover/bridgehead
@@ -139,7 +139,7 @@ msgstr "Marie"
 #. ignore-same
 #: Ada_Zangemann.dbk:300
 msgid "Ms. Gernet"
-msgstr "Ms. Gernet"
+msgstr "Sra. Gernet"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -227,16 +227,29 @@ msgid ""
 "<emphasis role=\"bold\">A big thank you</emphasis> to <emphasis role=\"bold\">dpunkt.verlag</emphasis> and <emphasis role=\"bold\">No Starch Press</emphasis> for understanding the values of software freedom, taking the time to discuss and understand the advantages of free cultural licenses, and the great support to publish this book under conditions that respect the FSFE’s values."
 msgstr ""
 "Copyright © 2023 Matthias Kirschner e Sandra Brandstätter.\n"
+"\n"
 "Este trabalho está licenciado sob a licença Creative Commons Attribution-ShareAlike 4.0 International License.\n"
+"\n"
 "Para ver uma cópia desta licença, visite <link xlink:href=\"https://creativecommons.org/licenses/by-sa/4.0/\"/>https://creativecommons.org/licensas/by-sa/4.0/ ou envie uma carta para Creative Commons, PO Box 1866, Mountain View, CA 94042, EUA.\n"
+"\n"
+"\n"
 "\n"
 "<emphasis role=\"bold\">Ada &amp; Zangemann: Um conto de software, skates e sorvete de framboesa</emphasis> é uma tradução do original alemão, Ada und Zangemann: Ein Märchen über Software, Skateboards und Himbeereis, publicado pela Dpunkt. Verlag em cooperação com a O’Reilly Media, Inc., sob a impressão “O’REILLY,” © 2022 por Matthias Kirschner e Sandra Brandstätter.\n"
 "\n"
+"\n"
+"\n"
 "Este livro de Matthias Kirschner (autor) e Sandra Brandstätter (ilustrator) está licenciado sob <emphasis role=\"bold\">Creative Commons CC-BY-SA</emphasis>, uma licença cultural gratuita.\n"
+"\n"
+"\n"
 "\n"
 "<emphasis role=\"bold\">Pode</emphasis> compartilhar, copiar e redistribuir o material em qualquer meio ou formato. <emphasis role=\"bold\">Pode</emphasis> adaptar, remixar, transformar e construir sobre o material para qualquer finalidade, mesmo comercial. <emphasis role=\"bold\">Deves...</emphasis> dar crédito adequado, fornecer um link para a licença, e indicar se as alterações foram feitas.\n"
 "\n"
+"\n"
+"\n"
 "<emphasis role=\"bold\">Pode</emphasis> faça-o de forma razoável, mas não de qualquer forma que sugira que o licenciante endossa você ou seu uso. Se você remixar, transformar, ou construir sobre o material, <emphasis role=\"bold\">você deve</emphasis> distribuir suas contribuições sob a mesma licença que o original. (Este é um resumo legível pelo homem do – e não um substituto para – o “código legal” do CC-BY-SA 4.0.)\n"
+"\n"
+"\n"
+"\n"
 "Além disso, para versões remix (obras derivadas), o licenciante pede que você não faça quaisquer modificações dos agradecimentos pessoais do autor e das biografias curtas do autor e ilustrador, em vez disso, por favor, remova completamente essas partes de sua versão remix.\n"
 "\n"
 "\n"
@@ -431,9 +444,8 @@ msgstr "<phrase condition=\"capitals-text\">Era</phrase><phrase condition=\"capi
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:508
-#, fuzzy
 msgid "Ada in foreground leaving the house to go to school, in the background Ada’s house and the junkyard. Ada has a brown backpack with yellow shoulder straps. To the left of Ada there is a red car, a Volkswagen Beetle, without wheels and no longer working, with one of the headlights remaining attached only with its wires. On the left, in front of the car, there are two tires, two boxes – one of which is a wooden box with an overturned bucket –, and an empty can, all among some plants with yellow flowers. In the background there is Ada’s house, with her mother and her brother Alan waving goodbye, and the dog sitting on the ground. Alan is sitting on the two entrance steps of the house. He has short dark hair and is dressed in a white short-sleeved shirt with a red stripe at the edges of the sleeves and two red stripes at the bottom of the shirt. Alan wears blue shorts and he is barefoot. Ada’s mom has dark lipstick and long black hair in a white headband. She is wearing a short blue shirt with white trim, white pants, and yellow shoes. Ada’s house is built of wood, with the front being white. The roof is dark red corrugated sheeting. There are two windows in front in addition to the door, and another window on the left side. A yellow duck stands on top of the roof, while a gray chimney protrudes. An antenna on the left of the roof supports a clothesline on which red clothespins hold a green tank top, a pair of light blue pants, and white underpants. To the right of the house there is a veranda on which there is installed a solar panel. Under the veranda there are a mattress, a red oil drum, and a gray case. Behind the house there are piles of landfill objects among which you can see a washing machine, a car, and various wooden boards."
-msgstr "Ada em primeiro plano deixando a casa para ir para a escola, no fundo da casa de Ada e do ferro-velho. Ada tem uma mochila marrom com alças amarelas. À esquerda de Ada há um carro vermelho, um Volkswagen Beetle, sem rodas e não mais funcionando, com um dos faróis permanecendo preso apenas com seus fios. À esquerda, na frente do carro, há dois pneus, duas caixas – uma delas é uma caixa de madeira com um balde virado –, e uma lata vazia, todas entre algumas plantas com flores amarelas. No fundo há a casa de Ada, com sua mãe e seu irmão Alan acenando adeus, e o cão sentado no chão. O Alan está sentado nos dois degraus da casa. Ele tem cabelo escuro curto e está vestido com uma camisa branca de manga curta com uma faixa vermelha nas bordas das mangas e duas listras vermelhas no fundo da camisa. Alan usa calções azuis e está descalço. A mãe de Ada tem batom escuro e cabelo preto longo em uma faixa branca. Ela está usando uma camisa azul curta com acabamento branco, calças brancas e sapatos amarelos. A casa de Ada é construída de madeira, com a frente branca. O telhado é vermelho escuro folha ondulada. Há duas janelas na frente, além da porta, e outra janela no lado esquerdo. Um pato amarelo fica em cima do telhado, enquanto uma chaminé cinzenta se projeta. Uma antena à esquerda do telhado suporta um varal em que os grampos de roupas vermelhas seguram um top de tanque verde, um par de calças azuis claras, e cuecas brancas. À direita da casa há uma varanda em que há instalado um painel solar. Sob a varanda há um colchão, um tambor de óleo vermelho e uma caixa cinza. Atrás da casa há pilhas de objetos de aterro entre os quais você pode ver uma máquina de lavar, um carro, e várias tábuas de madeira."
+msgstr "Ada em primeiro plano deixando a casa para ir para a escola, no fundo a casa de Ada e do ferro-velho. Ada tem uma mochila marrom com alças amarelas. À esquerda de Ada há um carro vermelho, um Volkswagen Beetle, sem rodas e não mais funcionando, com um dos faróis permanecendo preso apenas com seus fios. À esquerda, na frente do carro, há dois pneus, duas caixas – uma delas é uma caixa de madeira com um balde virado –, e uma lata vazia, todas entre algumas plantas com flores amarelas. No fundo há a casa de Ada, com sua mãe e seu irmão Alan acenando adeus, e o cão sentado no chão. Alan está sentado nos dois degraus de entrada da casa. Ele tem cabelo escuro curto e está vestido com uma camisa branca de manga curta com uma listra vermelha nas bordas das mangas e duas listras vermelhas no fundo da camisa. Alan usa calções azuis e está descalço. A mãe de Ada tem batom escuro e cabelo preto longo em uma faixa branca. Ela está usando uma camisa azul curta com acabamento branco, calças brancas e sapatos amarelos. A casa de Ada é construída de madeira, com a frente branca. O telhado é de folha ondulada vermelha escura. Há duas janelas na frente, além da porta, e outra janela no lado esquerdo. Um pato amarelo fica em cima do telhado, enquanto uma chaminé cinzenta se projeta. Uma antena à esquerda do telhado suporta um varal em que os grampos de roupas vermelhas seguram um top verde, um par de calças azuis claras, e cuecas brancas. À direita da casa há uma varanda em que há instalado um painel solar. Sob a varanda há um colchão, um tambor de óleo vermelho e uma caixa cinza. Atrás da casa há pilhas de objetos de aterro entre os quais você pode ver uma máquina de lavar, um carro, e várias tábuas de madeira."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -583,9 +595,8 @@ msgstr "Zangemann desce as escadas de sua mansão na colina em direção à cida
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:613
-#, fuzzy
 msgid "“Maybe a little trip might even give me a few new ideas. If I’m completely honest, my last inventions weren’t quite as useful as the first ones... ,” Zangemann pondered. “But my ice-cream machines are and will remain second to none,” he thought immediately afterward, and not without pride, as he passed a group of people all eating coconut ice cream, the flavor of the day."
-msgstr "“Talvez uma pequena viagem possa até me dar algumas ideias novas. Se eu sou completamente honesto, minhas últimas invenções não foram tão úteis quanto as primeiras ... ”, Zangemann ponderou. “Mas minhas máquinas de sorvete são do bom e do melhor”, pensou ele imediatamente depois, e não sem orgulho, pois ele passou por um grupo de pessoas todas comendo sorvete de coco, o sabor do dia."
+msgstr "“Talvez uma pequena viagem possa até me dar algumas ideias novas. Se eu sou completamente honesto, minhas últimas invenções não foram tão úteis quanto as primeiras... ”, Zangemann ponderou. “Mas minhas máquinas de sorvete são do bom e do melhor”, pensou ele imediatamente depois, e não sem orgulho, pois ele passou por um grupo de pessoas todas comendo sorvete de coco, o sabor do dia."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:615
@@ -613,9 +624,8 @@ msgstr "Um Zangemann zangado coxeou. De repente, ouviu música alta. Ele nunca t
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:630
-#, fuzzy
 msgid "Advertisements for Zangemann ice cream (sandwich board), a Zangemann electric skateboard, and a Zangemann washing machine. The math teacher, Ms. Gernet, is passing in front of the billboards. Ms. Gernet is an old lady with short white hair. She is dressed in a light green t-shirt and a pea green sweater, dark brown pants, and light green heeled shoes. She has a fuchsia shoulder bag, worn behind her. She pushes a small shopping cart in which there is a small brown dog with a collar and tag."
-msgstr "Anúncios para o sorvete Zangemann (barra de sanduíches), um skate elétrico Zangemann e uma máquina de lavar roupa Zangemann. A professora de matemática, Sra. Gernet, está passando em frente aos cartazes. A Sra. Gernet é uma senhora de cabelos brancos curtos. Ela está vestida com uma camiseta verde clara e uma camisola verde ervilha, calças marrom escuro, e sapatos de salto verde claro. Ela tem um saco de ombro fúcsia, usado atrás dela. Ela empurra um carrinho de compras pequeno em que há um pequeno cão marrom com um colarinho e etiqueta."
+msgstr "Anúncios para o sorvete de Zangemann (barra de sanduíches), um skate elétrico Zangemann e uma máquina de lavar roupa Zangemann. A professora de matemática, Sra. Gernet, está passando em frente aos cartazes. A Sra. Gernet é uma senhora de cabelos brancos curtos. Ela está vestida com uma camiseta verde clara e um suéter verde ervilha, calças marrom escuro, e sapatos de salto verde claro. Ela tem um saco de ombro fúcsia, usado atrás dela. Ela empurra um carrinho de compras pequeno em que há um pequeno cão marrom com uma coleira e uma etiqueta."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:635
@@ -626,17 +636,15 @@ msgstr "Zangemann estava tão furioso com as duas crianças. Como se atrevem a u
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:640
-#, fuzzy
 msgid "The city in the evening, with houses, a church, and two streetlights. Images emerge from the dwellings illustrating Zangemann’s inventions bought by the inhabitants: a washing machine, a yellow vacuum cleaner, and a red car, all with Internet connection signals."
-msgstr "A cidade à noite, com casas, uma igreja e duas luzes de rua. Imagens/Ilustrações emergem das habitações que ilustram as invenções de Zangemann compradas pelos habitantes: uma máquina de lavar roupa, um aspirador de pó amarelo e um carro vermelho, tudo com sinais conexão à Internet."
+msgstr "A cidade à noite, com casas, uma igreja e dois postes de luz. Imagens emergem das habitações que ilustram as invenções de Zangemann compradas pelos habitantes: uma máquina de lavar roupa, um aspirador de pó amarelo e um carro vermelho, tudo com sinais conexão à Internet."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:648
-#, fuzzy
 msgid "Continuation of the previous picture, where in the background there is the hill with Zangemann’s house from whose antenna come the signals to control the various devices. In emerging images there are: a red electric skateboard, a light bulb, an ice cream machine, and a toilet, all of which are receiving commands from Zangemann."
-msgstr "Continuação da imagem anterior, onde no fundo há a colina com a casa de Zangemann de cuja antena vêm os sinais para controlar os vários dispositivos. Em imagens/ilustrações emergentes há: um skate elétrico vermelho, uma lâmpada, uma máquina de sorvete, e um banheiro, todos os quais estão recebendo comandos de Zangemann."
+msgstr "Continuação da imagem anterior, onde no fundo há a colina com a casa de Zangemann de cuja antena vêm os sinais para controlar os vários dispositivos. Em imagens emergentes há: um skate elétrico vermelho, uma lâmpada, uma máquina de sorvete, e um banheiro, todos os quais estão recebendo comandos de Zangemann."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:654
@@ -653,7 +661,6 @@ msgstr "<phrase condition=\"capitals-text\">N</phrase><phrase condition=\"capita
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:663
-#, fuzzy
 msgid "Five kids from the school who can’t make skateboards work. Two girls wear helmets, respectively blue and red. A little girl with brown hair tied in two tails with yellow rubber bands is kneeling. She is trying to understand why the skateboard of her friend with the red helmet does not work. Four children have backpacks on their shoulders, while the little girl with the red helmet left hers leaning on a bench on which there are a yellow apple and a light blue bottle with a white flower on it."
 msgstr "Cinco crianças da escola que não conseguem fazer os skates funcionarem. Duas meninas usam capacetes, respectivamente azul e vermelho. Uma menina com cabelo castanho amarrada em duas caudas com elásticos amarelos está ajoelhada. Ela está tentando entender por que o skate de sua amiga com o capacete vermelho não funciona. Quatro crianças têm mochilas em seus ombros, enquanto a menina com o capacete vermelho deixou o dela apoiada em um banco em que há uma maçã amarela e uma garrafa azul claro com uma flor branca sobre ele."
 
@@ -798,9 +805,8 @@ msgstr "Várias tentativas fracassadas mais tarde, no último dia de férias de 
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:754
-#, fuzzy
 msgid "Ada racing with her electric skateboard for city sidewalks. Ada’s skateboard is blue, with gray and pink wheels; the electronic part is placed above the skateboard (as opposed to Zangemann’s skateboards where the electronic part is below). Ada is holding in both hands a remote control with a short antenna to maneuver it. Behind Ada are Marie and Toni who carry their own skateboards under their arms and look with amazement at Ada, who has shot past them and in front of them. Marie has dark long hair with two braids fastened with orange clips, yellow earrings, a fuchsia shirt with white sleeves with purple horizontal stripes, a white skirt, white and yellow sneakers, white socks, a white hat with yellow sides, and a light purple backpack. Marie has a blue artificial leg. Her skateboard is blue with yellow wheels. Toni has red hair closely trimmed on the sides. He is wearing a blue sweatshirt, dark green pants, and white shoes. He has a red backpack with white inserts and shoulder straps. One hand is next to his mouth. His skateboard is purple with orange wheels. There’s also a father with his son walking in the opposite direction: the father is dressed in a blue checked jacket and blue pants and holds a brown briefcase. He is smiling at Ada. His son has a blue shirt, blue shorts, white shoes, a brown backpack, and a red and white hat. He holds under his arm a yellow Zangemann skateboard with light brown wheels, and he grins at Ada. In the background there is a bakery with large windows through which you can see the bread. It has a green and white striped awning around the corner and a sign on the sidewalk with the list of products. Overhead, a large pretzel is displayed. On the road there is a puddle that reflects the blue of the sky."
-msgstr "Ada correndo com seu skate elétrico para calçadas da cidade. O skate de Ada é azul, com rodas cinza e rosa; a parte eletrônica é colocada acima do skate (em oposição aos skates de Zangemann onde a parte eletrônica está abaixo). Ada está segurando em ambas as mãos um controle remoto com uma antena curta para manobrar. Atrás de Ada estão Marie e Toni que carregam seus próprios skates sob seus braços e olham com espanto para Ada, que atirou por eles e na frente deles. Marie tem cabelos longos escuros com duas tranças presas com clipes laranjas, brincos amarelos, uma camisa fúcsia com mangas brancas com listras horizontais roxas, uma saia branca, tênis brancos e amarelos, meias brancas, um chapéu branco com lados amarelos e uma mochila roxa clara. A Marie tem uma perna azul artificial. O skate dela é azul com rodas amarelas. Toni tem cabelos vermelhos bem aparados nos lados. Ele está usando uma camisola azul, calças verdes escuras e sapatos brancos. Ele tem uma mochila vermelha com inserções brancas e alças de ombro. Uma mão está ao lado da boca. O skate dele é roxo com rodas laranjas. Há também um pai com seu filho andando na direção oposta: o pai está vestido com uma jaqueta azul e calças azuis e segura uma pasta marrom. Ele está a sorrir para a Ada. Seu filho tem uma camisa azul, calções azuis, sapatos brancos, uma mochila marrom, e um chapéu vermelho e branco. Ele segura sob seu braço um skate amarelo Zangemann com rodas marrom claro, e ele sorri para Ada. No fundo há uma padaria com grandes janelas através das quais você pode ver o pão. Tem um toldo listrado verde e branco ao virar da esquina e uma placa na calçada com a lista de produtos. Overhead, um pretzel grande é exibido. Na estrada há uma poça que reflete o azul do céu."
+msgstr "Ada correndo com seu skate elétrico para calçadas da cidade. O skate de Ada é azul, com rodas cinza e rosa; a parte eletrônica é colocada acima do skate (em oposição aos skates de Zangemann onde a parte eletrônica está abaixo). Ada está segurando em ambas as mãos um controle remoto com uma antena curta para manobrar. Atrás de Ada estão Marie e Toni que carregam seus próprios skates sob seus braços e olham com espanto para Ada, que lançou por eles e na frente deles. Marie tem cabelos longos escuros com duas tranças presas com clipes laranjas, brincos amarelos, uma camisa fúcsia com mangas brancas com listras horizontais roxas, uma saia branca, tênis brancos e amarelos, meias brancas, um chapéu branco com lados amarelos e uma mochila roxa clara. Marie tem uma perna azul artificial. O skate dela é azul com rodas amarelas. Toni tem cabelos vermelhos bem aparados nos lados. Ele está usando um moletom azul, calças verdes escuras e sapatos brancos. Ele tem uma mochila vermelha com inserções brancas e alças de ombro. Uma mão está ao lado da boca. Seu skate é roxo com rodas laranjas. Há também um pai com seu filho andando na direção oposta: o pai está vestido com uma jaqueta xadrez azul e calças azuis e segura uma pasta marrom. Ele está sorrindo para a Ada. Seu filho tem uma camisa azul, calções azuis, sapatos brancos, uma mochila marrom, e um chapéu vermelho e branco. Ele segura sob seu braço um skate amarelo Zangemann com rodas marrom claro, e ele sorri para Ada. No fundo há uma padaria com grandes janelas através das quais você pode ver o pão. Tem um toldo listrado verde e branco ao virar da esquina e uma placa na calçada com a lista de produtos. Acima, um pretzel grande é exibido. Na estrada há uma poça que reflete o azul do céu."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:759
@@ -971,9 +977,8 @@ msgstr "Protesto"
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p39-1
 #: Ada_Zangemann.dbk:880
-#, fuzzy
 msgid "<phrase condition=\"capitals-text\">The</phrase><phrase condition=\"capitals-img\">he</phrase> next day, they didn’t go to school. Instead, they rode their skateboards to the parliament building, with large protest signs under their arms, and sat down in front of the building. The evening before, they had put LED lights on some of the signs, which were now flashing brightly. They had connected their speakers together so everyone in the street could hear what they were saying. Some passersby stopped and asked the children what they were demonstrating for. “For software freedom!” they replied in unison and told the adults their story. Impressed, the adults nodded, and the president also looked curiously at their signs as he approached the building."
-msgstr "<phrase condition=\"capitals-text\">N</phrase><phrase condition=\"capitals-img\">o</phrase> dia seguinte, não foram à escola. Em vez disso, eles montaram em seus skates para o edifício do parlamento, com grandes cartazes de protesto sob seus braços, e sentaram-se em frente ao edifício. Na noite anterior, eles tinham colocado luzes LED em alguns dos cartazes, que estavam agora piscando brilhantemente. Eles tinham conectado seus alto-falantes juntos para que todos na rua pudessem ouvir o que estavam dizendo. Alguns pedestres pararam e perguntaram às crianças o que estavam demonstrando. “Pela liberdade de software!” responderam em uníssono e contaram aos adultos sua história. Impressionados, os adultos acenaram com a cabeça, e o presidente também olhou curiosamente para os seus sinais quando se aproximou do edifício."
+msgstr "<phrase condition=\"capitals-text\">N</phrase><phrase condition=\"capitals-img\">o</phrase> dia seguinte, não foram à escola. Em vez disso, eles montaram em seus skates para o edifício do parlamento, com grandes cartazes de protesto sob seus braços, e sentaram-se em frente ao edifício. Na noite anterior, eles tinham colocado luzes LED em alguns dos cartazes, que estavam agora piscando intensamente. Eles tinham conectado seus alto-falantes juntos para que todos na rua pudessem ouvir o que estavam dizendo. Alguns pedestres pararam e perguntaram às crianças o que estavam demonstrando. “Pela liberdade de software!” responderam em uníssono e contaram aos adultos sua história. Impressionados, os adultos acenaram com a cabeça, e o presidente também olhou curiosamente para os seus cartazes quando se aproximou do edifício."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:881
@@ -1156,7 +1161,7 @@ msgstr "E Zangemann?"
 #. (itstool) id: Ada_Zangemann.dbk#para-p48-1
 #: Ada_Zangemann.dbk:999
 msgid "<phrase condition=\"capitals-text\">And</phrase><phrase condition=\"capitals-img\">nd</phrase> Zangemann? No one’s heard much from him. Maybe he’s still sitting angrily in front of his golden computer. Maybe he doesn’t dare go out into the street anymore and has boarded up all the windows of his mansion so that he doesn’t have to worry about what other people are doing with his inventions. But maybe he also sometimes looks out into the world through his telescope and sees what the children are inventing every day. Perhaps then he will remember how much fun it was for himself to tinker and experiment. And maybe, just maybe, he eats pyramid-shaped raspberry ice cream with rainbow sprinkles."
-msgstr "<phrase condition=\"capitals-text\">E</phrase><phrase condition=\"capitals-img\"></phrase> Zangemann? Ninguém ouviu muito dele. Talvez ele ainda esteja irritado sentado em frente ao seu computador dourado. Talvez ele não se atreva mais a sair para a rua e tenha encaixotado todas as janelas de sua mansão para que ele não tenha que se preocupar com o que outras pessoas estão fazendo com suas invenções. Mas talvez também olhe para o mundo através de seu telescópio e veja o que as crianças inventam todos os dias. Talvez então ele se lembre de como foi divertido para ele mesmo mexer e experimentar. E talvez, talvez, coma sorvete de framboesa em forma de pirâmide com granulados arco-íris."
+msgstr "<phrase condition=\"capitals-text\">E</phrase><phrase condition=\"capitals-img\"></phrase> Zangemann? Ninguém ouviu muito dele. Talvez ele ainda esteja irritado sentado em frente ao seu computador dourado. Talvez ele não se atreva mais a sair para a rua e tenha encaixotado todas as janelas de sua mansão para que ele não tenha que se preocupar com o que outras pessoas estão fazendo com suas invenções. Mas talvez também às vezes olhe para o mundo através de seu telescópio e veja o que as crianças inventam todos os dias. Talvez então ele se lembre de como foi divertido para ele mesmo mexer e experimentar. E talvez, apenas talvez, coma sorvete de framboesa em forma de pirâmide com granulados arco-íris."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the

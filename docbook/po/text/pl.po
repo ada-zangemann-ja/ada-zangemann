@@ -3,20 +3,23 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2025-07-11 10:02+0000\n"
-"Last-Translator: Tomasz Janiszewski <janiszt@gmail.com>\n"
+"PO-Revision-Date: 2025-10-26 08:02+0000\n"
+"Last-Translator: Igor W <igorwisnia@proton.me>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/fsfe/ada-zangemann/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.13-dev\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Weblate 5.14.1-dev\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
+#, fuzzy
 msgctxt "_"
 msgid "translator-credits"
-msgstr "Tomasz Janiszewski <tomek@redhat.com> 2025"
+msgstr ""
+"Tomasz Janiszewski <tomek@redhat.com> 2025\n"
+"Igor Wiśniewski <igorwisnia@ik.me> 2025"
 
 #. (itstool) path: info/title
 #. (itstool) path: cover/bridgehead
@@ -31,13 +34,13 @@ msgstr "Ada &amp; Zangemann"
 #. (itstool) path: cover/bridgehead
 #: Ada_Zangemann.dbk:263 Ada_Zangemann.dbk:307
 msgid "A Tale of Software, Skateboards, and Raspberry Ice Cream"
-msgstr "Opowieść o kodzie, deskorolkach i lodach malinowych"
+msgstr "Opowieść o oprogramowaniu, deskorolkach i lodach malinowych"
 
 #. (itstool) path: info/biblioid
 #. ISBN of print edition
 #: Ada_Zangemann.dbk:264
 msgid "978-1-7185-0318-2"
-msgstr ""
+msgstr "978-1-7185-0318-2"
 
 #. (itstool) path: info/biblioid
 #. ISBN of ebook edition
@@ -146,14 +149,14 @@ msgstr "Pani Gernet"
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:320
 msgid "Ada &amp; Zangemann - A Tale of Software, Skateboards, and Raspberry Ice Cream. By Matthias Kirschner and Sandra Brandstätter. On a mostly desaturated dark cyan background, in a frame composed of sometimes curled white lines that connect a mouse, a keyboard, and a pink smartphone, Ada and Zangemann are facing each other, both with their hands on their hips as a sign of challenge. Ada is smiling and Zangemann is frowning. Ada has black hair collected in two big right- and left-bound ringlets with red rubber bands, and red cheeks. She has little yellow stud earrings. She wears cyan and white horizontal striped shorts and a yellow shirt over a white undershirt that ends with embroidery that goes beyond the shirt. The shirt and undershirt come out over the shorts. Above the shirt Ada wears a blue hoodie. Ada is wearing red shoes with white tips and soles, and short white socks. She has one foot on a skateboard and the other on the ground. Zangemann has short gray hair and square glasses. He is wearing a purple turtle-neck sweater, light blue pants turned up, brown shoes, and white socks. He’s wearing a big tech watch. Above Zangemann there are a pair of pliers with red handles crossing the wire frame."
-msgstr ""
+msgstr "Ada &amp; Zangemann – opowieść o oprogramowaniu, deskach rolkowych i lodach malinowych. Autorzy: Matthias Kirschner i Sandra Brandstätter. Na tle ciemnoniebieskim, pozbawionym nasycenia, w ramce złożonej z czasami zawiniętych białych linii łączących mysz, klawiaturę i różowy smartfon, Ada i Zangemann stoją naprzeciw siebie, trzymając ręce na biodrach w geście wyzwania. Ada się uśmiecha, a Zangemann marszczy brwi. Ada ma czarne włosy związane w dwa duże loki po prawej i lewej stronie za pomocą czerwonych gumek oraz czerwone policzki. Ma małe żółte kolczyki w kształcie sztyftów. Nosi szorty w ciemnoniebieskie i białe poziome paski oraz żółtą koszulkę na białej podkoszulce, która kończy się haftem wystającym poza koszulkę. Koszulka i podkoszulka wystają ponad szorty. Na koszulce Ada ma na sobie niebieską bluzę z kapturem. Ada ma na sobie czerwone buty z białymi czubkami i podeszwami oraz krótkie białe skarpetki. Jedną stopę ma na deskorolce, a drugą na ziemi. Zangemann ma krótkie siwe włosy i kwadratowe okulary. Ma na sobie fioletowy sweter z golfem, jasnoniebieskie spodnie z podwiniętymi nogawkami, brązowe buty i białe skarpetki. Nosi duży zegarek techniczny. Nad Zangemannem znajduje się para szczypiec z czerwonymi uchwytami przecinającymi drucianą ramę."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:329
 msgid "A soldering iron and a brush and can with yellow paint, connected by white electrical cord that forms a frame."
-msgstr ""
+msgstr "Lutownica, szczotka i puszka z żółtą farbą, połączone białym przewodem elektrycznym, który tworzy ramę."
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-back-1
@@ -171,14 +174,14 @@ msgstr "Książka która rozpala chęć majsterkowania i zajmowania się technol
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:340
 msgid "A power strip, with input and output of white electrical cord that is the frame."
-msgstr ""
+msgstr "Listwa zasilająca z białym przewodem elektrycznym wejściowym i wyjściowym, który stanowi ramę."
 
 #. (itstool) path: info/title
 #. Page before the colophon and the title page, with just the title. Also
 #. know as 'bastard title'.
 #: Ada_Zangemann.dbk:355
 msgid "Half-title page"
-msgstr ""
+msgstr "Strona tytułowa"
 
 #. (itstool) path: mediaobject/alt
 #. (itstool) path: simplesect/para
@@ -195,7 +198,7 @@ msgstr "ADA &amp; ZANGEMANN"
 #. Also known as 'imprint'
 #: Ada_Zangemann.dbk:368
 msgid "Colophon"
-msgstr ""
+msgstr "Kolofon"
 
 #. (itstool) path: simplesect/literallayout
 #. Smaller colophon to be combined with grey free cultural license
@@ -206,7 +209,7 @@ msgstr ""
 #.
 #. In a literallayout element all space and newline characters are kept.
 #: Ada_Zangemann.dbk:372
-#, no-wrap
+#, fuzzy, no-wrap
 msgid ""
 "Copyright © 2023 Matthias Kirschner and Sandra Brandstätter.\n"
 "This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.\n"
@@ -226,6 +229,46 @@ msgid ""
 "\n"
 "<emphasis role=\"bold\">A big thank you</emphasis> to <emphasis role=\"bold\">dpunkt.verlag</emphasis> and <emphasis role=\"bold\">No Starch Press</emphasis> for understanding the values of software freedom, taking the time to discuss and understand the advantages of free cultural licenses, and the great support to publish this book under conditions that respect the FSFE’s values."
 msgstr ""
+"Prawa autorskie © 2023 Matthias Kirschner i Sandra Brandstätter.\n"
+"\n"
+"Niniejsze dzieło jest objęte licencją Creative Commons Attribution-ShareAlike 4.0 International License.\n"
+"\n"
+"Aby zapoznać się z treścią tej licencji, odwiedź stronę\n"
+"<link xlink:href=\"https://creativecommons.org/licenses/by-sa/4.0/\">https://creativecommons.org/licenses/by-sa/4.0/</link>\n"
+"lub wyślij list na adres: Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.\n"
+"\n"
+"<emphasis role=\"bold\">Ada &amp; Zangemann: Opowieść o oprogramowaniu, deskorolkach i lodach malinowych</emphasis>\n"
+"jest tłumaczeniem niemieckiego oryginału\n"
+"Ada und Zangemann: Ein Märchen über Software, Skateboards und Himbeereis,\n"
+"opublikowanego przez Dpunkt.verlag we współpracy z O’Reilly Media, Inc., pod marką „O’REILLY”, © 2022 Matthias Kirschner i Sandra Brandstätter.\n"
+"\n"
+"Ta książka autorstwa Matthiasa Kirschnera (autor) i Sandry Brandstätter (ilustratorka) jest udostępniona na licencji\n"
+"<emphasis role=\"bold\">Creative Commons CC-BY-SA</emphasis>, będącej wolną licencją kulturalną.\n"
+"\n"
+"<emphasis role=\"bold\">Możesz</emphasis> udostępniać, kopiować i rozpowszechniać ten materiał w dowolnym formacie i na dowolnym nośniku.\n"
+"<emphasis role=\"bold\">Możesz</emphasis> również adaptować, remiksować, przekształcać i tworzyć na jego podstawie nowe utwory – nawet do celów komercyjnych.\n"
+"<emphasis role=\"bold\">Musisz</emphasis> jednak podać odpowiednie informacje o autorstwie, zamieścić odnośnik do licencji oraz wskazać, czy wprowadzono zmiany.\n"
+"\n"
+"<emphasis role=\"bold\">Możesz</emphasis> to robić w sposób rozsądny, ale nie w taki, który sugerowałby, że licencjodawca popiera Ciebie lub sposób, w jaki wykorzystujesz dzieło.\n"
+"Jeśli remiksujesz, przekształcasz lub tworzysz na podstawie tego materiału,\n"
+"<emphasis role=\"bold\">musisz</emphasis> rozpowszechniać swoje utwory pochodne na tej samej licencji, co oryginał.\n"
+"(To jest przyjazne człowiekowi streszczenie – a nie zastępnik – pełnego „tekstu prawnego” licencji CC-BY-SA 4.0.)\n"
+"\n"
+"Ponadto w przypadku wersji remiksowanych (utworów pochodnych) licencjodawca prosi, aby nie wprowadzać żadnych zmian w osobistych podziękowaniach autora oraz krótkich biogramach autora i ilustratorki;\n"
+"zamiast tego prosimy o całkowite usunięcie tych części z wersji remiksowanej.\n"
+"\n"
+"Publikacja na tej wolnej licencji kulturalnej była możliwa dzięki ogromnemu wsparciu wydawnictw\n"
+"dpunkt.verlag GmbH / O’Reilly Media, Inc. dla wersji niemieckiej oraz\n"
+"No Starch Press dla wersji angielskiej.\n"
+"Niestety, licencje Creative Commons wciąż stanowią rzadki wyjątek w przypadku komercyjnie wydawanych książek\n"
+"i często uznawane są przez wydawców za rozwiązanie rewolucyjne i ryzykowne.\n"
+"\n"
+"<emphasis role=\"bold\">Serdeczne podziękowania</emphasis> dla\n"
+"<emphasis role=\"bold\">dpunkt.verlag</emphasis> i\n"
+"<emphasis role=\"bold\">No Starch Press</emphasis>\n"
+"za zrozumienie wartości wolnego oprogramowania, poświęcenie czasu na omówienie i zrozumienie zalet wolnych licencji kulturalnych\n"
+"oraz za ogromne wsparcie w opublikowaniu tej książki na warunkach zgodnych z wartościami\n"
+"<emphasis role=\"bold\">FSFE</emphasis>."
 
 #. (itstool) path: simplesect/literallayout
 #. Full page colophon. Intended for print use, as an alternative to the
@@ -235,7 +278,7 @@ msgstr ""
 #.
 #. In a literallayout element all space and newline characters are kept.
 #: Ada_Zangemann.dbk:389
-#, no-wrap
+#, fuzzy, no-wrap
 msgid ""
 "Copyright © 2023 Matthias Kirschner and Sandra Brandstätter.\n"
 "This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.\n"
@@ -289,6 +332,84 @@ msgid ""
 "\n"
 "<emphasis role=\"bold\">A big thank you</emphasis> to <emphasis role=\"bold\">dpunkt.verlag</emphasis> and <emphasis role=\"bold\">No Starch Press</emphasis> for understanding the values of software freedom, taking the time to discuss and understand the advantages of free cultural licenses, and the great support to publish this book under conditions that respect the FSFE’s values."
 msgstr ""
+"Prawa autorskie © 2023 Matthias Kirschner i Sandra Brandstätter.\n"
+"\n"
+"Niniejsze dzieło jest objęte licencją Creative Commons Uznanie autorstwa – Na tych samych warunkach 4.0 Międzynarodowa (CC BY-SA 4.0).\n"
+"\n"
+"Aby zapoznać się z treścią tej licencji, odwiedź stronę\n"
+"<link xlink:href=\"https://creativecommons.org/licenses/by-sa/4.0/\">https://creativecommons.org/licenses/by-sa/4.0/</link>\n"
+"lub wyślij list na adres: Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.\n"
+"\n"
+"<emphasis role=\"bold\">Ada i Zangemann: Opowieść o oprogramowaniu, deskorolkach i lodach malinowych</emphasis>\n"
+"jest tłumaczeniem niemieckiego oryginału\n"
+"Ada und Zangemann: Ein Märchen über Software, Skateboards und Himbeereis,\n"
+"opublikowanego przez Dpunkt.verlag we współpracy z O’Reilly Media, Inc., pod marką „O’REILLY”, © 2022 Matthias Kirschner i Sandra Brandstätter.\n"
+"\n"
+"Pierwsze wydanie\n"
+"\n"
+"26 25 24 23 22 1 2 3 4 5\n"
+"\n"
+"ISBN-13: 978-1-7185-0318-2 (druk)\n"
+"ISBN-13: 978-1-7185-0319-9 (ebook)\n"
+"\n"
+"Wydawca: William Pollock  \n"
+"Autor: Matthias Kirschner  \n"
+"Ilustratorka: Sandra Brandstätter  \n"
+"Redaktorka zarządzająca: Jill Franklin  \n"
+"Redaktorka produkcji: Jennifer Kepler  \n"
+"Redaktorka: Wiebke Helmchen  \n"
+"Wsparcie w kolorystyce: Olga Biryukova, Noémi Sárkány, Nathalie Scattolon, Kristina Haidinger i Jasmin Schlögl  \n"
+"Projekt okładki: Sandra Brandstätter i Susan Brown  \n"
+"Skład: Maureen Forys, Happenstance Type-O-Rama\n"
+"\n"
+"W sprawie dystrybucji, sprzedaży hurtowej lub sprzedaży korporacyjnej prosimy o kontakt bezpośrednio z No Starch Press, Inc. pod adresem\n"
+"<link xlink:href=\"mailto:info@nostarch.com\">info@nostarch.com</link>\n"
+"lub:\n"
+"\n"
+"No Starch Press, Inc.  \n"
+"245 8th Street, San Francisco, CA 94103  \n"
+"telefon: 1.415.863.9900  \n"
+"<link xlink:href=\"https://nostarch.com/\">www.nostarch.com</link>\n"
+"\n"
+"Rekord katalogowy tej książki jest dostępny w Library of Congress.\n"
+"\n"
+"No Starch Press oraz logo No Starch Press są zarejestrowanymi znakami towarowymi firmy No Starch Press, Inc.  \n"
+"Inne nazwy produktów i firm wymienione w tej publikacji mogą być znakami towarowymi ich odpowiednich właścicieli.  \n"
+"Zamiast stosowania symbolu znaku towarowego przy każdym wystąpieniu chronionej nazwy, używamy ich wyłącznie w celach redakcyjnych i z korzyścią dla właścicieli znaków towarowych, bez zamiaru naruszenia ich praw.\n"
+"\n"
+"Informacje zawarte w tej książce są rozpowszechniane na zasadzie „tak jak jest”, bez gwarancji.  \n"
+"Pomimo dołożenia wszelkich starań przy przygotowaniu niniejszego dzieła, ani autor, ani No Starch Press, Inc. nie ponoszą żadnej odpowiedzialności wobec osób lub podmiotów za jakiekolwiek straty lub szkody powstałe bezpośrednio lub pośrednio w wyniku wykorzystania zawartych tu informacji.\n"
+"\n"
+"Wszyscy bohaterowie tej publikacji są fikcyjni, a wszelkie podobieństwa do prawdziwych osób, żyjących lub zmarłych, są całkowicie przypadkowe.\n"
+"\n"
+"**\n"
+"\n"
+"Ta książka autorstwa Matthiasa Kirschnera (autor) i Sandry Brandstätter (ilustratorka) jest udostępniona na licencji\n"
+"<emphasis role=\"bold\">Creative Commons CC-BY-SA</emphasis>, będącej wolną licencją kulturalną.\n"
+"\n"
+"<emphasis role=\"bold\">Możesz</emphasis> udostępniać, kopiować i rozpowszechniać ten materiał w dowolnym formacie i na dowolnym nośniku.\n"
+"<emphasis role=\"bold\">Możesz</emphasis> również adaptować, remiksować, przekształcać i tworzyć na jego podstawie nowe utwory – nawet do celów komercyjnych.\n"
+"<emphasis role=\"bold\">Musisz</emphasis> jednak podać odpowiednie informacje o autorstwie, zamieścić odnośnik do licencji oraz wskazać, czy wprowadzono zmiany.\n"
+"\n"
+"<emphasis role=\"bold\">Możesz</emphasis> to robić w sposób rozsądny, ale nie w taki, który sugerowałby, że licencjodawca popiera Ciebie lub sposób, w jaki wykorzystujesz dzieło.\n"
+"Jeśli remiksujesz, przekształcasz lub tworzysz na podstawie tego materiału,\n"
+"<emphasis role=\"bold\">musisz</emphasis> rozpowszechniać swoje utwory pochodne na tej samej licencji, co oryginał.\n"
+"(To jest przyjazne człowiekowi streszczenie – a nie zastępnik – pełnego „tekstu prawnego” licencji CC-BY-SA 4.0.)\n"
+"\n"
+"Ponadto w przypadku wersji remiksowanych (utworów pochodnych) licencjodawca prosi, aby nie wprowadzać żadnych zmian w osobistych podziękowaniach autora oraz krótkich biogramach autora i ilustratorki; zamiast tego prosimy o całkowite usunięcie tych części z wersji remiksowanej.\n"
+"\n"
+"Publikacja na tej wolnej licencji kulturalnej była możliwa dzięki ogromnemu wsparciu wydawnictw\n"
+"<emphasis role=\"bold\">dpunkt.verlag GmbH / O’Reilly Media, Inc.</emphasis> dla wersji niemieckiej oraz\n"
+"<emphasis role=\"bold\">No Starch Press</emphasis> dla wersji angielskiej.\n"
+"Niestety, licencje Creative Commons wciąż stanowią rzadki wyjątek w przypadku komercyjnie wydawanych książek\n"
+"i często uznawane są przez wydawców za rozwiązanie rewolucyjne i ryzykowne.\n"
+"\n"
+"<emphasis role=\"bold\">Serdeczne podziękowania</emphasis> dla\n"
+"<emphasis role=\"bold\">dpunkt.verlag</emphasis> i\n"
+"<emphasis role=\"bold\">No Starch Press</emphasis>\n"
+"za zrozumienie wartości wolnego oprogramowania, poświęcenie czasu na omówienie i zrozumienie zalet wolnych licencji kulturalnych\n"
+"oraz za ogromne wsparcie w opublikowaniu tej książki na warunkach zgodnych z wartościami\n"
+"<emphasis role=\"bold\">FSFE</emphasis>."
 
 #. (itstool) path: simplesect/literallayout
 #. Grey section in the bottom of half page colophon.
@@ -303,6 +424,11 @@ msgid ""
 "We encourage you to support authors, publishers, and others involved in the creation of culture under free licenses – including <emphasis role=\"bold\">financially supporting them through purchases or donations</emphasis>. (<link xlink:href=\"https://fsfe.org/donate\">https://fsfe.org/donate</link>)\n"
 "Society should support those who respect others’ freedom."
 msgstr ""
+"<emphasis role=\"bold\">Wolność, a nie cena</emphasis>\n"
+"Free Software dotyczy swobód, które otrzymujesz wraz z oprogramowaniem, a nie jego ceny. Podobnie, opublikowanie książki na licencji wolnej kultury nie oznacza, że masz prawo do bezpłatnej kopii książki lub ebooka. Oznacza to, że otrzymujesz prawa opisane powyżej, które umożliwiają społeczeństwu czerpanie dalszych korzyści z tej książki, tak jak powinno to mieć miejsce w przypadku wszystkich dzieł kultury.\n"
+"\n"
+"Zachęcamy do wspierania autorów, wydawców i innych osób zaangażowanych w tworzenie kultury na licencjach wolnych – w tym <emphasis role=\"bold\">wspierania ich finansowo poprzez zakupy lub darowizny</emphasis>. (<link xlink:href=\"https://fsfe.org/donate\">https://fsfe.org/donate</link>)\n"
+"Społeczeństwo powinno wspierać tych, którzy szanują wolność innych."
 
 #. (itstool) path: info/title
 #. Page next to the colophon with title, subtitle, authors and
@@ -316,7 +442,7 @@ msgstr "Strona Tytułowa"
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:459
 msgid "Matthias Kirschner, Sandra Brandstätter - ADA &amp; ZANGEMANN - A Tale of Software, Skateboards and Raspberry Ice Cream. Title in the middle, authors in the upper left. In the lower right, Ada’s family’s dog with gray fur and some white patches and with a red collar with shiny yellow LEDs, which wags its tail."
-msgstr ""
+msgstr "Matthias Kirschner, Sandra Brandstätter – ADA &amp; ZANGEMANN – Opowieść o oprogramowaniu, deskach rolkowych i lodach malinowych. Tytuł pośrodku, autorzy w lewym górnym rogu. W prawym dolnym rogu pies rodziny Ady o szarym futrze z białymi plamkami, z czerwonym obrożą z błyszczącymi żółtymi diodami LED, który merda ogonem."
 
 #. (itstool) path: mediaobject/alt
 #. ignore-same
@@ -332,14 +458,14 @@ msgstr "Matthias Kirschner, Sandra Brandstätter"
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:476
 msgid "ADA &amp; ZANGEMANN - A Tale of Software, Skateboards and Raspberry Ice Cream. Title in the middle, authors in the upper left."
-msgstr ""
+msgstr "ADA &amp; ZANGEMANN – Opowieść o oprogramowaniu, deskach rolkowych i lodach malinowych. Tytuł pośrodku, autorzy w lewym górnym rogu."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:483
 msgid "In the lower right, Ada’s family’s dog with gray fur and some white patches and with a red collar with shiny yellow LEDs, which wags its tail."
-msgstr ""
+msgstr "W prawym dolnym rogu znajduje się pies rodziny Ady o szarym futrze z białymi plamkami i czerwonej obroży z błyszczącymi żółtymi diodami LED, który merda ogonem."
 
 #. (itstool) path: simplesect/literallayout
 #. In a literallayout element all space and newline characters are kept.
@@ -384,7 +510,7 @@ msgstr ""
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:516
 msgid "Prestigious magazines (“STARS“, “MONEY”, “Richest Man”) on whose cover are Zangemann and his villa."
-msgstr ""
+msgstr "Prestiżowe magazyny („STARS”, „MONEY”, „Richest Man”), na okładkach których widnieje Zangemann i jego willa."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:518
@@ -412,7 +538,7 @@ msgstr "Lata mijały, Zangemann dorastał a komputery malały. W rzeczywistości
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:535
 msgid "Zangemann as a child on a chair at a school table. From his head come six bubbles in which there are his ideas of places in which to insert computers: a video call system, a speaker, a washing machine, a skateboard with radio control on a big computer monitor, a wrist computer, and a shoulder computer with a monitor and keyboard. Zangemann has gray hair, a dark purple shirt with blue horizontal stripes, blue shorts, brown shoes and white socks. He wears glasses and a big watch on his left wrist. On the table there are an open notebook, a yellow pencil, and an eraser, while hanging on the side of the table there is his brown briefcase."
-msgstr ""
+msgstr "Zangemann jako dziecko siedzące na krześle przy szkolnej ławce. Z jego głowy wychodzi sześć bąbelków, w których znajdują się jego pomysły na miejsca, w których można umieścić komputery: system wideokonferencyjny, głośnik, pralka, deskorolka sterowana radiowo za pomocą dużego monitora komputerowego, komputer na nadgarstek oraz komputer na ramię z monitorem i klawiaturą. Zangemann ma siwe włosy, ciemnofioletową koszulę w niebieskie poziome paski, niebieskie szorty, brązowe buty i białe skarpetki. Nosi okulary i duży zegarek na lewym nadgarstku. Na stole leży otwarty zeszyt, żółty ołówek i gumka do mazania, a z boku stołu wisi jego brązowa teczka."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:540
@@ -424,7 +550,7 @@ msgstr "“Nareszcie, mogę przekuć moje pomysły i prawdziwe rzeczy!” wykrzy
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:545
 msgid "Zangemann original ice cream machine. It is ice blue in color and is similar to a vending machine of drinks, but instead of the cup there is a cone that is filled with ice cream. Above the dispenser there is a monitor showing the variety that is distributed, in this case pineapple ice cream. On the left there are the slot for inserting coins, the various buttons to choose the flavor, and the hole for returning coins. At the top there is a round white sign with a scoop of candy-pink ice cream in a cone. On the back of the machine there is the refrigeration machinery with the “Z” of the Zangemann logo."
-msgstr ""
+msgstr "Oryginalna maszyna do lodów Zangemann. Ma kolor lodowoniebieski i przypomina automat z napojami, ale zamiast kubka znajduje się w niej rożek wypełniony lodami. Nad dozownikiem znajduje się monitor pokazujący dostępne smaki, w tym przypadku lody ananasowe. Po lewej stronie znajduje się wrzutnia na monety, różne przyciski do wyboru smaku oraz otwór do zwrotu monet. Na górze znajduje się okrągły biały znak z gałką lodów w kolorze cukierkowego różu w rożku. Z tyłu maszyny znajduje się urządzenie chłodnicze z literą „Z” z logo Zangemann."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:547
@@ -436,7 +562,7 @@ msgstr "Dorośli i dzieci kochały wynalazki Zangemanna. Wszystkie dzieci chcia�
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:552
 msgid "An original Zangemann electric skateboard leaving a blue trail with musical notes and colored circles. Only the knees, white socks, and olive green shoes with white soles of the child riding it are shown."
-msgstr ""
+msgstr "Oryginalna deskorolka elektryczna marki Zangemann pozostawia za sobą niebieski ślad z nutami muzycznymi i kolorowymi kółkami. Widoczne są tylko kolana, białe skarpetki i oliwkowozielone buty z białymi podeszwami dziecka jadącego na deskorolce."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -569,14 +695,14 @@ msgstr "Zangemann był wściekły na tych dwoje dzieci. Jak śmiały używać je
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:640
 msgid "The city in the evening, with houses, a church, and two streetlights. Images emerge from the dwellings illustrating Zangemann’s inventions bought by the inhabitants: a washing machine, a yellow vacuum cleaner, and a red car, all with Internet connection signals."
-msgstr ""
+msgstr "Miasto wieczorem, z domami, kościołem i dwoma latarniami. Z budynków mieszkalnych wyłaniają się obrazy ilustrujące wynalazki Zangemanna zakupione przez mieszkańców: pralka, żółty odkurzacz i czerwony samochód, wszystkie z sygnałami połączenia internetowego."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:648
 msgid "Continuation of the previous picture, where in the background there is the hill with Zangemann’s house from whose antenna come the signals to control the various devices. In emerging images there are: a red electric skateboard, a light bulb, an ice cream machine, and a toilet, all of which are receiving commands from Zangemann."
-msgstr ""
+msgstr "Kontynuacja poprzedniego obrazu, na którym w tle widoczne jest wzgórze z domem Zangemanna, z którego anteny pochodzą sygnały sterujące różnymi urządzeniami. Na pojawiających się obrazach widoczne są: czerwona deskorolka elektryczna, żarówka, maszyna do lodów i toaleta, które otrzymują polecenia od Zangemanna."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:654
