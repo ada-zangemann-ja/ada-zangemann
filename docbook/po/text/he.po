@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-10-16 21:28+0200\n"
-"PO-Revision-Date: 2025-11-08 09:51+0000\n"
+"PO-Revision-Date: 2025-11-09 18:51+0000\n"
 "Last-Translator: Yaron Shahrabani <sh.yaron@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/fsfe/ada-zangemann/he/>\n"
 "Language: he\n"
@@ -55,7 +55,7 @@ msgstr "<personname> <firstname>מתיאס</firstname> <surname>קירשנר</su
 #. ignore-same
 #: Ada_Zangemann.dbk:273
 msgid "<personname> <firstname>Sandra</firstname> <surname>Brandstätter</surname> </personname>"
-msgstr "<personname> <firstname>סנדרה</firstname> <surname>ברנדשטטור</surname> </personname>"
+msgstr "<personname> <firstname>סנדרה</firstname> <surname>ברנדשטטר</surname> </personname>"
 
 #. (itstool) path: character/charactername
 #. Name must not be changed.
@@ -146,7 +146,7 @@ msgstr "גב׳ גרנט"
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:320
 msgid "Ada &amp; Zangemann - A Tale of Software, Skateboards, and Raspberry Ice Cream. By Matthias Kirschner and Sandra Brandstätter. On a mostly desaturated dark cyan background, in a frame composed of sometimes curled white lines that connect a mouse, a keyboard, and a pink smartphone, Ada and Zangemann are facing each other, both with their hands on their hips as a sign of challenge. Ada is smiling and Zangemann is frowning. Ada has black hair collected in two big right- and left-bound ringlets with red rubber bands, and red cheeks. She has little yellow stud earrings. She wears cyan and white horizontal striped shorts and a yellow shirt over a white undershirt that ends with embroidery that goes beyond the shirt. The shirt and undershirt come out over the shorts. Above the shirt Ada wears a blue hoodie. Ada is wearing red shoes with white tips and soles, and short white socks. She has one foot on a skateboard and the other on the ground. Zangemann has short gray hair and square glasses. He is wearing a purple turtle-neck sweater, light blue pants turned up, brown shoes, and white socks. He’s wearing a big tech watch. Above Zangemann there are a pair of pliers with red handles crossing the wire frame."
-msgstr "עדה וזנגמן - סיפור על תוכנה, סקייטבורדים וגלידת פסטל. מאת מתיאס קירשנר וסנדרה ברנדשטטור. על רקע שברובו ציאן כהה בלתי רווי, במסגרת שמורכבת לפעמים מקווים לבנים מסולסלים שמתחברים לעכבר, מקלדת וטלפון חכם ורוד, עדה וזנגמן עומדים זה מול זה, שניהם עם הידיים על הירכיים כסימן לתחרות ביניהם. עדה מחייכת וזנגמן זעוף. לעדה יש שיער שחור עם תלתלים מאורכים משמאל ומימין שאסופים בגומיות אדומות ולחיים אדומות. יש לה עגילים קטנים, צמודים וצהובים. היא לובשת מכנסיים עם פסים אופקיים בצבעי ציאן ולבן וחולצה צהובה על גבי גופייה לבנה שמסתיימת ברקמה ארוכה יותר מהחולצה. החולצה והגופייה מכסים את המכנסיים בחלקם העליון. מעל לחולצן עדה לובשת עליונית כחולה. עדה נועלת נעליים אדומות עם קצה וסוליה לבנים וגרביים לבנים קצרים. רגל אחת שלה על סקייטבורד והשנייה על הקרקע. לזנגמן יש שיער אפור קצר ומשקפיים מרובעים. הוא לובש אפודה סגולה, מכנסיים כחולים בהירים שנמשכו עד הסוף למעלה, נעליים חומות וגרביים לבנות. הוא עונד שעון של חברות טכנולוגיה גדולות. מעל זנגמן יש פלייר (צבת) עם ידיות אדומות שחוצה את מסגרת החוטים."
+msgstr "עדה וזנגמן - סיפור על תוכנה, סקייטבורדים וגלידת פטל. מאת מתיאס קירשנר וסנדרה ברנדשטטר. על רקע שברובו ציאן כהה בלתי רווי, במסגרת שמורכבת לפעמים מקווים לבנים מסולסלים שמתחברים לעכבר, מקלדת וטלפון חכם ורוד, עדה וזנגמן עומדים זה מול זה, שניהם עם הידיים על הירכיים כסימן לתחרות ביניהם. עדה מחייכת וזנגמן זעוף. לעדה יש שיער שחור עם תלתלים מאורכים משמאל ומימין שאסופים בגומיות אדומות ולחיים אדומות. יש לה עגילים קטנים, צמודים וצהובים. היא לובשת מכנסיים עם פסים אופקיים בצבעי ציאן ולבן וחולצה צהובה על גבי גופייה לבנה שמסתיימת ברקמה ארוכה יותר מהחולצה. החולצה והגופייה מכסים את המכנסיים בחלקם העליון. מעל לחולצן עדה לובשת עליונית כחולה. עדה נועלת נעליים אדומות עם קצה וסוליה לבנים וגרביים לבנים קצרים. רגל אחת שלה על סקייטבורד והשנייה על הקרקע. לזנגמן יש שיער אפור קצר ומשקפיים מרובעים. הוא לובש אפודה סגולה, מכנסיים כחולים בהירים שנמשכו עד הסוף למעלה, נעליים חומות וגרביים לבנות. הוא עונד שעון של חברות טכנולוגיה גדולות. מעל זנגמן יש פלייר (צבת) עם ידיות אדומות שחוצה את מסגרת החוטים."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -316,7 +316,7 @@ msgstr "עמוד כותרת"
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:459
 msgid "Matthias Kirschner, Sandra Brandstätter - ADA &amp; ZANGEMANN - A Tale of Software, Skateboards and Raspberry Ice Cream. Title in the middle, authors in the upper left. In the lower right, Ada’s family’s dog with gray fur and some white patches and with a red collar with shiny yellow LEDs, which wags its tail."
-msgstr "מתיאס קירשנר, סנדרה ברנדשטטור - עדה וזנגמן - סיפור על תוכנה, סקייטבורדים וגלידת פטל. הכותרת באמצע, שמות היוצרים מימין למעלה. משמאל למטה הכלב המשפחתי של עדה עם פרווה אפורה וטלאים לבנים עם קולר אדום ונוריות צהובות נוצצות, הוא מכשכש בזנבו."
+msgstr "מתיאס קירשנר, סנדרה ברנדשטטר - עדה וזנגמן - סיפור על תוכנה, סקייטבורדים וגלידת פטל. הכותרת באמצע, שמות היוצרים מימין למעלה. משמאל למטה הכלב המשפחתי של עדה עם פרווה אפורה וטלאים לבנים עם קולר אדום ונוריות צהובות נוצצות, הוא מכשכש בזנבו."
 
 #. (itstool) path: mediaobject/alt
 #. ignore-same
@@ -325,14 +325,14 @@ msgstr "מתיאס קירשנר, סנדרה ברנדשטטור - עדה וזנג
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:466
 msgid "Matthias Kirschner, Sandra Brandstätter"
-msgstr "מתיאס קירשנר, סנדרה ברנדשטטור"
+msgstr "מתיאס קירשנר, סנדרה ברנדשטטר"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:476
 msgid "ADA &amp; ZANGEMANN - A Tale of Software, Skateboards and Raspberry Ice Cream. Title in the middle, authors in the upper left."
-msgstr ""
+msgstr "עדה וזנגמן - סיפור על תוכנה, סקייטבורדים וגלידת פטל. כותרת באמצע, יוצרים מימין למעלה."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -350,7 +350,7 @@ msgid ""
 "Sandra Brandstätter"
 msgstr ""
 "מתיאס קירשנר\n"
-"סנדרה ברנדשטטור"
+"סנדרה ברנדשטטר"
 
 #. (itstool) path: simplesect/literallayout
 #. (itstool) id: Ada_Zangemann.dbk#subtitle-titlepage
@@ -384,7 +384,7 @@ msgstr ""
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:516
 msgid "Prestigious magazines (“STARS“, “MONEY”, “Richest Man”) on whose cover are Zangemann and his villa."
-msgstr "עיתונים יוקרתיים („כלכליסט”, „גלובס”, „דה מרקר”) שעל הכריכה שלהם זנגמן עם הווילה שלו."
+msgstr "עיתונים יוקרתיים („STARS”,‏ „MONEY”,‏ „Richest Man”) שעל הכריכה שלהם זנגמן עם הווילה שלו."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:518
@@ -412,7 +412,7 @@ msgstr "חלפו השנים, זנגמן גדל והמחשבים קטנו. למע
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:535
 msgid "Zangemann as a child on a chair at a school table. From his head come six bubbles in which there are his ideas of places in which to insert computers: a video call system, a speaker, a washing machine, a skateboard with radio control on a big computer monitor, a wrist computer, and a shoulder computer with a monitor and keyboard. Zangemann has gray hair, a dark purple shirt with blue horizontal stripes, blue shorts, brown shoes and white socks. He wears glasses and a big watch on his left wrist. On the table there are an open notebook, a yellow pencil, and an eraser, while hanging on the side of the table there is his brown briefcase."
-msgstr ""
+msgstr "זנגמן כילד מול שולחן בית ספר. מהראש שלו מגיחות שש בועות שבהן מופיעים הרעיונות שלו למקומות אליהם ניתן להכניס מחשבים: מערכת שיחות וידאו, רמקול, מכונת כביסה, סקייטבורד עם שליטה על רדיו על צג מחשב גדול, מחשב על שעון ומחשב כתף עם צג ומקלדת. לזנגמן יש שיער אפור, חולצה בצבע סגול כהה עם פסים כחולים אופקיים, מכנסיים כחולים, נעליים חומות וגרביים לבנות. הוא חובש משקפיים ושעון גדול על ידו הימנית. על השולחן יש מחברת פתוחה, עיפרון צהוב ומחק, בדופן השולחן תלויה המזוודה החומה שלו."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:540
@@ -424,7 +424,7 @@ msgstr "„סוף כל סוף! אני יכול להפוך את כל הרעיונ
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:545
 msgid "Zangemann original ice cream machine. It is ice blue in color and is similar to a vending machine of drinks, but instead of the cup there is a cone that is filled with ice cream. Above the dispenser there is a monitor showing the variety that is distributed, in this case pineapple ice cream. On the left there are the slot for inserting coins, the various buttons to choose the flavor, and the hole for returning coins. At the top there is a round white sign with a scoop of candy-pink ice cream in a cone. On the back of the machine there is the refrigeration machinery with the “Z” of the Zangemann logo."
-msgstr ""
+msgstr "מכונת הגלידה המקורית של זנגמן. צבעה כחול קרח והיא דומה למכונות ממכר משקאות אבל במקום כוס יש גביע מלא בגלידה. מעל לאזור המילוי יש צג שמפרט את המגוון שהמכונה מציעה, במקרה הזה גלידת עננס. מימין יש חריץ להכנסת מטבעות, מגוון הכפתורים לבחירת הטעם וחור להחזרת מטבעות. בחלק העליון יש שלט לבן עגול עם כדור גלידה על גביע. מאחורי המכונה יש גוף הקפאה עם האות „ז” שמייצגת את הלוגו של זנגמן."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:547
@@ -475,7 +475,7 @@ msgstr "כל שהיה עליו לעשות הוא ללחוץ על המקש המת
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:575
 msgid "A white power strip attached to a wall socket. The power strip has 3 sockets and a green switch. One of the sockets is attached to a plug with a gray cable."
-msgstr ""
+msgstr "מפצל שקעים מחובר לשקע בקיר. במפצל יש שלושה שקעים ומתג ירוק. אחד מהשקעים מחובר לתקע עם כבל אפור."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:579
@@ -606,7 +606,7 @@ msgstr "למרות שלא היו לה אף אחד מהדברים האלה, תה�
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:672
 msgid "Close-up of Ada thoughtful, with a backpack and with one hand on her chin and the other resting on her side."
-msgstr ""
+msgstr "תקריב של עדה מהרהרת, עם תיק גב ויד אחת על הסנטר והשנייה נחה לצד הגוף."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:675
@@ -672,7 +672,7 @@ msgstr "עדה התרגשה עד מאוד. היא דמיינה את כל הדב�
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:713
 msgid "Ada comes to grips with programming. She is typing on a keyboard resting on a gray mat and connected to a smartphone with a blue cable. The smartphone is connected with a red wire to an electronic card with a yellow LED lamp. The smartphone is powered by a transformer connected to a power strip with a gray wire and plug. On the table there are also: 3 books, of which one is open; a clipboard and a pencil; pliers; glue; solder; and a disconnected soldering iron."
-msgstr ""
+msgstr "עדה מתחילה להבין מה זה תכנות. היא מקלדת על מקלדת שנחה על משטח אפור ומחוברת לטלפון חכם דרך כבל כחול. הטלפון החכם מחובר בחוט אדום לכרטיס אלקטרוני עם נורית צהובה. הטלפון החכם מקבל חשמל משנאי שמחובר למפצל חשמל עם חוט אפור ותקע. על השולחן יש גם: 3 ספרים, מתוכם אחד פתוח, לוח גזירים ועיפרון, פלייר (צבת), דבק, בדיל ומלחם מנותק."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:715
@@ -684,7 +684,7 @@ msgstr "לעדה גם היה רעיון לתוכנית הבאה שתכתוב. ה
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:722
 msgid "Zangemann looks thoughtfully with his arms crossed out one of the great windows of his house, into which the sun’s rays are shining."
-msgstr ""
+msgstr "זנגמן מביט מבעד לחלונות הענקיים בביתו מבעדם זורחות קרני השמש, ידיו משולבות והוא נראה מהורהר."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:728
@@ -755,7 +755,7 @@ msgstr "„איך את מצליחה לרכב עם הסקייטבורד שלך ע
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:765
 msgid "Ada stops on her skateboard surrounded by children. Marie is on one end. She is pointing to Ada’s skateboard and she’s talking. Next to her is Konrad, with short blond hair, a dark gray helmet, glasses, a green shirt with white collar and cuffs, light blue pants with white cuffs, and gray shoes with white soles. He has a red skateboard with orange wheels. Behind Ada there are 4 other children. On the other end Toni is smiling. He touches his chin with one hand while with the other he holds a yellow helmet by the laces."
-msgstr ""
+msgstr "עדה עוצרת על הסקייטבורד שלה, מוקפת בילדים. מרי מצד אחד. היא מצביעה על הסקייטבורד של עדה ומדברת. לידה עומד קונרד, עם שיער בלונדיני קצר, קסדה בצבע אפור כהה, משקפיים, חולצה ירוקה עם צווארון ודש שרוולים לבן, מכנסיים בצבע תכלת עם דש לבן ונעליים אפורות עם סוליות לבנות. יש לו סקייטבורד אדום עם גלגלים כתומים. מאחורי עדה יש 4 ילדים אחרים. מהצד השני מחייך טוני. הוא נוגע בסנטר שלו ביעד אחת בעוד בשניה הוא אוחז קסדה צהובה בשרוכים."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:769
@@ -772,7 +772,7 @@ msgstr "באותו הערב. עדה בחנה את ההשערה שלה על הס�
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:775
 msgid "Hopscotch diagram drawn with chalk on asphalt. In a row, within squares, the numbers 1, 2; 3 and 4 next to each other; 5, 6; and 7 and 8 next to each other. The number 9 is not inside a square but inside a wider semicircle beyond the squares of numbers 7 and 8. Between the number 1 and the number 2 there is a blue bottle with white polka dots. A yellow Zangemann skateboard with orange wheels on the side of the diagram actually hides the number 1."
-msgstr ""
+msgstr "ציור של קלאס עם גיר על אספלט, המספרים 1, 2, 3 ו־4 סמוכים זה לזה, 5, 6 ו־7 ו־8 זה לצד זה. המספר תשע אינו בתוך ריבוע אלא בתוך חצי עיגול רחב יותר מעבר לריבועים של המספרים 7 ו־8. בין המספר 1 למספר 2 יש בקבוק כחול מכוסה נקודות צפופות גדולות. סקייטבורד צהוב של זנגמן עם גלגלים כתובים בצד הציור למעשה מסתיר את המספר 1."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:781
@@ -824,21 +824,21 @@ msgstr "מברג עם ידית בצבעי כתום אפור, פלייר (צבת)
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:811
 msgid "Laboratory at the junkyard, under the veranda of Ada’s house. Ada is sitting on a water case with a leg bent under her, using a soldering iron. Konrad is standing next to her and dismounting a speaker. Marie is sitting on two tires with an arm resting on a table and her upside-down skateboard from which wires come out. She is talking with Alan, who is standing with his arms resting on the same table. On the table there are also: pliers, two wrenches, a spool of solder, a can of blue paint (a bit of paint has dried on the table), and a pitcher and two glasses containing a pink drink. Toni is testing his skateboard with added yellow wings and a fan. It burps."
-msgstr ""
+msgstr "מעבדה במגרש הגרוטאות, מתחת למרפסת של הבית של עדה. עדה יושבת על ארגז בקבוקי מים כשהרגל שלה מכופפת תחתיה, היא משתמשת במלחם. קונרד עומד לידה ומפרק רמקול. מרי יושבת על שני צמידים כשהזרוע שלה נחה על שולחן והסקייטבורד ההפוך שלה שמבצבצים ממנו חוטים. היא מדברת עם אלן, שעומד כשזרועותיו נחות על אותו שולחן. על השולחן יש גם: פלייר (צבת), שני מפתחות צינורות, גליל בגיל, פחית צבע (קצת מהצבע התייבש על השולחן), וקנקנן עם שתי כיסות שבהן מיץ ורוד. טוני בוחן את הסקייטבורד שלו עם כנפיים צהובות ומאוורר שהוסיף. הוא מגהק."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:819
 msgid "Marie and Ada’s mom are dancing, facing each other. Alan, Ada, and Konrad are dancing in a circle. On the right there is a speaker playing, resting on an oil drum. Near the speaker there are two dancing mice. Toni is jumping through the tires. Ada’s dog is howling, and from his mouth come two distorted musical notes."
-msgstr ""
+msgstr "מרי ואימא של עדה רוקדות זו מול זו. אלן עדה וקונרד רוקדים במעגל. משמאל מנגן רמקול שמונח על חבית שמן. ליד הרמקול רוקדים שני עכברים. טוני קופץ בתוך הצמיגים. הכלב של עדה מיילל ומהפה שלו יוצאים שני תווי מוזיקה מעוותים."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:827
 msgid "Hands holding wonderful ice cream cones: blue ice cream with a chocolate heart on top with a yellow heart on its center, and whipped cream on top of the chocolate; green ice cream with colored stars with a cucumber stuck on a stick; pink fish-shaped ice cream; pyramid-shaped ice cream with candies, and chocolate syrup, and a cherry on top; rainbow ice cream with a yellow umbrella; blue ghost-shaped ice cream with candies on it."
-msgstr ""
+msgstr "ידיים שמחזיקות גביעי גלידה נהדרים: גלידה כחולה עם לב שוקולד למעלה עם לב צהוב במרכזו וקצפת מעל השוקולד, גלידה ירוקה עם כוכבים צבעוניים עם מלפפון משופד על מקל, גלידה בצורת דג, גלידה בצורת פירמידה עם סוכריות, סירופ שוקולד ודובדבן למעלה, גלידת קשת בענן עם מטרייה צהובה, גלידה כחולה בצורת רוח רפאים עם סוכריות עליה."
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p35-1
@@ -899,7 +899,7 @@ msgstr "הם נאספו מול אחת ממכונות הגלידה שהרכיבו
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:869
 msgid "Cans of green, blue, and pink paint; a paintbrush with yellow paint; a light green marker; and a rolled banner on which some blue paint has fallen."
-msgstr ""
+msgstr "פחיות של צבע ירוק, כחול וורוד, מברשת עם צבע צהוב, טוש מצביע בצבע ירוק בהיר וכרזה חצי מגולגלת שנשפך עליה קצת צבע כחול."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:875
@@ -922,7 +922,7 @@ msgstr "ביום שלמוחרת, עדה וחבריה שוב ישבו מול בנ
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:886
 msgid "Yellow and green paint on the floor and wax crayons yellow, red, blue, green and brown; the latter 3 are in a gray cardboard box."
-msgstr ""
+msgstr "צבע צהוב וירוק על הרצפה וצבעי שעווה בגווני צהוב, אדום, כחול, ירוק וחום, שלושת האחרונים מונחים בתוך קופסת קרטון אפורה."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:890
@@ -947,14 +947,14 @@ msgstr "תכין את שיעורי הבית שלך, כבוד הנשיא, ואנ�
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:906
 msgid "Detail of the previous image: two children holding the banner “Do your homework Mr. President and we will do ours!”"
-msgstr ""
+msgstr "פרטי התמונה הקודמת: שני ילדים מחזיקים את הכרזה „תכין את שיעורי הבית שלך, כבוד הנשיא, ואנחנו נכין את שלנו!”"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:912
 msgid "Detail of the previous image: Ada and Konrad are carrying the banner “Don’t wreck our tech!” Marie and Toni are walking beneath the banner, and Marie is talking through a bullhorn held in her hand; Ada’s family’s little dog is now wearing a red harness with shiny yellow LEDs that matches the collar."
-msgstr ""
+msgstr "פירוט התמונה הקודמת: עדה וקונרד מחזיקים את הכרז „לא נִתֵּן לחרב את המחשב!”, מרי וטוני הולכים מתחת לכרזה ומרי מדברת למגפון שהיא אוחזת בידה, הכלב הקטן של משפחתה של עדה עוטה רצועת רסן אדומה עם נוריות צהובות מנצנצות שתואמות לקולר."
 
 #. (itstool) path: info/excerpt
 #. Text on square signe on the right of the illustration
@@ -968,7 +968,7 @@ msgstr "הם צעירים + הם צריכים את הקוד!"
 #. can be used, which translates to 'without code everything is dull!'.
 #: Ada_Zangemann.dbk:915
 msgid "Don’t wreck our tech!"
-msgstr "מספיק לחרב את המחשב!"
+msgstr "לא נִתֵּן לחרב את המחשב!"
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:922
@@ -979,110 +979,110 @@ msgstr "ילדים מסייעים לממשלה"
 #. (itstool) id: Ada_Zangemann.dbk#para-p42-1
 #: Ada_Zangemann.dbk:925
 msgid "<phrase condition=\"capitals-text\">Ada</phrase><phrase condition=\"capitals-img\">da</phrase> protested in front of the parliament building every week, even in pouring rain. On one such rainy day, when the president passed the group of dripping-wet children, he couldn’t help but admire their stubbornness. He asked Ada, “Why do you sit here every day? What do you want to achieve?” Ada replied, “We want to determine for ourselves what we can and cannot do with our computers.” Her friends shouted in unison: “Don’t wreck our tech! Don’t wreck our tech!” and “We want the code! We want the code!”"
-msgstr ""
+msgstr "<phrase condition=\"capitals-text\">עדה</phrase><phrase condition=\"capitals-img\">דה</phrase> הפגינה מול משרד הממשלה כל שבוע, אפילו בגשם שוצף. ביום גשום שכזה, בעודו חולף הנשיא חלף על פני חבורת ילדים רטובים עד לשד עצמותיהם, הוא ראה לנכון להעריך אותם על העקשנות שלהם. הוא שאל את עדה, „למה אתם יושבים פה מדי יום ביומו? מה המטרה שלכם?”, השיבה עדה, „אנחנו רוצים לקבוע בעצמנו מה אפשר או אי אפשר לעשות עם המחשבים שלנו”. חבריה צעקו כאיש אחד: „לא נִתֵּן לחרב את המחשב!” ו„תנו לנו את הקוד! תנו לנו את הקוד!”"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:926
 msgid "The president looked at the determined faces of the children. Honestly, he, too, wanted to decide for himself what the government could and couldn’t do with its computers. But he didn’t understand anything about computers and code, so he had always left that to Zangemann. Deep in thought, the president entered the building."
-msgstr ""
+msgstr "הנשיא הביט בפניהם הנחושות של הילדים. בכנות, גם הוא רצה להחליט בעצמו מה הממשלה תוכל או לא תוכל לעשות עם המחשבים שלה. אבל הוא לא הבין כלל במחשבים ובתכנות, לכן הוא השאיר את זה לזנגמן. עם המון מחשבות מתרוצצות בראשו, נכנס הנשיא לבניין."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:932
 msgid "One of Ada’s friends lying on his stomach with one foot up in the air is typing on a laptop. He has wavy brown hair parted in the center, a red sweatshirt, blue pants, and white socks but no shoes. Next to the computer there are a green cup and two open books."
-msgstr ""
+msgstr "אחד מחברים של עדה שוכב על הבטן עם רגל באוויר תוך כדי שהוא מקליד במחשב נייד. יש לו שיער חום גלי עם שביל באמצע, עליונית, מכנסיים כחולים וגרביים לבנים אך ללא נעליים. ליד המחשב יש ספל ירוק ושני ספרים פתוחים."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:934
 msgid "The next day, the president invited Ada and her friends over. “We also want to be in charge of our software ourselves. In order for that to be true, the government must be independent from Zangemann. Can you tell me what you know about computer programs?” he asked them. Enthusiastically, they explained to him how software works and what you could do with it. The president was amazed."
-msgstr ""
+msgstr "ביום שלמוחרת, הזמין אליו הנשיא את עדה ואת חבריה. „גם אנחנו רוצים לקבל את הבעלות על התוכנות שלנו. כדי שזה יהפוך למציאות, הממשלה חייבת לנתק את התלות שלה בזנגמן. תוכלו לספר לי מה אתם יודעים על תוכניות מחשב?” שאל אותם. הסבירו לו הילדים בהתלהבות כיצד עובדות תוכנות ומה אפשר לעשות איתן. הנשיא נפעם."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:937
 msgid "With this new knowledge, the government would be able to design its own software, the way it wanted — completely without Zangemann. Immediately, the president called his advisers. In a large group, they discussed with the children everything they could change and improve in the software."
-msgstr ""
+msgstr "בזכות הידע החדש הזה, הממשלה יכלה לתכנן את התוכנות של עצמה, כפי שרצתה – בכלל בלי זנגמן. מיידית, קרא הנשיא ליועצים שלו. בהרכב רחב, הם שוחחו עם הילדים על כל דרך בה ניתן לשנות ולשפר את התוכנות."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:938
 msgid "That evening, the children went home proud and satisfied. Something finally happened! Their long protest was worth it."
-msgstr ""
+msgstr "באותו הערב, הילדים חזרו הביתה גאים ומרוצים. סוף כל סוף משהו קרה! המחאה הממושכת שלהם הניבה פירות."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:943
 msgid "Ada and her friends in the President’s office. Ada is reprogramming the President’s computer. Toni is setting up a speaker for the President’s secretary. Marie and Konrad are sitting on the floor and talking, and Marie has a laptop on her legs with an FSFE logo sticker (three stars: pea green, sky blue, and sea blue). On the floor are a bowl with candy and a plate with ice creams. The President’s phone is ringing, but nobody is answering."
-msgstr ""
+msgstr "עדה וחבריה במשרד הנשיא. עדה מתכנתת במחשב של הנשיא. טוני מרכיב רמקול למזכירה של הנשיא. מרי וקונרד יושבים על הרצפה ומדברים ולמרי יש מחשב נייד על הרגליים עם מדבקה עם הלוגו של FSFE (תנועת התוכנה החופשית האירופית - שלושה כוכבים: ירוק אפונה, כחול שמיים וכחול ים). על הרצפה יש קערה עם ממתקים וצלחת עם קאפקייקים. הטלפון של הנשיא מצלצל אך אף אחד לא עונה."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:949
 msgid "New law"
-msgstr ""
+msgstr "חוק חדש"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p44-1
 #: Ada_Zangemann.dbk:952
 msgid "<phrase condition=\"capitals-text\">The</phrase><phrase condition=\"capitals-img\">he</phrase> next morning, the president’s phone rang very early. It was Zangemann. He was angrier than ever. “Without me, the government computers will no longer work,” he threatened. But the president kept the call short and quickly hung up. The phone rang many more times that day, but Zangemann’s calls went unanswered. The president sat in a meeting with Ada, Toni, Marie, Konrad, and the government experts."
-msgstr ""
+msgstr "<phrase condition=\"capitals-text\">בבוקר</phrase><phrase condition=\"capitals-img\">בוקר</phrase> שלמוחרת, הטלפון של הנשיא צלצל מוקדם מאוד בבוקר. זה היה זנגמן. זועף מאי פעם. “בלעדיי, המחשבים של הממשלה לא יעבדו יותר”, אמר באיום. אך הנשיא השיב בקצרה ומיהר לנתק. הטלפון המשיך לצלצל עוד כמה פעמים באותו היום, אך השיחות של זנגמן לא נענו. הנשיא התיישב לדיון עם עדה, טוני, מרי, קונרד ומומחי הממשלה."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:957
 msgid "A herald, wearing a hat with a plume, playing a trumpet on which a red banner is hung."
-msgstr ""
+msgstr "נגן רשמי, חובש כובע מעוטר בנוצה ומנגן בחצוצרה ממנה משתלשלת יריעת בד אדומה."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:959
 msgid "In the days that followed, they talked from morning to night and designed their first programs for the government’s computers. They were no longer disturbed by Zangemann’s calls. Toni had the good idea of reprogramming the telephones. When Zangemann called, he only heard an automated recording: “The government only wants to use software that it can freely use, study, share, and improve. Thank you for calling.”"
-msgstr ""
+msgstr "בימים שלאחר מכן, הם שוחחו מבוקר עד ערב ותכננו את התוכניות הראשונות שלהם למחשבים של הממשלה. השיחות של זנגמן לא הטרידו אותם יותר. לטוני עלה רעיון מוצלח: לתכנת מחדש את הטלפונים. כאשר מגיעה שיחה מזנגמן, כל מה שזנגמן יישמע הוא הקלטה אוטומטית: „הממשלה רוצה להשתמש רק בתוכנה שאפשר להשתמש, לחקור, לשתף ולשפר באופן חופשי, תודה לך על שיחתך”."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:961
 msgid "Then, after many weeks of protests and discussions, the time had finally come: they abolished the old Zangemann law! Instead, the government announced:"
-msgstr ""
+msgstr "לאחר שבועות רבים של מחאות ודיונים, סוף כל סוף הגיע הזמן: הם ביטלו את החוק הישן של זנגמן! במקום, הכריזה הממשלה:"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:964
 msgid "“Everyone is allowed to program their own computers as long as they adhere to the other laws.”"
-msgstr ""
+msgstr "„לכל אחת ואחד מותר לתכנת את המחשבים שלהם כל עוד הם מצייתים לשאר החוקים.”"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:965
 msgid "In addition, a new school subject was introduced: computer hardware and software."
-msgstr ""
+msgstr "בנוסף, נפתח בבית הספר נושא לימודי חדש: חומרה ותוכנה של מחשבים."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:970
 msgid "The President with Toni, Konrad, Marie, Ada, and a herald playing a trumpet. Marie is standing on top of a ladder talking into a microphone. Konrad firmly holds the ladder on which Marie is standing. Ada is standing on a chair and holds a copy of the new law bearing a seal. Ada’s dog is sitting in front of her."
-msgstr ""
+msgstr "הנשיא עם טוני, קונרד, מרי, עדה ונגן רשמי שמנגן בחצוצרה. מרי עומדת בראש סולם ומדברת למיקרופון. קונרד מחזיק בחוזקה את הסולם עליו עומדת מרי. עדה עומדת על כיסא ומחזיקה עותק של החוק החדש עם חותמת רשמית. הכלב של עדה יושב לפניה."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:975
 msgid "That evening, everyone celebrated with a big party. Ada, Alan, Toni, Marie, Konrad, and other children from school and their parents; the president; Ms. Gernet; the bus driver; the custodian — they were all there. They decorated the streets, listened to loud music, and ate ice cream, as much as they wanted, and in every imaginable shape and color."
-msgstr ""
+msgstr "באותו הערב, כולם ערכו מסיבה גדולה. עדה, אלן, טוני, מרי, קונרד וילדים נוספים מבית הספר יחד עם הוריהם, הנשיא, גברת גרנט, נהגת האוטובוס, עוזר הניקיון – כולם היו שם. הם צבעו את הרחובות, האזינו למוזיקה רועשת ואכלו גלידה, כמה שרק חפצו ובכל צורה וצבע שעלו על דעתם."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:980
 msgid "Evening party. Children are holding ice cream and balloons with the words “I love FS (I love Free Software)”; other children are riding skateboards; yellow and orange flags are hanging; music comes out from a large speaker system; Ms. Gernet holds a pink tree-shaped ice cream with a yellow star on it; Ada’s mom is dancing with a gentleman."
-msgstr ""
+msgstr "מסיבת ערב. ילדים מחזיקים גלידה ובלונים עם המילים „I love FS (אני אוהב או אוהבת תוכנה חופשית)”, ילדים אחרים רוכבים על סקייטבורד, דגלים בצבעי צהוב וכתום מתנופפים, מוזיקה מגיחה ממערכת שמע גדולה, גברת גרנט מחזיקה גלידה ורודה בצורת עץ עם כוכב צהוב עליה, אימא של עדה רוקדת עם בחור כלשהו."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:984
 msgid "While the others continued partying late into the night, Ada and her friends slipped away to their workshop. They already had a lot of ideas for new inventions. And they wanted to start right away."
-msgstr ""
+msgstr "בזמן שהאחרים המשיכו לחגוג מאוחר אל תוך הלילה, עדה וחבריה התחמקו לסדנה שלהם. היו להם כבר המון רעיונות להמצאות חדשות. והם רצו להתחיל כבר באותו הרגע."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:989
 msgid "The President, the secretary, and other people around a table enjoying crazy ice cream; yellow and orange flags continue from the previous image; a little girl who just took a pink ghost-shaped ice cream from the modified ice cream machine; Ada’s dog, Konrad, Marie, Ada, and Toni sneaking away from the party."
-msgstr ""
+msgstr "הנשיא, המזכירה ואנשים נוספים סביב שולחן נהנים מגלידה משוגעת, דגלים בצבעי צהוב וכתום ממשיכים מהתמונה הקודמת, ילדה קטנה שהרגע לקחה גלידה ורודה בצורת רוח רפאים ממכונת הגלידה ששופצה, הכלב של עדה, קונרד, מרי, עדה וטוני מתחמקים מהמסיבה."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:995
@@ -1093,7 +1093,7 @@ msgstr "ומה עם זנגמן?"
 #. (itstool) id: Ada_Zangemann.dbk#para-p48-1
 #: Ada_Zangemann.dbk:999
 msgid "<phrase condition=\"capitals-text\">And</phrase><phrase condition=\"capitals-img\">nd</phrase> Zangemann? No one’s heard much from him. Maybe he’s still sitting angrily in front of his golden computer. Maybe he doesn’t dare go out into the street anymore and has boarded up all the windows of his mansion so that he doesn’t have to worry about what other people are doing with his inventions. But maybe he also sometimes looks out into the world through his telescope and sees what the children are inventing every day. Perhaps then he will remember how much fun it was for himself to tinker and experiment. And maybe, just maybe, he eats pyramid-shaped raspberry ice cream with rainbow sprinkles."
-msgstr ""
+msgstr "<phrase condition=\"capitals-text\">ומה</phrase><phrase condition=\"capitals-img\">מה</phrase> עם זנגמן? אף אחד לא שמע ממנו. אולי הוא עדיין יושב בכעס מול המחשב המוזהב שלו. אולי הוא לא מעז עוד לצאת לרחוב ואטם את כל חלונות האחוזה שלו כדי שלא יצטרך לדאוג מה עושים אנשים אחרים עם ההמצאות שלו. אבל אולי הוא לפעמים גם מציץ החוצה לעולם מבעד למשקפת שלו ורואה מה ממציאים הילדים מדי יום. אולי אז הוא ייזכר כמה כיף היה לו לשפצר ולהתנסות. ואולי, ממש במקרה, הוא אוכל גלידת פטל בצורת פירמידה עם סוכריות צבעוניות מעל."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1107,7 +1107,7 @@ msgstr "הכלב הקטן של עדה מרחרח שובל של גלידה."
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:1013
 msgid "A trail of candies and raspberry ice cream on the ground."
-msgstr ""
+msgstr "שובל של סוכריות וגלידת פטל על הקרקע."
 
 #. (itstool) path: info/title
 #. (itstool) id: Ada_Zangemann.dbk#title-acknowledgments
@@ -1122,24 +1122,24 @@ msgstr "תודות והוקרה"
 #. and encourage you to do that for other books in future as well.
 #: Ada_Zangemann.dbk:1028
 msgid "Many thanks to Reinhard Wiesemann from the Linuxhotel for the financial support and motivation to no longer plan but to make. Thanks to Sandra Brandstätter, who has brought me joy with every new design for the illustrations. Thanks to my editor Wiebke Helmchen, who made developing and sharpening the story fun, and to No Starch Press for agreeing to publish the book under a free culture license."
-msgstr ""
+msgstr "תודה רבה לריינהרד וייזמן מ־Linuxhotel על התמיכה הכלכלית והדחיפה לעשות במקום לדבר. תודה לסנדרה ברנדשטטר, שהעלתה חיוך על פניי עם כל עיצוב ואיור חדש. תודה לעורך וייבקה הלמשן, שהפך את פיתוח והשחזרת הסיפור למהנה ולהוצאת No Starch על הסכמתם לפרסם את הספר בכפוף לרישיון בנוסח מתירני."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1029
 msgid "Thanks to Bea and Benni, Brian, Christine and Marc, Cory, Bernhard, Isabel and Amelia, Katta, Kristina, Martin, Mona and Arne, Nina, Oliver, Reinhard, Sabine, and Torsten for great ideas, inspiration, and practical tips, and to the many people of the Free Software movement, from which I was allowed to learn and whose engagement motivated me."
-msgstr ""
+msgstr "תודה לבֵּיאַה ובני, בריאן, כריסטינה ומאקר, קורי, ברנהרד, איזבל ואמליה, קאטה, כריסטינה, מרטין, מונה וארני, נינה, אוליבר, ריינהארד, סבין וטורסטן על רעיונות נהדרים, השראה ועצות מועילות, ולאנשים הרבים של תנועת חופש התוכנה, מהם הורשיתי ללמוד והמעורבות שלהם הציתה בי את התשוקה ליצירה."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1033
 msgid "Thanks to my family, who made me write early in the morning, late in the evening, and on holiday, and who always supports my work for software freedom. Especially, I would like to thank my children, who inspired me with new ideas at each reading. Without them, this book would not exist."
-msgstr ""
+msgstr "תודה למשפחה שלי, שגרמו לי לכתוב מוקדם בבוקר, מאוחר בערב ובחופשות, ותמיד תומכים בעבודה שלי למען חופש התוכנה. במיוחד אני רוצה להודות לילדים שלי, שהעניקו לי השראה בזכות רעיונות חדשות עם כל פעם שהם קראו את הספר. בלעדיהם, הספר הזה לא היה קיים."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:1040
 msgid "Ada’s dog wags its tail after finding Zangemann hidden behind a curtain and eating an ice cream cone with candies and a blue umbrella on it and lots of raspberry ice cream dripping."
-msgstr ""
+msgstr "הכלב של עדה מכשכש בזנבו לאחר שמצא את זנגמן מסתתר מאחורי וילון ואוכל גביע גלידה עם סוכריות ומטרייה כחולה עליו והמון גלידת פטל נוטפת."
 
 #. (itstool) path: info/title
 #. (itstool) id: Ada_Zangemann.dbk#title-author
@@ -1164,12 +1164,12 @@ msgstr "על המחבר - מתיאס קירשנר"
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:1062
 msgid "Close-up of Matthias smiling, waving with one hand, and wearing a headset. Matthias has short hair and a little beard."
-msgstr ""
+msgstr "תקריב של מתיאס מחייך, מנופף ביד אחת ומרכיב אוזניות. למתיאס יש שיער קצר וזקן קטן."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1064
 msgid "Matthias was fascinated by computers and software as a child. He had an internet connection early, through which he learned a lot. Children have a right to take their future into their own hands. Therefore, Matthias is committed to the goal that all humans can use software in a self-determined way. He also wants to build an electric skateboard with Free Software."
-msgstr ""
+msgstr "מתיאס הופנט על ידי מחשבים ותוכנה כילד. כבר בשלב מוקדם הייתה לו גישה לאינטרנט, דרכו למד המון. לילדים יש את הזכות לעצב את העתיד שלהם בעצמם. לכן, מתיאס מחויב למטרה שטוענת שכל בני האדם יכולים להשתמש בתוכנה בתנאים שהם מכתיבים. הוא גם רוצה לבנות סקייטבורד חשמלי עם תוכנה חופשית."
 
 #. (itstool) path: info/title
 #. (itstool) id: Ada_Zangemann.dbk#title-illustrator
@@ -1182,24 +1182,24 @@ msgstr "על המאיירת"
 #. ignore-same
 #: Ada_Zangemann.dbk:1071
 msgid "Sandra Brandstätter"
-msgstr "סנדרה ברנדשטטור"
+msgstr "סנדרה ברנדשטטר"
 
 #. (itstool) path: info/titleabbrev
 #: Ada_Zangemann.dbk:1072
 msgid "About the Illustrator - Sandra Brandstätter"
-msgstr "על המאיירת - סנדרה ברנדשטטור"
+msgstr "על המאיירת - סנדרה ברנדשטטר"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:1085
 msgid "Sandra smiling with a pencil in her hand in front of her chin. She has earphones with an integrated microphone. Sandra has short hair and glasses."
-msgstr ""
+msgstr "סנדרה מחייכת עם עיפרון בידה שהמוחק שלו מופנה לכיוון הסנטר. היא מרכיבה אוזניות עם מיקרופון מובנה. לסנדרה יש שיער קצר ומשקפיים."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1087
 msgid "Sandra has always liked crafting with scissors, pliers, glue, wire, fabric, and paper. Today she works as an illustrator, comic author, and character designer for animated films and series, such as the German public television series Trudes Tier. On an ice-cream machine, Sandra would pick a creamy rainbow ice cream with lemon cucumber flavor and a lot of sprinkles."
-msgstr ""
+msgstr "סנדרה תמיד אהבה עבודות יצירה עם מספריים, פלייר (צבת), דבק, חוטים, בד ונייר. היום היא עובדת כמאיירת, יוצרת קומיקס ומעצבת דמויות לסרטים וסדרות מונפשים, כגון הסדרה „Trudes Tier” (בעברית: „החיה של טרודה”) שמשודרת בערוץ הציבורי הגרמני. ממכונת הגלידה, סנדרה בוחרת בגלידה קרמית בטעמי לימון ומלפפון והמון סוכריות מלמעלה."
 
 #. (itstool) path: info/title
 #. (itstool) id: Ada_Zangemann.dbk#title-bookswebsite
@@ -1210,12 +1210,12 @@ msgstr "אתר הספר"
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1100
 msgid "The Free Software Foundation Europe e.V. is a nonprofit association that empowers people to control technology. Software affects all areas of our life. That is why it is important that this technology gives us freedom instead of restricting us. Free Software (also called Open Source) gives everyone the right to use, study, share, and improve programs. Therefore, Free Software strengthens basic rights such as freedom of expression, freedom of the press, and the right to privacy."
-msgstr ""
+msgstr "תנועת התוכנה החופשית האירופית (e.V.‎) היא ארגון ללא מטרות רווח שמחזק את יכולת השליטה של אנשים בטכנולוגיה. תוכנה משפיעה על המון תחומים בחיים שלנו. לכן חשוב שהטכנולוגיה תעניק לנו חופש במקום להגביל אותנו. תוכנה חופשית (נקראת גם קוד פתוח) מעניקה לכולם את הזכות להשתמש, לחקור, לשתף ולשפר תוכניות. בכך, תוכנה חופשית מחזקת את זכויות היסוד שלנו כגון חופש הביטוי, חופש העיתונות והזכות לפרטיות."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1102
 msgid "On the web page of the book, you will find more information and resources: <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
-msgstr ""
+msgstr "באתר הספר, ניתן למצוא פרטים ומשאבים נוספים: <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
 
 #. (itstool) path: info/title
 #. (itstool) id: Ada_Zangemann.dbk#title-license
@@ -1226,7 +1226,7 @@ msgstr "רישיון"
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1117
 msgid "The book Ada &amp; Zangemann: A Tale of Software, Skateboards, and Raspberry Ice Cream by Matthias Kirschner and Sandra Brandstätter, published by No Starch Press, is licensed under “Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).”"
-msgstr ""
+msgstr "הספר עדה וזנגמן: סיפור על תוכנה, סקייטבורד וגלידת פטל מאת מתיאס קירשנר וסנדרה ברנדשטטר, יצא לאור מטעם No Starch Press בכפוף לרישיון „Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).” (שמאפשר לשתף בכפוף לתנאים שמפורטים ברישיון)"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1118
@@ -1238,7 +1238,7 @@ msgstr ""
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:1127
 msgid "A hand that holds a fish-shaped ice cream cone with a cucumber on a decorated toothpick, to color. In a bottom corner, a pencil writing."
-msgstr ""
+msgstr "יד שמחזיקה גביע גלידה בצורת דג עם מלפפון על קיסם מעוצב, לצביעה. בפינה למטה, כתיבה בעיפרון."
 
 #. (itstool) path: simplesect/literallayout
 #. In a literallayout element all space and newline characters are kept.
@@ -1248,10 +1248,12 @@ msgid ""
 "Come up with some delicious, funny, or crazy ice-cream flavors and draw them on the ice-cream cones on the following page.\n"
 "More information about the book can be found at <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
 msgstr ""
+"עכשיו תורך להמציא טעמים טעימים, משעשעים או משוגעים לגלידה ולצייר אותם על גביעי הגלידה בעמוד הבא.\n"
+"אפשר למצוא מידע נוסף על הספר באתר <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:1137
 msgid "Three hands that hold as many empty ice cream cones, to draw and color. In the air above the middle cone is an umbrella."
-msgstr ""
+msgstr "שלוש ידיים שמחזיקות גביעי גלידה בכמות זהה, לציור ולצביעה. באוויר מעל הגביע האמצעי יש מטרייה."
