@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-10-16 21:28+0200\n"
-"PO-Revision-Date: 2025-11-09 18:51+0000\n"
+"PO-Revision-Date: 2025-11-11 11:51+0000\n"
 "Last-Translator: Yaron Shahrabani <sh.yaron@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/fsfe/ada-zangemann/he/>\n"
 "Language: he\n"
@@ -303,6 +303,11 @@ msgid ""
 "We encourage you to support authors, publishers, and others involved in the creation of culture under free licenses – including <emphasis role=\"bold\">financially supporting them through purchases or donations</emphasis>. (<link xlink:href=\"https://fsfe.org/donate\">https://fsfe.org/donate</link>)\n"
 "Society should support those who respect others’ freedom."
 msgstr ""
+"<emphasis role=\"bold\">חופשי כמו בחירות ולא מבחינת מחיר</emphasis>\n"
+"תוכנה חופשית מתייחסת לחרויות שהתוכנה מעניקה לך, לא כמה שהיא עלתה. באופן דומה, פרסום ספר בכפוף לרישיון בסגנון חופשי לא אומר שיש לך את הזכות לקבל עותק בחינם של הספר הקשיח או האלקטרוני. כלומר שיש לך את הזכויות שמפורטות לעיל, שמאפשרות לקהילה להיתרם קצת מעבר בזכות הספר הזה, כפי שאמור להיות בכל יצירה עם אופי תרבותי.\n"
+"\n"
+"אנו מעודדים אותך לתמוך בכותבים, המפרסמים ואחרים שמעורבים ביצירת תרבות בכפוף לרישיון חופשי – כולל <emphasis role=\"bold\">תמיכה כלכלית בהם דרך רכישה או תרומות</emphasis>. (<link xlink:href=\"https://fsfe.org/donate\">https://fsfe.org/donate</link>)\n"
+"החברה צריכה לתמוך באלו שמכבדים את החופש של כולם."
 
 #. (itstool) path: info/title
 #. Page next to the colophon with title, subtitle, authors and
@@ -443,7 +448,7 @@ msgstr "סקייטבורד חשמלי מקורי של זנגמן שמשאיר מ
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:560
 msgid "Ada tinkers with objects in her improvised lab. Ada is sitting on an overturned water case, and working on a repair with a yellow screwdriver. Also on the table are green pliers, a red hammer, a white power strip, and another gadget. Ada is at a table consisting of a wooden board supported by two oil drums (one gray and one red) and a small wooden sawhorse. Behind Ada there are a washing machine, pipes, and a board. In front of the improvised table there are tires and an old phone with faulty wire. Alan is coming toward Ada holding a yellow fan over his head. Alan now wears white socks and yellow shoes."
-msgstr ""
+msgstr "עדה משפצרת כל מיני חפשים במעבדה המאולתרת שלה. עדה יושבת על ארגז בקבוקי שתייה הפוך ועובדת על תיקון עם מברג צהוב. על השולחן יש גם פלייר (צבת) ירוק, פטיש אדום, מפצל חשמל אדום וחפץ נוסף. עדה יושבת מול השולחן שהוא למעשה לוח עץ שנשען על שתי חביות נפט (אחת אפורה ואחת אדומה) וחמור תמיכה מעץ. מאחורי עדה יש מכונת כביסה, צינורות ולוח. מול השולחן המאולת יש צמיגים וטלפון ישן עם חוט פגום. אלן מגיע לכיוון עדה בעודו אוחז מאוורר צהוב מעל הראש. אלן לובש כעת גרביים לבנים ונעליים צהובות."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:562
@@ -487,7 +492,7 @@ msgstr "לזנגמן היה כיף מאוד ללחוץ על כל המקשים ה
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:584
 msgid "Zangeman sitting in front of his golden computer on a golden armchair with a very tall red padded backrest at whose top is the “Z” of the Zangemann logo. He is wearing a purple turtle-neck sweater and light blue trousers. The computer has four ornate monitors of various sizes, each of which has the logo on the back. It is integrated into a costly wooden desk from which a gray cable flows that is connected to the power strip of the previous page."
-msgstr ""
+msgstr "זנגמן יושב מול מחשב הזהב שלו על כס זהב עם ידיות ומשענת גבוהה מאוד ואדומה שבראשה הסמל „ז” שמייצג את הלוגו של זנגמן. הוא לובש אפודה סגולה ומכנסיים בצבע תכלת. למחשב יש ארבעה צגים מקושטים בגדלים שונים, לכל אחד מהם יש את הלוגו מאחורה. הכול משולב בתוך שולחן עץ יקר שמתוכו יוצא כבל אפור שמחובר למפצל החשמל מהעמוד הקודם."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:589
@@ -499,7 +504,7 @@ msgstr "כשלא היה מול מחשב הזהב שלו. זנגמן הרכיב �
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:594
 msgid "City landscape with houses and shops, with a central street turning right. On the road there are a car and a cyclist. There are various children and adults walking or going on skateboards, some eating ice cream, while others are buying ice cream from the original Zangemann machines."
-msgstr ""
+msgstr "מבט על העיר עם בתים וחנויות, עם רחוב ראשי שפונה שמאלה. על הכביש יש מכונית ורוכבת אופניים. כל מיני ילדים ומבוגרים הולכים או רוכבים על סקייטבורדים, חלקם אוכלים גלידה בעוד שאחרים קונים גלידה מהמכונות המקוריות של זנגמן."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:596
@@ -523,7 +528,7 @@ msgstr "יום אחד חשב לעצמו זנגמן, „היום אני רוצה 
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:609
 msgid "Zangemann descends the stairs from his mansion on the hill towards the city. Zangemann’s house stands on a hill. The front is blue with large windows; the towers are dark blue, and from a window starts a yellow slide that ends in a large swimming pool with two palm trees. The roofs are red, and above the highest tower an antenna is installed. On the sides of the stairs to get off the hill there are evergreen trees."
-msgstr ""
+msgstr "זנגמן יורד במדרגות מהאחוזה שלו שעל הגבעה לעבר העיר. הבית של זנגמן ניצב על ראש גבעה. החזית כחולה עם חלונות גדולים, הצריחים הם בצבע כחול כהה ומהחלון יוצאת מגלשה צהובה שמשתלשלת אל בריכת שחייה גדולה בין שני עצי דקל. הגגות אדומים ומעל לצריח הגבוה ביותר מותקנת אנטנה. בצדי המדרגות לירידה מהגבעה יש עצים ירוקי עד."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:613
@@ -540,7 +545,7 @@ msgstr "בעוד ראשו מלא במחשבות – טראח! – משהו הת�
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:620
 msgid "Zangemann after the incident with the child. Zangemann screams from pain while holding up one of his legs with both hands at the shin. The child has brown hair that is blown back by Zangemann’s scream; he is wearing a light blue hooded sweatshirt and dark green pants. He holds a red Zangemann electric skateboard."
-msgstr ""
+msgstr "זנגמן לאחר התקרית עם הילד. זנגמן צורח מכאב בעודו מחזיק את אחת מרגליו בשתי הידיים באזור השוק. לילד יש שיער חום שמתנופף לאחור עקב הצעקה של זנגמן, הוא לובש עליונית תכלת ומכנסיים ירוקים כהים. הוא אוחז סקייטבורד חשמלי אדום של זנגמן."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:624
