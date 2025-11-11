@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-10-16 21:28+0200\n"
-"PO-Revision-Date: 2025-11-11 11:51+0000\n"
+"PO-Revision-Date: 2025-11-12 12:51+0000\n"
 "Last-Translator: Yaron Shahrabani <sh.yaron@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/fsfe/ada-zangemann/he/>\n"
 "Language: he\n"
@@ -562,7 +562,7 @@ msgstr "זנגמן הכועס צלע לו לדרכו. לפתח, שמע מוזי�
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:630
 msgid "Advertisements for Zangemann ice cream (sandwich board), a Zangemann electric skateboard, and a Zangemann washing machine. The math teacher, Ms. Gernet, is passing in front of the billboards. Ms. Gernet is an old lady with short white hair. She is dressed in a light green t-shirt and a pea green sweater, dark brown pants, and light green heeled shoes. She has a fuchsia shoulder bag, worn behind her. She pushes a small shopping cart in which there is a small brown dog with a collar and tag."
-msgstr ""
+msgstr "פרסומות לגלידה של זנגמן (שלט חמור), סקייטבורד חשמלי של זנגמן ומכונת כביסה של זנגמן. המורה למתמטיקה, גברת גרנט, עוברת מול שלט החוץ. גברת גרנט היא אישה מבוגרת עם שיער לבן קצר. היא לבושה בחולצה בצבע ירוק בהיר ואפודה בצבע ירוק אפונה, מכנסיים חומים כהים ונעלי עקב ירוקות בהירות. יש לה תיק כתף בצבע פוקסיה, התיק פונה לאחור. היא דוחפת עגלת קניות קטנה בה יש כלב חום קטן עם קולר ותג."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:635
