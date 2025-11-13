@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-10-16 21:28+0200\n"
-"PO-Revision-Date: 2025-11-12 12:51+0000\n"
+"PO-Revision-Date: 2025-11-13 13:51+0000\n"
 "Last-Translator: Yaron Shahrabani <sh.yaron@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/fsfe/ada-zangemann/he/>\n"
 "Language: he\n"
@@ -599,7 +599,7 @@ msgstr "<phrase condition=\"capitals-text\">ביום</phrase><phrase condition=\
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:663
 msgid "Five kids from the school who can’t make skateboards work. Two girls wear helmets, respectively blue and red. A little girl with brown hair tied in two tails with yellow rubber bands is kneeling. She is trying to understand why the skateboard of her friend with the red helmet does not work. Four children have backpacks on their shoulders, while the little girl with the red helmet left hers leaning on a bench on which there are a yellow apple and a light blue bottle with a white flower on it."
-msgstr ""
+msgstr "חמישה ילדים מבית הספר שלא מצליחים לגרום לסקייטבורדים לעבוד. שתי בנות חובשות קסדות, כחול ואדום בהתאמה. ילדה קטנה עם שיער חום שאסוף לשתי קוקיות עם גומיות כורעת ברך. היא מנסה להבין למה הסקייטבורד של החברה שלה עם הקסדה האדומה לא עובד. לארבעה ילדים יש ילקוטים על הכתפיים, בעוד שהילדה הקטנה עם הקסדה האדומה השאירה את שלה מושען על הספסל שעליו תפוח צבוע ובקבוק תכלת עם פרח לבן עליו."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:667
@@ -644,7 +644,7 @@ msgstr "הדבר הטוב ביותר שקרה בזכות התגלית של עד�
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:693
 msgid "Computer screen from which the elements of the programming language symbolically emerge: “while num &gt; 0“, “init“, “sx=42“, “for“, “v**3“. Ada is typing on a white keyboard with a blue cable, while her other hand enters the screen to change the program (“print(msg)”, “a+b+c+d=e”, “if”, “break”, “continue”, “exit()”). Next to the keyboard there are a pencil and an eraser."
-msgstr ""
+msgstr "מסך מחשב שממנו מגיחים יסודות סמליים של שפת תכנות: „while num &gt; 0”,‏ „init”,‏ „sx=42”,‏ „for”,‏ „v**3‎”. עדה מקלידה על מקלדת לבנה עם כבל כחול, בעוד שידה השנייה נכנסת לתוך המסך כדי לשנות את התוכנית („print(msg)”,‏ „a+b+c+d=e”,‏ „if”,‏ „break”,‏ „continue”,‏ „exit()‎”). ליד המקלדת יש עיפרון ומוחק."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:699
@@ -887,7 +887,7 @@ msgstr "„כל המחשבים שלא מצייתים לזנגמן אסורים. 
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:858
 msgid "The President getting a phone call from the angry Zangemann. The videophone consists of an old red Zangemann dial phone connected to a monitor. Zangemann’s face appears on the monitor, while a yellow flare of Zangemann’s thundering voice comes out of the phone, and the President holds the receiver at arm’s length. The president has white hair and wears a light blue shirt, a red tie, and a blue jacket with yellow buttons. The President is sitting on a green chair with white vertical lines, and his other hand is on the desk. On the desk, in addition to the videophone, there are sheets with something written on them and an open purple fountain pen. The President was eating a sandwich of meat and cheese with greens with two olives on a toothpick, over a blue napkin with white stripes."
-msgstr ""
+msgstr "הנשיא מקבל שיחת טלפון מזנגמן הזועף. שיחת הווידאו מורכבת מטלפון חוגה אדום ישן של זנגמן שמחובר לצג. הפנים של זנגמן מופיעות על הצג בעוד שהבהקה צהובה מקולו הרועם של זנגמן מגיח מהטלפון, והנשיא מחזיק את השפופרת במרחק זרוע. לנשיא יש שיער לבן והוא לובש חולצה בצבע תכלת, עניבה אדומה וז׳קט כחול עם כפתורים צהובים. הנשיא יושב על כיסא ירוק עם פסים אנכיים לבנים והיד השנייה שלו מונחת על השולחן. על השולחן בנוסף לטלפון הווידאו, יש גיליונות שכתוב עליהם משהו ועט נובע סגול. הנשיא היה באמצע אכילת סנדוויץ עם נקניק וגבינה עם ירקות ושני זיתים על קיסם, מונחים על מפית כחולה עם פסים לבנים."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:863
@@ -939,27 +939,27 @@ msgstr "עם כל יום שעבר, עוד ועוד ילדים ומבוגרים �
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:895
 msgid "Group of protesters. Among them there are: Ada’s mother holding Alan’s hand and raising a pink ice cream; 3 colleagues of Toni’s father dressed in ties; two children holding the banner “Do your homework Mr. President and we will do ours!”; a robot with tank treads, irons as feet, an electric fan as abdomen, a monitor as head, and an eggbeater as one hand, holding a blue ice cream in his other hand; two parents holding the banner “Hacking 4 Freedom”; a lady holding an electronic sign “There is a code B”; two small birds, flying; the math teacher, Ms. Gernet, who has inserted in her cart a sign that says “They are young + need the code!“ The dog in her cart is barking; Ada and Konrad are carrying the banner “Don’t wreck our tech!” Marie and Toni are walking beneath the banner, and Marie is talking through a bullhorn held in her hand; Ada’s family’s dog is now wearing a red harness with shiny yellow LEDs that matches the collar."
-msgstr ""
+msgstr "קבוצה של מפגינים. ביניהם: אימא של עדה שמחזיקה את היד של אלן וביד השנייה מניפה גלידה ורודה, 3 עמיתים לעבודה של אבא של טוני לבושים בחליפות, שני ילדים מחזיקים את הכרזה „,הכן את שיעורי הבית שלך, כבוד הנשיא, ואנחנו נכין את שלנו!”, רובוט עם זחלת של טנק, מגהצים כרגליים ומאוורר חשמלי כבטן, צג בתור ראש, ומטרפת ביצים בתור אחת מידיו, אוחז בגלידה כחולה ביד, שני הורים מחזיקים כרזה „מפצחים למען חירות”, אישה אוחזת בשלט אלקטרוני שכתוב בו „There is a code B” (יש תוכנית/קוד ב׳), שתי ציפורים קטנות, עפות, המורה למתמטיקה, גברת גרנט, שהכניסה לעגלה שלה שלט שאומר „הם צעירים + הם צריכים את הקוד!” הכלב שבעגלה שלה נוסח, עדה וקונרד נושאים את הכרזה „לא נִתֵּן לחרב את המחשב!” מרי וטוני הולכים מתחת לכרזה ומרי מדברת מבעד למגפון שהיא אוחזת בידה, הכלב המשפחתי של דעה עוטה כעת רתמה אדומה עם נוריות צהובות מנצנצות שתואמות לקולר."
 
 #. (itstool) path: info/excerpt
 #. Text on big banner, left on the illustration
 #: Ada_Zangemann.dbk:897
 msgid "Do your homework Mr. President and we will do ours!"
-msgstr "תכין את שיעורי הבית שלך, כבוד הנשיא, ואנחנו נכין את שלנו!"
+msgstr "הכן את שיעורי הבית שלך, כבוד הנשיא, ואנחנו נכין את שלנו!"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:906
 msgid "Detail of the previous image: two children holding the banner “Do your homework Mr. President and we will do ours!”"
-msgstr "פרטי התמונה הקודמת: שני ילדים מחזיקים את הכרזה „תכין את שיעורי הבית שלך, כבוד הנשיא, ואנחנו נכין את שלנו!”"
+msgstr "פרטי התמונה הקודמת: שני ילדים מחזיקים את הכרזה „הכן את שיעורי הבית שלך, כבוד הנשיא, ואנחנו נכין את שלנו!”"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:912
 msgid "Detail of the previous image: Ada and Konrad are carrying the banner “Don’t wreck our tech!” Marie and Toni are walking beneath the banner, and Marie is talking through a bullhorn held in her hand; Ada’s family’s little dog is now wearing a red harness with shiny yellow LEDs that matches the collar."
-msgstr "פירוט התמונה הקודמת: עדה וקונרד מחזיקים את הכרז „לא נִתֵּן לחרב את המחשב!”, מרי וטוני הולכים מתחת לכרזה ומרי מדברת למגפון שהיא אוחזת בידה, הכלב הקטן של משפחתה של עדה עוטה רצועת רסן אדומה עם נוריות צהובות מנצנצות שתואמות לקולר."
+msgstr "פירוט התמונה הקודמת: עדה וקונרד מחזיקים את הכרז „לא נִתֵּן לחרב את המחשב!”, מרי וטוני הולכים מתחת לכרזה ומרי מדברת למגפון שהיא אוחזת בידה, הכלב הקטן של משפחתה של עדה עוטה רתמה אדומה עם נוריות צהובות מנצנצות שתואמות לקולר."
 
 #. (itstool) path: info/excerpt
 #. Text on square signe on the right of the illustration
