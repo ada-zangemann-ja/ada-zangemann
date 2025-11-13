@@ -1,20 +1,22 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-11-11 11:51+0000\n"
+"Last-Translator: Joaquin Veira <joaquin.veira@gmail.com>\n"
+"Language-Team: Galician <https://hosted.weblate.org/projects/fsfe/ada-zangemann/gl/>\n"
 "Language: gl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.15-dev\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
 msgid "translator-credits"
-msgstr ""
+msgstr "Joaquín Veira joaquin.veira@gmail.com, 2025"
 
 #. (itstool) path: info/title
 #. (itstool) path: cover/bridgehead
@@ -23,61 +25,66 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:262 Ada_Zangemann.dbk:306 Ada_Zangemann.dbk:496
 msgid "Ada &amp; Zangemann"
-msgstr ""
+msgstr "Ada e Zangemann"
 
 #. (itstool) path: info/subtitle
 #. (itstool) path: cover/bridgehead
 #: Ada_Zangemann.dbk:263 Ada_Zangemann.dbk:307
 msgid "A Tale of Software, Skateboards, and Raspberry Ice Cream"
-msgstr ""
+msgstr "Unha historia sobre o soporte lóxico, monopatíns e xeado de framboesa"
 
 #. (itstool) path: info/biblioid
 #. ISBN of print edition
 #: Ada_Zangemann.dbk:264
 msgid "978-1-7185-0318-2"
-msgstr ""
+msgstr "978-1-7185-0318-2"
 
 #. (itstool) path: info/biblioid
 #. ISBN of ebook edition
 #: Ada_Zangemann.dbk:265
 msgid "978-1-7185-0319-9"
-msgstr ""
+msgstr "978-1-7185-0319-9"
 
 #. (itstool) path: info/author
 #. ignore-same
 #: Ada_Zangemann.dbk:267
+#, fuzzy
 msgid "<personname> <firstname>Matthias</firstname> <surname>Kirschner</surname> </personname>"
-msgstr ""
+msgstr "<personname> <firstname>Matthias</firstname> <surname>Kirschner</surname> </personname>"
 
 #. (itstool) path: info/othercredit
 #. ignore-same
 #: Ada_Zangemann.dbk:273
+#, fuzzy
 msgid "<personname> <firstname>Sandra</firstname> <surname>Brandstätter</surname> </personname>"
-msgstr ""
+msgstr "<personname> <firstname>Sandra</firstname> <surname>Brandstätter</surname> </personname>"
 
 #. (itstool) path: character/charactername
 #. Name must not be changed.
 #.
 #. ignore-same
 #: Ada_Zangemann.dbk:282
+#, fuzzy
 msgid "Ada"
-msgstr ""
+msgstr "Ada"
 
 #. (itstool) path: character/charactername
 #. Name must not be changed.
 #.
 #. ignore-same
 #: Ada_Zangemann.dbk:285
+#, fuzzy
 msgid "Zangemann"
-msgstr ""
+msgstr "Zangemann"
 
 #. (itstool) path: character/charactername
 #. Name must not be changed.
 #.
 #. ignore-same
 #: Ada_Zangemann.dbk:288
+#, fuzzy
 msgid "Alan"
-msgstr ""
+msgstr "Alan"
 
 #. (itstool) path: character/charactername
 #. Character names are mostly reference to existing people in computer
@@ -91,8 +98,9 @@ msgstr ""
 #.
 #. ignore-same
 #: Ada_Zangemann.dbk:291
+#, fuzzy
 msgid "Toni"
-msgstr ""
+msgstr "Toni"
 
 #. (itstool) path: character/charactername
 #. Character names are mostly reference to existing people in computer
@@ -106,8 +114,9 @@ msgstr ""
 #.
 #. ignore-same
 #: Ada_Zangemann.dbk:294
+#, fuzzy
 msgid "Konrad"
-msgstr ""
+msgstr "Konrad"
 
 #. (itstool) path: character/charactername
 #. Character names are mostly reference to existing people in computer
@@ -122,7 +131,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:297
 msgid "Marie"
-msgstr ""
+msgstr "María"
 
 #. (itstool) path: character/charactername
 #. Character names are mostly reference to existing people in computer
@@ -137,7 +146,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:300
 msgid "Ms. Gernet"
-msgstr ""
+msgstr "Sra. Gernet"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -157,7 +166,7 @@ msgstr ""
 #. (itstool) id: Ada_Zangemann.dbk#para-back-1
 #: Ada_Zangemann.dbk:332
 msgid "<phrase condition=\"capitals-text\">The</phrase><phrase condition=\"capitals-img\">he</phrase> inventor Zangemann is world-famous and immensely rich. Adults and children alike love his fabulous technical inventions. But one day there is a problem: the children’s electronic skateboards no longer work properly. What’s going on? The curious girl Ada sees through what is going on. Together with her friends, she experiments with hardware and software, and the children forge a plan: Zangemann can no longer be the only one in control of the devices!"
-msgstr ""
+msgstr "<phrase condition=\"capitals-text\">O</phrase><phrase condition=\"capitals-img\"></phrase> inventor Zangemann é mundialmente famoso e inmensamente rico. Tanto adultos como nenos adoran os seus fabulosos inventos técnicos. Pero un día hai un problema: os monopatíns electrónicos dos nenos xa non funcionan correctamente. ¿Que está a pasar? A curiosa nena Ada ve o que está a suceder. Xunto cos seus amigos, experimenta con hardware e software, e os nenos forxan un plan: ¡Zangemann xa non pode ser o único que controle os dispositivos!"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:333

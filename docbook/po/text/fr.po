@@ -4,16 +4,17 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2025-05-06 19:39+0200\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-11-11 11:51+0000\n"
+"Last-Translator: Sacha Muszlak <sacha@muszlak.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/fsfe/ada-zangemann/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Poedit 3.2.2\n"
+"X-Generator: Weblate 5.15-dev\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
@@ -311,8 +312,9 @@ msgstr ""
 #. Page next to the colophon with title, subtitle, authors and
 #. illustration of Ada’s dog.
 #: Ada_Zangemann.dbk:452
+#, fuzzy
 msgid "Title page"
-msgstr ""
+msgstr "Page de titre"
 
 # Information missing compared to English translation.
 #. (itstool) path: mediaobject/alt
@@ -377,7 +379,7 @@ msgstr ""
 #. (itstool) id: Ada_Zangemann.dbk#para-p04-1
 #: Ada_Zangemann.dbk:500
 msgid "<phrase condition=\"capitals-text\">Once</phrase><phrase condition=\"capitals-img\">nce</phrase> upon a time, there was a little girl named Ada. Her family was so poor that all their savings fit inside a cookie jar. They didn’t have enough money to live in a proper home. Instead, Ada lived with her mother and her little brother, Alan, in a cabin near a junkyard on the edge of town."
-msgstr "<phrase condition=\"capitals-text\">Il</phrase><phrase condition=\"capitals-img\">l</phrase> était une fois une petite fille qui s’appelait Ada. Sa famille était si pauvre que leurs économies tenaient dans une boîte à biscuits. Ils n’avaient pas assez d’argent pour vivre dans une vraie maison. Ainsi, Ada, sa mère et son petit frère Alan habitaient-ils une cabane à proximité d’une décharge à la périphérie de la ville."
+msgstr "<phrase condition=\"capitals-text\">Il</phrase><phrase condition=\"capitals-img\">l</phrase> était une fois une petite fille qui s’appelait Ada. Sa famille était si pauvre que toutes leurs économies tenaient dans une boîte à biscuits. Ils n’avaient pas assez d’argent pour vivre dans une vraie maison. Ainsi, Ada, sa mère et son petit frère Alan habitaient-ils une cabane à proximité d’une décharge à la périphérie de la ville."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -412,8 +414,9 @@ msgstr "<phrase condition=\"capitals-text\">Depuis</phrase><phrase condition=\"c
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:528
+#, fuzzy
 msgid "As the years went by, Zangemann grew bigger and computers got smaller. In fact, by the time he finished school, they were so small they fit in his pocket. The smallest ones even fit on his fingertip."
-msgstr "Plus Zangemann grandissait, plus les ordinateurs rétrécissaient. Quand il arriva en âge de quitter l’école, ils étaient si petits qu’ils pouvaient tenir dans la poche de son pantalon. Les plus miniaturisés tenaient même sur le bout de ses doigts."
+msgstr "Les années passèrent, Zangemann grandit et les ordinateurs rétrécirent. En fait, quand il eût l'âge de quitter l’école, ils étaient si petits qu’ils pouvaient tenir dans sa poche. Les plus miniaturisés tenaient même sur le bout de ses doigts."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -436,8 +439,9 @@ msgstr "Ce dessin représente une machine à glace Zangemann original. C'est un 
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:547
+#, fuzzy
 msgid "Adults and children loved his inventions. All the kids wanted to have one of his skateboards — complete with the latest sounds to show off to their friends at school. Kids also loved his speaker invention, which could instantly play any song you requested. And, of course, everyone loved the ice cream served every afternoon from the automatic, extra-delicious Original Zangemann Ice Cream Machine. It all seemed like magic, but the secret was simple: the little computers that Zangemann built into his machines made it all possible."
-msgstr "Adultes et enfants adoraient ses inventions. Les enfants voulaient tous leur skateboard Zangemann avec le dernier son à la mode pour épater les copains dans la cour de l’école. Beaucoup possédaient également des enceintes Zangemann, très pratiques. Il suffisait de leur indiquer le titre d’une chanson pour l’écouter. Et celui qui avait encore de l’argent de poche allait s’acheter une glace préparée automatiquement par la machine-à-glace-originale-Zangemann en sortant de l’école. C’était comme de la magie – mais tout cela était contrôlé par les petits ordinateurs que Zangemann avait intégrés aux appareils."
+msgstr "Adultes et enfants adoraient ses inventions. Les enfants voulaient tous leur skateboard Zangemann avec le dernier son à la mode pour épater les copains dans la cour de l’école. Beaucoup possédaient également des enceintes Zangemann, très pratiques. Il suffisait de leur indiquer le titre d’une chanson pour l’écouter. Et celui qui avait encore de l’argent de poche allait s’acheter une glace préparée automatiquement par la machine-à-glace-originale-Zangemann en sortant de l’école. C’était comme de la magie, mais leur secret était très simple  :  les petits ordinateurs que Zangemann avait intégrés aux appareils le rendait possible."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the

@@ -3,15 +3,15 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2025-10-26 08:02+0000\n"
-"Last-Translator: Igor W <igorwisnia@proton.me>\n"
+"PO-Revision-Date: 2025-11-11 11:51+0000\n"
+"Last-Translator: Maciej Łoziński <loziniak@o2.pl>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/fsfe/ada-zangemann/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Weblate 5.14.1-dev\n"
+"X-Generator: Weblate 5.15-dev\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 #, fuzzy
@@ -278,7 +278,7 @@ msgstr ""
 #.
 #. In a literallayout element all space and newline characters are kept.
 #: Ada_Zangemann.dbk:389
-#, fuzzy, no-wrap
+#, no-wrap
 msgid ""
 "Copyright © 2023 Matthias Kirschner and Sandra Brandstätter.\n"
 "This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.\n"
@@ -352,32 +352,32 @@ msgstr ""
 "ISBN-13: 978-1-7185-0318-2 (druk)\n"
 "ISBN-13: 978-1-7185-0319-9 (ebook)\n"
 "\n"
-"Wydawca: William Pollock  \n"
-"Autor: Matthias Kirschner  \n"
-"Ilustratorka: Sandra Brandstätter  \n"
-"Redaktorka zarządzająca: Jill Franklin  \n"
-"Redaktorka produkcji: Jennifer Kepler  \n"
-"Redaktorka: Wiebke Helmchen  \n"
-"Wsparcie w kolorystyce: Olga Biryukova, Noémi Sárkány, Nathalie Scattolon, Kristina Haidinger i Jasmin Schlögl  \n"
-"Projekt okładki: Sandra Brandstätter i Susan Brown  \n"
+"Wydawca: William Pollock\n"
+"Autor: Matthias Kirschner\n"
+"Ilustratorka: Sandra Brandstätter\n"
+"Redaktorka zarządzająca: Jill Franklin\n"
+"Redaktorka produkcji: Jennifer Kepler\n"
+"Redaktorka: Wiebke Helmchen\n"
+"Wsparcie w kolorystyce: Olga Biryukova, Noémi Sárkány, Nathalie Scattolon, Kristina Haidinger i Jasmin Schlögl\n"
+"Projekt okładki: Sandra Brandstätter i Susan Brown\n"
 "Skład: Maureen Forys, Happenstance Type-O-Rama\n"
 "\n"
 "W sprawie dystrybucji, sprzedaży hurtowej lub sprzedaży korporacyjnej prosimy o kontakt bezpośrednio z No Starch Press, Inc. pod adresem\n"
 "<link xlink:href=\"mailto:info@nostarch.com\">info@nostarch.com</link>\n"
 "lub:\n"
 "\n"
-"No Starch Press, Inc.  \n"
-"245 8th Street, San Francisco, CA 94103  \n"
-"telefon: 1.415.863.9900  \n"
+"No Starch Press, Inc.\n"
+"245 8th Street, San Francisco, CA 94103\n"
+"telefon: 1.415.863.9900\n"
 "<link xlink:href=\"https://nostarch.com/\">www.nostarch.com</link>\n"
 "\n"
 "Rekord katalogowy tej książki jest dostępny w Library of Congress.\n"
 "\n"
-"No Starch Press oraz logo No Starch Press są zarejestrowanymi znakami towarowymi firmy No Starch Press, Inc.  \n"
-"Inne nazwy produktów i firm wymienione w tej publikacji mogą być znakami towarowymi ich odpowiednich właścicieli.  \n"
+"No Starch Press oraz logo No Starch Press są zarejestrowanymi znakami towarowymi firmy No Starch Press, Inc.\n"
+"Inne nazwy produktów i firm wymienione w tej publikacji mogą być znakami towarowymi ich odpowiednich właścicieli.\n"
 "Zamiast stosowania symbolu znaku towarowego przy każdym wystąpieniu chronionej nazwy, używamy ich wyłącznie w celach redakcyjnych i z korzyścią dla właścicieli znaków towarowych, bez zamiaru naruszenia ich praw.\n"
 "\n"
-"Informacje zawarte w tej książce są rozpowszechniane na zasadzie „tak jak jest”, bez gwarancji.  \n"
+"Informacje zawarte w tej książce są rozpowszechniane na zasadzie „tak jak jest”, bez gwarancji.\n"
 "Pomimo dołożenia wszelkich starań przy przygotowaniu niniejszego dzieła, ani autor, ani No Starch Press, Inc. nie ponoszą żadnej odpowiedzialności wobec osób lub podmiotów za jakiekolwiek straty lub szkody powstałe bezpośrednio lub pośrednio w wyniku wykorzystania zawartych tu informacji.\n"
 "\n"
 "Wszyscy bohaterowie tej publikacji są fikcyjni, a wszelkie podobieństwa do prawdziwych osób, żyjących lub zmarłych, są całkowicie przypadkowe.\n"
@@ -465,7 +465,7 @@ msgstr "ADA &amp; ZANGEMANN – Opowieść o oprogramowaniu, deskach rolkowych i
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:483
 msgid "In the lower right, Ada’s family’s dog with gray fur and some white patches and with a red collar with shiny yellow LEDs, which wags its tail."
-msgstr "W prawym dolnym rogu znajduje się pies rodziny Ady o szarym futrze z białymi plamkami i czerwonej obroży z błyszczącymi żółtymi diodami LED, który merda ogonem."
+msgstr "W prawym dolnym rogu znajduje się pies rodziny Ady o szarym futrze z białymi plamkami i w czerwonej obroży z błyszczącymi żółtymi diodami LED, który merda ogonem."
 
 #. (itstool) path: simplesect/literallayout
 #. In a literallayout element all space and newline characters are kept.
@@ -515,7 +515,7 @@ msgstr "Prestiżowe magazyny („STARS”, „MONEY”, „Richest Man”), na o
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:518
 msgid "Far away, at the other end of town, lived a famous inventor named Zangemann. He was immensely rich. No sheet of paper in the world was big enough to show his bank balance with all its numbers and zeros! He lived in a huge house with a swimming pool and waterslide, lots of staircases and towers, hundreds of windows, and so many rooms that he often got lost in them himself. Zangemann’s mansion stood high on a hill. From there, he could look out over the whole city."
-msgstr "Daleko, na drugim krańcu miasta, mieszkał zany wynalazca imieniem Zangemann. Był bardzo bogaty. Na świecie nie ma kartki która pomieściła by saldo jego konta ze wszystkimi zerami. Mieszkał on wielkim domu z basenem i zjeżdżalnią, mnóstwem schodów i wież, setką okien i tak wieloma pokojami że sam potrafił się w nich zgubić. Posiadłość Zangemanna wznosiła się wysoko na wzgórzu, skąd mógł oglądać całe miasto."
+msgstr "Daleko, na drugim krańcu miasta, mieszkał zany wynalazca imieniem Zangemann. Był bardzo bogaty. Na świecie nie ma kartki która pomieściła by saldo jego konta ze wszystkimi zerami. Mieszkał on wielkim domu z basenem i zjeżdżalnią, mnóstwem schodów i wież, setką okien i tak wieloma pokojami, że sam potrafił się w nich zgubić. Posiadłość Zangemanna wznosiła się wysoko na wzgórzu, skąd mógł oglądać całe miasto."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:523
@@ -589,7 +589,7 @@ msgstr "Dużo radości sprawiało Adzie majsterkowanie na wysypisku i naprawiani
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:569
 msgid "Because everyone bought his inventions, Zangemann soon became the richest person in the whole world. With all his money, he bought a huge golden computer with a keyboard made of jewels and set it up in the largest room of his mansion. From there, over the internet, he could control all the little computers built into his inventions."
-msgstr "Ponieważ każdy kupował wynalazki Zangemanna, bardzo szybko został on najbogatszym człowiekiem na świecie. Za swoje pieniądze, kupił złoty komputer, z klawiaturą zrobioną z diamentów i postawił go w największym pokoju swojej willi. Mogł z niego kontrolować wszystkie małe komputery które wbudował w swoje wynalazki."
+msgstr "Ponieważ każdy kupował wynalazki Zangemanna, bardzo szybko został on najbogatszym człowiekiem na świecie. Za swoje pieniądze kupił złoty komputer z klawiaturą zrobioną z diamentów i postawił go w największym pokoju swojej willi. Mogł z niego kontrolować wszystkie małe komputery które wbudował w swoje wynalazki."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:570
@@ -737,7 +737,7 @@ msgstr ""
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:675
 msgid "After a few days, the initial shock at Ada’s school was forgotten. The skateboards still didn’t go on the sidewalk, but apart from that, they still worked. And so now the children rode in circles around the playground and listened to soft music. Only a strange, pompous marching music continued to play at an unchanged volume, which the children found rather puzzling."
-msgstr "After a few days, the initial shock at Ada’s school was forgotten. The skateboards still didn’t go on the sidewalk, but apart from that, they still worked. And so now the children rode in circles around the playground and listened to soft music. Only a strange, pompous marching music continued to play at an unchanged volume, which the children found rather puzzling."
+msgstr "Po kilku dniach w szkole Ady zapomniano o całym zamieszaniu. Deskorolki wciąż nie jeździły po chodnikach, ale poza tym działały jak dawniej. Teraz więc dzieci krążyły w kółko po szkolnym dziedzińcu i słuchały cichej muzyki. Tylko dziwna, napuszona muzyka marszowa wciąż grała tak samo głośno jak wcześniej, co bardzo je zastanawiało."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:680
@@ -776,7 +776,7 @@ msgstr "Programowanie"
 #. (itstool) id: Ada_Zangemann.dbk#para-p22-1
 #: Ada_Zangemann.dbk:703
 msgid "<phrase condition=\"capitals-text\">Over</phrase><phrase condition=\"capitals-img\">ver</phrase> the next few weeks, Ada spent her afternoons in the library. She found books and websites that explained how programming languages and code worked. For Ada, it felt a bit like learning a secret language, or like studying vocabulary in school. Ada ate it all up. She expected her first program to do something simple: “Make this lamp blink!”"
-msgstr "<phrase condition=\"capitals-text\">Przez</phrase><phrase condition=\"capitals-img\">rzez</phrase> następne dwa tygodnie, Ada spędzała popołudnia w bibliotece. Znalazła książki i strony internetowe które wyjaśniały jak działa kod i języki programowania. Dla Ady było to jak nauka sekretnego języka, albo nauka słówek w szkole. Ada chłoneła całą tę wiedzę i chciała aby jej pierwszy program był prosty: \"Niech ta lampa mruga!\"."
+msgstr "<phrase condition=\"capitals-text\">Przez</phrase><phrase condition=\"capitals-img\">rzez</phrase> następne dwa tygodnie, Ada spędzała popołudnia w bibliotece. Znalazła książki i strony internetowe które wyjaśniały jak działa kod i języki programowania. Dla Ady było to jak nauka sekretnego języka, albo nauka słówek w szkole. Ada chłoneła całą tę wiedzę i chciała aby jej pierwszy program był prosty: \"Niech ta lampa mruga!\""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:704
