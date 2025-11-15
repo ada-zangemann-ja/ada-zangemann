@@ -196,6 +196,16 @@ $(targets-pandoc-md): build/Ada_Zangemann-pandoc.%.md: \
 .PHONY: build/Ada_Zangemann-pandoc.all.md
 build/Ada_Zangemann-pandoc.all.md: $(targets-pandoc-md)
 
+# Pandoc textonly markdown
+targets-pandoc-text-only-md = $(addprefix build/Ada_Zangemann-pandoc-text-only.,$(addsuffix .md,$(languages)))
+$(targets-pandoc-text-only-md): build/Ada_Zangemann-pandoc-text-only.%.md: \
+ build/Ada_Zangemann-pure-profiled-text-only.%.dbk \
+ build/images/illustrations/all
+	pandoc -f docbook -o $@ $<
+
+.PHONY: build/Ada_Zangemann-pandoc-text-only.all.md
+build/Ada_Zangemann-pandoc-text-only.all.md: $(targets-pandoc-text-only-md)
+
 # Pandoc odt
 targets-pandoc-odt = $(addprefix build/Ada_Zangemann-pandoc.,$(addsuffix .odt,$(languages)))
 $(targets-pandoc-odt): build/Ada_Zangemann-pandoc.%.odt: \
