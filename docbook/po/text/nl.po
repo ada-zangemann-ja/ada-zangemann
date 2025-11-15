@@ -513,7 +513,7 @@ msgstr "Deze uitvindingen waren erg populair op Ada’s school. Veel van haar vr
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:564
 msgid "Luckily, Ada lived right next to the junkyard. There were lots of broken gadgets and rusty parts, which she put together to make cool new things, like a soapbox she and Alan rode roaring down the hill, a windmill, and scary junk monsters, which she and Alan would fight together. She also found many useful items—an old cell phone, for example. The screen was cracked, but she could fix that, and while there wasn’t internet at the junkyard, she could get access somewhere else."
-msgstr "Gelukkig woonde Ada direct naast de schroothoop. Daar waren veel kapotte en roestige spullen, die ze samenvoegde tot nieuwe coole dingen. Zoals een zeepkist waarin zij en Alan van de berg naar beneden scheurden, een windmolen, en enge schrootmonsters waar ze dan samen tegen vochten. Ze vond ook veel nuttige dingen zoals een oude mobiele telefoon. Het scherm was kapot, maar dat kon ze vervangen. Op de schroothoop was dan geen internet, maar ze kon ergens anders wel toegang krijgen."
+msgstr "Gelukkig woonde Ada direct naast de schroothoop. Daar waren veel kapotte en roestige spullen, die ze samenvoegde tot nieuwe coole dingen. Zoals een zeepkist waarin zij en Alan van de berg naar beneden scheurden, een windmolen, en enge schrootmonsters waar ze dan samen tegen vochten. Ze vond ook veel nuttige dingen zoals een oude mobiele telefoon. Het scherm was kapot, maar dat kon ze vervangen. Op de schroothoop was geen internet, maar ze kon ergens anders wel toegang krijgen."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:565
@@ -714,7 +714,7 @@ msgstr "Programmeren"
 #. (itstool) id: Ada_Zangemann.dbk#para-p22-1
 #: Ada_Zangemann.dbk:703
 msgid "<phrase condition=\"capitals-text\">Over</phrase><phrase condition=\"capitals-img\">ver</phrase> the next few weeks, Ada spent her afternoons in the library. She found books and websites that explained how programming languages and code worked. For Ada, it felt a bit like learning a secret language, or like studying vocabulary in school. Ada ate it all up. She expected her first program to do something simple: “Make this lamp blink!”"
-msgstr "<phrase condition=\"capitals-text\">In</phrase><phrase condition=\"capitals-img\">n</phrase> de daaropvolgende weken bracht Ada haar middagen door in de bibliotheek. Ze vond boeken en websites die uitlegden hoe programmeer­talen en code werkte. Voor Ada voelde het een beetje als het leren van een geheimtaal, of het vergroten van de woordenschat op school. Ada kon er geen genoeg van krijgen. Ze verwachtte dat haar eerste programma iets simpels zou doen: ‘Laat dit lampje knipperen!’"
+msgstr "<phrase condition=\"capitals-text\">In</phrase><phrase condition=\"capitals-img\">n</phrase> de daaropvolgende weken bracht Ada haar middagen door in de bibliotheek. Ze vond boeken en websites die uitlegden hoe programmeer­talen en code werkten. Voor Ada voelde het een beetje als het leren van een geheimtaal, of het vergroten van de woordenschat op school. Ada kon er geen genoeg van krijgen. Ze verwachtte dat haar eerste programma iets simpels zou doen: ‘Laat dit lampje knipperen!’"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:704
@@ -915,7 +915,7 @@ msgstr "Handen die mooie ijshoorntjes vasthouden: blauw ijs met een chocoladehar
 #. (itstool) id: Ada_Zangemann.dbk#para-p35-1
 #: Ada_Zangemann.dbk:838
 msgid "<phrase condition=\"capitals-text\">Every</phrase><phrase condition=\"capitals-img\">very</phrase> day, Ada and her friends made plans together for the afternoon. From a broken ice-cream machine, they built a new one that could make ice cream in every imaginable shape and color. They ate square ice cream, heart-shaped ice cream, and even pyramid-shaped ice cream, as well as strawberry, raspberry, and rainbow ice cream, all with sprinkles and hot fudge — much better than the varieties from the Zangemann machines."
-msgstr "<phrase condition=\"capitals-text\">Elke</phrase><phrase condition=\"capitals-img\">lke</phrase> dag maakte Ada en haar vrienden plannen voor de middag. Uit een kapotte ijsjesmachine bouwden ze een nieuwe die ijs in elke denkbare vorm en kleur kon maken. Ze aten vierkant ijs, hartvormig ijs en zelfs piramidevormig ijs, alsook aardbei, framboos en regenboogijs. En allemaal met discodip en chocodip. Veel beter dan de keuzes uit de Zangemann-machines."
+msgstr "<phrase condition=\"capitals-text\">Elke</phrase><phrase condition=\"capitals-img\">lke</phrase> dag maakten Ada en haar vrienden plannen voor de middag. Uit een kapotte ijsjesmachine bouwden ze een nieuwe die ijs in elke denkbare vorm en kleur kon maken. Ze aten vierkant ijs, hartvormig ijs en zelfs piramidevormig ijs, alsook aardbei, framboos en regenboogijs. En allemaal met discodip en chocodip. Veel beter dan de keuzes uit de Zangemann-machines."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:839
