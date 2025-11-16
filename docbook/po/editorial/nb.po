@@ -41,7 +41,6 @@ msgstr ""
 #. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
 #. but some variants are generated in the automation.
 #: Ada_Zangemann.dbk:314
-#, fuzzy
 msgid "images/illustrations/ada-a01-nosubtitle.ltr.png"
 msgstr "images/illustrations/ada-a01-nosubtitle-fsfe.ltr.png"
 
