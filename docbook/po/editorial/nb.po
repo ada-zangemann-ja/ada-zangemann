@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-06-17 20:33+0200\n"
+"POT-Creation-Date: 2025-11-16 18:24+0100\n"
 "PO-Revision-Date: 2025-07-21 07:27+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -41,8 +41,9 @@ msgstr ""
 #. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
 #. but some variants are generated in the automation.
 #: Ada_Zangemann.dbk:314
+#, fuzzy
 msgid "images/illustrations/ada-a01-nosubtitle.ltr.png"
-msgstr ""
+msgstr "images/illustrations/ada-a01-nosubtitle-fsfe.ltr.png"
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
