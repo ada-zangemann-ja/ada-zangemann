@@ -318,6 +318,20 @@ $(targets-coverhard-text): build/Ada_Zangemann-coverhard-text.%.sla: \
 	templates/template-coverhard.sla \
 	> $@.log 2>&1
 
+# Build version with text subtitle
+targets-coversoft-216x216x4_728x3_175-text = $(addprefix build/Ada_Zangemann-coversoft-216x216x4_728x3_175-text.,$(addsuffix .sla,$(languages)))
+$(targets-coversoft-216x216x4_728x3_175-text): build/Ada_Zangemann-coversoft-216x216x4_728x3_175-text.%.sla: \
+ build/Ada_Zangemann.%.dbk \
+ build/images/illustrations/all \
+ build/images/capitals \
+ xsl/scribus.xsl
+	xsltproc -o $@ --verbose \
+	--stringparam docbook-contents-file ../$< \
+	--stringparam profile.condition "capitals-text;cover-print-text;colophon-halfpage" \
+	xsl/scribus.xsl \
+	templates/template-coversoft-216x216x4_728x3_175.sla \
+	> $@.log 2>&1
+
 # Build version with no conditional content (for debugging)
 build/Ada_Zangemann-print-headings-none.%.sla: \
  build/Ada_Zangemann.%.dbk \
