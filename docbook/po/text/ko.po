@@ -33,18 +33,6 @@ msgstr "에이다와 장기만 아저씨"
 msgid "A Tale of Software, Skateboards, and Raspberry Ice Cream"
 msgstr "소프트웨어와 스케이트보드와 라즈베리 아이스크림에 대한 이야기"
 
-#. (itstool) path: info/biblioid
-#. ISBN of print edition
-#: Ada_Zangemann.dbk:264
-msgid "978-1-7185-0318-2"
-msgstr ""
-
-#. (itstool) path: info/biblioid
-#. ISBN of ebook edition
-#: Ada_Zangemann.dbk:265
-msgid "978-1-7185-0319-9"
-msgstr ""
-
 #. (itstool) path: info/author
 #. ignore-same
 #: Ada_Zangemann.dbk:267

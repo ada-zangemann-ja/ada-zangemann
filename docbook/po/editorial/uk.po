@@ -16,6 +16,18 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Weblate 5.12-dev\n"
 
+#. (itstool) path: info/biblioid
+#. ISBN of print edition
+#: Ada_Zangemann.dbk:264
+msgid "978-1-7185-0318-2"
+msgstr "978-1-7185-0318-2"
+
+#. (itstool) path: info/biblioid
+#. ISBN of ebook edition
+#: Ada_Zangemann.dbk:265
+msgid "978-1-7185-0319-9"
+msgstr "978-1-7185-0319-9"
+
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
 #. Link to the image. Only needs to be changed if the image is localized.

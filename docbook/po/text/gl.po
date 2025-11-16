@@ -33,18 +33,6 @@ msgstr "Ada e Zangemann"
 msgid "A Tale of Software, Skateboards, and Raspberry Ice Cream"
 msgstr "Unha historia sobre o soporte lóxico, monopatíns e xeado de framboesa"
 
-#. (itstool) path: info/biblioid
-#. ISBN of print edition
-#: Ada_Zangemann.dbk:264
-msgid "978-1-7185-0318-2"
-msgstr "978-1-7185-0318-2"
-
-#. (itstool) path: info/biblioid
-#. ISBN of ebook edition
-#: Ada_Zangemann.dbk:265
-msgid "978-1-7185-0319-9"
-msgstr "978-1-7185-0319-9"
-
 #. (itstool) path: info/author
 #. ignore-same
 #: Ada_Zangemann.dbk:267
