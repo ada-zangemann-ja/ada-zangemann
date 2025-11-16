@@ -72,7 +72,7 @@ msgstr ""
 #. but some variants are generated in the automation.
 #: Ada_Zangemann.dbk:347
 msgid "images/illustrations/ada-a01-spine.ltr.btt.png"
-msgstr ""
+msgstr "images/illustrations/ada-a01-spine-lines.png"
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
