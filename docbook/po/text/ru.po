@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-10-16 21:28+0200\n"
-"PO-Revision-Date: 2025-11-16 05:26+0000\n"
-"Last-Translator: Elvira Pescu <elvirapesku@gmail.com>\n"
+"PO-Revision-Date: 2025-11-16 07:14+0000\n"
+"Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/fsfe/ada-zangemann/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -640,7 +640,7 @@ msgstr "Программирование"
 #. (itstool) id: Ada_Zangemann.dbk#para-p22-1
 #: Ada_Zangemann.dbk:703
 msgid "<phrase condition=\"capitals-text\">Over</phrase><phrase condition=\"capitals-img\">ver</phrase> the next few weeks, Ada spent her afternoons in the library. She found books and websites that explained how programming languages and code worked. For Ada, it felt a bit like learning a secret language, or like studying vocabulary in school. Ada ate it all up. She expected her first program to do something simple: “Make this lamp blink!”"
-msgstr "<phrase condition=\"capitals-text\">В течение следующих недель Ада проводила вечера в библиотеке. Она нашла книги и сайты, где объяснялось как работают языки программирования и код. Для Ады это было похоже на изучение секретного языка или на изучение словаря в школе. Ада впитывала все как губка. Она предполагала, что ее первая программа будет выполнять что-то простое: «Заставь эту лампу мигать!»"
+msgstr "<phrase condition=\"capitals-text\">В</phrase><phrase condition=\"capitals-img\"></phrase> течение следующих недель Ада проводила вечера в библиотеке. Она нашла книги и сайты, где объяснялось как работают языки программирования и код. Для Ады это было похоже на изучение секретного языка или на изучение словаря в школе. Ада впитывала все как губка. Она предполагала, что ее первая программа будет выполнять что-то простое: «Заставь эту лампу мигать!»"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:704
