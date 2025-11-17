@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2025-11-09 18:51+0000\n"
-"Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
+"PO-Revision-Date: 2025-11-17 17:39+0000\n"
+"Last-Translator: William Weber Berrutti <wwberrutti@protonmail.ch>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/fsfe/ada-zangemann/pt_BR/>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
@@ -97,7 +97,7 @@ msgstr "Toni"
 #. ignore-same
 #: Ada_Zangemann.dbk:294
 msgid "Konrad"
-msgstr "Konrad"
+msgstr "Conrado"
 
 #. (itstool) path: character/charactername
 #. Character names are mostly reference to existing people in computer
@@ -782,7 +782,7 @@ msgstr "“Como você pode andar de skate na calçada?”, perguntaram."
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:765
 msgid "Ada stops on her skateboard surrounded by children. Marie is on one end. She is pointing to Ada’s skateboard and she’s talking. Next to her is Konrad, with short blond hair, a dark gray helmet, glasses, a green shirt with white collar and cuffs, light blue pants with white cuffs, and gray shoes with white soles. He has a red skateboard with orange wheels. Behind Ada there are 4 other children. On the other end Toni is smiling. He touches his chin with one hand while with the other he holds a yellow helmet by the laces."
-msgstr "Ada pára em seu skate cercado por crianças. A Marie está numa ponta. Ela está apontando para o skate de Ada e ela está falando. Próximo dela está Konrad, com cabelo loiro curto, um capacete cinza escuro, óculos, uma camisa verde com colarinho e barras brancas, calças azuis claras com barras brancas, e sapatos cinza com solas brancas. Ele tem um skate vermelho com rodas laranjas. Atrás da Ada há outras 4 crianças. Do outro lado Toni está sorrindo. Ele toca seu queixo com uma mão enquanto com a outra ele segura um capacete amarelo pelos laços."
+msgstr "Ada pára em seu skate cercado por crianças. A Marie está numa ponta. Ela está apontando para o skate de Ada e ela está falando. Próximo dela está Conrado, com cabelo loiro curto, um capacete cinza escuro, óculos, uma camisa verde com colarinho e barras brancas, calças azuis claras com barras brancas, e sapatos cinza com solas brancas. Ele tem um skate vermelho com rodas laranjas. Atrás da Ada há outras 4 crianças. Do outro lado Toni está sorrindo. Ele toca seu queixo com uma mão enquanto com a outra ele segura um capacete amarelo pelos laços."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:769
@@ -815,7 +815,7 @@ msgstr "<phrase condition=\"capitals-text\">Mais</phrase><phrase condition=\"cap
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:787
 msgid "But that wasn’t all. With the software, they could give their skateboards new, cool features. Marie attached colorful LED lights to her board that glowed different colors depending on the speed. Konrad built old propellers onto his skateboard for extra speed."
-msgstr "Mas isso não era tudo. Com o software, eles poderiam dar recursos novos e legais em seus skates. Marie anexou luzes coloridas de LED em sua prancha que brilhava cores diferentes, dependendo da velocidade. Konrad construiu hélices velhas em seu skate para velocidade extra."
+msgstr "Mas isso não era tudo. Com o software, eles poderiam dar recursos novos e legais em seus skates. Marie anexou luzes coloridas de LED em sua prancha que brilhava cores diferentes, dependendo da velocidade. Conrado construiu hélices velhas em seu skate para velocidade extra."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -827,7 +827,7 @@ msgstr "Uma bateria verde com fios vermelhos e amarelos, uma tira de energia, co
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:796
 msgid "Ada, Toni, Marie, and Konrad spent many afternoons at the junkyard. They even set up a real workshop where they could fine-tune their programs for hours, listening all the while to music from the speakers Ada had built for Alan."
-msgstr "Ada, Toni, Marie e Konrad passaram muitas tardes no ferro-velho. Eles até montaram uma oficina real onde eles poderiam ajustar seus programas por horas, ouvindo o tempo todo a música dos alto-falantes que Ada tinha construído para Alan."
+msgstr "Ada, Toni, Marie e Conrado passaram muitas tardes no ferro-velho. Eles até montaram uma oficina real onde eles poderiam ajustar seus programas por horas, ouvindo o tempo todo a música dos alto-falantes que Ada tinha construído para Alan."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:797
@@ -851,14 +851,14 @@ msgstr "Uma chave de fenda com alça laranja e cinza, alicate vermelho e três L
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:811
 msgid "Laboratory at the junkyard, under the veranda of Ada’s house. Ada is sitting on a water case with a leg bent under her, using a soldering iron. Konrad is standing next to her and dismounting a speaker. Marie is sitting on two tires with an arm resting on a table and her upside-down skateboard from which wires come out. She is talking with Alan, who is standing with his arms resting on the same table. On the table there are also: pliers, two wrenches, a spool of solder, a can of blue paint (a bit of paint has dried on the table), and a pitcher and two glasses containing a pink drink. Toni is testing his skateboard with added yellow wings and a fan. It burps."
-msgstr "Laboratório no ferro-velho, debaixo da varanda da casa de Ada. Ada está sentada em uma caixa d'água com uma perna dobrada sob ela, usando um ferro de solda. Konrad está ao lado dela e desmontando um alto-falante. Marie está sentada em dois pneus com um braço em cima de uma mesa e seu skate de cabeça para baixo de onde os fios saem. Ela está falando com Alan, que está de pé com seus braços descansando na mesma mesa. Na mesa há também: alicates, duas chaves inglesas, um carretel de solda, uma lata de tinta azul (um pouco de tinta secou sobre a mesa), e um jarro e dois copos contendo uma bebida rosa. Toni está testando seu skate com asas amarelas adicionadas e um ventilador. O skate arrota."
+msgstr "Laboratório no ferro-velho, debaixo da varanda da casa de Ada. Ada está sentada em uma caixa d'água com uma perna dobrada sob ela, usando um ferro de solda. Conrado está ao lado dela e desmontando um alto-falante. Marie está sentada em dois pneus com um braço em cima de uma mesa e seu skate de cabeça para baixo de onde os fios saem. Ela está falando com Alan, que está de pé com seus braços descansando na mesma mesa. Na mesa há também: alicates, duas chaves inglesas, um carretel de solda, uma lata de tinta azul (um pouco de tinta secou sobre a mesa), e um jarro e dois copos contendo uma bebida rosa. Toni está testando seu skate com asas amarelas adicionadas e um ventilador. O skate arrota."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:819
 msgid "Marie and Ada’s mom are dancing, facing each other. Alan, Ada, and Konrad are dancing in a circle. On the right there is a speaker playing, resting on an oil drum. Near the speaker there are two dancing mice. Toni is jumping through the tires. Ada’s dog is howling, and from his mouth come two distorted musical notes."
-msgstr "A mãe de Marie e Ada estão dançando, frente a frente. Alan, Ada e Konrad estão dançando em círculo. À direita há um alto-falante tocando, descansando em um tambor de óleo. Perto do alto-falante há dois ratos dançando. Toni está a saltar pelos pneus. O cão de Ada está uivando, e de sua boca vêm duas notas musicais distorcidas."
+msgstr "A mãe de Marie e Ada estão dançando, frente a frente. Alan, Ada e Conrado estão dançando em círculo. À direita há um alto-falante tocando, descansando em um tambor de óleo. Perto do alto-falante há dois ratos dançando. Toni está a saltar pelos pneus. O cão de Ada está uivando, e de sua boca vêm duas notas musicais distorcidas."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -961,7 +961,7 @@ msgstr "A cada dia que passava, mais e mais crianças e adultos se juntavam ao p
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:895
 msgid "Group of protesters. Among them there are: Ada’s mother holding Alan’s hand and raising a pink ice cream; 3 colleagues of Toni’s father dressed in ties; two children holding the banner “Do your homework Mr. President and we will do ours!”; a robot with tank treads, irons as feet, an electric fan as abdomen, a monitor as head, and an eggbeater as one hand, holding a blue ice cream in his other hand; two parents holding the banner “Hacking 4 Freedom”; a lady holding an electronic sign “There is a code B”; two small birds, flying; the math teacher, Ms. Gernet, who has inserted in her cart a sign that says “They are young + need the code!“ The dog in her cart is barking; Ada and Konrad are carrying the banner “Don’t wreck our tech!” Marie and Toni are walking beneath the banner, and Marie is talking through a bullhorn held in her hand; Ada’s family’s dog is now wearing a red harness with shiny yellow LEDs that matches the collar."
-msgstr "Grupo de manifestantes. Entre eles estão: A mãe de Ada segurando a mão de Alan e levantando um sorvete rosa; 3 colegas do pai de Toni vestidos com gravatas; duas crianças segurando o cartaz “Faça seu dever de casa Sr. Presidente e nós faremos o nosso!”; um robô com pisos de tanque, ferros como pés, um ventilador elétrico como abdômen, um monitor como cabeça, e um batedor de ovos como uma mão, segurando um sorvete azul em sua outra mão; dois pais segurando o cartaz “Hacking pela Liberdade”; uma senhora segurando um sinal eletrônico “Há um código B”; dois pássaros pequenos, voando; a professora de matemática, Sra. Gernet, que inseriu em seu carrinho um sinal que diz “Eles são jovens + precisam do código!“ O cão em seu carrinho está latindo; Ada e Konrad estão carregando o banner “Não destrua nossa tecnologia!” Marie e Toni estão andando por baixo da bandeira, e Marie está falando através de um megafone segurado em sua mão; o cão da família de Ada está agora usando um arnês vermelho com LEDs amarelos brilhantes que combinam com o colarinho."
+msgstr "Grupo de manifestantes. Entre eles estão: A mãe de Ada segurando a mão de Alan e levantando um sorvete rosa; 3 colegas do pai de Toni vestidos com gravatas; duas crianças segurando o cartaz “Faça seu dever de casa Sr. Presidente e nós faremos o nosso!”; um robô com pisos de tanque, ferros como pés, um ventilador elétrico como abdômen, um monitor como cabeça, e um batedor de ovos como uma mão, segurando um sorvete azul em sua outra mão; dois pais segurando o cartaz “Hacking pela Liberdade”; uma senhora segurando um sinal eletrônico “Há um código B”; dois pássaros pequenos, voando; a professora de matemática, Sra. Gernet, que inseriu em seu carrinho um sinal que diz “Eles são jovens + precisam do código!“ O cão em seu carrinho está latindo; Ada e Conrado estão carregando o banner “Não destrua nossa tecnologia!” Marie e Toni estão andando por baixo da bandeira, e Marie está falando através de um megafone segurado em sua mão; o cão da família de Ada está agora usando um arnês vermelho com LEDs amarelos brilhantes que combinam com o colarinho."
 
 #. (itstool) path: info/excerpt
 #. Text on big banner, left on the illustration
@@ -981,7 +981,7 @@ msgstr "Detalhe da imagem anterior: duas crianças segurando o banner “Faça s
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:912
 msgid "Detail of the previous image: Ada and Konrad are carrying the banner “Don’t wreck our tech!” Marie and Toni are walking beneath the banner, and Marie is talking through a bullhorn held in her hand; Ada’s family’s little dog is now wearing a red harness with shiny yellow LEDs that matches the collar."
-msgstr "Detalhe da imagem anterior: Ada e Konrad estão carregando o estandarte “Não destrua nossa tecnologia!” Marie e Toni estão andando por baixo do estandarte, e Marie está falando através de um megafone segurado em sua mão; o cachorrinho da família de Ada está agora usando um arnês vermelho com LEDs amarelos brilhantes que combinam com o colarinho."
+msgstr "Detalhe da imagem anterior: Ada e Conrado estão carregando o estandarte “Não destrua nossa tecnologia!” Marie e Toni estão andando por baixo do estandarte, e Marie está falando através de um megafone segurado em sua mão; o cachorrinho da família de Ada está agora usando um arnês vermelho com LEDs amarelos brilhantes que combinam com o colarinho."
 
 #. (itstool) path: info/excerpt
 #. Text on square signe on the right of the illustration
@@ -1040,7 +1040,7 @@ msgstr "Naquela noite, as crianças foram para casa orgulhosas e satisfeitas. Al
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:943
 msgid "Ada and her friends in the President’s office. Ada is reprogramming the President’s computer. Toni is setting up a speaker for the President’s secretary. Marie and Konrad are sitting on the floor and talking, and Marie has a laptop on her legs with an FSFE logo sticker (three stars: pea green, sky blue, and sea blue). On the floor are a bowl with candy and a plate with ice creams. The President’s phone is ringing, but nobody is answering."
-msgstr "Ada e seus amigos no escritório do presidente. Ada está reprogramando o computador do presidente. Toni está criando um alto-falante para o secretário do Presidente. Marie e Konrad estão sentados no chão e conversando, e Marie tem um laptop em suas pernas com um adesivo de logotipo FSFE (três estrelas: verde ervilha, azul céu e azul mar). No chão há uma tigela com doces e um prato com sorvetes. O telefone do presidente está tocando, mas ninguém atende."
+msgstr "Ada e seus amigos no escritório do presidente. Ada está reprogramando o computador do presidente. Toni está criando um alto-falante para o secretário do Presidente. Marie e Conrado estão sentados no chão e conversando, e Marie tem um laptop em suas pernas com um adesivo de logotipo FSFE (três estrelas: verde ervilha, azul céu e azul mar). No chão há uma tigela com doces e um prato com sorvetes. O telefone do presidente está tocando, mas ninguém atende."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:949
@@ -1051,7 +1051,7 @@ msgstr "Nova lei"
 #. (itstool) id: Ada_Zangemann.dbk#para-p44-1
 #: Ada_Zangemann.dbk:952
 msgid "<phrase condition=\"capitals-text\">The</phrase><phrase condition=\"capitals-img\">he</phrase> next morning, the president’s phone rang very early. It was Zangemann. He was angrier than ever. “Without me, the government computers will no longer work,” he threatened. But the president kept the call short and quickly hung up. The phone rang many more times that day, but Zangemann’s calls went unanswered. The president sat in a meeting with Ada, Toni, Marie, Konrad, and the government experts."
-msgstr "<phrase condition=\"capitals-text\">N</phrase><phrase condition=\"capitals-img\">a</phrase> manhã seguinte, o telefone do presidente tocou muito cedo. Era Zangemann. Ele estava mais zangado do que nunca. “Sem mim, os computadores do governo não funcionarão mais”, ameaçou. Mas o presidente manteve a chamada curta e rapidamente desligou. O telefone tocou muitas mais vezes naquele dia, mas as chamadas de Zangemann ficaram sem resposta. O presidente se reuniu com Ada, Toni, Marie, Konrad e especialistas do governo."
+msgstr "<phrase condition=\"capitals-text\">N</phrase><phrase condition=\"capitals-img\">a</phrase> manhã seguinte, o telefone do presidente tocou muito cedo. Era Zangemann. Ele estava mais zangado do que nunca. “Sem mim, os computadores do governo não funcionarão mais”, ameaçou. Mas o presidente manteve a chamada curta e rapidamente desligou. O telefone tocou muitas mais vezes naquele dia, mas as chamadas de Zangemann ficaram sem resposta. O presidente se reuniu com Ada, Toni, Marie, Conrado e especialistas do governo."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1085,12 +1085,12 @@ msgstr "Além disso, foi introduzida uma nova matéria escolar: hardware e softw
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:970
 msgid "The President with Toni, Konrad, Marie, Ada, and a herald playing a trumpet. Marie is standing on top of a ladder talking into a microphone. Konrad firmly holds the ladder on which Marie is standing. Ada is standing on a chair and holds a copy of the new law bearing a seal. Ada’s dog is sitting in front of her."
-msgstr "O Presidente com Toni, Konrad, Marie, Ada e um arauto tocando um trompete. Marie está em cima de uma escada falando em um microfone. Konrad segura firmemente a escada em que Marie está de pé. Ada está em pé numa cadeira e tem uma cópia da nova lei com um selo. O cão de Ada está sentado na frente dela."
+msgstr "O Presidente com Toni, Conrado, Marie, Ada e um arauto tocando um trompete. Marie está em cima de uma escada falando em um microfone. Conrado segura firmemente a escada em que Marie está de pé. Ada está em pé numa cadeira e tem uma cópia da nova lei com um selo. O cão de Ada está sentado na frente dela."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:975
 msgid "That evening, everyone celebrated with a big party. Ada, Alan, Toni, Marie, Konrad, and other children from school and their parents; the president; Ms. Gernet; the bus driver; the custodian — they were all there. They decorated the streets, listened to loud music, and ate ice cream, as much as they wanted, and in every imaginable shape and color."
-msgstr "Naquela noite, todos celebraram com uma grande festa. Ada, Alan, Toni, Marie, Konrad, e outras crianças da escola e seus pais; o presidente; a Sra. Gernet; o motorista de ônibus; o zelador — eles estavam todos lá. Decoraram as ruas, ouviram música alta, e comeram sorvete, tanto quanto queriam, e em todas as formas e cores imagináveis."
+msgstr "Naquela noite, todos celebraram com uma grande festa. Ada, Alan, Toni, Marie, Conrado, e outras crianças da escola e seus pais; o presidente; a Sra. Gernet; o motorista de ônibus; o zelador — eles estavam todos lá. Decoraram as ruas, ouviram música alta, e comeram sorvete, tanto quanto queriam, e em todas as formas e cores imagináveis."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1109,7 +1109,7 @@ msgstr "Enquanto os outros continuaram a festejar até tarde da noite, Ada e seu
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:989
 msgid "The President, the secretary, and other people around a table enjoying crazy ice cream; yellow and orange flags continue from the previous image; a little girl who just took a pink ghost-shaped ice cream from the modified ice cream machine; Ada’s dog, Konrad, Marie, Ada, and Toni sneaking away from the party."
-msgstr "O presidente, o secretário, e outras pessoas ao redor de uma mesa desfrutando de um sorvete louco; bandeiras amarelas e laranjas continuam a partir da imagem anterior; uma menina que acabou de tomar um sorvete rosa em forma de fantasma da máquina de sorvete modificada; cão de Ada, Konrad, Marie, Ada, e Toni escapando da festa."
+msgstr "O presidente, o secretário, e outras pessoas ao redor de uma mesa desfrutando de um sorvete louco; bandeiras amarelas e laranjas continuam a partir da imagem anterior; uma menina que acabou de tomar um sorvete rosa em forma de fantasma da máquina de sorvete modificada; cão de Ada, Conrado, Marie, Ada, e Toni escapando da festa."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:995
