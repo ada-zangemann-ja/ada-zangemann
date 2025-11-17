@@ -345,6 +345,10 @@ build/Ada_Zangemann-print-headings-none.%.sla: \
 	templates/template-print.sla \
 	> $@.log 2>&1
 
+# Specific output convention for pdf without bleeds or crop marks
+%.screen.pdf: %.sla
+	../scripts/./to_screen_pdf.sh $<
+
 # TODO: add autocompletion for these pdf conversions
 %.pdf: %.sla
 	../scripts/./to_pdf.sh $<
