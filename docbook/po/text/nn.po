@@ -5,14 +5,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2025-04-01 08:49+0200\n"
-"PO-Revision-Date: 2025-04-02 14:01+0200\n"
+"PO-Revision-Date: 2025-11-25 01:50+0100\n"
 "Last-Translator: Kjetil Torgrim Homme <kjetilho@njus.no>\n"
 "Language-Team: \n"
 "Language: nn\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.5\n"
+"X-Generator: Poedit 3.8\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
@@ -632,21 +632,18 @@ msgstr "images/capitals/C-red1.png"
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p06-1
 #: Ada_Zangemann.dbk:673
-#, fuzzy
 msgid "<phrase condition=\"capitals-text\">Computers</phrase><phrase condition=\"capitals-img\">omputers</phrase> had fascinated Zangemann ever since he was a child. When he was young, computers were huge machines with lots of cables and loud, noisy fans. At school, little Zangemann often dreamed of all the things he would do with computers if they were just a little bit smaller — small enough that they could be built into other fun things. He knew what he would do. First, he would build a computer into his skateboard so that it would make cool noises when he rode it — maybe a fire engine siren or the sound of a rocket launch. Then he would use a computer to invent ice‑cream-making machines! The computer would mix the coolest flavors and even sell the ice cream. There would be machines on every street corner, and he could get ice cream in his favorite flavor whenever he felt like it, and just as much as he wanted. After that, he’d build a cleaning robot and a block-sorting machine so that his room would always be neat and clean. Zangemann had great new ideas like these every day. He could think of nothing else."
-msgstr "<phrase condition=\"capitals-text\">Datamaskiner</phrase><phrase condition=\"capitals-img\">atamaskiner</phrase> hadde fascinert Zangemann heilt sidan han var liten. Då han var ung, var datamaskiner digre maskiner med mange kablar og viftar som laga mykje støy. På skulen drøymde vesle Zangemann ofte om alle tinga han ville gjera med datamaskiner viss dei berre var litt mindre — små nok til at dei kunne byggjast inn i alt mogleg morosamt. Først ville han setja ei datamaskin inn i rullebrettet sitt slik at det laga stilige lydar når han rulla på det — kanskje ei brannbilsirene eller lyden av ei rakettoppskyting. Deretter ville han finna opp ei maskin som laga iskrem! Datamaskina kunne blanda dei mest fantastiske variantane og selja isen automatisk. Det skulle vera maskiner på kvart gatehjørne, og han skulle kunna få iskrem med sin favorittsmak når som helst når han hadde lyst. Etter det skulle han laga ein rydderobot og ei maskin som kunne sortera byggjeklossar, slik at rommet hans alltid ville vera ryddig. Zangemann hadde nye idear som desse kvar einaste dag. Det var det einaste han kunne tenkja på."
+msgstr "<phrase condition=\"capitals-text\">Datamaskiner</phrase><phrase condition=\"capitals-img\">atamaskiner</phrase> hadde fascinert Zangemann heilt sidan han var liten. Då han var ung, var datamaskiner digre maskiner med mange kablar og vifter som laga mykje støy. På skulen drøymde vesle Zangemann ofte om alle tinga han ville gjera med datamaskiner viss dei berre var litt mindre — små nok til at dei kunne byggjast inn i alt mogleg morosamt. Først ville han setja ei datamaskin inn i rullebrettet sitt slik at det laga stilige lydar når han rulla på det — kanskje ei brannbilsirene eller lyden av ei rakettoppskyting. Deretter ville han finna opp ei maskin som laga iskrem! Datamaskina kunne blanda dei mest fantastiske variantane og selja isen automatisk. Det skulle vera maskiner på kvart gatehjørne, og han skulle kunna få iskrem med sin favorittsmak når som helst han hadde lyst. Etter det skulle han laga ein rydderobot og ei maskin som kunne sortera byggjeklossar, slik at rommet hans alltid ville vera ryddig. Zangemann hadde nye idear som desse kvar einaste dag. Det var det einaste han kunne tenkja på."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:674
-#, fuzzy
 msgid "As the years went by, Zangemann grew bigger and computers got smaller. In fact, by the time he finished school, they were so small they fit in his pocket. The smallest ones even fit on his fingertip."
-msgstr "Og faktisk, jo større Zangemann vart, jo mindre vart datamaskinene. Då han endeleg var ferdig med skulen, hadde dei vorte så små at dei fekk plass i lomma hans. Dei minste fekk til og med plass på fingerspissen hans."
+msgstr "Og faktisk, jo større Zangemann vart, jo mindre vart datamaskinene. Då han endeleg var ferdig med skulen, var dei så små at dei fekk plass i lomma hans. Dei minste fekk til og med plass på fingertuppen hans."
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
 #. Link to the image. Only needs to be changed if the image is localized.
 #: Ada_Zangemann.dbk:679
-#, fuzzy
 msgid "images/illustrations/ada-p07.png"
 msgstr "images/illustrations/ada-p07.png"
 
@@ -654,13 +651,11 @@ msgstr "images/illustrations/ada-p07.png"
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired.
 #: Ada_Zangemann.dbk:681
-#, fuzzy
 msgid "Zangemann as a child on a chair at a school table. From his head come six bubbles in which there are his ideas of places in which to insert computers: a video call system, a speaker, a washing machine, a skateboard with radio control on a big computer monitor, a wrist computer, and a shoulder computer with a monitor and keyboard. Zangemann has gray hair, a dark purple shirt with blue horizontal stripes, blue shorts, brown shoes and white socks. He wears glasses and a big watch on his left wrist. On the table there are an open notebook, a yellow pencil, and an eraser, while hanging on the side of the table there is his brown briefcase."
-msgstr "Zangemann som barn på ein stol ved ein skulepult. Frå hovudet hans kjem det seks bobler med ideane hans inni om plassar der ein kan baka inn datamaskiner: eit videosamtalesystem, ein høgtalar, ei vaskemaskin, eit rullebrett med radiofjernstyring på ein stor dataskjerm, ei armbanddatamaskin og ei skulderdatamaskin med skjerm og tastatur. Zangemann har grått hår, ei mørk lilla skjorte med blå horisontale striper, blå kortbukser, brune sko og kvite sokkar. Han har briller og ei stor klokke på sit venstre handledd. På bordet er det ei open notatbok, ein gul blyant og eit viskelêr, medan hans bruka stresskoffert heng på sida av bordet."
+msgstr "Zangemann som barn på ein stol ved ein skulepult. Frå hovudet hans kjem det seks bobler med ideane hans om plassar der ein kan baka inn datamaskiner: eit videosamtalesystem, ein høgtalar, ei vaskemaskin, eit rullebrett med radiofjernstyring på ein stor dataskjerm, ei armbanddatamaskin og ei skulderdatamaskin med skjerm og tastatur. Zangemann har grått hår, ei mørk lilla skjorte med blå horisontale striper, blå kortbukser, brune sko og kvite sokkar. Han har briller og ei stor klokke på venstre handledd. På bordet er det ei open notatbok, ein gul blyant og eit viskelêr, medan hans brune stresskoffert heng på sida av bordet."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:687
-#, fuzzy
 msgid "“Finally, I can turn all my ideas into real things!” Zangemann exclaimed, and he got right to work. He found ways to put the small computers into all kinds of things to make them even more fun and useful. And then he sold them."
 msgstr "«Endeleg kan eg gjera alvor av alle ideane mine!», utbraut Zangemann, og gjekk straks i gang med arbeidet. Han fann måtar å putta små datamaskiner inn i alle slags ting for å gjera dei endå meir brukbare. Og så selde han dei."
 
@@ -668,7 +663,6 @@ msgstr "«Endeleg kan eg gjera alvor av alle ideane mine!», utbraut Zangemann, 
 #. (itstool) comment: imageobject/imagedata@fileref
 #. Link to the image. Only needs to be changed if the image is localized.
 #: Ada_Zangemann.dbk:690
-#, fuzzy
 msgid "images/illustrations/ada-p08b.png"
 msgstr "images/illustrations/ada-p08b.png"
 
@@ -676,21 +670,18 @@ msgstr "images/illustrations/ada-p08b.png"
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired.
 #: Ada_Zangemann.dbk:692
-#, fuzzy
 msgid "Zangemann original ice cream machine. It is ice blue in color and is similar to a vending machine of drinks, but instead of the cup there is a cone that is filled with ice cream. Above the dispenser there is a monitor showing the variety that is distributed, in this case pineapple ice cream. On the left there are the slot for inserting coins, the various buttons to choose the flavor, and the hole for returning coins. At the top there is a round white sign with a scoop of candy-pink ice cream in a cone. On the back of the machine there is the refrigeration machinery with the “Z” of the Zangemann logo."
-msgstr "Orignal Zangemann iskremmaskin. Dens farge er isblå og liknar på ein drikke-automat, men i staden for koppen er det ei kjegle som er fylt med iskrem. Over dispenseren er det ein skjerm som viser kva variant som blir delt ut, i dette tilfellet ein ananasiskrem. Til venstre er det eit opning for å leggja på myntar, ulike knappar for å velja smak og eit hol for myntretur. På toppen er det eit rundt kvitt skilt med ei kule med godterirosa iskrem i ei kjegle. På baksida av maskina er det kjølemaskineri med «Z»-logoen til Zangeman."
+msgstr "Original Zangemann iskremmaskin. Fargen er isblå og liknar på ein drikkeautomat, men i staden for koppen, er det ei kjegle som er fylt med iskrem. Over dispenseren er det ein skjerm som viser kva variant som blir delt ut, i dette tilfellet ein ananas-iskrem. Til venstre er det eit opning for å leggja på myntar, ulike knappar for å velja smak og eit hol for myntretur. På toppen er det eit rundt kvitt skilt med ei kule med godterirosa iskrem i ei kjegle. På baksida av maskina er det kjølemaskineri med «Z»-logoen til Zangeman."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:696
-#, fuzzy
 msgid "Adults and children loved his inventions. All the kids wanted to have one of his skateboards — complete with the latest sounds to show off to their friends at school. Kids also loved his speaker invention, which could instantly play any song you requested. And, of course, everyone loved the ice cream served every afternoon from the automatic, extra-delicious Original Zangemann Ice Cream Machine. It all seemed like magic, but the secret was simple: the little computers that Zangemann built into his machines made it all possible."
-msgstr "Barn og vaksne elska oppfinningane hans. Alle barna ville ha eit av rullebretta hans med dei siste lydane bygd inn, slik at dei kunne visa dei til vennene sine på skulen. Dei elska også dei smarte høgtalarane hans som kunne spela akkurat den songen ein ønskt seg. Og dei som framleis hadde nokre lommepengar igjen, dei kjøpte isen som vart servert kvar ettermiddag frå den automatiske Original Zangemann iskremmaskinen. Det var som magi, men i røyndommen var det heile veldig enkelt: det var små datamaskiner som Zangemann hadde bygd inn i maskinene sine som gjorde det heile mogleg."
+msgstr "Barn og vaksne elska oppfinningane hans. Alle barna ville ha eit av rullebretta hans med dei siste lydane bygd inn, slik at dei kunne visa dei til vennene sine på skulen. Dei elska også dei smarte høgtalarane hans som kunne spela akkurat den songen du ønskte deg. Og dei som framleis hadde nokre lommepengar igjen, dei kjøpte isen som vart servert kvar ettermiddag frå ein automatisk Original Zangemann iskremmaskin. Det var som magi, men i røyndommen var det heile veldig enkelt: det var små datamaskiner som Zangemann hadde bygd inn i maskinene sine som gjorde det heile mogleg."
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
 #. Link to the image. Only needs to be changed if the image is localized.
 #: Ada_Zangemann.dbk:699
-#, fuzzy
 msgid "images/illustrations/ada-p08a.png"
 msgstr "images/illustrations/ada-p08a.png"
 
@@ -698,7 +689,6 @@ msgstr "images/illustrations/ada-p08a.png"
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired.
 #: Ada_Zangemann.dbk:701
-#, fuzzy
 msgid "An original Zangemann electric skateboard leaving a blue trail with musical notes and colored circles. Only the knees, white socks, and olive green shoes with white soles of the child riding it are shown."
 msgstr "Eit originalt Zangemann elektrisk rullebrett som etterlèt seg ein blå hale av musikknotar og farga sirklar. Det blir berre vist knea, kvite sokkar og olivengrøne sko med kvite soler frå eit barn som køyrer det."
 
@@ -706,7 +696,6 @@ msgstr "Eit originalt Zangemann elektrisk rullebrett som etterlèt seg ein blå 
 #. (itstool) comment: imageobject/imagedata@fileref
 #. Link to the image. Only needs to be changed if the image is localized.
 #: Ada_Zangemann.dbk:707
-#, fuzzy
 msgid "images/illustrations/ada-p09.png"
 msgstr "images/illustrations/ada-p09.png"
 
@@ -714,37 +703,31 @@ msgstr "images/illustrations/ada-p09.png"
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired.
 #: Ada_Zangemann.dbk:709
-#, fuzzy
 msgid "Ada tinkers with objects in her improvised lab. Ada is sitting on an overturned water case, and working on a repair with a yellow screwdriver. Also on the table are green pliers, a red hammer, a white power strip, and another gadget. Ada is at a table consisting of a wooden board supported by two oil drums (one gray and one red) and a small wooden sawhorse. Behind Ada there are a washing machine, pipes, and a board. In front of the improvised table there are tires and an old phone with faulty wire. Alan is coming toward Ada holding a yellow fan over his head. Alan now wears white socks and yellow shoes."
-msgstr "Ada fiklar med ting i sitt improviserte laboratorium. Ada sit på ein opp-ned vasstank og held på med ein reparasjon med ein gul skrutrekkjar. På bordet er det i tillegg grøne tenger, ein raud hammar, ei kvit straumpadde og ein annan dings. Ada sit ved eit bord som består av ei treplate støtta opp av to oljetønner (ein grå og ein raud), og ein liten sagstol av tre. Bak Ada er det ei vaskemaskin, røyr og eit bord. Framfor det improviserte bordet er det dekk og ein gammal telefon med øydelagd leidning. Alan kjem mot Ada med ei gul vifte over hovudet. Alan har no kvite sokkar og gule sko."
+msgstr "Ada fiklar med ting i sitt improviserte laboratorium. Ada sit på ein opp-ned vasstank og held på å reparera med ein gul skrutrekkjar. På bordet er det i tillegg grøne tenger, ein raud hammar, ei kvit straumpadde og ein annan dings. Ada sit ved eit bord som består av ei treplate støtta opp av to oljetønner (ei grå og ei raud), og ein liten sagstol av tre. Bak Ada er det ei vaskemaskin, røyr og eit bord. Framfor det improviserte bordet er det dekk og ein gammal telefon med øydelagd leidning. Alan kjem mot Ada med ei gul vifte over hovudet. Alan har no kvite sokkar og gule sko."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:711
-#, fuzzy
 msgid "These inventions were very popular at Ada’s school, and many of her friends rode around on the cool skateboards. Ada was often sad, since her mother couldn’t buy her any of those great things: no skateboard, no speakers, no ice cream."
 msgstr "Også på Adas skule var oppfinningane veldig populære, og mange av vennene hennar køyrde rundt på dei stilige rullebretta. Ada var ofte lei seg sidan mor hennar ikkje hadde råd til nokon av dei fantastiske tinga. Verken rullebrett, høgtalarar eller is."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:713
-#, fuzzy
 msgid "Luckily, Ada lived right next to the junkyard. There were lots of broken gadgets and rusty parts, which she put together to make cool new things, like a soapbox she and Alan rode roaring down the hill, a windmill, and scary junk monsters, which she and Alan would fight together. She also found many useful items—an old cell phone, for example. The screen was cracked, but she could fix that, and while there wasn’t internet at the junkyard, she could get access somewhere else."
-msgstr "Heldigvis budde Ada like ved skraphaugen. Der var det flest øydelagde apparat og rustne reservedelar, som ho bygde seg ting med: Ein olabil, som ho og veslebror Alan køyrde ned bakken i, ei vindmølle og nokre skremmande søppelmonster som ho og Alan kunne slåst mot. Ho fann også mange ting som framleis fungerte: Ein gammal mobiltelefon, til dømes. Det var sprekk i skjermen, men det kunne ho ordna. Det var ikkje noko bra Internett på skraphaugen, men det kunne ho få tilgang til andre stader."
+msgstr "Heldigvis budde Ada like ved skraphaugen. Der var det mange øydelagde apparat og rustne reservedelar, som ho bygde seg ting med: Ein olabil, som ho og veslebror Alan køyrde ned bakken i, ei vindmølle og nokre skremmande søppelmonster som ho og Alan kunne slåst mot. Ho fann også mange ting som framleis fungerte: Ein gammal mobiltelefon, til dømes. Det var sprekk i skjermen, men det kunne ho ordna. Det var ikkje noko bra Internett på skraphaugen, men det kunne ho få tilgang til andre stader."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:714
-#, fuzzy
 msgid "Ada had so much fun tinkering in the junkyard and fixing broken things that she forgot all about the skateboards and the ice cream."
 msgstr "Ada hadde det så morosamt med å fikla på skraphaugen og fiksa øydelagde ting at ho gløymde alt om rullebretta og iskremen."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:718
-#, fuzzy
 msgid "Because everyone bought his inventions, Zangemann soon became the richest person in the whole world. With all his money, he bought a huge golden computer with a keyboard made of jewels and set it up in the largest room of his mansion. From there, over the internet, he could control all the little computers built into his inventions."
 msgstr "Sidan alle kjøpte oppfinningane hans, vart Zangemann raskt den rikaste personen i heile verda. Med alle pengane sine kjøpte han seg ei datamaskin av gull med eit tastatur av edelsteinar, som han sette opp i det største rommet i huset sitt. Frå den kunne han via Internettet kontrollera alle dei små datamaskinene som var bygd inn i oppfinningane hans."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:719
-#, fuzzy
 msgid "All he had to do was press the proper key on the golden computer, and immediately all the ice-cream machines in town would dispense only vanilla ice cream. If Zangemann wanted people to eat chocolate ice cream, he pressed the key for chocolate ice cream. If he gave the order for lemon ice cream, the machines made only lemon ice cream. Zangemann loved his inventions and was always thrilled at how amazingly well his machines worked. Sometimes people were disappointed when their favorite flavor wasn’t available, but what could they do? After all, there was ice cream on every street corner."
 msgstr "Alt han trong å gjera var å trykkja på dei rette knappane på den gylne datamaskina, og straks ville alle iskremmaskinane i byen berre laga vaniljeis. Når Zangemann ville at folka skulle eta sjokoladeis, så trykte han på tastekombinasjonen for sjokoladeis. Viss han beordra sitronis, så produserte maskinene berre sitronis. Zangemann elska oppfinningane sine og var alltid begeistra over å sjå kor godt maskinene hans fungerte. Nokre gonger vart folka skuffa over at deira favorittsmak ikkje var tilgjengeleg, men kva skulle dei gjera? Ein kunne trass alt få iskrem på kvart gatehjørne."
 
@@ -752,7 +735,6 @@ msgstr "Alt han trong å gjera var å trykkja på dei rette knappane på den gyl
 #. (itstool) comment: imageobject/imagedata@fileref
 #. Link to the image. Only needs to be changed if the image is localized.
 #: Ada_Zangemann.dbk:722
-#, fuzzy
 msgid "images/illustrations/ada-p10.png"
 msgstr "images/illustrations/ada-p10.png"
 
@@ -760,21 +742,18 @@ msgstr "images/illustrations/ada-p10.png"
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired.
 #: Ada_Zangemann.dbk:724
-#, fuzzy
 msgid "A white power strip attached to a wall socket. The power strip has 3 sockets and a green switch. One of the sockets is attached to a plug with a gray cable."
 msgstr "Ei kvit straumpadde kopla til ein veggkontakt. Straumpadda har tre stikk og ein grøn brytar. Eit av stikka er kopla til ein kontakt med ein grå kabel."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:728
-#, fuzzy
 msgid "Zangemann had a lot of fun pressing the sparkling keys and watching people eat ice cream. He spent many hours every day in front of his golden computer doing this. Again and again, he looked down on the city through a long telescope, observing how reliably his inventions carried out his commands."
-msgstr "Zangemann hadde mykje moro med å trykkja på dei skinnande tastane og sjå folk eta iskrem. Kvar dag brukte han mange timar føre den gylne datamaskina si. Igjen og igjen kikka han ned på byen gjennom eit langt teleskop og så kor trufast oppfinningane hans utførte ordrane han gav dei."
+msgstr "Zangemann hadde mykje moro med å trykkja på dei skinnande tastane og sjå folk eta iskrem. Kvar dag brukte han mange timar føre den gylne datamaskina si. Igjen og igjen kikka han ned på byen gjennom eit langt teleskop og såg kor trufast oppfinningane hans utførte ordrane han gav dei."
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
 #. Link to the image. Only needs to be changed if the image is localized.
 #: Ada_Zangemann.dbk:731
-#, fuzzy
 msgid "images/illustrations/ada-p11.png"
 msgstr "images/illustrations/ada-p11.png"
 
@@ -782,13 +761,11 @@ msgstr "images/illustrations/ada-p11.png"
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired.
 #: Ada_Zangemann.dbk:733
-#, fuzzy
 msgid "Zangeman sitting in front of his golden computer on a golden armchair with a very tall red padded backrest at whose top is the “Z” of the Zangemann logo. He is wearing a purple turtle-neck sweater and light blue trousers. The computer has four ornate monitors of various sizes, each of which has the logo on the back. It is integrated into a costly wooden desk from which a gray cable flows that is connected to the power strip of the previous page."
-msgstr "Zangeman sit framfor den gylne datamaskina si i ein gyllen lenestol med ein veldig høg raud polstra ryggstøtte der ein øvst kan sjå «Z»-ein i Zangemann-logoen. Han har på seg ein lilla høghalsa genser og lyseblå bukser. Datamaskina har fire elegant utforma skjermar i ulik storleik, der kvar av dei har logoen på baksida. Alt er bygd inn i eit kostbar trebord hvorfra grå kablar kjem ut og går til straumpadda på førre side."
+msgstr "Zangeman sit framfor den gylne datamaskina si i ein gyllen lenestol med ein veldig høg raud polstra ryggstøtte der ein øvst kan sjå «Z»-ein i Zangemann-logoen. Han har på seg ein lilla høghalsa genser og lyseblå bukser. Datamaskina har fire elegant utforma skjermar i ulik storleik, der kvar av dei har logoen på baksida. Alt er bygd inn i eit kostbart skrivebord som grå kablar kjem ut av og ender opp i straumpadda på førre side."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:738
-#, fuzzy
 msgid "When he wasn’t sitting at his golden computer, Zangemann was building his little computers into new devices and then selling those. He built washing machines that sent a message to your cell phone when your laundry was done. He made vacuums that played happy music instead of droning loudly. He invented light bulbs that turned on and off at the snap of a finger and cars that told you where the nearest grocery store was."
 msgstr "Når han ikkje sat ved den gylne datamaskina si, så bygde Zangemann sine små datamaskiner inn i nye dingsar som han så selde. Han bygde vaskemaskiner som sende ei melding til mobiltelefonen din når klesvasken var ferdig. Han bygde støvsugarar som spelte lykkeleg musikk i staden for å brumma høglydt. Han fann opp lyspærer som slo seg av og på når ein knipsa med fingrane og bilar som kunne fortelja deg kor næraste matbutikk var."
 
@@ -796,7 +773,6 @@ msgstr "Når han ikkje sat ved den gylne datamaskina si, så bygde Zangemann sin
 #. (itstool) comment: imageobject/imagedata@fileref
 #. Link to the image. Only needs to be changed if the image is localized.
 #: Ada_Zangemann.dbk:741
-#, fuzzy
 msgid "images/illustrations/ada-p12.png"
 msgstr "images/illustrations/ada-p12.png"
 
@@ -804,25 +780,21 @@ msgstr "images/illustrations/ada-p12.png"
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired.
 #: Ada_Zangemann.dbk:743
-#, fuzzy
 msgid "City landscape with houses and shops, with a central street turning right. On the road there are a car and a cyclist. There are various children and adults walking or going on skateboards, some eating ice cream, while others are buying ice cream from the original Zangemann machines."
 msgstr "Bylandskap med hus og butikkar, med ei sentral gate bøyande av mot høgre. På vegen er det ein bil og ein syklist. Det er fleire barn og vaksne som går eller køyrer på rullebrett, nokon et iskrem, andre kjøper iskrem frå dei originale Zangemann-maskinene."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:745
-#, fuzzy
 msgid "Soon, almost every appliance in the world had a Zangemann computer built into it. Not all of his inventions seemed necessary at first, but people bought everything he made. That’s just the way it was. Everyone wanted the devices made by Zangemann, the greatest inventor in the world."
-msgstr "Raskt var det ei Zangemann-datamaskin i nesten alle elektriske apparat i verda. Ikkje alle oppfinningane hans var like praktisk som det såg ut ved første blikk, men folk kjøpte alt han laget. Det var slik det var. Alle ville ha dingsar som Zangemann, den største oppfinnaren i verda, laga."
+msgstr "Raskt var det ei Zangemann-datamaskin i nesten alle elektriske apparat i verda. Ikkje alle oppfinningane hans var like praktiske som det såg ut ved første blikk, men folk kjøpte alt han laga. Det var slik det var. Alle ville ha dingsar som Zangemann, den største oppfinnaren i verda, laga."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:750
-#, fuzzy
 msgid "One day..."
 msgstr "Ein dag..."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:753
-#, fuzzy
 msgid "One day Zangemann thought, “Today I want to see my inventions up close.” He put away his big telescope, then climbed down the many stairs of his mansion and ventured out into the city, full of anticipation at the thought of enjoying his cool devices."
 msgstr "Ein dag tenkte Zangemann: «I dag vil eg sjå oppfinningane mine på nært hald.» Han la vekk det store teleskopet sitt og gjekk full av forventningar ned dei mange trappene frå huset sitt og ned på gata, for å komma ut i byen og nyta apparata sine."
 
@@ -830,7 +802,6 @@ msgstr "Ein dag tenkte Zangemann: «I dag vil eg sjå oppfinningane mine på næ
 #. (itstool) comment: imageobject/imagedata@fileref
 #. Link to the image. Only needs to be changed if the image is localized.
 #: Ada_Zangemann.dbk:756
-#, fuzzy
 msgid "images/illustrations/ada-p13.png"
 msgstr "images/illustrations/ada-p13.png"
 
@@ -838,27 +809,23 @@ msgstr "images/illustrations/ada-p13.png"
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired.
 #: Ada_Zangemann.dbk:758
-#, fuzzy
 msgid "Zangemann descends the stairs from his mansion on the hill towards the city. Zangemann's house stands on a hill. The front is blue with large windows; the towers are dark blue, and from a window starts a yellow slide that ends in a large swimming pool with two palm trees. The roofs are red, and above the highest tower an antenna is installed. On the sides of the stairs to get off the hill there are evergreen trees."
-msgstr "Zangemann går ned trappene frå sin herskapshus på toppen av kolla mot byen. Zangemanns hus står på ei kolle. Framsida er blå med store vindauge; tårna er mørkblå, og frå eit vindauge går ei gul sklie som endar i eit stor basseng med to palmetre. Taka er raude, og over det høgaste tårnet er det sett opp ei antenne. På begge sider av trappa ned frå kolla er det eviggrøne tre."
+msgstr "Zangemann går trappene frå sitt herskapshus på bakketoppen ned mot byen. Zangemanns hus står på ein bakketopp. Framsida er blå med store vindauge; tårna er mørkblå, og frå eit vindauge går ei gul sklie som endar i eit stort basseng med to palmetre. Taka er raude, og over det høgaste tårnet er det sett opp ei antenne. På begge sider av trappa ned frå bakketoppen er det eviggrøne tre."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:762
-#, fuzzy
 msgid "“Maybe a little trip might even give me a few new ideas. If I’m completely honest, my last inventions weren’t quite as useful as the first ones... ,” Zangemann pondered. “But my ice-cream machines are and will remain second to none,” he thought immediately afterward, and not without pride, as he passed a group of people all eating coconut ice cream, the flavor of the day."
-msgstr "«Kanskje kan ei lita utflukt til og med gi meg nokre nye idear. For å vera heilt ærleg, så var mine siste oppfinningar ikkje like praktiske som dei første…», tenkte Zangemann. «Men iskremmaskinane mine er og blir utan sidestykke», tenkte han like etter med ei viss stoltheit, då han gjekk forbi ei gruppe menneske som sleikte på ein kokosis, som var dagens smak."
+msgstr "«Kanskje kan ei lita utflukt til og med gi meg nokre nye idear. For å vera heilt ærleg, så var mine siste oppfinningar ikkje like praktiske som dei første…», tenkte Zangemann. «Men iskremmaskinene mine er og blir utan sidestykke», tenkte han like etter med ei viss stoltheit, då han gjekk forbi ei gruppe menneske som sleikte på ein kokos-is, som var dagens smak."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:764
-#, fuzzy
 msgid "He was completely absorbed in his thoughts when suddenly — BAM! — something crashed into his shin."
-msgstr "Han var heilt fortapt i sine eigne tankar då plutseleg — BOMS – noko køyrde med full fart inn i skinnbeinet hans."
+msgstr "Han var heilt fortapt i sine eigne tankar då plutseleg — BOMS – noko køyrde med full fart inn i skjenebeinet hans."
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
 #. Link to the image. Only needs to be changed if the image is localized.
 #: Ada_Zangemann.dbk:767
-#, fuzzy
 msgid "images/illustrations/ada-p14.png"
 msgstr "images/illustrations/ada-p14.png"
 
@@ -866,27 +833,23 @@ msgstr "images/illustrations/ada-p14.png"
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired.
 #: Ada_Zangemann.dbk:769
-#, fuzzy
 msgid "Zangemann after the incident with the child. Zangemann screams from pain while holding up one of his legs with both hands at the shin. The child has brown hair that is blown back by Zangemann's scream; he is wearing a light blue hooded sweatshirt and dark green pants. He holds a red Zangemann electric skateboard."
-msgstr "Zangemann etter hendinga med barnet. Zangemann hyler av smerte medan han held opp ein av føtene sine med begge hendene på skinnleggen. Barnet har brunt hår som er blåst bakover av hylet til Zangemann, og har på seg ein lyseblå hettegenser og mørkegrøne bukser. Han held eit raudt Zangemann elektrisk rullebrett."
+msgstr "Zangemann etter hendinga med barnet. Zangemann hyler av smerte medan han held begge hendene på skjeneleggen. Barnet har brunt hår som er blåst bakover av hylet til Zangemann, og har på seg ein lyseblå hettegenser og mørkegrøne bukser. Han held eit raudt Zangemann elektrisk rullebrett."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:773
-#, fuzzy
 msgid "Zangemann yelped and looked around for the cause. A startled child stood in front of him, holding an original Zangemann skateboard under his arm. “Sorry, I didn’t mean to do that,” the child stammered, but Zangemann wasn’t listening."
-msgstr "Zangemann gav frå seg eit hyl og såg seg rundt. Framfor han stod eit barn, fullstendig vitskremd og med eit originalt Zangemann-rullebrett under armen. «Unnskyld, det var ikkje med vilje», stamma barnet, men Zangemann høyrde det ikkje."
+msgstr "Zangemann gav frå seg eit hyl og såg seg rundt. Framfor han stod eit barn, fullstendig vitskremd og med eit originalt Zangemann-rullebrett under armen. «Unnskyld, det var ikkje med vilje», stamma barnet, men Zangemann høyrde ikkje etter."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:774
-#, fuzzy
 msgid "An angry Zangemann limped away. Suddenly, he heard loud music. He had never before heard something so horrible. He looked around and saw that the music was coming from a loudspeaker he himself had constructed. A child across the street was holding it. The child seemed to like the music, but it gave Zangemann a terrible headache, and his mood worsened. This was not how he had imagined his walk!"
-msgstr "Rasande halta Zangemann av garde. Plutseleg høyrde han høg musikk. Han hadde aldri høyrt noko så skrekkeleg. Han såg seg rundt og såg at musikken kom frå ein høgtalar han sjølv hadde utvikla. Eit barn på andre sida av gata hadde ho i handa. Barnet såg ut til a nyta musikken, men han gav Zangemann ein forferdeleg hovudverk og humøret vart dårlegare. Det var ikkje slik han hadde førestilt seg gåturen sin!"
+msgstr "Rasande halta Zangemann av garde. Plutseleg høyrde han høg musikk. Han hadde aldri høyrt noko så skrekkeleg. Han såg seg rundt og såg at musikken kom frå ein høgtalar han sjølv hadde utvikla. Eit barn på andre sida av gata hadde ho i handa. Barnet såg ut til å nyta musikken, men han gav Zangemann ein forferdeleg hovudverk og humøret vart dårlegare. Det var ikkje slik han hadde førestilt seg gåturen sin!"
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
 #. Link to the image. Only needs to be changed if the image is localized.
 #: Ada_Zangemann.dbk:777
-#, fuzzy
 msgid "images/illustrations/ada-p15.png"
 msgstr "images/illustrations/ada-p15.png"
 
@@ -894,21 +857,18 @@ msgstr "images/illustrations/ada-p15.png"
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired.
 #: Ada_Zangemann.dbk:779
-#, fuzzy
 msgid "Advertisments for Zangemann ice cream (sandwich board), a Zangemann electric skateboard, and a Zangemann washing machine. The math teacher, Mrs. Gernet, is passing in front of the billboards. Mrs. Gernet is an old lady with short white hair. She is dressed in a light green t-shirt and a pea green sweater, dark brown pants, and light green heeled shoes. She has a fuchsia shoulder bag, worn behind her. She pushes a small shopping cart in which there is a small brown dog with a collar and tag."
-msgstr "Reklame for Zangemann-is (reklameskilt), eit Zangemann elektrisk rullebrett og ein Zangemann vaskemaskin. Mattelæraren, fru Gernet, går forbi reklameplakatane. Fru Gernet er ei eldre dame med kort, kvitt hår. Ho har på seg ei lysegrøn T-skjorte og ein ertegrøn genser, mørkebrune bukser og lysegrøne sko med hæl. Ho har ei fuksia-farga skulderveske bak på ryggen. Ho skyv ei lita handlevogn der det sit ein liten brun hund med halsband og namneskilt."
+msgstr "Reklame for Zangemann-is (reklameskilt), eit Zangemann elektrisk rullebrett og ei Zangemann vaskemaskin. Mattelæraren, fru Gernet, går forbi reklameplakatane. Fru Gernet er ei eldre dame med kort, kvitt hår. Ho har på seg ei lysegrøn T-skjorte og ein ertegrøn genser, mørkebrune bukser og lysegrøne sko med hæl. Ho har ei fuksia-farga skulderveske bak på ryggen. Ho skyv ei lita handlevogn der det sit ein liten brun hund med halsband og namneskilt."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:784
-#, fuzzy
 msgid "Zangemann was so furious with the two children. How dare they use his inventions this way? That night, he couldn’t sleep, so he sat down at his golden computer. From there, he gave all the little computers in the skateboards a command that they were no longer allowed to go on sidewalks. He ordered the small computers in the speakers to play music only at a low volume, except for his favorite music, which he immediately turned on to get into a better mood."
-msgstr "Zangemann var så rasande på dei to ungane. Korleis våget dei bruka oppfinningane hans slik? Same natt klarte han ikkje sova, så han sette seg ved den gylne datamaskina si. Frå den sende han ordre ut til alle dei små datamaskinene i rullebretta at dei ikkje lenger fekk lov til å køyra på fortau. Han beordra dei små datamaskinene i høgtalarane til å spela musikk berre på lågt, med mindre det var yndlingsmusikken hans, som han straks slo på for å komma i betre humør."
+msgstr "Zangemann var så rasande på dei to ungane. Korleis våga dei bruka oppfinningane hans slik? Same natt klarte han ikkje sova, så han sette seg ved den gylne datamaskina si. Frå den sende han ordre ut til alle dei små datamaskinene i rullebretta at dei ikkje lenger fekk lov til å køyra på fortau. Han beordra dei små datamaskinene i høgtalarane til å spela musikk berre på lågt, med mindre det var yndlingsmusikken hans, som han straks slo på for å komma i betre humør."
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
 #. Link to the image. Only needs to be changed if the image is localized.
 #: Ada_Zangemann.dbk:787
-#, fuzzy
 msgid "images/illustrations/ada-p16.png"
 msgstr "images/illustrations/ada-p16.png"
 
@@ -916,7 +876,6 @@ msgstr "images/illustrations/ada-p16.png"
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired.
 #: Ada_Zangemann.dbk:789
-#, fuzzy
 msgid "The city in the evening, with houses, a church, and two streetlights. Images/Illustrations emerge from the dwellings illustrating Zangemann's inventions bought by the inhabitants: a washing machine, a yellow vacuum cleaner, and a red car, all with Internet connection signals."
 msgstr "Byen om kvelden, med hus, ei kyrkje og to gatelys. Bilete dukkar opp frå bustadene og illustrerer Zangemanns oppfinningar som er kjøpte av innbyggjarane: ei vaskemaskin, ein gul støvsugar og ein raud bil, alle med Internett-signal."
 
@@ -924,7 +883,6 @@ msgstr "Byen om kvelden, med hus, ei kyrkje og to gatelys. Bilete dukkar opp fr�
 #. (itstool) comment: imageobject/imagedata@fileref
 #. Link to the image. Only needs to be changed if the image is localized.
 #: Ada_Zangemann.dbk:795
-#, fuzzy
 msgid "images/illustrations/ada-p17.png"
 msgstr "images/illustrations/ada-p17.png"
 
@@ -932,13 +890,11 @@ msgstr "images/illustrations/ada-p17.png"
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired.
 #: Ada_Zangemann.dbk:797
-#, fuzzy
 msgid "Continuation of the previous picture, where in the background there is the hill with Zangemann's house from whose antenna come the signals to control the various devices. In emerging images/illustrations there are: a red electric skateboard, a light bulb, an ice cream machine, and a toilet, all of which are receiving commands from Zangemann."
-msgstr "Fortsetjing av det førre biletet, der kolla med Zangemanns hus ligg i bakgrunnen, og frå antenna kjem signala som kontrollerer dei ulike einingane. I bileta som dukkar opp er det: eit raudt elektrisk rullebrett, ei lyspære, ein iskremmaskin og eit toalett, som alle får kommandoar frå Zangemann."
+msgstr "Fortsetjing av det førre biletet, der bakketoppen med Zangemanns hus ligg i bakgrunnen, og frå antenna kjem signala som kontrollerer dei ulike einingane. I bileta som dukkar opp er det: eit raudt elektrisk rullebrett, ei lyspære, ei iskremmaskin og eit toalett, som alle får kommandoar frå Zangemann."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:803
-#, fuzzy
 msgid "Skateboards no longer work"
 msgstr "Rullebretta sluttar å verka"
 
@@ -947,22 +903,19 @@ msgstr "Rullebretta sluttar å verka"
 #. File for the capital image, depending on the capital letter and the
 #. required color. Can be postponed to the publishing process.
 #: Ada_Zangemann.dbk:807
-#, fuzzy
 msgid "images/capitals/T-olive.png"
 msgstr "images/capitals/T-olive.png"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p18-1
 #: Ada_Zangemann.dbk:807
-#, fuzzy
 msgid "<phrase condition=\"capitals-text\">The</phrase><phrase condition=\"capitals-img\">he</phrase> next day, there was a big commotion at Ada’s school. On the way to school, the kids’ skateboards had stopped working. The wheels simply stood still. And the children could no longer turn up the volume on their speakers. What was going on?"
-msgstr "<phrase condition=\"capitals-text\">Neste</phrase><phrase condition=\"capitals-img\">este</phrase> dag var det stor ståk på skulen til Ada. På veg til skulen hadde rullebrettet til ungane slutta å verka. Hjula stod ganske enkelt stille. Og ungane kunne ikkje skru opp lyden på høgtalarane sine. Kva gjekk føre seg?"
+msgstr "<phrase condition=\"capitals-text\">Neste</phrase><phrase condition=\"capitals-img\">este</phrase> dag var det stor ståk på skulen til Ada. På veg til skulen hadde rullebrettet til ungane slutta å verka. Hjula stod ganske enkelt stille. Og ungane kunne ikkje skru opp lyden på høgtalarane sine. Kva skjer?"
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
 #. Link to the image. Only needs to be changed if the image is localized.
 #: Ada_Zangemann.dbk:810
-#, fuzzy
 msgid "images/illustrations/ada-p18.png"
 msgstr "images/illustrations/ada-p18.png"
 
@@ -970,21 +923,18 @@ msgstr "images/illustrations/ada-p18.png"
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired.
 #: Ada_Zangemann.dbk:812
-#, fuzzy
 msgid "Five kids from the school who can't make skateboards work. Two girls wear helmets, respectively blue and red. A little girl with brown hair tied in two tails with yellow rubber bands is kneeling. She is trying to understand why the skateboard of her friend with the red helmet does not work. Four children have backpacks on their shoulders, while the little girl with the red helmet left hers leaning on a bench on which there are a yellow apple and a light blue bottle with a white flower on it."
-msgstr "Fire ungar frå skulen som ikkje får rullebretta til å verka. To jenter har hjelpar, høvesvis blå og raude. Ei lita jente med brunt hår bunde opp i to musefletter med gule hårstrikk kneler. Ho prøver forstå kvifor rullebretta til vennen hennar med raud hjelm ikkje verkar. Fire barn har ryggsekker på skuldrene sine, medan den vesle jenta med raud hjelp har sett sin opp mot ein benk der det også står eit gult eple og ei lyseblå flaske med ein kvit blomster på."
+msgstr "Fire ungar frå skulen som ikkje får rullebretta til å verka. To jenter har hjelmar, høvesvis blå og raud. Ei lita jente med brunt hår bunde opp i to musefletter med gul hårstrikk kneler. Ho prøver forstå kvifor rullebrettet til vennen hennar med raud hjelm ikkje verkar. Fire barn har ryggsekker på skuldrene sine, medan den vesle jenta med raud hjelm har sett sin opp mot ein benk der det også står eit gult eple og ei lyseblå flaske med ein kvit blomst på."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:816
-#, fuzzy
 msgid "Although she didn’t own any of these things, Ada wondered why the skateboards and the speakers suddenly stopped working. But she didn’t really have time to think much about it, because she was tinkering again. She put together a complete bicycle from the parts of three broken bicycles. She gave the bicycle to her mother as a present so that she wouldn’t have to spend her money on bus tickets to work. For her brother, Ada built a loudspeaker so he could fall asleep to nice stories in the evenings when their mother was still at work."
-msgstr "Sjølv om ho ikkje sjølv eigde nokon av desse tinga, så undra Ada på kvifor rullebretta og høgtalarane plutseleg slutta å verka. Men ho hadde eigentleg ikkje tid til å tenkja mykje på det, for ho var i gang med å fikla igjen. Av delane frå tre øydelagde syklar sette ho saman ein ny sykkel. Den gav ho til mammaen sin, slik at ho ikkje trong å bruka pengar på å ta bussen til arbeid. Og til bror sin bygde ho ein høgtalar, slik at han kunne høyra på fine godnatthistorier om kvelden, når han skulle sova og mamma framleis var på jobb."
+msgstr "Sjølv om ho ikkje sjølv eigde nokon av desse tinga, så undra Ada på kvifor rullebretta og høgtalarane plutseleg slutta å verka. Men ho hadde eigentleg ikkje tid til å tenkja mykje på det, for ho var i gang med å fikla igjen. Av delane frå tre øydelagde syklar sette ho saman ein ny sykkel. Den gav ho til mor si, slik at ho ikkje trong å bruka pengar på å ta bussen til arbeid. Og til bror sin bygde ho ein høgtalar, slik at han kunne høyra på fine godnatthistorier om kvelden, når han skulle sova og mamma framleis var på jobb."
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
 #. Link to the image. Only needs to be changed if the image is localized.
 #: Ada_Zangemann.dbk:819
-#, fuzzy
 msgid "images/illustrations/ada-p19.png"
 msgstr "images/illustrations/ada-p19.png"
 
@@ -992,19 +942,16 @@ msgstr "images/illustrations/ada-p19.png"
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired.
 #: Ada_Zangemann.dbk:821
-#, fuzzy
 msgid "Close-up of Ada thoughtful, with a backpack and with one hand on her chin and the other resting on her side."
-msgstr "Nærbilete av ei tankefull Ada, med ryggsekk og ei av hendene på kinnet og den andre kvilande på si side."
+msgstr "Nærbilete av ei tankefull Ada, med ryggsekk og ei av hendene på kinnet og den andre kvilande på sida."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:824
-#, fuzzy
 msgid "After a few days, the initial shock at Ada’s school was forgotten. The skateboards still didn’t go on the sidewalk, but apart from that, they still worked. And so now the children rode in circles around the playground and listened to soft music. Only a strange, pompous marching music continued to play at an unchanged volume, which the children found rather puzzling."
-msgstr "Etter eit par dagar var det første sjokket på Adas skule gløymt. Rullebretta fungerte framleis ikkje på fortauet, men bortsett frå det så fungerte dei framleis. Så no køyrde ungane rundt i sirklar på leikeplassen og høyrde på stille musikk. Det einaste som vart spelt av med uendra volum var ein pussig pompøs marsmusikk, noko barna fann svært mystisk."
+msgstr "Etter eit par dagar var det første sjokket på Adas skule gløymt. Rullebretta fungerte framleis ikkje på fortauet, men bortsett frå det så fungerte dei framleis. Så no køyrde ungane rundt i sirklar på leikeplassen og høyrde på låg musikk. Det einaste som vart spelt av med uendra volum var ein pussig pompøs marsj, noko barna fann svært mystisk."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:829
-#, fuzzy
 msgid "Ada and software"
 msgstr "Ada og programvare"
 
@@ -1013,34 +960,29 @@ msgstr "Ada og programvare"
 #. File for the capital image, depending on the capital letter and the
 #. required color. Can be postponed to the publishing process.
 #: Ada_Zangemann.dbk:833
-#, fuzzy
 msgid "images/capitals/A-fucsia.png"
 msgstr "images/capitals/A-fucsia.png"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p20-1
 #: Ada_Zangemann.dbk:833
-#, fuzzy
 msgid "<phrase condition=\"capitals-text\">Ada</phrase><phrase condition=\"capitals-img\">da</phrase> loved Wednesdays. Every Wednesday, her mother and Alan would pick her up from school, and they would all go to the library together. Ada was always drawn to the technology section. There were books with blueprints, instructions for experiments, and explanations of how different devices worked. In the library, Ada could also go online with her cell phone. She quickly realized that there was also much to discover on the internet. There, many people shared their ideas and repair tips to help others."
-msgstr "<phrase condition=\"capitals-text\">Ada</phrase><phrase condition=\"capitals-img\">då</phrase> elska onsdagar. Kvar onsdag plukka mora og Alan henne opp frå skulen slik at dei kunne gå saman på biblioteket. Ada trekte alltid mot teknologiavdelinga. Der var det bøker med arbeidsteikningar, eksperimentsinstruksjonar og forklaringar om korleis ulike dingsar verka. På biblioteket kunne ho også bruka nettet med mobiltelefonen sin. Snart fann ho ut at det var utruleg mykje å oppdaga på Internettet. Der var det mange folk som delte idear og reparasjonstips med andre."
+msgstr "<phrase condition=\"capitals-text\">Ada</phrase><phrase condition=\"capitals-img\">da</phrase> elska onsdagar. Kvar onsdag plukka mora og Alan henne opp frå skulen slik at dei kunne gå saman på biblioteket. Ada trekte alltid mot teknologiavdelinga. Der var det bøker med arbeidsteikningar, eksperimentsinstruksjonar og forklaringar om korleis ulike dingsar verka. På biblioteket kunne ho også bruka nettet med mobiltelefonen sin. Snart fann ho ut at det var utruleg mykje å oppdaga på Internettet. Der var det mange folk som delte idear og reparasjonstips med andre."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:834
-#, fuzzy
 msgid "On one of those afternoons, Ada learned two new words: hardware and software. Hardware was a word for something Ada already knew: the electronic devices she tinkered with after school, or those devices she could hold in her hands and try to fix or make into something else. What was completely new to Ada was the word software. She soon learned that it meant instructions that ran on a computer to control other devices or computers. Some books called those instructions programs or code. With such a computer program, one could, for example, tell a loudspeaker which song to play and how loud."
-msgstr "Det var ein slik onsdag ettermiddag at Ada lærte to nye ord: «maskinvare» og «programvare». «Maskinvare» var eit ord som Ada allereie kjende godt. Det var dei elektroniske dingsane ho fikla med etter skulen, eller dei dingsane ho kunne ta i hendene og prøva å fiksa eller byggja noko nytt med. Ordet «programvare» var derimot heilt nytt for henne. Ho lærte snart at det betydde instruksjonar for å kontrollera dingsar eller datamaskiner. Nokre bøker kalla desse instruksjonane program eller kode. Med eit slikt dataprogram kunne ein, til dømes, fortelja ein høgtalar kva songar han skulle spela, og kor høgt han skulle gjera det."
+msgstr "Det var ein slik onsdag ettermiddag at Ada lærte to nye ord: «maskinvare» og «programvare». «Maskinvare» var eit ord som Ada allereie kjende godt. Det var dei elektroniske dingsane ho fikla med etter skulen, eller dei dingsane ho kunne ta i hendene og prøva å fiksa eller byggja noko nytt av. Ordet «programvare» var derimot heilt nytt for henne. Ho lærte snart at det betydde instruksjonar for å kontrollera dingsar eller datamaskiner. Nokre bøker kalla desse instruksjonane program eller kode. Med eit slikt dataprogram kunne ein, til dømes, fortelja ein høgtalar kva songar han skulle spela, og kor høgt han skulle gjera det."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:835
-#, fuzzy
 msgid "The best thing about Ada’s new discovery was realizing that she could tinker with software just as she could with hardware. Hardware is built with tools — hammers, drills, and screws. Software is built simply by writing down the commands for the hardware, one after the other. There was a separate language for this — the programming language. With software, Ada could make her inventions even more useful. She really wanted to learn the programming language!"
-msgstr "Det beste med Adas nye oppdaging var at ho kunne fikla med programvare på same måte som med maskinvara. Maskinvare blir bygd med verktøy — hamrar, bur og skrur, medan programvare blir bygd ved å skriva kommandoar for maskinvara, ein etter ein. Det fanst til og med eit språk for dette — programmeringsspråket. Med programvare kunne Ada gjera oppfinningane sine endå meir nyttige. Ho ville verkeleg læra seg programmeringsspråket!"
+msgstr "Det beste med Adas nye oppdaging var at ho kunne fikla med programvare på same måte som med maskinvara. Maskinvare blir bygd med verktøy — hamrar, drillar og skruar, medan programvare blir bygd ved å skriva kommandoar for maskinvara, ein etter ein. Det fanst til og med eit språk for dette — programmeringsspråket. Med programvare kunne Ada gjera oppfinningane sine endå meir nyttige. Ho ville verkeleg læra seg programmeringsspråket!"
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
 #. Link to the image. Only needs to be changed if the image is localized.
 #: Ada_Zangemann.dbk:840
-#, fuzzy
 msgid "images/illustrations/ada-p21.png"
 msgstr "images/illustrations/ada-p21.png"
 
@@ -1048,13 +990,11 @@ msgstr "images/illustrations/ada-p21.png"
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired.
 #: Ada_Zangemann.dbk:842
-#, fuzzy
 msgid "Computer screen from which the elements of the programming language symbolically emerge: “while num &gt; 0“, “init“, “sx=42“, “for“, “v**3“. Ada is typing on a white keyboard with a blue cable, while her other hand enters the screen to change the program (“print(msg)”, “a+b+c+d=e”, “if”, “break”, “continue”, “exit()“). Next to the keyboard there are a pencil and an eraser."
-msgstr "Dataskjerm der elementa til programmeringsspråket symbols dukkar opp: «while num &gt; 0», «init», «sx=42», «for», «v**3».  Ada skriv på eit kvitt tastatur med ein blå kabel, medan den andre handa går inn i skjermen for å endra programmet («skriv ut(msg)», «a+b+c+d=e», «if», «break», «continue», «exit()»). Ved sida av tastaturet er det ein blyant og eit viskelêr."
+msgstr "Dataskjerm der elementa til programmeringsspråket dukkar opp: «while num &gt; 0», «init», «sx=42», «for», «v**3».  Ada skriv på eit kvitt tastatur med ein blå kabel, medan den andre handa går inn i skjermen for å endra programmet («skriv ut(msg)», «a+b+c+d=e», «if», «break», «continue», «exit()»). Ved sida av tastaturet er det ein blyant og eit viskelêr."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:848
-#, fuzzy
 msgid "Programming"
 msgstr "Programmering"
 
@@ -1063,32 +1003,27 @@ msgstr "Programmering"
 #. File for the capital image, depending on the capital letter and the
 #. required color. Can be postponed to the publishing process.
 #: Ada_Zangemann.dbk:852
-#, fuzzy
 msgid "images/capitals/O-lightcyan.png"
 msgstr "images/capitals/O-lightcyan.png"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p22-1
 #: Ada_Zangemann.dbk:852
-#, fuzzy
 msgid "<phrase condition=\"capitals-text\">Over</phrase><phrase condition=\"capitals-img\">ver</phrase> the next few weeks, Ada spent her afternoons in the library. She found books and websites that explained how programming languages and code worked. For Ada, it felt a bit like learning a secret language, or like studying vocabulary in school. Ada ate it all up. She expected her first program to do something simple: “Make this lamp blink!”"
-msgstr "<phrase condition=\"capitals-text\">Kvar</phrase><phrase condition=\"capitals-img\">ver</phrase> ettermiddag dei neste vekene drog Ada på biblioteket. Ho fann fram bøker og nettsider som forklarte korleis programmeringsspråk og kode fungerer. For Ada kjendest det litt som å læra eit hemmeleg språk – eller pugga gloser på skulen. Ho slukte alt saman. Hennar første program skulle gjera noko som var lett: «Få denne lampa til å blinka!»"
+msgstr "<phrase condition=\"capitals-text\">Kvar</phrase><phrase condition=\"capitals-img\">var</phrase> ettermiddag dei neste vekene var Ada på biblioteket. Ho fann fram bøker og nettsider som forklarte korleis programmeringsspråk og kode fungerer. For Ada kjendest det litt som å læra eit hemmeleg språk – eller pugga gloser på skulen. Ho slukte alt saman. Hennar første program skulle gjera noko som var lett: «Få denne lampa til å blinka!»"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:853
-#, fuzzy
 msgid "Of course, she wanted to try her program out right away to see if it really worked. At the junkyard, she connected her cell phone to a small LED lamp. Then she typed the lines of code into her cell phone."
 msgstr "Ho ville naturlegvis prøva programmet sitt med det same for å sjå om det verka. På skraphaugen kopla ho mobiltelefonen sin med ei lita LED-pære. Deretter skreiv ho programkoden som ho hadde skrive ned, inn i mobiltelefonen."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:854
-#, fuzzy
 msgid "At first, nothing happened. Ada wondered where the error could be. She made a few small changes and tried again and .... “Yeesss!” The little light began to flash. On, off, on, off. Ada looked at the LED in amazement. She had written her first program!"
 msgstr "Først skjedde det ingenting. Ada lurte på kvar feilen kunne vera. Ho gjorde eit par små endringar og prøvde igjen og ... «Jaaa!» Den vesle lampa byrja å blinka. På, av, på, av. Ada såg overraska på LED-en. Ho hadde skrive sitt første program!"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:855
-#, fuzzy
 msgid "Ada was totally thrilled. She imagined all the great things she could do. If she just entered the right code, she could make her inventions do exactly what she wanted. It was not so easy, but after a few weeks, Ada wrote a truly useful program: one that would make Alan’s speakers automatically turn off half an hour after he had fallen asleep."
 msgstr "Ada var i ekstase. Ho tenkte på alt det fantastiske ho kunne gjera med det! Med rett programkode kunne ho få oppfinningane sine til å gjera akkurat det ho ville. Det var ikkje berre lett, men etter nokre veker hadde Ada skrive eit nyttig program: Eit som fekk Alans høgtalarar til å slå seg av automatisk ein halv time etter at han hadde sovna."
 
@@ -1096,7 +1031,6 @@ msgstr "Ada var i ekstase. Ho tenkte på alt det fantastiske ho kunne gjera med 
 #. (itstool) comment: imageobject/imagedata@fileref
 #. Link to the image. Only needs to be changed if the image is localized.
 #: Ada_Zangemann.dbk:860
-#, fuzzy
 msgid "images/illustrations/ada-p23.png"
 msgstr "images/illustrations/ada-p23.png"
 
@@ -1104,21 +1038,18 @@ msgstr "images/illustrations/ada-p23.png"
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired.
 #: Ada_Zangemann.dbk:862
-#, fuzzy
 msgid "Ada comes to grips with programming. She is typing on a keyboard resting on a gray mat and connected to a smartphone with a blue cable. The smartphone is connected with a red wire to an electronic card with a yellow LED lamp. The smartphone is powered by a transformer connected to a power strip with a gray wire and plug. On the table there are also: 3 books, of which one is open; a clipboard and a pencil; pliers; glue; solder; and a disconnected soldering iron."
-msgstr "Ada lærer seg programmering. Ho skriv på eit tastatur som ligg på ei grå matte og er kopla til ein smarttelefon med ein blå kabel. Smarttelefonen er kopla med ein raud leidning til eit elektronisk kort med ei gul LED-pære. Smarttelefonen blir drive av ein transformator som er kopla til ein forgreinar med ein grå leidning og plugg. På bordet ligg det også: 3 bøker, og ein er open; ei utklippstavle og ein blyant; ei tong; lim; loddetinn; og ein fråkopla loddebolt."
+msgstr "Ada lærer seg programmering. Ho skriv på eit tastatur som ligg på ei grå matte og er kopla til ein smarttelefon med ein blå kabel. Smarttelefonen er kopla med ein raud leidning til eit elektronisk kort med ei gul LED-pære. Smarttelefonen blir drive av ein transformator som er kopla til ein forgreinar med ein grå leidning og plugg. På bordet ligg det også: 3 bøker, og ei er opa; ei utklippstavle og ein blyant; ei tong; lim; loddetinn; og ein fråkopla loddebolt."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:864
-#, fuzzy
 msgid "Ada also had an idea for the next program she would write. It was a bigger deal, a real project. She would probably need the whole summer break for it... And she could hardly wait!"
-msgstr "Ada hadde også ein ide for det neste programmet ho ville skriva. Det var ein større ting, eit skikkeleg prosjekt. Ho ville antakeleg trenga heile sommarferien på det… Ho kunne nesten ikkje venta!"
+msgstr "Ada hadde også ein idé for det neste programmet ho ville skriva. Det var ein større ting, eit skikkeleg prosjekt. Ho ville truleg trenga heile sommarferien på det… Ho kunne nesten ikkje venta!"
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
 #. Link to the image. Only needs to be changed if the image is localized.
 #: Ada_Zangemann.dbk:869
-#, fuzzy
 msgid "images/illustrations/ada-p24.png"
 msgstr "images/illustrations/ada-p24.png"
 
@@ -1126,13 +1057,11 @@ msgstr "images/illustrations/ada-p24.png"
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired.
 #: Ada_Zangemann.dbk:871
-#, fuzzy
 msgid "Zangemann looks thoughtfully with his arms crossed out one of the great windows of his house, into which the sun's rays are shining."
 msgstr "Zangemann ser med armane i kors tankefullt ut gjennom eit av dei store vindauga i huset sitt, medan solstrålane skin inn vindauget."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:877
-#, fuzzy
 msgid "A horrible night"
 msgstr "Ei forferdeleg natt"
 
@@ -1141,32 +1070,27 @@ msgstr "Ei forferdeleg natt"
 #. File for the capital image, depending on the capital letter and the
 #. required color. Can be postponed to the publishing process.
 #: Ada_Zangemann.dbk:881
-#, fuzzy
 msgid "images/capitals/Z-brown.png"
 msgstr "images/capitals/Z-brown.png"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p25-1
 #: Ada_Zangemann.dbk:881
-#, fuzzy
 msgid "<phrase condition=\"capitals-text\">Zangemann</phrase><phrase condition=\"capitals-img\">angemann</phrase> had slept horribly every night since his terrible walk in the city. When he went to bed each night, worries plagued him. “Oh no, my marvelous inventions. It can’t be that everyone just plays around with them. All the things that could go wrong! I put so much thought into everything, down to the last detail.” Zangemann pondered and pondered and tossed and turned sleeplessly in his bed all night."
 msgstr "<phrase condition=\"capitals-text\">Zangemann</phrase><phrase condition=\"capitals-img\">angemann</phrase> hadde sove dårleg kvar natt etter den forferdelege gåturen i byen. Kvar kveld, når han gjekk til sengs, var han plaga av bekymringar: «Huff, nei, dei fantastiske oppfinningane mine! Det går ikkje, at alle berre leikar med dei. Tenk på alt som kan gå gale! Eg har tenkt på så mykje, ned til minste detalj.», tenkte Zangemann medan han låg og vrei seg heile natta."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:882
-#, fuzzy
 msgid "Waking up one morning with a deeply furrowed brow, he made a decision. He needed to make a change. Zangemann sat down at his computer and wrote one program after another. In these programs, he specified exactly what his inventions were to do and were not to do under any circumstances. The chaos had to stop!"
-msgstr "Ein morgon, då han vakna opp med ei ekstra djup rynke i panna, bestemde han seg. Det kunne ikkje halda slik fram! Han sette seg ned med den gylne datamaskina si og skreiv det eine programmet etter det andre. I desse programma bestemde han heilt presist kva oppfinningane hans kunne gjera og kva dei ikkje kunne gjera. Kaoset måtte ta slutt!"
+msgstr "Ein morgon, då han vakna opp med ei ekstra djup rynke i panna, bestemde han seg. Det kunne ikkje halda fram slik! Han sette seg ned med den gylne datamaskina si og skreiv det eine programmet etter det andre. I desse programma bestemde han heilt presist kva oppfinningane hans kunne gjera og kva dei ikkje kunne gjera. Kaoset måtte ta slutt!"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:883
-#, fuzzy
 msgid "Once he was done, he sent all the new programs from his golden computer to people’s devices. He ordered his speakers to play only his favorite music whenever he was within earshot. He programmed the ice-cream machines to stop selling ice cream in the afternoon. After all, he didn’t want his expensive clothes to get stained by ice cream while he was out for a walk. All day long he sat at the computer and typed and typed and typed..."
 msgstr "Då han var ferdig, sende han alle dei nye programma frå den gylne datamaskina si til folks einingar. Han beordra høgtalarane til å ikkje spela noko anna enn favorittmusikken hans når han var nært nok til å kunna høyra dei. Han programmerte iskremmaskinane til å ikkje lenger selja iskrem på ettermiddagen, for han ville ikkje få iskremflekker på dei dyre buksene sine når han var ute og spaserte. Heile dagen sat han ved datamaskina si og skreiv og skreiv og skreiv..."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:888
-#, fuzzy
 msgid "First real project"
 msgstr "Første skikkelege prosjekt"
 
@@ -1175,40 +1099,34 @@ msgstr "Første skikkelege prosjekt"
 #. File for the capital image, depending on the capital letter and the
 #. required color. Can be postponed to the publishing process.
 #: Ada_Zangemann.dbk:892
-#, fuzzy
 msgid "images/capitals/S-red2.png"
 msgstr "images/capitals/S-red2.png"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p26-1
 #: Ada_Zangemann.dbk:892
-#, fuzzy
 msgid "<phrase condition=\"capitals-text\">Summer</phrase><phrase condition=\"capitals-img\">ummer</phrase> break was already halfway over. Ada stood in front of her big project and scratched her head. She had built a skateboard from old parts and then connected a motor to make the wheels turn. With a motorized skateboard, Ada could zoom to the library or the junkyard even faster after school. Super practical! But it didn’t work. When she stood on it and pressed the Go! button, the wheels moved, but way too fast. Ada fell off the skateboard every time she started. No matter what she tried, she just couldn’t get it right."
-msgstr "<phrase condition=\"capitals-text\">Sommarferie</phrase><phrase condition=\"capitals-img\">ommeirferie</phrase> var allereie halvvegs over. Ada stod framfor det store prosjektet sitt og klødde seg i hovudet. Ho hadde bygd eit rullebrett frå gamle delar, og deretter kopla til ein motor for å få hjula til å snurra rundt. Med eit motorisert rullebrett kunne Ada susa av garde til biblioteket eller skraphaugen endå raskare etter skulen. Superpraktisk! Men det verka enno ikkje. Når ho stod på det og trykte på «Køyr!»-knappen, gjekk hjula rundt, men altfor raskt. Ada fall av rullebrettet kvar gong ho starta det. Same kva ho prøvde, så fekk ho det berre ikkje til å fungerer."
+msgstr "<phrase condition=\"capitals-text\">Sommarferien</phrase><phrase condition=\"capitals-img\">ommarferien</phrase> var allereie snart slutt. Ada stod framfor det store prosjektet sitt og klødde seg i hovudet. Ho hadde bygd eit rullebrett frå gamle delar, og deretter kopla til ein motor for å få hjula til å snurra rundt. Med eit motorisert rullebrett kunne Ada susa av garde til biblioteket eller skraphaugen endå raskare etter skulen. Superpraktisk! Men det verka enno ikkje. Når ho stod på det og trykte på «Køyr!»-knappen, gjekk hjula rundt, men altfor raskt. Ada fall av rullebrettet kvar gong ho starta det. Same kva ho prøvde, så fungerte det berre ikkje."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:893
-#, fuzzy
 msgid "After falling on her bottom for the hundredth time, she went back to the library. She always found answers to her questions there. And indeed, on the internet, she came across a program that someone had written for an electric scooter that also needed to start slowly. Ada downloaded it to her phone."
-msgstr "Etter å ha falle på rompa for hundrede gong, gjekk ho tilbake til biblioteket. Der fann ho eigentleg alltid svar på spørsmåla sine. Og sant nok. På Internett kom ho over eit program som nokon hadde skrive for eit elektrisk sparkesykkel som også måtte starta varsamt. Ada lasta det ned til telefonen sin."
+msgstr "Etter å ha falle på rompa for hundrede gong, gjekk ho tilbake til biblioteket. Der fann ho eigentleg alltid svar på spørsmåla sine. Og sant nok. På Internett kom ho over eit program som nokon hadde skrive for ein elektrisk sparkesykkel som også måtte starta varsamt. Ada lasta det ned til telefonen sin."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:895
-#, fuzzy
 msgid "Back at the junkyard, she adapted some lines of code for her skateboard program. She tweaked a few things and kept tinkering."
-msgstr "Tilbake på skraphaugen tilpassa ho nokre kodelinjer i rullebrettprogrammet sitt. Ho justerte på eit par ting og heldt fram med fiklinga."
+msgstr "Tilbake på skraphaugen tilpassa ho nokre kodelinjer i rullebrettprogrammet sitt. Ho justerte nokre småting og heldt fram med fiklinga."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:896
-#, fuzzy
 msgid "Several failed attempts later, on the last day of summer break, the time had finally come. Ada stood on the skateboard and pressed the Go! button, and the skateboard started moving, slowly at first, then faster. It worked! She tried to brake. It worked! Ada let out a cry of joy and took a trip to the park."
-msgstr "Fleire feila forsøk seinare, så sommarferiens siste dag, stod Ada endå ein gong på rullebrettet og trykte på Kjør!-knappen: Sakte byrja rullebrettet å bevega seg. Så vart det raskare. Det verka! Ho prøvde å bremsa. Det verka! Ada kom med eit jubelrop og tok ein tur i parken."
+msgstr "Fleire feila forsøk seinare, på sommarferiens siste dag, stod Ada endå ein gong på rullebrettet og trykte på Kjør!-knappen: Sakte byrja rullebrettet å røra seg. Så gjekk det raskare. Det verka! Ho prøvde å bremsa. Det verka! Ada kom med eit jubelrop og tok ein tur i parken."
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
 #. Link to the image. Only needs to be changed if the image is localized.
 #: Ada_Zangemann.dbk:901
-#, fuzzy
 msgid "images/illustrations/ada-p27.png"
 msgstr "images/illustrations/ada-p27.png"
 
@@ -1216,19 +1134,16 @@ msgstr "images/illustrations/ada-p27.png"
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired.
 #: Ada_Zangemann.dbk:903
-#, fuzzy
 msgid "Ada racing with her electric skateboard for city sidewalks. Ada's skateboard is blue, with gray and pink wheels; the electronic part is placed above the skateboard (as opposed to Zangemann's skateboards where the electronic part is below). Ada is holding in both hands a remote control with a short antenna to maneuver it. Behind Ada are Marie and Toni who carry their own skateboards under their arms and look with amazement at Ada, who has shot past them and in front of them. Marie has dark long hair with two braids fastened with orange clips, yellow earrings, a fuchsia shirt with white sleeves with purple horizontal stripes, a white skirt, white and yellow sneakers, white socks, a white hat with yellow sides, and a light purple backpack. Marie has a blue artificial leg. Her skateboard is blue with yellow wheels. Toni has red hair closely trimmed on the sides. He is wearing a blue sweatshirt, dark green pants, and white shoes. He has a red backpack with white inserts and shoulder straps. One hand is next to his mouth. His skateboard is purple with orange wheels. There's also a father with his son walking in the opposite direction: the father is dressed in a blue checked jacket and blue pants and holds a brown briefcase. He is smiling at Ada. His son has a blue shirt, blue shorts, white shoes, a brown backpack, and a red and white hat. He holds under his arm a yellow Zangemann skateboard with light brown wheels, and he grins at Ada. In the background there is a bakery with large windows through which you can see the bread. It has a green and white striped awning around the corner and a sign on the sidewalk with the list of products. Overhead, a large pretzel is displayed. On the road there is a puddle that reflects the blue of the sky."
-msgstr "Ada suser av garde på fortauet i byen med det elektriske rullebrettet sitt. Adas rullebrett er blått, med grå og rosa hjul; elektronikken er plassert oppå rullebrettet (i motsetning til Zangemanns rullebrett, der elektronikken er plassert under). Ada held ein fjernkontroll med ei kort antenne i begge hender for å styra. Bak Ada kjem Marie og Toni, som ber sine eigne rullebrett under armane og ser overraska på Ada, som har sust forbi dei og framfor dei. Marie har langt mørkt hår med to fletter festa med oransje spenner, gule øyredobbar, ei fuksia-farga skjorte med kvite ermar og lilla horisontale striper, eit kvitt skjørt, kvite og gule joggesko, kvite sokkar, ein kvit hatt som er gul på sidene, og ein lys lilla ryggsekk. Marie har ein blå kunstig legg. Rullebrettet hennar er blått med gule hjul. Toni har raudt hår som er trimma på sidene. Han har på seg ein blå genser, mørkegrøne bukser og eit par kvite sko. Han har ein raud ryggsekk med kvite innlegg og skulderstroppar. Den eine handa held han opp til munnen. Hans rullebrett er lilla med oransje hjul. Det er også ein far med son sin som går i motsett retning: Faren har på seg ei blå rutete jakke og blå bukser og held ein brun stresskoffert. Han smiler til Ada. Sonen har på seg ei blå skjorte, blå shorts, kvite sko, ein brun ryggsekk og ein raud og kvit hatt. Han held eit gult Zangemann rullebrett med lysebrune hjul under armen, og han smiler breitt til Ada. I bakgrunnen er det eit bakeri med store vindauge der ein kan sjå brødet. Det har ei grøn- og kvitstripete markise rundt hjørnet og eit skilt på fortauet med oversikt over produkta. Over hovudet heng ei stor kringle. På vegen er det ein vassdam som reflekterer den blå himmelen."
+msgstr "Ada suser av garde på fortauet i byen med det elektriske rullebrettet sitt. Adas rullebrett er blått, med grå og rosa hjul; elektronikken er plassert oppå rullebrettet (i motsetning til Zangemanns rullebrett, der elektronikken er plassert under). Ada held ein fjernkontroll med ei kort antenne i begge hender for å styra. Bak Ada kjem Marie og Toni, som ber sine eigne rullebrett under armane og ser overraska på Ada, som har sust forbi dei og framfor dei. Marie har langt mørkt hår med to fletter festa med oransje spenner, gule øyredobbar, ei fuksia-farga skjorte med kvite ermar og lilla horisontale striper, eit kvitt skjørt, kvite og gule joggesko, kvite sokkar, ein kvit hatt som er gul på sidene, og ein lys lilla ryggsekk. Marie har ein blå kunstig fot. Rullebrettet hennar er blått med gule hjul. Toni har raudt hår som er kort på sidene. Han har på seg ein blå genser, mørkegrøne bukser og eit par kvite sko. Han har ein raud ryggsekk med kvite detaljar og skulderstroppar. Den eine handa held han opp til munnen. Hans rullebrett er lilla med oransje hjul. Det er også ein far med son sin som går i motsett retning: Faren har på seg ei blå rutete jakke og blå bukser og held ein brun stresskoffert. Han smiler til Ada. Sonen har på seg ei blå skjorte, blå shorts, kvite sko, ein brun ryggsekk og ein raud og kvit hatt. Han held eit gult Zangemann rullebrett med lysebrune hjul under armen, og han smiler breitt til Ada. I bakgrunnen er det eit bakeri med store vindauge der ein kan sjå brødet. Det har ei grøn- og kvitstripete markise rundt hjørnet og eit skilt på fortauet med oversikt over produkta. Over døra heng ei stor kringle. På vegen er det ein vassdam som reflekterer den blå himmelen."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:908
-#, fuzzy
 msgid "When Ada rode her skateboard to school on the first day back after summer break, the other children were amazed. During recess, Ada’s curious classmates surrounded her."
 msgstr "Då Ada kom på skulen første dag etter sommarferien på rullebrettet sitt, vart dei andre barna heilt forbløffa. I friminuttet vart Ada omringa av nysgjerrige klassekameratar."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:909
-#, fuzzy
 msgid "“How can you ride your skateboard on the sidewalk?” they asked."
 msgstr "«Korleis kan du køyra rullebrettet ditt på fortauet?», spurde dei."
 
@@ -1236,7 +1151,6 @@ msgstr "«Korleis kan du køyra rullebrettet ditt på fortauet?», spurde dei."
 #. (itstool) comment: imageobject/imagedata@fileref
 #. Link to the image. Only needs to be changed if the image is localized.
 #: Ada_Zangemann.dbk:912
-#, fuzzy
 msgid "images/illustrations/ada-p28.png"
 msgstr "images/illustrations/ada-p28.png"
 
@@ -1244,27 +1158,23 @@ msgstr "images/illustrations/ada-p28.png"
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired.
 #: Ada_Zangemann.dbk:914
-#, fuzzy
 msgid "Ada stops on her skateboard surrounded by children. Marie is on one end. She is pointing to Ada's skateboard and she's talking. Next to her is Konrad, with short blond hair, a dark gray helmet, glasses, a green shirt with white collar and cuffs, light blue pants with white cuffs, and gray shoes with white soles. He has a red skateboard with orange wheels. Behind Ada there are 4 other children. On the other end Toni is smiling. He touches his chin with one hand while with the other he holds a yellow helmet by the laces."
-msgstr "Ada stoppar på rullebrettet sitt, og er omgitt av barn. Marie står i den eine enden. Ho peikar på Adas rullebrett og snakkar. Ved sida av henne står Konrad, med kort blondt hår, ein mørkegrå hjelm, briller, ei grøn skjorte med kvit krage og mansjettar, lyseblå bukser med kvite mansjettar og grå sko med kvite solar. Han har eit raudt rullebrett med oransje hjul. Bak Ada er det fire andre barn. I den andre enden står Toni og smiler. Han berører haka med den eine handa medan han held ein gul hjelm i reimane med den andre."
+msgstr "Ada stoppar på rullebrettet sitt, og er omgitt av barn. Marie står i den eine enden. Ho peikar på Adas rullebrett og snakkar. Ved sida av henne står Konrad, med kort blondt hår, ein mørkegrå hjelm, briller, ei grøn skjorte med kvit krage og mansjettar, lyseblå bukser med kvite mansjettar og grå sko med kvite solar. Han har eit raudt rullebrett med oransje hjul. Bak Ada er det fire andre barn. I den andre enden står Toni og smiler. Han rører haka med den eine handa medan han held ein gul hjelm i reimane med den andre."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:918
-#, fuzzy
 msgid "Ada thought for a moment, then said, “I don’t think it’s your skateboards but actually the software in them. It’s probably programmed into the software that the skateboards aren’t allowed to go on the sidewalk. But that can be changed!”"
-msgstr "Ada tenkte seg om ein augneblink før ho svarte: «Eg trur at problemet ikkje er rullebretta deira, men programvara i dei. Det er sannsynlegvis programmert inn i programvara at rullebretta ikkje får køyra på fortauet. Men det kan endrast!»"
+msgstr "Ada tenkte seg om ein augneblink før ho svarte: «Eg trur at problemet ikkje er rullebretta dykkar, men programvara i dei. Det er sannsynlegvis programmert inn i programvara at rullebretta ikkje får køyra på fortauet. Men det kan endrast!»"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:919
-#, fuzzy
 msgid "That evening, Ada tested out her theory on her classmate Toni’s skateboard. She worked secretly through most of the night, and the next day, Toni could ride on the sidewalk again. Unfortunately, his skateboard could no longer make the sounds that his parents had bought from Zangemann. Instead, every 10 minutes it made a strange noise that sounded like a drawn-out burp. Ada knew that little errors like that could pop up in programs all the time. But Toni’s burping skateboard was really quite funny."
-msgstr "Den kvelden testa Ada ut teorien sin på rullebrettet til klassekameraten sin Toni. Ho jobba i skjul det meste av natta, og dagen etter kunne Toni igjen bruka rullebrettet på fortauet. Dessverre kunne rullebrettet hans ikkje lenger laga lydane som foreldra hans hadde kjøpt av Zangemann. I staden laga det kvart tiande minutt ein merkeleg lyd som høyrde ut som eit langtrukket rap. Ada visste at den slags småfeilen alltid kunne dukka opp i eit program. Tonis rapande rullebrett var eigentleg ganske morosamt."
+msgstr "Den kvelden testa Ada ut teorien sin på rullebrettet til klassekameraten sin Toni. Ho jobba i skjul det meste av natta, og dagen etter kunne Toni igjen bruka rullebrettet på fortauet. Dessverre kunne rullebrettet hans ikkje lenger laga lydane som foreldra hans hadde kjøpt av Zangemann. I staden laga det kvart tiande minutt ein merkeleg lyd som høyrde ut som eit langstrekt rap. Ada visste at den slags småfeil alltid kunne dukka opp i eit program. Tonis rapande rullebrett var eigentleg ganske morosamt."
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
 #. Link to the image. Only needs to be changed if the image is localized.
 #: Ada_Zangemann.dbk:922
-#, fuzzy
 msgid "images/illustrations/ada-p29.png"
 msgstr "images/illustrations/ada-p29.png"
 
@@ -1272,13 +1182,11 @@ msgstr "images/illustrations/ada-p29.png"
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired.
 #: Ada_Zangemann.dbk:924
-#, fuzzy
 msgid "Hopscotch diagram drawn with chalk on asphalt. In a row, within squares, the numbers 1, 2; 3 and 4 next to each other; 5, 6; and 7 and 8 next to each other. The number 9 is not inside a square but inside a wider semicircle beyond the squares of numbers 7 and 8. Between the number 1 and the number 2 there is a blue bottle with white polka dots. A yellow Zangemann skateboard with orange wheels on the side of the diagram actually hides the number 1."
 msgstr "Paradis teikna med krit på asfalten. I ei rekkje, i ruter, står tala 1, 2; 3 og 4 ved sida av kvarandre; 5, 6; og 7 og 8 ved sida av kvarandre. Talet 9 er ikkje inne i ei rute, men i ein breiare halvsirkel utanfor rutene med tala 7 og 8. Mellom tala 1 og 2 er det ei blå flaske med kvite polkadottar. Eit gult Zangemann-rullebrett med oransje hjul plassert ved sida av paradiset skjuler talet 1."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:930
-#, fuzzy
 msgid "Hacking for freedom"
 msgstr "Fri til å fikla"
 
@@ -1287,20 +1195,17 @@ msgstr "Fri til å fikla"
 #. File for the capital image, depending on the capital letter and the
 #. required color. Can be postponed to the publishing process.
 #: Ada_Zangemann.dbk:934
-#, fuzzy
 msgid "images/capitals/M-yellow.png"
 msgstr "images/capitals/M-yellow.png"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p30-1
 #: Ada_Zangemann.dbk:934
-#, fuzzy
 msgid "<phrase condition=\"capitals-text\">More</phrase><phrase condition=\"capitals-img\">ore</phrase> and more children started to visit Ada at the junkyard after school, and she helped them rewrite the programs in their skateboards. Some of her classmates were very excited about this new discovery. It was unbelievable what you could do with software code! They wanted to learn everything Ada knew about programming languages, and soon they were riding their skateboards again, wherever they wanted to."
-msgstr "<phrase condition=\"capitals-text\">Fleire</phrase><phrase condition=\"capitals-img\">lere</phrase> og fleire barn byrja å besøkja Ada på skraphaugen etter skuletid, og ho hjelpte dei med å endra programma i rullebretta deira. Nokre av klassekameratane hennar vart veldig begeistra over denne nye oppdaginga. Det var heilt rått kva ein kunne få til med programkode! Dei ville læra alt det Ada kunne om programmeringsspråk. Snart brukte dei rullebretta sine igjen over alt der dei ønskte det."
+msgstr "<phrase condition=\"capitals-text\">Fleire</phrase><phrase condition=\"capitals-img\">leire</phrase> og fleire barn byrja å besøkja Ada på skraphaugen etter skuletid, og ho hjelpte dei med å endra programma i rullebretta deira. Nokre av klassekameratane hennar vart veldig begeistra over denne nye oppdaginga. Det var heilt rått kva ein kunne få til med programkode! Dei ville læra alt det Ada kunne om programmeringsspråk. Snart brukte dei rullebretta sine igjen over alt der dei ønskte det."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:936
-#, fuzzy
 msgid "But that wasn’t all. With the software, they could give their skateboards new, cool features. Marie attached colorful LED lights to her board that glowed different colors depending on the speed. Konrad built old propellers onto his skateboard for extra speed."
 msgstr "Men det var ikkje nok! Med programvara kunne dei gi rullebretta sine nye kule eigenskapar. Marie sette farga LED-lys på brettet sitt, slik at dei lyste i ulike fargar alt etter kor fort ho køyrde. Og Konrad monterte gamle propellar på rullebrettet sitt for ekstra fart."
 
@@ -1308,7 +1213,6 @@ msgstr "Men det var ikkje nok! Med programvara kunne dei gi rullebretta sine nye
 #. (itstool) comment: imageobject/imagedata@fileref
 #. Link to the image. Only needs to be changed if the image is localized.
 #: Ada_Zangemann.dbk:939
-#, fuzzy
 msgid "images/illustrations/ada-p30.png"
 msgstr "images/illustrations/ada-p30.png"
 
@@ -1316,25 +1220,21 @@ msgstr "images/illustrations/ada-p30.png"
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired.
 #: Ada_Zangemann.dbk:941
-#, fuzzy
 msgid "A green battery with red and yellow wires, a power strip, glue, a roll of solder, and two pencils."
 msgstr "Eit grønt batteri med raude og gule leidningar, ei straumpadde, lim, ein rull med loddetinn og to blyantar."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:945
-#, fuzzy
 msgid "Ada, Toni, Marie, and Konrad spent many afternoons at the junkyard. They even set up a real workshop where they could fine-tune their programs for hours, listening all the while to music from the speakers Ada had built for Alan."
 msgstr "Ada, Toni, Marie og Konrad var mange ettermiddagar på skraphaugen. Dei lagde til og med ein ekte verkstad der dei kunne finjustera programma sine i timevis, medan dei lytta til musikk frå høgtalarane som Ada hadde bygd til Alan."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:946
-#, fuzzy
 msgid "“Your brother’s speakers are much louder than ours,” remarked Toni, who was busy attaching a speedometer to his helmet. “I’m sure that’s also because of the software,” Marie said."
 msgstr "«Høgtalarane til bror din speler høgare enn våre», kommenterte Toni, medan dei heldt på med å montera fartsmålarar på hjelmane sine. «Eg er sikker på at også det er på grunn av programvara», sa Marie."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:947
-#, fuzzy
 msgid "Together, they changed the software for the speakers too. Then they turned up the music as loud as possible and danced wildly together."
 msgstr "Saman endra dei no også på programvara til høgtalarane. Så skrudde dei musikken opp så høgt dei kunne og dansa vilt saman."
 
@@ -1342,7 +1242,6 @@ msgstr "Saman endra dei no også på programvara til høgtalarane. Så skrudde d
 #. (itstool) comment: imageobject/imagedata@fileref
 #. Link to the image. Only needs to be changed if the image is localized.
 #: Ada_Zangemann.dbk:950
-#, fuzzy
 msgid "images/illustrations/ada-p31.png"
 msgstr "images/illustrations/ada-p31.png"
 
