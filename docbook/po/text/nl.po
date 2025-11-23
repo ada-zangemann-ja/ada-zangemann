@@ -1108,7 +1108,7 @@ msgstr "Na vele weken van protesten en gesprekken was het eindelijk zo ver: het 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:964
 msgid "“Everyone is allowed to program their own computers as long as they adhere to the other laws.”"
-msgstr "‘Het is iedereen toegestaan om hun eigen computer te programmeren zolang ze zich daarbij aan de andere wetten houdt.’"
+msgstr "‘Iedereen mag zijn of haar eigen computer programmeren zolang die zich daarbij aan de andere wetten houdt.’"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:965
