@@ -7,7 +7,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
 "PO-Revision-Date: 2025-11-23 12:29+0000\n"
-"Last-Translator: Keunes <keunes@mailbox.org>\n"
+"Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/fsfe/ada-zangemann/nl/>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
@@ -973,7 +973,7 @@ msgstr "<phrase condition=\"capitals-text\">De</phrase><phrase condition=\"capit
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:881
 msgid "On the following day, Ada and her friends again sat down in front of the parliament building, this time with support. Some classmates came whose skateboards Ada had reprogrammed. Toni’s father and other parents and adults also wanted to support the protest. They found the children’s devices very useful."
-msgstr "Ook de volgende dag gingen Ada en haar vrienden weer zitten voor het parlementsgebouw, deze keer gesteund door anderen. Sommige klasgenoten, waarvoor Ada hun skateboards geherprogrammeerd had, waren ook gekomen. Toni’s vader en andere volwassenen wilden het protest ook steunen. Ze vonden de apparaten van de kinderen erg handig."
+msgstr "Ook de volgende dag gingen Ada en haar vrienden weer zitten voor het parlements­gebouw. Deze keer werden ze gesteund. Sommige klasgenoten, waarvoor Ada hun skateboards geherprogrammeerd had, waren ook gekomen. Toni’s vader en andere volwassenen wilden het protest ook steunen. Ze vonden de apparaten van de kinderen erg handig."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1062,7 +1062,7 @@ msgstr "De volgende dag nodigde de president Ada en haar vrienden uit. ‘We wil
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:937
 msgid "With this new knowledge, the government would be able to design its own software, the way it wanted — completely without Zangemann. Immediately, the president called his advisers. In a large group, they discussed with the children everything they could change and improve in the software."
-msgstr "Met deze nieuwe kennis kon de regering haar eigen software ontwerpen, zoals ze het wilde – helemaal zonder Zangemann. Onmiddellijk riep de president zijn adviseurs bij elkaar. In een grote groep bespraken ze met de kinderen wat ze graag aan de software wilden veranderen en verbeteren."
+msgstr "Met deze nieuwe kennis kon de regering haar eigen software ontwerpen, zoals ze het wilde – helemaal zonder Zangemann. Onmiddellijk riep de president zijn adviseurs bij zich. In een grote groep bespraken ze met de kinderen wat ze graag aan de software wilden veranderen en verbeteren."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:938
@@ -1108,7 +1108,7 @@ msgstr "Na vele weken van protesten en gesprekken was het eindelijk zo ver: het 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:964
 msgid "“Everyone is allowed to program their own computers as long as they adhere to the other laws.”"
-msgstr "‘Iedereen mag zijn of haar eigen computer programmeren zolang die zich daarbij aan de andere wetten houdt.’"
+msgstr "‘Iedereen mag hun eigen computer programmeren zolang ze zich daarbij aan de andere wetten houdt.’"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:965
@@ -1126,7 +1126,7 @@ msgstr "De president met Toni, Bram, Marie, Ada en een boodschapper die op de tr
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:975
 msgid "That evening, everyone celebrated with a big party. Ada, Alan, Toni, Marie, Konrad, and other children from school and their parents; the president; Ms. Gernet; the bus driver; the custodian — they were all there. They decorated the streets, listened to loud music, and ate ice cream, as much as they wanted, and in every imaginable shape and color."
-msgstr "Die avond vierde iedereen samen een groot feest. Ada, Alan, Toni, Marie, Bram, de andere kinderen van school en hun ouders, de president, mevrouw Gernet, de buschauffeur, de conciërge. Ze waren er allemaal bij. Ze versierden de straten, luisterden naar luide muziek en aten ijs zoveel als ze wilden en in elke denkbare vorm en kleur."
+msgstr "Die avond vierde iedereen samen een groot feest. Ada, Alan, Toni, Marie, Bram, de andere kinderen van school en hun ouders, de president, mevrouw Gernet, de buschauffeur en de conciërge. Ze waren er allemaal bij. Ze versierden de straten, luisterden naar luide muziek en aten zoveel ijs als ze wilden, in elke denkbare vorm en kleur."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
