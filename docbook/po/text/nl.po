@@ -6,15 +6,15 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2025-10-23 05:24+0000\n"
-"Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
+"PO-Revision-Date: 2025-11-23 12:29+0000\n"
+"Last-Translator: Keunes <keunes@mailbox.org>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/fsfe/ada-zangemann/nl/>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.14-dev\n"
+"X-Generator: Weblate 5.15-dev\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
@@ -1044,7 +1044,7 @@ msgstr "<phrase condition=\"capitals-text\">Ada</phrase><phrase condition=\"capi
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:926
 msgid "The president looked at the determined faces of the children. Honestly, he, too, wanted to decide for himself what the government could and couldn’t do with its computers. But he didn’t understand anything about computers and code, so he had always left that to Zangemann. Deep in thought, the president entered the building."
-msgstr "De president keek naar de vastberaden blikken van de kinderen. Als hij eerlijk was, wilde hij ook graag zelf besluiten wat de regering met haar computers kon doen en wat niet. Maar hij begreep niets van computers en code, dus hadden ze dat altijd aan Zangemann overgelaten. Diep in gedachten ging de president naar binnen."
+msgstr "De president keek naar de vastberaden blikken van de kinderen. Om eerlijk te zijn, wilde hij ook graag zelf besluiten wat de regering met haar computers kon doen en wat niet. Maar hij begreep niets van computers en code, dus hadden ze dat altijd aan Zangemann overgelaten. Diep in gedachten ging de president naar binnen."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1062,7 +1062,7 @@ msgstr "De volgende dag nodigde de president Ada en haar vrienden uit. ‘We wil
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:937
 msgid "With this new knowledge, the government would be able to design its own software, the way it wanted — completely without Zangemann. Immediately, the president called his advisers. In a large group, they discussed with the children everything they could change and improve in the software."
-msgstr "Met deze nieuwe kennis kon de regering haar eigen software ontwerpen, zoals ze het wilde – helemaal zonder Zangemann. Onmiddellijk riep de president zijn adviseurs bij hem. In een grote groep bespraken ze met de kinderen wat ze graag aan de software wilden veranderen en verbeteren."
+msgstr "Met deze nieuwe kennis kon de regering haar eigen software ontwerpen, zoals ze het wilde – helemaal zonder Zangemann. Onmiddellijk riep de president zijn adviseurs bij elkaar. In een grote groep bespraken ze met de kinderen wat ze graag aan de software wilden veranderen en verbeteren."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:938
