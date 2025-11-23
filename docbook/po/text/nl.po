@@ -973,7 +973,7 @@ msgstr "<phrase condition=\"capitals-text\">De</phrase><phrase condition=\"capit
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:881
 msgid "On the following day, Ada and her friends again sat down in front of the parliament building, this time with support. Some classmates came whose skateboards Ada had reprogrammed. Toni’s father and other parents and adults also wanted to support the protest. They found the children’s devices very useful."
-msgstr "Ook de volgende dag gingen Ada en haar vrienden weer zitten voor het parlements­gebouw. Ditmaal werden ze gesteund. Sommige klasgenoten, waarvoor Ada hun skateboards geherprogrammeerd had, waren ook gekomen. Toni’s vader en andere volwassenen wilden het protest ook steunen. Ze vonden de apparaten van de kinderen erg handig."
+msgstr "Ook de volgende dag gingen Ada en haar vrienden weer zitten voor het parlementsgebouw, deze keer gesteund door anderen. Sommige klasgenoten, waarvoor Ada hun skateboards geherprogrammeerd had, waren ook gekomen. Toni’s vader en andere volwassenen wilden het protest ook steunen. Ze vonden de apparaten van de kinderen erg handig."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
