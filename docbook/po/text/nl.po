@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2025-11-23 12:29+0000\n"
+"PO-Revision-Date: 2025-11-23 15:26+0000\n"
 "Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/fsfe/ada-zangemann/nl/>\n"
 "Language: nl\n"
@@ -203,7 +203,7 @@ msgstr "Colofon"
 #.
 #. In a literallayout element all space and newline characters are kept.
 #: Ada_Zangemann.dbk:372
-#, fuzzy, no-wrap
+#, no-wrap
 msgid ""
 "Copyright © 2023 Matthias Kirschner and Sandra Brandstätter.\n"
 "This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.\n"
@@ -239,9 +239,8 @@ msgstr ""
 "\n"
 "Op dit werk is een Creative Commons Naamsvermelding-GelijkDelen 4.0 Internationaal licentie van toepassing.\n"
 "\n"
-"<emphasis role=\"bold\">Je mag</emphasis> het materiaal in welk medium of formaat dan ook delen, kopiëren en verspreiden. <emphasis role=\"bold\">Je mag</emphasis> het materiaal voor welk doel dan ook, zelfs commercieel, aanpassen, remixen, veranderen en op voortbouwen. <emphasis role=\"bold\">Je moet</emphasis> de juiste naam vermelden, een link naar de licentie leveren en duidelijk maken of er veranderingen zijn gemaakt.\n"
-"\n"
-"<emphasis role=\"bold\">Je mag</emphasis> dit doen op een redelijke manier, maar niet zodanig dat de indruk gewekt wordt dat de licentiegever instemt met uw werk of uw gebruik van het werk. Als je het werk hebt geremixt, veranderd, of op het werk hebt voortgebouwd, <emphasis role=\"bold\">moet je</emphasis> het veranderde materiaal verspreiden onder dezelfde licentie als het originele werk. (Dit is een voor mensen leesbare samenvatting en geen vervanging voor de juridische code van CC-BY-SA 4.0).\n"
+"<emphasis role=\"bold\">Je mag</emphasis> het materiaal in welk medium of formaat dan ook delen, kopiëren en verspreiden. <emphasis role=\"bold\">Je mag</emphasis> het materiaal veranderen, remixen en afgeleiden werken voor alle doeleinden, inclusief inclusief commerciële doeleinden. <emphasis role=\"bold\">Je moet</emphasis> de maker van het werk vermelden, een link naar de licentie plaatsen en aangeven of het werk veranderd is.\n"
+"<emphasis role=\"bold\">Je mag</emphasis> dat op op een redelijke manier doen, maar niet zodanig dat de indruk gewekt wordt dat de licentiegever instemt met je werk of je gebruik van het werk. Als je het werk hebt geremixt, veranderd, of op het werk hebt voortgebouwd, <emphasis role=\"bold\">moet je</emphasis> het veranderde materiaal verspreiden onder dezelfde licentie als het originele werk. (Dit is een samenvatting en geen vervanging voor de juridische tekst van CC-BY-SA 4.0).\n"
 "\n"
 "Verder vraagt de licentiehouder voor geremixte versies (afgeleide werken) je om de persoonlijke dankbetuigingen van de auteur en de korte biografieën van de auteur en de illustratrice niet te veranderen; of liever deze delen geheel te verwijderen van uw geremixte versie."
 
@@ -253,7 +252,7 @@ msgstr ""
 #.
 #. In a literallayout element all space and newline characters are kept.
 #: Ada_Zangemann.dbk:389
-#, fuzzy, no-wrap
+#, no-wrap
 msgid ""
 "Copyright © 2023 Matthias Kirschner and Sandra Brandstätter.\n"
 "This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.\n"
@@ -323,9 +322,8 @@ msgstr ""
 "\n"
 "Op dit werk is een Creative Commons Naamsvermelding-GelijkDelen 4.0 Internationaal licentie van toepassing.\n"
 "\n"
-"<emphasis role=\"bold\">Je mag</emphasis> het materiaal in welk medium of formaat dan ook delen, kopiëren en verspreiden. <emphasis role=\"bold\">Je mag</emphasis> het materiaal voor welk doel dan ook, zelfs commercieel, aanpassen, remixen, veranderen en op voortbouwen. <emphasis role=\"bold\">Je moet</emphasis> de juiste naam vermelden, een link naar de licentie leveren en duidelijk maken of er veranderingen zijn gemaakt.\n"
-"\n"
-"<emphasis role=\"bold\">Je mag</emphasis> dit doen op een redelijke manier, maar niet zodanig dat de indruk gewekt wordt dat de licentiegever instemt met uw werk of uw gebruik van het werk. Als je het werk hebt geremixt, veranderd, of op het werk hebt voortgebouwd, <emphasis role=\"bold\">moet je</emphasis> het veranderde materiaal verspreiden onder dezelfde licentie als het originele werk. (Dit is een voor mensen leesbare samenvatting en geen vervanging voor de juridische code van CC-BY-SA 4.0).\n"
+"<emphasis role=\"bold\">Je mag</emphasis> het materiaal in welk medium of formaat dan ook delen, kopiëren en verspreiden. <emphasis role=\"bold\">Je mag</emphasis> het materiaal veranderen, remixen en afgeleiden werken voor alle doeleinden, inclusief inclusief commerciële doeleinden. <emphasis role=\"bold\">Je moet</emphasis> de maker van het werk vermelden, een link naar de licentie plaatsen en aangeven of het werk veranderd is.\n"
+"<emphasis role=\"bold\">Je mag</emphasis> dat op op een redelijke manier doen, maar niet zodanig dat de indruk gewekt wordt dat de licentiegever instemt met je werk of je gebruik van het werk. Als je het werk hebt geremixt, veranderd, of op het werk hebt voortgebouwd, <emphasis role=\"bold\">moet je</emphasis> het veranderde materiaal verspreiden onder dezelfde licentie als het originele werk. (Dit is een samenvatting en geen vervanging voor de juridische tekst van CC-BY-SA 4.0).\n"
 "\n"
 "Verder vraagt de licentiehouder voor geremixte versies (afgeleide werken) je om de persoonlijke dankbetuigingen van de auteur en de korte biografieën van de auteur en de illustratrice niet te veranderen; of liever deze delen geheel te verwijderen van uw geremixte versie."
 
@@ -901,7 +899,7 @@ msgstr "Handen die mooie ijshoorntjes vasthouden: blauw ijs met een chocoladehar
 #. (itstool) id: Ada_Zangemann.dbk#para-p35-1
 #: Ada_Zangemann.dbk:838
 msgid "<phrase condition=\"capitals-text\">Every</phrase><phrase condition=\"capitals-img\">very</phrase> day, Ada and her friends made plans together for the afternoon. From a broken ice-cream machine, they built a new one that could make ice cream in every imaginable shape and color. They ate square ice cream, heart-shaped ice cream, and even pyramid-shaped ice cream, as well as strawberry, raspberry, and rainbow ice cream, all with sprinkles and hot fudge — much better than the varieties from the Zangemann machines."
-msgstr "<phrase condition=\"capitals-text\">Elke</phrase><phrase condition=\"capitals-img\">lke</phrase> dag maakten Ada en haar vrienden plannen voor de middag. Uit een kapotte ijsjesmachine bouwden ze een nieuwe die ijs in elke denkbare vorm en kleur kon maken. Ze aten vierkant ijs, hartvormig ijs en zelfs piramidevormig ijs, alsook aardbei, framboos en regenboogijs. En allemaal met discodip en chocodip. Veel beter dan de keuzes uit de Zangemann-machines."
+msgstr "<phrase condition=\"capitals-text\">Elke</phrase><phrase condition=\"capitals-img\">lke</phrase> dag maakten Ada en haar vrienden plannen voor de middag. Uit een kapotte ijsjesmachine bouwden ze een nieuwe die ijs in elke denkbare vorm en kleur kon maken. Ze aten vierkant ijs, hartvormig ijs en zelfs piramidevormig ijs, alsook aardbei-, framboos- en regenboogijs. En allemaal met discodip en chocodip. Veel beter dan de keuzes uit de Zangemann-machines."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:839
@@ -922,7 +920,7 @@ msgstr "Zangemann en de president"
 #. (itstool) id: Ada_Zangemann.dbk#para-p36-1
 #: Ada_Zangemann.dbk:849
 msgid "<phrase condition=\"capitals-text\">One</phrase><phrase condition=\"capitals-img\">ne</phrase> day, Zangemann noticed that some computers no longer obeyed his programming commands. Shocked and fuming with anger, he called the president. In a quivering voice, Zangemann yelled, “Someone is rewriting the programs in my devices. That can’t happen; after all, they are my inventions. It’s far too dangerous if everyone can do whatever they want with the computers. You must make a law against this!”"
-msgstr "<phrase condition=\"capitals-text\">Op</phrase><phrase condition=\"capitals-img\">p</phrase> een dag merkte Zangemann dat sommige computers niet meer luisterden naar zijn opdrachten. Geschrokken en stomend van woede belde hij de president. Hij brulde met een bevende stem: ‘Iemand herschrijft de programma’s in mijn apparaten. Dat kan niet, dat zijn namelijk mijn uitvindingen. En het is veel te gevaarlijk als iedereen met computers kan doen wat hij of zij wil. Daar moet je een wet tegen maken!’"
+msgstr "<phrase condition=\"capitals-text\">Op</phrase><phrase condition=\"capitals-img\">p</phrase> een dag merkte Zangemann dat sommige computers niet meer luisterden naar zijn opdrachten. Geschrokken en stomend van woede belde hij de president. Hij brulde met een bevende stem: ‘Iemand herschrijft de programma’s in mijn apparaten. Dat kan niet, dat zijn namelijk mijn uitvindingen. En het is veel te gevaarlijk als iedereen met computers kan doen wat die wil. Daar moet je een wet tegen maken!’"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:850
@@ -1317,7 +1315,7 @@ msgid ""
 "More information about the book can be found at <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
 msgstr ""
 "Bedenk een paar lekkere, leuke of gekke ijssoorten en teken ze in de ijshoorntjes op de volgende pagina.\n"
-"Meer kleurplaten en informatie over het boek is te vinden op <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
+"Meer informatie over het boek is te vinden op <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
