@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2025-11-23 15:26+0000\n"
+"PO-Revision-Date: 2025-11-23 15:35+0000\n"
 "Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/fsfe/ada-zangemann/nl/>\n"
 "Language: nl\n"
@@ -242,7 +242,7 @@ msgstr ""
 "<emphasis role=\"bold\">Je mag</emphasis> het materiaal in welk medium of formaat dan ook delen, kopiëren en verspreiden. <emphasis role=\"bold\">Je mag</emphasis> het materiaal veranderen, remixen en afgeleiden werken voor alle doeleinden, inclusief inclusief commerciële doeleinden. <emphasis role=\"bold\">Je moet</emphasis> de maker van het werk vermelden, een link naar de licentie plaatsen en aangeven of het werk veranderd is.\n"
 "<emphasis role=\"bold\">Je mag</emphasis> dat op op een redelijke manier doen, maar niet zodanig dat de indruk gewekt wordt dat de licentiegever instemt met je werk of je gebruik van het werk. Als je het werk hebt geremixt, veranderd, of op het werk hebt voortgebouwd, <emphasis role=\"bold\">moet je</emphasis> het veranderde materiaal verspreiden onder dezelfde licentie als het originele werk. (Dit is een samenvatting en geen vervanging voor de juridische tekst van CC-BY-SA 4.0).\n"
 "\n"
-"Verder vraagt de licentiehouder voor geremixte versies (afgeleide werken) je om de persoonlijke dankbetuigingen van de auteur en de korte biografieën van de auteur en de illustratrice niet te veranderen; of liever deze delen geheel te verwijderen van uw geremixte versie."
+"Verder vraagt de licentiehouder voor geremixte versies (afgeleide werken) je om de persoonlijke dankbetuigingen van de auteur en de korte biografieën van de auteur en de illustratrice niet te veranderen; of liever deze delen geheel te verwijderen van je geremixte versie."
 
 #. (itstool) path: simplesect/literallayout
 #. Full page colophon. Intended for print use, as an alternative to the
@@ -325,7 +325,7 @@ msgstr ""
 "<emphasis role=\"bold\">Je mag</emphasis> het materiaal in welk medium of formaat dan ook delen, kopiëren en verspreiden. <emphasis role=\"bold\">Je mag</emphasis> het materiaal veranderen, remixen en afgeleiden werken voor alle doeleinden, inclusief inclusief commerciële doeleinden. <emphasis role=\"bold\">Je moet</emphasis> de maker van het werk vermelden, een link naar de licentie plaatsen en aangeven of het werk veranderd is.\n"
 "<emphasis role=\"bold\">Je mag</emphasis> dat op op een redelijke manier doen, maar niet zodanig dat de indruk gewekt wordt dat de licentiegever instemt met je werk of je gebruik van het werk. Als je het werk hebt geremixt, veranderd, of op het werk hebt voortgebouwd, <emphasis role=\"bold\">moet je</emphasis> het veranderde materiaal verspreiden onder dezelfde licentie als het originele werk. (Dit is een samenvatting en geen vervanging voor de juridische tekst van CC-BY-SA 4.0).\n"
 "\n"
-"Verder vraagt de licentiehouder voor geremixte versies (afgeleide werken) je om de persoonlijke dankbetuigingen van de auteur en de korte biografieën van de auteur en de illustratrice niet te veranderen; of liever deze delen geheel te verwijderen van uw geremixte versie."
+"Verder vraagt de licentiehouder voor geremixte versies (afgeleide werken) je om de persoonlijke dankbetuigingen van de auteur en de korte biografieën van de auteur en de illustratrice niet te veranderen; of liever deze delen geheel te verwijderen van je geremixte versie."
 
 #. (itstool) path: simplesect/literallayout
 #. Grey section in the bottom of half page colophon.
