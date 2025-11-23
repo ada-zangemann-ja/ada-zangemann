@@ -30,11 +30,12 @@ Packages needed for most outputs:
 - **scribus** to open the rendered file and generate pdf
 - **fonts-roboto** as standard font in the document
 - **ghostscript** for lower resolution pdf files
+- **xvfb** to hide Scribus UI when producing PDFs (optional)
 
 A convenient install command:
 
 ```
-sudo apt install make gettext itstool xsltproc libxml2-utils imagemagick docbook-xsl pandoc scribus fonts-roboto ghostscript
+sudo apt install make gettext itstool xsltproc libxml2-utils imagemagick docbook-xsl pandoc scribus fonts-roboto ghostscript xvfb
 ```
 
 Other package might be necessary for more specific outputs.

@@ -20,4 +20,9 @@ fi
 
 # TODO: Hide GUI using xvfb-run or work-in-progress https://gitlab.freedesktop.org/ofourdan/xwayland-run
 
-scribus --no-splash -g -py "${scripts_path}/scribus_screen_pdf.py" -- "${1}"
+if type "xvfb-run" > /dev/null; then
+    echo "Found xvfb, using it to hide the Scribus GUI"
+    xvfb-fun scribus --no-splash -g -py "${scripts_path}/scribus_screen_pdf.py" -- "${1}"
+else
+    scribus --no-splash -g -py "${scripts_path}/scribus_screen_pdf.py" -- "${1}"
+fi

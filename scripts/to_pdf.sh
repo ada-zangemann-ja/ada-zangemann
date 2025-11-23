@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# SPDX-FileCopyrightText: 2024 Nico Rikken <nico.rikken@fsfe.org>
+# SPDX-FileCopyrightText: 2024-2025 Nico Rikken <nico.rikken@fsfe.org>
 # SPDX-FileCopyrightText: 2024 Petter Reinholdtsen <pere@hungry.com>
 #
 # SPDX-License-Identifier: CC0-1.0
@@ -20,4 +20,9 @@ fi
 
 # TODO: Hide GUI using xvfb-run or work-in-progress https://gitlab.freedesktop.org/ofourdan/xwayland-run
 
-scribus --no-splash -g -py "${scripts_path}/scribus_pdf.py" -- "${1}"
+if type "xvfb-run" > /dev/null; then
+    echo "Found xvfb, using it to hide the Scribus GUI"
+    xvfb-run scribus --no-splash -g -py "${scripts_path}/scribus_pdf.py" -- "${1}"
+else
+    scribus --no-splash -g -py "${scripts_path}/scribus_pdf.py" -- "${1}"
+fi
