@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-10-16 21:28+0200\n"
-"PO-Revision-Date: 2025-11-13 13:51+0000\n"
+"PO-Revision-Date: 2025-11-23 15:26+0000\n"
 "Last-Translator: Yaron Shahrabani <sh.yaron@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/fsfe/ada-zangemann/he/>\n"
 "Language: he\n"
@@ -214,6 +214,23 @@ msgid ""
 "\n"
 "<emphasis role=\"bold\">A big thank you</emphasis> to <emphasis role=\"bold\">dpunkt.verlag</emphasis> and <emphasis role=\"bold\">No Starch Press</emphasis> for understanding the values of software freedom, taking the time to discuss and understand the advantages of free cultural licenses, and the great support to publish this book under conditions that respect the FSFE’s values."
 msgstr ""
+"כל הזכויות שמורות © 2023 למתיאס קירשנר ולסנדרה ברנדשטייטר.\n"
+"היצירה הזאת כפופה לרישיון Creative Commons Attribution-ShareAlike 4.0 הבינלאומי.\n"
+"כדי לצפות בעותק של הרישיון הזה, יש לפנות אל <link xlink:href=\"https://creativecommons.org/licenses/by-sa/4.0/\">https://creativecommons.org/licenses/by-sa/4.0/</link> או לשלוח מכתב ל־Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.\n"
+"\n"
+"<emphasis role=\"bold\">עדה וזנגמן: סיפור על תוכנה, סקייטבורדים וגלידת פטל</emphasis> הוא תרגום מהמקור בגרמנית, Ada und Zangemann: Ein Märchen über Software, Skateboards und Himbeereis, יצא לאור על ידי Dpunkt.verlag בשיתוף עם O’Reilly Media, Inc.‎, תחת המותג “O’REILLY,‎”‏ © 2022 על ידי מתיאס קירשנר וסנדרה ברנדשטייטר.\n"
+"\n"
+"הספר הזה הוא מאת מתיאס קירשנר (מחבר) וסנדרה ברנדשטייטר (מאיירת) כפוף לרישיון <emphasis role=\"bold\">Creative Commons CC-BY-SA</emphasis>, רישיון לתרבות חופשית.\n"
+"\n"
+"<emphasis role=\"bold\">מותר</emphasis> לשתף, להעתיק ולהפיץ את החומר הזה מחדש בכל אמצעי או תסדיר אחסון. <emphasis role=\"bold\">מותר</emphasis> להתאים, לערבב, לשנות, ולבנות על החומר הזה, אפילו למטרות מסחריות. <emphasis role=\"bold\">חובה</emphasis> לציין את זכויות היוצרים, לספק קישור לרישיון ולציין אילו שינויים בוצעו.\n"
+"\n"
+"<emphasis role=\"bold\">מותר</emphasis> לעשות זאת בכל דרך סבירה, אך לא בדרך שמרמזת על כך שמעניק הרישיון מעודד אותך לפעול כך. אם ערבבת, שינית או בנית על החומר חלה עליך או עלייך <emphasis role=\"bold\">חובה</emphasis> להפיץ את התרומות שלך בכפוף לאותו הרישיון כמו המקור. (זה תקציר מובן לבני אדם ואינו תחליף ל„קוד המשפטי” CC-BY-SA 4.0.)\n"
+"\n"
+"יתרה מכך, בגרסאות מעורבבות (יצירות נגזרות), מעניק הרישיון מבקש ממך לא לערוך שינויים בהוקרות האישיות והביוגרפיות הקצרות של המחבר והמאיירת, במקום יש להסיר אותם לחלוטין מהגרסה שערבבת.\n"
+"\n"
+"הוצאה לאור תחת רישיון לתרבות חופשית התאפשר בזכות dpunkt.verlag GmbH / O’Reilly Media, Inc. עבור הספר הגרמני ובזכות No Starch Press עבור הספר באנגלית. לרוע המזל, רישיונות Creative Commons הן עדיין חריגות נדירות לספרים שזמינים מסחרית, וזה בדרך כלל נחשב מהפכני ומסוכן להוצאות לאור.\n"
+"\n"
+"<emphasis role=\"bold\">תודה ענקית</emphasis> ל־<emphasis role=\"bold\">dpunkt.verlag</emphasis> ול־<emphasis role=\"bold\">No Starch Press</emphasis> על הבנת הערך של חופש התוכנה, השקעת הזמן בדיונים ובהבנת היתרונות של רישיונות לתרבות חופשית והתמיכה המדהימה בהוצאת הספר הזה לאור תחת תנאים שמכבדים את הערכים של ה־FSFE (קרן חופש התוכנה האירופית)."
 
 #. (itstool) path: simplesect/literallayout
 #. Full page colophon. Intended for print use, as an alternative to the
@@ -370,7 +387,7 @@ msgstr "<phrase condition=\"capitals-text\">בעבר</phrase><phrase condition=\
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:508
 msgid "Ada in foreground leaving the house to go to school, in the background Ada’s house and the junkyard. Ada has a brown backpack with yellow shoulder straps. To the left of Ada there is a red car, a Volkswagen Beetle, without wheels and no longer working, with one of the headlights remaining attached only with its wires. On the left, in front of the car, there are two tires, two boxes – one of which is a wooden box with an overturned bucket –, and an empty can, all among some plants with yellow flowers. In the background there is Ada’s house, with her mother and her brother Alan waving goodbye, and the dog sitting on the ground. Alan is sitting on the two entrance steps of the house. He has short dark hair and is dressed in a white short-sleeved shirt with a red stripe at the edges of the sleeves and two red stripes at the bottom of the shirt. Alan wears blue shorts and he is barefoot. Ada’s mom has dark lipstick and long black hair in a white headband. She is wearing a short blue shirt with white trim, white pants, and yellow shoes. Ada’s house is built of wood, with the front being white. The roof is dark red corrugated sheeting. There are two windows in front in addition to the door, and another window on the left side. A yellow duck stands on top of the roof, while a gray chimney protrudes. An antenna on the left of the roof supports a clothesline on which red clothespins hold a green tank top, a pair of light blue pants, and white underpants. To the right of the house there is a veranda on which there is installed a solar panel. Under the veranda there are a mattress, a red oil drum, and a gray case. Behind the house there are piles of landfill objects among which you can see a washing machine, a car, and various wooden boards."
-msgstr ""
+msgstr "עדה בחזית יוצאת מביתה כדי ללכת לבית הספר, ברקע הבית של עדה ומגרש הגרוטאות. לעדה יש תיק חום עם כתפיות צהובות. מימין לעדה יש מכונית מסוג חיפושית של פולקסווגן, ללא גלגלים ומושבתת, עם פנס אחד שעדיין מחובר רק על החוטים שלו. מימין, מול האוטו, יש שני צמיגים, שתי תיבות - אחת מהן מעץ עם דלי הפוך -, ופחית ריקה, כל זה בין צמחייה עם פרחים צהובים. ברקע מופיע הבית של עדה, שעל מפתנו עומדים אימה שלה ואחיה אלן שמנופפים לה לשלום, והכלב שיושב על הרצפה. אלן יושב על שתי מדרגות הכניסה לבית. יש לו שיער כהה קצר והיא לבוש בחולצה קצרה עם פס אדום על קצוות השרוולים ושני פסים אדומים בתחתית החולצה, מכנסיים לבנים ונעליים צהובות. הבית של עדה בנוי מעץ, בעוד חזיתו לבנה. הגג בנוי מלוחות גליים בצבע אדום כהה. יש שני חלונות בחזית בנוסף לדלת, וחלון נוסף מצד ימין. ברווז צהוב עומד על הגג, כאשר מהצד יוצאת ארובה אפורה. אנטנה בצדו הימני של הגג תומכת בחבל הכביסה שעליו אטבי כביסה מחזיקים חולצת בטן ירוקה, מכנסיים בצבע תכלת ותחתונים לבנים. משמאל לבית יש פרגולה עליה מותקן לוח סולרי. מתחת לפרגולה יש מחצלת, חבית דלק אדומה ותיבה אפורה. מאחורי הבית יש ערימות של פריטים של מגרש גרוטאות ביניהם ניתן לראות מכונת כביסה, מכונית ומגוון לוחות עץ."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -731,7 +748,7 @@ msgstr "כמה ניסיונות כושלים מאוחר יותר, ביום הא�
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:754
 msgid "Ada racing with her electric skateboard for city sidewalks. Ada’s skateboard is blue, with gray and pink wheels; the electronic part is placed above the skateboard (as opposed to Zangemann’s skateboards where the electronic part is below). Ada is holding in both hands a remote control with a short antenna to maneuver it. Behind Ada are Marie and Toni who carry their own skateboards under their arms and look with amazement at Ada, who has shot past them and in front of them. Marie has dark long hair with two braids fastened with orange clips, yellow earrings, a fuchsia shirt with white sleeves with purple horizontal stripes, a white skirt, white and yellow sneakers, white socks, a white hat with yellow sides, and a light purple backpack. Marie has a blue artificial leg. Her skateboard is blue with yellow wheels. Toni has red hair closely trimmed on the sides. He is wearing a blue sweatshirt, dark green pants, and white shoes. He has a red backpack with white inserts and shoulder straps. One hand is next to his mouth. His skateboard is purple with orange wheels. There’s also a father with his son walking in the opposite direction: the father is dressed in a blue checked jacket and blue pants and holds a brown briefcase. He is smiling at Ada. His son has a blue shirt, blue shorts, white shoes, a brown backpack, and a red and white hat. He holds under his arm a yellow Zangemann skateboard with light brown wheels, and he grins at Ada. In the background there is a bakery with large windows through which you can see the bread. It has a green and white striped awning around the corner and a sign on the sidewalk with the list of products. Overhead, a large pretzel is displayed. On the road there is a puddle that reflects the blue of the sky."
-msgstr ""
+msgstr "עדה דוהרת עם הסקייטבורד החשמלי שלה על מדרכות העיר. הסקייטבורד של עדה כחול, עם גלגלים ורודים ואפורים, החלק החשמל מוצב מעל לסקייטבורד (בניגוד לסקייטבורדים של זנגמן בהם החלק החשמלי נמצא למטה). עדה מחזיקה בשתי הידיים שלט רחוק עם אנטנה קצרה כדי לתפעל את הסקייטבורד. מאחורי עדה הולכים מרי וטוני שמחזיקים את הסקייטבורדים שלהם תחת הזרוע ומביטים בתדהמה על עדה, שחלפה על פניהם במהרה. למרי יש שיער ארוך כהה עם שתי צמות מהודקות בסיכות כתומות, עגילים צהובים וחולצת פוקסיה עם שרוולים לבנים לפסים אופקיים סגולים, שמלה לבנה, נעלי התעמלות לבנות וצהובות, גבריים לבנות, כובה לבן עם צדדים בצבע צהוב, מכנסיים ירוקים כהים ונעליים לבנות. לו יש ילקוט אדום שחלקו צבוע לבן וגם הכתפיות לבנות. יד אחת ליד פיו. הסקייטבורד שלו סגול עם גלגלים כתומים. יש גם אבא וילד שהולכים בכיוון ההפוך: האבא לבוש בז׳אקט עם משבצות כחולות ומכנסיים כחולים ומחזיק מזוודה חומה עם גלגלים חומים בהירים והוא מחייך קלות לעבר עדה. ברקע יש מאפייה עם חלונות גדולים שדרכם אפשר לראות את הלחמים. יש לה גגון מפוספס בצבעי ירוק ולבן מעבר לפינה ושלט על המדרכה עם רשימת המוצרים. מעל מופיע כעך גדול. על הכביש יש שלולית שניתן לראות בה את השתקפות השמיים."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:759
