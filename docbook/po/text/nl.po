@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2025-11-23 15:35+0000\n"
+"PO-Revision-Date: 2025-11-23 16:07+0000\n"
 "Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/fsfe/ada-zangemann/nl/>\n"
 "Language: nl\n"
@@ -1106,7 +1106,7 @@ msgstr "Na vele weken van protesten en gesprekken was het eindelijk zo ver: het 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:964
 msgid "“Everyone is allowed to program their own computers as long as they adhere to the other laws.”"
-msgstr "‘Iedereen mag hun eigen computer programmeren zolang ze zich daarbij aan de andere wetten houdt.’"
+msgstr "‘Iedereen mag hun eigen computer programmeren zolang die zich daarbij aan de andere wetten houdt.’"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:965
