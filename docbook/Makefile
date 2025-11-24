@@ -191,7 +191,7 @@ targets-pandoc-md = $(addprefix build/Ada_Zangemann-pandoc.,$(addsuffix .md,$(la
 $(targets-pandoc-md): build/Ada_Zangemann-pandoc.%.md: \
  build/Ada_Zangemann-pure-profiled-text.%.dbk \
  build/images/illustrations/all
-	pandoc -f docbook -o $@ $<
+	pandoc -f docbook --shift-heading-level=1 --template templates/template.md -o $@ $<
 
 .PHONY: build/Ada_Zangemann-pandoc.all.md
 build/Ada_Zangemann-pandoc.all.md: $(targets-pandoc-md)
@@ -201,7 +201,7 @@ targets-pandoc-text-only-md = $(addprefix build/Ada_Zangemann-pandoc-text-only.,
 $(targets-pandoc-text-only-md): build/Ada_Zangemann-pandoc-text-only.%.md: \
  build/Ada_Zangemann-pure-profiled-text-only.%.dbk \
  build/images/illustrations/all
-	pandoc -f docbook -o $@ $<
+	pandoc -f docbook --shift-heading-level=1 --template templates/template.md -o $@ $<
 
 .PHONY: build/Ada_Zangemann-pandoc-text-only.all.md
 build/Ada_Zangemann-pandoc-text-only.all.md: $(targets-pandoc-text-only-md)
