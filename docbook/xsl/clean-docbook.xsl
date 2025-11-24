@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <!--
-SPDX-FileCopyrightText: 2024 Nico Rikken <nico.rikken@fsfe.org>
+SPDX-FileCopyrightText: 2024-2025 Nico Rikken <nico.rikken@fsfe.org>
 
 SPDX-License-Identifier: GPL-3.0-or-later
 -->
@@ -14,6 +14,14 @@ SPDX-License-Identifier: GPL-3.0-or-later
   <xsl:template match="@*|node()">
     <xsl:copy>
       <xsl:apply-templates select="@*|node()"/>
+    </xsl:copy>
+  </xsl:template>
+
+  <!-- Place <info> at the end of <book> element. Workaround for https://git.fsfe.org/FSFE/ada-zangemann/issues/384 -->
+  <xsl:template match="db:book">
+    <xsl:copy>
+      <xsl:apply-templates select="@*|node()[not(self::db:info)]"/>
+      <xsl:copy-of select="./db:info"/>
     </xsl:copy>
   </xsl:template>
 
