@@ -1964,7 +1964,7 @@ msgstr "The Free Software Foundation Europe e.V. er ei ikkjekommersiell foreinin
 #: Ada_Zangemann.dbk:1251
 #, fuzzy
 msgid "On the web page of the book, you will find more information and resources: <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
-msgstr "Du finn meir informasjon og ressursar på nettsida for boka: <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org."
+msgstr "Du finn meir informasjon og ressursar på nettsida for boka: <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
 
 #. (itstool) path: info/title
 #. (itstool) id: Ada_Zangemann.dbk#title-license
@@ -1991,7 +1991,7 @@ msgstr "Boka Ada og Zangemann: Ei historie om programvare, rullebrett og bringeb
 #: Ada_Zangemann.dbk:1267
 #, fuzzy
 msgid "<link xlink:href=\"https://creativecommons.org/licenses/by-sa/4.0/\">https://creativecommons.org/licenses/by-sa/4.0/</link>"
-msgstr "<link xlink:href=\"https://creativecommons.org/licenses/by-sa/4.0/\">https://creativecommons.org/licenses/by-sa/4.0/"
+msgstr "<link xlink:href=\"https://creativecommons.org/licenses/by-sa/4.0/\">https://creativecommons.org/licenses/by-sa/4.0/</link>"
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
@@ -2018,7 +2018,7 @@ msgid ""
 "More information about the book can be found at <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
 msgstr ""
 "Finn på herlege, morosame og ville iskremsmakar og teikn dei i iskremkjeksa på neste side.\n"
-"Meir informasjon om boka finst på <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org."
+"Meir informasjon om boka finst på <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
 
 #. (itstool) path: imageobject/imagedata@fileref
 #. (itstool) comment: imageobject/imagedata@fileref
