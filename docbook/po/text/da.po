@@ -1,7 +1,3 @@
-# SPDX-FileCopyrightText: 2022 Matthias Kirschner
-# SPDX-FileCopyrightText: 2024 Øjvind Fritjof Arnfred (translator)
-#
-# SPDX-License-Identifier: CC-BY-SA-4.0
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
