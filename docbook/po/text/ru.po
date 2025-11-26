@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-10-16 21:28+0200\n"
-"PO-Revision-Date: 2025-11-16 07:26+0000\n"
-"Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
+"PO-Revision-Date: 2025-11-26 05:21+0000\n"
+"Last-Translator: Elvira Pescu <elvirapesku@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/fsfe/ada-zangemann/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -16,7 +16,7 @@ msgstr ""
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
 msgid "translator-credits"
-msgstr "Elvira Pescu elvirapesku@gmail.com 2025"
+msgstr "Elvira Pescu, elvirapesku@gmail.com, 2025"
 
 #. (itstool) path: info/title
 #. (itstool) path: cover/bridgehead
@@ -25,7 +25,7 @@ msgstr "Elvira Pescu elvirapesku@gmail.com 2025"
 #. ignore-same
 #: Ada_Zangemann.dbk:262 Ada_Zangemann.dbk:306 Ada_Zangemann.dbk:496
 msgid "Ada &amp; Zangemann"
-msgstr "Ада; Зангеманн"
+msgstr "Ада &amp; Зангеманн"
 
 #. (itstool) path: info/subtitle
 #. (itstool) path: cover/bridgehead
@@ -134,14 +134,14 @@ msgstr "Г-жа Жерне"
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:320
 msgid "Ada &amp; Zangemann - A Tale of Software, Skateboards, and Raspberry Ice Cream. By Matthias Kirschner and Sandra Brandstätter. On a mostly desaturated dark cyan background, in a frame composed of sometimes curled white lines that connect a mouse, a keyboard, and a pink smartphone, Ada and Zangemann are facing each other, both with their hands on their hips as a sign of challenge. Ada is smiling and Zangemann is frowning. Ada has black hair collected in two big right- and left-bound ringlets with red rubber bands, and red cheeks. She has little yellow stud earrings. She wears cyan and white horizontal striped shorts and a yellow shirt over a white undershirt that ends with embroidery that goes beyond the shirt. The shirt and undershirt come out over the shorts. Above the shirt Ada wears a blue hoodie. Ada is wearing red shoes with white tips and soles, and short white socks. She has one foot on a skateboard and the other on the ground. Zangemann has short gray hair and square glasses. He is wearing a purple turtle-neck sweater, light blue pants turned up, brown shoes, and white socks. He’s wearing a big tech watch. Above Zangemann there are a pair of pliers with red handles crossing the wire frame."
-msgstr ""
+msgstr "Ада и Зангеманн — сказка о программном обеспечении, скейтбордах и малиновом мороженом. Автор: Матиас Киршнер и Сандра Брандштеттер. На фоне темно-синего цвета с преимущественно ненасыщенным оттенком, в рамке, состоящей из порой закрученных белых линий, соединяющих мышь, клавиатуру и розовый смартфон, Ада и Зангеманн стоят лицом друг к другу, оба с руками на бедрах в знак вызова. Ада улыбается, а Зангеманн хмурится. У Ады черные волосы, собранные в два больших локона справа и слева с помощью красных резинок, и красные щеки. На ней маленькие желтые сережки. Она одета в сине-белые шорты в полоску и желтую рубашку поверх белой майки, которая заканчивается вышивкой, выходящей за пределы рубашки. Рубашка и майка выходят за пределы шорт. Поверх рубашки Ада носит синюю толстовку с капюшоном. На ногах у Ады красные туфли с белыми носками и подошвами и короткие белые носки. Одна нога у нее на скейтборде, а другая на земле. У Зангемана короткие седые волосы и квадратные очки. Он одет в фиолетовый свитер с высоким воротом, светло-голубые брюки с отворотами, коричневые туфли и белые носки. На руке у него большие технические часы. Над Зангеманом висят плоскогубцы с красными ручками, перекрещивающиеся с проволочной рамой."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:329
 msgid "A soldering iron and a brush and can with yellow paint, connected by white electrical cord that forms a frame."
-msgstr ""
+msgstr "Паяльник, кисть и банка с желтой краской, соединенные белым электрическим шнуром, образующим рамку."
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-back-1
@@ -159,7 +159,7 @@ msgstr "Книга, которая пробуждает интерес к рем
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:340
 msgid "A power strip, with input and output of white electrical cord that is the frame."
-msgstr ""
+msgstr "Удлинитель с входным и выходным белым электрическим шнуром, который является корпусом."
 
 #. (itstool) path: info/title
 #. Page before the colophon and the title page, with just the title. Also
@@ -177,7 +177,7 @@ msgstr "Полутитульный лист"
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:362 Ada_Zangemann.dbk:488
 msgid "ADA &amp; ZANGEMANN"
-msgstr ""
+msgstr "АДА &amp; ЗАНГЕМАНН"
 
 #. (itstool) path: info/title
 #. Also known as 'imprint'
@@ -214,6 +214,22 @@ msgid ""
 "\n"
 "<emphasis role=\"bold\">A big thank you</emphasis> to <emphasis role=\"bold\">dpunkt.verlag</emphasis> and <emphasis role=\"bold\">No Starch Press</emphasis> for understanding the values of software freedom, taking the time to discuss and understand the advantages of free cultural licenses, and the great support to publish this book under conditions that respect the FSFE’s values."
 msgstr ""
+"Авторские права © 2023 Матиас Киршнер и Сандра Брандштеттер.\n"
+"Эта работа лицензирована в соответствии с международной лицензией Creative Commons Attribution-ShareAlike 4.0.\n"
+"Чтобы ознакомиться с текстом этой лицензии, посетите <link xlink:href=\"https://creativecommons.org/licenses/by-sa/4.0/\">https://creativecommons.org/licenses/by-sa/4.0/</link> или отправьте письмо по адресу Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.\n"
+"<emphasis role=\"bold\">Ада &amp; Зангеман: AСказка о программном обеспечении, скейтбордах и малиновом мороженом</emphasis> является переводом немецкого оригинала, Ada und Zangemann: Ein Märchen über Software, Skateboards und Himbeereis, издано Dpunkt.verlag в сотрудничестве с O’Reilly Media, Inc. под маркой «O’REILLY», © 2022 Матиас Киршнер и Сандра Брандштеттер.\n"
+"\n"
+"Эта книга Матиаса Киршнера (автор) и Сандры Брандштеттер (иллюстратор) лицензирована в соответствии с <emphasis role=\"bold\">Creative Commons CC-BY-SA</emphasis>, бесплатная культурная лицензия.\n"
+"\n"
+"<emphasis role=\"bold\">Вы можете</emphasis> делиться, копировать и распространять материал в любом формате и на любом носителе. <emphasis role=\"bold\">Вы можете</emphasis> адаптировать, переделывать, преобразовывать и использовать материал в любых целях, в том числе в коммерческих.<emphasis role=\"bold\">Вы обязаны</emphasis> указывать необходимые ссылки, предоставлять ссылку на лицензию и указывать, были ли внесены изменения.\n"
+"\n"
+"<emphasis role=\"bold\">Вы можете</emphasis> делать это любым разумным способом, но не таким образом, который может создать впечатление, что лицензиар одобряет вас или ваше использование. Если вы переделываете, преобразуете или используете материал в качестве основы для своих работ, <emphasis role=\"bold\">вы обязаны</emphasis> распространять ваши материалы под той же лицензией, что и оригинал. (Это доступное для человеческого восприятия резюме «юридического кода» CC-BY-SA 4.0, которое не заменяет его.)\n"
+"\n"
+"Кроме того, в отношении модифицированных версий (производных произведений) лицензиар просит вас не вносить никаких изменений в личные благодарности автора и краткие биографии автора и иллюстратора, а вместо этого полностью удалить эти части из вашей модифицированной версии.\n"
+"\n"
+"Публикация на условиях этой бесплатной культурной лицензии стала возможной благодаря огромной поддержке со стороны dpunkt.verlag GmbH / O’Reilly Media, Inc. для немецкой версии книги и No Starch Press для английской версии. К сожалению, лицензии Creative Commons по-прежнему являются редким исключением для коммерчески издаваемых книг и часто считаются издателями революционными и рискованными.\n"
+"\n"
+"<emphasis role=\"bold\">Большое спасибо</emphasis> <emphasis role=\"bold\">dpunkt.verlag</emphasis> и <emphasis role=\"bold\">No Starch Press</emphasis> за поддержку ценностей свободного программного обеспечения, за то, что вы нашли время обсудить и понять преимущества свободных культурных лицензий, а также за огромную помощь в публикации этой книги на условиях, соответствующих ценностям FSFE."
 
 #. (itstool) path: simplesect/literallayout
 #. Full page colophon. Intended for print use, as an alternative to the
@@ -277,6 +293,57 @@ msgid ""
 "\n"
 "<emphasis role=\"bold\">A big thank you</emphasis> to <emphasis role=\"bold\">dpunkt.verlag</emphasis> and <emphasis role=\"bold\">No Starch Press</emphasis> for understanding the values of software freedom, taking the time to discuss and understand the advantages of free cultural licenses, and the great support to publish this book under conditions that respect the FSFE’s values."
 msgstr ""
+"Авторские права © 2023 Матиас Киршнер и Сандра Брандштеттер.\n"
+"Эта работа лицензирована в соответствии с международной лицензией Creative Commons Attribution-ShareAlike 4.0.\n"
+"Чтобы ознакомиться с копией этой лицензии, посетите <link xlink:href=\"https://creativecommons.org/licenses/by-sa/4.0/\">https://creativecommons.org/licenses/by-sa/4.0/</link> или отправьте письмо по адресу Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.\n"
+"\n"
+"<emphasis role=\"bold\">Ада &amp; Зангеман: Сказка о программном обеспечении, скейтбордах и малиновом мороженом</emphasis> является переводом немецкого оригинала Ada und Zangemann: Ein Märchen über Software, Skateboards und Himbeereis, опубликованного Dpunkt.verlag в сотрудничестве с O’Reilly Media, Inc. под маркой «O’REILLY», © 2022 Матиас Киршнер и Сандра Брандштеттер.\n"
+"\n"
+"Первый тираж\n"
+"\n"
+"26 25 24 23 22 1 2 3 4 5\n"
+"\n"
+"ISBN-13: 978-1-7185-0318-2 (принт)\n"
+"ISBN-13: 978-1-7185-0319-9 (e-книжка\n"
+"\n"
+"Издатель: Уильям Поллок\n"
+"Автор: Матиас Киршнер\n"
+"Иллюстратор: Сандра Брандштеттер\n"
+"Главный редактор: Джилл Франклин\n"
+"Редактор производства: Дженнифер Кеплер\n"
+"Редактор: Вибке Хельмхен\n"
+"Помощь в подборе цветов: Ольга Бирюкова, Ноэми Саркани, Натали Скаттолон, Кристина Хайдингер и Жасмин Шлёгль\n"
+"Дизайн обложки: Сандра Брандштеттер и Сьюзан Браун\n"
+"Компоновщик: Морин Форис, Happenstance Type-O-Rama\n"
+"\n"
+"Для получения информации о продаже, оптовых или корпоративных, пожалуйста, свяжитесь напрямую с No Starch Press, Inc. по адресу <link xlink:href=\"mailto:info@nostarch.com\">info@nostarch.com</link> или:\n"
+"\n"
+"No Starch Press, Inc.\n"
+"245 8th Street, San Francisco, CA 94103\n"
+"phone: 1.415.863.9900\n"
+"<link xlink:href=\"https://nostarch.com/\">www.nostarch.com</link>\n"
+"\n"
+"Каталог этой книги доступен в Библиотеке Конгресса США.\n"
+"\n"
+"No Starch Press и логотип No Starch Press являются зарегистрированными товарными знаками No Starch Press, Inc. Другие упомянутые в данном документе названия продуктов и компаний могут быть товарными знаками их соответствующих владельцев. Вместо использования символа товарного знака при каждом упоминании названия, являющегося товарным знаком, мы используем эти названия исключительно в редакционных целях и в интересах владельца товарного знака, без намерения нарушить права на товарный знак.\n"
+"\n"
+"Информация в этой книге распространяется на условиях «как есть», без гарантии. Несмотря на то, что при подготовке этой работы были приняты все меры предосторожности, ни автор, ни No Starch Press, Inc. не несут никакой ответственности перед какими-либо лицами или организациями в отношении любых убытков или ущерба, вызванных или предположительно вызванных, прямо или косвенно, информацией, содержащейся в ней.\n"
+"\n"
+"Все персонажи в данной публикации являются вымышленными, и любое сходство с реальными лицами, живыми или умершими, является чисто случайным.\n"
+"\n"
+"**\n"
+"\n"
+"Эта книга Матиаса Киршнера (автор) и Сандры Брандштеттер (иллюстратор) лицензирована в соответствии с <emphasis role=\"bold\">Creative Commons CC-BY-SA</emphasis>, бесплатная культурная лицензия.\n"
+"\n"
+"<emphasis role=\"bold\">Вы можете</emphasis> делиться, копировать и распространять материал в любом формате и на любом носителе. <emphasis role=\"bold\">Вы можете</emphasis> адаптировать, переделывать, преобразовывать и использовать материал в любых целях, в том числе в коммерческих.<emphasis role=\"bold\">Вы обязаны</emphasis> указывать необходимые ссылки, предоставлять ссылку на лицензию и указывать, были ли внесены изменения.\n"
+"\n"
+"<emphasis role=\"bold\">Вы можете</emphasis> делать это любым разумным способом, но не таким образом, который может создать впечатление, что лицензиар одобряет вас или ваше использование. Если вы переделываете, преобразуете или используете материал в качестве основы для своих работ, <emphasis role=\"bold\">вы обязаны</emphasis> распространять ваши материалы под той же лицензией, что и оригинал. (Это доступное для человеческого восприятия резюме «юридического кода» CC-BY-SA 4.0, которое не заменяет его.)\n"
+"\n"
+"Кроме того, в отношении модифицированных версий (производных произведений) лицензиар просит вас не вносить никаких изменений в личные благодарности автора и краткие биографии автора и иллюстратора, а вместо этого полностью удалить эти части из вашей модифицированной версии.\n"
+"\n"
+"Публикация на условиях этой бесплатной культурной лицензии стала возможной благодаря огромной поддержке со стороны dpunkt.verlag GmbH / O’Reilly Media, Inc. для немецкой версии книги и No Starch Press для английской версии. К сожалению, лицензии Creative Commons по-прежнему являются редким исключением для коммерчески издаваемых книг и часто считаются издателями революционными и рискованными.\n"
+"\n"
+"<emphasis role=\"bold\">Большое спасибо</emphasis> <emphasis role=\"bold\">dpunkt.verlag</emphasis> и <emphasis role=\"bold\">No Starch Press</emphasis> за поддержку ценностей свободного программного обеспечения, за то, что вы нашли время обсудить и понять преимущества свободных культурных лицензий, а также за огромную помощь в публикации этой книги на условиях, соответствующих ценностям FSFE."
 
 #. (itstool) path: simplesect/literallayout
 #. Grey section in the bottom of half page colophon.
@@ -291,6 +358,11 @@ msgid ""
 "We encourage you to support authors, publishers, and others involved in the creation of culture under free licenses – including <emphasis role=\"bold\">financially supporting them through purchases or donations</emphasis>. (<link xlink:href=\"https://fsfe.org/donate\">https://fsfe.org/donate</link>)\n"
 "Society should support those who respect others’ freedom."
 msgstr ""
+"<emphasis role=\"bold\">Свобода, а не цена</emphasis>\n"
+"FСвободное программное обеспечение касается свобод, которые вы получаете вместе с программным обеспечением, а не его цены. Точно так же публикация книги по лицензии свободной культуры не означает, что вы имеете право получить бесплатную копию книги или электронной книги. Это означает, что вы получаете права, описанные выше, которые позволяют обществу получать дополнительную выгоду от этой книги, как и от всех культурных произведений.\n"
+"\n"
+"Мы призываем вас поддерживать авторов, издателей и других лиц, участвующих в создании культуры по свободным лицензиям, в том числе <emphasis role=\"bold\">оказывая им финансовую поддержку посредством покупок или пожертвований</emphasis>. (<link xlink:href=\"https://fsfe.org/donate\">https://fsfe.org/donate</link>)\n"
+"Общество должно поддерживать тех, кто уважает свободу других."
 
 #. (itstool) path: info/title
 #. Page next to the colophon with title, subtitle, authors and
@@ -304,7 +376,7 @@ msgstr "Заглавная страница"
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:459
 msgid "Matthias Kirschner, Sandra Brandstätter - ADA &amp; ZANGEMANN - A Tale of Software, Skateboards and Raspberry Ice Cream. Title in the middle, authors in the upper left. In the lower right, Ada’s family’s dog with gray fur and some white patches and with a red collar with shiny yellow LEDs, which wags its tail."
-msgstr ""
+msgstr "Матиас Киршнер, Сандра Брандштеттер — AДА &amp;ЗАНГЕМАНН- Сказка о программном обеспечении, скейтбордах и малиновом мороженом. Название в середине, авторы в левом верхнем углу. В правом нижнем углу — собака семьи Ады с серой шерстью и белыми пятнами, с красным ошейником с блестящими желтыми лампочками, которая виляет хвостом."
 
 #. (itstool) path: mediaobject/alt
 #. ignore-same
@@ -313,21 +385,21 @@ msgstr ""
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:466
 msgid "Matthias Kirschner, Sandra Brandstätter"
-msgstr ""
+msgstr "Матиас Киршнер, Сандра Брандштеттер"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:476
 msgid "ADA &amp; ZANGEMANN - A Tale of Software, Skateboards and Raspberry Ice Cream. Title in the middle, authors in the upper left."
-msgstr ""
+msgstr "АДА&amp;ЗАНГЕМАНН- Сказка о программном обеспечении, скейтбордах и малиновом мороженом. Название в середине, авторы в левом верхнем углу."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:483
 msgid "In the lower right, Ada’s family’s dog with gray fur and some white patches and with a red collar with shiny yellow LEDs, which wags its tail."
-msgstr ""
+msgstr "В правом нижнем углу — собака семьи Ады с серой шерстью и белыми пятнами, с красным ошейником с блестящими желтыми лампочками, которая виляет хвостом."
 
 #. (itstool) path: simplesect/literallayout
 #. In a literallayout element all space and newline characters are kept.
@@ -351,9 +423,7 @@ msgid ""
 "Raspberry Ice Cream"
 msgstr ""
 "Сказка о\n"
-"\n"
 "Программном Обеспечении, Скейтбордах и\n"
-"\n"
 "Малиновом Морожене"
 
 #. (itstool) path: simplesect/para
@@ -367,14 +437,14 @@ msgstr "<phrase condition=\"capitals-text\">Однажды</phrase><phrase condi
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:508
 msgid "Ada in foreground leaving the house to go to school, in the background Ada’s house and the junkyard. Ada has a brown backpack with yellow shoulder straps. To the left of Ada there is a red car, a Volkswagen Beetle, without wheels and no longer working, with one of the headlights remaining attached only with its wires. On the left, in front of the car, there are two tires, two boxes – one of which is a wooden box with an overturned bucket –, and an empty can, all among some plants with yellow flowers. In the background there is Ada’s house, with her mother and her brother Alan waving goodbye, and the dog sitting on the ground. Alan is sitting on the two entrance steps of the house. He has short dark hair and is dressed in a white short-sleeved shirt with a red stripe at the edges of the sleeves and two red stripes at the bottom of the shirt. Alan wears blue shorts and he is barefoot. Ada’s mom has dark lipstick and long black hair in a white headband. She is wearing a short blue shirt with white trim, white pants, and yellow shoes. Ada’s house is built of wood, with the front being white. The roof is dark red corrugated sheeting. There are two windows in front in addition to the door, and another window on the left side. A yellow duck stands on top of the roof, while a gray chimney protrudes. An antenna on the left of the roof supports a clothesline on which red clothespins hold a green tank top, a pair of light blue pants, and white underpants. To the right of the house there is a veranda on which there is installed a solar panel. Under the veranda there are a mattress, a red oil drum, and a gray case. Behind the house there are piles of landfill objects among which you can see a washing machine, a car, and various wooden boards."
-msgstr ""
+msgstr "Ада на переднем плане выходит из дома, чтобы пойти в школу, на заднем плане — дом Ады и свалка. У Ады коричневый рюкзак с желтыми плечевыми ремнями. Слева от Ады стоит красная машина, Volkswagen Beetle, без колес и не на ходу, с одной фарой, прикрепленной только проводами. Слева, перед машиной, лежат две шины, две коробки – одна из которых деревянная с опрокинутым ведром – и пустая банка, все это среди растений с желтыми цветами. На заднем плане виден дом Ады, из которого мать и брат Алан машут ей на прощание, а собака сидит на земле. Алан сидит на двух ступеньках у входа в дом. У него короткие темные волосы, он одет в белую рубашку с короткими рукавами, с красной полосой по краям рукавов и двумя красными полосами внизу рубашки. Алан одет в синие шорты и босиком. Мама Ады с темной помадой и длинными черными волосами, завязанными белой повязкой. Она одела короткую синюю рубашку с белой оторочкой, белые брюки и желтые туфли. Дом Ады построен из дерева, фасад белого цвета. Крыша из темно-красного гофрированного листа. Впереди, помимо двери, есть два окна, а с левой стороны — еще одно окно. На крыше стоит желтая утка, а из нее торчит серая труба. Антенна слева от крыши поддерживает бельевую веревку, на которой красные прищепки держат зеленую майку, светло-голубые брюки и белые трусы. Справа от дома находится веранда, на которой установлена солнечная батарея. Под верандой лежат матрас, красная бочка из-под масла и серый чемодан. За домом навалены кучи мусора, среди которых можно разглядеть стиральную машину, автомобиль и различные деревянные доски."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:516
 msgid "Prestigious magazines (“STARS“, “MONEY”, “Richest Man”) on whose cover are Zangemann and his villa."
-msgstr ""
+msgstr "Престижные журналы («STARS», «MONEY», «Richest Man»), на обложках которых изображены Зангеманн и его вилла."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:518
@@ -402,7 +472,7 @@ msgstr "С годами Зангеманн становился все круп�
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:535
 msgid "Zangemann as a child on a chair at a school table. From his head come six bubbles in which there are his ideas of places in which to insert computers: a video call system, a speaker, a washing machine, a skateboard with radio control on a big computer monitor, a wrist computer, and a shoulder computer with a monitor and keyboard. Zangemann has gray hair, a dark purple shirt with blue horizontal stripes, blue shorts, brown shoes and white socks. He wears glasses and a big watch on his left wrist. On the table there are an open notebook, a yellow pencil, and an eraser, while hanging on the side of the table there is his brown briefcase."
-msgstr ""
+msgstr "Зангеманн в детском возрасте сидит на стуле за школьной партой. Из его головы выходят шесть пузырьков, в которых находятся его идеи о местах, где можно установить компьютеры: система видеозвонков, динамик, стиральная машина, скейтборд с радиоуправлением на большом компьютерном мониторе, наручный компьютер и плечевой компьютер с монитором и клавиатурой. У Зангеманна седые волосы, он одет в темно-фиолетовую рубашку с синими горизонтальными полосками, синие шорты, коричневые туфли и белые носки. Он носит очки и большие часы на левом запястье. На столе лежат открытый блокнот, желтый карандаш и ластик, а сбоку от стола висит его коричневый портфель."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:540
@@ -414,7 +484,7 @@ msgstr "«Наконец-то я могу воплотить все свои и�
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:545
 msgid "Zangemann original ice cream machine. It is ice blue in color and is similar to a vending machine of drinks, but instead of the cup there is a cone that is filled with ice cream. Above the dispenser there is a monitor showing the variety that is distributed, in this case pineapple ice cream. On the left there are the slot for inserting coins, the various buttons to choose the flavor, and the hole for returning coins. At the top there is a round white sign with a scoop of candy-pink ice cream in a cone. On the back of the machine there is the refrigeration machinery with the “Z” of the Zangemann logo."
-msgstr ""
+msgstr "Оригинальная мороженица Zangemann. Она имеет синий цвет и похожа на автомат для продажи напитков, но вместо стаканчика в ней есть рожок, который наполняется мороженым. Над диспенсером находится монитор, на котором отображается ассортимент мороженого, в данном случае ананасовое. Слева расположены слот для ввода монет, различные кнопки для выбора вкуса и отверстие для возврата монет. Вверху находится круглая белая табличка с шариком розового мороженого в рожке. На задней панели машины находится холодильное оборудование с буквой «Z» из логотипа Zangemann."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:547
@@ -426,14 +496,14 @@ msgstr "Взрослые и дети обожали его изобретени�
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:552
 msgid "An original Zangemann electric skateboard leaving a blue trail with musical notes and colored circles. Only the knees, white socks, and olive green shoes with white soles of the child riding it are shown."
-msgstr ""
+msgstr "Оригинальный электрический скейтборд Zangemann, который оставляет за собой синий след из музыкальных нот и цветных кружков. Видны только коленки, белые носки и зеленые туфли с белыми подошвами ребенка, катающегося на нем."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:560
 msgid "Ada tinkers with objects in her improvised lab. Ada is sitting on an overturned water case, and working on a repair with a yellow screwdriver. Also on the table are green pliers, a red hammer, a white power strip, and another gadget. Ada is at a table consisting of a wooden board supported by two oil drums (one gray and one red) and a small wooden sawhorse. Behind Ada there are a washing machine, pipes, and a board. In front of the improvised table there are tires and an old phone with faulty wire. Alan is coming toward Ada holding a yellow fan over his head. Alan now wears white socks and yellow shoes."
-msgstr ""
+msgstr "Ада возится с предметами в своей самодельной мастерской. Ада сидит на перевернутом ящике с жидкостью и ремонтирует что-то с помощью желтой отвертки. На столе также лежат зеленые плоскогубцы, красный молоток, белая удлинительная розетка и еще одно устройство. Ада сидит за столом, состоящим из деревянной доски, поддерживаемой двумя бочками из-под масла (одна серая, другая красная) и небольшой деревянной подставкой. За Адой стоят стиральная машина, трубы и доска. Перед импровизированным столом лежат шины и старый телефон с неисправным проводом. Алан идет к Аде, держа над головой желтый вентилятор. Алан теперь одет в белые носки и желтые туфли."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:562
@@ -465,7 +535,7 @@ msgstr "Ему нужно было всего лишь нажать нужную
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:575
 msgid "A white power strip attached to a wall socket. The power strip has 3 sockets and a green switch. One of the sockets is attached to a plug with a gray cable."
-msgstr ""
+msgstr "Белая удлинительная розетка, прикрепленная к настенной розетке. Удлинительная розетка имеет 3 отделения и зеленый выключатель. Одно из отделений подключено к вилке с серым кабелем."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:579
@@ -477,7 +547,7 @@ msgstr "Зангеманн получал огромное удовольств�
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:584
 msgid "Zangeman sitting in front of his golden computer on a golden armchair with a very tall red padded backrest at whose top is the “Z” of the Zangemann logo. He is wearing a purple turtle-neck sweater and light blue trousers. The computer has four ornate monitors of various sizes, each of which has the logo on the back. It is integrated into a costly wooden desk from which a gray cable flows that is connected to the power strip of the previous page."
-msgstr ""
+msgstr "Зангеман сидит перед своим золотым компьютером в золотом кресле с очень высокой красной мягкой спинкой, на верху которой находится буква «Z» из логотипа Zangemann. Он одет в фиолетовый свитер с высоким воротником и светло-голубые брюки. Компьютер имеет четыре декоративных монитора разного размера, на каждом из которых сзади находится логотип. Он встроен в дорогой деревянный стол, из которого выходит серый кабель, подключенный к удлинителю на предыдущей странице."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:589
@@ -489,7 +559,7 @@ msgstr "Когда он не сидел за своим золотым комп�
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:594
 msgid "City landscape with houses and shops, with a central street turning right. On the road there are a car and a cyclist. There are various children and adults walking or going on skateboards, some eating ice cream, while others are buying ice cream from the original Zangemann machines."
-msgstr ""
+msgstr "Городской пейзаж с домами и магазинами, с центральной улицей, поворачивающей направо. На дороге едут автомобиль и велосипедист. Различные дети и взрослые гуляют или катаются на скейтбордах, некоторые едят мороженое, а другие покупают мороженое в оригинальных автоматах Zangemann."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:596
@@ -513,7 +583,7 @@ msgstr "Однажды Зангеманн подумал: «Сегодня я х
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:609
 msgid "Zangemann descends the stairs from his mansion on the hill towards the city. Zangemann’s house stands on a hill. The front is blue with large windows; the towers are dark blue, and from a window starts a yellow slide that ends in a large swimming pool with two palm trees. The roofs are red, and above the highest tower an antenna is installed. On the sides of the stairs to get off the hill there are evergreen trees."
-msgstr ""
+msgstr "Зангеман спускается по лестнице из своего особняка на горе в сторону города. Дом Зангемана стоит на горе. Фасад дома синего цвета с большими окнами; башни темно-синего цвета, а из окна начинается желтая горка, которая заканчивается большим бассейном с двумя пальмами. Крыши красного цвета, а над самой высокой башней установлена антенна. По бокам лестницы, ведущей с горы, растут вечнозеленые деревья."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:613
@@ -530,12 +600,12 @@ msgstr "Он был полностью погружен в свои мысли, 
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:620
 msgid "Zangemann after the incident with the child. Zangemann screams from pain while holding up one of his legs with both hands at the shin. The child has brown hair that is blown back by Zangemann’s scream; he is wearing a light blue hooded sweatshirt and dark green pants. He holds a red Zangemann electric skateboard."
-msgstr ""
+msgstr "Зангеманн после происшествия с ребенком. Зангеманн кричит от боли, держась обеими руками за голень одной из ног. У ребенка каштановые волосы, которые развеваются от крика Зангеманна; он одет в голубую толстовку с капюшоном и темно-зеленые брюки. В руках он держит красный электрический скейтборд Zangemann."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:624
 msgid "Zangemann yelped and looked around for the cause. A startled child stood in front of him, holding an original Zangemann skateboard under his arm. “Sorry, I didn’t mean to do that,” the child stammered, but Zangemann wasn’t listening."
-msgstr "Зангеманн вскрикнул и оглянулся в попытке отыскать виновника. Перед ним стоял испуганный ребенок, держа под мышкой оригинальный скейтборд Zangemann. «Простите, я не хотел», — заикаясь, пробормотал ребенок, но Зангеманн его не слышал."
+msgstr "Зангеманн вскрикнул и оглянулся в попытке отыскать виновника. Перед ним стоял испуганный ребенок, держа под мышкой оригинальный скейтборд Zangemann. «Простите, я не хотел»,—заикаясь, пробормотал ребенок, но Зангеманн его не слышал."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:625
@@ -547,7 +617,7 @@ msgstr "Разгневанный Зангеманн ушел, прихрамыв
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:630
 msgid "Advertisements for Zangemann ice cream (sandwich board), a Zangemann electric skateboard, and a Zangemann washing machine. The math teacher, Ms. Gernet, is passing in front of the billboards. Ms. Gernet is an old lady with short white hair. She is dressed in a light green t-shirt and a pea green sweater, dark brown pants, and light green heeled shoes. She has a fuchsia shoulder bag, worn behind her. She pushes a small shopping cart in which there is a small brown dog with a collar and tag."
-msgstr ""
+msgstr "Реклама мороженого Zangemann (рекламный плакат), электрического скейтборда Zangemann и стиральной машины Zangemann. Учительница математики, мисс Жерне, проходит мимо рекламных щитов. Мисс Жерне — пожилая дама с короткими седыми волосами. Она одета в светло-зеленую футболку и горохово-зеленый свитер, темно-коричневые брюки и светло-зеленые туфли на каблуках. На плече у нее висит фуксиевая сумка. Она толкает перед собой небольшую тележку, в которой сидит маленькая коричневая собачка с ошейником и биркой."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:635
@@ -584,7 +654,7 @@ msgstr "<phrase condition=\"capitals-text\">На</phrase><phrase condition=\"cap
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:663
 msgid "Five kids from the school who can’t make skateboards work. Two girls wear helmets, respectively blue and red. A little girl with brown hair tied in two tails with yellow rubber bands is kneeling. She is trying to understand why the skateboard of her friend with the red helmet does not work. Four children have backpacks on their shoulders, while the little girl with the red helmet left hers leaning on a bench on which there are a yellow apple and a light blue bottle with a white flower on it."
-msgstr ""
+msgstr "Пятеро детей из школы, которые не могут завести скейтборды. Две девочки носят шлемы, синий и красный. Маленькая девочка с каштановыми волосами, завязанными в два хвостика желтыми резинками, стоит на коленях. Она пытается понять, почему скейтборд ее подруги в красном шлеме не работает. Четверо детей держат рюкзаки на плечах, а маленькая девочка в красном шлеме оставила свой, опершись о скамейку, на которой лежат желтое яблоко и голубая бутылка с белым цветком."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:667
@@ -596,7 +666,7 @@ msgstr "Хотя ни одна из этих вещей ей не принадл
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:672
 msgid "Close-up of Ada thoughtful, with a backpack and with one hand on her chin and the other resting on her side."
-msgstr ""
+msgstr "Крупный план задумчивой Ады с рюкзаком, с одной рукой на подбородке, а другой на боку."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:675
@@ -629,7 +699,7 @@ msgstr "Самым приятным в новом открытии Ады был
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:693
 msgid "Computer screen from which the elements of the programming language symbolically emerge: “while num &gt; 0“, “init“, “sx=42“, “for“, “v**3“. Ada is typing on a white keyboard with a blue cable, while her other hand enters the screen to change the program (“print(msg)”, “a+b+c+d=e”, “if”, “break”, “continue”, “exit()”). Next to the keyboard there are a pencil and an eraser."
-msgstr ""
+msgstr "Экран компьютера, на котором символически появляются элементы языка программирования:“while num &gt; 0“, “init“, “sx=42“, “for“, “v**3“. Ада печатает на белой клавиатуре с синим кабелем, а другой рукой вводит данные на экран, чтобы изменить программу (“print(msg)”, “a+b+c+d=e”, “if”, “break”, “continue”, “exit()”). Рядом с клавиатурой лежат карандаш и ластик."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:699
@@ -662,7 +732,7 @@ msgstr "Ада была в полном восторге. Она предста�
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:713
 msgid "Ada comes to grips with programming. She is typing on a keyboard resting on a gray mat and connected to a smartphone with a blue cable. The smartphone is connected with a red wire to an electronic card with a yellow LED lamp. The smartphone is powered by a transformer connected to a power strip with a gray wire and plug. On the table there are also: 3 books, of which one is open; a clipboard and a pencil; pliers; glue; solder; and a disconnected soldering iron."
-msgstr ""
+msgstr "Ада осваивает программирование. Она печатает на клавиатуре, лежащей на сером коврике и подключенной к смартфону синим кабелем. Смартфон соединен красным проводом с электронной платой с желтым светодиодным индикатором. Смартфон питается от генератора, подключенного к удлинителю с серым проводом и вилкой. На столе также лежат: 3 книги, одна из которых открыта; блокнот и карандаш; плоскогубцы; клей; припой; и отключенный паяльник."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:715
@@ -674,7 +744,7 @@ msgstr "У Ады также появилась идея для следующе
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:722
 msgid "Zangemann looks thoughtfully with his arms crossed out one of the great windows of his house, into which the sun’s rays are shining."
-msgstr ""
+msgstr "Зангеманн задумчиво смотрит, скрестив руки, из одного из больших окон своего дома, в которое светят лучи солнца."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:728
@@ -695,7 +765,7 @@ msgstr "Проснувшись однажды утром с нахмуренны
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:734
 msgid "Once he was done, he sent all the new programs from his golden computer to people’s devices. He ordered his speakers to play only his favorite music whenever he was within earshot. He programmed the ice-cream machines to stop selling ice cream in the afternoon. After all, he didn’t want his expensive clothes to get stained by ice cream while he was out for a walk. All day long he sat at the computer and typed and typed and typed..."
-msgstr "Как только он закончил, он разослал все новые программы со своего золотого компьютера на другие устройства. Он приказал своим колонкам играть только его любимую музыку, когда он был в зоне слышимости. Он запрограммировал мороженные машины, чтобы они перестали продавать мороженое во второй половине дня. В конце концов, он не хотел, чтобы его дорогая одежда испачкалась мороженым, когда он выходил гулять. Весь день он сидел за компьютером и печатал, печатал, печатал..."
+msgstr "Как только он закончил, он разослал все новые программы со своего золотого компьютера на другие устройства. Он приказал своим колонкам играть только его любимую музыку, когда он был в зоне слышимости. Он запрограммировал мороженные машины, чтобы они перестали продавать мороженое во второй половине дня. В конце концов, он не хотел, чтобы его дорогая одежда испачкалась мороженым, когда он выходил гулять. Весь день он сидел за компьютером и печатал, и печатал..."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:739
@@ -728,7 +798,7 @@ msgstr "После нескольких неудачных попыток, в п
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:754
 msgid "Ada racing with her electric skateboard for city sidewalks. Ada’s skateboard is blue, with gray and pink wheels; the electronic part is placed above the skateboard (as opposed to Zangemann’s skateboards where the electronic part is below). Ada is holding in both hands a remote control with a short antenna to maneuver it. Behind Ada are Marie and Toni who carry their own skateboards under their arms and look with amazement at Ada, who has shot past them and in front of them. Marie has dark long hair with two braids fastened with orange clips, yellow earrings, a fuchsia shirt with white sleeves with purple horizontal stripes, a white skirt, white and yellow sneakers, white socks, a white hat with yellow sides, and a light purple backpack. Marie has a blue artificial leg. Her skateboard is blue with yellow wheels. Toni has red hair closely trimmed on the sides. He is wearing a blue sweatshirt, dark green pants, and white shoes. He has a red backpack with white inserts and shoulder straps. One hand is next to his mouth. His skateboard is purple with orange wheels. There’s also a father with his son walking in the opposite direction: the father is dressed in a blue checked jacket and blue pants and holds a brown briefcase. He is smiling at Ada. His son has a blue shirt, blue shorts, white shoes, a brown backpack, and a red and white hat. He holds under his arm a yellow Zangemann skateboard with light brown wheels, and he grins at Ada. In the background there is a bakery with large windows through which you can see the bread. It has a green and white striped awning around the corner and a sign on the sidewalk with the list of products. Overhead, a large pretzel is displayed. On the road there is a puddle that reflects the blue of the sky."
-msgstr ""
+msgstr "Ада мчится на своем электрическом скейтборде по городским тротуарам. Скейтборд Ады синего цвета, с серыми и розовыми колесами; электронная часть расположена над скейтбордом (в отличие от скейтбордов Zangemann, где электронная часть находится под ним). Ада держит в обеих руках пульт дистанционного управления с короткой антенной, чтобы управлять им. За Адой идут Мари и Тони, которые несут свои скейтборды под мышкой и с удивлением смотрят на Аду, которая промчалась мимо них и оказалась впереди. У Мари темные длинные волосы, заплетенные в две косы, закрепленные оранжевыми заколками, желтые сережки, фуксиевая рубашка с белыми рукавами с фиолетовыми горизонтальными полосками, белая юбка, бело-желтые кроссовки, белые носки, белая шляпа с желтыми боками и светло-фиолетовый рюкзак. У Мари синяя искусственная нога. Ее скейтборд синий с желтыми колесами. Тони имеет рыжие волосы, коротко подстриженные по бокам. Он одет в синюю толстовку, темно-зеленые брюки и белые туфли. У него красный рюкзак с белыми вставками и плечевыми ремнями. Одна рука находится рядом с его ртом. Его скейтборд фиолетовый с оранжевыми колесами. Еще есть отец с сыном, идущие в противоположном направлении: отец одет в синюю клетчатую куртку и синие брюки и держит коричневый портфель. Он улыбается Аде. У его сына синяя рубашка, синие шорты, белые туфли, коричневый рюкзак и красно-белая кепка. Он держит под мышкой желтый скейтборд Zangemann с светло-коричневыми колесами и улыбается Аде. На заднем плане видна пекарня с большими окнами, через которые можно увидеть хлеб. У нее есть зелено-белый полосатый навес за углом и вывеска на тротуаре с перечнем продуктов. Над головой висит большой крендель. На дороге есть лужа, в которой отражается голубое небо."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:759
@@ -745,7 +815,7 @@ msgstr "« Как ты можешь кататься на скейтборде �
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:765
 msgid "Ada stops on her skateboard surrounded by children. Marie is on one end. She is pointing to Ada’s skateboard and she’s talking. Next to her is Konrad, with short blond hair, a dark gray helmet, glasses, a green shirt with white collar and cuffs, light blue pants with white cuffs, and gray shoes with white soles. He has a red skateboard with orange wheels. Behind Ada there are 4 other children. On the other end Toni is smiling. He touches his chin with one hand while with the other he holds a yellow helmet by the laces."
-msgstr ""
+msgstr "Ада останавливается на скейтборде в кругу детей. Мари стоит на одном конце. Она указывает на скейтборд Ады и что-то говорит. Рядом с ней стоит Конрад с короткими светлыми волосами, в темно-сером шлеме, очках, зеленой рубашке с белым воротником и манжетами, голубых брюках с белыми манжетами и серых туфлях с белыми подошвами. У него красный скейтборд с оранжевыми колесами. За Адой стоят еще четверо детей. На другом конце Тони улыбается. Он касается подбородка одной рукой, а другой держит желтый шлем за шнурки."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:769
@@ -762,7 +832,7 @@ msgstr "В тот вечер Ада проверила свою теорию н�
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:775
 msgid "Hopscotch diagram drawn with chalk on asphalt. In a row, within squares, the numbers 1, 2; 3 and 4 next to each other; 5, 6; and 7 and 8 next to each other. The number 9 is not inside a square but inside a wider semicircle beyond the squares of numbers 7 and 8. Between the number 1 and the number 2 there is a blue bottle with white polka dots. A yellow Zangemann skateboard with orange wheels on the side of the diagram actually hides the number 1."
-msgstr ""
+msgstr "Схема игры в классики, нарисованная мелом на асфальте. В рядке, внутри квадратов, цифры 1, 2; 3 и 4 рядом друг с другом; 5, 6; и 7 и 8 рядом друг с другом. Число 9 находится не внутри квадрата, а внутри более широкого полукруга за квадратами с числами 7 и 8. Между числом 1 и числом 2 находится синяя бутылка с белыми горошками. Желтый скейтборд Zangemann с оранжевыми колесами на боковой стороне диаграммы фактически скрывает число 1."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:781
@@ -785,7 +855,7 @@ msgstr "Но это еще не все. С помощью программног
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:792
 msgid "A green battery with red and yellow wires, a power strip, glue, a roll of solder, and two pencils."
-msgstr ""
+msgstr "Зеленая батарейка с красным и желтым проводами, удлинитель, клей, рулон припоя и два карандаша."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:796
@@ -807,28 +877,28 @@ msgstr "Вместе они также изменили программное �
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:803
 msgid "A screwdriver with orange and gray handle, red pliers, and three LEDs: yellow, green, pink."
-msgstr ""
+msgstr "Отвертка с оранжево-серой ручкой, красными плоскогубцами и тремя лампочками: желтым, зеленым и розовым."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:811
 msgid "Laboratory at the junkyard, under the veranda of Ada’s house. Ada is sitting on a water case with a leg bent under her, using a soldering iron. Konrad is standing next to her and dismounting a speaker. Marie is sitting on two tires with an arm resting on a table and her upside-down skateboard from which wires come out. She is talking with Alan, who is standing with his arms resting on the same table. On the table there are also: pliers, two wrenches, a spool of solder, a can of blue paint (a bit of paint has dried on the table), and a pitcher and two glasses containing a pink drink. Toni is testing his skateboard with added yellow wings and a fan. It burps."
-msgstr ""
+msgstr "Лаборатория на свалке, под крышей веранды дома Ады. Ада сидит на ящике с жидкостью, поджав ноги, и работает паяльником. Конрад стоит рядом с ней и разбирает динамик. Мари сидит на двух шинах, положив руку на стол, а перевернутый скейтборд, из которого торчат провода, стоит рядом. Она разговаривает с Аланом, который стоит, положив руки на тот же стол. На столе также лежат: плоскогубцы, два гаечных ключа, катушка с припоем, банка с синей краской (немного краски засохло на столе), а также кувшин и два стакана с розовым напитком. Тони тестирует свой скейтборд с добавленными желтыми крыльями и вентилятором. Он громко отрыгивает."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:819
 msgid "Marie and Ada’s mom are dancing, facing each other. Alan, Ada, and Konrad are dancing in a circle. On the right there is a speaker playing, resting on an oil drum. Near the speaker there are two dancing mice. Toni is jumping through the tires. Ada’s dog is howling, and from his mouth come two distorted musical notes."
-msgstr ""
+msgstr "Мама Мари и Ады танцуют, стоя лицом друг к другу. Алан, Ада и Конрад танцуют в кругу. Справа стоит динамик, поставленный на бочку из-под нефти. Рядом с динамиком танцуют две мыши. Тони прыгает через шины. Собака Ады выет, и из ее пасти доносятся две искаженные музыкальные ноты."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:827
 msgid "Hands holding wonderful ice cream cones: blue ice cream with a chocolate heart on top with a yellow heart on its center, and whipped cream on top of the chocolate; green ice cream with colored stars with a cucumber stuck on a stick; pink fish-shaped ice cream; pyramid-shaped ice cream with candies, and chocolate syrup, and a cherry on top; rainbow ice cream with a yellow umbrella; blue ghost-shaped ice cream with candies on it."
-msgstr ""
+msgstr "Руки, держащие чудесные рожки с мороженым: синее мороженое с шоколадным сердцем на верхушке и желтым сердцем в центре, а также взбитыми сливками поверх шоколада; зеленое мороженое с цветными звездочками и огурцом, насаженным на палочку; розовое мороженое в форме рыбки; мороженое в форме пирамиды с конфетами, шоколадным сиропом и вишней на верхушке; радужное мороженое с желтым зонтиком; синее мороженое в форме привидения с конфетами на верхушке."
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p35-1
@@ -872,7 +942,7 @@ msgstr "«Все компьютеры, которые не подчиняютс�
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:858
 msgid "The President getting a phone call from the angry Zangemann. The videophone consists of an old red Zangemann dial phone connected to a monitor. Zangemann’s face appears on the monitor, while a yellow flare of Zangemann’s thundering voice comes out of the phone, and the President holds the receiver at arm’s length. The president has white hair and wears a light blue shirt, a red tie, and a blue jacket with yellow buttons. The President is sitting on a green chair with white vertical lines, and his other hand is on the desk. On the desk, in addition to the videophone, there are sheets with something written on them and an open purple fountain pen. The President was eating a sandwich of meat and cheese with greens with two olives on a toothpick, over a blue napkin with white stripes."
-msgstr ""
+msgstr "Президент принимает телефонный звонок от разгневанного Зангемана. На экране виден старый красный телефон Зангемана с дисковым номеронабирателем, подключенный к монитору. На мониторе отображается лицо Зангемана, а из трубки раздается его громкий голос, и президент держит трубку на расстоянии вытянутой руки. У президента седые волосы, он одет в голубую рубашку, красный галстук и синий пиджак с желтыми пуговицами. Президент сидит на зеленом стуле с белыми вертикальными линиями, а другая его рука лежит на столе. На столе, помимо видеотелефона, лежат листы с чем-то написанным и открытая фиолетовая авторучка. Президент ел бутерброд с мясом и сыром с зеленью и двумя оливками на зубочистке, сидя на синей салфетке с белыми полосками."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:863
@@ -889,7 +959,7 @@ msgstr "Они собрались перед одной из своих восс
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:869
 msgid "Cans of green, blue, and pink paint; a paintbrush with yellow paint; a light green marker; and a rolled banner on which some blue paint has fallen."
-msgstr ""
+msgstr "Банки с зеленой, синей и розовой краской; кисть с желтой краской; светло-зеленый маркер; и свернутый баннер, на который попала синяя краска."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:875
@@ -912,7 +982,7 @@ msgstr "На следующий день Ада и ее друзья снова 
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:886
 msgid "Yellow and green paint on the floor and wax crayons yellow, red, blue, green and brown; the latter 3 are in a gray cardboard box."
-msgstr ""
+msgstr "Жёлтая и зелёная краска на полу и восковые мелки жёлтого, красного, синего, зелёного и коричневого цветов; последние три находятся в серой картонной коробке."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:890
@@ -924,7 +994,7 @@ msgstr "С каждым днем к протесту присоединялос�
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:895
 msgid "Group of protesters. Among them there are: Ada’s mother holding Alan’s hand and raising a pink ice cream; 3 colleagues of Toni’s father dressed in ties; two children holding the banner “Do your homework Mr. President and we will do ours!”; a robot with tank treads, irons as feet, an electric fan as abdomen, a monitor as head, and an eggbeater as one hand, holding a blue ice cream in his other hand; two parents holding the banner “Hacking 4 Freedom”; a lady holding an electronic sign “There is a code B”; two small birds, flying; the math teacher, Ms. Gernet, who has inserted in her cart a sign that says “They are young + need the code!“ The dog in her cart is barking; Ada and Konrad are carrying the banner “Don’t wreck our tech!” Marie and Toni are walking beneath the banner, and Marie is talking through a bullhorn held in her hand; Ada’s family’s dog is now wearing a red harness with shiny yellow LEDs that matches the collar."
-msgstr ""
+msgstr "Группа протестующих. Среди них: мать Ады, держащая Алана за руку и поднимающая розовое мороженое; трое коллег отца Тони в галстуках; двое детей с плакатом «Сделайте свою работу, господин президент, а мы сделаем нашу!»; робот с гусеницами, утюгами вместо ног, электрическим вентилятором вместо живота, монитором вместо головы и миксером вместо одной руки, держащий в другой руке синее мороженое; двое родителей, держащих плакат «Хакерство ради свободы»; женщина, держащая электронный плакат «Есть код B»; две маленькие птицы, летящие; учительница математики, мисс Жерне, которая вставила в свою тележку табличку с надписью «Они молоды + им нужен код!» Собака в ее тележке лает; Ада и Конрад несут плакат «Не разрушайте нашу технику!» Мари и Тони идут под баннером, а Мари говорит в рупор, который держит в руке; собака семьи Ады теперь носит красную упряжь с блестящими желтыми лампочками, которые сочетаются с ошейником."
 
 #. (itstool) path: info/excerpt
 #. Text on big banner, left on the illustration
@@ -937,14 +1007,14 @@ msgstr "Занимайтесь своими обязанностями, госп
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:906
 msgid "Detail of the previous image: two children holding the banner “Do your homework Mr. President and we will do ours!”"
-msgstr ""
+msgstr "Деталь предыдущего изображения: двое детей держат плакат « Выполняйте свою работу, господин президент, а мы будем выполнять нашу!»"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:912
 msgid "Detail of the previous image: Ada and Konrad are carrying the banner “Don’t wreck our tech!” Marie and Toni are walking beneath the banner, and Marie is talking through a bullhorn held in her hand; Ada’s family’s little dog is now wearing a red harness with shiny yellow LEDs that matches the collar."
-msgstr ""
+msgstr "Деталь предыдущего рисунка: Ада и Конрад несут плакат «Не разрушайте нашу технику!». Мари и Тони идут под плакатом, а Мари говорит в ручной мегафон; маленькая собачка семьи Ады теперь носит красную шлейку с блестящими желтыми лампочками, которая сочетается с ошейником."
 
 #. (itstool) path: info/excerpt
 #. Text on square signe on the right of the illustration
@@ -981,7 +1051,7 @@ msgstr "Президент внимательно вгляделся в реши
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:932
 msgid "One of Ada’s friends lying on his stomach with one foot up in the air is typing on a laptop. He has wavy brown hair parted in the center, a red sweatshirt, blue pants, and white socks but no shoes. Next to the computer there are a green cup and two open books."
-msgstr ""
+msgstr "Один из друзей Ады лежит на животе с одной ногой в воздухе и печатает на ноутбуке. У него волнистые каштановые волосы с пробором посередине, он одет в красную кофту, синие брюки и белые носки, но без обуви. Рядом с компьютером лежат зеленая чашка и две открытые книги."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:934
@@ -1003,7 +1073,7 @@ msgstr "Тем вечером дети вернулись домой горды�
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:943
 msgid "Ada and her friends in the President’s office. Ada is reprogramming the President’s computer. Toni is setting up a speaker for the President’s secretary. Marie and Konrad are sitting on the floor and talking, and Marie has a laptop on her legs with an FSFE logo sticker (three stars: pea green, sky blue, and sea blue). On the floor are a bowl with candy and a plate with ice creams. The President’s phone is ringing, but nobody is answering."
-msgstr ""
+msgstr "Ада и ее друзья в кабинете президента. Ада перепрограммирует компьютер президента. Тони устанавливает динамик для секретаря президента. Мари и Конрад сидят на полу и разговаривают, а у Мари на коленях лежит ноутбук с наклейкой логотипа FSFE (три звезды: горохово-зеленая, небесно-голубая и морско-голубая). На полу стоит миска с конфетами и тарелка с мороженым. Звонит телефон президента, но никто не отвечает."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:949
@@ -1021,7 +1091,7 @@ msgstr "<phrase condition=\"capitals-text\">На</phrase><phrase condition=\"cap
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:957
 msgid "A herald, wearing a hat with a plume, playing a trumpet on which a red banner is hung."
-msgstr ""
+msgstr "Вестник в шляпе с плюмажем, играющий на трубе, на которой висит красное знамя."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:959
@@ -1048,7 +1118,7 @@ msgstr "Кроме этого, был введен новый школьный �
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:970
 msgid "The President with Toni, Konrad, Marie, Ada, and a herald playing a trumpet. Marie is standing on top of a ladder talking into a microphone. Konrad firmly holds the ladder on which Marie is standing. Ada is standing on a chair and holds a copy of the new law bearing a seal. Ada’s dog is sitting in front of her."
-msgstr ""
+msgstr "Президент с Тони, Конрадом, Мари, Адой и вестником, играющим на трубе. Мари стоит на верху лестницы и говорит в микрофон. Конрад крепко держит лестницу, на которой стоит Мари. Ада стоит на стуле и держит в руках копию нового закона с печатью. Перед Адой сидит ее собака."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:975
@@ -1060,7 +1130,7 @@ msgstr "В тот вечер все праздновали, устроив бо�
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:980
 msgid "Evening party. Children are holding ice cream and balloons with the words “I love FS (I love Free Software)”; other children are riding skateboards; yellow and orange flags are hanging; music comes out from a large speaker system; Ms. Gernet holds a pink tree-shaped ice cream with a yellow star on it; Ada’s mom is dancing with a gentleman."
-msgstr ""
+msgstr "Вечерний праздник. Дети держат в руках мороженое и воздушные шары с надписью «I love FS (Я люблю свободное программное обеспечение)»; другие дети катаются на скейтбордах; висят желтые и оранжевые флаги; из большой акустической системы звучит музыка; госпожа Жерне держит в руках розовое мороженое в форме дерева с желтой звездой; мама Ады танцует с кавалером."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:984
@@ -1072,7 +1142,7 @@ msgstr "Пока остальные продолжали веселиться д
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:989
 msgid "The President, the secretary, and other people around a table enjoying crazy ice cream; yellow and orange flags continue from the previous image; a little girl who just took a pink ghost-shaped ice cream from the modified ice cream machine; Ada’s dog, Konrad, Marie, Ada, and Toni sneaking away from the party."
-msgstr ""
+msgstr "Президент, секретарь и другие люди за столом наслаждаются невероятным мороженым; желтые и оранжевые флаги продолжаются с предыдущего изображения; маленькая девочка, которая только что попробовала розовое мороженое в форме привидения из измененной мороженицы; собака Ады, Конрад, Мари, Ада и Тони ускользают с вечеринки."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:995
@@ -1090,14 +1160,14 @@ msgstr "<phrase condition=\"capitals-text\">А</phrase><phrase condition=\"capit
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:1004
 msgid "Ada’s little dog sniffing a trail of ice cream."
-msgstr ""
+msgstr "Маленькая собачка Ады обнюхивает след от мороженого."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:1013
 msgid "A trail of candies and raspberry ice cream on the ground."
-msgstr ""
+msgstr "Следы от конфет и малинового мороженого на земле."
 
 #. (itstool) path: info/title
 #. (itstool) id: Ada_Zangemann.dbk#title-acknowledgments
@@ -1129,7 +1199,7 @@ msgstr "Спасибо моей семье, которая заставляла 
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:1040
 msgid "Ada’s dog wags its tail after finding Zangemann hidden behind a curtain and eating an ice cream cone with candies and a blue umbrella on it and lots of raspberry ice cream dripping."
-msgstr ""
+msgstr "Собака Ады виляет хвостом, обнаружив Зангеманна, спрятавшегося за занавеской и поедающего мороженое в рожке с конфетами и синим зонтиком, с которого капает много малинового мороженого."
 
 #. (itstool) path: info/title
 #. (itstool) id: Ada_Zangemann.dbk#title-author
@@ -1154,7 +1224,7 @@ msgstr "Об авторе — Матиас Киршнер"
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:1062
 msgid "Close-up of Matthias smiling, waving with one hand, and wearing a headset. Matthias has short hair and a little beard."
-msgstr ""
+msgstr "Крупный план Матиаса, улыбающегося, который машет одной рукой и надевает наушники. У Матиаса короткие волосы и небольшая борода."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1064
@@ -1184,7 +1254,7 @@ msgstr "Об иллюстраторе — Сандра Брандштеттер"
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:1085
 msgid "Sandra smiling with a pencil in her hand in front of her chin. She has earphones with an integrated microphone. Sandra has short hair and glasses."
-msgstr ""
+msgstr "Сандра улыбается, держа карандаш у подбородка. На ней наушники со встроенным микрофоном. У Сандры короткие волосы и очки."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1087
@@ -1228,7 +1298,7 @@ msgstr "<link xlink:href=\"https://creativecommons.org/licenses/by-sa/4.0/\">htt
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:1127
 msgid "A hand that holds a fish-shaped ice cream cone with a cucumber on a decorated toothpick, to color. In a bottom corner, a pencil writing."
-msgstr ""
+msgstr "Рука, держащая мороженое в форме рыбки с огурцом на украшенной зубочистке, для раскрашивания. В нижнем углу надпись карандашом."
 
 #. (itstool) path: simplesect/literallayout
 #. In a literallayout element all space and newline characters are kept.
@@ -1238,7 +1308,7 @@ msgid ""
 "Come up with some delicious, funny, or crazy ice-cream flavors and draw them on the ice-cream cones on the following page.\n"
 "More information about the book can be found at <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
 msgstr ""
-"Придумайте несколько вкусных, забавных или необычных вкусов мороженого и нарисуйте их на рожках мороженого на следующей странице. \n"
+"Придумайте несколько вкусных, забавных или необычных вкусов мороженого и нарисуйте их на рожках мороженого на следующей странице.\n"
 "Более подробную информацию о книге можно найти на сайте <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
 
 #. (itstool) path: mediaobject/alt
@@ -1246,4 +1316,4 @@ msgstr ""
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:1137
 msgid "Three hands that hold as many empty ice cream cones, to draw and color. In the air above the middle cone is an umbrella."
-msgstr ""
+msgstr "Три руки, держащие столько же пустых рожков для мороженого, для рисования и раскрашивания. В воздухе над средним рожком висит зонтик."
