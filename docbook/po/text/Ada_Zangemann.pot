@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-10-16 21:28+0200\n"
+"POT-Creation-Date: 2025-11-26 06:15+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -27,18 +27,6 @@ msgstr ""
 #. (itstool) path: cover/bridgehead
 #: Ada_Zangemann.dbk:263 Ada_Zangemann.dbk:307
 msgid "A Tale of Software, Skateboards, and Raspberry Ice Cream"
-msgstr ""
-
-#. (itstool) path: info/biblioid
-#. ISBN of print edition
-#: Ada_Zangemann.dbk:264
-msgid "978-1-7185-0318-2"
-msgstr ""
-
-#. (itstool) path: info/biblioid
-#. ISBN of ebook edition
-#: Ada_Zangemann.dbk:265
-msgid "978-1-7185-0319-9"
 msgstr ""
 
 #. (itstool) path: info/author
