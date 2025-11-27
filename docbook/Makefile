@@ -345,6 +345,10 @@ build/Ada_Zangemann-print-headings-none.%.sla: \
 	templates/template-print.sla \
 	> $@.log 2>&1
 
+# Build/copy inside cover spread
+build/Ada_Zangemann-insidecover.sla:
+	cp templates/template-insidecover.sla $@
+
 # Specific output convention for pdf without bleeds or crop marks
 %.screen.pdf: %.sla
 	../scripts/./to_screen_pdf.sh $<
