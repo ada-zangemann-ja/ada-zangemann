@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2025-11-11 11:51+0000\n"
-"Last-Translator: Maciej Łoziński <loziniak@o2.pl>\n"
+"PO-Revision-Date: 2025-12-01 09:00+0000\n"
+"Last-Translator: Igor W <igorwisnia@proton.me>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/fsfe/ada-zangemann/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -589,7 +589,7 @@ msgstr "Wszystko co musiał zrobić to wciśnięcie klawisza na złotym komputer
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:575
 msgid "A white power strip attached to a wall socket. The power strip has 3 sockets and a green switch. One of the sockets is attached to a plug with a gray cable."
-msgstr ""
+msgstr "Biała listwa zasilająca podłączona do gniazdka ściennego. Listwa ma 3 gniazda i zielony włącznik. Do jednego z gniazd podłączona jest wtyczka z szarym kablem."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:579
@@ -601,7 +601,7 @@ msgstr "Zangemann miał dużo frajdy klikając błyszczące przyciski i patrząc
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:584
 msgid "Zangeman sitting in front of his golden computer on a golden armchair with a very tall red padded backrest at whose top is the “Z” of the Zangemann logo. He is wearing a purple turtle-neck sweater and light blue trousers. The computer has four ornate monitors of various sizes, each of which has the logo on the back. It is integrated into a costly wooden desk from which a gray cable flows that is connected to the power strip of the previous page."
-msgstr ""
+msgstr "Zangeman siedzi przed swoim złotym komputerem na złotym fotelu z bardzo wysokim, czerwonym, pikowanym oparciem, na którego szczycie znajduje się „Z” z logo Zangemanna. Ma na sobie fioletowy golf i jasnoniebieskie spodnie. Komputer ma cztery ozdobne monitory różnej wielkości, z których każdy ma logo z tyłu. Jest zintegrowany z kosztownym drewnianym biurkiem, z którego wychodzi szary kabel podłączony do listwy zasilającej z poprzedniej strony."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:589
@@ -613,7 +613,7 @@ msgstr "Kiedy nie siedział przed swoim złotym komputerem, Zangemann budował n
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:594
 msgid "City landscape with houses and shops, with a central street turning right. On the road there are a car and a cyclist. There are various children and adults walking or going on skateboards, some eating ice cream, while others are buying ice cream from the original Zangemann machines."
-msgstr ""
+msgstr "Miejski krajobraz z domami i sklepami, z główną ulicą skręcającą w prawo. Na drodze znajdują się samochód i rowerzysta. Wokół chodzą lub jeżdżą na deskorolkach różne dzieci i dorośli — jedni jedzą lody, inni kupują je z oryginalnych maszyn Zangemanna."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:596
@@ -637,7 +637,7 @@ msgstr "Pewnego dnia, Zangemann pomyślał “Chciałbym obejrzeć moje wynalazk
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:609
 msgid "Zangemann descends the stairs from his mansion on the hill towards the city. Zangemann’s house stands on a hill. The front is blue with large windows; the towers are dark blue, and from a window starts a yellow slide that ends in a large swimming pool with two palm trees. The roofs are red, and above the highest tower an antenna is installed. On the sides of the stairs to get off the hill there are evergreen trees."
-msgstr ""
+msgstr "Zangemann schodzi po schodach ze swojej rezydencji na wzgórzu w kierunku miasta. Dom Zangemanna stoi na wzgórzu. Front budynku jest niebieski, z dużymi oknami; wieże są ciemnoniebieskie, a z jednego z okien zaczyna się żółta zjeżdżalnia, która kończy się w dużym basenie z dwiema palmami. Dachy są czerwone, a na najwyższej wieży zamontowana jest antena. Po bokach schodów prowadzących ze wzgórza rosną wiecznie zielone drzewa."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:613
@@ -654,7 +654,7 @@ msgstr "Zangemann był kompletnie pochłonięty swoimi myślami kiedy nagle — 
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:620
 msgid "Zangemann after the incident with the child. Zangemann screams from pain while holding up one of his legs with both hands at the shin. The child has brown hair that is blown back by Zangemann’s scream; he is wearing a light blue hooded sweatshirt and dark green pants. He holds a red Zangemann electric skateboard."
-msgstr ""
+msgstr "Zangemann po incydencie z dzieckiem. Zangemann krzyczy z bólu, trzymając oburącz jedną nogę za goleń. Dziecko ma brązowe włosy, które odchyla do tyłu krzyk Zangemanna; ma na sobie jasnoniebieską bluzę z kapturem i ciemnozielone spodnie. W rękach trzyma czerwony elektryczny deskorolkę Zangemanna."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:624
@@ -671,7 +671,7 @@ msgstr "Wściekły Zangemanna poszedł dalej. Nagle, usłyszał głośną muzyk�
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:630
 msgid "Advertisements for Zangemann ice cream (sandwich board), a Zangemann electric skateboard, and a Zangemann washing machine. The math teacher, Ms. Gernet, is passing in front of the billboards. Ms. Gernet is an old lady with short white hair. She is dressed in a light green t-shirt and a pea green sweater, dark brown pants, and light green heeled shoes. She has a fuchsia shoulder bag, worn behind her. She pushes a small shopping cart in which there is a small brown dog with a collar and tag."
-msgstr ""
+msgstr "Reklamy lodów Zangemanna (potykacz), elektrycznej deskorolki Zangemanna oraz pralki Zangemanna. Przed billboardami przechodzi nauczycielka matematyki, pani Gernet. Pani Gernet jest starszą kobietą o krótkich białych włosach. Ubrana jest w jasnozielony t-shirt i sweterek w kolorze groszkowym, ciemnobrązowe spodnie oraz jasnozielone buty na obcasie. Ma fuksjową torbę na ramię, przewieszoną na plecy. Pcha mały wózek sklepowy, w którym siedzi mały brązowy piesek z obrożą i identyfikatorem."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:635
@@ -708,7 +708,7 @@ msgstr "<phrase condition=\"capitals-text\">Następnego</phrase><phrase conditio
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:663
 msgid "Five kids from the school who can’t make skateboards work. Two girls wear helmets, respectively blue and red. A little girl with brown hair tied in two tails with yellow rubber bands is kneeling. She is trying to understand why the skateboard of her friend with the red helmet does not work. Four children have backpacks on their shoulders, while the little girl with the red helmet left hers leaning on a bench on which there are a yellow apple and a light blue bottle with a white flower on it."
-msgstr ""
+msgstr "Pięcioro dzieci ze szkoły, które nie potrafią uruchomić deskorolek. Dwie dziewczynki mają kaski — odpowiednio niebieski i czerwony. Mała dziewczynka z brązowymi włosami związanymi w dwa kucyki żółtymi gumkami klęczy. Próbuje zrozumieć, dlaczego deskorolka jej koleżanki w czerwonym kasku nie działa. Czworo dzieci ma plecaki na ramionach, natomiast dziewczynka w czerwonym kasku zostawiła swój oparty o ławkę, na której leżą żółte jabłko i jasnoniebieska butelka z białym kwiatkiem."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:667
@@ -720,7 +720,7 @@ msgstr "Chociaż Ada nie posiadała ani głośnika ani deskorolki, zastanawiała
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:672
 msgid "Close-up of Ada thoughtful, with a backpack and with one hand on her chin and the other resting on her side."
-msgstr ""
+msgstr "Zbliżenie na zamyśloną Adę, z plecakiem, z jedną ręką opartą na brodzie, a drugą spoczywającą na boku."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:675
@@ -753,7 +753,7 @@ msgstr "Najlepsze w tym wszystkim było to, że Ada sama może majstrować przy 
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:693
 msgid "Computer screen from which the elements of the programming language symbolically emerge: “while num &gt; 0“, “init“, “sx=42“, “for“, “v**3“. Ada is typing on a white keyboard with a blue cable, while her other hand enters the screen to change the program (“print(msg)”, “a+b+c+d=e”, “if”, “break”, “continue”, “exit()”). Next to the keyboard there are a pencil and an eraser."
-msgstr ""
+msgstr "Ekran komputera, z którego symbolicznie wyłaniają się elementy języka programowania:„while num > 0”, „init”, „sx=42”, „for”, „v**3”. Ada pisze na białej klawiaturze z niebieskim kablem, podczas gdy jej druga ręka wchodzi do ekranu, aby zmienić program („print(msg)”, „a+b+c+d=e”, „if”, „break”, „continue”, „exit()”). Obok klawiatury leżą ołówek i gumka."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:699
