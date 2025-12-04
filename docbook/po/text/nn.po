@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2025-11-25 21:49+0100\n"
-"PO-Revision-Date: 2025-11-25 01:50+0100\n"
+"PO-Revision-Date: 2025-12-04 13:01+0100\n"
 "Last-Translator: Kjetil Torgrim Homme <kjetilho@njus.no>\n"
 "Language-Team: \n"
 "Language: nn\n"
@@ -204,10 +204,9 @@ msgstr ""
 "uhorveleg rik. Både vaksne og barn elskar dei fantastiske tekniske "
 "oppfinningane hans. Men ein dag er det eit problem: det elektroniske "
 "rullebrettet til barna verkar ikkje lenger som dei skal. Kva er det som "
-"skjer? Den nysgjerrige jenta Ada finn ut av det. Saman med "
-"vennene sine eksperimenterer ho med maskin- og programvare, og barna lagar "
-"ein plan: Zangemann kan ikkje lenger vera den einaste som kontrollerer "
-"dingsane!"
+"skjer? Den nysgjerrige jenta Ada finn ut av det. Saman med vennene sine "
+"eksperimenterer ho med maskin- og programvare, og barna lagar ein plan: "
+"Zangemann kan ikkje lenger vera den einaste som kontrollerer dingsane!"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:333
@@ -759,14 +758,14 @@ msgid ""
 "toward Ada holding a yellow fan over his head. Alan now wears white socks "
 "and yellow shoes."
 msgstr ""
-"Ada fiklar med ting i sitt improviserte laboratorium. Ada sit på ei kasse "
-"og reparerar med ein gul skrutrekkjar. På bordet er det ei "
-"grøn tong, ein raud hammar, ei kvit straumpadde og ein annan "
-"dings. Ada sit ved eit bord som består av ei treplate støtta opp av to "
-"oljetønner (ei grå og ei raud), og ein liten sagstol av tre. Bak Ada er det "
-"ei vaskemaskin, røyr og eit bord. Framfor det improviserte bordet er det "
-"dekk og ein gammal telefon med øydelagd leidning. Alan kjem mot Ada med ei "
-"gul vifte over hovudet. Alan har no kvite sokkar og gule sko."
+"Ada fiklar med ting i sitt improviserte laboratorium. Ada sit på ei kasse og "
+"reparerar med ein gul skrutrekkjar. På bordet er det ei grøn tong, ein raud "
+"hammar, ei kvit straumpadde og ein annan dings. Ada sit ved eit bord som "
+"består av ei treplate støtta opp av to oljetønner (ei grå og ei raud), og "
+"ein liten sagstol av tre. Bak Ada er det ei vaskemaskin, røyr og eit bord. "
+"Framfor det improviserte bordet er det dekk og ein gammal telefon med "
+"øydelagd leidning. Alan kjem mot Ada med ei gul vifte over hovudet. Alan har "
+"no kvite sokkar og gule sko."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:562
@@ -1285,8 +1284,8 @@ msgid ""
 "“continue”, “exit()”). Next to the keyboard there are a pencil and an eraser."
 msgstr ""
 "Dataskjerm der elementa til programmeringsspråket dukkar opp: «while num "
-"&gt; 0», «init», «sx=42», «for», «v**3». Ada skriv på eit kvitt tastatur "
-"med ein blå kabel, medan den andre handa går inn i skjermen for å endra "
+"&gt; 0», «init», «sx=42», «for», «v**3». Ada skriv på eit kvitt tastatur med "
+"ein blå kabel, medan den andre handa går inn i skjermen for å endra "
 "programmet («skriv ut(msg)», «a+b+c+d=e», «if», «break», «continue», "
 "«exit()»). Ved sida av tastaturet er det ein blyant og eit viskelêr."
 
@@ -1744,14 +1743,13 @@ msgid ""
 "Together, they changed the software for the speakers too. Then they turned "
 "up the music as loud as possible and danced wildly together."
 msgstr ""
-"Saman endra dei på programvara til høgtalarane også. Så skrudde dei "
-"musikken opp så høgt dei kunne og dansa vilt saman."
+"Saman endra dei på programvara til høgtalarane også. Så skrudde dei musikken "
+"opp så høgt dei kunne og dansa vilt saman."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:803
-#, fuzzy
 msgid ""
 "A screwdriver with orange and gray handle, red pliers, and three LEDs: "
 "yellow, green, pink."
@@ -1763,7 +1761,6 @@ msgstr ""
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:811
-#, fuzzy
 msgid ""
 "Laboratory at the junkyard, under the veranda of Ada’s house. Ada is sitting "
 "on a water case with a leg bent under her, using a soldering iron. Konrad is "
@@ -1776,20 +1773,19 @@ msgid ""
 "is testing his skateboard with added yellow wings and a fan. It burps."
 msgstr ""
 "Laboratoriet ved skraphaugen, under verandaen til Adas hus. Ada sit på ei "
-"kasse med eitt bein bøygd under seg og bruker ein loddebolt. Konrad står "
-"ved sida av henne og demonterer ein høgtalar. Marie sit på to bildekk med "
-"ein arm kvilande på eit bord, rullebrettet hennar er opp-ned og har "
+"kasse med eitt bein bøygd under seg. Ho bruker ein loddebolt, medan Konrad "
+"står ved sida av henne og demonterer ein høgtalar. Marie sit på to bildekk "
+"med ein arm kvilande på eit bord, rullebrettet hennar er opp-ned og har "
 "leidningar som kjem ut. Ho snakkar med Alan, som står med armane kvilande på "
 "det same bordet. På bordet er det også: ei tong, to skiftenøklar, ein spole "
 "med loddetinn, ein boks med blå måling (litt måling har tørka på bordet), ei "
 "kanne og to glas med ein rosa drikk. Toni testar rullebrettet sitt med "
-"påmonterte gule venger og ei vifte. Det gir frå seg ein lyd."
+"påmonterte gule venger og ei vifte. Det rapar."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:819
-#, fuzzy
 msgid ""
 "Marie and Ada’s mom are dancing, facing each other. Alan, Ada, and Konrad "
 "are dancing in a circle. On the right there is a speaker playing, resting on "
@@ -1797,17 +1793,16 @@ msgid ""
 "through the tires. Ada’s dog is howling, and from his mouth come two "
 "distorted musical notes."
 msgstr ""
-"Mødrene til Marie og Ada dansar, med ansikta mot kvarandre. Alan, Ada og Konrad "
-"dansar i ein sirkel. På høgre side er det ein høgtalar som spelar, ståande "
-"på ei oljetønne. Nær høgtalaren er det to mus som dansar. Toni hoppar "
-"gjennom dekk. Adas hund hyler, og frå munnen kjem det to forstyrra "
+"Mødrene til Marie og Ada dansar, med ansikta mot kvarandre. Alan, Ada og "
+"Konrad dansar i ein sirkel. På høgre side er det ein høgtalar som spelar, "
+"ståande på ei oljetønne. Nær høgtalaren er det to mus som dansar. Toni "
+"hoppar gjennom dekk. Adas hund hyler, og frå munnen kjem det to forvrengde "
 "musikknotar."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:827
-#, fuzzy
 msgid ""
 "Hands holding wonderful ice cream cones: blue ice cream with a chocolate "
 "heart on top with a yellow heart on its center, and whipped cream on top of "
@@ -1816,17 +1811,16 @@ msgid ""
 "and chocolate syrup, and a cherry on top; rainbow ice cream with a yellow "
 "umbrella; blue ghost-shaped ice cream with candies on it."
 msgstr ""
-"Hender held nydelege kremmarhus: blå iskrem med sjokoladehjarte på toppen "
-"med eit gult hjarte i midten, og piska krem på toppen av sjokoladen; grøn "
-"iskrem med fargerike stjerner med ein agurk festa på ein pinne; rosa "
-"fiskeforma iskrem; pyramideforma iskrem med godteri og sjokoladesirup og eit "
+"Hender held herlege kremmarhus: blå iskrem med sjokoladehjarte på toppen med "
+"eit gult hjarte i midten, og piska krem på toppen av sjokoladen; grøn iskrem "
+"med fargerike stjerner med ein agurk festa på ein pinne; rosa fiskeforma "
+"iskrem; iskrem forma som ein pyramide med godteri og sjokoladesirup og eit "
 "kirsebær på toppen; regnbogefarga iskrem med ein gul paraply; blå "
 "spøkjelsesforma iskrem med godteri på."
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p35-1
 #: Ada_Zangemann.dbk:838
-#, fuzzy
 msgid ""
 "<phrase condition=\"capitals-text\">Every</phrase><phrase "
 "condition=\"capitals-img\">very</phrase> day, Ada and her friends made plans "
@@ -1838,16 +1832,15 @@ msgid ""
 "machines."
 msgstr ""
 "<phrase condition=\"capitals-text\">Kvar</phrase><phrase "
-"condition=\"capitals-img\">var</phrase> dag la Ada og vennene hennar "
-"planar for kva dei skulle laga saman på ettermiddagen. Dei bygde om ei "
-"gammal, øydelagd iskremmaskin slik at ho laga iskrem i alle tenkjelege "
-"former og fargar. Dei åt firkanta is, hjarteforma is, til og med "
-"pyramideforma is, og jordbær-, bringebær og regnbogeiskrem. Alt saman med "
-"strøssel og karamellsaus på, og mykje betre enn Zangemanns variantar."
+"condition=\"capitals-img\">var</phrase> dag la Ada og vennene hennar planar "
+"for kva dei skulle laga saman på ettermiddagen. Dei bygde om ei gammal, "
+"øydelagd iskremmaskin slik at ho laga iskrem i alle tenkjelege former og "
+"fargar. Dei åt firkanta is, hjarteforma is, til og med pyramideforma is, og "
+"jordbær-, bringebær og regnbogeiskrem. Alt saman med strøssel og "
+"karamellsaus på, og mykje betre enn Zangemanns variantar."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:839
-#, fuzzy
 msgid ""
 "Sometimes they could even help adults. Toni reprogrammed his father’s "
 "ironing machine so that it could also iron ties again — Zangemann had "
@@ -1857,17 +1850,16 @@ msgid ""
 "And they helped the school custodian modify his vacuum so that it "
 "automatically recognized toys and wouldn’t suck them up."
 msgstr ""
-"Nokre gonger kunne dei til og med hjelpa vaksne. Toni omprogrammerte sin "
-"fars strykejern slik at det igjen kunne stryka slips, noko Zangemann "
-"hadde forbode dei å gjera fordi han hata slips som pesten. Til bussjåføren "
-"laga dei eit automatisk vatningssystem av gamle hageslangar og ei "
-"datamaskin, slik at plantane hennar ikkje skulle døy av tørst i "
-"sommarvarmen. Og dei hjelpte vaktmeisteren til skulen med å byggja om "
-"støvsugaren, slik at den kjende igjen leiketøy og ikkje saug dei opp."
+"Nokre gonger kunne dei til og med hjelpa vaksne. Toni programmerte om farens "
+"strykejern slik at det igjen kunne stryka slips, noko Zangemann hadde "
+"forbode dei å gjera fordi han hata slips som pesten. Til bussjåføren laga "
+"dei eit automatisk vatningssystem av gamle hageslangar og ei datamaskin, "
+"slik at plantane hennar ikkje skulle døy av tørst i sommarvarmen. Og dei "
+"hjelpte vaktmeisteren på skulen med å byggja om støvsugaren, slik at den "
+"kjende igjen leiketøy og ikkje saug dei opp."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:840
-#, fuzzy
 msgid ""
 "Some things they built just for fun, like the fart machine they put in their "
 "math teacher’s chair. Whenever Ms. Gernet sat down, the machine played a "
@@ -1875,9 +1867,9 @@ msgid ""
 "secretly smirked a little every time."
 msgstr ""
 "Nokre ting bygde dei berre for moro skuld, som prompemaskina dei sette på "
-"stolen til mattelæraren. Kvar gong fru Gernet sette, seg spelte maskina "
-"ein liten prompelyd. Fru Gernet irettesette dei, men Ada var sikker på at "
-"også ho inst inne syntest det var litt morosamt."
+"stolen til mattelæraren. Kvar gong fru Gernet sette seg, spelte maskina ein "
+"liten prompelyd. Fru Gernet irettesette dei, men Ada var sikker på at også "
+"ho syntest det var litt morosamt, inst inne."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:845
@@ -1887,7 +1879,6 @@ msgstr "Zangemann og statsministeren"
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p36-1
 #: Ada_Zangemann.dbk:849
-#, fuzzy
 msgid ""
 "<phrase condition=\"capitals-text\">One</phrase><phrase condition=\"capitals-"
 "img\">ne</phrase> day, Zangemann noticed that some computers no longer "
@@ -1898,16 +1889,15 @@ msgid ""
 "with the computers. You must make a law against this!”"
 msgstr ""
 "<phrase condition=\"capitals-text\">Ein</phrase><phrase condition=\"capitals-"
-"img\">n</phrase> dag oppdaga Zangemann at nokre av datamaskinene hans ikkje "
-"lenger lydde hans programmerte kommandoar. Sjokkert og rasande "
-"ringde han til statsministeren. Skjelvande av sinne ropte han inn i "
-"telefonen: «Nokon har endra på programma i einingane mine! Det skal ikkje "
-"skje! Det er trass alt oppfinningane mine. Det er alt for farleg at kven som "
-"helst kan gjera kva dei vil med datamaskinene. Du må laga ei lov mot dette!»"
+"img\">in</phrase> dag oppdaga Zangemann at nokre av datamaskinene hans ikkje "
+"lenger lydde hans programmerte kommandoar. Sjokkert og rasande ringde han "
+"til statsministeren. Skjelvande av sinne ropte han inn i telefonen: «Nokon "
+"har endra på programma i einingane mine! Det skal ikkje skje! Det er trass "
+"alt oppfinningane mine. Det er alt for farleg at kven som helst kan gjera "
+"kva dei vil med datamaskinene. Du må laga ei lov mot dette!»"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:850
-#, fuzzy
 msgid ""
 "The president did not want to upset Zangemann. All the government’s "
 "computers were programmed by Zangemann. Without the computers, the "
@@ -1915,13 +1905,12 @@ msgid ""
 "Zangemann requested:"
 msgstr ""
 "Statsministeren ville ikkje bli uvenner med Zangemann. Alle datamaskinene "
-"styresmaktene hadde var programmerte av Zangemann. Utan datamaskinene ville "
-"dei ikkje vera i stand til å styra landet. Så dei vedtok lova som "
-"Zangemann bad om:"
+"styresmaktene hadde, var programmerte av Zangemann. Utan datamaskinene ville "
+"dei ikkje vera i stand til å styra landet. Så dei vedtok lova som Zangemann "
+"bad om:"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:851
-#, fuzzy
 msgid ""
 "“All computers that do not listen to Zangemann are banned. Anyone who "
 "reprograms Zangemann’s devices will be fined 500,000 gold pieces!”"
@@ -1933,7 +1922,6 @@ msgstr ""
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:858
-#, fuzzy
 msgid ""
 "The President getting a phone call from the angry Zangemann. The videophone "
 "consists of an old red Zangemann dial phone connected to a monitor. "
@@ -1961,7 +1949,6 @@ msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:863
-#, fuzzy
 msgid ""
 "When Ada and her friends heard this, they were furious. “This is unfair,” "
 "they said. “We rebuilt and reprogrammed our skateboards ourselves. They are "
@@ -1973,7 +1960,6 @@ msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:864
-#, fuzzy
 msgid ""
 "They gathered in front of one of their rebuilt ice-cream machines and "
 "discussed the situation. It was clear that something had to be done about "
@@ -1981,23 +1967,22 @@ msgid ""
 msgstr ""
 "Dei samla seg framfor ein av dei ombygde ismaskinene sine og diskuterte "
 "situasjonen. Det var klart at dei måtte gjera noko med den nye lova, og dei "
-"kom opp med ein plan..."
+"la ein plan..."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:869
-#, fuzzy
 msgid ""
 "Cans of green, blue, and pink paint; a paintbrush with yellow paint; a light "
 "green marker; and a rolled banner on which some blue paint has fallen."
 msgstr ""
 "Boksar med grøn, blå og rosa måling; ein målarkost med gul måling; ein "
-"lysegrøn tusj; og eit samanrulla banner som det har falle litt blå måling på."
+"lysegrøn tusj; og eit samanrulla banner som det har dryppa litt blå måling "
+"på."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:875
-#, fuzzy
 msgid "Protest"
 msgstr "Demonstrasjon"
 
@@ -2019,18 +2004,17 @@ msgid ""
 msgstr ""
 "<phrase condition=\"capitals-text\">Neste</phrase><phrase "
 "condition=\"capitals-img\">este</phrase> dag gjekk dei ikkje på skulen. I "
-"staden køyrde dei rullebretta sine til Stortinget med store "
-"protestplakatar. Kvelden før hadde dei sett LED-lys på nokre av plakatane "
-"sine, som no blinka kraftig. Dei hadde også kopla høgtalarane sine saman, slik "
-"at ein i alle gatene kunne høyra kva dei sa. Nokon forbipasserande stoppa og "
-"spurde barna kva dei demonstrerte for. «For programvarefridom!», svarte "
-"barna i kor og fortalde dei vaksne heile historia. Dei vaksne nikka imponert "
-"og statsministeren kunne ikkje la vera å kikka nysgjerrig på plakatane deira "
-"då han nærma seg."
+"staden køyrde dei rullebretta sine til Stortinget med store protestplakatar. "
+"Kvelden før hadde dei sett LED-lys på nokre av plakatane sine, som no blinka "
+"kraftig. Dei hadde også kopla høgtalarane sine saman, slik at ein i alle "
+"gatene kunne høyra kva dei sa. Nokon forbipasserande stoppa og spurde barna "
+"kva dei demonstrerte for. «For programvarefridom!», svarte barna i kor og "
+"fortalde dei vaksne heile historia. Dei vaksne nikka imponert og "
+"statsministeren kunne ikkje la vera å kikka nysgjerrig på plakatane deira då "
+"han nærma seg."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:881
-#, fuzzy
 msgid ""
 "On the following day, Ada and her friends again sat down in front of the "
 "parliament building, this time with support. Some classmates came whose "
@@ -2039,16 +2023,15 @@ msgid ""
 "useful."
 msgstr ""
 "Den følgjande dagen sette Ada og vennene hennar seg endå ein gong ned "
-"framfor Stortinget, men denne gongen med støtte frå nokre "
-"klassekameratar som også hadde fått hjelp av Ada til å omprogrammera rullebretta sine. Tonis far og "
-"andre foreldre ville også støtta protesten. Dei meinte at dingsane til barna "
-"var svært nyttige."
+"framfor Stortinget, men denne gongen med støtte frå nokre klassekameratar "
+"som også hadde fått hjelp av Ada til å omprogrammera rullebretta sine. Tonis "
+"far og andre foreldre ville også støtta protesten. Dei meinte at dingsane "
+"til barna var svært nyttige."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:886
-#, fuzzy
 msgid ""
 "Yellow and green paint on the floor and wax crayons yellow, red, blue, green "
 "and brown; the latter 3 are in a gray cardboard box."
@@ -2058,7 +2041,6 @@ msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:890
-#, fuzzy
 msgid ""
 "With each passing day, more and more children and adults joined the protest. "
 "The bus driver they had helped drove up in her bus. She honked loudly to "
@@ -2080,7 +2062,6 @@ msgstr ""
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:895
-#, fuzzy
 msgid ""
 "Group of protesters. Among them there are: Ada’s mother holding Alan’s hand "
 "and raising a pink ice cream; 3 colleagues of Toni’s father dressed in ties; "
@@ -2100,20 +2081,18 @@ msgstr ""
 "hevar ein rosa iskrem; tre kollegaer av Tonis far kledd i slips; to barn som "
 "held ein plakat «Gjer leksene dine, herr statsminister, så vil me gjera "
 "våre!»; ein robot med beltevognbelte og strykejern som føter, ei elektrisk "
-"vifte som mage, ein skjerm som hovud og ein visp som ei hand og som held i "
-"ein blå iskrem i den andre handa; to foreldre som held plakaten «fiklar for "
-"fridom»; ei dame som held eit elektronisk skilt «det finst ein kode B»; to "
-"små fuglar som flyg; mattelæraren fru Gernet, som har eit brett i vogna si "
-"som seier «Dei er unge + treng å koda!» Hunden hennar bjeffar; Ada og Konrad "
-"ber plakaten «Ikkje øydelegg teknologien vår!» Marie og Toni går under "
-"banneret og Marie snakkar gjennom ein megafon som ho held i handa; Adas "
-"hund har no på seg ei raud trøye med skinnande gule LED med same "
-"farge som halsbandet."
+"vifte som mage, ein skjerm som hovud og ein visp som hand og med ein blå "
+"iskrem i den andre handa; to foreldre som held plakaten «Fiklar for fridom»; "
+"ei dame som held eit elektronisk skilt «Det finst ein kode B»; to små fuglar "
+"som flyg; mattelæraren fru Gernet, som har eit brett i vogna si som seier "
+"«Dei er unge + treng å koda!» Hunden hennar bjeffar; Ada og Konrad ber "
+"plakaten «Ikkje øydelegg teknologien vår!» Marie og Toni går under banneret "
+"og Marie snakkar gjennom ein megafon som ho held i handa; Adas hund har no "
+"på seg ei raud trøye med skinnande gule LED med same farge som halsbandet."
 
 #. (itstool) path: info/excerpt
 #. Text on big banner, left on the illustration
 #: Ada_Zangemann.dbk:897
-#, fuzzy
 msgid "Do your homework Mr. President and we will do ours!"
 msgstr "Gjer leksene dine, statsminister, så skal me gjera våre!"
 
@@ -2121,7 +2100,6 @@ msgstr "Gjer leksene dine, statsminister, så skal me gjera våre!"
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:906
-#, fuzzy
 msgid ""
 "Detail of the previous image: two children holding the banner “Do your "
 "homework Mr. President and we will do ours!”"
@@ -2133,7 +2111,6 @@ msgstr ""
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:912
-#, fuzzy
 msgid ""
 "Detail of the previous image: Ada and Konrad are carrying the banner “Don’t "
 "wreck our tech!” Marie and Toni are walking beneath the banner, and Marie is "
@@ -2142,8 +2119,8 @@ msgid ""
 msgstr ""
 "Detalj frå førre bilete: Ada og Konrad ber banneret \"Ikkje øydelegg "
 "teknologien vår!\" Marie og Toni går under banneret, og Marie snakkar "
-"gjennom ein ropert ho held i handa; den vesle hunden til Adas familie har no på seg "
-"ein raud sele med skinnande gule LED-lys som matchar halsbandet."
+"gjennom ein ropert ho held i handa; den vesle hunden til Adas familie har no "
+"på seg ein raud sele med skinnande gule LED-lys som matchar halsbandet."
 
 #. (itstool) path: info/excerpt
 #. Text on square signe on the right of the illustration
@@ -2163,14 +2140,12 @@ msgstr "Ikkje øydelegg teknologien vår!"
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:922
-#, fuzzy
 msgid "Children help the government"
 msgstr "Barn hjelper styresmaktene"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p42-1
 #: Ada_Zangemann.dbk:925
-#, fuzzy
 msgid ""
 "<phrase condition=\"capitals-text\">Ada</phrase><phrase condition=\"capitals-"
 "img\">da</phrase> protested in front of the parliament building every week, "
@@ -2183,17 +2158,16 @@ msgid ""
 "code!”"
 msgstr ""
 "<phrase condition=\"capitals-text\">Ada</phrase><phrase condition=\"capitals-"
-"img\">da</phrase> demonstrerte framfor Stortinget kvar veke, sjølv "
-"når det hølja ned. Det var akkurat på ein slik regnvêrsdag at "
-"statsministeren kom forbi gruppa med drypande våte barn. Han kunne ikkje "
-"anna enn å beundra standhaftigheita deira. Han spurde Ada: «Kvifor sit de "
-"her kvar dag? Kva er det de vil oppnå?» Ada svarte: «Me vil sjølv bestemma "
-"kva me kan og ikkje kan gjera med datamaskinene våre.» Vennene hennar ropte "
-"i kor: «Utan kode er alt håp ute! Utan kode er alt håp ute!»"
+"img\">da</phrase> demonstrerte framfor Stortinget kvar veke, sjølv når det "
+"hølja ned. Det var akkurat på ein slik regnvêrsdag at statsministeren kom "
+"forbi gruppa med drypande våte barn. Han kunne ikkje anna enn å beundra "
+"standhaftigheita deira. Han spurde Ada: «Kvifor sit de her kvar dag? Kva er "
+"det de vil oppnå?» Ada svarte: «Me vil sjølv bestemma kva me kan og ikkje "
+"kan gjera med datamaskinene våre.» Vennene hennar ropte i kor: «Utan kode er "
+"alt håp ute! Utan kode er alt håp ute!»"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:926
-#, fuzzy
 msgid ""
 "The president looked at the determined faces of the children. Honestly, he, "
 "too, wanted to decide for himself what the government could and couldn’t do "
@@ -2204,14 +2178,13 @@ msgstr ""
 "Statsministeren såg på dei innbitte fjesa til barna. For å vera ærleg så "
 "ville han også bestemma sjølv kva styresmaktene kunne eller ikkje kunne "
 "gjera med datamaskinene sine. Men han kunne ingenting om datamaskiner, og "
-"hadde derfor alltid late Zangemann bestemma. Fordjupa i sine eigne tankar "
+"derfor hadde alltid Zangemann fått bestemma. Fordjupa i sine eigne tankar "
 "gjekk statsministeren inn på Stortinget."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:932
-#, fuzzy
 msgid ""
 "One of Ada’s friends lying on his stomach with one foot up in the air is "
 "typing on a laptop. He has wavy brown hair parted in the center, a red "
@@ -2219,13 +2192,12 @@ msgid ""
 "there are a green cup and two open books."
 msgstr ""
 "Ein av Adas venner ligg på magen med ein fot i vêret og skriv på ei berbar "
-"datamaskin. Han har bølgjete brunt hår med midtskill, ein raud genser, blå "
+"datamaskin. Han har bølgjete brunt hår med midtskil, ein raud genser, blå "
 "bukser og kvite sokkar men ingen sko. Ved sida av datamaskina er det ein "
 "grøn kopp og to opne bøker."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:934
-#, fuzzy
 msgid ""
 "The next day, the president invited Ada and her friends over. “We also want "
 "to be in charge of our software ourselves. In order for that to be true, the "
@@ -2235,15 +2207,13 @@ msgid ""
 "amazed."
 msgstr ""
 "Neste dag inviterte statsministeren Ada og vennene hennar inn til seg. «Me "
-"vil også gjerne bestemma over vår eiga programvare. Men då må "
-"regjeringa bli uavhengig av Zangemann. Kan de fortelja meg alt de veit om "
+"vil også gjerne bestemma over vår eiga programvare. Men då må regjeringa bli "
+"uavhengig av Zangemann. Kan de fortelja meg alt de veit om "
 "datamaskinprogram?», spurde han. Barna forklarte begeistra korleis "
-"programvare fungerer og alt ein kunne gjera. Statsministeren var "
-"forbløffa."
+"programvare fungerer og alt ein kunne gjera. Statsministeren var forbløffa."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:937
-#, fuzzy
 msgid ""
 "With this new knowledge, the government would be able to design its own "
 "software, the way it wanted — completely without Zangemann. Immediately, the "
@@ -2251,26 +2221,23 @@ msgid ""
 "children everything they could change and improve in the software."
 msgstr ""
 "Med denne kunnskapen ville regjeringa vera i stand til å utforma sine eigne "
-"program, akkurat som dei ønskjer – heilt utan Zangemann. "
-"Statsministeren ringde til rådgivarane sine med det same. Dei sette seg i "
-"ein stor sirkel og snakka med barna om alt dei gjerne ville endra og "
-"forbetra i programma."
+"program, akkurat som dei ønskjer – heilt utan Zangemann. Statsministeren "
+"ringde til rådgivarane sine med det same. Dei sette seg i ein stor sirkel og "
+"snakka med barna om alt dei gjerne ville endra og forbetra i programma."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:938
-#, fuzzy
 msgid ""
 "That evening, the children went home proud and satisfied. Something finally "
 "happened! Their long protest was worth it."
 msgstr ""
-"Den kvelden gjekk barna stolte og fornøgde heimatt. Endeleg skjedde det noko! "
-"Den lange protesten deira hadde bore frukt."
+"Den kvelden gjekk barna stolte og fornøgde heimatt. Endeleg skjedde det "
+"noko! Den lange protesten deira hadde bore frukt."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:943
-#, fuzzy
 msgid ""
 "Ada and her friends in the President’s office. Ada is reprogramming the "
 "President’s computer. Toni is setting up a speaker for the President’s "
@@ -2288,14 +2255,12 @@ msgstr ""
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:949
-#, fuzzy
 msgid "New law"
 msgstr "Ny lov"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p44-1
 #: Ada_Zangemann.dbk:952
-#, fuzzy
 msgid ""
 "<phrase condition=\"capitals-text\">The</phrase><phrase condition=\"capitals-"
 "img\">he</phrase> next morning, the president’s phone rang very early. It "
@@ -2306,29 +2271,27 @@ msgid ""
 "Toni, Marie, Konrad, and the government experts."
 msgstr ""
 "<phrase condition=\"capitals-text\">Tidleg</phrase><phrase "
-"condition=\"capitals-img\">idleg</phrase> neste morgon ringde telefonen "
-"til statsministeren. Det var Zangemann. Han var sintare enn nokon gong "
+"condition=\"capitals-img\">idleg</phrase> neste morgon ringde telefonen til "
+"statsministeren. Det var Zangemann. Han var sintare enn nokon gong "
 "tidlegare. «Utan meg vil datamaskinene til regjeringa slutta å fungera», "
-"trua han. Men statsministeren svarte berre kort og la raskt på. "
-"Telefonen ringde mange fleire gonger den dagen, men Zangemanns oppringingar "
-"vart ikkje svart på. Statsministeren sat i møte med Ada, Toni, Marie, Konrad "
-"og regjeringsekspertane."
+"trua han. Men statsministeren svarte berre kort og la raskt på. Telefonen "
+"ringde mange fleire gonger den dagen, men Zangemanns oppringingar vart ikkje "
+"svart på. Statsministeren sat i møte med Ada, Toni, Marie, Konrad og "
+"regjeringsekspertane."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:957
-#, fuzzy
 msgid ""
 "A herald, wearing a hat with a plume, playing a trumpet on which a red "
 "banner is hung."
 msgstr ""
-"Ein herold med ein hatt med stor fjør, spelande på trompet som har eit raudt "
-"banner hengjande."
+"Ein herold med ein hatt med stor fjør, spelande på ein trompet med eit raudt "
+"banner."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:959
-#, fuzzy
 msgid ""
 "In the days that followed, they talked from morning to night and designed "
 "their first programs for the government’s computers. They were no longer "
@@ -2342,32 +2305,29 @@ msgstr ""
 "av oppringingar frå Zangemann. Toni hadde fått den gode ideen å programmera "
 "om telefonane. Når Zangemann ringde fekk han berre høyra eit automatisk "
 "lydopptak: «Styresmaktene ønskjer berre å bruka programvare som fritt kan "
-"brukast, blir undersøkt, blir delt og blir forbetra. Takk for at du ringde.»"
+"brukast, undersøkt, delt og forbetra. Takk for at du ringde.»"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:961
-#, fuzzy
 msgid ""
 "Then, after many weeks of protests and discussions, the time had finally "
 "come: they abolished the old Zangemann law! Instead, the government "
 "announced:"
 msgstr ""
 "Etter mange veker vart det endeleg avgjort: Den gamle Zangemann-lova vart "
-"fjerna. I staden annonserte regjeringa:"
+"fjerna! I staden annonserte regjeringa:"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:964
-#, fuzzy
 msgid ""
 "“Everyone is allowed to program their own computers as long as they adhere "
 "to the other laws.”"
 msgstr ""
 "«Alle har lov til å programmera sine eigne datamaskiner, så lenge dei "
-"overheld dei andre lovene.»"
+"fylgjer dei andre lovene.»"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:965
-#, fuzzy
 msgid ""
 "In addition, a new school subject was introduced: computer hardware and "
 "software."
@@ -2377,7 +2337,6 @@ msgstr "Det kom også eit nytt skulefag: Datamaskiner og programmering."
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:970
-#, fuzzy
 msgid ""
 "The President with Toni, Konrad, Marie, Ada, and a herald playing a trumpet. "
 "Marie is standing on top of a ladder talking into a microphone. Konrad "
@@ -2388,11 +2347,10 @@ msgstr ""
 "Statsministeren med Tony, Konrad, Marie, Ada og ein herold som spelar "
 "trompet. Marie står på toppen av ein stige og snakkar inn i ein mikrofon. "
 "Konrad held fast stigen som Marie står på. Ada står på ein stol og held ein "
-"kopi av den nye lova som har eit segl. Adas hund sit framfor henne."
+"kopi av den nye lova som har eit lakksegl. Adas hund sit framfor henne."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:975
-#, fuzzy
 msgid ""
 "That evening, everyone celebrated with a big party. Ada, Alan, Toni, Marie, "
 "Konrad, and other children from school and their parents; the president; Ms. "
@@ -2400,16 +2358,16 @@ msgid ""
 "the streets, listened to loud music, and ate ice cream, as much as they "
 "wanted, and in every imaginable shape and color."
 msgstr ""
-"Same kveld feira alle samen med ein stor fest. Ada, Alan, og alle dei andre "
-"barna frå skulen og foreldra deira, statsministeren, fru Gernet, "
-"bussjåføren, vaktmeisteren — alle var med. Dei pynta gatene, høyrde på høg "
-"musikk og åt is. Så mykje som dei ville og med alle tenkjelege former og fargar."
+"Same kveld feira alle samen med ein stor fest. Ada, Alan, Toni, Marie, "
+"Konrad og alle dei andre barna frå skulen og foreldra deira, "
+"statsministeren, fru Gernet, bussjåføren, vaktmeisteren — alle var med. Dei "
+"pynta gatene, høyrde på høg musikk og åt is. Så mykje som dei ville og med "
+"alle tenkjelege former og fargar."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:980
-#, fuzzy
 msgid ""
 "Evening party. Children are holding ice cream and balloons with the words “I "
 "love FS (I love Free Software)”; other children are riding skateboards; "
@@ -2418,13 +2376,13 @@ msgid ""
 "it; Ada’s mom is dancing with a gentleman."
 msgstr ""
 "Festkveld. Barn held iskremar og ballongar med orda \"Eg elskar FP (Eg "
-"elskar Fri programvare)\". Andre barn køyrer rullebrett. Gule og orange "
-"flagg heng, musikk kjem ut frå store høgtalaranlegg. Fru Gernet held ein "
-"rosa treforma iskrem med ei gul stjerne. Adas mamma dansar med ein herremann."
+"elskar Fri programvare)\". Andre barn køyrer rullebrett. Gule og oransje "
+"flagg er hengde opp, musikk kjem ut frå store høgtalaranlegg. Fru Gernet "
+"held ein rosa treforma iskrem med ei gul stjerne. Adas mamma dansar med ein "
+"herremann."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:984
-#, fuzzy
 msgid ""
 "While the others continued partying late into the night, Ada and her friends "
 "slipped away to their workshop. They already had a lot of ideas for new "
@@ -2438,7 +2396,6 @@ msgstr ""
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:989
-#, fuzzy
 msgid ""
 "The President, the secretary, and other people around a table enjoying crazy "
 "ice cream; yellow and orange flags continue from the previous image; a "
@@ -2448,20 +2405,18 @@ msgid ""
 msgstr ""
 "Statsministeren, sekretæren og andre folk rundt eit bord nyt heilt ville "
 "iskremar. Gule og oransje flagg held fram frå førre bilete. Ei lita jente "
-"som nettopp henta ein rosa spøkjelsesforma iskrem frå den justerte "
+"har nettopp henta ein rosa spøkjelsesforma iskrem frå den justerte "
 "iskremmaskinen. Adas hund, Konrad, Marie, Ada og Toni snik seg bort frå "
 "festen."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:995
-#, fuzzy
 msgid "And Zangemann?"
 msgstr "Og Zangemann?"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p48-1
 #: Ada_Zangemann.dbk:999
-#, fuzzy
 msgid ""
 "<phrase condition=\"capitals-text\">And</phrase><phrase condition=\"capitals-"
 "img\">nd</phrase> Zangemann? No one’s heard much from him. Maybe he’s still "
@@ -2489,22 +2444,19 @@ msgstr ""
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:1004
-#, fuzzy
 msgid "Ada’s little dog sniffing a trail of ice cream."
-msgstr "Adas vesle hund på sporet av ein sti av iskrem."
+msgstr "Adas vesle hund fylgjer sporet på ein sti av iskrem."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:1013
-#, fuzzy
 msgid "A trail of candies and raspberry ice cream on the ground."
 msgstr "Eit spor av godteri og bringebæris på bakken."
 
 #. (itstool) path: info/title
 #. (itstool) id: Ada_Zangemann.dbk#title-acknowledgments
 #: Ada_Zangemann.dbk:1020
-#, fuzzy
 msgid "Acknowledgments"
 msgstr "Takk"
 
@@ -2514,7 +2466,6 @@ msgstr "Takk"
 #. publishing this book in your language under a free cultural license,
 #. and encourage you to do that for other books in future as well.
 #: Ada_Zangemann.dbk:1028
-#, fuzzy
 msgid ""
 "Many thanks to Reinhard Wiesemann from the Linuxhotel for the financial "
 "support and motivation to no longer plan but to make. Thanks to Sandra "
@@ -2525,14 +2476,13 @@ msgid ""
 msgstr ""
 "Mange takk til Reinhard Wiesemann frå Linuxhotellet for økonomisk støtte og "
 "motivasjonen for å ikkje berre planleggja men faktisk gjera. Takk til Sandra "
-"Brandstätter som har gjeve meg glede med kvart nye utkast til illustrasjonar. "
-"Takk til redaktøren min Wiebke Helmchen som gjorde utviklinga og utforminga "
-"av historia så moro, og til No Starch Press for å gå med på å gi ut boka med "
-"ein fri kulturlisens."
+"Brandstätter som har gjeve meg glede med kvart nye utkast til "
+"illustrasjonar. Takk til redaktøren min Wiebke Helmchen som gjorde "
+"utviklinga og utforminga av historia så moro, og til No Starch Press for å "
+"gå med på å gi ut boka med ein fri kulturlisens."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1029
-#, fuzzy
 msgid ""
 "Thanks to Bea and Benni, Brian, Christine and Marc, Cory, Bernhard, Isabel "
 "and Amelia, Katta, Kristina, Martin, Mona and Arne, Nina, Oliver, Reinhard, "
@@ -2543,12 +2493,11 @@ msgstr ""
 "Takk til Bea og Benni, Brian, Christine and Marc, Cory, Bernhard, Isabel og "
 "Amelia, Katta, Kristina, Martin, Mona og Arne, Nina, Oliver, Reinhard, "
 "Sabine, og Torsten for gode idear, inspirasjon og praktiske tips, og til dei "
-"mange folka i fri programvarerørsla som eg har lært så mykje av og som "
-"har motivert meg med sitt engasjement."
+"mange folka i fri programvarerørsla som eg har lært så mykje av og som har "
+"motivert meg med sitt engasjement."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1033
-#, fuzzy
 msgid ""
 "Thanks to my family, who made me write early in the morning, late in the "
 "evening, and on holiday, and who always supports my work for software "
@@ -2564,7 +2513,6 @@ msgstr ""
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:1040
-#, fuzzy
 msgid ""
 "Ada’s dog wags its tail after finding Zangemann hidden behind a curtain and "
 "eating an ice cream cone with candies and a blue umbrella on it and lots of "
@@ -2577,7 +2525,6 @@ msgstr ""
 #. (itstool) path: info/title
 #. (itstool) id: Ada_Zangemann.dbk#title-author
 #: Ada_Zangemann.dbk:1047
-#, fuzzy
 msgid "About the Author"
 msgstr "Om forfattaren"
 
@@ -2585,13 +2532,11 @@ msgstr "Om forfattaren"
 #. (itstool) id: Ada_Zangemann.dbk#subtitle-author
 #. ignore-same
 #: Ada_Zangemann.dbk:1048
-#, fuzzy
 msgid "Matthias Kirschner"
 msgstr "Matthias Kirschner"
 
 #. (itstool) path: info/titleabbrev
 #: Ada_Zangemann.dbk:1049
-#, fuzzy
 msgid "About the Author - Matthias Kirschner"
 msgstr "Om forfattaren - Matthias Kirschner"
 
@@ -2599,7 +2544,6 @@ msgstr "Om forfattaren - Matthias Kirschner"
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:1062
-#, fuzzy
 msgid ""
 "Close-up of Matthias smiling, waving with one hand, and wearing a headset. "
 "Matthias has short hair and a little beard."
@@ -2609,7 +2553,6 @@ msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1064
-#, fuzzy
 msgid ""
 "Matthias was fascinated by computers and software as a child. He had an "
 "internet connection early, through which he learned a lot. Children have a "
@@ -2619,14 +2562,13 @@ msgid ""
 msgstr ""
 "Som barn var Matthias fascinert av datamaskiner og programvare. Han fekk "
 "tidleg Internett-tilkopling og lærte mykje av dette. Barn har ein rett til å "
-"ta framtida i sine eigne hender. Derfor er Matthias dedikert til at alle "
-"menneske skal kunna bruka programvare som dei sjølv ønskjer. Han drøymer "
-"også om å byggja eit elektrisk rullebrett med fri programvare."
+"ta framtida i sine eigne hender. Derfor er Matthias glødande oppteken av at "
+"alle menneske skal kunna bruka programvare som dei sjølv ønskjer. Han "
+"drøymer også om å byggja eit elektrisk rullebrett med fri programvare."
 
 #. (itstool) path: info/title
 #. (itstool) id: Ada_Zangemann.dbk#title-illustrator
 #: Ada_Zangemann.dbk:1070
-#, fuzzy
 msgid "About the Illustrator"
 msgstr "Om illustratøren"
 
@@ -2634,13 +2576,11 @@ msgstr "Om illustratøren"
 #. (itstool) id: Ada_Zangemann.dbk#subtitle-illustrator
 #. ignore-same
 #: Ada_Zangemann.dbk:1071
-#, fuzzy
 msgid "Sandra Brandstätter"
 msgstr "Sandra Brandstätter"
 
 #. (itstool) path: info/titleabbrev
 #: Ada_Zangemann.dbk:1072
-#, fuzzy
 msgid "About the Illustrator - Sandra Brandstätter"
 msgstr "Om illustratøren - Sandra Brandstätter"
 
@@ -2648,17 +2588,15 @@ msgstr "Om illustratøren - Sandra Brandstätter"
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:1085
-#, fuzzy
 msgid ""
 "Sandra smiling with a pencil in her hand in front of her chin. She has "
 "earphones with an integrated microphone. Sandra has short hair and glasses."
 msgstr ""
-"Smilande og tankefull Sandra med ein blyant i handa framfor haka. Ho har øyretelefonar "
-"med mikrofon på ledninga. Sandra har kort hår og briller."
+"Smilande og tankefull Sandra med ein blyant i handa framfor haka. Ho har "
+"øyretelefonar med mikrofon på ledninga. Sandra har kort hår og briller."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1087
-#, fuzzy
 msgid ""
 "Sandra has always liked crafting with scissors, pliers, glue, wire, fabric, "
 "and paper. Today she works as an illustrator, comic author, and character "
@@ -2675,13 +2613,11 @@ msgstr ""
 #. (itstool) path: info/title
 #. (itstool) id: Ada_Zangemann.dbk#title-bookswebsite
 #: Ada_Zangemann.dbk:1092
-#, fuzzy
 msgid "Book’s website"
-msgstr "Nettsida av boka"
+msgstr "Nettsida for boka"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1100
-#, fuzzy
 msgid ""
 "The Free Software Foundation Europe e.V. is a nonprofit association that "
 "empowers people to control technology. Software affects all areas of our "
@@ -2691,17 +2627,16 @@ msgid ""
 "Free Software strengthens basic rights such as freedom of expression, "
 "freedom of the press, and the right to privacy."
 msgstr ""
-"The Free Software Foundation Europe e.V. er ein ikkje-kommersiell organisasjon "
-"som gir folk høve til å kontrollera teknologien. Programvare påverkar alle "
-"område i liva våre, og derfor er det viktig at denne teknologien gir oss "
-"fridom i staden for å avgrensa oss. Fri programvare (også kjent som «open "
-"kjeldekode») gir alle rett til å bruka, undersøkja, dela og forbetra "
-"program. Dermed støttar fri programvare grunnleggjande rettar som "
-"ytringsfridom, pressefridom og retten til vern av privatlivet."
+"The Free Software Foundation Europe e.V. er ein ikkje-kommersiell "
+"organisasjon som gir folk høve til å kontrollera teknologien. Programvare "
+"påverkar alle område i liva våre, og derfor er det viktig at denne "
+"teknologien gir oss fridom i staden for å avgrensa oss. Fri programvare "
+"(også kjent som «open kjeldekode») gir alle rett til å bruka, undersøkja, "
+"dela og forbetra program. Dermed støttar fri programvare grunnleggjande "
+"rettar som ytringsfridom, pressefridom og retten til vern av privatlivet."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1102
-#, fuzzy
 msgid ""
 "On the web page of the book, you will find more information and resources: "
 "<link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
@@ -2712,7 +2647,6 @@ msgstr ""
 #. (itstool) path: info/title
 #. (itstool) id: Ada_Zangemann.dbk#title-license
 #: Ada_Zangemann.dbk:1109
-#, fuzzy
 msgid "License"
 msgstr "Bruksvilkår"
 
@@ -2732,7 +2666,6 @@ msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1118
-#, fuzzy
 msgid ""
 "<link xlink:href=\"https://creativecommons.org/licenses/by-sa/4.0/\">https://"
 "creativecommons.org/licenses/by-sa/4.0/</link>"
@@ -2744,13 +2677,12 @@ msgstr ""
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:1127
-#, fuzzy
 msgid ""
 "A hand that holds a fish-shaped ice cream cone with a cucumber on a "
 "decorated toothpick, to color. In a bottom corner, a pencil writing."
 msgstr ""
 "Ei hand som held ein fiskeforma iskrem med ein agurk på ein pynta "
-"tannpirkar, for å fargeleggja. Ein skrivande blyant i eit hjørne i botnen."
+"tannpirkar, for fargeleggjing. Ein skrivande blyant i eit hjørne i botnen."
 
 #. (itstool) path: simplesect/literallayout
 #. In a literallayout element all space and newline characters are kept.
@@ -2759,16 +2691,17 @@ msgstr ""
 msgid ""
 "Come up with some delicious, funny, or crazy ice-cream flavors and draw them on the ice-cream cones on the following page.\n"
 "More information about the book can be found at <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
-msgstr "Finn på herlege, morosame og ville iskremsmakar og teikn dei i iskremkjeksa på neste side. Meir informasjon om boka finst på <link xlink:href="https://ada.fsfe.org">https://ada.fsfe.org</link>."
+msgstr ""
+"Finn på herlege, morosame og ville iskremsmakar og teikn dei i iskremkjeksa på neste side.\n"
+"Meir informasjon om boka finst på <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:1137
-#, fuzzy
 msgid ""
 "Three hands that hold as many empty ice cream cones, to draw and color. In "
 "the air above the middle cone is an umbrella."
 msgstr ""
-"Tre hender som held mange tomme iskremkjeks, for teikning og fargelegging. I "
-"lufta over kjeksen i midten er det ein paraply."
+"Tre hender som held mange tomme iskremkjeks, for teikning og fargeleggjing. "
+"I lufta over kjeksen i midten er det ein paraply."
