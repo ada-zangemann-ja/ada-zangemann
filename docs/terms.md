@@ -78,3 +78,5 @@ in wording and to help you communicate clearly with professionals.
   of the book. The German and Danish editions features a printed endpaper with
   outlines of objects on a yellow background. A printed endpaper is a premium
   feature at additional cost.
+- **Spine:** the short end of the book on which you look when the book is in a book case.
+- **Joint:** in a hardcover book the groove on the cover. Located on both sides of the spine, functioning as a hinge.

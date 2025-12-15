@@ -67,6 +67,9 @@ ISBN codes can be purchased as a single code or by a set of ten.
 Getting multiple ISBN codes can be relevant in order to use a second code to publish an ebook with an ISBN code.
 In general you need different ISBN codes for different variants, versions, and formats.
 
+You might be required to specify categories as part of requesting the ISBN.
+Typical categories for this book are: youth fiction, 6+ year, programming.
+
 ## Printing company
 
 Many printing companies print books.
@@ -120,6 +123,11 @@ In that case it is advised to mention this to the printer so they are aware of t
 
 The cover template might need to be changed, because the dimensions will differ by the paper used.
 You can update the template file according to the specifications and fill the contents using the automation.
+
+The hard transition from green to yellow on the spine is unforgiving to print margins.
+With printing margins typically being 3mm the edge could misalign or even appear skewed.
+For thin soft covers the edge can be avoided by using the spine image that continues the white cord lines across the spine.
+For the hard cover the yellow of the spine can be continued into the joint so the edges are on the cover sides.
 
 An ISBN barcode can be created in Scribus, GIMP or an online tool, but Inkscape offers the most control over the final output.
 Besides the ISBN you can also include a separate barcode section for the price, in case the book has a fixed price.
