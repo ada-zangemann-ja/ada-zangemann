@@ -3,20 +3,20 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2025-11-11 11:51+0000\n"
-"Last-Translator: Joaquin Veira <joaquin.veira@gmail.com>\n"
+"PO-Revision-Date: 2025-12-17 14:00+0000\n"
+"Last-Translator: itagenata <ivan@tagenata.com>\n"
 "Language-Team: Galician <https://hosted.weblate.org/projects/fsfe/ada-zangemann/gl/>\n"
 "Language: gl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.15-dev\n"
+"X-Generator: Weblate 5.15.1-dev\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
 msgid "translator-credits"
-msgstr "Joaquín Veira joaquin.veira@gmail.com, 2025"
+msgstr "vanesaferreirarodriguez@gmail, 2025"
 
 #. (itstool) path: info/title
 #. (itstool) path: cover/bridgehead
@@ -25,13 +25,13 @@ msgstr "Joaquín Veira joaquin.veira@gmail.com, 2025"
 #. ignore-same
 #: Ada_Zangemann.dbk:262 Ada_Zangemann.dbk:306 Ada_Zangemann.dbk:496
 msgid "Ada &amp; Zangemann"
-msgstr "Ada e Zangemann"
+msgstr "Ada & Zangemann"
 
 #. (itstool) path: info/subtitle
 #. (itstool) path: cover/bridgehead
 #: Ada_Zangemann.dbk:263 Ada_Zangemann.dbk:307
 msgid "A Tale of Software, Skateboards, and Raspberry Ice Cream"
-msgstr "Unha historia sobre o soporte lóxico, monopatíns e xeado de framboesa"
+msgstr "Unha historia sobre software, monopatíns e xeado de framboesa"
 
 #. (itstool) path: info/author
 #. ignore-same
@@ -119,7 +119,7 @@ msgstr "Konrad"
 #. ignore-same
 #: Ada_Zangemann.dbk:297
 msgid "Marie"
-msgstr "María"
+msgstr "Marie"
 
 #. (itstool) path: character/charactername
 #. Character names are mostly reference to existing people in computer
@@ -154,12 +154,12 @@ msgstr ""
 #. (itstool) id: Ada_Zangemann.dbk#para-back-1
 #: Ada_Zangemann.dbk:332
 msgid "<phrase condition=\"capitals-text\">The</phrase><phrase condition=\"capitals-img\">he</phrase> inventor Zangemann is world-famous and immensely rich. Adults and children alike love his fabulous technical inventions. But one day there is a problem: the children’s electronic skateboards no longer work properly. What’s going on? The curious girl Ada sees through what is going on. Together with her friends, she experiments with hardware and software, and the children forge a plan: Zangemann can no longer be the only one in control of the devices!"
-msgstr "<phrase condition=\"capitals-text\">O</phrase><phrase condition=\"capitals-img\"></phrase> inventor Zangemann é mundialmente famoso e inmensamente rico. Tanto adultos como nenos adoran os seus fabulosos inventos técnicos. Pero un día hai un problema: os monopatíns electrónicos dos nenos xa non funcionan correctamente. ¿Que está a pasar? A curiosa nena Ada ve o que está a suceder. Xunto cos seus amigos, experimenta con hardware e software, e os nenos forxan un plan: ¡Zangemann xa non pode ser o único que controle os dispositivos!"
+msgstr "<phrase condition=\"capitals-text\">O</phrase><phrase condition=\"capitals-img\"></phrase> i inventor Zangemann é famoso en todo o mundo e é inmesamente rico. Adultos e cativos aman as súas fabulosas invencións. Pero un día xorde un problema: os monopatíns eléctricos dos nenos xa non funcionan correctamente. Que está a pasar? A curiosa Ada descobre o que está a suceder. Xunto cos seus amigos, enreda cos programas da computadora e elabora un plan: Zangemann xa non pode ter o control sobre os dispositivos!"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:333
 msgid "A book that arouses interest in tinkering and encourages shaping technology."
-msgstr ""
+msgstr "Un libro que estimula o interese por experimentar e fomenta dar forma á tecnoloxía."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -355,12 +355,15 @@ msgid ""
 "Software, Skateboards, and\n"
 "Raspberry Ice Cream"
 msgstr ""
+"Un conto sobre\n"
+"software, monopatíns e \n"
+"xeados de framboesa"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p04-1
 #: Ada_Zangemann.dbk:500
 msgid "<phrase condition=\"capitals-text\">Once</phrase><phrase condition=\"capitals-img\">nce</phrase> upon a time, there was a little girl named Ada. Her family was so poor that all their savings fit inside a cookie jar. They didn’t have enough money to live in a proper home. Instead, Ada lived with her mother and her little brother, Alan, in a cabin near a junkyard on the edge of town."
-msgstr ""
+msgstr "<phrase condition=\"capitals-text\">Había</phrase><phrase condition=\"capitals-img\">nce</phrase> unha vez unha nena chamada Ada. A súa familia era tan pobre que todos os seus aforros cabían nunha caixa de galletas. Non tiñan suficientes cartos para vivir nunha casa decente. No seu lugar, Ada vivía coa nai e co irmán pequeno Alan nunha casoupa preto dunha chatarraría, nas aforas da cidade."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -379,23 +382,23 @@ msgstr ""
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:518
 msgid "Far away, at the other end of town, lived a famous inventor named Zangemann. He was immensely rich. No sheet of paper in the world was big enough to show his bank balance with all its numbers and zeros! He lived in a huge house with a swimming pool and waterslide, lots of staircases and towers, hundreds of windows, and so many rooms that he often got lost in them himself. Zangemann’s mansion stood high on a hill. From there, he could look out over the whole city."
-msgstr ""
+msgstr "Moi lonxe, no outro extremo da cidade, vivía un inventor famoso chamado Zangemann. Era inmesamente rico. Non había no mundo unha folla de papel o suficientemente grande para amosar todos os cartos que tiña, con todos os seus números e ceros. Vivía nunha casa enorme, con piscina e tobogán, moitas escaleiras e torres, centos de ventás e tantas habitacións que a miúdo se perdía nelas. A mansión de Zangemann estaba no alto dun outeiro. Dende alí podía contemplar toda a cidade."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:523
 msgid "Zangemann and computers"
-msgstr ""
+msgstr "Zangemann e os ordenadores"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p06-1
 #: Ada_Zangemann.dbk:527
 msgid "<phrase condition=\"capitals-text\">Computers</phrase><phrase condition=\"capitals-img\">omputers</phrase> had fascinated Zangemann ever since he was a child. When he was young, computers were huge machines with lots of cables and loud, noisy fans. At school, little Zangemann often dreamed of all the things he would do with computers if they were just a little bit smaller — small enough that they could be built into other fun things. He knew what he would do. First, he would build a computer into his skateboard so that it would make cool noises when he rode it — maybe a fire engine siren or the sound of a rocket launch. Then he would use a computer to invent ice‑cream-making machines! The computer would mix the coolest flavors and even sell the ice cream. There would be machines on every street corner, and he could get ice cream in his favorite flavor whenever he felt like it, and just as much as he wanted. After that, he’d build a cleaning robot and a block-sorting machine so that his room would always be neat and clean. Zangemann had great new ideas like these every day. He could think of nothing else."
-msgstr ""
+msgstr "<phrase condition=\"capitals-text\">Os </phrase><phrase condition=\"capitals-img\">omputers</phrase> Os ordenadores fascinaran a Zangemann dende cativo. Cando era novo, os ordenadores eran máquinas enormes con moitos cables e ventiladores ruidosos. Na escola, o pequeno Zangemann, acotío, soñaba con todo o que podería facer cos ordenadores se fosen un chisco máis pequenos. O suficientemente miúdos como para poder incorporalos noutras cousas e engadirlles funcións divertidas. Xa sabía o que faría. Primeiro instalaría un ordenador no seu monopatín para que fixese sons chulos cando o montase, como unha sirena ou o son do engalaxe dun foguete. Logo usaría o ordenador para inventar máquinas que fixesen xeados. O ordenador mesturaría os sabores, e mesmo, vendería o xeado. Habería máquinas en cada esquina. Podería mercar xeado do seu sabor favorito cando lle petase e tanto como quixese. Despois construiría un robot de limpeza e unha maquina recolledora de xoguetes para que a súa habitación estivese sempre limpa e ordenada. Cada día, Zangemann tiña ideas novas e enxeñosas. Só podía pensar niso."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:528
 msgid "As the years went by, Zangemann grew bigger and computers got smaller. In fact, by the time he finished school, they were so small they fit in his pocket. The smallest ones even fit on his fingertip."
-msgstr ""
+msgstr "Conforme pasaban os anos, Zangemann medraba e os ordenadores facíanse máis pequenos. De feito, cando rematou a escola eran tan pequenos que lle cabían no peto. Os máis pequerrechiños mesmo lle cabían na punta do dedo."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -407,7 +410,7 @@ msgstr ""
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:540
 msgid "“Finally, I can turn all my ideas into real things!” Zangemann exclaimed, and he got right to work. He found ways to put the small computers into all kinds of things to make them even more fun and useful. And then he sold them."
-msgstr ""
+msgstr "“Por fin podo converter todas as miñas ideas en obxectos reais!”.Zangemann estaba feliz e púxose mans á obra. Atopou o xeito de integrar os ordenadores en todo tipo de obxectos para facelos máis divertidos e útiles. E logo vendeunos."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -419,7 +422,7 @@ msgstr ""
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:547
 msgid "Adults and children loved his inventions. All the kids wanted to have one of his skateboards — complete with the latest sounds to show off to their friends at school. Kids also loved his speaker invention, which could instantly play any song you requested. And, of course, everyone loved the ice cream served every afternoon from the automatic, extra-delicious Original Zangemann Ice Cream Machine. It all seemed like magic, but the secret was simple: the little computers that Zangemann built into his machines made it all possible."
-msgstr ""
+msgstr "Os seus inventos encantaban aos cativos e aos adultos. Todos os nenos querían os seus monopatíns cos últimos sons para ensinarllos aos seus amigos do colexio. Aos nenos tamén lles encantaba o altofalante que inventara, que ao instante reproducía calquera canción que lle pedises. E por suposto, a todo o mundo lle encantaba o xeado que todas as tardes servía a \"Máquina de Xeados Orixinal Zangemann\". Todo semellaba máxico, pero o segredo era sinxelo: os pequenos ordenadores que Zangemann incorporara as súas máquinas."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
