@@ -11,6 +11,7 @@
 # Summary of variables used:
 # $@    The file name of the target.
 # $<    The name of the first prerequisite.
+# $^    The names of all prerequisites, with spaces between them
 # $(@D) The directory part of $@.
 # $(@F) The file-within-directory part of $@.
 
@@ -332,6 +333,37 @@ $(targets-coversoft-216x216x4_728x3_175-text): build/Ada_Zangemann-coversoft-216
 	templates/template-coversoft-216x216x4_728x3_175.sla \
 	> $@.log 2>&1
 
+# Build screen cover (page 1 is back, page 2 is front)
+build/Ada_Zangemann-coverscreen.%.sla: \
+ build/Ada_Zangemann.%.dbk \
+ build/images/illustrations/all \
+ build/images/capitals \
+ xsl/scribus.xsl
+	xsltproc -o $@ --verbose \
+	--stringparam docbook-contents-file ../$< \
+	--stringparam profile.condition "capitals-text;cover-print-text;colophon-halfpage" \
+	xsl/scribus.xsl \
+	templates/template-coverscreen.sla \
+	> $@.log 2>&1
+
+# Split front cover from screen cover
+build/Ada_Zangemann-coverscreen.front.%.pdf: \
+ build/Ada_Zangemann-coverscreen.%.screen.pdf
+	gs -sDEVICE=pdfwrite -dNOPAUSE -dBATCH -dSAFER -dFirstPage=2 -dLastPage=2 -sOutputFile=$@ $<
+
+# Split back cover from screen cover
+build/Ada_Zangemann-coverscreen.back.%.pdf: \
+ build/Ada_Zangemann-coverscreen.%.screen.pdf
+	gs -sDEVICE=pdfwrite -dNOPAUSE -dBATCH -dSAFER -dFirstPage=1 -dLastPage=1 -sOutputFile=$@ $<
+
+# Combine screen pdf contents with front and back cover
+targets-screen = $(addprefix build/Ada_Zangemann-screen.,$(addsuffix .pdf,$(languages)))
+$(targets-screen): build/Ada_Zangemann-screen.%.pdf: \
+ build/Ada_Zangemann-coverscreen.front.%.pdf \
+ build/Ada_Zangemann-print-headings-text.%.screen.pdf \
+ build/Ada_Zangemann-coverscreen.back.%.pdf
+	gs -sDEVICE=pdfwrite -dNOPAUSE -dBATCH -dSAFER -sOutputFile=$@ $^
+
 # Build version with no conditional content (for debugging)
 build/Ada_Zangemann-print-headings-none.%.sla: \
  build/Ada_Zangemann.%.dbk \
@@ -350,6 +382,7 @@ build/Ada_Zangemann-insidecover.sla:
 	cp templates/template-insidecover.sla $@
 
 # Specific output convention for pdf without bleeds or crop marks
+# TODO: screen might require a different colophon text via docbook profiling
 %.screen.pdf: %.sla
 	../scripts/./to_screen_pdf.sh $<
 
