@@ -234,7 +234,7 @@ build/Ada_Zangemann-print-all.%.sla: \
  build/images/capitals xsl/scribus.xsl
 	xsltproc -o $@ --verbose \
 	--stringparam docbook-contents-file ../$< \
-	--stringparam profile.condition "colophon-halfpage" \
+	--stringparam profile.condition "colophon-halfpage;halftitle-original;halftitle-global;halftitle-global-text" \
 	xsl/scribus.xsl \
 	templates/template-print.sla \
 	> $@.log 2>&1
@@ -248,7 +248,7 @@ $(targets-print-headings-img): build/Ada_Zangemann-print-headings-img.%.sla: \
  xsl/scribus.xsl
 	xsltproc -o $@ --verbose \
 	--stringparam docbook-contents-file ../$< \
-	--stringparam profile.condition "headings-img;capitals-img;colophon-halfpage" \
+	--stringparam profile.condition "headings-img;capitals-img;colophon-halfpage;halftitle-original" \
 	xsl/scribus.xsl \
 	templates/template-print.sla \
 	> $@.log 2>&1
@@ -264,7 +264,7 @@ $(targets-print-headings-img-colophon-fullpage): build/Ada_Zangemann-print-headi
  xsl/scribus.xsl
 	xsltproc -o $@ --verbose \
 	--stringparam docbook-contents-file ../$< \
-	--stringparam profile.condition "headings-img;capitals-img;colophon-fullpage" \
+	--stringparam profile.condition "headings-img;capitals-img;colophon-fullpage;halftitle-original" \
 	xsl/scribus.xsl \
 	templates/template-print.sla \
 	> $@.log 2>&1
@@ -281,7 +281,7 @@ $(targets-print-headings-text): build/Ada_Zangemann-print-headings-text.%.sla: \
  xsl/scribus.xsl
 	xsltproc -o $@ --verbose \
 	--stringparam docbook-contents-file ../$< \
-	--stringparam profile.condition "headings-text;capitals-text;colophon-halfpage" \
+	--stringparam profile.condition "headings-text;capitals-text;colophon-halfpage;halftitle-original" \
 	xsl/scribus.xsl \
 	templates/template-print.sla \
 	> $@.log 2>&1
@@ -297,13 +297,46 @@ $(targets-print-headings-text-colophon-fullpage): build/Ada_Zangemann-print-head
  xsl/scribus.xsl
 	xsltproc -o $@ --verbose \
 	--stringparam docbook-contents-file ../$< \
-	--stringparam profile.condition "headings-text;capitals-text;colophon-fullpage" \
+	--stringparam profile.condition "headings-text;capitals-text;colophon-fullpage;halftitle-original" \
 	xsl/scribus.xsl \
 	templates/template-print.sla \
 	> $@.log 2>&1
 
 .PHONY: build/Ada_Zangemann-print-headings-text-colophon-fullpage.all.sla
 build/Ada_Zangemann-print-headings-text-colophon-fullpage.all.sla: $(targets-print-headings-text-colophon-fullpage)
+
+# Build version with text headers and halftitle for global distribution
+targets-print-headings-text-halftitle-global = $(addprefix build/Ada_Zangemann-print-headings-text-halftitle-global.,$(addsuffix .sla,$(languages)))
+$(targets-print-headings-text-halftitle-global): build/Ada_Zangemann-print-headings-text-halftitle-global.%.sla: \
+ build/Ada_Zangemann.%.dbk \
+ build/images/illustrations/all \
+ build/images/capitals \
+ xsl/scribus.xsl
+	xsltproc -o $@ --verbose \
+	--stringparam docbook-contents-file ../$< \
+	--stringparam profile.condition "headings-text;capitals-text;colophon-halfpage;halftitle-global;halftitle-global-text" \
+	xsl/scribus.xsl \
+	templates/template-print.sla \
+	> $@.log 2>&1
+
+.PHONY: build/Ada_Zangemann-print-headings-text-halftitle-global.all.sla
+build/Ada_Zangemann-print-headings-text-halftitle-global.all.sla: $(targets-print-headings-text-halftitle-global)
+
+targets-print-headings-text-colophon-fullpage-halftitle-global = $(addprefix build/Ada_Zangemann-print-headings-text-colophon-fullpage-halftitle-global.,$(addsuffix .sla,$(languages)))
+$(targets-print-headings-text-colophon-fullpage-halftitle-global): build/Ada_Zangemann-print-headings-text-colophon-fullpage-halftitle-global.%.sla: \
+ build/Ada_Zangemann.%.dbk \
+ build/images/illustrations/all \
+ build/images/capitals \
+ xsl/scribus.xsl
+	xsltproc -o $@ --verbose \
+	--stringparam docbook-contents-file ../$< \
+	--stringparam profile.condition "headings-text;capitals-text;colophon-fullpage;halftitle-global;halftitle-global-text" \
+	xsl/scribus.xsl \
+	templates/template-print.sla \
+	> $@.log 2>&1
+
+.PHONY: build/Ada_Zangemann-print-headings-text-colophon-fullpage-halftitle-global.all.sla
+build/Ada_Zangemann-print-headings-text-colophon-fullpage-halftitle-global.all.sla: $(targets-print-headings-text-colophon-fullpage-halftitle-global)
 
 # Build version with text subtitle
 targets-coverhard-text = $(addprefix build/Ada_Zangemann-coverhard-text.,$(addsuffix .sla,$(languages)))
