@@ -378,8 +378,8 @@ build/Ada_Zangemann-print-headings-none.%.sla: \
 	> $@.log 2>&1
 
 # Build/copy inside cover spread
-build/Ada_Zangemann-insidecover.sla:
-	cp templates/template-insidecover.sla $@
+build/Ada_Zangemann-insidecover.sla: templates/template-insidecover.sla
+	cp $< $@
 
 # Specific output convention for pdf without bleeds or crop marks
 # TODO: screen might require a different colophon text via docbook profiling
