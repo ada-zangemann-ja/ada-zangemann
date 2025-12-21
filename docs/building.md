@@ -67,6 +67,7 @@ make build/Ada_Zangemann-pandoc-text-only.en.odt
 make build/Ada_Zangemann-print-headings-text-colophon-fullpage.en.sla
 make build/Ada_Zangemann-print-headings-text-colophon-fullpage.en.pdf
 make build/Ada_Zangemann-print-headings-text-colophon-fullpage.en.mediumres.pdf
+make build/Ada_Zangemann-screen.en.pdf
 ```
 ### Tips
 
