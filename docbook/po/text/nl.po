@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2025-12-05 08:08+0000\n"
+"PO-Revision-Date: 2025-12-21 07:16+0000\n"
 "Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/fsfe/ada-zangemann/nl/>\n"
 "Language: nl\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.15-dev\n"
+"X-Generator: Weblate 5.15.1\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
@@ -150,9 +150,8 @@ msgstr "Een soldeerbout en een kwast en blik gele verf, verbonden met wit elektr
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-back-1
 #: Ada_Zangemann.dbk:332
-#, fuzzy
 msgid "<phrase condition=\"capitals-text\">The</phrase><phrase condition=\"capitals-img\">he</phrase> inventor Zangemann is world-famous and immensely rich. Adults and children alike love his fabulous technical inventions. But one day there is a problem: the children’s electronic skateboards no longer work properly. What’s going on? The curious girl Ada sees through what is going on. Together with her friends, she experiments with hardware and software, and the children forge a plan: Zangemann can no longer be the only one in control of the devices!"
-msgstr "<phrase condition=\"capitals-text\">De</phrase><phrase condition=\"capitals-img\">e</phrase> uitvinder Zangemann is wereldberoemd en ongelofelijk rijk. Ouders en kinderen houden van zijn fabelachtige technische uitvindingen. Maar op een dag is er een probleem: de elektronische skateboards van de kinderen werken niet meer goed. Wat is er aan de hand? De nieuwsgierige Ada heeft door wat er aan de hand is. Samen met haar vrienden experimenteert ze met hardware en software en de kinderen smeden een plan: Zangemann zal niet langer als enige controle over de apparaten hebben!"
+msgstr "<phrase condition=\"capitals-text\">De</phrase><phrase condition=\"capitals-img\">e</phrase> uitvinder Zangemann is wereldberoemd en ongelofelijk rijk. Ouders en kinderen houden van zijn fabelachtige technische uitvindingen. Maar op een dag is er een probleem: de elektronische skate­boards van de kinderen werken niet meer goed. Wat is er aan de hand? De nieuwsgierige Ada heeft door wat er aan de hand is. Samen met haar vrienden experimenteert ze met hardware en software en de kinderen smeden een plan: Zangemann zal niet langer als enige controle over de apparaten hebben!"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:333
@@ -225,6 +224,7 @@ msgstr ""
 "Illustraties: Sandra Brandstatter\n"
 "Vertaling: Nico Rikken, André Ockers, Maurice Hendriks. Dank aan de proeflezers.\n"
 "Zet- en drukwerk: Nico Rikken\n"
+"Druk: Pumbo.nl\n"
 "\n"
 "© 2022 Matthias Kirschner en Sandra Brandstätter\n"
 "© 2025 Nederlandse vertaling Nico Rikken, André Ockers, Maurice Hendriks\n"
@@ -235,10 +235,10 @@ msgstr ""
 "\n"
 "Op dit werk is een Creative Commons Naamsvermelding-GelijkDelen 4.0 Internationaal licentie van toepassing. De volledige tekst is te lezen op: <link xlink:href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.nl\">https://creativecommons.org/licenses/by-sa/4.0/deed.nl</link>\n"
 "\n"
-"<emphasis role=\"bold\">Je mag</emphasis> het materiaal in welk medium of formaat dan ook delen, kopiëren en verspreiden. <emphasis role=\"bold\">Je mag</emphasis> het materiaal veranderen, remixen en afgeleiden werken voor alle doeleinden, inclusief inclusief commerciële doeleinden. <emphasis role=\"bold\">Je moet</emphasis> de maker van het werk vermelden, een link naar de licentie plaatsen en aangeven of het werk veranderd is.\n"
-"<emphasis role=\"bold\">Je mag</emphasis> dat op op een redelijke manier doen, maar niet zodanig dat de indruk gewekt wordt dat de licentiegever instemt met je werk of je gebruik van het werk. Als je het werk hebt geremixt, veranderd, of op het werk hebt voortgebouwd, <emphasis role=\"bold\">moet je</emphasis> het veranderde materiaal verspreiden onder dezelfde licentie als het originele werk. (Dit is een samenvatting en geen vervanging voor de juridische tekst van CC-BY-SA 4.0).\n"
+"<emphasis role=\"bold\">Je mag</emphasis> het materiaal in welk medium of formaat dan ook delen, kopiëren en verspreiden. <emphasis role=\"bold\">Je mag</emphasis> het materiaal veranderen en afgeleiden werken maken voor alle doeleinden, inclusief commerciële doeleinden. <emphasis role=\"bold\">Je moet</emphasis> de maker van het werk vermelden, een link naar de licentie plaatsen en aangeven of het werk veranderd is.\n"
+"<emphasis role=\"bold\">Je mag</emphasis> dat op op een redelijke manier doen, maar niet zodanig dat de indruk gewekt wordt dat de licentiegever instemt met je werk of je gebruik van het werk. Als je het werk hebt veranderd, of op het werk hebt voortgebouwd, <emphasis role=\"bold\">moet je</emphasis> het veranderde materiaal verspreiden onder dezelfde licentie als het originele werk. (Dit is een samenvatting en geen vervanging voor de juridische tekst van CC-BY-SA 4.0).\n"
 "\n"
-"Verder vraagt de licentiehouder voor geremixte versies (afgeleide werken) je om de persoonlijke dankbetuigingen van de auteur en de korte biografieën van de auteur en de illustratrice niet te veranderen; of liever deze delen geheel te verwijderen van je geremixte versie."
+"Verder vraagt de licentiehouder je voor afgeleide werken om de persoonlijke dankbetuigingen van de auteur en de korte biografieën van de auteur en de illustratrice niet te veranderen; of liever deze delen geheel te verwijderen van je afgeleide werk."
 
 #. (itstool) path: simplesect/literallayout
 #. Full page colophon. Intended for print use, as an alternative to the
@@ -307,6 +307,7 @@ msgstr ""
 "Illustraties: Sandra Brandstatter\n"
 "Vertaling: Nico Rikken, André Ockers, Maurice Hendriks. Dank aan de proeflezers.\n"
 "Zet- en drukwerk: Nico Rikken\n"
+"Druk: Pumbo.nl\n"
 "\n"
 "© 2022 Matthias Kirschner en Sandra Brandstätter\n"
 "© 2025 Nederlandse vertaling Nico Rikken, André Ockers, Maurice Hendriks\n"
@@ -317,10 +318,10 @@ msgstr ""
 "\n"
 "Op dit werk is een Creative Commons Naamsvermelding-GelijkDelen 4.0 Internationaal licentie van toepassing. De volledige tekst is te lezen op: <link xlink:href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.nl\">https://creativecommons.org/licenses/by-sa/4.0/deed.nl</link>\n"
 "\n"
-"<emphasis role=\"bold\">Je mag</emphasis> het materiaal in welk medium of formaat dan ook delen, kopiëren en verspreiden. <emphasis role=\"bold\">Je mag</emphasis> het materiaal veranderen, remixen en afgeleiden werken voor alle doeleinden, inclusief inclusief commerciële doeleinden. <emphasis role=\"bold\">Je moet</emphasis> de maker van het werk vermelden, een link naar de licentie plaatsen en aangeven of het werk veranderd is.\n"
-"<emphasis role=\"bold\">Je mag</emphasis> dat op op een redelijke manier doen, maar niet zodanig dat de indruk gewekt wordt dat de licentiegever instemt met je werk of je gebruik van het werk. Als je het werk hebt geremixt, veranderd, of op het werk hebt voortgebouwd, <emphasis role=\"bold\">moet je</emphasis> het veranderde materiaal verspreiden onder dezelfde licentie als het originele werk. (Dit is een samenvatting en geen vervanging voor de juridische tekst van CC-BY-SA 4.0).\n"
+"<emphasis role=\"bold\">Je mag</emphasis> het materiaal in welk medium of formaat dan ook delen, kopiëren en verspreiden. <emphasis role=\"bold\">Je mag</emphasis> het materiaal veranderen en afgeleiden werken maken voor alle doeleinden, inclusief commerciële doeleinden. <emphasis role=\"bold\">Je moet</emphasis> de maker van het werk vermelden, een link naar de licentie plaatsen en aangeven of het werk veranderd is.\n"
+"<emphasis role=\"bold\">Je mag</emphasis> dat op op een redelijke manier doen, maar niet zodanig dat de indruk gewekt wordt dat de licentiegever instemt met je werk of je gebruik van het werk. Als je het werk hebt veranderd, of op het werk hebt voortgebouwd, <emphasis role=\"bold\">moet je</emphasis> het veranderde materiaal verspreiden onder dezelfde licentie als het originele werk. (Dit is een samenvatting en geen vervanging voor de juridische tekst van CC-BY-SA 4.0).\n"
 "\n"
-"Verder vraagt de licentiehouder voor geremixte versies (afgeleide werken) je om de persoonlijke dankbetuigingen van de auteur en de korte biografieën van de auteur en de illustratrice niet te veranderen; of liever deze delen geheel te verwijderen van je geremixte versie."
+"Verder vraagt de licentiehouder je voor afgeleide werken om de persoonlijke dankbetuigingen van de auteur en de korte biografieën van de auteur en de illustratrice niet te veranderen; of liever deze delen geheel te verwijderen van je afgeleide werk."
 
 #. (itstool) path: simplesect/literallayout
 #. Grey section in the bottom of half page colophon.
@@ -1310,7 +1311,7 @@ msgid ""
 "More information about the book can be found at <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
 msgstr ""
 "Bedenk een paar lekkere, leuke of gekke ijssoorten en teken ze in de ijshoorntjes op de volgende pagina.\n"
-"Meer informatie over het boek is te vinden op <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
+"Meer informatie over het boek is te vinden op <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the

@@ -3,20 +3,20 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2025-11-11 11:51+0000\n"
-"Last-Translator: Joaquin Veira <joaquin.veira@gmail.com>\n"
+"PO-Revision-Date: 2025-12-21 07:21+0000\n"
+"Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
 "Language-Team: Galician <https://hosted.weblate.org/projects/fsfe/ada-zangemann/gl/>\n"
 "Language: gl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.15-dev\n"
+"X-Generator: Weblate 5.15.1\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
 msgid "translator-credits"
-msgstr "Joaquín Veira joaquin.veira@gmail.com, 2025"
+msgstr "vanesaferreirarodriguez@gmail, 2025"
 
 #. (itstool) path: info/title
 #. (itstool) path: cover/bridgehead
@@ -25,13 +25,13 @@ msgstr "Joaquín Veira joaquin.veira@gmail.com, 2025"
 #. ignore-same
 #: Ada_Zangemann.dbk:262 Ada_Zangemann.dbk:306 Ada_Zangemann.dbk:496
 msgid "Ada &amp; Zangemann"
-msgstr "Ada e Zangemann"
+msgstr "Ada &amp; Zangemann"
 
 #. (itstool) path: info/subtitle
 #. (itstool) path: cover/bridgehead
 #: Ada_Zangemann.dbk:263 Ada_Zangemann.dbk:307
 msgid "A Tale of Software, Skateboards, and Raspberry Ice Cream"
-msgstr "Unha historia sobre o soporte lóxico, monopatíns e xeado de framboesa"
+msgstr "Unha historia sobre software, monopatíns e xeado de framboesa"
 
 #. (itstool) path: info/author
 #. ignore-same
@@ -119,7 +119,7 @@ msgstr "Konrad"
 #. ignore-same
 #: Ada_Zangemann.dbk:297
 msgid "Marie"
-msgstr "María"
+msgstr "Marie"
 
 #. (itstool) path: character/charactername
 #. Character names are mostly reference to existing people in computer
@@ -141,32 +141,32 @@ msgstr "Sra. Gernet"
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:320
 msgid "Ada &amp; Zangemann - A Tale of Software, Skateboards, and Raspberry Ice Cream. By Matthias Kirschner and Sandra Brandstätter. On a mostly desaturated dark cyan background, in a frame composed of sometimes curled white lines that connect a mouse, a keyboard, and a pink smartphone, Ada and Zangemann are facing each other, both with their hands on their hips as a sign of challenge. Ada is smiling and Zangemann is frowning. Ada has black hair collected in two big right- and left-bound ringlets with red rubber bands, and red cheeks. She has little yellow stud earrings. She wears cyan and white horizontal striped shorts and a yellow shirt over a white undershirt that ends with embroidery that goes beyond the shirt. The shirt and undershirt come out over the shorts. Above the shirt Ada wears a blue hoodie. Ada is wearing red shoes with white tips and soles, and short white socks. She has one foot on a skateboard and the other on the ground. Zangemann has short gray hair and square glasses. He is wearing a purple turtle-neck sweater, light blue pants turned up, brown shoes, and white socks. He’s wearing a big tech watch. Above Zangemann there are a pair of pliers with red handles crossing the wire frame."
-msgstr ""
+msgstr "Ada &amp; Zangemann - Un conto sobre software, monopatíns e xeado de framboesa. De Matthias Kirschner e Sandra Brandstätter. Sobre un fondo ciano escuro case sen saturación, nun marco formado por liñas brancas por veces onduladas que conectan un rato, un teclado e un smartphone rosa, Ada e Zangemann están un fronte ao outro, ambos coas mans nas cadeiras en sinal de desafío. Ada sorrí e Zangemann engurra o cello. Ada ten o cabelo negro recollido en dúas coletas grandes, cara á dereita e á esquerda, suxeitas con gomas vermellas, e ten as meixelas vermellas. Leva uns pequenos pendentes amarelos de botón. Viste uns pantalóns curtos de raias horizontais en ciano e branco e unha camiseta amarela sobre unha camiseta interior branca que remata cun bordado que sobresae por baixo. A camiseta e a camiseta interior sobresaen por riba dos pantalóns curtos. Por riba leva un suadoiro azul con capucha. Ada leva zapatos vermellos con puntas e solas brancas, e calcetíns brancos curtos. Ten un pé enriba dun monopatín e o outro no chan. Zangemann ten o cabelo curto e gris e leva unhas lentes cadradas. Viste un xersei de colo alto de cor violeta, uns pantalóns azul claro remangados, zapatos marróns e calcetíns brancos. Leva un gran reloxo intelixente. Por riba de Zangemann hai un alicate con mangos vermellos que cruza o marco de liñas."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:329
 msgid "A soldering iron and a brush and can with yellow paint, connected by white electrical cord that forms a frame."
-msgstr ""
+msgstr "Un soldador e un pincel cunha lata de pintura amarela, enlazados por un cable eléctrico branco que traza un marco."
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-back-1
 #: Ada_Zangemann.dbk:332
 msgid "<phrase condition=\"capitals-text\">The</phrase><phrase condition=\"capitals-img\">he</phrase> inventor Zangemann is world-famous and immensely rich. Adults and children alike love his fabulous technical inventions. But one day there is a problem: the children’s electronic skateboards no longer work properly. What’s going on? The curious girl Ada sees through what is going on. Together with her friends, she experiments with hardware and software, and the children forge a plan: Zangemann can no longer be the only one in control of the devices!"
-msgstr "<phrase condition=\"capitals-text\">O</phrase><phrase condition=\"capitals-img\"></phrase> inventor Zangemann é mundialmente famoso e inmensamente rico. Tanto adultos como nenos adoran os seus fabulosos inventos técnicos. Pero un día hai un problema: os monopatíns electrónicos dos nenos xa non funcionan correctamente. ¿Que está a pasar? A curiosa nena Ada ve o que está a suceder. Xunto cos seus amigos, experimenta con hardware e software, e os nenos forxan un plan: ¡Zangemann xa non pode ser o único que controle os dispositivos!"
+msgstr "<phrase condition=\"capitals-text\">O</phrase><phrase condition=\"capitals-img\"></phrase> i inventor Zangemann é famoso en todo o mundo e é inmesamente rico. Adultos e cativos aman as súas fabulosas invencións. Pero un día xorde un problema: os monopatíns eléctricos dos nenos xa non funcionan correctamente. Que está a pasar? A curiosa Ada descobre o que está a suceder. Xunto cos seus amigos, enreda cos programas da computadora e elabora un plan: Zangemann xa non pode ter o control sobre os dispositivos!"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:333
 msgid "A book that arouses interest in tinkering and encourages shaping technology."
-msgstr ""
+msgstr "Un libro que estimula o interese por experimentar e fomenta dar forma á tecnoloxía."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:340
 msgid "A power strip, with input and output of white electrical cord that is the frame."
-msgstr ""
+msgstr "Unha regreta eléctrica, con entrada e saída dun cable branco que forma o marco."
 
 #. (itstool) path: info/title
 #. Page before the colophon and the title page, with just the title. Also
@@ -184,7 +184,7 @@ msgstr ""
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:362 Ada_Zangemann.dbk:488
 msgid "ADA &amp; ZANGEMANN"
-msgstr ""
+msgstr "ADA &amp; ZANGEMANN"
 
 #. (itstool) path: info/title
 #. Also known as 'imprint'
@@ -311,7 +311,7 @@ msgstr ""
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:459
 msgid "Matthias Kirschner, Sandra Brandstätter - ADA &amp; ZANGEMANN - A Tale of Software, Skateboards and Raspberry Ice Cream. Title in the middle, authors in the upper left. In the lower right, Ada’s family’s dog with gray fur and some white patches and with a red collar with shiny yellow LEDs, which wags its tail."
-msgstr ""
+msgstr "Matthias Kirschner, Sandra Brandstätter - ADA &amp; ZANGEMANN - Un conto sobre software, monopatíns e xeado de framboesa. Título no centro e autores na parte superior esquerda. Na parte inferior dereita, o can da familia de Ada, de pelame gris con algunhas manchas brancas e cun colar vermello con LED amarelos brillantes, que abana o rabo."
 
 #. (itstool) path: mediaobject/alt
 #. ignore-same
@@ -320,21 +320,21 @@ msgstr ""
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:466
 msgid "Matthias Kirschner, Sandra Brandstätter"
-msgstr ""
+msgstr "Matthias Kirschner, Sandra Brandstätter"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:476
 msgid "ADA &amp; ZANGEMANN - A Tale of Software, Skateboards and Raspberry Ice Cream. Title in the middle, authors in the upper left."
-msgstr ""
+msgstr "ADA &amp; ZANGEMANN - Un conto sobre software, monopatíns e xeados de framboesa. Título no centro e autores na parte superior esquerda."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:483
 msgid "In the lower right, Ada’s family’s dog with gray fur and some white patches and with a red collar with shiny yellow LEDs, which wags its tail."
-msgstr ""
+msgstr "Na parte inferior dereita, o can da familia de Ada, de pelame gris con algunhas manchas brancas e cun colar vermello con LED amarelos brillantes, que abana o rabo."
 
 #. (itstool) path: simplesect/literallayout
 #. In a literallayout element all space and newline characters are kept.
@@ -355,85 +355,88 @@ msgid ""
 "Software, Skateboards, and\n"
 "Raspberry Ice Cream"
 msgstr ""
+"Un conto sobre\n"
+"software, monopatíns e \n"
+"xeados de framboesa"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p04-1
 #: Ada_Zangemann.dbk:500
 msgid "<phrase condition=\"capitals-text\">Once</phrase><phrase condition=\"capitals-img\">nce</phrase> upon a time, there was a little girl named Ada. Her family was so poor that all their savings fit inside a cookie jar. They didn’t have enough money to live in a proper home. Instead, Ada lived with her mother and her little brother, Alan, in a cabin near a junkyard on the edge of town."
-msgstr ""
+msgstr "<phrase condition=\"capitals-text\">Había</phrase><phrase condition=\"capitals-img\">nce</phrase> unha vez unha nena chamada Ada. A súa familia era tan pobre que todos os seus aforros cabían nunha caixa de galletas. Non tiñan suficientes cartos para vivir nunha casa decente. No seu lugar, Ada vivía coa nai e co irmán pequeno Alan nunha casoupa preto dunha chatarraría, nas aforas da cidade."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:508
 msgid "Ada in foreground leaving the house to go to school, in the background Ada’s house and the junkyard. Ada has a brown backpack with yellow shoulder straps. To the left of Ada there is a red car, a Volkswagen Beetle, without wheels and no longer working, with one of the headlights remaining attached only with its wires. On the left, in front of the car, there are two tires, two boxes – one of which is a wooden box with an overturned bucket –, and an empty can, all among some plants with yellow flowers. In the background there is Ada’s house, with her mother and her brother Alan waving goodbye, and the dog sitting on the ground. Alan is sitting on the two entrance steps of the house. He has short dark hair and is dressed in a white short-sleeved shirt with a red stripe at the edges of the sleeves and two red stripes at the bottom of the shirt. Alan wears blue shorts and he is barefoot. Ada’s mom has dark lipstick and long black hair in a white headband. She is wearing a short blue shirt with white trim, white pants, and yellow shoes. Ada’s house is built of wood, with the front being white. The roof is dark red corrugated sheeting. There are two windows in front in addition to the door, and another window on the left side. A yellow duck stands on top of the roof, while a gray chimney protrudes. An antenna on the left of the roof supports a clothesline on which red clothespins hold a green tank top, a pair of light blue pants, and white underpants. To the right of the house there is a veranda on which there is installed a solar panel. Under the veranda there are a mattress, a red oil drum, and a gray case. Behind the house there are piles of landfill objects among which you can see a washing machine, a car, and various wooden boards."
-msgstr ""
+msgstr "Ada en primeiro plano saíndo da casa para ir ao colexio; ao fondo, a casa de Ada e o vertedoiro. Ada leva unha mochila marrón con tirantes amarelos. Á esquerda de Ada hai un coche vermello, un Volkswagen Escaravello, sen rodas e xa estragado, cun dos faros suxeito unicamente polos cables. Á esquerda, diante do coche, hai dous pneumáticos, dúas caixas –unha delas de madeira, cun caldeiro envorcado enriba– e unha lata baleira, todo isto entre algunhas plantas con flores amarelas. Ao fondo está a casa de Ada, coa súa nai e o seu irmán Alan saudando coa man mentres o can está sentado no chan. Alan está sentado nos dous chanzos da entrada da casa. Ten o cabelo curto e escuro e vai vestido cunha camiseta branca de manga curta cunha raia vermella nos bordos das mangas e dúas raias vermellas na parte inferior da camiseta. Alan leva pantalóns curtos azuis e vai descalzo. A nai de Ada leva lapis de labios escuro e ten o cabelo longo e negro cunha diadema branca. Viste unha camisa azul curta con remates brancos, pantalóns brancos e zapatos amarelos. A casa de Ada está construída en madeira, coa fachada dianteira branca. O tellado é de chapa ondulada vermella escura. Na parte dianteira hai dúas xanelas ademais da porta, e outra xanela máis no lado esquerdo. Un pato amarelo está de pé enriba do tellado, mentres unha cheminea gris sobresae cara arriba. Á esquerda do tellado hai unha antena que suxeita un tendal no que unhas pinzas vermellas manteñen colgados unha camisola de tiras verde, uns pantalóns azul claro e unhas bragas brancas. Á dereita da casa hai un soportal no que está instalado un panel solar. Debaixo do soportal hai un colchón, un bidón vermello de aceite e unha caixa gris. Detrás da casa hai moreas de obxectos tirados, entre os que se distinguen unha lavadora, un coche e varias táboas de madeira."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:516
 msgid "Prestigious magazines (“STARS“, “MONEY”, “Richest Man”) on whose cover are Zangemann and his villa."
-msgstr ""
+msgstr "Revistas de prestixio («STARS», «MONEY», «Richest Man») cuxas portadas amosan a Zangemann e a súa vila."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:518
 msgid "Far away, at the other end of town, lived a famous inventor named Zangemann. He was immensely rich. No sheet of paper in the world was big enough to show his bank balance with all its numbers and zeros! He lived in a huge house with a swimming pool and waterslide, lots of staircases and towers, hundreds of windows, and so many rooms that he often got lost in them himself. Zangemann’s mansion stood high on a hill. From there, he could look out over the whole city."
-msgstr ""
+msgstr "Moi lonxe, no outro extremo da cidade, vivía un inventor famoso chamado Zangemann. Era inmesamente rico. Non había no mundo unha folla de papel o suficientemente grande para amosar todos os cartos que tiña, con todos os seus números e ceros. Vivía nunha casa enorme, con piscina e tobogán, moitas escaleiras e torres, centos de ventás e tantas habitacións que a miúdo se perdía nelas. A mansión de Zangemann estaba no alto dun outeiro. Dende alí podía contemplar toda a cidade."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:523
 msgid "Zangemann and computers"
-msgstr ""
+msgstr "Zangemann e os ordenadores"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p06-1
 #: Ada_Zangemann.dbk:527
 msgid "<phrase condition=\"capitals-text\">Computers</phrase><phrase condition=\"capitals-img\">omputers</phrase> had fascinated Zangemann ever since he was a child. When he was young, computers were huge machines with lots of cables and loud, noisy fans. At school, little Zangemann often dreamed of all the things he would do with computers if they were just a little bit smaller — small enough that they could be built into other fun things. He knew what he would do. First, he would build a computer into his skateboard so that it would make cool noises when he rode it — maybe a fire engine siren or the sound of a rocket launch. Then he would use a computer to invent ice‑cream-making machines! The computer would mix the coolest flavors and even sell the ice cream. There would be machines on every street corner, and he could get ice cream in his favorite flavor whenever he felt like it, and just as much as he wanted. After that, he’d build a cleaning robot and a block-sorting machine so that his room would always be neat and clean. Zangemann had great new ideas like these every day. He could think of nothing else."
-msgstr ""
+msgstr "<phrase condition=\"capitals-text\">Os </phrase><phrase condition=\"capitals-img\">omputers</phrase> Os ordenadores fascinaran a Zangemann dende cativo. Cando era novo, os ordenadores eran máquinas enormes con moitos cables e ventiladores ruidosos. Na escola, o pequeno Zangemann, acotío, soñaba con todo o que podería facer cos ordenadores se fosen un chisco máis pequenos. O suficientemente miúdos como para poder incorporalos noutras cousas e engadirlles funcións divertidas. Xa sabía o que faría. Primeiro instalaría un ordenador no seu monopatín para que fixese sons chulos cando o montase, como unha sirena ou o son do engalaxe dun foguete. Logo usaría o ordenador para inventar máquinas que fixesen xeados. O ordenador mesturaría os sabores, e mesmo, vendería o xeado. Habería máquinas en cada esquina. Podería mercar xeado do seu sabor favorito cando lle petase e tanto como quixese. Despois construiría un robot de limpeza e unha maquina recolledora de xoguetes para que a súa habitación estivese sempre limpa e ordenada. Cada día, Zangemann tiña ideas novas e enxeñosas. Só podía pensar niso."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:528
 msgid "As the years went by, Zangemann grew bigger and computers got smaller. In fact, by the time he finished school, they were so small they fit in his pocket. The smallest ones even fit on his fingertip."
-msgstr ""
+msgstr "Conforme pasaban os anos, Zangemann medraba e os ordenadores facíanse máis pequenos. De feito, cando rematou a escola eran tan pequenos que lle cabían no peto. Os máis pequerrechiños mesmo lle cabían na punta do dedo."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:535
 msgid "Zangemann as a child on a chair at a school table. From his head come six bubbles in which there are his ideas of places in which to insert computers: a video call system, a speaker, a washing machine, a skateboard with radio control on a big computer monitor, a wrist computer, and a shoulder computer with a monitor and keyboard. Zangemann has gray hair, a dark purple shirt with blue horizontal stripes, blue shorts, brown shoes and white socks. He wears glasses and a big watch on his left wrist. On the table there are an open notebook, a yellow pencil, and an eraser, while hanging on the side of the table there is his brown briefcase."
-msgstr ""
+msgstr "Zangemann de neno sentado nunha cadeira diante dunha mesa da escola. Da súa cabeza saen seis globos nos que aparecen as súas ideas de lugares nos que meter computadoras: un sistema de videochamadas, un altofalante, unha lavadora, un monopatín con mando a distancia sobre unha gran pantalla de ordenador, un ordenador de pulso e unha computadora de ombreiro con monitor e teclado. Zangemann ten o cabelo gris, unha camisola morada escura con raias horizontais azuis, pantalóns curtos azuis, zapatos marróns e calcetíns brancos. Leva lentes e un reloxo grande na boneca esquerda. Sobre a mesa hai un caderno aberto, un lapis amarelo e unha goma de borrar, mentres colgada a un lado da mesa está a súa carteira marrón."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:540
 msgid "“Finally, I can turn all my ideas into real things!” Zangemann exclaimed, and he got right to work. He found ways to put the small computers into all kinds of things to make them even more fun and useful. And then he sold them."
-msgstr ""
+msgstr "“Por fin podo converter todas as miñas ideas en obxectos reais!”.Zangemann estaba feliz e púxose mans á obra. Atopou o xeito de integrar os ordenadores en todo tipo de obxectos para facelos máis divertidos e útiles. E logo vendeunos."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:545
 msgid "Zangemann original ice cream machine. It is ice blue in color and is similar to a vending machine of drinks, but instead of the cup there is a cone that is filled with ice cream. Above the dispenser there is a monitor showing the variety that is distributed, in this case pineapple ice cream. On the left there are the slot for inserting coins, the various buttons to choose the flavor, and the hole for returning coins. At the top there is a round white sign with a scoop of candy-pink ice cream in a cone. On the back of the machine there is the refrigeration machinery with the “Z” of the Zangemann logo."
-msgstr ""
+msgstr "Máquina de xeados orixinal de Zangemann. É de cor celeste e aseméllase a unha máquina expendedora de bebidas, pero no canto do vaso hai un cono que se enche de xeado. Por riba do dispensador hai un monitor que mostra a variedade que se está a servir, neste caso xeado de ananás. Á esquerda están a rañura para inserir moedas, os distintos botóns para escoller o sabor e a abertura para a devolución de moedas. Na parte superior hai un letreiro redondo branco cunha bola de xeado rosa lambetada nun cono. Na parte de atrás da máquina está a maquinaria de refrixeración coa «Z» do logotipo de Zangemann."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:547
 msgid "Adults and children loved his inventions. All the kids wanted to have one of his skateboards — complete with the latest sounds to show off to their friends at school. Kids also loved his speaker invention, which could instantly play any song you requested. And, of course, everyone loved the ice cream served every afternoon from the automatic, extra-delicious Original Zangemann Ice Cream Machine. It all seemed like magic, but the secret was simple: the little computers that Zangemann built into his machines made it all possible."
-msgstr ""
+msgstr "Os seus inventos encantaban aos cativos e aos adultos. Todos os nenos querían os seus monopatíns cos últimos sons para ensinarllos aos seus amigos do colexio. Aos nenos tamén lles encantaba o altofalante que inventara, que ao instante reproducía calquera canción que lle pedises. E por suposto, a todo o mundo lle encantaba o xeado que todas as tardes servía a \"Máquina de Xeados Orixinal Zangemann\". Todo semellaba máxico, pero o segredo era sinxelo: os pequenos ordenadores que Zangemann incorporara as súas máquinas."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:552
 msgid "An original Zangemann electric skateboard leaving a blue trail with musical notes and colored circles. Only the knees, white socks, and olive green shoes with white soles of the child riding it are shown."
-msgstr ""
+msgstr "Un monopatín eléctrico orixinal de Zangemann que deixa un ronsel azul con notas musicais e círculos de cores. Só se ven os xeonllos, os calcetíns brancos e os zapatos verde oliva con sola branca do neno que vai enriba."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:560
 msgid "Ada tinkers with objects in her improvised lab. Ada is sitting on an overturned water case, and working on a repair with a yellow screwdriver. Also on the table are green pliers, a red hammer, a white power strip, and another gadget. Ada is at a table consisting of a wooden board supported by two oil drums (one gray and one red) and a small wooden sawhorse. Behind Ada there are a washing machine, pipes, and a board. In front of the improvised table there are tires and an old phone with faulty wire. Alan is coming toward Ada holding a yellow fan over his head. Alan now wears white socks and yellow shoes."
-msgstr ""
+msgstr "Ada enreda con obxectos no seu laboratorio improvisado. Ada está sentada enriba dunha caixa de auga posta do revés e traballa nunha reparación cun desaparafusador amarelo. Sobre a mesa tamén hai uns alicates verdes, un martelo vermello, unha regreta eléctrica branca e outro trebello máis. Ada está nunha mesa feita cun taboleiro de madeira apoiado en dous bidóns de aceite (un gris e un vermello) e nun pequeno cabalete de madeira. Detrás de Ada hai unha lavadora, tubaxes e un taboleiro. Diante da mesa improvisada hai pneumáticos e un teléfono vello cun cable estragado. Alan vén cara a Ada sostendo un ventilador amarelo sobre a cabeza. Agora Alan leva calcetíns brancos e zapatos amarelos."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:562
@@ -465,7 +468,7 @@ msgstr ""
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:575
 msgid "A white power strip attached to a wall socket. The power strip has 3 sockets and a green switch. One of the sockets is attached to a plug with a gray cable."
-msgstr ""
+msgstr "Unha regreta eléctrica branca enchufada a unha toma de corrente da parede. A regreta ten 3 enchufes e un interruptor verde. Nun dos enchufes hai un adaptador conectado cun cable gris."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:579
@@ -477,7 +480,7 @@ msgstr ""
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:584
 msgid "Zangeman sitting in front of his golden computer on a golden armchair with a very tall red padded backrest at whose top is the “Z” of the Zangemann logo. He is wearing a purple turtle-neck sweater and light blue trousers. The computer has four ornate monitors of various sizes, each of which has the logo on the back. It is integrated into a costly wooden desk from which a gray cable flows that is connected to the power strip of the previous page."
-msgstr ""
+msgstr "Zangemann sentado diante do seu ordenador dourado nunha butaca dourada cun respaldo acolchado vermello moi alto, en cuxa parte superior está a «Z» do logotipo de Zangemann. Leva un xersei de colo alto de cor violeta e un pantalón azul claro. O ordenador ten catro monitores decorados de varios tamaños, cada un deles co logotipo na parte de atrás. Está integrado nun carísimo escritorio de madeira do que sae un cable gris conectado á regreta da páxina anterior."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:589
@@ -489,7 +492,7 @@ msgstr ""
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:594
 msgid "City landscape with houses and shops, with a central street turning right. On the road there are a car and a cyclist. There are various children and adults walking or going on skateboards, some eating ice cream, while others are buying ice cream from the original Zangemann machines."
-msgstr ""
+msgstr "Paisaxe urbana con casas e tendas, cunha rúa central que xira cara á dereita. Na estrada hai un coche e un ciclista. Varios nenos e adultos van camiñando ou en monopatíns; algúns comen xeado, mentres que outros están a mercalo nas máquinas orixinais de Zangemann."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:596
@@ -513,7 +516,7 @@ msgstr ""
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:609
 msgid "Zangemann descends the stairs from his mansion on the hill towards the city. Zangemann’s house stands on a hill. The front is blue with large windows; the towers are dark blue, and from a window starts a yellow slide that ends in a large swimming pool with two palm trees. The roofs are red, and above the highest tower an antenna is installed. On the sides of the stairs to get off the hill there are evergreen trees."
-msgstr ""
+msgstr "Zangemann baixa polas escaleiras desde a súa mansión no outeiro cara á cidade. A casa de Zangemann está situada nun outeiro. A fachada é azul, con grandes xanelas; as torres son azul escuro, e dunha xanela sae un tobogán amarelo que remata nunha gran piscina con dúas palmeiras. Os tellados son vermellos e, enriba da torre máis alta, hai instalada unha antena. Aos lados das escaleiras para baixar do outeiro hai árbores de folla perenne."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:613
@@ -530,7 +533,7 @@ msgstr ""
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:620
 msgid "Zangemann after the incident with the child. Zangemann screams from pain while holding up one of his legs with both hands at the shin. The child has brown hair that is blown back by Zangemann’s scream; he is wearing a light blue hooded sweatshirt and dark green pants. He holds a red Zangemann electric skateboard."
-msgstr ""
+msgstr "Zangemann despois do incidente co neno. Zangemann berra da dor mentres suxeita unha das súas pernas pola canela con ambas as dúas mans. O neno ten o cabelo castaño despeiteado cara atrás polo berro de Zangemann; leva un suadoiro azul claro con capucha e pantalóns verde escuro. Suxeita un monopatín eléctrico vermello de Zangemann."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:624
@@ -547,7 +550,7 @@ msgstr ""
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:630
 msgid "Advertisements for Zangemann ice cream (sandwich board), a Zangemann electric skateboard, and a Zangemann washing machine. The math teacher, Ms. Gernet, is passing in front of the billboards. Ms. Gernet is an old lady with short white hair. She is dressed in a light green t-shirt and a pea green sweater, dark brown pants, and light green heeled shoes. She has a fuchsia shoulder bag, worn behind her. She pushes a small shopping cart in which there is a small brown dog with a collar and tag."
-msgstr ""
+msgstr "Anuncios dun xeado de Zangemann (nun taboleiro de anuncios), dun monopatín eléctrico de Zangemann e dunha lavadora de Zangemann. A profesora de matemáticas, a señora Gernet, pasa por diante dos carteis publicitarios. A señora Gernet é unha muller maior con cabelo branco curto. Vai vestida cunha camiseta verde clara e un xersei verde chícharo, pantalón marrón escuro e zapatos de tacón verde claro. Leva un bolso fucsia colgado ao ombro. Empurra un carriño pequeno da compra no que vai un can pequeno de cor marrón cun colar e unha chapa."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:635
@@ -584,7 +587,7 @@ msgstr ""
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:663
 msgid "Five kids from the school who can’t make skateboards work. Two girls wear helmets, respectively blue and red. A little girl with brown hair tied in two tails with yellow rubber bands is kneeling. She is trying to understand why the skateboard of her friend with the red helmet does not work. Four children have backpacks on their shoulders, while the little girl with the red helmet left hers leaning on a bench on which there are a yellow apple and a light blue bottle with a white flower on it."
-msgstr ""
+msgstr "Cinco cativos da escola que non son quen de facer que os monopatíns funcionen. Dúas nenas levan casco, un azul e outro vermello. Unha nena pequena de cabelo castaño recollido en dúas colas con gomas amarelas está de xeonllos. Tenta entender por que non funciona o monopatín da súa amiga co casco vermello. Catro dos nenos levan mochilas aos ombros, mentres que a nena do casco vermello deixou a súa apoiada nun banco no que hai unha mazá amarela e unha botella azul claro cunha flor branca debuxada."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:667
@@ -596,7 +599,7 @@ msgstr ""
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:672
 msgid "Close-up of Ada thoughtful, with a backpack and with one hand on her chin and the other resting on her side."
-msgstr ""
+msgstr "Primeiro plano de Ada pensativa, cunha mochila ás costas e unha man no queixo e a outra apoiada no seu costado."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:675
@@ -629,7 +632,7 @@ msgstr ""
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:693
 msgid "Computer screen from which the elements of the programming language symbolically emerge: “while num &gt; 0“, “init“, “sx=42“, “for“, “v**3“. Ada is typing on a white keyboard with a blue cable, while her other hand enters the screen to change the program (“print(msg)”, “a+b+c+d=e”, “if”, “break”, “continue”, “exit()”). Next to the keyboard there are a pencil and an eraser."
-msgstr ""
+msgstr "Pantalla de ordenador da que saen simbolicamente elementos da linguaxe de programación: «while num > 0», «init», «sx=42», «for», «v**3». Ada está a escribir nun teclado branco cun cable azul, mentres que a outra man entra na pantalla para mudar o programa («print(msg)», «a+b+c+d=e», «if», «break», «continue», «exit()»). Xunto ao teclado hai un lapis e unha goma de borrar."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:699
@@ -662,7 +665,7 @@ msgstr ""
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:713
 msgid "Ada comes to grips with programming. She is typing on a keyboard resting on a gray mat and connected to a smartphone with a blue cable. The smartphone is connected with a red wire to an electronic card with a yellow LED lamp. The smartphone is powered by a transformer connected to a power strip with a gray wire and plug. On the table there are also: 3 books, of which one is open; a clipboard and a pencil; pliers; glue; solder; and a disconnected soldering iron."
-msgstr ""
+msgstr "Ada familiarízase coa programación. Está a escribir nun teclado apoiado sobre unha almofadiña gris e conectado a un smartphone cun cable azul. O smartphone está conectado cun fío vermello a unha placa electrónica cunha lámpada LED amarela. O smartphone aliméntase cun transformador conectado a unha regreta eléctrica cun cable e un enchufe gris. Sobre a mesa hai tamén: 3 libros, un deles aberto; un portapapeis e un lapis; uns alicates; cola; estaño; e un soldador desconectado."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:715
@@ -674,7 +677,7 @@ msgstr ""
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:722
 msgid "Zangemann looks thoughtfully with his arms crossed out one of the great windows of his house, into which the sun’s rays are shining."
-msgstr ""
+msgstr "Zangemann mira pensativo, cos brazos cruzados, a través dunha das grandes xanelas da súa casa, pola que entran os raios do sol."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:728
@@ -728,7 +731,7 @@ msgstr ""
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:754
 msgid "Ada racing with her electric skateboard for city sidewalks. Ada’s skateboard is blue, with gray and pink wheels; the electronic part is placed above the skateboard (as opposed to Zangemann’s skateboards where the electronic part is below). Ada is holding in both hands a remote control with a short antenna to maneuver it. Behind Ada are Marie and Toni who carry their own skateboards under their arms and look with amazement at Ada, who has shot past them and in front of them. Marie has dark long hair with two braids fastened with orange clips, yellow earrings, a fuchsia shirt with white sleeves with purple horizontal stripes, a white skirt, white and yellow sneakers, white socks, a white hat with yellow sides, and a light purple backpack. Marie has a blue artificial leg. Her skateboard is blue with yellow wheels. Toni has red hair closely trimmed on the sides. He is wearing a blue sweatshirt, dark green pants, and white shoes. He has a red backpack with white inserts and shoulder straps. One hand is next to his mouth. His skateboard is purple with orange wheels. There’s also a father with his son walking in the opposite direction: the father is dressed in a blue checked jacket and blue pants and holds a brown briefcase. He is smiling at Ada. His son has a blue shirt, blue shorts, white shoes, a brown backpack, and a red and white hat. He holds under his arm a yellow Zangemann skateboard with light brown wheels, and he grins at Ada. In the background there is a bakery with large windows through which you can see the bread. It has a green and white striped awning around the corner and a sign on the sidewalk with the list of products. Overhead, a large pretzel is displayed. On the road there is a puddle that reflects the blue of the sky."
-msgstr ""
+msgstr "Ada vai a toda velocidade co seu monopatín eléctrico polas beirarrúas da cidade. O monopatín de Ada é azul, con rodas grises e rosas; a parte electrónica está colocada enriba do monopatín (a diferenza dos monopatíns de Zangemann, nos que a parte electrónica vai por debaixo). Ada suxeita con ambas as dúas mans un mando a distancia cunha antena curta para manexalo. Detrás de Ada van Marie e Toni, que levan os seus propios monopatíns debaixo do brazo e miran abraiados para Ada, que pasou disparada por diante deles. Marie ten o cabelo escuro e longo, con dúas trenzas suxeitas con pinzas laranxas, pendentes amarelos, unha camiseta fucsia con mangas brancas de raias horizontais violetas, unha saia branca, zapatillas brancas e amarelas, calcetíns brancos, un chapeu branco cos lados amarelos e unha mochila lila clara. Marie ten unha perna artificial azul. O seu monopatín é azul coas rodas amarelas. Toni ten o cabelo roibo moi curto polos lados. Leva un suadoiro azul, pantalón verde escuro e zapatos brancos. Leva unha mochila vermella con detalles e tirantes brancos. Ten unha man preto da boca. O seu monopatín é violeta coas rodas laranxas. Tamén hai un pai co seu fillo camiñando en dirección contraria: o pai vai vestido cunha chaqueta azul de cadros e pantalóns azuis, e leva un maletín marrón na man. Está a sorrirlle a Ada. O seu fillo leva unha camiseta azul, pantalóns curtos azuis, zapatos brancos, unha mochila marrón e un chapeu vermello e branco. Suxeita debaixo do brazo un monopatín amarelo de Zangemann coas rodas marrón claro e sorrille a Ada cun gran sorriso. Ao fondo hai unha panadaría con grandes ventás a través das cales se ve o pan. Ten un toldo ás raias verdes e brancas nunha esquina e un letreiro na beirarrúa coa lista de produtos. Por riba, exhíbese un gran pretzel. Na estrada hai unha poza que reflicte o azul do ceo."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:759
@@ -745,7 +748,7 @@ msgstr ""
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:765
 msgid "Ada stops on her skateboard surrounded by children. Marie is on one end. She is pointing to Ada’s skateboard and she’s talking. Next to her is Konrad, with short blond hair, a dark gray helmet, glasses, a green shirt with white collar and cuffs, light blue pants with white cuffs, and gray shoes with white soles. He has a red skateboard with orange wheels. Behind Ada there are 4 other children. On the other end Toni is smiling. He touches his chin with one hand while with the other he holds a yellow helmet by the laces."
-msgstr ""
+msgstr "Ada detense co seu monopatín rodeada de nenos. Marie está nun dos extremos. Sinala o monopatín de Ada e fala. Ao seu carón está Konrad, con cabelo loiro curto, casco gris escuro, lentes, unha camisa verde con colo e puños brancos, pantalón azul claro cos puños brancos e zapatos grises con sola branca. Ten un monopatín vermello coas rodas laranxas. Detrás de Ada hai outros 4 nenos. No outro extremo, Toni sorrí. Toca o queixo cunha man mentres coa outra sostén un casco amarelo polas correas."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:769
@@ -762,7 +765,7 @@ msgstr ""
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:775
 msgid "Hopscotch diagram drawn with chalk on asphalt. In a row, within squares, the numbers 1, 2; 3 and 4 next to each other; 5, 6; and 7 and 8 next to each other. The number 9 is not inside a square but inside a wider semicircle beyond the squares of numbers 7 and 8. Between the number 1 and the number 2 there is a blue bottle with white polka dots. A yellow Zangemann skateboard with orange wheels on the side of the diagram actually hides the number 1."
-msgstr ""
+msgstr "Diagrama da mariola debuxado con xiz sobre o asfalto. En fila, dentro de cadrados, están os números 1, 2; 3 e 4 xuntos; 5, 6; e 7 e 8 un ao lado do outro. O número 9 non está dentro dun cadrado, senón dentro dun semicírculo máis ancho, xusto despois dos cadrados cos números 7 e 8. Entre o número 1 e o número 2 hai unha botella azul con lunares brancos. Un monopatín amarelo de Zangemann coas rodas laranxas, situado ao lado do diagrama, en realidade oculta o número 1."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:781
@@ -785,7 +788,7 @@ msgstr ""
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:792
 msgid "A green battery with red and yellow wires, a power strip, glue, a roll of solder, and two pencils."
-msgstr ""
+msgstr "Unha batería verde con cables vermellos e amarelos, unha regreta eléctrica, cola, un rolo de estaño e dous lapis."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:796
@@ -807,7 +810,7 @@ msgstr ""
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:803
 msgid "A screwdriver with orange and gray handle, red pliers, and three LEDs: yellow, green, pink."
-msgstr ""
+msgstr "Un desaparafusador con mango laranxa e gris, uns alicates vermellos e tres LED: amarelo, verde e rosa."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
