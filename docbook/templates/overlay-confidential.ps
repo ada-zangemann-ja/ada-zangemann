@@ -1,0 +1,62 @@
+% SPDX-FileCopyrightText: 2025 Nico Rikken <nico.rikken@fsfe.org>
+%
+% SPDX-License-Identifier: GPL-3.0-or-later
+
+% PostScript overlay file intended to overlay text using Ghostscript.
+% Transparency is unavailable in PostScript and relies on Ghostscript:
+% https://ghostscript.readthedocs.io/en/latest/Language.html#transparency
+% Should be run with 'allowpstransparency' and .ps file as first argument:
+%
+% gs -dSAFER -dBATCH -dNOPAUSE -dALLOWPSTRANSPARENCY -dPDFSTOPONERROR -sDEVICE=pdfwrite -sOutputFile=output.pdf overlay.ps input.pdf
+%
+% Font size and placement for 210x210 screen pdf
+
+% Factor for use of cm centimeter
+/cm { 28.4 mul } bind def
+
+% Redefine pagedevice to append overlay
+<<
+
+% Explicitly state PDF level to support transparency
+/CompatibilityLevel 1.4
+
+% Redefine BeginPage to stay on the same page
+/BeginPage {
+
+    % Retain page number for showpage command
+    /count exch def
+
+} bind
+
+% Redefine EndPage to add overlay
+/EndPage {
+
+    % Retain global drawing state
+    /code exch def
+
+    % Retain page number for showpage command
+    /count exch def
+
+    % Font and size
+    /Helvetica-Bold findfont 72 scalefont setfont
+
+    % Font color to 50% gray
+    0.5 setgray
+
+    % 20% transparency (Ghostscript extension of PostScript)
+    0.2 .setfillconstantalpha
+
+    % Position text
+    2 cm 1 cm moveto
+
+    % Rotate text
+    45 rotate
+
+    % Write text between braces
+    (Confidential Preview) show
+
+    % Return true only for showpage state (code=0).
+    code 0 eq
+
+} bind
+>> setpagedevice
