@@ -364,6 +364,14 @@ $(targets-screen): build/Ada_Zangemann-screen.%.pdf: \
  build/Ada_Zangemann-coverscreen.back.%.pdf
 	gs -sDEVICE=pdfwrite -dNOPAUSE -dBATCH -dSAFER -sOutputFile=$@ $^
 
+# Confidential overlay for screen pdf
+# FIXME: Ghostscript gives an error. Output seems fine though.
+targets-screen-confidential = $(addprefix build/Ada_Zangemann-screen-confidential.,$(addsuffix .pdf,$(languages)))
+$(targets-screen-confidential): build/Ada_Zangemann-screen-confidential.%.pdf: \
+ templates/overlay-confidential.ps \
+ build/Ada_Zangemann-screen.%.pdf
+	gs -dSAFER -dBATCH -dNOPAUSE -dALLOWPSTRANSPARENCY -dPDFSTOPONERROR -sDEVICE=pdfwrite -sOutputFile=$@ $^ || true
+
 # Build version with no conditional content (for debugging)
 build/Ada_Zangemann-print-headings-none.%.sla: \
  build/Ada_Zangemann.%.dbk \
