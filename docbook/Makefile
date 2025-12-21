@@ -372,6 +372,9 @@ $(targets-screen-confidential): build/Ada_Zangemann-screen-confidential.%.pdf: \
  build/Ada_Zangemann-screen.%.pdf
 	gs -dSAFER -dBATCH -dNOPAUSE -dALLOWPSTRANSPARENCY -dPDFSTOPONERROR -sDEVICE=pdfwrite -sOutputFile=$@ $^ || true
 
+.PHONY: build/Ada_Zangemann-screen.all.pdf
+build/Ada_Zangemann-screen.all.pdf: $(targets-screen)
+
 # Build version with no conditional content (for debugging)
 build/Ada_Zangemann-print-headings-none.%.sla: \
  build/Ada_Zangemann.%.dbk \
