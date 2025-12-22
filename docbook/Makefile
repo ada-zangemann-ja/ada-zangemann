@@ -227,157 +227,80 @@ $(targets-pandoc-text-only-odt): build/Ada_Zangemann-pandoc-text-only.%.odt: \
 .PHONY: build/Ada_Zangemann-pandoc-text-only.all.odt
 build/Ada_Zangemann-pandoc-text-only.all.odt: $(targets-pandoc-text-only-odt)
 
-# Build version with all images (for debugging)
-build/Ada_Zangemann-print-all.%.sla: \
- build/Ada_Zangemann.%.dbk \
- build/images/illustrations/all \
- build/images/capitals xsl/scribus.xsl
-	xsltproc -o $@ --verbose \
-	--stringparam docbook-contents-file ../$< \
-	--stringparam profile.condition "colophon-halfpage;halftitle-original;halftitle-global;halftitle-global-text" \
-	xsl/scribus.xsl \
-	templates/template-print.sla \
-	> $@.log 2>&1
 
-# Build version with image headers
-targets-print-headings-img = $(addprefix build/Ada_Zangemann-print-headings-img.,$(addsuffix .sla,$(languages)))
-$(targets-print-headings-img): build/Ada_Zangemann-print-headings-img.%.sla: \
+# Generic function for Scribus template processing
+# Params:
+#   1. filename_extension (example: print-all)
+#   2. scribus_template   (example: templates/template-print.sla)
+#   3. profile_conditions (example: "colophon-halfpage;halftitle-original;halftitle-global;halftitle-global-text")
+define scribus_template
+build/Ada_Zangemann-$(1).%.sla: \
  build/Ada_Zangemann.%.dbk \
  build/images/illustrations/all \
  build/images/capitals \
  xsl/scribus.xsl
-	xsltproc -o $@ --verbose \
-	--stringparam docbook-contents-file ../$< \
-	--stringparam profile.condition "headings-img;capitals-img;colophon-halfpage;halftitle-original" \
+	xsltproc -o $$@ --verbose \
+	--stringparam docbook-contents-file ../$$< \
+	--stringparam profile.condition "$(3)" \
 	xsl/scribus.xsl \
-	templates/template-print.sla \
-	> $@.log 2>&1
+	$(2) \
+	> $$@.log 2>&1
+endef
+
+
+# Build version with all images (for debugging)
+$(eval $(call scribus_template,print-all,templates/template-print.sla,colophon-halfpage;halftitle-original;halftitle-global;halftitle-global-text))
+
+
+# Build version with image headers
+targets-print-headings-img = $(addprefix build/Ada_Zangemann-print-headings-img.,$(addsuffix .sla,$(languages)))
+$(targets-print-headings-img): $(eval $(call scribus_template,print-headings-img,templates/template-print.sla,headings-img;capitals-img;colophon-halfpage;halftitle-original))
 
 .PHONY: build/Ada_Zangemann-print-headings-img.all.sla
 build/Ada_Zangemann-print-headings-img.all.sla: $(targets-print-headings-img)
 
 targets-print-headings-img-colophon-fullpage = $(addprefix build/Ada_Zangemann-print-headings-img-colophon-fullpage.,$(addsuffix .sla,$(languages)))
-$(targets-print-headings-img-colophon-fullpage): build/Ada_Zangemann-print-headings-img-colophon-fullpage.%.sla: \
- build/Ada_Zangemann.%.dbk \
- build/images/illustrations/all \
- build/images/capitals \
- xsl/scribus.xsl
-	xsltproc -o $@ --verbose \
-	--stringparam docbook-contents-file ../$< \
-	--stringparam profile.condition "headings-img;capitals-img;colophon-fullpage;halftitle-original" \
-	xsl/scribus.xsl \
-	templates/template-print.sla \
-	> $@.log 2>&1
+$(targets-print-headings-img-colophon-fullpage): $(eval $(call scribus_template,print-headings-img-colophon-fullpage,templates/template-print.sla,headings-img;capitals-img;colophon-fullpage;halftitle-original))
 
 .PHONY: build/Ada_Zangemann-print-headings-img-colophon-fullpage.all.sla
 build/Ada_Zangemann-print-headings-img-colophon-fullpage.all.sla: $(targets-print-headings-img-colophon-fullpage)
 
 # Build version with text headers
 targets-print-headings-text = $(addprefix build/Ada_Zangemann-print-headings-text.,$(addsuffix .sla,$(languages)))
-$(targets-print-headings-text): build/Ada_Zangemann-print-headings-text.%.sla: \
- build/Ada_Zangemann.%.dbk \
- build/images/illustrations/all \
- build/images/capitals \
- xsl/scribus.xsl
-	xsltproc -o $@ --verbose \
-	--stringparam docbook-contents-file ../$< \
-	--stringparam profile.condition "headings-text;capitals-text;colophon-halfpage;halftitle-original" \
-	xsl/scribus.xsl \
-	templates/template-print.sla \
-	> $@.log 2>&1
+$(targets-print-headings-text): $(eval $(call scribus_template,print-headings-text,templates/template-print.sla,headings-text;capitals-text;colophon-halfpage;halftitle-original))
 
 .PHONY: build/Ada_Zangemann-print-headings-text.all.sla
 build/Ada_Zangemann-print-headings-text.all.sla: $(targets-print-headings-text)
 
 targets-print-headings-text-colophon-fullpage = $(addprefix build/Ada_Zangemann-print-headings-text-colophon-fullpage.,$(addsuffix .sla,$(languages)))
-$(targets-print-headings-text-colophon-fullpage): build/Ada_Zangemann-print-headings-text-colophon-fullpage.%.sla: \
- build/Ada_Zangemann.%.dbk \
- build/images/illustrations/all \
- build/images/capitals \
- xsl/scribus.xsl
-	xsltproc -o $@ --verbose \
-	--stringparam docbook-contents-file ../$< \
-	--stringparam profile.condition "headings-text;capitals-text;colophon-fullpage;halftitle-original" \
-	xsl/scribus.xsl \
-	templates/template-print.sla \
-	> $@.log 2>&1
+$(targets-print-headings-text-colophon-fullpage): $(eval $(call scribus_template,print-headings-text-colophon-fullpage,templates/template-print.sla,headings-text;capitals-text;colophon-fullpage;halftitle-original))
 
 .PHONY: build/Ada_Zangemann-print-headings-text-colophon-fullpage.all.sla
 build/Ada_Zangemann-print-headings-text-colophon-fullpage.all.sla: $(targets-print-headings-text-colophon-fullpage)
 
 # Build version with text headers and halftitle for global distribution
 targets-print-headings-text-halftitle-global = $(addprefix build/Ada_Zangemann-print-headings-text-halftitle-global.,$(addsuffix .sla,$(languages)))
-$(targets-print-headings-text-halftitle-global): build/Ada_Zangemann-print-headings-text-halftitle-global.%.sla: \
- build/Ada_Zangemann.%.dbk \
- build/images/illustrations/all \
- build/images/capitals \
- xsl/scribus.xsl
-	xsltproc -o $@ --verbose \
-	--stringparam docbook-contents-file ../$< \
-	--stringparam profile.condition "headings-text;capitals-text;colophon-halfpage;halftitle-global;halftitle-global-text" \
-	xsl/scribus.xsl \
-	templates/template-print.sla \
-	> $@.log 2>&1
+$(targets-print-headings-text-halftitle-global): $(eval $(call scribus_template,print-headings-text-halftitle-global,templates/template-print.sla,headings-text;capitals-text;colophon-halfpage;halftitle-global;halftitle-global-text))
 
 .PHONY: build/Ada_Zangemann-print-headings-text-halftitle-global.all.sla
 build/Ada_Zangemann-print-headings-text-halftitle-global.all.sla: $(targets-print-headings-text-halftitle-global)
 
 targets-print-headings-text-colophon-fullpage-halftitle-global = $(addprefix build/Ada_Zangemann-print-headings-text-colophon-fullpage-halftitle-global.,$(addsuffix .sla,$(languages)))
-$(targets-print-headings-text-colophon-fullpage-halftitle-global): build/Ada_Zangemann-print-headings-text-colophon-fullpage-halftitle-global.%.sla: \
- build/Ada_Zangemann.%.dbk \
- build/images/illustrations/all \
- build/images/capitals \
- xsl/scribus.xsl
-	xsltproc -o $@ --verbose \
-	--stringparam docbook-contents-file ../$< \
-	--stringparam profile.condition "headings-text;capitals-text;colophon-fullpage;halftitle-global;halftitle-global-text" \
-	xsl/scribus.xsl \
-	templates/template-print.sla \
-	> $@.log 2>&1
+$(targets-print-headings-text-colophon-fullpage-halftitle-global): $(eval $(call scribus_template,print-headings-text-colophon-fullpage-halftitle-global,templates/template-print.sla,headings-text;capitals-text;colophon-fullpage;halftitle-global;halftitle-global-text))
 
 .PHONY: build/Ada_Zangemann-print-headings-text-colophon-fullpage-halftitle-global.all.sla
 build/Ada_Zangemann-print-headings-text-colophon-fullpage-halftitle-global.all.sla: $(targets-print-headings-text-colophon-fullpage-halftitle-global)
 
 # Build version with text subtitle
 targets-coverhard-text = $(addprefix build/Ada_Zangemann-coverhard-text.,$(addsuffix .sla,$(languages)))
-$(targets-coverhard-text): build/Ada_Zangemann-coverhard-text.%.sla: \
- build/Ada_Zangemann.%.dbk \
- build/images/illustrations/all \
- build/images/capitals \
- xsl/scribus.xsl
-	xsltproc -o $@ --verbose \
-	--stringparam docbook-contents-file ../$< \
-	--stringparam profile.condition "capitals-text;cover-print-text;colophon-halfpage" \
-	xsl/scribus.xsl \
-	templates/template-coverhard.sla \
-	> $@.log 2>&1
+$(targets-coverhard-text): $(eval $(call scribus_template,coverhard-text,templates/template-coverhard.sla,capitals-text;cover-print-text;colophon-halfpage))
 
 # Build version with text subtitle
 targets-coversoft-216x216x4_728x3_175-text = $(addprefix build/Ada_Zangemann-coversoft-216x216x4_728x3_175-text.,$(addsuffix .sla,$(languages)))
-$(targets-coversoft-216x216x4_728x3_175-text): build/Ada_Zangemann-coversoft-216x216x4_728x3_175-text.%.sla: \
- build/Ada_Zangemann.%.dbk \
- build/images/illustrations/all \
- build/images/capitals \
- xsl/scribus.xsl
-	xsltproc -o $@ --verbose \
-	--stringparam docbook-contents-file ../$< \
-	--stringparam profile.condition "capitals-text;cover-print-text;colophon-halfpage" \
-	xsl/scribus.xsl \
-	templates/template-coversoft-216x216x4_728x3_175.sla \
-	> $@.log 2>&1
+$(targets-coversoft-216x216x4_728x3_175-text): $(eval $(call scribus_template,coverhard-coversoft-216x216x4_728x3_175-text,templates/template-coversoft-216x216x4_728x3_175.sla,capitals-text;cover-print-text;colophon-halfpage))
 
 # Build screen cover (page 1 is back, page 2 is front)
-build/Ada_Zangemann-coverscreen.%.sla: \
- build/Ada_Zangemann.%.dbk \
- build/images/illustrations/all \
- build/images/capitals \
- xsl/scribus.xsl
-	xsltproc -o $@ --verbose \
-	--stringparam docbook-contents-file ../$< \
-	--stringparam profile.condition "capitals-text;cover-print-text;colophon-halfpage" \
-	xsl/scribus.xsl \
-	templates/template-coverscreen.sla \
-	> $@.log 2>&1
+$(eval $(call scribus_template,coverscreen,templates/template-coverscreen.sla,capitals-text;cover-print-text;colophon-halfpage))
 
 # Split front cover from screen cover
 build/Ada_Zangemann-coverscreen.front.%.pdf: \
@@ -409,17 +332,7 @@ $(targets-screen-confidential): build/Ada_Zangemann-screen-confidential.%.pdf: \
 build/Ada_Zangemann-screen.all.pdf: $(targets-screen)
 
 # Build version with no conditional content (for debugging)
-build/Ada_Zangemann-print-headings-none.%.sla: \
- build/Ada_Zangemann.%.dbk \
- build/images/illustrations/all \
- build/images/capitals \
- xsl/scribus.xsl
-	xsltproc -o $@ --verbose \
-	--stringparam docbook-contents-file ../$< \
-	--stringparam profile.condition ";colophon-halfpage" \
-	xsl/scribus.xsl \
-	templates/template-print.sla \
-	> $@.log 2>&1
+$(eval $(call scribus_template,print-headings-none,templates/template-print.sla,;colophon-halfpage))
 
 # Build/copy inside cover spread
 build/Ada_Zangemann-insidecover.sla: templates/template-insidecover.sla
