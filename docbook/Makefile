@@ -510,13 +510,18 @@ build/Ada_Zangemann.%.dbk.lint: build/Ada_Zangemann.%.dbk
 
 lulu-nb-book: build/Ada_Zangemann-print-headings-text-colophon-fullpage.nb-scaled.pdf
 
-build/Ada_Zangemann-print-headings-text-colophon-fullpage.nb-scaled.pdf: build/Ada_Zangemann-print-headings-text-colophon-fullpage.nb.sla
+build/Ada_Zangemann-print-headings-text-colophon-fullpage-halftitle-global.nb-scaled.pdf: build/Ada_Zangemann-print-headings-text-colophon-fullpage-halftitle-global.nb.sla
+	mkdir templates/tmp
+	cp templates/template-*.sla templates/tmp/
+
 	sed -i -e 's/cropMarks="1"/cropMarks="0"/g' \
 	  -e 's/docInfoMarks="1"/docInfoMarks="0"/' \
 	  templates/template-*.sla
 
-	$(MAKE) build/Ada_Zangemann-print-headings-text-colophon-fullpage.nb.pdf
-	makefile_helpers/pdfScale.sh -s 1.029 build/Ada_Zangemann-print-headings-text-colophon-fullpage.nb.pdf build/Ada_Zangemann-print-headings-text-colophon-fullpage.nb-scaled.pdf
+	$(MAKE) build/Ada_Zangemann-print-headings-text-colophon-fullpage-halftitle-global.nb.pdf
+	makefile_helpers/pdfScale.sh -s 1.029 build/Ada_Zangemann-print-headings-text-colophon-fullpage-halftitle-global.nb.pdf build/Ada_Zangemann-print-headings-text-colophon-fullpage-halftitle-global.nb-scaled.pdf
+	mv templates/tmp/template-*.sla  templates/
+	rmdir templates/tmp
 
 # Generate all translated docbook files and run xmllint on them. Early exit in case of failure.
 .PHONY: quick-check
