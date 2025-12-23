@@ -62,3 +62,30 @@ Scribus could allow users to provide different fonts, like all the Noto Sans var
 Without this feature, fonts will have to be changed or even combined, depending on the script and language.
 
 - [0016114: Multi fonts within one paragraph style](https://bugs.scribus.net/view.php?id=16114)
+
+## Pandoc
+
+- [Pandoc issue tracker](https://github.com/jgm/pandoc/issues)
+
+### Literallayout is set as monospace (Fixed in 3.7)
+
+Pandoc used write Docbook text in literallayout elements as monospaced text.
+
+- [Docbook literallayout is treated as monospace by default #10825](https://github.com/jgm/pandoc/issues/10825)
+
+Fix is implemented in [3.7](https://github.com/jgm/pandoc/releases/tag/3.7).
+
+### Last title element is taken as book title (Fixed, not yet released)
+
+The last title element is taken as the book title, resulting in incorrect output.
+
+- [Docbook chapter title overwrites book title #11300](https://github.com/jgm/pandoc/issues/11300)
+
+There is currently a workaround in place in the Makefile, that can be removed if this is fixed and widely available.
+
+### RTL output to ODT not working
+
+The right-to-left ODT output is not working.
+Not even if text direction is set explicitly.
+
+- [ODT output RTL doesn't work #11301](https://github.com/jgm/pandoc/issues/11301)
