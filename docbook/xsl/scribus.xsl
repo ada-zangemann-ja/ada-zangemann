@@ -85,7 +85,7 @@ SPDX-License-Identifier: GPL-3.0-or-later
 
   <!-- Template to handle StoryText objects by recreating the content -->
   <!-- Matches StoryText elements in a PAGEOBJECT for text (PTYPE=4) with a docbook-id Attribute -->
-  <xsl:template match="/SCRIBUSUTF8NEW/DOCUMENT/PAGEOBJECT[@PTYPE='4' and PageItemAttributes/ItemAttribute[@Name='docbook-id']]/StoryText">
+  <xsl:template match="PAGEOBJECT[@PTYPE='4' and PageItemAttributes/ItemAttribute[@Name='docbook-id']]/StoryText">
 
     <!-- Get docbook-id attribute set in Scribus -->
     <xsl:variable name="docbook-id" select="../PageItemAttributes/ItemAttribute[@Name='docbook-id']/@Value"/>
@@ -172,7 +172,7 @@ SPDX-License-Identifier: GPL-3.0-or-later
   </xsl:template>
 
   <!-- Match PageObject of type image (PTYPE = 2) -->
-  <xsl:template match="/SCRIBUSUTF8NEW/DOCUMENT/PAGEOBJECT[@PTYPE='2' and PageItemAttributes/ItemAttribute[@Name='docbook-id']]">
+  <xsl:template match="PAGEOBJECT[@PTYPE='2' and PageItemAttributes/ItemAttribute[@Name='docbook-id']]">
 
     <!-- Get condition set on PageObject -->
     <xsl:variable name="db-condition" select="./PageItemAttributes/ItemAttribute[@Name='condition']/@Value"/>
