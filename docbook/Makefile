@@ -18,6 +18,9 @@
 # Ensure default shell
 SHELL = /bin/sh
 
+# Delete resulting files if an error occurs, to avoid the situation of caching corrupt files
+.DELETE_ON_ERROR:
+
 # FIXME: use $(srcdir) best practice https://www.gnu.org/software/make/manual/html_node/Makefile-Basics.html
 
 # List known translations to generate pattern rules for autocomplete by scanning translation files.
@@ -40,40 +43,41 @@ ada-spine-ttb := $(addprefix build/,$(subst .btt.,.ttb.,$(wildcard images/illust
 .PHONY: build/images/illustrations/all
 build/images/illustrations/all: build/images/illustrations $(ada-p40s) $(ada-p41s) $(ada-spine-btt) $(ada-spine-ttb)
 
-# Translation file
-po/Ada_Zangemann.pot: Ada_Zangemann.dbk
-	itstool -n -o $@ Ada_Zangemann.dbk
+# Update split .po files when .pot strings get updated due to source changes, with po/Ada_Zangemann.pot as intermediary file
+po/text/Ada_Zangemann.pot: Ada_Zangemann.dbk
+	itstool -n -o po/Ada_Zangemann.pot Ada_Zangemann.dbk
+	msggrep --invert-match --msgid -e '^images/' --extracted-comment -e 'info/biblioid' --no-wrap -o $@ po/Ada_Zangemann.pot
 
-# Split po/Ada_Zangemann.po into po/text/Ada_Zangemann.pot and po/editorial/Ada_Zangemann.pot
-# Merge/update to other languages from there. Merge into a combined directory.
-
-# Update .po files when .pot strings get updated
-po/text/Ada_Zangemann.pot: po/Ada_Zangemann.pot
-	msggrep --invert-match --msgid -e '^images/' --extracted-comment -e 'info/biblioid' --no-wrap -o $@ $<
-
-po/editorial/Ada_Zangemann.pot: po/Ada_Zangemann.pot
-	msggrep --msgid -e '^images/' --extracted-comment -e 'info/biblioid' --no-wrap -o $@ $<
+po/editorial/Ada_Zangemann.pot: Ada_Zangemann.dbk
+	itstool -n -o po/Ada_Zangemann.pot Ada_Zangemann.dbk
+	msggrep --msgid -e '^images/' --extracted-comment -e 'info/biblioid' --no-wrap -o $@ po/Ada_Zangemann.pot
 
 # TODO: migrate existing translations with:
 # msggrep --invert-match --msgid -e '^images/' --extracted-comment -e 'info/biblioid' --no-wrap -o po/text/nl.po po/nl.po
 .PRECIOUS: po/text/%.po
+# Update .po file if .pot file has changed. Otherwise don't, but touch it so Make doesn't rebuild it
 po/text/%.po: po/text/Ada_Zangemann.pot
 	if [ ! -e $@ ]; then cp $< $@; fi
 	msgmerge --update $@ $<
+	touch $@
 
 # TODO: migrate existing translations with:
 # msggrep --msgid -e '^images/' --extracted-comment -e 'info/biblioid' --no-wrap -o po/editorial/nl.po po/nl.po
 .PRECIOUS: po/editorial/%.po
+# Update .po file if .pot file has changed. Otherwise don't, but touch it so Make doesn't rebuild it
 po/editorial/%.po: po/editorial/Ada_Zangemann.pot
 	if [ ! -e $@ ]; then cp $< $@; fi
 	msgmerge --update $@ $<
+	touch $@
 
+.PRECIOUS: build/%.po
 build/%.po: po/text/%.po po/editorial/%.po
 	msgcat -o $@ $+
 
 # Generate message strings for further processing.
 # Stored alongside .po files to deal with assumptions by tools.
 # Use fuzzy entries that might need some more editing.
+.PRECIOUS: build/%.mo
 build/%.mo: build/%.po
 	msgfmt --use-fuzzy -o $@ $<
 
@@ -163,7 +167,7 @@ build/Ada_Zangemann.all.txt: $(targets-txt)
 targets-html = $(addprefix build/Ada_Zangemann.,$(addsuffix .html,$(languages)))
 $(targets-html): build/Ada_Zangemann.%.html: \
  build/Ada_Zangemann-pure-profiled-text.%.dbk \
- build/images/illustrations/all
+ | build/images/illustrations/all
 	xsltproc -o $@ /usr/share/xml/docbook/stylesheet/nwalsh/html/docbook.xsl $<
 
 .PHONY: build/Ada_Zangemann.all.html
@@ -173,14 +177,14 @@ build/Ada_Zangemann.all.html: $(targets-html)
 # FIXME: not yet working
 build/Ada_Zangemann-dblatex.%.pdf: \
  build/Ada_Zangemann-pure-profiled-text.%.dbk \
- build/images/illustrations/all
+ | build/images/illustrations/all
 	dblatex -o $@ $<
 
 # Epub processing
 targets-dbtoepub = $(addprefix build/Ada_Zangemann-dbtoepub.,$(addsuffix .epub,$(languages)))
 $(targets-dbtoepub): build/Ada_Zangemann-dbtoepub.%.epub: \
  build/Ada_Zangemann-pure-profiled-text.%.dbk \
- build/images/illustrations/all
+ | build/images/illustrations/all
 	dbtoepub -o $@ $<
 	epubcheck $@
 
@@ -191,7 +195,7 @@ build/Ada_Zangemann-dbtoepub.all.epub: $(targets-dbtoepub)
 targets-pandoc-md = $(addprefix build/Ada_Zangemann-pandoc.,$(addsuffix .md,$(languages)))
 $(targets-pandoc-md): build/Ada_Zangemann-pandoc.%.md: \
  build/Ada_Zangemann-pure-profiled-text.%.dbk \
- build/images/illustrations/all
+ | build/images/illustrations/all
 	pandoc -f docbook --shift-heading-level=1 --template templates/template.md -o $@ $<
 
 .PHONY: build/Ada_Zangemann-pandoc.all.md
@@ -201,7 +205,7 @@ build/Ada_Zangemann-pandoc.all.md: $(targets-pandoc-md)
 targets-pandoc-text-only-md = $(addprefix build/Ada_Zangemann-pandoc-text-only.,$(addsuffix .md,$(languages)))
 $(targets-pandoc-text-only-md): build/Ada_Zangemann-pandoc-text-only.%.md: \
  build/Ada_Zangemann-pure-profiled-text-only.%.dbk \
- build/images/illustrations/all
+ | build/images/illustrations/all
 	pandoc -f docbook --shift-heading-level=1 --template templates/template.md -o $@ $<
 
 .PHONY: build/Ada_Zangemann-pandoc-text-only.all.md
@@ -211,7 +215,7 @@ build/Ada_Zangemann-pandoc-text-only.all.md: $(targets-pandoc-text-only-md)
 targets-pandoc-odt = $(addprefix build/Ada_Zangemann-pandoc.,$(addsuffix .odt,$(languages)))
 $(targets-pandoc-odt): build/Ada_Zangemann-pandoc.%.odt: \
  build/Ada_Zangemann-pure-profiled-text.%.dbk \
- build/images/illustrations/all
+ | build/images/illustrations/all
 	pandoc -f docbook -o $@ $<
 
 .PHONY: build/Ada_Zangemann-pandoc.all.odt
@@ -221,7 +225,7 @@ build/Ada_Zangemann-pandoc.all.odt: $(targets-pandoc-odt)
 targets-pandoc-text-only-odt = $(addprefix build/Ada_Zangemann-pandoc-text-only.,$(addsuffix .odt,$(languages)))
 $(targets-pandoc-text-only-odt): build/Ada_Zangemann-pandoc-text-only.%.odt: \
  build/Ada_Zangemann-pure-profiled-text-only.%.dbk \
- build/images/illustrations/all
+ | build/images/illustrations/all
 	pandoc -f docbook -o $@ $<
 
 .PHONY: build/Ada_Zangemann-pandoc-text-only.all.odt
@@ -236,9 +240,9 @@ build/Ada_Zangemann-pandoc-text-only.all.odt: $(targets-pandoc-text-only-odt)
 define scribus_template
 build/Ada_Zangemann-$(1).%.sla: \
  build/Ada_Zangemann.%.dbk \
- build/images/illustrations/all \
- build/images/capitals \
- xsl/scribus.xsl
+ xsl/scribus.xsl \
+ | build/images/illustrations/all \
+ build/images/capitals
 	xsltproc -o $$@ --verbose \
 	--stringparam docbook-contents-file ../$$< \
 	--stringparam profile.condition "$(3)" \
@@ -337,6 +341,9 @@ $(eval $(call scribus_template,print-headings-none,templates/template-print.sla,
 # Build/copy inside cover spread
 build/Ada_Zangemann-insidecover.sla: templates/template-insidecover.sla
 	cp $< $@
+
+# Keep intermediary pdf files around as processing takes a while
+.PRECIOUS: build/%.pdf
 
 # Specific output convention for pdf without bleeds or crop marks
 # TODO: screen might require a different colophon text via docbook profiling
