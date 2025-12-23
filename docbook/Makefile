@@ -510,6 +510,9 @@ build/Ada_Zangemann.%.dbk.lint: build/Ada_Zangemann.%.dbk
 
 lulu-nb-book: build/Ada_Zangemann-print-headings-text-colophon-fullpage.nb-scaled.pdf
 
+# scale to 8.5"x8.5" with bleed 0.125" to match page size required by
+# size used on lulu.com (8.5"+0.125")*72 = 621pt, while removing crop
+# marks.
 build/Ada_Zangemann-print-headings-text-colophon-fullpage-halftitle-global.nb-scaled.pdf: build/Ada_Zangemann-print-headings-text-colophon-fullpage-halftitle-global.nb.sla
 	mkdir templates/tmp
 	cp templates/template-*.sla templates/tmp/
@@ -519,7 +522,13 @@ build/Ada_Zangemann-print-headings-text-colophon-fullpage-halftitle-global.nb-sc
 	  templates/template-*.sla
 
 	$(MAKE) build/Ada_Zangemann-print-headings-text-colophon-fullpage-halftitle-global.nb.pdf
-	makefile_helpers/pdfScale.sh -s 1.029 build/Ada_Zangemann-print-headings-text-colophon-fullpage-halftitle-global.nb.pdf build/Ada_Zangemann-print-headings-text-colophon-fullpage-halftitle-global.nb-scaled.pdf
+	gs -o $@ -sDEVICE=pdfwrite \
+	  -dDEVICEWIDTHPOINTS=621 -dDEVICEHEIGHTPOINTS=621 \
+	  -dFIXEDMEDIA \
+	  -dPDFFitPage \
+	  -dCompatibilityLevel=1.4 \
+	  build/Ada_Zangemann-print-headings-text-colophon-fullpage-halftitle-global.nb.pdf
+
 	mv templates/tmp/template-*.sla  templates/
 	rmdir templates/tmp
 
