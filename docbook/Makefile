@@ -18,6 +18,9 @@
 # Ensure default shell
 SHELL = /bin/sh
 
+# Delete resulting files if an error occurs, to avoid the situation of caching corrupt files
+.DELETE_ON_ERROR:
+
 # FIXME: use $(srcdir) best practice https://www.gnu.org/software/make/manual/html_node/Makefile-Basics.html
 
 # List known translations to generate pattern rules for autocomplete by scanning translation files.
