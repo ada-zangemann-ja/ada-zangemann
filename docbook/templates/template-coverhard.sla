@@ -135,12 +135,14 @@
             <PageItemAttributes>
                 <ItemAttribute Name="docbook-id" Type="string" Value="sec-back-cover" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
                 <ItemAttribute Name="condition" Type="string" Value="capitals-img" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+                <ItemAttribute Name="xslt-processing-configuration" Type="string" Value="strip-first-character" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
             </PageItemAttributes>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="328.498897637795" YPOS="292.807559055118" OwnPage="0" ItemID="616803473" PTYPE="2" WIDTH="33.224" HEIGHT="50.6346456692911" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="0.16" LOCALSCY="0.16" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="../../templates/Capitals/-yellow2.png" PRFILE="sRGB display profile (ICC v2.2)" IRENDER="0" EMBEDDED="0" path="M0 0 L33.224 0 L33.224 50.6346 L0 50.6346 L0 0 Z" copath="M0 0 L33.224 0 L33.224 50.6346 L0 50.6346 L0 0 Z" gXpos="0.399999999999977" gYpos="0" gWidth="309.6" gHeight="251.300787401575" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <PageItemAttributes>
                 <ItemAttribute Name="docbook-id" Type="string" Value="para-back-1" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
                 <ItemAttribute Name="condition" Type="string" Value="capitals-img" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+                <ItemAttribute Name="xslt-processing-configuration" Type="string" Value="strip-first-character" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
             </PageItemAttributes>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="800.44157480315" YPOS="-4.69133858267717" OwnPage="0" ItemID="616793137" PTYPE="2" WIDTH="691.915527950311" HEIGHT="789.227329192547" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.17910447761194" LOCALSCY="0.17910447761194" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="../images/illustrations/ada-a01-nosubtitle.ltr.png" PRFILE="Embedded GIMP built-in sRGB" IRENDER="0" EPROF="Embedded GIMP built-in sRGB" path="M0 0 L691.916 0 L691.916 789.227 L0 789.227 L0 0 Z" copath="M0 0 L691.916 0 L691.916 789.227 L0 789.227 L0 0 Z" gXpos="720.544251968504" gYpos="-1.4210854715202e-14" gWidth="1412.45977991882" gHeight="789.227329192547" LAYER="0" NEXTITEM="-1" BACKITEM="-1">

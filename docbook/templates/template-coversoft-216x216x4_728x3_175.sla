@@ -147,12 +147,14 @@
             <PageItemAttributes>
                 <ItemAttribute Name="docbook-id" Type="string" Value="sec-back-cover" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
                 <ItemAttribute Name="condition" Type="string" Value="capitals-img" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+                <ItemAttribute Name="xslt-processing-configuration" Type="string" Value="strip-first-character" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
             </PageItemAttributes>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="268.970141341027" YPOS="229.028225167506" OwnPage="0" ItemID="1281714934" PTYPE="2" WIDTH="33.224" HEIGHT="50.6346456692911" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNAME="DropCap" TEXTFLOWMODE="1" LOCALSCX="0.16" LOCALSCY="0.16" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="../../templates/Capitals/-yellow2.png" PRFILE="sRGB display profile (ICC v2.2)" IRENDER="0" EMBEDDED="0" path="M0 0 L33.224 0 L33.224 50.6346 L0 50.6346 L0 0 Z" copath="M0 0 L33.224 0 L33.224 50.6346 L0 50.6346 L0 0 Z" gXpos="248.601574803149" gYpos="297.498897637795" gWidth="691.915527950311" gHeight="789.227329192547" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <PageItemAttributes>
                 <ItemAttribute Name="docbook-id" Type="string" Value="para-back-1" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
                 <ItemAttribute Name="condition" Type="string" Value="capitals-img" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+                <ItemAttribute Name="xslt-processing-configuration" Type="string" Value="strip-first-character" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
             </PageItemAttributes>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="-325.635590551181" YPOS="586.235905511811" OwnPage="-1" ItemID="1281704406" PTYPE="12" WIDTH="137.48" HEIGHT="70.867187" FRTYPE="3" CLIPEDIT="1" ANNAME="Gruppo2" groupWidth="137.48" groupHeight="70.867187" groupClips="1" path="M0 0 L137.48 0 L137.48 70.8672 L0 70.8672 L0 0 Z" copath="M0 0 L137.48 0 L137.48 70.8672 L0 70.8672 L0 0 Z" gXpos="-405.532913385827" gYpos="590.927244094488" gWidth="1412.45977991882" gHeight="789.227329192547" LAYER="0">
