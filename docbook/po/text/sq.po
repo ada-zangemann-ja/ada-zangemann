@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2025-10-20 04:54+0000\n"
+"PO-Revision-Date: 2025-12-24 14:02+0000\n"
 "Last-Translator: Erik <erik.ds@fsfe.org>\n"
 "Language-Team: Albanian <https://hosted.weblate.org/projects/fsfe/ada-zangemann/sq/>\n"
 "Language: sq\n"
@@ -11,12 +11,40 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.14-dev\n"
+"X-Generator: Weblate 5.15.1\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
+#, fuzzy
 msgctxt "_"
 msgid "translator-credits"
 msgstr ""
+"Alvia, Shkolla Luigj Gurakuqi (Elbasan), 2025\n"
+"Alba, Shkolla Luigj Gurakuqi (Elbasan), 2025\n"
+"Armela, Shkolla Luigj Gurakuqi (Elbasan), 2025\n"
+"Egli, Shkolla Luigj Gurakuqi (Elbasan), 2025\n"
+"Elisa, Shkolla Luigj Gurakuqi (Elbasan), 2025\n"
+"Flavia, Shkolla Luigj Gurakuqi (Elbasan), 2025\n"
+"Martina, Shkolla Luigj Gurakuqi (Elbasan), 2025\n"
+"Menselina, Shkolla Luigj Gurakuqi (Elbasan), 2025\n"
+"Sidorela, Shkolla Luigj Gurakuqi (Elbasan), 2025\n"
+"Uenderlin, Shkolla Luigj Gurakuqi (Elbasan), 2025\n"
+"Xhoana, Shkolla Luigj Gurakuqi (Elbasan), 2025\n"
+"Sentila, Shkolla Gjergj Katriosti (Durrës), 2025\n"
+"Albana, Shkolla Gjergj Katriosti (Durrës), 2025\n"
+"Albesa, Shkolla Gjergj Katriosti (Durrës), 2025\n"
+"Ariola, Shkolla Gjergj Katriosti (Durrës), 2025\n"
+"Amelda, Shkolla Gjergj Katriosti (Durrës), 2025\n"
+"Driada, Shkolla Gjergj Katriosti (Durrës), 2025\n"
+"Erisa, Shkolla Gjergj Katriosti (Durrës), 2025\n"
+"Orgesa, Shkolla Gjergj Katriosti (Durrës), 2025\n"
+"Sanda, Shkolla Gjergj Katriosti (Durrës), 2025\n"
+"Stela, Shkolla Gjergj Katriosti (Durrës), 2025\n"
+"Rehina, Shkolla Gjergj Katriosti (Durrës), 2025\n"
+"Armina, Shkolla Oso Kuka (Shkodër), 2025\n"
+"Emir, Shkolla Oso Kuka (Shkodër), 2025\n"
+"Megi, Shkolla Oso Kuka (Shkodër), 2025\n"
+"Romesa, Shkolla Oso Kuka (Shkodër), 2025\n"
+"Sejda, Shkolla Oso Kuka (Shkodër), 2025"
 
 #. (itstool) path: info/title
 #. (itstool) path: cover/bridgehead
@@ -501,7 +529,7 @@ msgstr "Shumë shpejt, pothuajse të gjitha pajisjet kontrolloheshin nga një pr
 #. equal to the beginning of the first sentence of this chapter.
 #: Ada_Zangemann.dbk:601
 msgid "One day..."
-msgstr ""
+msgstr "Një ditë..."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:604
@@ -606,7 +634,7 @@ msgstr "Brenda pak ditësh, në shkollën e Adës, frika e fillimit u harrua. Sk
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:680
 msgid "Ada and software"
-msgstr ""
+msgstr "Ada dhe softueri"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p20-1
@@ -634,7 +662,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:699
 msgid "Programming"
-msgstr ""
+msgstr "Programimi"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p22-1
@@ -679,7 +707,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:728
 msgid "A horrible night"
-msgstr ""
+msgstr "Një natë e tmerrshme"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p25-1
@@ -700,7 +728,7 @@ msgstr "Kur përfundoi, ai dërgoi të gjithë programet e reja nga kompjuteri i
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:739
 msgid "First real project"
-msgstr ""
+msgstr "Projekti i parë i vërtetë"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p26-1
@@ -849,7 +877,7 @@ msgstr "Ndonjëherë, ata ndërtonin gjëra thjesht për t’u argëtuar. Si pë
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:845
 msgid "Zangemann and the President"
-msgstr ""
+msgstr "Zangemann dhe Presidenti"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p36-1
@@ -896,7 +924,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:875
 msgid "Protest"
-msgstr ""
+msgstr "Protestë"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p39-1
@@ -965,7 +993,7 @@ msgstr "Pa program, nuk shkon!"
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:922
 msgid "Children help the government"
-msgstr ""
+msgstr "Fëmijët ndihmojnë qeverinë"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p42-1
