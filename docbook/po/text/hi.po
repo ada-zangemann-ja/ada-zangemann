@@ -148,7 +148,7 @@ msgstr "एक सोल्डरिंग लौह, ब्रश और पी
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-back-1
 #: Ada_Zangemann.dbk:332
-msgid "<phrase condition=\"capitals-text\">The</phrase><phrase condition=\"capitals-img\">he</phrase> inventor Zangemann is world-famous and immensely rich. Adults and children alike love his fabulous technical inventions. But one day there is a problem: the children’s electronic skateboards no longer work properly. What’s going on? The curious girl Ada sees through what is going on. Together with her friends, she experiments with hardware and software, and the children forge a plan: Zangemann can no longer be the only one in control of the devices!"
+msgid "The inventor Zangemann is world-famous and immensely rich. Adults and children alike love his fabulous technical inventions. But one day there is a problem: the children’s electronic skateboards no longer work properly. What’s going on? The curious girl Ada sees through what is going on. Together with her friends, she experiments with hardware and software, and the children forge a plan: Zangemann can no longer be the only one in control of the devices!"
 msgstr ""
 
 #. (itstool) path: simplesect/para
@@ -359,7 +359,7 @@ msgstr ""
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p04-1
 #: Ada_Zangemann.dbk:500
-msgid "<phrase condition=\"capitals-text\">Once</phrase><phrase condition=\"capitals-img\">nce</phrase> upon a time, there was a little girl named Ada. Her family was so poor that all their savings fit inside a cookie jar. They didn’t have enough money to live in a proper home. Instead, Ada lived with her mother and her little brother, Alan, in a cabin near a junkyard on the edge of town."
+msgid "Once upon a time, there was a little girl named Ada. Her family was so poor that all their savings fit inside a cookie jar. They didn’t have enough money to live in a proper home. Instead, Ada lived with her mother and her little brother, Alan, in a cabin near a junkyard on the edge of town."
 msgstr "एक बार की बात है एडा नाम की एक छोटी लड़की थी। उसका परिवार इतना गरीब था कि उनकी सभी बचत एक छोटे से कुकी जार के अंदर समा थी। उनके पास इतने पैसे नहीं थे कि वे एक अच्छे घर में रह सकें। इसके बजाय, एडा अपनी मां और अपने छोटे भाई एलन के साथ शहर के किनारे एक कबाड़खाने के पास एक झोपड़ी में रहती थी।"
 
 #. (itstool) path: mediaobject/alt
@@ -389,7 +389,7 @@ msgstr "ज़ैंगमैन और कंप्यूटर्स"
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p06-1
 #: Ada_Zangemann.dbk:527
-msgid "<phrase condition=\"capitals-text\">Computers</phrase><phrase condition=\"capitals-img\">omputers</phrase> had fascinated Zangemann ever since he was a child. When he was young, computers were huge machines with lots of cables and loud, noisy fans. At school, little Zangemann often dreamed of all the things he would do with computers if they were just a little bit smaller — small enough that they could be built into other fun things. He knew what he would do. First, he would build a computer into his skateboard so that it would make cool noises when he rode it — maybe a fire engine siren or the sound of a rocket launch. Then he would use a computer to invent ice‑cream-making machines! The computer would mix the coolest flavors and even sell the ice cream. There would be machines on every street corner, and he could get ice cream in his favorite flavor whenever he felt like it, and just as much as he wanted. After that, he’d build a cleaning robot and a block-sorting machine so that his room would always be neat and clean. Zangemann had great new ideas like these every day. He could think of nothing else."
+msgid "Computers had fascinated Zangemann ever since he was a child. When he was young, computers were huge machines with lots of cables and loud, noisy fans. At school, little Zangemann often dreamed of all the things he would do with computers if they were just a little bit smaller — small enough that they could be built into other fun things. He knew what he would do. First, he would build a computer into his skateboard so that it would make cool noises when he rode it — maybe a fire engine siren or the sound of a rocket launch. Then he would use a computer to invent ice‑cream-making machines! The computer would mix the coolest flavors and even sell the ice cream. There would be machines on every street corner, and he could get ice cream in his favorite flavor whenever he felt like it, and just as much as he wanted. After that, he’d build a cleaning robot and a block-sorting machine so that his room would always be neat and clean. Zangemann had great new ideas like these every day. He could think of nothing else."
 msgstr "[]कंप्यूटर ने ज़ैंगमैन को बचपन से ही आकर्षित किया था। जब वो छोटा था। कंप्यूटर बहुत बड़ी मशीनों जैसे थे जिनमें बहुत सारे केबल और तेज़, शोर करने वाले पंखे थे। स्कूल में ज़ैंगमैन अक्सर उन सभी चीजों का सपना देखता था जो वह कंप्यूटर के साथ करता था - अगर वे थोड़े छोटे-छोटे होते तो उन्हें अन्य मज़ेदार चीज़ों में बनाया जा सकता था। वह जानता था कि वह क्या करेगा। सबसे पहले, वह अपने स्केटबोर्ड में कंप्यूटर लगाएगा ताकि जब वह उस पर सवार हो तो यह मज़ेदार शोर करे - यह एक दमकल सायरन या रॉकेट लॉन्च की आवाज हो सकती है। फिर वह आइसक्रीम बनाने वाली मशीनों का आविष्कार करने के लिए कंप्यूटर का प्रयोग करेगा! कंप्यूटर सबसे अच्छे स्वादों को मिलाएगा और आइसक्रीम भी बेचेगा। हर गली-नुक्कड़ पर मशीनें होंगी और जब भी उसका मन करेगा, वह अपने मनपसंद फ्लेवर की आइसक्रीम ले सकेगा। और जैसा वह चाहता था। उसके बाद, वह एक सफाई करने वाला रोबोट और ब्लॉकस छाँटने वाली मशीन का निर्माण करेगा ताकि उसका कमरा हमेशा साफ सुथरा रहे। ज़ैंगमैन के पास हर दिन इस तरह का नया विचार था। वह और कुछ नहीं सोच सकता था।"
 
 #. (itstool) path: simplesect/para
@@ -576,7 +576,7 @@ msgstr "स्केटबोर्ड्स काम नहीं करते
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p18-1
 #: Ada_Zangemann.dbk:658
-msgid "<phrase condition=\"capitals-text\">The</phrase><phrase condition=\"capitals-img\">he</phrase> next day, there was a big commotion at Ada’s school. On the way to school, the kids’ skateboards had stopped working. The wheels simply stood still. And the children could no longer turn up the volume on their speakers. What was going on?"
+msgid "The next day, there was a big commotion at Ada’s school. On the way to school, the kids’ skateboards had stopped working. The wheels simply stood still. And the children could no longer turn up the volume on their speakers. What was going on?"
 msgstr "[]अगले दिन एडा के स्कूल में खूब हंगामा हुआ। स्कूल जाते समय बच्चों के स्केटबोर्ड ने काम करना बंद कर दिया। पहिए बस स्थिर खड़े रहे। और बच्चे अब अपने स्पीकर का वॉल्यूम नहीं बढ़ा सकते थे। ये क्या हो रहा था?"
 
 #. (itstool) path: mediaobject/alt
@@ -611,7 +611,7 @@ msgstr "एडा और सॉफ्टवेर"
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p20-1
 #: Ada_Zangemann.dbk:684
-msgid "<phrase condition=\"capitals-text\">Ada</phrase><phrase condition=\"capitals-img\">da</phrase> loved Wednesdays. Every Wednesday, her mother and Alan would pick her up from school, and they would all go to the library together. Ada was always drawn to the technology section. There were books with blueprints, instructions for experiments, and explanations of how different devices worked. In the library, Ada could also go online with her cell phone. She quickly realized that there was also much to discover on the internet. There, many people shared their ideas and repair tips to help others."
+msgid "Ada loved Wednesdays. Every Wednesday, her mother and Alan would pick her up from school, and they would all go to the library together. Ada was always drawn to the technology section. There were books with blueprints, instructions for experiments, and explanations of how different devices worked. In the library, Ada could also go online with her cell phone. She quickly realized that there was also much to discover on the internet. There, many people shared their ideas and repair tips to help others."
 msgstr "[]एडा को बुधवार बहुत पसंद था। हर बुधवार को उसकी माँ और एलन उसे स्कूल से लेने आते थे और सभी एक साथ पुस्तकालय जाते थे। एडा हमेशा टेक्नोलॉजी वाले सेक्शन की ओर आकर्षित रहती थी। वहाँ किताबें थीं जिनमें ब्लूप्रिंट थे, प्रयोगों के लिए निर्देश थे, और उपकरण के साथ व्याख्या, जिसमे वो कैसे काम करते हैं उसके बारे में लिखा था। लाइब्रेरी में, एडा अपने सेल फोन से भी ऑनलाइन रह सकती थी। उसे शीघ्र ही एहसास हुआ कि इंटरनेट पर खोजने के लिए बहुत कुछ है। वहाँ, कई लोगों ने दूसरों की मदद करने के लिए अपने विचार और युक्तियाँ साझा की हुई थी।"
 
 #. (itstool) path: simplesect/para
@@ -639,7 +639,7 @@ msgstr "प्रोग्रामिंग"
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p22-1
 #: Ada_Zangemann.dbk:703
-msgid "<phrase condition=\"capitals-text\">Over</phrase><phrase condition=\"capitals-img\">ver</phrase> the next few weeks, Ada spent her afternoons in the library. She found books and websites that explained how programming languages and code worked. For Ada, it felt a bit like learning a secret language, or like studying vocabulary in school. Ada ate it all up. She expected her first program to do something simple: “Make this lamp blink!”"
+msgid "Over the next few weeks, Ada spent her afternoons in the library. She found books and websites that explained how programming languages and code worked. For Ada, it felt a bit like learning a secret language, or like studying vocabulary in school. Ada ate it all up. She expected her first program to do something simple: “Make this lamp blink!”"
 msgstr "[]अगले कुछ हफ्ते, एडा ने दोपहर का समय पुस्तकालय में बिताया। उसे ऐसी किताबें और वेबसाइटें मिलीं जो बताती थीं कि प्रोग्रामिंग कैसे की जाती है। एडा के लिए, यह एक रहस्यी भाषा सीखने या स्कूल में शब्दकोष अध्ययन करने जैसा लागा। एडा ने सब कुछ जैसे चाट लिया। उसने अपने पहले प्रोग्राम से कुछ सरल करने की आशा की जैसे “इस दीपक को झपकने दो!”"
 
 #. (itstool) path: simplesect/para
@@ -684,7 +684,7 @@ msgstr "एक डरावनी रात"
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p25-1
 #: Ada_Zangemann.dbk:732
-msgid "<phrase condition=\"capitals-text\">Zangemann</phrase><phrase condition=\"capitals-img\">angemann</phrase> had slept horribly every night since his terrible walk in the city. When he went to bed each night, worries plagued him. “Oh no, my marvelous inventions. It can’t be that everyone just plays around with them. All the things that could go wrong! I put so much thought into everything, down to the last detail.” Zangemann pondered and pondered and tossed and turned sleeplessly in his bed all night."
+msgid "Zangemann had slept horribly every night since his terrible walk in the city. When he went to bed each night, worries plagued him. “Oh no, my marvelous inventions. It can’t be that everyone just plays around with them. All the things that could go wrong! I put so much thought into everything, down to the last detail.” Zangemann pondered and pondered and tossed and turned sleeplessly in his bed all night."
 msgstr "[]ज़ैंगमैन शहर में अपनी लम्बी सैर के बाद से हर रात खूब सोता था। जब वह हर रात बिस्तर पर जाता, तो चिंताएँ उसे परेशान करतीं। “अरे नहीं, मेरे अद्भुत आविष्कार। ऐसा नहीं हो सकता कि उनसे हर कोई यूं ही खेलता रहे। वे सभी चीज़ें जो ग़लत हो सकती हैं! मैंने हर चीज़ पर बहुत विचार किया है, अंतिम विवरण तक।” ज़ैंगमैन मन में विचार करता रहा, और गहरा विचार और पूरी रात बिस्तर पर करवटें बदलता रहा।"
 
 #. (itstool) path: simplesect/para
@@ -705,7 +705,7 @@ msgstr "पहला सचमुच का प्रोजेक्ट"
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p26-1
 #: Ada_Zangemann.dbk:743
-msgid "<phrase condition=\"capitals-text\">Summer</phrase><phrase condition=\"capitals-img\">ummer</phrase> break was already halfway over. Ada stood in front of her big project and scratched her head. She had built a skateboard from old parts and then connected a motor to make the wheels turn. With a motorized skateboard, Ada could zoom to the library or the junkyard even faster after school. Super practical! But it didn’t work. When she stood on it and pressed the Go! button, the wheels moved, but way too fast. Ada fell off the skateboard every time she started. No matter what she tried, she just couldn’t get it right."
+msgid "Summer break was already halfway over. Ada stood in front of her big project and scratched her head. She had built a skateboard from old parts and then connected a motor to make the wheels turn. With a motorized skateboard, Ada could zoom to the library or the junkyard even faster after school. Super practical! But it didn’t work. When she stood on it and pressed the Go! button, the wheels moved, but way too fast. Ada fell off the skateboard every time she started. No matter what she tried, she just couldn’t get it right."
 msgstr "[]समर ब्रेक पहले से ही आधे से ज्यादा खत्म हो गया था। एडा अपने बड़े प्रोजेक्ट के सामने खड़ी थी और अपने सिर को खुजला रही थी। उसने पुराने पार्ट्स से एक स्केटबोर्ड बनाया था और फिर मोटर को कनेक्ट करके पहिये चलाने की कोशिश की। मोटरवाहित स्केटबोर्ड के साथ, एडा स्कूल के बाद पुस्तकालय या जंकयार्ड तक और भी तेजी से जा सकती थी। बहुत ही प्रैक्टिकल! पर यह काम नहीं कर रहा था। जब उसने इस पर खड़ी होकर Go! बटन दबाया, पहिये चले, लेकिन बहुत ज्यादा तेजी से। एडा हर बार जब भी शुरू करती, स्केटबोर्ड से गिर जाती थी। चाहे उसने कुछ भी कोशिश की, वह बस इसे सही कर नहीं पाई।"
 
 #. (itstool) path: simplesect/para
@@ -772,7 +772,7 @@ msgstr "स्वतंत्रता के लिए हैकिंग"
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p30-1
 #: Ada_Zangemann.dbk:785
-msgid "<phrase condition=\"capitals-text\">More</phrase><phrase condition=\"capitals-img\">ore</phrase> and more children started to visit Ada at the junkyard after school, and she helped them rewrite the programs in their skateboards. Some of her classmates were very excited about this new discovery. It was unbelievable what you could do with software code! They wanted to learn everything Ada knew about programming languages, and soon they were riding their skateboards again, wherever they wanted to."
+msgid "More and more children started to visit Ada at the junkyard after school, and she helped them rewrite the programs in their skateboards. Some of her classmates were very excited about this new discovery. It was unbelievable what you could do with software code! They wanted to learn everything Ada knew about programming languages, and soon they were riding their skateboards again, wherever they wanted to."
 msgstr "[]स्कूल के बाद, एडा के पास जंकयार्ड में जाने वाले बच्चे बढ़ते जा रहे थे, और उसने उन्हें उनके स्केटबोर्ड में प्रोग्रामों को दोबारा लिखने में मदद की। उसके कुछ सहपाठी इस नए खोज के बारे में बहुत उत्साहित थे। सॉफ़्टवेयर कोड के साथ वह क्या क्या कर सकते थे, वह अविश्वसनीय था! उन्हें प्रोग्रामिंग भाषाओं के बारे में जितना एडा को पता था, उससे सब सीखना चाहते थे, और जल्द ही वे फिर से अपने स्केटबोर्ड पर सवार हो रहे थे, जहां जाना चाहे वहां जा रहे थे।"
 
 #. (itstool) path: simplesect/para
@@ -833,7 +833,7 @@ msgstr ""
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p35-1
 #: Ada_Zangemann.dbk:838
-msgid "<phrase condition=\"capitals-text\">Every</phrase><phrase condition=\"capitals-img\">very</phrase> day, Ada and her friends made plans together for the afternoon. From a broken ice-cream machine, they built a new one that could make ice cream in every imaginable shape and color. They ate square ice cream, heart-shaped ice cream, and even pyramid-shaped ice cream, as well as strawberry, raspberry, and rainbow ice cream, all with sprinkles and hot fudge — much better than the varieties from the Zangemann machines."
+msgid "Every day, Ada and her friends made plans together for the afternoon. From a broken ice-cream machine, they built a new one that could make ice cream in every imaginable shape and color. They ate square ice cream, heart-shaped ice cream, and even pyramid-shaped ice cream, as well as strawberry, raspberry, and rainbow ice cream, all with sprinkles and hot fudge — much better than the varieties from the Zangemann machines."
 msgstr "[]हर दिन, एडा और उसके दोस्त दोपहर के लिए एक साथ योजना बनाते थे। एक टूटी हुई आइसक्रीम मशीन से उन्होंने एक नई मशीन बनाई जिससे हर कल्पनीय आकार और रंग में आइसक्रीम बनाई जा सकती थी। उन्होंने चौकोर आइसक्रीम खाई, दिल के आकार की आइसक्रीम, और यहां तक कि पिरामिड के आकार की आइसक्रीम के अलावा स्ट्रॉबेरी, रास्पबेरी, और इंद्रधनुष आइसक्रीम के रूप में, सभी स्प्रिंकल्स और हॉट फ़ज के साथ जो  ज़ैंगमैन की मशीनों से काफी बेहतर होती थी।"
 
 #. (itstool) path: simplesect/para
@@ -854,7 +854,7 @@ msgstr "ज़ैंगमैन और राष्ट्रपति"
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p36-1
 #: Ada_Zangemann.dbk:849
-msgid "<phrase condition=\"capitals-text\">One</phrase><phrase condition=\"capitals-img\">ne</phrase> day, Zangemann noticed that some computers no longer obeyed his programming commands. Shocked and fuming with anger, he called the president. In a quivering voice, Zangemann yelled, “Someone is rewriting the programs in my devices. That can’t happen; after all, they are my inventions. It’s far too dangerous if everyone can do whatever they want with the computers. You must make a law against this!”"
+msgid "One day, Zangemann noticed that some computers no longer obeyed his programming commands. Shocked and fuming with anger, he called the president. In a quivering voice, Zangemann yelled, “Someone is rewriting the programs in my devices. That can’t happen; after all, they are my inventions. It’s far too dangerous if everyone can do whatever they want with the computers. You must make a law against this!”"
 msgstr "[]एक दिन, ज़ैंगमैन को ध्यान आया कि कुछ कंप्यूटर अब उनके प्रोग्रामिंग कमांड्स का पालन नहीं कर रहे थे। हैरान और गुस्से से आग बबूला भरी हुई हालत में, उसने राष्ट्रपति को बुलवाया। डरते हुए आवाज़ में, ज़ैंगमैन चिल्लाया, “किसी ने मेरे उपकरणों में प्रोग्राम दोबारा लिख दिया है। ऐसा नहीं हो सकता; अब तक तो वे मेरे ख़ुद के आविष्कार हैं। यह खतरनाक है अगर हर कोई कंप्यूटर के साथ जो चाहे वो कर सकता है। आपको इस ख़िलाफ़ कानून बनाना चाहिए!”"
 
 #. (itstool) path: simplesect/para
@@ -899,7 +899,7 @@ msgstr "प्रदर्शन"
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p39-1
 #: Ada_Zangemann.dbk:880
-msgid "<phrase condition=\"capitals-text\">The</phrase><phrase condition=\"capitals-img\">he</phrase> next day, they didn’t go to school. Instead, they rode their skateboards to the parliament building, with large protest signs under their arms, and sat down in front of the building. The evening before, they had put LED lights on some of the signs, which were now flashing brightly. They had connected their speakers together so everyone in the street could hear what they were saying. Some passersby stopped and asked the children what they were demonstrating for. “For software freedom!” they replied in unison and told the adults their story. Impressed, the adults nodded, and the president also looked curiously at their signs as he approached the building."
+msgid "The next day, they didn’t go to school. Instead, they rode their skateboards to the parliament building, with large protest signs under their arms, and sat down in front of the building. The evening before, they had put LED lights on some of the signs, which were now flashing brightly. They had connected their speakers together so everyone in the street could hear what they were saying. Some passersby stopped and asked the children what they were demonstrating for. “For software freedom!” they replied in unison and told the adults their story. Impressed, the adults nodded, and the president also looked curiously at their signs as he approached the building."
 msgstr "[]अगले दिन, वे स्कूल नहीं गए। बजाय इसके, उन्होंने अपने स्केटबोर्ड से सांसद भवन जाने का निर्णय किया, बड़े प्रदर्शन बैनरों को अपने बाएँ हाथों में लिए हुए, और भवन के सामने बैठ गए। रात को, उन्होंने कुछ बैनरों पर LED लाइट्स लगा दी थी, जो अब चमक रहीं थी। उन्होंने अपने स्पीकर को एक साथ जोड़ दिया था ताकि सड़क पर सभी को वे क्या कह रहे हैं वह सुन सकें। कुछ चलने वाले लोग रुककर बच्चों से पूछते कि वे किस लिए प्रदर्शन कर रहे हैं। “सॉफ़्टवेयर स्वतंत्रता के लिए!” उन्होंने एक साथ जवाब दिया और वयस्कों को अपनी कहानी सुनाई। प्रभावित होकर, वयस्क इशारों के साथ सिर झुका और राष्ट्रपति भी भवन के पास आते हुए उनके बैनरों की ओर जिज्ञासु नजर से देखते रहे।"
 
 #. (itstool) path: simplesect/para
@@ -968,7 +968,7 @@ msgstr "बच्चे सरकार की सहायता करते �
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p42-1
 #: Ada_Zangemann.dbk:925
-msgid "<phrase condition=\"capitals-text\">Ada</phrase><phrase condition=\"capitals-img\">da</phrase> protested in front of the parliament building every week, even in pouring rain. On one such rainy day, when the president passed the group of dripping-wet children, he couldn’t help but admire their stubbornness. He asked Ada, “Why do you sit here every day? What do you want to achieve?” Ada replied, “We want to determine for ourselves what we can and cannot do with our computers.” Her friends shouted in unison: “Don’t wreck our tech! Don’t wreck our tech!” and “We want the code! We want the code!”"
+msgid "Ada protested in front of the parliament building every week, even in pouring rain. On one such rainy day, when the president passed the group of dripping-wet children, he couldn’t help but admire their stubbornness. He asked Ada, “Why do you sit here every day? What do you want to achieve?” Ada replied, “We want to determine for ourselves what we can and cannot do with our computers.” Her friends shouted in unison: “Don’t wreck our tech! Don’t wreck our tech!” and “We want the code! We want the code!”"
 msgstr "[]एडा हर हफ्ते संसद भवन के सामने विरोध करती थी, बरसात में भी। ऐसे ही एक बरसात के दिन, जब राष्ट्रपति समूह से गुजरे तो टपकते-भीगते बच्चों को देखकर, वह उनकी जिद की प्रशंसा किए बिना नहीं रह सके। उन्होंने एडा से पूछा, “तुम यहां हर दिन क्यों बैठती हो? तुम क्या हासिल करना चाहती हो?” एडा ने कहा, “हम अपने कंप्यूटर के साथ स्वयं यह निर्धारित करना चाहते हैं कि हम क्या कर सकते हैं और क्या नहीं कर सकते।” उसके दोस्त एक साथ चिल्लाए: “हमारी तकनीक को नष्ट न करें! हमारी तकनीक को नष्ट न करें!” और “हमें कोड चाहिए! हमें कोड चाहिए!”"
 
 #. (itstool) path: simplesect/para
@@ -1013,7 +1013,7 @@ msgstr "नया क़ानून"
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p44-1
 #: Ada_Zangemann.dbk:952
-msgid "<phrase condition=\"capitals-text\">The</phrase><phrase condition=\"capitals-img\">he</phrase> next morning, the president’s phone rang very early. It was Zangemann. He was angrier than ever. “Without me, the government computers will no longer work,” he threatened. But the president kept the call short and quickly hung up. The phone rang many more times that day, but Zangemann’s calls went unanswered. The president sat in a meeting with Ada, Toni, Marie, Konrad, and the government experts."
+msgid "The next morning, the president’s phone rang very early. It was Zangemann. He was angrier than ever. “Without me, the government computers will no longer work,” he threatened. But the president kept the call short and quickly hung up. The phone rang many more times that day, but Zangemann’s calls went unanswered. The president sat in a meeting with Ada, Toni, Marie, Konrad, and the government experts."
 msgstr "[]अगले सुबह, राष्ट्रपति का फ़ोन बहुत जल्दी बजा। यह जैंगेमैन था। वह पहले से भी ज्यादा गुस्से में था। “मेरे बिना, सरकार के कंप्यूटर अब काम नहीं करेंगे,” उसने धमकाया। लेकिन राष्ट्रपति ने कॉल को छोटा रखा और जल्दी से कटा दिया। उस दिन भी फ़ोन बार-बार बजा, लेकिन जैंगेमैन के कॉल का कोई जवाब नहीं दिया गया। राष्ट्रपति एक मीटिंग में बैठे रहे, जिसमें एडा, टोनी, मैरी, कोनराड, और सरकारी विशेषज्ञ भी शामिल थे।"
 
 #. (itstool) path: mediaobject/alt
@@ -1082,7 +1082,7 @@ msgstr "और ज़ैंगमैन?"
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p48-1
 #: Ada_Zangemann.dbk:999
-msgid "<phrase condition=\"capitals-text\">And</phrase><phrase condition=\"capitals-img\">nd</phrase> Zangemann? No one’s heard much from him. Maybe he’s still sitting angrily in front of his golden computer. Maybe he doesn’t dare go out into the street anymore and has boarded up all the windows of his mansion so that he doesn’t have to worry about what other people are doing with his inventions. But maybe he also sometimes looks out into the world through his telescope and sees what the children are inventing every day. Perhaps then he will remember how much fun it was for himself to tinker and experiment. And maybe, just maybe, he eats pyramid-shaped raspberry ice cream with rainbow sprinkles."
+msgid "And Zangemann? No one’s heard much from him. Maybe he’s still sitting angrily in front of his golden computer. Maybe he doesn’t dare go out into the street anymore and has boarded up all the windows of his mansion so that he doesn’t have to worry about what other people are doing with his inventions. But maybe he also sometimes looks out into the world through his telescope and sees what the children are inventing every day. Perhaps then he will remember how much fun it was for himself to tinker and experiment. And maybe, just maybe, he eats pyramid-shaped raspberry ice cream with rainbow sprinkles."
 msgstr "[]और ज़ैंगमैन? उससे किसी ने ज्यादा कुछ नहीं सुना। शायद वह अभी भी अपने सोने के कंप्यूटर के सामने गुस्से में बैठा है। शायद वह अब बाहर जाने की हिम्मत नहीं करता और अपने हवेली के सभी खिड़कियों को बंद कर देता है ताकि उसको फिक्र न हो कि दूसरे लोग उसके आविष्कारों का क्या कर रहे हैं। लेकिन शायद वह कभी-कभी अपने दूरबीन से दुनिया को देखता है और देखता है कि बच्चे हर दिन क्या-क्या आविष्कार कर रहे हैं। शायद फिर उसे याद आएगा कि उसे जुगाड़ और प्रयोग करने में कितना मजा आता था। और शायद, बस शायद, वह पिरामिड के आकार की रास्पबेरी आइसक्रीम रेनबो स्प्रिंकल्स के साथ खाता है।"
 
 #. (itstool) path: mediaobject/alt
