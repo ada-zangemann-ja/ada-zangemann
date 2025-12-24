@@ -78,6 +78,11 @@ Noteworthy decisions made in the automation.
    - To reduce the effort of image editing, the Scribus templates support images
      and fonts for the drop caps and headings text. Conditions in Scribus are
      used for this too.
+   - Another attribute xslt-processing-configuration can be set as an attribute in
+     Scribus to enable certain processing features. At the moment there is one
+     feature available called strip-first-character that strips the first
+     character of the text frame. This is used for the case where an image is used
+     for the handdrawn capital letter.
 - Illustration filenames use language suffixes to be able to store them in the
   same directory for an overview. A script is used to create symbolic links for
   the output languages.
