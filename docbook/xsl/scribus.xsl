@@ -91,7 +91,11 @@ SPDX-License-Identifier: GPL-3.0-or-later
     <xsl:variable name="docbook-id" select="../PageItemAttributes/ItemAttribute[@Name='docbook-id']/@Value"/>
 
     <xsl:call-template name="storytext">
+      <!-- Provide entire part of the XML matching the id -->
       <xsl:with-param name="matching-content" select="$profiled-docbook//*[@xml:id=$docbook-id]"/>
+      
+      <!-- Provide the set of processing options to control any processing -->
+      <xsl:with-param name="processing-configuration" select="../PageItemAttributes/ItemAttribute[@Name='xslt-processing-configuration']/@Value"/>
     </xsl:call-template>
 
   </xsl:template>
@@ -99,6 +103,7 @@ SPDX-License-Identifier: GPL-3.0-or-later
 
   <xsl:template name="storytext">
     <xsl:param name="matching-content"/>
+    <xsl:param name="processing-configuration"/>
 
     <!-- Get type of matching element -->
     <xsl:variable name="matching-element" select="local-name($matching-content)"/>
@@ -124,7 +129,11 @@ SPDX-License-Identifier: GPL-3.0-or-later
         <xsl:when test="contains('|section|simplesect|sect1|sect2|sect3|sect4|sect5|', concat('|', $matching-element, '|'))">
 
           <xsl:for-each select="$matching-content/*[local-name()='para' or local-name()='literallayout']">
-            <xsl:apply-templates select="."/>
+            
+            <!-- Handle content with templates. Provide processing-configuration as parameter to enable certain processing features -->
+            <xsl:apply-templates>
+              <xsl:with-param name="processing-configuration" select="$processing-configuration"/>
+            </xsl:apply-templates>
 
             <!-- Two para separators are needed inbetween paragraphs to insert two newlines to end the first paragraph and create an empty line between the paragraphs. -->
             <!-- FIXME: Prefer paragraph styles in favor of hard newlines. -->
@@ -402,19 +411,44 @@ SPDX-License-Identifier: GPL-3.0-or-later
 
   <!-- Handle generic text -->
   <xsl:template match="//db:para/text()">
+    <xsl:param name="processing-configuration"/>
     <!-- Ignore element if no content is present -->
     <xsl:if test="string-length(normalize-space()) > 0">
       <ITEXT>
         <xsl:attribute name="CH">
 
-          <!-- Normalize space in elements inside paragraph. Insert preseding of trailing space if other nodes exist, like emphasized text or a link. -->
-          <!-- NOTE: this forces a spect around emphasized text or link, which could be good -->
-          <xsl:if test="preceding-sibling::node()">
-            <xsl:if test="not(contains('.,;:!?…%)]/\”«' ,substring(normalize-space(),1,1)))">
-              <xsl:text> </xsl:text>
-            </xsl:if>
-          </xsl:if>
-          <xsl:value-of select="normalize-space()"/>
+          <!-- Normalize space in elements inside paragraph. Insert preceding of trailing space if other nodes exist, like emphasized text or a link. -->
+          <!-- NOTE: this forces a space around emphasized text or link, which could be good -->
+          <!-- NOTE: ignores the case where a paragraph begins with no text -->
+          <xsl:choose>
+
+            <xsl:when test="preceding-sibling::node()">
+              <!-- Further in the text, as there as a preceding sibling node -->
+              <xsl:if test="not(contains('.,;:!?…%)]/\”«' ,substring(normalize-space(),1,1)))">
+                <xsl:text> </xsl:text>
+              </xsl:if>
+              <xsl:value-of select="normalize-space()"/>
+            </xsl:when>
+
+            <xsl:otherwise>
+              <!-- First element, strip for use of dropcap image, depending on processing-configuration -->
+              <xsl:choose>
+
+                <xsl:when test="$processing-configuration and contains(concat(';', $processing-configuration, ';'), ';strip-first-character;')">
+                  <!-- strip-first-character is in the processing-configuration -->
+                  <xsl:value-of select="substring(normalize-space(),2)"/>
+                </xsl:when>
+
+                <xsl:otherwise>
+                  <!-- Default case -->
+                  <xsl:value-of select="normalize-space()"/>
+                </xsl:otherwise>
+
+              </xsl:choose>
+            </xsl:otherwise>
+
+          </xsl:choose>
+
           <xsl:if test="following-sibling::node()">
             <xsl:text> </xsl:text>
           </xsl:if>
