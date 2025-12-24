@@ -146,7 +146,7 @@ msgstr "납땜기와 페인트 붓 그리고 노란색 페인트통이 흰색 �
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-back-1
 #: Ada_Zangemann.dbk:332
-msgid "<phrase condition=\"capitals-text\">The</phrase><phrase condition=\"capitals-img\">he</phrase> inventor Zangemann is world-famous and immensely rich. Adults and children alike love his fabulous technical inventions. But one day there is a problem: the children’s electronic skateboards no longer work properly. What’s going on? The curious girl Ada sees through what is going on. Together with her friends, she experiments with hardware and software, and the children forge a plan: Zangemann can no longer be the only one in control of the devices!"
+msgid "The inventor Zangemann is world-famous and immensely rich. Adults and children alike love his fabulous technical inventions. But one day there is a problem: the children’s electronic skateboards no longer work properly. What’s going on? The curious girl Ada sees through what is going on. Together with her friends, she experiments with hardware and software, and the children forge a plan: Zangemann can no longer be the only one in control of the devices!"
 msgstr ""
 
 #. (itstool) path: simplesect/para
@@ -417,8 +417,8 @@ msgstr ""
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p04-1
 #: Ada_Zangemann.dbk:500
-msgid "<phrase condition=\"capitals-text\">Once</phrase><phrase condition=\"capitals-img\">nce</phrase> upon a time, there was a little girl named Ada. Her family was so poor that all their savings fit inside a cookie jar. They didn’t have enough money to live in a proper home. Instead, Ada lived with her mother and her little brother, Alan, in a cabin near a junkyard on the edge of town."
-msgstr "<phrase condition=\"capitals-text\">옛날에</phrase><phrase condition=\"capitals-img\">날에</phrase> 에이다라는 이름의 작은 소녀가 살고 있었어요. 그녀의 가족은 너무 가난해서 전 재산이라곤 쿠키통안에 들어있는 돈이 전부였어요. 그래서 좋은 집을 사기에 충분한 돈이 없었지요. 그래서 에이다는 엄마와 남동생 앨런과 함께 도시 외곽에 있는 고물 수집장 옆의 낡은 오두막에서 살았어요."
+msgid "Once upon a time, there was a little girl named Ada. Her family was so poor that all their savings fit inside a cookie jar. They didn’t have enough money to live in a proper home. Instead, Ada lived with her mother and her little brother, Alan, in a cabin near a junkyard on the edge of town."
+msgstr "옛날에 에이다라는 이름의 작은 소녀가 살고 있었어요. 그녀의 가족은 너무 가난해서 전 재산이라곤 쿠키통안에 들어있는 돈이 전부였어요. 그래서 좋은 집을 사기에 충분한 돈이 없었지요. 그래서 에이다는 엄마와 남동생 앨런과 함께 도시 외곽에 있는 고물 수집장 옆의 낡은 오두막에서 살았어요."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -447,8 +447,8 @@ msgstr "장기만과 컴퓨터"
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p06-1
 #: Ada_Zangemann.dbk:527
-msgid "<phrase condition=\"capitals-text\">Computers</phrase><phrase condition=\"capitals-img\">omputers</phrase> had fascinated Zangemann ever since he was a child. When he was young, computers were huge machines with lots of cables and loud, noisy fans. At school, little Zangemann often dreamed of all the things he would do with computers if they were just a little bit smaller — small enough that they could be built into other fun things. He knew what he would do. First, he would build a computer into his skateboard so that it would make cool noises when he rode it — maybe a fire engine siren or the sound of a rocket launch. Then he would use a computer to invent ice‑cream-making machines! The computer would mix the coolest flavors and even sell the ice cream. There would be machines on every street corner, and he could get ice cream in his favorite flavor whenever he felt like it, and just as much as he wanted. After that, he’d build a cleaning robot and a block-sorting machine so that his room would always be neat and clean. Zangemann had great new ideas like these every day. He could think of nothing else."
-msgstr "<phrase condition=\"capitals-text\">컴퓨터는</phrase><phrase condition=\"capitals-img\">퓨터는</phrase> 어렸을 때부터 장기만 아저씨를 매료시켰어요. 아저씨가 어렸을 때, 컴퓨터는 수많은 케이블과 크고 시끄러운 팬소리가 나는 거대한 기계였어요. 학교를 다닐 때 꼬마 장기만은 만약 컴퓨터가 지금보다 작아지게 된다면 무얼 할 수 있을까?라며 많은 것들을 상상하곤 했어요. 컴퓨터가 충분히 작아져서 여러가지 물건에 컴퓨터가 쏙 들어가게 될 때를 말이죠. 그렇게 된다면 뭘 해야 할지를 알 것 같았어요. 우선 컴퓨터가 달린 스케이트보드를 만들 작정이었어요. 그래서 스케이드보드를 타면 소방차 사이렌 소리나 로켓 발사 소리같은 멋진 소리를 내는 거에요. 그런 다음에는 아이스크림 만드는 기계에 컴퓨터를 넣을 생각이에요. 기계에 달린 컴퓨터가 가장 맛있는 맛을 섞어서 아이스크림을 만들어 파는거죠. 모든 길모퉁이에 아이스크림 만드는 기계를 놓을거에요. 그래서 내가 원할 때 마다 내가 좋아하는 맛의 아이스크림을 언제든 맘껏 먹을 수 있는거죠. 그리고나서 청소 로봇과 장난감 블럭 정리 기계를 만들 생각이에요. 그러면 항상 방이 깨끗하고 깔끔할거에요. 꼬마 장기만은 이렇게 훌륭하고 새로운 아이디어를 매일 매일 떠올렸어요. 사실 꼬마 장기만은 이것말고 다른 건 도무지 떠올릴 수 없었거든요."
+msgid "Computers had fascinated Zangemann ever since he was a child. When he was young, computers were huge machines with lots of cables and loud, noisy fans. At school, little Zangemann often dreamed of all the things he would do with computers if they were just a little bit smaller — small enough that they could be built into other fun things. He knew what he would do. First, he would build a computer into his skateboard so that it would make cool noises when he rode it — maybe a fire engine siren or the sound of a rocket launch. Then he would use a computer to invent ice‑cream-making machines! The computer would mix the coolest flavors and even sell the ice cream. There would be machines on every street corner, and he could get ice cream in his favorite flavor whenever he felt like it, and just as much as he wanted. After that, he’d build a cleaning robot and a block-sorting machine so that his room would always be neat and clean. Zangemann had great new ideas like these every day. He could think of nothing else."
+msgstr "컴퓨터는 어렸을 때부터 장기만 아저씨를 매료시켰어요. 아저씨가 어렸을 때, 컴퓨터는 수많은 케이블과 크고 시끄러운 팬소리가 나는 거대한 기계였어요. 학교를 다닐 때 꼬마 장기만은 만약 컴퓨터가 지금보다 작아지게 된다면 무얼 할 수 있을까?라며 많은 것들을 상상하곤 했어요. 컴퓨터가 충분히 작아져서 여러가지 물건에 컴퓨터가 쏙 들어가게 될 때를 말이죠. 그렇게 된다면 뭘 해야 할지를 알 것 같았어요. 우선 컴퓨터가 달린 스케이트보드를 만들 작정이었어요. 그래서 스케이드보드를 타면 소방차 사이렌 소리나 로켓 발사 소리같은 멋진 소리를 내는 거에요. 그런 다음에는 아이스크림 만드는 기계에 컴퓨터를 넣을 생각이에요. 기계에 달린 컴퓨터가 가장 맛있는 맛을 섞어서 아이스크림을 만들어 파는거죠. 모든 길모퉁이에 아이스크림 만드는 기계를 놓을거에요. 그래서 내가 원할 때 마다 내가 좋아하는 맛의 아이스크림을 언제든 맘껏 먹을 수 있는거죠. 그리고나서 청소 로봇과 장난감 블럭 정리 기계를 만들 생각이에요. 그러면 항상 방이 깨끗하고 깔끔할거에요. 꼬마 장기만은 이렇게 훌륭하고 새로운 아이디어를 매일 매일 떠올렸어요. 사실 꼬마 장기만은 이것말고 다른 건 도무지 떠올릴 수 없었거든요."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:528
@@ -636,8 +636,8 @@ msgstr "스케이트보드가 멈췄다"
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p18-1
 #: Ada_Zangemann.dbk:658
-msgid "<phrase condition=\"capitals-text\">The</phrase><phrase condition=\"capitals-img\">he</phrase> next day, there was a big commotion at Ada’s school. On the way to school, the kids’ skateboards had stopped working. The wheels simply stood still. And the children could no longer turn up the volume on their speakers. What was going on?"
-msgstr "<phrase condition=\"capitals-text\">다음날</phrase><phrase condition=\"capitals-img\">음날</phrase> 에이다의 학교는 커다란 혼란에 빠졌어요. 학교로 오늘 길에 스케이트보드가 동작을 멈춰버렸기 때문입니다. 바퀴가 그냥 동작을 멈췄어요. 게다가 아이들은 더 이상 스피커의 볼륨을 높일 수 가 없게 되었어요. 도대체 무슨 일이 벌어진 걸까요?"
+msgid "The next day, there was a big commotion at Ada’s school. On the way to school, the kids’ skateboards had stopped working. The wheels simply stood still. And the children could no longer turn up the volume on their speakers. What was going on?"
+msgstr "다음날 에이다의 학교는 커다란 혼란에 빠졌어요. 학교로 오늘 길에 스케이트보드가 동작을 멈춰버렸기 때문입니다. 바퀴가 그냥 동작을 멈췄어요. 게다가 아이들은 더 이상 스피커의 볼륨을 높일 수 가 없게 되었어요. 도대체 무슨 일이 벌어진 걸까요?"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -671,8 +671,8 @@ msgstr "에이다와 소프트웨어"
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p20-1
 #: Ada_Zangemann.dbk:684
-msgid "<phrase condition=\"capitals-text\">Ada</phrase><phrase condition=\"capitals-img\">da</phrase> loved Wednesdays. Every Wednesday, her mother and Alan would pick her up from school, and they would all go to the library together. Ada was always drawn to the technology section. There were books with blueprints, instructions for experiments, and explanations of how different devices worked. In the library, Ada could also go online with her cell phone. She quickly realized that there was also much to discover on the internet. There, many people shared their ideas and repair tips to help others."
-msgstr "<phrase condition=\"capitals-text\">에이다는</phrase><phrase condition=\"capitals-img\">이다는</phrase> 수요일을 좋아합니다. 매주 수요일에는 엄마와 앨런이 학교로 마중을 나오는 날이거든요. 그리고 방과 후 모두 다 함께 도서관으로 갑니다. 에이다는 항상 기술 관련 서적이 있는 코너에 끌렸습니다. 거기에는 설계도라던가 실험 방법, 그리고 각각의 장치들이 어떻게 움직이는지에 대한 책들이 잔뜩 있었거든요. 도서관에서는 핸드폰을 이용해 인터넷에 접속할 수 도 있었습니다. 에이다는 인터넷에서 찾을 수 있는 정보도 많다는 것을 알았어요. 거기에는 다른 사람들을 도와주기위해 사람들이 자신의 아이디어나 수리에 필요한 팁을 공유해주고 있었거든요."
+msgid "Ada loved Wednesdays. Every Wednesday, her mother and Alan would pick her up from school, and they would all go to the library together. Ada was always drawn to the technology section. There were books with blueprints, instructions for experiments, and explanations of how different devices worked. In the library, Ada could also go online with her cell phone. She quickly realized that there was also much to discover on the internet. There, many people shared their ideas and repair tips to help others."
+msgstr "에이다는 수요일을 좋아합니다. 매주 수요일에는 엄마와 앨런이 학교로 마중을 나오는 날이거든요. 그리고 방과 후 모두 다 함께 도서관으로 갑니다. 에이다는 항상 기술 관련 서적이 있는 코너에 끌렸습니다. 거기에는 설계도라던가 실험 방법, 그리고 각각의 장치들이 어떻게 움직이는지에 대한 책들이 잔뜩 있었거든요. 도서관에서는 핸드폰을 이용해 인터넷에 접속할 수 도 있었습니다. 에이다는 인터넷에서 찾을 수 있는 정보도 많다는 것을 알았어요. 거기에는 다른 사람들을 도와주기위해 사람들이 자신의 아이디어나 수리에 필요한 팁을 공유해주고 있었거든요."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:685
@@ -699,8 +699,8 @@ msgstr "프로그래밍"
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p22-1
 #: Ada_Zangemann.dbk:703
-msgid "<phrase condition=\"capitals-text\">Over</phrase><phrase condition=\"capitals-img\">ver</phrase> the next few weeks, Ada spent her afternoons in the library. She found books and websites that explained how programming languages and code worked. For Ada, it felt a bit like learning a secret language, or like studying vocabulary in school. Ada ate it all up. She expected her first program to do something simple: “Make this lamp blink!”"
-msgstr "<phrase condition=\"capitals-text\">그뒤로</phrase><phrase condition=\"capitals-img\">뒤로</phrase> 몇 주 동안, 에이다는 오후를 내내 도서관에서 보냈어요. 에이다는 프로그래밍 언어와 코드가 어떻게 동작하는 지 알려주는 책과 웹사이트를 찾아냈어요. 에이다에게 이것은 마치 마법의 언어를 배우는 것 같기도 하고 학교에서 낱말 공부를 하는 것 같은 느낌이 들었어요. 에이다는 이 모든걸 자기껄로 만들었죠. 첫 번째 프로그램으로 에이다는 뭔가 단순한 일을 해보고 싶었어요. “그래 이 전구를 깜빡이게 해보는 거야!”"
+msgid "Over the next few weeks, Ada spent her afternoons in the library. She found books and websites that explained how programming languages and code worked. For Ada, it felt a bit like learning a secret language, or like studying vocabulary in school. Ada ate it all up. She expected her first program to do something simple: “Make this lamp blink!”"
+msgstr "그뒤로 몇 주 동안, 에이다는 오후를 내내 도서관에서 보냈어요. 에이다는 프로그래밍 언어와 코드가 어떻게 동작하는 지 알려주는 책과 웹사이트를 찾아냈어요. 에이다에게 이것은 마치 마법의 언어를 배우는 것 같기도 하고 학교에서 낱말 공부를 하는 것 같은 느낌이 들었어요. 에이다는 이 모든걸 자기껄로 만들었죠. 첫 번째 프로그램으로 에이다는 뭔가 단순한 일을 해보고 싶었어요. “그래 이 전구를 깜빡이게 해보는 거야!”"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:704
@@ -744,8 +744,8 @@ msgstr "끔찍한 밤"
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p25-1
 #: Ada_Zangemann.dbk:732
-msgid "<phrase condition=\"capitals-text\">Zangemann</phrase><phrase condition=\"capitals-img\">angemann</phrase> had slept horribly every night since his terrible walk in the city. When he went to bed each night, worries plagued him. “Oh no, my marvelous inventions. It can’t be that everyone just plays around with them. All the things that could go wrong! I put so much thought into everything, down to the last detail.” Zangemann pondered and pondered and tossed and turned sleeplessly in his bed all night."
-msgstr "<phrase condition=\"capitals-text\">장기만</phrase><phrase condition=\"capitals-img\">기만</phrase> 아저씨는 끔찍했던 그 날의 산책 이후로 걱정에 파뭍혀 잠을 제대로 이룰 수 없었어요. “안 돼! 나의 소중한 발명품을 사람들이 그냥 멋대로 하게 놔둘 순 없어. 모든 게 잘못되어 가고 있다고! 내가 좀 더 생각해서 세부적인 사항들을 끝까지 고민해야 했어.” 아저씨는 이 말을 되뇌이면서 밤새 잠을 이루지 못했답니다."
+msgid "Zangemann had slept horribly every night since his terrible walk in the city. When he went to bed each night, worries plagued him. “Oh no, my marvelous inventions. It can’t be that everyone just plays around with them. All the things that could go wrong! I put so much thought into everything, down to the last detail.” Zangemann pondered and pondered and tossed and turned sleeplessly in his bed all night."
+msgstr "장기만 아저씨는 끔찍했던 그 날의 산책 이후로 걱정에 파뭍혀 잠을 제대로 이룰 수 없었어요. “안 돼! 나의 소중한 발명품을 사람들이 그냥 멋대로 하게 놔둘 순 없어. 모든 게 잘못되어 가고 있다고! 내가 좀 더 생각해서 세부적인 사항들을 끝까지 고민해야 했어.” 아저씨는 이 말을 되뇌이면서 밤새 잠을 이루지 못했답니다."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:733
@@ -765,8 +765,8 @@ msgstr "첫 진짜 프로젝트"
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p26-1
 #: Ada_Zangemann.dbk:743
-msgid "<phrase condition=\"capitals-text\">Summer</phrase><phrase condition=\"capitals-img\">ummer</phrase> break was already halfway over. Ada stood in front of her big project and scratched her head. She had built a skateboard from old parts and then connected a motor to make the wheels turn. With a motorized skateboard, Ada could zoom to the library or the junkyard even faster after school. Super practical! But it didn’t work. When she stood on it and pressed the Go! button, the wheels moved, but way too fast. Ada fell off the skateboard every time she started. No matter what she tried, she just couldn’t get it right."
-msgstr "<phrase condition=\"capitals-text\">여름</phrase><phrase condition=\"capitals-img\">름</phrase> 방학이 벌써 반이나 지나갔습니다. 에이다는 자신의 야심찬 프로젝트를 앞에 두고 머리를 긁적이고 있습니다. 에이다는 오래된 부품을 이용해서 스케이드보드를 만들고 바퀴에다가 모터를 달았습니다. 모터를 단 스케이드보드로 방과 후에 도서관이나 고철 수집장으로 더 빨리 갈 수 있게 말이죠. 하지만 그게 뜻대로 잘 되지 않았어요. 에이다가 스케이트보드에 올라타서 전진! 버튼을 누루면 바퀴가 움직이긴 움직였는데 너무 빨리 움직였거든요. 그러면 에이다는 매번 스케이드보드 위에서 굴러 떨어졌죠. 어떤 방법을 써봐도 이걸 제대로 동작하도록 만들 수 는 없었어요."
+msgid "Summer break was already halfway over. Ada stood in front of her big project and scratched her head. She had built a skateboard from old parts and then connected a motor to make the wheels turn. With a motorized skateboard, Ada could zoom to the library or the junkyard even faster after school. Super practical! But it didn’t work. When she stood on it and pressed the Go! button, the wheels moved, but way too fast. Ada fell off the skateboard every time she started. No matter what she tried, she just couldn’t get it right."
+msgstr "여름 방학이 벌써 반이나 지나갔습니다. 에이다는 자신의 야심찬 프로젝트를 앞에 두고 머리를 긁적이고 있습니다. 에이다는 오래된 부품을 이용해서 스케이드보드를 만들고 바퀴에다가 모터를 달았습니다. 모터를 단 스케이드보드로 방과 후에 도서관이나 고철 수집장으로 더 빨리 갈 수 있게 말이죠. 하지만 그게 뜻대로 잘 되지 않았어요. 에이다가 스케이트보드에 올라타서 전진! 버튼을 누루면 바퀴가 움직이긴 움직였는데 너무 빨리 움직였거든요. 그러면 에이다는 매번 스케이드보드 위에서 굴러 떨어졌죠. 어떤 방법을 써봐도 이걸 제대로 동작하도록 만들 수 는 없었어요."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:744
@@ -832,8 +832,8 @@ msgstr "자유를 위한 해킹"
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p30-1
 #: Ada_Zangemann.dbk:785
-msgid "<phrase condition=\"capitals-text\">More</phrase><phrase condition=\"capitals-img\">ore</phrase> and more children started to visit Ada at the junkyard after school, and she helped them rewrite the programs in their skateboards. Some of her classmates were very excited about this new discovery. It was unbelievable what you could do with software code! They wanted to learn everything Ada knew about programming languages, and soon they were riding their skateboards again, wherever they wanted to."
-msgstr "<phrase condition=\"capitals-text\">점점</phrase><phrase condition=\"capitals-img\">점</phrase> 더 많은 아이들이 방과 후에 고물 수집장에 있는 에이다를 찾아오기 시작했어요. 에이다는 아이들이 스케이트보드에 내장된 프로그램을 재작성하는걸 도와주었어요. 그녀의 반 친구들 몇 몇은 이 발견에 매우 흥분했어요. 소프트웨어로 할 수 있는 근사한 일들이 믿기지 않았어요! 친구들은 에이다가 알고 있는 프로그래밍 언어에 대한 모든 걸 배우고 싶어했어요. 곧 아이들은 자기가 원할 때면 언제든 다시 스케이트보드를 탈 수 있게 되었어요."
+msgid "More and more children started to visit Ada at the junkyard after school, and she helped them rewrite the programs in their skateboards. Some of her classmates were very excited about this new discovery. It was unbelievable what you could do with software code! They wanted to learn everything Ada knew about programming languages, and soon they were riding their skateboards again, wherever they wanted to."
+msgstr "점점 더 많은 아이들이 방과 후에 고물 수집장에 있는 에이다를 찾아오기 시작했어요. 에이다는 아이들이 스케이트보드에 내장된 프로그램을 재작성하는걸 도와주었어요. 그녀의 반 친구들 몇 몇은 이 발견에 매우 흥분했어요. 소프트웨어로 할 수 있는 근사한 일들이 믿기지 않았어요! 친구들은 에이다가 알고 있는 프로그래밍 언어에 대한 모든 걸 배우고 싶어했어요. 곧 아이들은 자기가 원할 때면 언제든 다시 스케이트보드를 탈 수 있게 되었어요."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:787
@@ -893,8 +893,8 @@ msgstr "세상에서 가장 멋진 아이스크림 콘을 들고있는 모습: �
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p35-1
 #: Ada_Zangemann.dbk:838
-msgid "<phrase condition=\"capitals-text\">Every</phrase><phrase condition=\"capitals-img\">very</phrase> day, Ada and her friends made plans together for the afternoon. From a broken ice-cream machine, they built a new one that could make ice cream in every imaginable shape and color. They ate square ice cream, heart-shaped ice cream, and even pyramid-shaped ice cream, as well as strawberry, raspberry, and rainbow ice cream, all with sprinkles and hot fudge — much better than the varieties from the Zangemann machines."
-msgstr "<phrase condition=\"capitals-text\">매일</phrase><phrase condition=\"capitals-img\">일</phrase> 에이다와 친구들은 오후에 모여 계획을 세웠어요. 고장난 아이스크림 기계를 가져와서 상상하는 어떤 모양과 색깔이든 만들어 낼 수 있는 기계를 만들었어요. 이젠 사각형 모양, 하트 모양 심지어 피라미드 모양 아이스크림도 먹을 수 있었어요. 물론 스프링클 가루와 초코 시럽을 뿌린 딸기맛, 라즈베리맛, 레인보우맛 아이스크림도요. 그 기계는 장기만 아저씨의 아이스크림 기계보다 훨씬 더 메뉴가 다양했어요."
+msgid "Every day, Ada and her friends made plans together for the afternoon. From a broken ice-cream machine, they built a new one that could make ice cream in every imaginable shape and color. They ate square ice cream, heart-shaped ice cream, and even pyramid-shaped ice cream, as well as strawberry, raspberry, and rainbow ice cream, all with sprinkles and hot fudge — much better than the varieties from the Zangemann machines."
+msgstr "매일 에이다와 친구들은 오후에 모여 계획을 세웠어요. 고장난 아이스크림 기계를 가져와서 상상하는 어떤 모양과 색깔이든 만들어 낼 수 있는 기계를 만들었어요. 이젠 사각형 모양, 하트 모양 심지어 피라미드 모양 아이스크림도 먹을 수 있었어요. 물론 스프링클 가루와 초코 시럽을 뿌린 딸기맛, 라즈베리맛, 레인보우맛 아이스크림도요. 그 기계는 장기만 아저씨의 아이스크림 기계보다 훨씬 더 메뉴가 다양했어요."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:839
@@ -914,8 +914,8 @@ msgstr "장기만과 대통령"
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p36-1
 #: Ada_Zangemann.dbk:849
-msgid "<phrase condition=\"capitals-text\">One</phrase><phrase condition=\"capitals-img\">ne</phrase> day, Zangemann noticed that some computers no longer obeyed his programming commands. Shocked and fuming with anger, he called the president. In a quivering voice, Zangemann yelled, “Someone is rewriting the programs in my devices. That can’t happen; after all, they are my inventions. It’s far too dangerous if everyone can do whatever they want with the computers. You must make a law against this!”"
-msgstr "<phrase condition=\"capitals-text\">어느</phrase><phrase condition=\"capitals-img\">느</phrase> 날 장기만 아저씨는 몇 몇 컴퓨터가 더 이상 자신의 프로그래밍 명령에 복종하지 않는다는 걸 알아차렸어요. 아저씨는 충격을 받고 분노로 가득찼어요. 아저씨는 대통령에게 전화를 걸었죠. 떨리는 목소리로 아저씨는 소리쳤어요. “누군가 내 장치들을 다시 프로그래밍 하고 있어요. 그건 일어나선 안 되는 일이에요. 그건 내가 만든 장치들이고, 만약 모두가 컴퓨터를 이용해 자기가 하고 대로만 하려고 한다면 그건 너무나도 위험해요. 당장 이런 행위를 금지하는 법안을 만들어야만 합니다!”"
+msgid "One day, Zangemann noticed that some computers no longer obeyed his programming commands. Shocked and fuming with anger, he called the president. In a quivering voice, Zangemann yelled, “Someone is rewriting the programs in my devices. That can’t happen; after all, they are my inventions. It’s far too dangerous if everyone can do whatever they want with the computers. You must make a law against this!”"
+msgstr "어느 날 장기만 아저씨는 몇 몇 컴퓨터가 더 이상 자신의 프로그래밍 명령에 복종하지 않는다는 걸 알아차렸어요. 아저씨는 충격을 받고 분노로 가득찼어요. 아저씨는 대통령에게 전화를 걸었죠. 떨리는 목소리로 아저씨는 소리쳤어요. “누군가 내 장치들을 다시 프로그래밍 하고 있어요. 그건 일어나선 안 되는 일이에요. 그건 내가 만든 장치들이고, 만약 모두가 컴퓨터를 이용해 자기가 하고 대로만 하려고 한다면 그건 너무나도 위험해요. 당장 이런 행위를 금지하는 법안을 만들어야만 합니다!”"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:850
@@ -959,8 +959,8 @@ msgstr "시위"
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p39-1
 #: Ada_Zangemann.dbk:880
-msgid "<phrase condition=\"capitals-text\">The</phrase><phrase condition=\"capitals-img\">he</phrase> next day, they didn’t go to school. Instead, they rode their skateboards to the parliament building, with large protest signs under their arms, and sat down in front of the building. The evening before, they had put LED lights on some of the signs, which were now flashing brightly. They had connected their speakers together so everyone in the street could hear what they were saying. Some passersby stopped and asked the children what they were demonstrating for. “For software freedom!” they replied in unison and told the adults their story. Impressed, the adults nodded, and the president also looked curiously at their signs as he approached the building."
-msgstr "<phrase condition=\"capitals-text\">다음날</phrase><phrase condition=\"capitals-img\">음날</phrase> 아이들은 학교에 가지 않았어요. 대신 스케이드보드를 타고 국회의사당으로 향했어요. 손에는 커다란 시위 팻말을 들고 국회의사당 앞에 자리를 잡았어요. 저녁이 되면 푯말 중 일부가 밝게 빛날 수 있도록 LED 전구를 달았지요. 아이들은 각자의 스피커를 서로 연결해서 주변에 있는 모두가 자신들이 하는 얘기를 들을 수 있도록 했어요. 지나가는 행인 중 누군가가 멈춰서서 아이들에게 왜 시위를 하는지 물었어요. “소프트웨어의 자유를 위해서요!” 아이들은 일제히 대답하면서 어른들에게 그간의 이야기를 들려 주었어요. 감동을 받은 어른들은 고개를 끄덕였지요. 마침 국회의사당을 지나치던 대통령도 아이들의 시위 팻말을 보고 호기심 어린 눈으로 지켜보았어요."
+msgid "The next day, they didn’t go to school. Instead, they rode their skateboards to the parliament building, with large protest signs under their arms, and sat down in front of the building. The evening before, they had put LED lights on some of the signs, which were now flashing brightly. They had connected their speakers together so everyone in the street could hear what they were saying. Some passersby stopped and asked the children what they were demonstrating for. “For software freedom!” they replied in unison and told the adults their story. Impressed, the adults nodded, and the president also looked curiously at their signs as he approached the building."
+msgstr "다음날 아이들은 학교에 가지 않았어요. 대신 스케이드보드를 타고 국회의사당으로 향했어요. 손에는 커다란 시위 팻말을 들고 국회의사당 앞에 자리를 잡았어요. 저녁이 되면 푯말 중 일부가 밝게 빛날 수 있도록 LED 전구를 달았지요. 아이들은 각자의 스피커를 서로 연결해서 주변에 있는 모두가 자신들이 하는 얘기를 들을 수 있도록 했어요. 지나가는 행인 중 누군가가 멈춰서서 아이들에게 왜 시위를 하는지 물었어요. “소프트웨어의 자유를 위해서요!” 아이들은 일제히 대답하면서 어른들에게 그간의 이야기를 들려 주었어요. 감동을 받은 어른들은 고개를 끄덕였지요. 마침 국회의사당을 지나치던 대통령도 아이들의 시위 팻말을 보고 호기심 어린 눈으로 지켜보았어요."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:881
@@ -1028,8 +1028,8 @@ msgstr "아이들이 정부를 돕다"
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p42-1
 #: Ada_Zangemann.dbk:925
-msgid "<phrase condition=\"capitals-text\">Ada</phrase><phrase condition=\"capitals-img\">da</phrase> protested in front of the parliament building every week, even in pouring rain. On one such rainy day, when the president passed the group of dripping-wet children, he couldn’t help but admire their stubbornness. He asked Ada, “Why do you sit here every day? What do you want to achieve?” Ada replied, “We want to determine for ourselves what we can and cannot do with our computers.” Her friends shouted in unison: “Don’t wreck our tech! Don’t wreck our tech!” and “We want the code! We want the code!”"
-msgstr "<phrase condition=\"capitals-text\">에이다는</phrase><phrase condition=\"capitals-img\">이다는</phrase> 국회의사당 앞에서 매주 시위를 했어요, 심지어 비가 오는 날에도 말이죠. 비가 오는 어느 날, 대통령이 비에 젖은 아이들을 지나쳐 걸어 갈 때 그는 아이들의 집념에 감탄하지 않을 수 없었어요. 대통령은 에이다에게 물었어요, “얘야 여기에 왜 매일 앉아있니? 이렇게 해서 대체 무얼 얻고 싶은거니?” 에이다는 대답했어요. “저희는 컴퓨터를 가지고 무엇을 할 수 있고 무얼 할 수 없는지 스스로 결정하고 싶어요.” 에이다의 친구들은 한 목소리로 외쳤어요. “코드야 같이놀자! 코드야 같이놀자!” “우리는 코드가 필요해요! 우리는 코드가 필요해요!”"
+msgid "Ada protested in front of the parliament building every week, even in pouring rain. On one such rainy day, when the president passed the group of dripping-wet children, he couldn’t help but admire their stubbornness. He asked Ada, “Why do you sit here every day? What do you want to achieve?” Ada replied, “We want to determine for ourselves what we can and cannot do with our computers.” Her friends shouted in unison: “Don’t wreck our tech! Don’t wreck our tech!” and “We want the code! We want the code!”"
+msgstr "에이다는 국회의사당 앞에서 매주 시위를 했어요, 심지어 비가 오는 날에도 말이죠. 비가 오는 어느 날, 대통령이 비에 젖은 아이들을 지나쳐 걸어 갈 때 그는 아이들의 집념에 감탄하지 않을 수 없었어요. 대통령은 에이다에게 물었어요, “얘야 여기에 왜 매일 앉아있니? 이렇게 해서 대체 무얼 얻고 싶은거니?” 에이다는 대답했어요. “저희는 컴퓨터를 가지고 무엇을 할 수 있고 무얼 할 수 없는지 스스로 결정하고 싶어요.” 에이다의 친구들은 한 목소리로 외쳤어요. “코드야 같이놀자! 코드야 같이놀자!” “우리는 코드가 필요해요! 우리는 코드가 필요해요!”"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:926
@@ -1073,8 +1073,8 @@ msgstr "새로운 법"
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p44-1
 #: Ada_Zangemann.dbk:952
-msgid "<phrase condition=\"capitals-text\">The</phrase><phrase condition=\"capitals-img\">he</phrase> next morning, the president’s phone rang very early. It was Zangemann. He was angrier than ever. “Without me, the government computers will no longer work,” he threatened. But the president kept the call short and quickly hung up. The phone rang many more times that day, but Zangemann’s calls went unanswered. The president sat in a meeting with Ada, Toni, Marie, Konrad, and the government experts."
-msgstr "<phrase condition=\"capitals-text\">다음날</phrase><phrase condition=\"capitals-img\">음날</phrase> 아침 대통령 아저씨의 전화가 아침부터 울려댔어요. 그건 장기만 아저씨였어요. 그는 평소보다 더 화가 나 있었어요. \"나 없이는 정부의 컴퓨터가 더 이상 작동되지 않을겁니다\" 그는 협박했어요. 그러나 대통령은 전화를 짧게 마치고 얼른 끊어 버렸어요. 장기만 아저씨의 전화는 그 뒤로도 계속 울려댔지만 더 이상 받지 않았어요. 대신에 대통령은 에이다와 토니, 마리, 콘라트 그리고 정부 전문가들과 회의를 진행했지요."
+msgid "The next morning, the president’s phone rang very early. It was Zangemann. He was angrier than ever. “Without me, the government computers will no longer work,” he threatened. But the president kept the call short and quickly hung up. The phone rang many more times that day, but Zangemann’s calls went unanswered. The president sat in a meeting with Ada, Toni, Marie, Konrad, and the government experts."
+msgstr "다음날 아침 대통령 아저씨의 전화가 아침부터 울려댔어요. 그건 장기만 아저씨였어요. 그는 평소보다 더 화가 나 있었어요. \"나 없이는 정부의 컴퓨터가 더 이상 작동되지 않을겁니다\" 그는 협박했어요. 그러나 대통령은 전화를 짧게 마치고 얼른 끊어 버렸어요. 장기만 아저씨의 전화는 그 뒤로도 계속 울려댔지만 더 이상 받지 않았어요. 대신에 대통령은 에이다와 토니, 마리, 콘라트 그리고 정부 전문가들과 회의를 진행했지요."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1142,8 +1142,8 @@ msgstr "그리고 장기만은?"
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p48-1
 #: Ada_Zangemann.dbk:999
-msgid "<phrase condition=\"capitals-text\">And</phrase><phrase condition=\"capitals-img\">nd</phrase> Zangemann? No one’s heard much from him. Maybe he’s still sitting angrily in front of his golden computer. Maybe he doesn’t dare go out into the street anymore and has boarded up all the windows of his mansion so that he doesn’t have to worry about what other people are doing with his inventions. But maybe he also sometimes looks out into the world through his telescope and sees what the children are inventing every day. Perhaps then he will remember how much fun it was for himself to tinker and experiment. And maybe, just maybe, he eats pyramid-shaped raspberry ice cream with rainbow sprinkles."
-msgstr "<phrase condition=\"capitals-text\">그러면</phrase><phrase condition=\"capitals-img\">러면</phrase> 장기만 아저씨는 어떻게 되었을까요? 아저씨의 소식을 아는 사람은 아무도 없었어요. 아마도 그는 황금 컴퓨터 앞에서 여진히 화를 내고 있을지도 모르겠네요. 아니면 더 이상 거리로 나갈 생각을 하지 못하고 사람들이 자신의 발명품으로 무얼 하던지 간에 걱정하지 않도록 저택 창문을 꽁꽁 닫아 버렸을 지도 모르죠. 하지만 그는 자신의 망원경으로 아이들이 어떤 발명품을 만들어 내는지 가끔 지켜보고 있을지도 몰라요. 그러면 아마 아저씨는 스스로 무언가를 조물거리며 실험하던 때가 얼마나 재밌었는지 문득 머릿속에 떠올릴꺼에요. 그리고 어쩌면... 이건 정말이지 어쩌면 말이죠, 아저씨는 무지개색 스프링클 가루를 뿌린 피라미드 모양의 아이스크림을 먹고 있을지도 모를 일이에요."
+msgid "And Zangemann? No one’s heard much from him. Maybe he’s still sitting angrily in front of his golden computer. Maybe he doesn’t dare go out into the street anymore and has boarded up all the windows of his mansion so that he doesn’t have to worry about what other people are doing with his inventions. But maybe he also sometimes looks out into the world through his telescope and sees what the children are inventing every day. Perhaps then he will remember how much fun it was for himself to tinker and experiment. And maybe, just maybe, he eats pyramid-shaped raspberry ice cream with rainbow sprinkles."
+msgstr "그러면 장기만 아저씨는 어떻게 되었을까요? 아저씨의 소식을 아는 사람은 아무도 없었어요. 아마도 그는 황금 컴퓨터 앞에서 여진히 화를 내고 있을지도 모르겠네요. 아니면 더 이상 거리로 나갈 생각을 하지 못하고 사람들이 자신의 발명품으로 무얼 하던지 간에 걱정하지 않도록 저택 창문을 꽁꽁 닫아 버렸을 지도 모르죠. 하지만 그는 자신의 망원경으로 아이들이 어떤 발명품을 만들어 내는지 가끔 지켜보고 있을지도 몰라요. 그러면 아마 아저씨는 스스로 무언가를 조물거리며 실험하던 때가 얼마나 재밌었는지 문득 머릿속에 떠올릴꺼에요. 그리고 어쩌면... 이건 정말이지 어쩌면 말이죠, 아저씨는 무지개색 스프링클 가루를 뿌린 피라미드 모양의 아이스크림을 먹고 있을지도 모를 일이에요."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
