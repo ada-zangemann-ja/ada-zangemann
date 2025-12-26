@@ -42,6 +42,16 @@ At the moment the user has to change the page size and then recenter the content
 
 - [0017098: Page Resize: Add New Real Estate Equally Around Page](https://bugs.scribus.net/view.php?id=17098)
 
+### Script support for validation
+
+Before exporting for print, Scribus runs a set of preflight checks to warn of potential issues.
+These are issues of missing fonts, missing images and text too long to fit in the frame.
+These issues are hard to detect otherwise.
+
+- [0014597: Script command to get preflight errors or warnings](https://bugs.scribus.net/view.php?id=14597)
+
+Once this is available it can be included in the build process to spot issues earlier and easier.
+
 ### More control over word breaks
 
 Some texts should be treated as a phrase which ideally isn't split across lines.
@@ -89,3 +99,38 @@ The right-to-left ODT output is not working.
 Not even if text direction is set explicitly.
 
 - [ODT output RTL doesn't work #11301](https://github.com/jgm/pandoc/issues/11301)
+
+## Weblate
+
+- [Weblate issue tracker](https://github.com/WeblateOrg/weblate/issues)
+
+### Extract Weblate flags from gettext comments
+
+Weblate can load configurations from each translation entry, but cannot import it from the comment.
+Itstool places information from the source Docbook file into the comments, so the comments section is the place where the configuration resides.
+If this feature in place, the manual Weblate configuration can be abolished in favor of a configuration that is derived from the source file.
+
+- [Support flags in gettext description for ITS toolchain #14722](https://github.com/WeblateOrg/weblate/issues/14722)
+- [Support Weblate Flags in Gettext Files via Extracted Comments #11655](https://github.com/WeblateOrg/weblate/issues/11655)
+
+## Itstool
+
+- [Itstool issue tracker](https://github.com/itstool/itstool/issues)
+
+### No active maintainer
+
+Itstool has not active maintainer.
+Different improvement proposals are still awaiting a review and merge.
+
+- [ITS Tool project maintenance 🛠️ #53](https://github.com/itstool/itstool/issues/53)
+
+## Libxslt
+
+- [Libxslt issue tracker](https://gitlab.gnome.org/GNOME/libxslt/-/issues)
+
+### XSLT 2.0 or 3.0 are not supported
+
+Libxslt implements XSLT 1.0 with some extensions.
+Newer versions XSLT 2.0 and 3.0 have additional processing features that can help make the code more compact.
+
+- [Support for XLST 2.0 and XSLT 3.0](https://gitlab.gnome.org/GNOME/libxslt/-/issues/153)
