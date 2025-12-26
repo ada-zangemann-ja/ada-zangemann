@@ -44,13 +44,14 @@ ada-spine-ttb := $(addprefix build/,$(subst .btt.,.ttb.,$(wildcard images/illust
 build/images/illustrations/all: build/images/illustrations $(ada-p40s) $(ada-p41s) $(ada-spine-btt) $(ada-spine-ttb)
 
 # Update split .po files when .pot strings get updated due to source changes, with po/Ada_Zangemann.pot as intermediary file
+# POT-Creation-Date line is removed to prevent unnecessary changes detected by git
 po/text/Ada_Zangemann.pot: Ada_Zangemann.dbk
 	itstool -n -o po/Ada_Zangemann.pot Ada_Zangemann.dbk
-	msggrep --invert-match --msgid -e '^images/' --extracted-comment -e 'info/biblioid' --no-wrap -o $@ po/Ada_Zangemann.pot
+	msggrep --invert-match --msgid -e '^images/' --extracted-comment -e 'info/biblioid' --no-wrap -o - po/Ada_Zangemann.pot | sed '/^"POT-Creation-Date:/d' > $@
 
 po/editorial/Ada_Zangemann.pot: Ada_Zangemann.dbk
 	itstool -n -o po/Ada_Zangemann.pot Ada_Zangemann.dbk
-	msggrep --msgid -e '^images/' --extracted-comment -e 'info/biblioid' --no-wrap -o $@ po/Ada_Zangemann.pot
+	msggrep --msgid -e '^images/' --extracted-comment -e 'info/biblioid' --no-wrap -o - po/Ada_Zangemann.pot | sed '/^"POT-Creation-Date:/d' > $@
 
 # TODO: migrate existing translations with:
 # msggrep --invert-match --msgid -e '^images/' --extracted-comment -e 'info/biblioid' --no-wrap -o po/text/nl.po po/nl.po
