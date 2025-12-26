@@ -394,6 +394,12 @@ targets-all-po-text = $(addprefix po/text/,$(addsuffix .po,$(translations)))
 targets-all-po-editorial = $(addprefix po/editorial/,$(addsuffix .po,$(translations)))
 targets-all-po = $(targets-all-po-text) $(targets-all-po-editorial)
 
+# Release into separate folder, intended for public sharing
+.PHONY: release
+release: $(patsubst %.pdf,%.mediumres.pdf,$(targets-screen)) $(targets-pandoc-text-only-odt) $(targets-pandoc-text-only-md)
+	mkdir -p build/release
+	cp $^ build/release/
+
 .PHONY: update
 update: po/Ada_Zangemann.pot $(targets-all-po)
 
