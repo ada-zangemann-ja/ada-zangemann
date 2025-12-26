@@ -1,11 +1,15 @@
 <!--
-SPDX-FileCopyrightText: 2024 Nico Rikken <nico.rikken@fsfe.org>
+SPDX-FileCopyrightText: 2024-2025 Nico Rikken <nico.rikken@fsfe.org>
 SPDX-FileCopyrightText: 2024 Miroslav Suchý <msuchy@redhat.com>
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 -->
 
 # Scripts
+
+**Deprecation notice:** most of the scripts in this directory should no longer
+be run individually. They are integrated in the build automation. The
+[building documentation](../docs/building.md) describes how to use it.
 
 This directory contains scripts to automatically generate book variants based on
 templates and the translated text. It also contains a Makefile to easily run
