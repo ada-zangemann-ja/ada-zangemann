@@ -16,7 +16,7 @@ The texture strength difference changes the amount of see-through speckles.
 
 ![](../illustrations/en/ada-p40-41-en.png)
 
-Use Krita, with `p40-p41-rgb.kra` file.
+Use Krita, with `p40-p41-rgb.ltr.kra` file in the [illustrations/source directory](../illustrations/source/).
 
 ### They are young + need the code
 
