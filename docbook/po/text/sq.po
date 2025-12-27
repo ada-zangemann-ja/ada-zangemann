@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2025-12-26 05:35+0000\n"
-"Last-Translator: Erik <erik.ds@fsfe.org>\n"
+"PO-Revision-Date: 2025-12-27 05:37+0000\n"
+"Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
 "Language-Team: Albanian <https://hosted.weblate.org/projects/fsfe/ada-zangemann/sq/>\n"
 "Language: sq\n"
 "MIME-Version: 1.0\n"
@@ -229,7 +229,7 @@ msgstr ""
 #.
 #. In a literallayout element all space and newline characters are kept.
 #: Ada_Zangemann.dbk:372
-#, fuzzy, no-wrap
+#, no-wrap
 msgid ""
 "Copyright © 2023 Matthias Kirschner and Sandra Brandstätter.\n"
 "This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.\n"
@@ -253,7 +253,7 @@ msgstr ""
 "This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.\n"
 "To view a copy of this license, visit <link xlink:href=\"https://creativecommons.org/licenses/by-sa/4.0/\">https://creativecommons.org/licenses/by-sa/4.0/</link> or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.\n"
 "\n"
-"<emphasis role=\"bold\">Ada &amp; Zangemann: A Tale of Software, Skateboards, and Raspberry Ice Cream</emphasis> is a translation of the French version, Ada et Zangemann, published by C&F éditions in 2023 by Matthias Kirschner and Sandra Brandstätter, which itself is a translation of the German original, Ada und Zangemann: Ein Märchen über Software, Skateboards und Himbeereis, published by Dpunkt.verlag in cooperation with O’Reilly Media, Inc., under the imprint “O’REILLY,” © 2022 by Matthias Kirschner and Sandra Brandstätter.\n"
+"<emphasis role=\"bold\">Ada &amp; Zangemann: A Tale of Software, Skateboards, and Raspberry Ice Cream</emphasis> is a translation of the French version, Ada et Zangemann, published by C&amp;F éditions in 2023 by Matthias Kirschner and Sandra Brandstätter, which itself is a translation of the German original, Ada und Zangemann: Ein Märchen über Software, Skateboards und Himbeereis, published by Dpunkt.verlag in cooperation with O’Reilly Media, Inc., under the imprint “O’REILLY,” © 2022 by Matthias Kirschner and Sandra Brandstätter.\n"
 "\n"
 "This book by Matthias Kirschner (author) and Sandra Brandstätter (illustrator) is licensed under <emphasis role=\"bold\">Creative Commons CC-BY-SA</emphasis>, a free cultural license.\n"
 "\n"
