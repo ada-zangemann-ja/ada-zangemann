@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2025-12-24 14:02+0000\n"
+"PO-Revision-Date: 2025-12-26 05:35+0000\n"
 "Last-Translator: Erik <erik.ds@fsfe.org>\n"
 "Language-Team: Albanian <https://hosted.weblate.org/projects/fsfe/ada-zangemann/sq/>\n"
 "Language: sq\n"
@@ -14,7 +14,6 @@ msgstr ""
 "X-Generator: Weblate 5.15.1\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
-#, fuzzy
 msgctxt "_"
 msgid "translator-credits"
 msgstr ""
@@ -44,7 +43,14 @@ msgstr ""
 "Emir, Shkolla Oso Kuka (Shkodër), 2025\n"
 "Megi, Shkolla Oso Kuka (Shkodër), 2025\n"
 "Romesa, Shkolla Oso Kuka (Shkodër), 2025\n"
-"Sejda, Shkolla Oso Kuka (Shkodër), 2025"
+"Sejda, Shkolla Oso Kuka (Shkodër), 2025\n"
+"Esli, Shkolla Asim Vokshi (Tirana), 2025\n"
+"Rovena, Shkolla Asim Vokshi (Tirana), 2025\n"
+"Ajlin, Shkolla Asim Vokshi (Tirana), 2025\n"
+"Danai, Shkolla Asim Vokshi (Tirana), 2025\n"
+"Tea, Shkolla Asim Vokshi (Tirana), 2025\n"
+"Flavia, Shkolla Asim Vokshi (Tirana), 2025\n"
+"Ami, Shkolla Asim Vokshi (Tirana), 2025"
 
 #. (itstool) path: info/title
 #. (itstool) path: cover/bridgehead
@@ -223,7 +229,7 @@ msgstr ""
 #.
 #. In a literallayout element all space and newline characters are kept.
 #: Ada_Zangemann.dbk:372
-#, no-wrap
+#, fuzzy, no-wrap
 msgid ""
 "Copyright © 2023 Matthias Kirschner and Sandra Brandstätter.\n"
 "This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.\n"
@@ -243,6 +249,23 @@ msgid ""
 "\n"
 "<emphasis role=\"bold\">A big thank you</emphasis> to <emphasis role=\"bold\">dpunkt.verlag</emphasis> and <emphasis role=\"bold\">No Starch Press</emphasis> for understanding the values of software freedom, taking the time to discuss and understand the advantages of free cultural licenses, and the great support to publish this book under conditions that respect the FSFE’s values."
 msgstr ""
+"Copyright © 2023 Matthias Kirschner and Sandra Brandstätter.\n"
+"This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.\n"
+"To view a copy of this license, visit <link xlink:href=\"https://creativecommons.org/licenses/by-sa/4.0/\">https://creativecommons.org/licenses/by-sa/4.0/</link> or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.\n"
+"\n"
+"<emphasis role=\"bold\">Ada &amp; Zangemann: A Tale of Software, Skateboards, and Raspberry Ice Cream</emphasis> is a translation of the French version, Ada et Zangemann, published by C&F éditions in 2023 by Matthias Kirschner and Sandra Brandstätter, which itself is a translation of the German original, Ada und Zangemann: Ein Märchen über Software, Skateboards und Himbeereis, published by Dpunkt.verlag in cooperation with O’Reilly Media, Inc., under the imprint “O’REILLY,” © 2022 by Matthias Kirschner and Sandra Brandstätter.\n"
+"\n"
+"This book by Matthias Kirschner (author) and Sandra Brandstätter (illustrator) is licensed under <emphasis role=\"bold\">Creative Commons CC-BY-SA</emphasis>, a free cultural license.\n"
+"\n"
+"<emphasis role=\"bold\">You may</emphasis> share, copy, and redistribute the material in any medium or format. <emphasis role=\"bold\">You may</emphasis> adapt, remix, transform, and build upon the material for any purpose, even commercially. <emphasis role=\"bold\">You must</emphasis> give appropriate credit, provide a link to the license, and indicate if changes were made.\n"
+"\n"
+"<emphasis role=\"bold\">You may</emphasis> do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. If you remix, transform, or build upon the material, <emphasis role=\"bold\">you must</emphasis> distribute your contributions under the same license as the original. (This is a human-readable summary of - and not a substitute for - the “legal code” of CC-BY-SA 4.0.)\n"
+"\n"
+"Furthermore for remix versions (derivative works), the licensor asks you not to make any modifications of the author’s personal acknowledgments and the author’s and illustrator’s short biographies, instead please completely remove those parts from your remix version.\n"
+"\n"
+"Publication under this free cultural license was possible due to the great support by dpunkt.verlag GmbH / O’Reilly Media, Inc. for the German book and No Starch Press for the English book. Unfortunately, Creative Commons licenses are still rare exceptions for commercially published books, and often considered revolutionary and risky by publishers.\n"
+"\n"
+"<emphasis role=\"bold\">A big thank you</emphasis> to <emphasis role=\"bold\">dpunkt.verlag</emphasis> and <emphasis role=\"bold\">No Starch Press</emphasis> for understanding the values of software freedom, taking the time to discuss and understand the advantages of free cultural licenses, and the great support to publish this book under conditions that respect the FSFE’s values."
 
 #. (itstool) path: simplesect/literallayout
 #. Full page colophon. Intended for print use, as an alternative to the
