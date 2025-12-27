@@ -7,6 +7,7 @@ SPDX-License-Identifier: CC-BY-SA-3.0-DE
 # Ada & Zangemann - A Tale of Software, Skateboards and Raspberry Ice Cream
 
 [![REUSE status](https://api.reuse.software/badge/git.fsfe.org/fsfe/ada-zangemann)](https://api.reuse.software/info/git.fsfe.org/fsfe/ada-zangemann)
+[![Translation status](https://hosted.weblate.org/widget/fsfe/ada-zangemann/language-badge.svg?threshold=0)](https://hosted.weblate.org/projects/fsfe/ada-zangemann/)
 
 [![Translation status](https://hosted.weblate.org/widget/fsfe/ada-zangemann/multi-auto.svg)](https://hosted.weblate.org/projects/fsfe/ada-zangemann/)
 
