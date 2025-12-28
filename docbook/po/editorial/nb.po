@@ -12,13 +12,13 @@ msgstr ""
 
 #. (itstool) path: info/biblioid
 #. ISBN of print edition
-#: Ada_Zangemann.dbk:264
+#: Ada_Zangemann.dbk:266
 msgid "978-1-7185-0318-2"
 msgstr "978-82-93828-24-2"
 
 #. (itstool) path: info/biblioid
 #. ISBN of ebook edition
-#: Ada_Zangemann.dbk:265
+#: Ada_Zangemann.dbk:267
 msgid "978-1-7185-0319-9"
 msgstr "978-82-93828-25-9"
 
@@ -29,7 +29,7 @@ msgstr "978-82-93828-25-9"
 #. right-to-left' or a specific language. Many files are defined in
 #. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
 #. but some variants are generated in the automation.
-#: Ada_Zangemann.dbk:311
+#: Ada_Zangemann.dbk:313
 msgid "images/illustrations/ada-a01.en.png"
 msgstr ""
 
@@ -40,7 +40,7 @@ msgstr ""
 #. right-to-left' or a specific language. Many files are defined in
 #. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
 #. but some variants are generated in the automation.
-#: Ada_Zangemann.dbk:314
+#: Ada_Zangemann.dbk:316
 msgid "images/illustrations/ada-a01-nosubtitle.ltr.png"
 msgstr "images/illustrations/ada-a01-nosubtitle-fsfe.nb.png"
 
@@ -51,7 +51,7 @@ msgstr "images/illustrations/ada-a01-nosubtitle-fsfe.nb.png"
 #. right-to-left' or a specific language. Many files are defined in
 #. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
 #. but some variants are generated in the automation.
-#: Ada_Zangemann.dbk:327 Ada_Zangemann.dbk:338
+#: Ada_Zangemann.dbk:329 Ada_Zangemann.dbk:340
 msgid "images/illustrations/ada-z04.ltr.png"
 msgstr ""
 
@@ -59,7 +59,7 @@ msgstr ""
 #. (itstool) comment: simplesect/para@dropcapfileref
 #. File for the capital image, depending on the capital letter and the
 #. required color. Can be postponed to the publishing process. priority:70
-#: Ada_Zangemann.dbk:332
+#: Ada_Zangemann.dbk:334
 msgid "images/capitals/T-yellow2.png"
 msgstr ""
 
@@ -70,7 +70,7 @@ msgstr ""
 #. right-to-left' or a specific language. Many files are defined in
 #. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
 #. but some variants are generated in the automation.
-#: Ada_Zangemann.dbk:347
+#: Ada_Zangemann.dbk:349
 msgid "images/illustrations/ada-a01-spine.ltr.btt.png"
 msgstr "images/illustrations/ada-a01-spine-lines.png"
 
@@ -81,7 +81,7 @@ msgstr "images/illustrations/ada-a01-spine-lines.png"
 #. right-to-left' or a specific language. Many files are defined in
 #. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
 #. but some variants are generated in the automation.
-#: Ada_Zangemann.dbk:360
+#: Ada_Zangemann.dbk:362
 msgid "images/illustrations/ada-p01-titleonly.ltr.png"
 msgstr ""
 
@@ -92,7 +92,7 @@ msgstr ""
 #. right-to-left' or a specific language. Many files are defined in
 #. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
 #. but some variants are generated in the automation.
-#: Ada_Zangemann.dbk:464
+#: Ada_Zangemann.dbk:466
 msgid "images/illustrations/ada-p03-author.ltr.png"
 msgstr ""
 
@@ -103,7 +103,7 @@ msgstr ""
 #. right-to-left' or a specific language. Many files are defined in
 #. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
 #. but some variants are generated in the automation.
-#: Ada_Zangemann.dbk:471
+#: Ada_Zangemann.dbk:473
 msgid "images/illustrations/ada-p03-title.en.png"
 msgstr ""
 
@@ -114,7 +114,7 @@ msgstr ""
 #. right-to-left' or a specific language. Many files are defined in
 #. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
 #. but some variants are generated in the automation.
-#: Ada_Zangemann.dbk:474
+#: Ada_Zangemann.dbk:476
 msgid "images/illustrations/ada-p03-titleonly.ltr.png"
 msgstr "images/illustrations/ada-p03-titleonly.nb.png"
 
@@ -125,7 +125,7 @@ msgstr "images/illustrations/ada-p03-titleonly.nb.png"
 #. right-to-left' or a specific language. Many files are defined in
 #. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
 #. but some variants are generated in the automation.
-#: Ada_Zangemann.dbk:481
+#: Ada_Zangemann.dbk:483
 msgid "images/illustrations/ada-p03-dog.ltr.png"
 msgstr ""
 
@@ -133,7 +133,7 @@ msgstr ""
 #. (itstool) comment: simplesect/para@dropcapfileref
 #. File for the capital image, depending on the capital letter and the
 #. required color. Can be postponed to the publishing process. priority:70
-#: Ada_Zangemann.dbk:500
+#: Ada_Zangemann.dbk:502
 msgid "images/capitals/O-cyan.png"
 msgstr ""
 
@@ -144,7 +144,7 @@ msgstr ""
 #. right-to-left' or a specific language. Many files are defined in
 #. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
 #. but some variants are generated in the automation.
-#: Ada_Zangemann.dbk:506
+#: Ada_Zangemann.dbk:508
 msgid "images/illustrations/ada-p04.ltr.png"
 msgstr ""
 
@@ -155,7 +155,7 @@ msgstr ""
 #. right-to-left' or a specific language. Many files are defined in
 #. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
 #. but some variants are generated in the automation.
-#: Ada_Zangemann.dbk:514
+#: Ada_Zangemann.dbk:516
 msgid "images/illustrations/ada-p05.ltr.png"
 msgstr ""
 
@@ -163,7 +163,7 @@ msgstr ""
 #. (itstool) comment: simplesect/para@dropcapfileref
 #. File for the capital image, depending on the capital letter and the
 #. required color. Can be postponed to the publishing process. priority:70
-#: Ada_Zangemann.dbk:527
+#: Ada_Zangemann.dbk:529
 msgid "images/capitals/C-red1.png"
 msgstr ""
 
@@ -174,7 +174,7 @@ msgstr ""
 #. right-to-left' or a specific language. Many files are defined in
 #. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
 #. but some variants are generated in the automation.
-#: Ada_Zangemann.dbk:533
+#: Ada_Zangemann.dbk:535
 msgid "images/illustrations/ada-p07.ltr.png"
 msgstr ""
 
@@ -185,7 +185,7 @@ msgstr ""
 #. right-to-left' or a specific language. Many files are defined in
 #. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
 #. but some variants are generated in the automation.
-#: Ada_Zangemann.dbk:543
+#: Ada_Zangemann.dbk:545
 msgid "images/illustrations/ada-p08b.ltr.png"
 msgstr ""
 
@@ -196,7 +196,7 @@ msgstr ""
 #. right-to-left' or a specific language. Many files are defined in
 #. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
 #. but some variants are generated in the automation.
-#: Ada_Zangemann.dbk:550
+#: Ada_Zangemann.dbk:552
 msgid "images/illustrations/ada-p08a.ltr.png"
 msgstr ""
 
@@ -207,7 +207,7 @@ msgstr ""
 #. right-to-left' or a specific language. Many files are defined in
 #. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
 #. but some variants are generated in the automation.
-#: Ada_Zangemann.dbk:558
+#: Ada_Zangemann.dbk:560
 msgid "images/illustrations/ada-p09.ltr.png"
 msgstr ""
 
@@ -218,7 +218,7 @@ msgstr ""
 #. right-to-left' or a specific language. Many files are defined in
 #. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
 #. but some variants are generated in the automation.
-#: Ada_Zangemann.dbk:573
+#: Ada_Zangemann.dbk:575
 msgid "images/illustrations/ada-p10.ltr.png"
 msgstr ""
 
@@ -229,7 +229,7 @@ msgstr ""
 #. right-to-left' or a specific language. Many files are defined in
 #. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
 #. but some variants are generated in the automation.
-#: Ada_Zangemann.dbk:582
+#: Ada_Zangemann.dbk:584
 msgid "images/illustrations/ada-p11.ltr.png"
 msgstr ""
 
@@ -240,7 +240,7 @@ msgstr ""
 #. right-to-left' or a specific language. Many files are defined in
 #. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
 #. but some variants are generated in the automation.
-#: Ada_Zangemann.dbk:592
+#: Ada_Zangemann.dbk:594
 msgid "images/illustrations/ada-p12.ltr.png"
 msgstr ""
 
@@ -251,7 +251,7 @@ msgstr ""
 #. right-to-left' or a specific language. Many files are defined in
 #. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
 #. but some variants are generated in the automation.
-#: Ada_Zangemann.dbk:607
+#: Ada_Zangemann.dbk:609
 msgid "images/illustrations/ada-p13.ltr.png"
 msgstr ""
 
@@ -262,7 +262,7 @@ msgstr ""
 #. right-to-left' or a specific language. Many files are defined in
 #. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
 #. but some variants are generated in the automation.
-#: Ada_Zangemann.dbk:618
+#: Ada_Zangemann.dbk:620
 msgid "images/illustrations/ada-p14.ltr.png"
 msgstr ""
 
@@ -273,7 +273,7 @@ msgstr ""
 #. right-to-left' or a specific language. Many files are defined in
 #. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
 #. but some variants are generated in the automation.
-#: Ada_Zangemann.dbk:628
+#: Ada_Zangemann.dbk:630
 msgid "images/illustrations/ada-p15.ltr.png"
 msgstr ""
 
@@ -284,7 +284,7 @@ msgstr ""
 #. right-to-left' or a specific language. Many files are defined in
 #. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
 #. but some variants are generated in the automation.
-#: Ada_Zangemann.dbk:638
+#: Ada_Zangemann.dbk:640
 msgid "images/illustrations/ada-p16.ltr.png"
 msgstr ""
 
@@ -295,7 +295,7 @@ msgstr ""
 #. right-to-left' or a specific language. Many files are defined in
 #. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
 #. but some variants are generated in the automation.
-#: Ada_Zangemann.dbk:646
+#: Ada_Zangemann.dbk:648
 msgid "images/illustrations/ada-p17.ltr.png"
 msgstr ""
 
@@ -303,7 +303,7 @@ msgstr ""
 #. (itstool) comment: simplesect/para@dropcapfileref
 #. File for the capital image, depending on the capital letter and the
 #. required color. Can be postponed to the publishing process. priority:70
-#: Ada_Zangemann.dbk:658
+#: Ada_Zangemann.dbk:660
 msgid "images/capitals/T-olive.png"
 msgstr ""
 
@@ -314,7 +314,7 @@ msgstr ""
 #. right-to-left' or a specific language. Many files are defined in
 #. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
 #. but some variants are generated in the automation.
-#: Ada_Zangemann.dbk:661
+#: Ada_Zangemann.dbk:663
 msgid "images/illustrations/ada-p18.ltr.png"
 msgstr ""
 
@@ -325,7 +325,7 @@ msgstr ""
 #. right-to-left' or a specific language. Many files are defined in
 #. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
 #. but some variants are generated in the automation.
-#: Ada_Zangemann.dbk:670
+#: Ada_Zangemann.dbk:672
 msgid "images/illustrations/ada-p19.ltr.png"
 msgstr ""
 
@@ -333,7 +333,7 @@ msgstr ""
 #. (itstool) comment: simplesect/para@dropcapfileref
 #. File for the capital image, depending on the capital letter and the
 #. required color. Can be postponed to the publishing process. priority:70
-#: Ada_Zangemann.dbk:684
+#: Ada_Zangemann.dbk:686
 msgid "images/capitals/A-fucsia.png"
 msgstr ""
 
@@ -344,7 +344,7 @@ msgstr ""
 #. right-to-left' or a specific language. Many files are defined in
 #. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
 #. but some variants are generated in the automation.
-#: Ada_Zangemann.dbk:691
+#: Ada_Zangemann.dbk:693
 msgid "images/illustrations/ada-p21.ltr.png"
 msgstr ""
 
@@ -352,7 +352,7 @@ msgstr ""
 #. (itstool) comment: simplesect/para@dropcapfileref
 #. File for the capital image, depending on the capital letter and the
 #. required color. Can be postponed to the publishing process. priority:70
-#: Ada_Zangemann.dbk:703
+#: Ada_Zangemann.dbk:705
 msgid "images/capitals/O-lightcyan.png"
 msgstr ""
 
@@ -363,7 +363,7 @@ msgstr ""
 #. right-to-left' or a specific language. Many files are defined in
 #. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
 #. but some variants are generated in the automation.
-#: Ada_Zangemann.dbk:711
+#: Ada_Zangemann.dbk:713
 msgid "images/illustrations/ada-p23.ltr.png"
 msgstr ""
 
@@ -374,7 +374,7 @@ msgstr ""
 #. right-to-left' or a specific language. Many files are defined in
 #. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
 #. but some variants are generated in the automation.
-#: Ada_Zangemann.dbk:720
+#: Ada_Zangemann.dbk:722
 msgid "images/illustrations/ada-p24.ltr.png"
 msgstr ""
 
@@ -382,7 +382,7 @@ msgstr ""
 #. (itstool) comment: simplesect/para@dropcapfileref
 #. File for the capital image, depending on the capital letter and the
 #. required color. Can be postponed to the publishing process. priority:70
-#: Ada_Zangemann.dbk:732
+#: Ada_Zangemann.dbk:734
 msgid "images/capitals/Z-brown.png"
 msgstr ""
 
@@ -390,7 +390,7 @@ msgstr ""
 #. (itstool) comment: simplesect/para@dropcapfileref
 #. File for the capital image, depending on the capital letter and the
 #. required color. Can be postponed to the publishing process. priority:70
-#: Ada_Zangemann.dbk:743
+#: Ada_Zangemann.dbk:745
 msgid "images/capitals/S-red2.png"
 msgstr ""
 
@@ -401,7 +401,7 @@ msgstr ""
 #. right-to-left' or a specific language. Many files are defined in
 #. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
 #. but some variants are generated in the automation.
-#: Ada_Zangemann.dbk:752
+#: Ada_Zangemann.dbk:754
 msgid "images/illustrations/ada-p27.ltr.png"
 msgstr ""
 
@@ -412,7 +412,7 @@ msgstr ""
 #. right-to-left' or a specific language. Many files are defined in
 #. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
 #. but some variants are generated in the automation.
-#: Ada_Zangemann.dbk:763
+#: Ada_Zangemann.dbk:765
 msgid "images/illustrations/ada-p28.ltr.png"
 msgstr ""
 
@@ -423,7 +423,7 @@ msgstr ""
 #. right-to-left' or a specific language. Many files are defined in
 #. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
 #. but some variants are generated in the automation.
-#: Ada_Zangemann.dbk:773
+#: Ada_Zangemann.dbk:775
 msgid "images/illustrations/ada-p29.ltr.png"
 msgstr ""
 
@@ -431,7 +431,7 @@ msgstr ""
 #. (itstool) comment: simplesect/para@dropcapfileref
 #. File for the capital image, depending on the capital letter and the
 #. required color. Can be postponed to the publishing process. priority:70
-#: Ada_Zangemann.dbk:785
+#: Ada_Zangemann.dbk:787
 msgid "images/capitals/M-yellow.png"
 msgstr ""
 
@@ -442,7 +442,7 @@ msgstr ""
 #. right-to-left' or a specific language. Many files are defined in
 #. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
 #. but some variants are generated in the automation.
-#: Ada_Zangemann.dbk:790
+#: Ada_Zangemann.dbk:792
 msgid "images/illustrations/ada-p30.ltr.png"
 msgstr ""
 
@@ -453,7 +453,7 @@ msgstr ""
 #. right-to-left' or a specific language. Many files are defined in
 #. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
 #. but some variants are generated in the automation.
-#: Ada_Zangemann.dbk:801
+#: Ada_Zangemann.dbk:803
 msgid "images/illustrations/ada-p31.ltr.png"
 msgstr ""
 
@@ -464,7 +464,7 @@ msgstr ""
 #. right-to-left' or a specific language. Many files are defined in
 #. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
 #. but some variants are generated in the automation.
-#: Ada_Zangemann.dbk:809
+#: Ada_Zangemann.dbk:811
 msgid "images/illustrations/ada-p32.ltr.png"
 msgstr ""
 
@@ -475,7 +475,7 @@ msgstr ""
 #. right-to-left' or a specific language. Many files are defined in
 #. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
 #. but some variants are generated in the automation.
-#: Ada_Zangemann.dbk:817
+#: Ada_Zangemann.dbk:819
 msgid "images/illustrations/ada-p33.ltr.png"
 msgstr ""
 
@@ -486,7 +486,7 @@ msgstr ""
 #. right-to-left' or a specific language. Many files are defined in
 #. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
 #. but some variants are generated in the automation.
-#: Ada_Zangemann.dbk:825
+#: Ada_Zangemann.dbk:827
 msgid "images/illustrations/ada-p34.ltr.png"
 msgstr ""
 
@@ -497,7 +497,7 @@ msgstr ""
 #. right-to-left' or a specific language. Many files are defined in
 #. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
 #. but some variants are generated in the automation.
-#: Ada_Zangemann.dbk:831
+#: Ada_Zangemann.dbk:833
 msgid "images/illustrations/ada-p34-bottom.ltr.png"
 msgstr ""
 
@@ -505,7 +505,7 @@ msgstr ""
 #. (itstool) comment: simplesect/para@dropcapfileref
 #. File for the capital image, depending on the capital letter and the
 #. required color. Can be postponed to the publishing process. priority:70
-#: Ada_Zangemann.dbk:838
+#: Ada_Zangemann.dbk:840
 msgid "images/capitals/E-pink.png"
 msgstr ""
 
@@ -513,7 +513,7 @@ msgstr ""
 #. (itstool) comment: simplesect/para@dropcapfileref
 #. File for the capital image, depending on the capital letter and the
 #. required color. Can be postponed to the publishing process. priority:70
-#: Ada_Zangemann.dbk:849
+#: Ada_Zangemann.dbk:851
 msgid "images/capitals/O-green.png"
 msgstr ""
 
@@ -524,7 +524,7 @@ msgstr ""
 #. right-to-left' or a specific language. Many files are defined in
 #. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
 #. but some variants are generated in the automation.
-#: Ada_Zangemann.dbk:856
+#: Ada_Zangemann.dbk:858
 msgid "images/illustrations/ada-p37.ltr.png"
 msgstr ""
 
@@ -535,7 +535,7 @@ msgstr ""
 #. right-to-left' or a specific language. Many files are defined in
 #. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
 #. but some variants are generated in the automation.
-#: Ada_Zangemann.dbk:867
+#: Ada_Zangemann.dbk:869
 msgid "images/illustrations/ada-p38.ltr.png"
 msgstr ""
 
@@ -543,7 +543,7 @@ msgstr ""
 #. (itstool) comment: simplesect/para@dropcapfileref
 #. File for the capital image, depending on the capital letter and the
 #. required color. Can be postponed to the publishing process. priority:70
-#: Ada_Zangemann.dbk:880
+#: Ada_Zangemann.dbk:882
 msgid "images/capitals/T-cyan.png"
 msgstr ""
 
@@ -554,7 +554,7 @@ msgstr ""
 #. right-to-left' or a specific language. Many files are defined in
 #. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
 #. but some variants are generated in the automation.
-#: Ada_Zangemann.dbk:884
+#: Ada_Zangemann.dbk:886
 msgid "images/illustrations/ada-p39.ltr.png"
 msgstr ""
 
@@ -565,7 +565,7 @@ msgstr ""
 #. right-to-left' or a specific language. Many files are defined in
 #. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
 #. but some variants are generated in the automation.
-#: Ada_Zangemann.dbk:893
+#: Ada_Zangemann.dbk:895
 msgid "images/illustrations/ada-p40-41.en.png"
 msgstr "images/illustrations/ada-p40-41.nb.png"
 
@@ -576,7 +576,7 @@ msgstr "images/illustrations/ada-p40-41.nb.png"
 #. right-to-left' or a specific language. Many files are defined in
 #. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
 #. but some variants are generated in the automation.
-#: Ada_Zangemann.dbk:904
+#: Ada_Zangemann.dbk:906
 msgid "images/illustrations/ada-p40.en.png"
 msgstr "images/illustrations/ada-p40.nb.png"
 
@@ -587,7 +587,7 @@ msgstr "images/illustrations/ada-p40.nb.png"
 #. right-to-left' or a specific language. Many files are defined in
 #. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
 #. but some variants are generated in the automation.
-#: Ada_Zangemann.dbk:910
+#: Ada_Zangemann.dbk:912
 msgid "images/illustrations/ada-p41.en.png"
 msgstr "images/illustrations/ada-p41.nb.png"
 
@@ -595,7 +595,7 @@ msgstr "images/illustrations/ada-p41.nb.png"
 #. (itstool) comment: simplesect/para@dropcapfileref
 #. File for the capital image, depending on the capital letter and the
 #. required color. Can be postponed to the publishing process. priority:70
-#: Ada_Zangemann.dbk:925
+#: Ada_Zangemann.dbk:927
 msgid "images/capitals/A-violet.png"
 msgstr ""
 
@@ -606,7 +606,7 @@ msgstr ""
 #. right-to-left' or a specific language. Many files are defined in
 #. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
 #. but some variants are generated in the automation.
-#: Ada_Zangemann.dbk:930
+#: Ada_Zangemann.dbk:932
 msgid "images/illustrations/ada-p42.ltr.png"
 msgstr ""
 
@@ -617,7 +617,7 @@ msgstr ""
 #. right-to-left' or a specific language. Many files are defined in
 #. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
 #. but some variants are generated in the automation.
-#: Ada_Zangemann.dbk:941
+#: Ada_Zangemann.dbk:943
 msgid "images/illustrations/ada-p43.ltr.png"
 msgstr ""
 
@@ -625,7 +625,7 @@ msgstr ""
 #. (itstool) comment: simplesect/para@dropcapfileref
 #. File for the capital image, depending on the capital letter and the
 #. required color. Can be postponed to the publishing process. priority:70
-#: Ada_Zangemann.dbk:952
+#: Ada_Zangemann.dbk:954
 msgid "images/capitals/T-red3.png"
 msgstr ""
 
@@ -636,7 +636,7 @@ msgstr ""
 #. right-to-left' or a specific language. Many files are defined in
 #. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
 #. but some variants are generated in the automation.
-#: Ada_Zangemann.dbk:955
+#: Ada_Zangemann.dbk:957
 msgid "images/illustrations/ada-p44.ltr.png"
 msgstr ""
 
@@ -647,7 +647,7 @@ msgstr ""
 #. right-to-left' or a specific language. Many files are defined in
 #. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
 #. but some variants are generated in the automation.
-#: Ada_Zangemann.dbk:968
+#: Ada_Zangemann.dbk:970
 msgid "images/illustrations/ada-p45.ltr.png"
 msgstr ""
 
@@ -658,7 +658,7 @@ msgstr ""
 #. right-to-left' or a specific language. Many files are defined in
 #. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
 #. but some variants are generated in the automation.
-#: Ada_Zangemann.dbk:978
+#: Ada_Zangemann.dbk:980
 msgid "images/illustrations/ada-p46.ltr.png"
 msgstr ""
 
@@ -669,7 +669,7 @@ msgstr ""
 #. right-to-left' or a specific language. Many files are defined in
 #. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
 #. but some variants are generated in the automation.
-#: Ada_Zangemann.dbk:987
+#: Ada_Zangemann.dbk:989
 msgid "images/illustrations/ada-p47.ltr.png"
 msgstr ""
 
@@ -677,7 +677,7 @@ msgstr ""
 #. (itstool) comment: simplesect/para@dropcapfileref
 #. File for the capital image, depending on the capital letter and the
 #. required color. Can be postponed to the publishing process. priority:70
-#: Ada_Zangemann.dbk:999
+#: Ada_Zangemann.dbk:1001
 msgid "images/capitals/A-yellow.png"
 msgstr ""
 
@@ -688,7 +688,7 @@ msgstr ""
 #. right-to-left' or a specific language. Many files are defined in
 #. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
 #. but some variants are generated in the automation.
-#: Ada_Zangemann.dbk:1002
+#: Ada_Zangemann.dbk:1004
 msgid "images/illustrations/ada-p48.ltr.png"
 msgstr ""
 
@@ -699,7 +699,7 @@ msgstr ""
 #. right-to-left' or a specific language. Many files are defined in
 #. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
 #. but some variants are generated in the automation.
-#: Ada_Zangemann.dbk:1011
+#: Ada_Zangemann.dbk:1013
 msgid "images/illustrations/ada-p49.ltr.png"
 msgstr ""
 
@@ -710,7 +710,7 @@ msgstr ""
 #. right-to-left' or a specific language. Many files are defined in
 #. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
 #. but some variants are generated in the automation.
-#: Ada_Zangemann.dbk:1023
+#: Ada_Zangemann.dbk:1025
 msgid "images/illustrations/ada-p50-title.en.png"
 msgstr ""
 
@@ -721,7 +721,7 @@ msgstr ""
 #. right-to-left' or a specific language. Many files are defined in
 #. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
 #. but some variants are generated in the automation.
-#: Ada_Zangemann.dbk:1038
+#: Ada_Zangemann.dbk:1040
 msgid "images/illustrations/ada-p51.ltr.png"
 msgstr ""
 
@@ -732,7 +732,7 @@ msgstr ""
 #. right-to-left' or a specific language. Many files are defined in
 #. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
 #. but some variants are generated in the automation.
-#: Ada_Zangemann.dbk:1052
+#: Ada_Zangemann.dbk:1054
 msgid "images/illustrations/ada-p52-title.en.png"
 msgstr ""
 
@@ -743,7 +743,7 @@ msgstr ""
 #. right-to-left' or a specific language. Many files are defined in
 #. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
 #. but some variants are generated in the automation.
-#: Ada_Zangemann.dbk:1060
+#: Ada_Zangemann.dbk:1062
 msgid "images/illustrations/ada-p52.ltr.png"
 msgstr ""
 
@@ -754,7 +754,7 @@ msgstr ""
 #. right-to-left' or a specific language. Many files are defined in
 #. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
 #. but some variants are generated in the automation.
-#: Ada_Zangemann.dbk:1075
+#: Ada_Zangemann.dbk:1077
 msgid "images/illustrations/ada-p53-title.en.png"
 msgstr ""
 
@@ -765,7 +765,7 @@ msgstr ""
 #. right-to-left' or a specific language. Many files are defined in
 #. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
 #. but some variants are generated in the automation.
-#: Ada_Zangemann.dbk:1083
+#: Ada_Zangemann.dbk:1085
 msgid "images/illustrations/ada-p53.ltr.png"
 msgstr ""
 
@@ -776,7 +776,7 @@ msgstr ""
 #. right-to-left' or a specific language. Many files are defined in
 #. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
 #. but some variants are generated in the automation.
-#: Ada_Zangemann.dbk:1095
+#: Ada_Zangemann.dbk:1097
 msgid "images/illustrations/ada-p54-title.en.png"
 msgstr ""
 
@@ -787,7 +787,7 @@ msgstr ""
 #. right-to-left' or a specific language. Many files are defined in
 #. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
 #. but some variants are generated in the automation.
-#: Ada_Zangemann.dbk:1112
+#: Ada_Zangemann.dbk:1114
 msgid "images/illustrations/ada-p55-title.en.png"
 msgstr ""
 
@@ -798,7 +798,7 @@ msgstr ""
 #. right-to-left' or a specific language. Many files are defined in
 #. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
 #. but some variants are generated in the automation.
-#: Ada_Zangemann.dbk:1125
+#: Ada_Zangemann.dbk:1127
 msgid "images/illustrations/ada-p56.ltr.png"
 msgstr ""
 
@@ -809,6 +809,6 @@ msgstr ""
 #. right-to-left' or a specific language. Many files are defined in
 #. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
 #. but some variants are generated in the automation.
-#: Ada_Zangemann.dbk:1135
+#: Ada_Zangemann.dbk:1137
 msgid "images/illustrations/ada-p57.ltr.png"
 msgstr ""

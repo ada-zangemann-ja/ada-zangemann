@@ -255,12 +255,14 @@ SPDX-License-Identifier: CC-BY-SA-4.0
     <its:locNoteRule xmlns:db="http://docbook.org/ns/docbook" locNoteType="description" selector="//az:charactername">
       <its:locNote>ignore-same</its:locNote>
     </its:locNoteRule>
+    <!-- Split on phrases for translators -->
+    <its:withinTextRule xmlns:db="http://docbook.org/ns/docbook" withinText="no" selector="//db:phrase"/>
 
   </its:rules>
   <!-- Book information and other metadata-like information -->
   <info>
     <title its:locNote="Ampersand character &amp; is escaped for XML source format as &amp;amp;">Ada &amp; Zangemann</title>
-    <subtitle>A Tale of Software, Skateboards, and Raspberry Ice Cream</subtitle>
+    <subtitle><phrase az:movieVoiceTimeCodeIn="00:00:00:11" az:movieVoiceTimeCodeOut="00:00:06:06">A Tale of Software, Skateboards, and Raspberry Ice Cream</phrase></subtitle>
     <biblioid class="isbn" role="print" its:locNote="ISBN of print edition">978-1-7185-0318-2</biblioid>
     <biblioid class="isbn" role="ebook" its:locNote="ISBN of ebook edition">978-1-7185-0319-9</biblioid>
     <!-- Author credit -->
@@ -537,7 +539,7 @@ Raspberry Ice Cream</literallayout>
     </simplesect>
     <simplesect xml:id="sec-p08" az:pagenum="8">
       <anchor az:slidenum="4"/>
-      <para>“Finally, I can turn all my ideas into real things!” Zangemann exclaimed, and he got right to work. He found ways to put the small computers into all kinds of things to make them even more fun and useful. And then he sold them.</para>
+      <para><phrase az:movieVoiceTimeCodeIn="00:02:47:02" az:movieVoiceTimeCodeOut="00:03:02:22">“Finally, I can turn all my ideas into real things!” Zangemann exclaimed, and he got right to work. He found ways to put the small computers into all kinds of things to make them even more fun and useful. And then he sold them.</phrase></para>
       <mediaobject xml:id="img-ada-p08b">
         <imageobject>
           <imagedata fileref="images/illustrations/ada-p08b.ltr.png"/>
@@ -612,7 +614,7 @@ Raspberry Ice Cream</literallayout>
     <simplesect xml:id="sec-p14" az:pagenum="14">
       <para>“Maybe a little trip might even give me a few new ideas. If I’m completely honest, my last inventions weren’t quite as useful as the first ones... ,” Zangemann pondered. “But my ice-cream machines are and will remain second to none,” he thought immediately afterward, and not without pride, as he passed a group of people all eating coconut ice cream, the flavor of the day.</para>
       <anchor az:slidenum="8"/>
-      <para>He was completely absorbed in his thoughts when suddenly — BAM! — something crashed into his shin.</para>
+      <para><phrase az:movieVoiceTimeCodeIn="00:07:57:15" az:movieVoiceTimeCodeOut="00:08:06:11">He was completely absorbed in his thoughts when suddenly — BAM! — something crashed into his shin.</phrase></para>
       <mediaobject xml:id="img-ada-p14">
         <imageobject>
           <imagedata fileref="images/illustrations/ada-p14.ltr.png"/>
@@ -981,7 +983,7 @@ Raspberry Ice Cream</literallayout>
       </mediaobject>
     </simplesect>
     <simplesect xml:id="sec-p47" az:pagenum="47">
-      <para>While the others continued partying late into the night, Ada and her friends slipped away to their workshop. They already had a lot of ideas for new inventions. And they wanted to start right away.</para>
+      <para><phrase az:movieVoiceTimeCodeIn="00:29:56:09" az:movieVoiceTimeCodeOut="00:30:13:01">While the others continued partying late into the night, Ada and her friends slipped away to their workshop. They already had a lot of ideas for new inventions. And they wanted to start right away.</phrase></para>
       <mediaobject xml:id="img-ada-p47">
         <imageobject>
           <imagedata fileref="images/illustrations/ada-p47.ltr.png"/>
