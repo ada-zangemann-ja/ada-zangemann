@@ -29,3 +29,4 @@ SPDX-License-Identifier: CC-BY-SA-4.0
 - [Automation design](automation-design.md)
 - [DocBook](docbook.md)
 - [Upstream issues](upstream-issues.md)
+- [DocBook implementation notes (unstructured)](docbook-implementation.md)
