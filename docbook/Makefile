@@ -59,7 +59,7 @@ po/editorial/Ada_Zangemann.pot: Ada_Zangemann.dbk
 # Update .po file if .pot file has changed. Otherwise don't, but touch it so Make doesn't rebuild it
 po/text/%.po: po/text/Ada_Zangemann.pot
 	if [ ! -e $@ ]; then cp $< $@; fi
-	msgmerge --update $@ $<
+	msgmerge --update --no-wrap $@ $<
 	touch $@
 
 # TODO: migrate existing translations with:
@@ -68,7 +68,7 @@ po/text/%.po: po/text/Ada_Zangemann.pot
 # Update .po file if .pot file has changed. Otherwise don't, but touch it so Make doesn't rebuild it
 po/editorial/%.po: po/editorial/Ada_Zangemann.pot
 	if [ ! -e $@ ]; then cp $< $@; fi
-	msgmerge --update $@ $<
+	msgmerge --update --no-wrap $@ $<
 	touch $@
 
 .PRECIOUS: build/%.po
@@ -401,7 +401,7 @@ release: $(patsubst %.pdf,%.mediumres.pdf,$(targets-screen)) $(targets-pandoc-te
 	cp $^ build/release/
 
 .PHONY: update
-update: po/Ada_Zangemann.pot $(targets-all-po)
+update: po/text/Ada_Zangemann.pot po/editorial/Ada_Zangemann.pot $(targets-all-po)
 
 # Remove build output
 .PHONY: clean
