@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2025-12-28 17:38+0000\n"
+"PO-Revision-Date: 2025-12-29 05:22+0000\n"
 "Last-Translator: Erik <erik.ds@fsfe.org>\n"
 "Language-Team: Albanian <https://hosted.weblate.org/projects/fsfe/ada-zangemann/sq/>\n"
 "Language: sq\n"
@@ -1165,7 +1165,10 @@ msgstr "Falënderimet e autorit"
 #. and encourage you to do that for other books in future as well.
 #: Ada_Zangemann.dbk:1030
 msgid "Many thanks to Reinhard Wiesemann from the Linuxhotel for the financial support and motivation to no longer plan but to make. Thanks to Sandra Brandstätter, who has brought me joy with every new design for the illustrations. Thanks to my editor Wiebke Helmchen, who made developing and sharpening the story fun, and to No Starch Press for agreeing to publish the book under a free culture license."
-msgstr "Një falënderim i madh për Reinhard Wiesemann nga Linuxhotel për mbështetjen e tij financiare dhe për motivimin që na dha të veprojmë në vend që të planifikojmë gjithmonë. Faleminderit Sandra Brandstätter për gëzimin që më solli secila nga skicat e saj. Faleminderit për rilexuesen Wiebke Helmchen, me të cilën pata shumë kënaqësi në zhvillimin dhe përpunimin e kësaj historie, dhe Ariane Hesse për mbështetjen e saj të jashtëzakonshme tek botuesi."
+msgstr ""
+"Coordinated by LibreLabs, a non-formal Albanian community defending digital civil liberties, this project adapts and continues in Albania the educational translation experiment first carried out by students in France. Thanks to the French Embassy in Tirana, especially Amélie Lombardini and Kleopatra Koleka, and Alexis Kauffman from the French Ministry of Education. Thanks to the voluntary students of the Franco-Albanian sections at Luigj Gurakuqi (Elbasan), Gjergj Katriosti (Durrës), Oso Kuka (Shkodër), and Asim Vokshi (Tirana), along with their coordinating teachers: Anjeza Gjerazi, Valbona Popa, Edvalda Kuçi, Eva Taku, and Lindita Trashani. Thanks to Blerta Hyska for proofreading.\n"
+"\n"
+"Një falënderim i madh për Reinhard Wiesemann nga Linuxhotel për mbështetjen e tij financiare dhe për motivimin që na dha të veprojmë në vend që të planifikojmë gjithmonë. Faleminderit Sandra Brandstätter për gëzimin që më solli secila nga skicat e saj. Faleminderit për rilexuesen Wiebke Helmchen, me të cilën pata shumë kënaqësi në zhvillimin dhe përpunimin e kësaj historie, dhe Ariane Hesse për mbështetjen e saj të jashtëzakonshme tek botuesi."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1031
