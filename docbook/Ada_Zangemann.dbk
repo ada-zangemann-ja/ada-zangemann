@@ -499,7 +499,7 @@ Raspberry Ice Cream</literallayout>
     </info>
     <simplesect xml:id="sec-p04" az:pagenum="4">
       <anchor az:slidenum="2"/>
-      <para xml:id="para-p04-1" az:dropcap="true" az:dropcapcharacter="O" az:dropcapfileref="images/capitals/O-cyan.png" az:dropcapcolor="#5cb2d4" az:dropcapbackgroundcolor="#ffffff" az:dropcapheightpt="50.56" az:dropcapwidthpt="42.72" az:dropcaplocalsc="0.16"  az:dropcapscribuscharstyle="Capital Cyan">Once upon a time, there was a little girl named Ada. Her family was so poor that all their savings fit inside a cookie jar. They didn’t have enough money to live in a proper home. Instead, Ada lived with her mother and her little brother, Alan, in a cabin near a junkyard on the edge of town.</para>
+      <para xml:id="para-p04-1" az:dropcap="true" az:dropcapcharacter="O" az:dropcapfileref="images/capitals/O-cyan.png" az:dropcapcolor="#5cb2d4" az:dropcapbackgroundcolor="#ffffff" az:dropcapheightpt="50.56" az:dropcapwidthpt="42.72" az:dropcaplocalsc="0.16"  az:dropcapscribuscharstyle="Capital Cyan"><phrase az:movieVoiceTimeCodeIn="00:00:09:00" az:movieVoiceTimeCodeOut="00:00:19:00">Once upon a time, there was a little girl named Ada. Her family was so poor that all their savings fit inside a cookie jar.</phrase> <phrase az:movieVoiceTimeCodeIn="00:00:20:00" az:movieVoiceTimeCodeOut="00:00:32:20">They didn’t have enough money to live in a proper home. Instead, Ada lived with her mother and her little brother, Alan, in a cabin near a junkyard on the edge of town.</phrase></para>
       <!-- TODO: adjust template to prevent text over image -->
       <!-- TODO: consider handling dropcaps differently, perhaps using a inlinemediaobject -->
       <mediaobject xml:id="img-ada-p04">
