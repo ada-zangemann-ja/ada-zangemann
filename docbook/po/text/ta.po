@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2025-01-28 10:01+0000\n"
+"PO-Revision-Date: 2025-12-28 22:13+0100\n"
 "Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
 "Language-Team: Tamil <https://hosted.weblate.org/projects/rms-personal-data-safe/ada-zangemann/ta/>\n"
 "Language: ta\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.10-dev\n"
+"X-Generator: Poedit 3.6\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
@@ -359,13 +359,12 @@ msgstr "மென்பொருள், ச்கேட்போர்டுக�
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:502
 msgid "Once upon a time, there was a little girl named Ada. Her family was so poor that all their savings fit inside a cookie jar."
-msgstr ""
+msgstr "ஒரு காலத்திற்குள், அடா என்ற சிறுமி இருந்தாள். அவளுடைய குடும்பம் மிகவும் மோசமாக இருந்தது, அவர்களின் சேமிப்பு அனைத்தும் குக்கீ சாடிக்குள் பொருந்தும்."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:502
-#, fuzzy
 msgid "They didn’t have enough money to live in a proper home. Instead, Ada lived with her mother and her little brother, Alan, in a cabin near a junkyard on the edge of town."
-msgstr "[O] ஒரு காலத்திற்குள், அடா என்ற சிறுமி இருந்தாள். அவளுடைய குடும்பம் மிகவும் மோசமாக இருந்தது, அவர்களின் சேமிப்பு அனைத்தும் குக்கீ சாடிக்குள் பொருந்தும். சரியான வீட்டில் வாழ போதுமான பணம் அவர்களிடம் இல்லை. அதற்கு பதிலாக, அடா தனது தாய் மற்றும் அவரது சிறிய சகோதரர் ஆலனுடன் நகரத்தின் விளிம்பில் ஒரு சன்கியார்டுக்கு அருகிலுள்ள ஒரு அறையில் வாழ்ந்தார்."
+msgstr "சரியான வீட்டில் வாழ போதுமான பணம் அவர்களிடம் இல்லை. அதற்கு பதிலாக, அடா தனது தாய் மற்றும் அவரது சிறிய சகோதரர் ஆலனுடன் நகரத்தின் விளிம்பில் ஒரு சன்கியார்டுக்கு அருகிலுள்ள ஒரு அறையில் வாழ்ந்தார்."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2025-12-01 09:00+0000\n"
+"PO-Revision-Date: 2025-12-28 22:07+0100\n"
 "Last-Translator: Igor W <igorwisnia@proton.me>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/fsfe/ada-zangemann/pl/>\n"
 "Language: pl\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Weblate 5.15-dev\n"
+"X-Generator: Poedit 3.6\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 #, fuzzy
@@ -483,13 +483,12 @@ msgstr ""
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:502
 msgid "Once upon a time, there was a little girl named Ada. Her family was so poor that all their savings fit inside a cookie jar."
-msgstr ""
+msgstr "Dawno, dawno temu, była sobie mała dziewczynka imieniem Ada. Jej rodzina była bardzo biedna, tak że całe oszczędności mieściły się w pudelku po ciasteczkach."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:502
-#, fuzzy
 msgid "They didn’t have enough money to live in a proper home. Instead, Ada lived with her mother and her little brother, Alan, in a cabin near a junkyard on the edge of town."
-msgstr "Dawno, dawno temu, była sobie mała dziewczynka imieniem Ada. Jej rodzina była bardzo biedna, tak że całe oszczędności mieściły się w pudelku po ciasteczkach. Nie mieli dość pieniędzy aby mieszkać w normalnym domu. Zamiast tego, Ada mieszkała z mamą i małym bratem, Alanem w chatce obok smietniska na obrzezach miasta."
+msgstr "Nie mieli dość pieniędzy aby mieszkać w normalnym domu. Zamiast tego, Ada mieszkała z mamą i małym bratem, Alanem w chatce obok smietniska na obrzezach miasta."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the

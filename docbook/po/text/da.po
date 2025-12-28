@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2025-08-14 12:02+0000\n"
+"PO-Revision-Date: 2025-12-28 21:47+0100\n"
 "Last-Translator: Øjvind Fritjof Arnfred <fritjof@mencagli-arnfred.dk>\n"
 "Language-Team: Danish <https://hosted.weblate.org/projects/fsfe/ada-zangemann/da/>\n"
 "Language: da\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.13-dev\n"
+"X-Generator: Poedit 3.6\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
@@ -358,13 +358,12 @@ msgstr ""
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:502
 msgid "Once upon a time, there was a little girl named Ada. Her family was so poor that all their savings fit inside a cookie jar."
-msgstr ""
+msgstr "Der var en gang en lille pige som hed Ada. Hendes familie var så fattig, at hele deres opsparing kunne være i en kagedåse."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:502
-#, fuzzy
 msgid "They didn’t have enough money to live in a proper home. Instead, Ada lived with her mother and her little brother, Alan, in a cabin near a junkyard on the edge of town."
-msgstr "Der var en gang en lille pige som hed Ada. Hendes familie var så fattig, at hele deres opsparing kunne være i en kagedåse. De havde ikke penge nok til et ordentligt hus. I stedet boede Ada sammen med sin mor og lillebror Alan i en hytte tæt på en losseplads i udkanten af byen."
+msgstr "De havde ikke penge nok til et ordentligt hus. I stedet boede Ada sammen med sin mor og lillebror Alan i en hytte tæt på en losseplads i udkanten af byen."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the

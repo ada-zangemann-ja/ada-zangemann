@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2025-06-24 18:57+0000\n"
+"PO-Revision-Date: 2025-12-28 21:56+0100\n"
 "Last-Translator: Aayush Gupta <aayushgupta219@gmail.com>\n"
 "Language-Team: Hindi <https://hosted.weblate.org/projects/fsfe/ada-zangemann/hi/>\n"
 "Language: hi\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.13-dev\n"
+"X-Generator: Poedit 3.6\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
@@ -359,13 +359,12 @@ msgstr ""
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:502
 msgid "Once upon a time, there was a little girl named Ada. Her family was so poor that all their savings fit inside a cookie jar."
-msgstr ""
+msgstr "एक बार की बात है एडा नाम की एक छोटी लड़की थी। उसका परिवार इतना गरीब था कि उनकी सभी बचत एक छोटे से कुकी जार के अंदर समा थी।"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:502
-#, fuzzy
 msgid "They didn’t have enough money to live in a proper home. Instead, Ada lived with her mother and her little brother, Alan, in a cabin near a junkyard on the edge of town."
-msgstr "एक बार की बात है एडा नाम की एक छोटी लड़की थी। उसका परिवार इतना गरीब था कि उनकी सभी बचत एक छोटे से कुकी जार के अंदर समा थी। उनके पास इतने पैसे नहीं थे कि वे एक अच्छे घर में रह सकें। इसके बजाय, एडा अपनी मां और अपने छोटे भाई एलन के साथ शहर के किनारे एक कबाड़खाने के पास एक झोपड़ी में रहती थी।"
+msgstr "उनके पास इतने पैसे नहीं थे कि वे एक अच्छे घर में रह सकें। इसके बजाय, एडा अपनी मां और अपने छोटे भाई एलन के साथ शहर के किनारे एक कबाड़खाने के पास एक झोपड़ी में रहती थी।"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the

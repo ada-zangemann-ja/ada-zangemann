@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2025-12-25 17:00+0000\n"
+"PO-Revision-Date: 2025-12-28 21:50+0100\n"
 "Last-Translator: abbas davarpanah <abbasdp@proton.me>\n"
 "Language-Team: Persian <https://hosted.weblate.org/projects/fsfe/ada-zangemann/fa/>\n"
 "Language: fa\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.15.1\n"
+"X-Generator: Poedit 3.6\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
@@ -430,13 +430,12 @@ msgstr ""
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:502
 msgid "Once upon a time, there was a little girl named Ada. Her family was so poor that all their savings fit inside a cookie jar."
-msgstr ""
+msgstr "وزگاری دختری کوچک به نام اِدا بود. خانواده‌اش آنقدر فقیر بودند که تمام پس‌اندازشان در یک شیرینی‌خوری جا می‌شد."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:502
-#, fuzzy
 msgid "They didn’t have enough money to live in a proper home. Instead, Ada lived with her mother and her little brother, Alan, in a cabin near a junkyard on the edge of town."
-msgstr "روزگاری دختری کوچک به نام اِدا بود. خانواده‌اش آنقدر فقیر بودند که تمام پس‌اندازشان در یک شیرینی‌خوری جا می‌شد. آنها پول کافی برای زندگی در یک خانه معمولی نداشتند. در عوض،اِدا با مادرش و برادر کوچکش، آلن، در کلبه‌ای نزدیک به یک آهن‌قراضه‌فروشی در حاشیه شهر زندگی می‌کرد."
+msgstr " آنها پول کافی برای زندگی در یک خانه معمولی نداشتند. در عوض،اِدا با مادرش و برادر کوچکش، آلن، در کلبه‌ای نزدیک به یک آهن‌قراضه‌فروشی در حاشیه شهر زندگی می‌کرد."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the

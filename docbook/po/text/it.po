@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2025-10-13 12:07+0000\n"
+"PO-Revision-Date: 2025-12-28 22:00+0100\n"
 "Last-Translator: Marco Ciampa <ciampix@posteo.net>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/fsfe/ada-zangemann/it/>\n"
 "Language: it\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.14-dev\n"
+"X-Generator: Poedit 3.6\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
@@ -399,13 +399,12 @@ msgstr ""
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:502
 msgid "Once upon a time, there was a little girl named Ada. Her family was so poor that all their savings fit inside a cookie jar."
-msgstr ""
+msgstr "C’era una volta una bambina di nome Ada. La sua famiglia era così povera che tutti i loro risparmi potevano essere messi in una scatola di biscotti."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:502
-#, fuzzy
 msgid "They didn’t have enough money to live in a proper home. Instead, Ada lived with her mother and her little brother, Alan, in a cabin near a junkyard on the edge of town."
-msgstr "C’era una volta una bambina di nome Ada. La sua famiglia era così povera che tutti i loro risparmi potevano essere messi in una scatola di biscotti. Non avevano soldi per vivere in una casa vera. Ada, la sua mamma e il suo fratellino Alan vivevano in una casupola vicino ad una discarica nella periferia della città."
+msgstr "Non avevano soldi per vivere in una casa vera. Ada, la sua mamma e il suo fratellino Alan vivevano in una casupola vicino ad una discarica nella periferia della città."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the

@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2025-12-21 07:21+0000\n"
+"PO-Revision-Date: 2025-12-28 21:52+0100\n"
 "Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
 "Language-Team: Galician <https://hosted.weblate.org/projects/fsfe/ada-zangemann/gl/>\n"
 "Language: gl\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.15.1\n"
+"X-Generator: Poedit 3.6\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
@@ -362,13 +362,12 @@ msgstr ""
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:502
 msgid "Once upon a time, there was a little girl named Ada. Her family was so poor that all their savings fit inside a cookie jar."
-msgstr ""
+msgstr "Había unha vez unha nena chamada Ada. A súa familia era tan pobre que todos os seus aforros cabían nunha caixa de galletas."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:502
-#, fuzzy
 msgid "They didn’t have enough money to live in a proper home. Instead, Ada lived with her mother and her little brother, Alan, in a cabin near a junkyard on the edge of town."
-msgstr "Había unha vez unha nena chamada Ada. A súa familia era tan pobre que todos os seus aforros cabían nunha caixa de galletas. Non tiñan suficientes cartos para vivir nunha casa decente. No seu lugar, Ada vivía coa nai e co irmán pequeno Alan nunha casoupa preto dunha chatarraría, nas aforas da cidade."
+msgstr "Non tiñan suficientes cartos para vivir nunha casa decente. No seu lugar, Ada vivía coa nai e co irmán pequeno Alan nunha casoupa preto dunha chatarraría, nas aforas da cidade."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
