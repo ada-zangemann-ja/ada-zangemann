@@ -406,10 +406,15 @@ msgstr ""
 "programet kompjuterike, skateboard-in dhe \n"
 "akulloren me shije mjedre"
 
-#. (itstool) path: simplesect/para
-#. (itstool) id: Ada_Zangemann.dbk#para-p04-1
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:502
-msgid "Once upon a time, there was a little girl named Ada. Her family was so poor that all their savings fit inside a cookie jar. They didn’t have enough money to live in a proper home. Instead, Ada lived with her mother and her little brother, Alan, in a cabin near a junkyard on the edge of town."
+msgid "Once upon a time, there was a little girl named Ada. Her family was so poor that all their savings fit inside a cookie jar."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:502
+#, fuzzy
+msgid "They didn’t have enough money to live in a proper home. Instead, Ada lived with her mother and her little brother, Alan, in a cabin near a junkyard on the edge of town."
 msgstr "Na ishte njëherë një vajzë e vogël që quhej Ada. Ajo dhe familja e saj ishin aq të varfër, saqë kursimet e tyre i ruanin në një kuti biskotash. Nuk kishin para mjaftueshem për të jetuar në një shtëpi të vërtetë. Kështu, Ada, nëna e saj dhe vëllai i saj i vogël, Alan, banonin në një kasolle pranë një vendgrumbullimi mbeturinash, në periferi të qytetit."
 
 #. (itstool) path: mediaobject/alt

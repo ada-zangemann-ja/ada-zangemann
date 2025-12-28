@@ -480,10 +480,15 @@ msgstr ""
 "kodzie, deskorolkach i\n"
 "lodach malinowych"
 
-#. (itstool) path: simplesect/para
-#. (itstool) id: Ada_Zangemann.dbk#para-p04-1
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:502
-msgid "Once upon a time, there was a little girl named Ada. Her family was so poor that all their savings fit inside a cookie jar. They didn’t have enough money to live in a proper home. Instead, Ada lived with her mother and her little brother, Alan, in a cabin near a junkyard on the edge of town."
+msgid "Once upon a time, there was a little girl named Ada. Her family was so poor that all their savings fit inside a cookie jar."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:502
+#, fuzzy
+msgid "They didn’t have enough money to live in a proper home. Instead, Ada lived with her mother and her little brother, Alan, in a cabin near a junkyard on the edge of town."
 msgstr "Dawno, dawno temu, była sobie mała dziewczynka imieniem Ada. Jej rodzina była bardzo biedna, tak że całe oszczędności mieściły się w pudelku po ciasteczkach. Nie mieli dość pieniędzy aby mieszkać w normalnym domu. Zamiast tego, Ada mieszkała z mamą i małym bratem, Alanem w chatce obok smietniska na obrzezach miasta."
 
 #. (itstool) path: mediaobject/alt

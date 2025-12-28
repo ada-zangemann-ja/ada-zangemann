@@ -356,10 +356,15 @@ msgstr ""
 "सॉफ़्टवेयर, स्केटबोर्ड और\n"
 "रास्पबेरी आइसक्रीम की"
 
-#. (itstool) path: simplesect/para
-#. (itstool) id: Ada_Zangemann.dbk#para-p04-1
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:502
-msgid "Once upon a time, there was a little girl named Ada. Her family was so poor that all their savings fit inside a cookie jar. They didn’t have enough money to live in a proper home. Instead, Ada lived with her mother and her little brother, Alan, in a cabin near a junkyard on the edge of town."
+msgid "Once upon a time, there was a little girl named Ada. Her family was so poor that all their savings fit inside a cookie jar."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:502
+#, fuzzy
+msgid "They didn’t have enough money to live in a proper home. Instead, Ada lived with her mother and her little brother, Alan, in a cabin near a junkyard on the edge of town."
 msgstr "एक बार की बात है एडा नाम की एक छोटी लड़की थी। उसका परिवार इतना गरीब था कि उनकी सभी बचत एक छोटे से कुकी जार के अंदर समा थी। उनके पास इतने पैसे नहीं थे कि वे एक अच्छे घर में रह सकें। इसके बजाय, एडा अपनी मां और अपने छोटे भाई एलन के साथ शहर के किनारे एक कबाड़खाने के पास एक झोपड़ी में रहती थी।"
 
 #. (itstool) path: mediaobject/alt

@@ -355,10 +355,15 @@ msgstr ""
 "Software, Skateboards und \n"
 "Himbeereis"
 
-#. (itstool) path: simplesect/para
-#. (itstool) id: Ada_Zangemann.dbk#para-p04-1
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:502
-msgid "Once upon a time, there was a little girl named Ada. Her family was so poor that all their savings fit inside a cookie jar. They didn’t have enough money to live in a proper home. Instead, Ada lived with her mother and her little brother, Alan, in a cabin near a junkyard on the edge of town."
+msgid "Once upon a time, there was a little girl named Ada. Her family was so poor that all their savings fit inside a cookie jar."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:502
+#, fuzzy
+msgid "They didn’t have enough money to live in a proper home. Instead, Ada lived with her mother and her little brother, Alan, in a cabin near a junkyard on the edge of town."
 msgstr "Es war einmal ein kleines Mädchen namens Ada. Ihre Familie war so arm, dass all ihr Erspartes in eine Keksdose passte. Sie hatten kein Geld, um in einer richtigen Wohnung zu leben. Stattdessen wohnten Ada, ihre Mutter und ihr kleiner Bruder Alan in einer Hütte in der Nähe eines Schrottplatzes am Rande der Stadt."
 
 #. (itstool) path: mediaobject/alt

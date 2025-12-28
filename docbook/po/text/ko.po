@@ -414,10 +414,15 @@ msgstr ""
 "라즈베리 아이스크림에 대한\n"
 "이야기"
 
-#. (itstool) path: simplesect/para
-#. (itstool) id: Ada_Zangemann.dbk#para-p04-1
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:502
-msgid "Once upon a time, there was a little girl named Ada. Her family was so poor that all their savings fit inside a cookie jar. They didn’t have enough money to live in a proper home. Instead, Ada lived with her mother and her little brother, Alan, in a cabin near a junkyard on the edge of town."
+msgid "Once upon a time, there was a little girl named Ada. Her family was so poor that all their savings fit inside a cookie jar."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:502
+#, fuzzy
+msgid "They didn’t have enough money to live in a proper home. Instead, Ada lived with her mother and her little brother, Alan, in a cabin near a junkyard on the edge of town."
 msgstr "옛날에 에이다라는 이름의 작은 소녀가 살고 있었어요. 그녀의 가족은 너무 가난해서 전 재산이라곤 쿠키통안에 들어있는 돈이 전부였어요. 그래서 좋은 집을 사기에 충분한 돈이 없었지요. 그래서 에이다는 엄마와 남동생 앨런과 함께 도시 외곽에 있는 고물 수집장 옆의 낡은 오두막에서 살았어요."
 
 #. (itstool) path: mediaobject/alt

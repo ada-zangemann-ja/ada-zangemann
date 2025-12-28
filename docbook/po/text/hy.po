@@ -352,10 +352,15 @@ msgstr ""
 "Ծրագրերի, Սքեյթների եւ\n"
 "ելակով պաղպաղակի մասին"
 
-#. (itstool) path: simplesect/para
-#. (itstool) id: Ada_Zangemann.dbk#para-p04-1
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:502
-msgid "Once upon a time, there was a little girl named Ada. Her family was so poor that all their savings fit inside a cookie jar. They didn’t have enough money to live in a proper home. Instead, Ada lived with her mother and her little brother, Alan, in a cabin near a junkyard on the edge of town."
+msgid "Once upon a time, there was a little girl named Ada. Her family was so poor that all their savings fit inside a cookie jar."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:502
+#, fuzzy
+msgid "They didn’t have enough money to live in a proper home. Instead, Ada lived with her mother and her little brother, Alan, in a cabin near a junkyard on the edge of town."
 msgstr "Լինում է չի լինում մի աղջիկ՝ անունը Ադա։ Նրա ընտանիքն այնքա՜ն աղքատ էր, որ նրանց բոլոր խնայողութիւնները տեղաւորւում էին կոնֆետի բանկայում։ Նրանք այնքան փող չունէին, որ մարդավարի տան մէջ ապրէին, դրա համար էլ Ադան մօր եւ եղբօր՝ Ալանի հետ, ապրում էին աղբանոցի կողքին գտնուող մի տնակում, որը քաղաքի ծայրամասում էր։"
 
 #. (itstool) path: mediaobject/alt

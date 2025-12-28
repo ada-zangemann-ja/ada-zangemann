@@ -347,10 +347,15 @@ msgid ""
 "Raspberry Ice Cream"
 msgstr ""
 
-#. (itstool) path: simplesect/para
-#. (itstool) id: Ada_Zangemann.dbk#para-p04-1
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:502
-msgid "Once upon a time, there was a little girl named Ada. Her family was so poor that all their savings fit inside a cookie jar. They didn’t have enough money to live in a proper home. Instead, Ada lived with her mother and her little brother, Alan, in a cabin near a junkyard on the edge of town."
+msgid "Once upon a time, there was a little girl named Ada. Her family was so poor that all their savings fit inside a cookie jar."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:502
+#, fuzzy
+msgid "They didn’t have enough money to live in a proper home. Instead, Ada lived with her mother and her little brother, Alan, in a cabin near a junkyard on the edge of town."
 msgstr "むかしむかし、アーダという小さな女の子がいました。アーダの家はとても貧しくて、全ざいさんがクッキー缶にはいってしまうほどでした。ちゃんとした家に住めるほどのお金はありません。アーダがおかあさんと弟のアランといっしょに住んでいたのは、まちはずれにあるガラクタ置き場のそばの小屋でした"
 
 #. (itstool) path: mediaobject/alt

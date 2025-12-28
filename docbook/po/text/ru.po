@@ -426,10 +426,15 @@ msgstr ""
 "Программном Обеспечении, Скейтбордах и\n"
 "Малиновом Морожене"
 
-#. (itstool) path: simplesect/para
-#. (itstool) id: Ada_Zangemann.dbk#para-p04-1
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:502
-msgid "Once upon a time, there was a little girl named Ada. Her family was so poor that all their savings fit inside a cookie jar. They didn’t have enough money to live in a proper home. Instead, Ada lived with her mother and her little brother, Alan, in a cabin near a junkyard on the edge of town."
+msgid "Once upon a time, there was a little girl named Ada. Her family was so poor that all their savings fit inside a cookie jar."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:502
+#, fuzzy
+msgid "They didn’t have enough money to live in a proper home. Instead, Ada lived with her mother and her little brother, Alan, in a cabin near a junkyard on the edge of town."
 msgstr "Однажды жила-была маленькая девочка по имени Ада. Ее семья была настолько бедна, что все их сбережения помещались в баночке для печенья. У них не было достаточно денег чтобы жить в нормальном доме. Вместо этого Ада жила с мамой и младшим братом Аланом в хижине возле свалки на окраине города."
 
 #. (itstool) path: mediaobject/alt

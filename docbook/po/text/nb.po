@@ -417,10 +417,15 @@ msgstr ""
 "programvare, rullebrett og\n"
 "bringebæris"
 
-#. (itstool) path: simplesect/para
-#. (itstool) id: Ada_Zangemann.dbk#para-p04-1
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:502
-msgid "Once upon a time, there was a little girl named Ada. Her family was so poor that all their savings fit inside a cookie jar. They didn’t have enough money to live in a proper home. Instead, Ada lived with her mother and her little brother, Alan, in a cabin near a junkyard on the edge of town."
+msgid "Once upon a time, there was a little girl named Ada. Her family was so poor that all their savings fit inside a cookie jar."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:502
+#, fuzzy
+msgid "They didn’t have enough money to live in a proper home. Instead, Ada lived with her mother and her little brother, Alan, in a cabin near a junkyard on the edge of town."
 msgstr "Det var en gang en liten jente som het Ada. Familien hennes var så fattig at alle sparepengene deres fikk plass i en kakeboks. De hadde ikke nok penger til å bo i et ordentlig hus. I stedet bodde Ada sammen med mammaen sin og lillebror Alan i en hytte ved en skraphaug i utkanten av byen."
 
 #. (itstool) path: mediaobject/alt

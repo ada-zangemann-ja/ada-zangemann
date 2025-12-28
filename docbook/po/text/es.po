@@ -390,10 +390,15 @@ msgstr ""
 "<emphasis>Software</emphasis>, Monopatines y\n"
 "Helado de Frambuesa"
 
-#. (itstool) path: simplesect/para
-#. (itstool) id: Ada_Zangemann.dbk#para-p04-1
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:502
-msgid "Once upon a time, there was a little girl named Ada. Her family was so poor that all their savings fit inside a cookie jar. They didn’t have enough money to live in a proper home. Instead, Ada lived with her mother and her little brother, Alan, in a cabin near a junkyard on the edge of town."
+msgid "Once upon a time, there was a little girl named Ada. Her family was so poor that all their savings fit inside a cookie jar."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:502
+#, fuzzy
+msgid "They didn’t have enough money to live in a proper home. Instead, Ada lived with her mother and her little brother, Alan, in a cabin near a junkyard on the edge of town."
 msgstr "Érase una vez una niña llamada Ada. Su familia era tan pobre que todos sus ahorros cabían en una pequeña caja de galletas. No tenían suficiente dinero para vivir en una casa bonita, así que Ada vivía con su madre y su hermano pequeño Alan en una cabaña cerca de un desguace, a las afueras de la ciudad."
 
 #. (itstool) path: mediaobject/alt

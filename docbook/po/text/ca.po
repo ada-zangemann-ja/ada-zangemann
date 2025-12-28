@@ -355,10 +355,15 @@ msgstr ""
 "programari, monopatins i\n"
 "gelat de mora roja"
 
-#. (itstool) path: simplesect/para
-#. (itstool) id: Ada_Zangemann.dbk#para-p04-1
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:502
-msgid "Once upon a time, there was a little girl named Ada. Her family was so poor that all their savings fit inside a cookie jar. They didn’t have enough money to live in a proper home. Instead, Ada lived with her mother and her little brother, Alan, in a cabin near a junkyard on the edge of town."
+msgid "Once upon a time, there was a little girl named Ada. Her family was so poor that all their savings fit inside a cookie jar."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:502
+#, fuzzy
+msgid "They didn’t have enough money to live in a proper home. Instead, Ada lived with her mother and her little brother, Alan, in a cabin near a junkyard on the edge of town."
 msgstr "Hi havia una volta una xiqueta que es deia Ada. La seua família era tan pobra que tots els seus estalvis cabien en una caixa de galletes. No tenien prou diners per a viure en una casa en condicions. En comptes d’això, Ada vivia amb sa mare i el seu germà menut, Alan, en una cabanya prop d'un abocador de ferralla vora la ciutat."
 
 #. (itstool) path: mediaobject/alt
