@@ -41,9 +41,9 @@ SPDX-License-Identifier: GPL-3.0-or-later
   <!-- Input parameter for the DocBook source file that should be used to insert data into Scribus -->
   <xsl:param name="docbook-contents-file"/>
 
-  <!-- Input parameter for profiling on conditions. Supports multiple conditions separated by semicolumns ';'. Lack of condition input will deactivate the checks. A single semicolumn can be provided to match no conditions. -->
+  <!-- Input parameter for profiling on conditions. Supports multiple conditions separated by semicolons ';'. Lack of condition input will deactivate the checks. A single semicolon can be provided to match no conditions. -->
   <!-- Related documentation from DocBook XSLT stylesheets: https://sagehill.net/docbookxsl/Profiling.html -->
-  <!-- FIXME: Better match the DocBook XSLT behavior of conditions. 1) Current assumption is that a single condition is present in Scribus template. It should ideally support n:m conditions to better. XSLT 1.0 profiling templates can be used as a reference: https://github.com/docbook/xslt10-stylesheets/blob/master/xsl/profiling/profile-mode.xsl 2) Current behavior allows an empty string to match no conditoins, which is helpful for debugging, but might not be meeting expectations.-->
+  <!-- FIXME: Better match the DocBook XSLT behavior of conditions. 1) Current assumption is that a single condition is present in Scribus template. It should ideally support n:m conditions to better. XSLT 1.0 profiling templates can be used as a reference: https://github.com/docbook/xslt10-stylesheets/blob/master/xsl/profiling/profile-mode.xsl 2) Current behavior allows an empty string to match no conditions, which is helpful for debugging, but might not be meeting expectations.-->
   <!--
       - profile.xsl       Main file, defining parameters and calling template with profile mode https://github.com/docbook/xslt10-stylesheets/blob/master/xsl/profiling/profile.xsl
       - profile-mode.xsl  Different conditions, collected in <profile>.ok variables, which are then tested. https://github.com/docbook/xslt10-stylesheets/blob/master/xsl/profiling/profile-mode.xsl
@@ -135,7 +135,7 @@ SPDX-License-Identifier: GPL-3.0-or-later
               <xsl:with-param name="processing-configuration" select="$processing-configuration"/>
             </xsl:apply-templates>
 
-            <!-- Two para separators are needed inbetween paragraphs to insert two newlines to end the first paragraph and create an empty line between the paragraphs. -->
+            <!-- Two para separators are needed between paragraphs to insert two newlines to end the first paragraph and create an empty line between the paragraphs. -->
             <!-- FIXME: Prefer paragraph styles in favor of hard newlines. -->
             <!-- FIXME: Use an optional style reset instead of breakline to maintain paragraph structure. See https://bugs.scribus.net/view.php?id=204 -->
             <xsl:if test="not(position() = last())">
@@ -374,34 +374,32 @@ SPDX-License-Identifier: GPL-3.0-or-later
     </ITEXT>
   </xsl:template>
 
-  <!-- Further processing of para nodes -->
-  <xsl:template match="//db:para/*[not(self::db:emphasis)]">
-    <!-- NOTE: links and other elements will result in multiple ITEXT nodes -->
-    <ITEXT>
-      <xsl:attribute name="CH">
-        <xsl:value-of select="normalize-space(.)"/>
-      </xsl:attribute>
-    </ITEXT>
-  </xsl:template>
-
   <!-- TODO: make specific for roles -->
-  <xsl:template match="//db:para/db:emphasis">
+  <xsl:template match="//db:para//db:emphasis">
     <!-- Default emphasis -->
     <!-- FIXME: Doesn't support nesting of emphasis or other nested elements -->
     <!-- TODO: Heebo italic font not available or not installed -->
     <ITEXT>
       <xsl:attribute name="FONT">Roboto Italic</xsl:attribute>
       <xsl:attribute name="CH">
+        <xsl:if test="not(contains('.,;:!?…%)]/\”«' ,substring(normalize-space(),1,1)))">
+          <!-- Start with a space as it is a continuation, unless it starts with a punctuation mark -->
+          <xsl:text> </xsl:text>
+        </xsl:if>
         <xsl:value-of select="normalize-space(./text())"/>
       </xsl:attribute>
     </ITEXT>
   </xsl:template>
 
-  <xsl:template match="//db:para/db:emphasis[@role='bold']|db:emphasis[@role='strong']">
+  <xsl:template match="//db:para//db:emphasis[@role='bold']|db:emphasis[@role='strong']">
     <!-- FIXME: Doesn't support nesting of emphasis or other nested elements -->
     <ITEXT>
       <xsl:attribute name="FONT">Heebo Bold</xsl:attribute>
       <xsl:attribute name="CH">
+        <xsl:if test="not(contains('.,;:!?…%)]/\”«' ,substring(normalize-space(),1,1)))">
+          <!-- Start with a space as it is a continuation, unless it starts with a punctuation mark -->
+          <xsl:text> </xsl:text>
+        </xsl:if>
         <xsl:value-of select="normalize-space(./text())"/>
       </xsl:attribute>
     </ITEXT>
@@ -410,7 +408,7 @@ SPDX-License-Identifier: GPL-3.0-or-later
 
 
   <!-- Handle generic text -->
-  <xsl:template match="//db:para/text()">
+  <xsl:template match="//db:para//text()">
     <xsl:param name="processing-configuration"/>
     <!-- Ignore element if no content is present -->
     <xsl:if test="string-length(normalize-space()) > 0">
@@ -420,21 +418,14 @@ SPDX-License-Identifier: GPL-3.0-or-later
           <!-- Normalize space in elements inside paragraph. Insert preceding of trailing space if other nodes exist, like emphasized text or a link. -->
           <!-- NOTE: this forces a space around emphasized text or link, which could be good -->
           <!-- NOTE: ignores the case where a paragraph begins with no text -->
+
           <xsl:choose>
-
-            <xsl:when test="preceding-sibling::node()">
-              <!-- Further in the text, as there as a preceding sibling node -->
-              <xsl:if test="not(contains('.,;:!?…%)]/\”«' ,substring(normalize-space(),1,1)))">
-                <xsl:text> </xsl:text>
-              </xsl:if>
-              <xsl:value-of select="normalize-space()"/>
-            </xsl:when>
-
-            <xsl:otherwise>
-              <!-- First element, strip for use of dropcap image, depending on processing-configuration -->
+            <!-- If it is the first non-empty text element of the para node -->
+            <xsl:when test="(generate-id() = generate-id((ancestor::db:para[1])/descendant::text()[normalize-space() != ''][1]))">
               <xsl:choose>
 
-                <xsl:when test="$processing-configuration and contains(concat(';', $processing-configuration, ';'), ';strip-first-character;')">
+                <!-- When strip-first-character is enabled and it is the first paragraph -->
+                <xsl:when test="($processing-configuration and contains(concat(';', $processing-configuration, ';'), ';strip-first-character;')) and (not (ancestor::db:para[1]/preceding-sibling::db:para))">
                   <!-- strip-first-character is in the processing-configuration -->
                   <xsl:value-of select="substring(normalize-space(),2)"/>
                 </xsl:when>
@@ -445,13 +436,15 @@ SPDX-License-Identifier: GPL-3.0-or-later
                 </xsl:otherwise>
 
               </xsl:choose>
+            </xsl:when>
+            <xsl:otherwise>
+              <xsl:if test="not(contains('.,;:!?…%)]/\”«' ,substring(normalize-space(),1,1)))">
+                <!-- Start with a space as it is a continuation, unless it starts with a punctuation mark -->
+                <xsl:text> </xsl:text>
+              </xsl:if>
+              <xsl:value-of select="normalize-space()"/>
             </xsl:otherwise>
-
           </xsl:choose>
-
-          <xsl:if test="following-sibling::node()">
-            <xsl:text> </xsl:text>
-          </xsl:if>
 
         </xsl:attribute>
       </ITEXT>
