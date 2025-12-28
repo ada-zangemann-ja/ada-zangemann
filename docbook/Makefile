@@ -367,6 +367,10 @@ build/Ada_Zangemann-insidecover.sla: templates/template-insidecover.sla
 %.pdf.txt: %.pdf
 	pdftotext $< $@
 
+# Tab-delimited voiceover output
+build/Ada_Zangemann-voiceover.%.csv: build/Ada_Zangemann.%.dbk
+	xsltproc -o $@ xsl/movie-voice-timecodes.xsl $<
+
 # Format docbook file using xmllint
 .PHONY: xmllint-format
 xmllint-format: Ada_Zangemann.dbk
