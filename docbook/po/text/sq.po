@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2025-12-27 05:37+0000\n"
-"Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
+"PO-Revision-Date: 2025-12-28 17:38+0000\n"
+"Last-Translator: Erik <erik.ds@fsfe.org>\n"
 "Language-Team: Albanian <https://hosted.weblate.org/projects/fsfe/ada-zangemann/sq/>\n"
 "Language: sq\n"
 "MIME-Version: 1.0\n"
@@ -622,7 +622,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:654
 msgid "Skateboards no longer work"
-msgstr ""
+msgstr "Skateboard-et nuk funksionojnë më"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p18-1
@@ -1292,6 +1292,8 @@ msgid ""
 "Come up with some delicious, funny, or crazy ice-cream flavors and draw them on the ice-cream cones on the following page.\n"
 "More information about the book can be found at <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
 msgstr ""
+"Shpikni disa shije të shijshme, qesharake ose të çmendura akulloreje dhe vizatoni ato në konet e akullores në faqen vijuese.\n"
+"Më shumë informacion rreth librit mund të gjendet në https://ada.fsfe.org."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
