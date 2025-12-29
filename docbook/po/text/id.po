@@ -378,10 +378,21 @@ msgstr "Si gadis kecil Ada tampak berada di latar depan sedang meninggalkan ruma
 msgid "Prestigious magazines (“STARS“, “MONEY”, “Richest Man”) on whose cover are Zangemann and his villa."
 msgstr "Beberapa majalah bergengsi (“STARS”, “MONEY”, “Richest Man”) yang sampulnya menampilkan bapak Zangemann dan villa-nya."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:520
-msgid "Far away, at the other end of town, lived a famous inventor named Zangemann. He was immensely rich. No sheet of paper in the world was big enough to show his bank balance with all its numbers and zeros! He lived in a huge house with a swimming pool and waterslide, lots of staircases and towers, hundreds of windows, and so many rooms that he often got lost in them himself. Zangemann’s mansion stood high on a hill. From there, he could look out over the whole city."
+#, fuzzy
+msgid "Far away, at the other end of town, lived a famous inventor named Zangemann. He was immensely rich. No sheet of paper in the world was big enough to show his bank balance with all its numbers and zeros!"
 msgstr "Nan jauh di sana, di ujung kota yang lain, hiduplah seorang penemu terkenal bernama bapak Zangemann. Ia sangat kaya. Tak ada selembar kertas pun di dunia ini yang cukup besar untuk menuliskan saldo banknya dengan semua angka dan jumlah nolnya! Ia tinggal di sebuah rumah yang sangat besar dengan kolam renang yang dilengkapi perosotan air, rumah dengan banyak tangga dan menara, serta ratusan jendela, dan begitu banyak ruangan sehingga ia sendiri sering tersesat di dalamnya. Rumah besar bapak Zangemann berdiri tinggi di atas bukit. Dari sana, ia dapat memandang seluruh kota."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:520
+msgid "He lived in a huge house with a swimming pool and waterslide, lots of staircases and towers, hundreds of windows, and so many rooms that he often got lost in them himself."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:520
+msgid "Zangemann’s mansion stood high on a hill. From there, he could look out over the whole city."
+msgstr ""
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:525

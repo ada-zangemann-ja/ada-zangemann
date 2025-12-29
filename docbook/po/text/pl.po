@@ -504,10 +504,21 @@ msgstr ""
 msgid "Prestigious magazines (“STARS“, “MONEY”, “Richest Man”) on whose cover are Zangemann and his villa."
 msgstr "Prestiżowe magazyny („STARS”, „MONEY”, „Richest Man”), na okładkach których widnieje Zangemann i jego willa."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:520
-msgid "Far away, at the other end of town, lived a famous inventor named Zangemann. He was immensely rich. No sheet of paper in the world was big enough to show his bank balance with all its numbers and zeros! He lived in a huge house with a swimming pool and waterslide, lots of staircases and towers, hundreds of windows, and so many rooms that he often got lost in them himself. Zangemann’s mansion stood high on a hill. From there, he could look out over the whole city."
+#, fuzzy
+msgid "Far away, at the other end of town, lived a famous inventor named Zangemann. He was immensely rich. No sheet of paper in the world was big enough to show his bank balance with all its numbers and zeros!"
 msgstr "Daleko, na drugim krańcu miasta, mieszkał zany wynalazca imieniem Zangemann. Był bardzo bogaty. Na świecie nie ma kartki która pomieściła by saldo jego konta ze wszystkimi zerami. Mieszkał on wielkim domu z basenem i zjeżdżalnią, mnóstwem schodów i wież, setką okien i tak wieloma pokojami, że sam potrafił się w nich zgubić. Posiadłość Zangemanna wznosiła się wysoko na wzgórzu, skąd mógł oglądać całe miasto."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:520
+msgid "He lived in a huge house with a swimming pool and waterslide, lots of staircases and towers, hundreds of windows, and so many rooms that he often got lost in them himself."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:520
+msgid "Zangemann’s mansion stood high on a hill. From there, he could look out over the whole city."
+msgstr ""
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:525
