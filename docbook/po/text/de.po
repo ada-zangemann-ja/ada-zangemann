@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2025-07-11 10:02+0000\n"
+"PO-Revision-Date: 2025-12-28 21:47+0100\n"
 "Last-Translator: Bonnie <bonnie@fsfe.org>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/fsfe/ada-zangemann/de/>\n"
 "Language: de\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.13-dev\n"
+"X-Generator: Poedit 3.6\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
@@ -355,11 +355,15 @@ msgstr ""
 "Software, Skateboards und \n"
 "Himbeereis"
 
-#. (itstool) path: simplesect/para
-#. (itstool) id: Ada_Zangemann.dbk#para-p04-1
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:502
-msgid "Once upon a time, there was a little girl named Ada. Her family was so poor that all their savings fit inside a cookie jar. They didn’t have enough money to live in a proper home. Instead, Ada lived with her mother and her little brother, Alan, in a cabin near a junkyard on the edge of town."
-msgstr "Es war einmal ein kleines Mädchen namens Ada. Ihre Familie war so arm, dass all ihr Erspartes in eine Keksdose passte. Sie hatten kein Geld, um in einer richtigen Wohnung zu leben. Stattdessen wohnten Ada, ihre Mutter und ihr kleiner Bruder Alan in einer Hütte in der Nähe eines Schrottplatzes am Rande der Stadt."
+msgid "Once upon a time, there was a little girl named Ada. Her family was so poor that all their savings fit inside a cookie jar."
+msgstr "Es war einmal ein kleines Mädchen namens Ada. Ihre Familie war so arm, dass all ihr Erspartes in eine Keksdose passte."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:502
+msgid "They didn’t have enough money to live in a proper home. Instead, Ada lived with her mother and her little brother, Alan, in a cabin near a junkyard on the edge of town."
+msgstr "Sie hatten kein Geld, um in einer richtigen Wohnung zu leben. Stattdessen wohnten Ada, ihre Mutter und ihr kleiner Bruder Alan in einer Hütte in der Nähe eines Schrottplatzes am Rande der Stadt."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the

@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-10-16 21:28+0200\n"
-"PO-Revision-Date: 2025-12-28 16:42+0000\n"
+"PO-Revision-Date: 2025-12-28 21:54+0100\n"
 "Last-Translator: Yaron Shahrabani <sh.yaron@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/fsfe/ada-zangemann/he/>\n"
 "Language: he\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n == 1) ? 0 : ((n == 2) ? 1 : ((n > 10 && n % 10 == 0) ? 2 : 3));\n"
-"X-Generator: Weblate 5.15.1\n"
+"X-Generator: Poedit 3.6\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
@@ -428,11 +428,15 @@ msgstr ""
 "תוכנה, סקייטבורדים\n"
 "וגלידת פטל"
 
-#. (itstool) path: simplesect/para
-#. (itstool) id: Ada_Zangemann.dbk#para-p04-1
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:502
-msgid "Once upon a time, there was a little girl named Ada. Her family was so poor that all their savings fit inside a cookie jar. They didn’t have enough money to live in a proper home. Instead, Ada lived with her mother and her little brother, Alan, in a cabin near a junkyard on the edge of town."
-msgstr "בעבר הלא רחוק, חיה לה ילדה קטנה בשם עדה. המשפחה שלה הייתה משפחה כה צנועה עד כי כל החסכונות שלהם יכלו להיאסף בצנצנת עוגיות. לא היה להם די כסף לבית ראוי. במקום, עדה התגוררה עם אימה ואחיה הקטן, אלן, בבקתה ליד מגרש הגרוטאות שבקצה העיר."
+msgid "Once upon a time, there was a little girl named Ada. Her family was so poor that all their savings fit inside a cookie jar."
+msgstr "בעבר הלא רחוק, חיה לה ילדה קטנה בשם עדה. המשפחה שלה הייתה משפחה כה צנועה עד כי כל החסכונות שלהם יכלו להיאסף בצנצנת עוגיות."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:502
+msgid "They didn’t have enough money to live in a proper home. Instead, Ada lived with her mother and her little brother, Alan, in a cabin near a junkyard on the edge of town."
+msgstr "לא היה להם די כסף לבית ראוי. במקום, עדה התגוררה עם אימה ואחיה הקטן, אלן, בבקתה ליד מגרש הגרוטאות שבקצה העיר."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the

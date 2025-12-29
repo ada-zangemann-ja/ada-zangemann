@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2025-12-21 20:12+0000\n"
+"PO-Revision-Date: 2025-12-28 21:42+0100\n"
 "Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
 "Language-Team: Catalan <https://hosted.weblate.org/projects/fsfe/ada-zangemann/ca/>\n"
 "Language: ca\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.15.1\n"
+"X-Generator: Poedit 3.6\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
@@ -355,11 +355,15 @@ msgstr ""
 "programari, monopatins i\n"
 "gelat de mora roja"
 
-#. (itstool) path: simplesect/para
-#. (itstool) id: Ada_Zangemann.dbk#para-p04-1
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:502
-msgid "Once upon a time, there was a little girl named Ada. Her family was so poor that all their savings fit inside a cookie jar. They didn’t have enough money to live in a proper home. Instead, Ada lived with her mother and her little brother, Alan, in a cabin near a junkyard on the edge of town."
-msgstr "Hi havia una volta una xiqueta que es deia Ada. La seua família era tan pobra que tots els seus estalvis cabien en una caixa de galletes. No tenien prou diners per a viure en una casa en condicions. En comptes d’això, Ada vivia amb sa mare i el seu germà menut, Alan, en una cabanya prop d'un abocador de ferralla vora la ciutat."
+msgid "Once upon a time, there was a little girl named Ada. Her family was so poor that all their savings fit inside a cookie jar."
+msgstr "Hi havia una volta una xiqueta que es deia Ada. La seua família era tan pobra que tots els seus estalvis cabien en una caixa de galletes."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:502
+msgid "They didn’t have enough money to live in a proper home. Instead, Ada lived with her mother and her little brother, Alan, in a cabin near a junkyard on the edge of town."
+msgstr "No tenien prou diners per a viure en una casa en condicions. En comptes d’això, Ada vivia amb sa mare i el seu germà menut, Alan, en una cabanya prop d'un abocador de ferralla vora la ciutat."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the

@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
 "PO-Revision-Date: 2025-12-29 05:22+0000\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.15.1\n"
+"X-Generator: Poedit 3.6\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
@@ -406,11 +406,15 @@ msgstr ""
 "programet kompjuterike, skateboard-in dhe \n"
 "akulloren me shije mjedre"
 
-#. (itstool) path: simplesect/para
-#. (itstool) id: Ada_Zangemann.dbk#para-p04-1
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:502
-msgid "Once upon a time, there was a little girl named Ada. Her family was so poor that all their savings fit inside a cookie jar. They didn’t have enough money to live in a proper home. Instead, Ada lived with her mother and her little brother, Alan, in a cabin near a junkyard on the edge of town."
-msgstr "Na ishte njëherë një vajzë e vogël që quhej Ada. Ajo dhe familja e saj ishin aq të varfër, saqë kursimet e tyre i ruanin në një kuti biskotash. Nuk kishin para mjaftueshem për të jetuar në një shtëpi të vërtetë. Kështu, Ada, nëna e saj dhe vëllai i saj i vogël, Alan, banonin në një kasolle pranë një vendgrumbullimi mbeturinash, në periferi të qytetit."
+msgid "Once upon a time, there was a little girl named Ada. Her family was so poor that all their savings fit inside a cookie jar."
+msgstr "Na ishte njëherë një vajzë e vogël që quhej Ada. Ajo dhe familja e saj ishin aq të varfër, saqë kursimet e tyre i ruanin në një kuti biskotash."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:502
+msgid "They didn’t have enough money to live in a proper home. Instead, Ada lived with her mother and her little brother, Alan, in a cabin near a junkyard on the edge of town."
+msgstr "Nuk kishin para mjaftueshem për të jetuar në një shtëpi të vërtetë. Kështu, Ada, nëna e saj dhe vëllai i saj i vogël, Alan, banonin në një kasolle pranë një vendgrumbullimi mbeturinash, në periferi të qytetit."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2025-12-21 07:16+0000\n"
+"PO-Revision-Date: 2025-12-28 22:06+0100\n"
 "Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/fsfe/ada-zangemann/nl/>\n"
 "Language: nl\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.15.1\n"
+"X-Generator: Poedit 3.6\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
@@ -405,11 +405,15 @@ msgstr ""
 "software, skateboards en\n"
 "frambozenijs"
 
-#. (itstool) path: simplesect/para
-#. (itstool) id: Ada_Zangemann.dbk#para-p04-1
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:502
-msgid "Once upon a time, there was a little girl named Ada. Her family was so poor that all their savings fit inside a cookie jar. They didn’t have enough money to live in a proper home. Instead, Ada lived with her mother and her little brother, Alan, in a cabin near a junkyard on the edge of town."
-msgstr "Er was eens een klein meisje genaamd Ada. Haar familie was zo arm dat al hun spaargeld in een koekjestrommel paste. Ze hadden niet genoeg geld om in een echt huis te wonen. In plaats daarvan woonde Ada met haar moeder en haar kleine broer Alan in een hut, vlakbij een schroothoop aan de rand van de stad."
+msgid "Once upon a time, there was a little girl named Ada. Her family was so poor that all their savings fit inside a cookie jar."
+msgstr "Er was eens een klein meisje genaamd Ada. Haar familie was zo arm dat al hun spaargeld in een koekjestrommel paste."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:502
+msgid "They didn’t have enough money to live in a proper home. Instead, Ada lived with her mother and her little brother, Alan, in a cabin near a junkyard on the edge of town."
+msgstr "Ze hadden niet genoeg geld om in een echt huis te wonen. In plaats daarvan woonde Ada met haar moeder en haar kleine broer Alan in een hut, vlakbij een schroothoop aan de rand van de stad."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the

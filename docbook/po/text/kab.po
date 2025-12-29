@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2025-08-27 17:02+0000\n"
+"PO-Revision-Date: 2025-12-28 22:03+0100\n"
 "Last-Translator: ButterflyOfFire <boffire@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Kabyle <https://hosted.weblate.org/projects/fsfe/ada-zangemann/kab/>\n"
 "Language: kab\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.13\n"
+"X-Generator: Poedit 3.6\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
@@ -351,11 +351,15 @@ msgid ""
 "Raspberry Ice Cream"
 msgstr ""
 
-#. (itstool) path: simplesect/para
-#. (itstool) id: Ada_Zangemann.dbk#para-p04-1
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:502
-msgid "Once upon a time, there was a little girl named Ada. Her family was so poor that all their savings fit inside a cookie jar. They didn’t have enough money to live in a proper home. Instead, Ada lived with her mother and her little brother, Alan, in a cabin near a junkyard on the edge of town."
-msgstr "Yiwet n tikkelt, tella yiwet n teqcict tamecṭuḥt isem-is Ada. Tawacult-is tella d tigellilt mliḥ armi tewweḍ tḥawact-nsen tkeččem deg tbewwaṭ n tgaṭutin. Ur llin ara sɛan idrimen ara ten-id-iqamen akken ad zedɣen deg uxxam am nutni am medden. Akka, Ada, yemma-s d gma-s amecṭuḥ Alan llan zedɣen deg yiwet n tbaṛṛakt ɣer yiri n yiwet n tzebbalt deg temdint."
+msgid "Once upon a time, there was a little girl named Ada. Her family was so poor that all their savings fit inside a cookie jar."
+msgstr "Yiwet n tikkelt, tella yiwet n teqcict tamecṭuḥt isem-is Ada. Tawacult-is tella d tigellilt mliḥ armi tewweḍ tḥawact-nsen tkeččem deg tbewwaṭ n tgaṭutin."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:502
+msgid "They didn’t have enough money to live in a proper home. Instead, Ada lived with her mother and her little brother, Alan, in a cabin near a junkyard on the edge of town."
+msgstr "Ur llin ara sɛan idrimen ara ten-id-iqamen akken ad zedɣen deg uxxam am nutni am medden. Akka, Ada, yemma-s d gma-s amecṭuḥ Alan llan zedɣen deg yiwet n tbaṛṛakt ɣer yiri n yiwet n tzebbalt deg temdint."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
