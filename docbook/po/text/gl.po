@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2025-12-28 21:52+0100\n"
+"PO-Revision-Date: 2025-12-29 09:46+0100\n"
 "Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
 "Language-Team: Galician <https://hosted.weblate.org/projects/fsfe/ada-zangemann/gl/>\n"
 "Language: gl\n"
@@ -385,19 +385,18 @@ msgstr "Revistas de prestixio («STARS», «MONEY», «Richest Man») cuxas port
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:520
-#, fuzzy
 msgid "Far away, at the other end of town, lived a famous inventor named Zangemann. He was immensely rich. No sheet of paper in the world was big enough to show his bank balance with all its numbers and zeros!"
-msgstr "Moi lonxe, no outro extremo da cidade, vivía un inventor famoso chamado Zangemann. Era inmesamente rico. Non había no mundo unha folla de papel o suficientemente grande para amosar todos os cartos que tiña, con todos os seus números e ceros. Vivía nunha casa enorme, con piscina e tobogán, moitas escaleiras e torres, centos de ventás e tantas habitacións que a miúdo se perdía nelas. A mansión de Zangemann estaba no alto dun outeiro. Dende alí podía contemplar toda a cidade."
+msgstr "Moi lonxe, no outro extremo da cidade, vivía un inventor famoso chamado Zangemann. Era inmesamente rico. Non había no mundo unha folla de papel o suficientemente grande para amosar todos os cartos que tiña, con todos os seus números e ceros."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:520
 msgid "He lived in a huge house with a swimming pool and waterslide, lots of staircases and towers, hundreds of windows, and so many rooms that he often got lost in them himself."
-msgstr ""
+msgstr "Vivía nunha casa enorme, con piscina e tobogán, moitas escaleiras e torres, centos de ventás e tantas habitacións que a miúdo se perdía nelas."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:520
 msgid "Zangemann’s mansion stood high on a hill. From there, he could look out over the whole city."
-msgstr ""
+msgstr "A mansión de Zangemann estaba no alto dun outeiro. Dende alí podía contemplar toda a cidade."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:525

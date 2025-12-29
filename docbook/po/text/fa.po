@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2025-12-28 21:50+0100\n"
+"PO-Revision-Date: 2025-12-29 09:45+0100\n"
 "Last-Translator: abbas davarpanah <abbasdp@proton.me>\n"
 "Language-Team: Persian <https://hosted.weblate.org/projects/fsfe/ada-zangemann/fa/>\n"
 "Language: fa\n"
@@ -453,19 +453,18 @@ msgstr "مجلات معتبر («ستاره‌ها»، «پول»، «ثروتم
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:520
-#, fuzzy
 msgid "Far away, at the other end of town, lived a famous inventor named Zangemann. He was immensely rich. No sheet of paper in the world was big enough to show his bank balance with all its numbers and zeros!"
-msgstr "در نقطه‌ای دور، در انتهای دیگر شهر، مخترع مشهوری به نام زنگِمن زندگی می‌کرد. او فوق‌العاده ثروتمند بود. هیچ برگ کاغذی در دنیا به اندازه‌ای بزرگ نبود که بتواند موجودی حساب بانکی او را با تمام اعداد و صفرهایش نشان دهد! او در یک خانه عظیم با استخر، سرسره آبی، پلکان‌ها و برج‌های فراوان، صدها پنجره و آنقدر اتاق زندگی می‌کرد که اغلب خودش نیز در آن‌ها گم می‌شد. عمارت زنگِمن در بالای یک تپه قرار داشت. او از آنجا می‌توانست کل شهر را زیر نظر داشته باشد."
+msgstr "در نقطه‌ای دور، در انتهای دیگر شهر، مخترع مشهوری به نام زنگِمن زندگی می‌کرد. او فوق‌العاده ثروتمند بود. هیچ برگ کاغذی در دنیا به اندازه‌ای بزرگ نبود که بتواند موجودی حساب بانکی او را با تمام اعداد و صفرهایش نشان دهد!"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:520
 msgid "He lived in a huge house with a swimming pool and waterslide, lots of staircases and towers, hundreds of windows, and so many rooms that he often got lost in them himself."
-msgstr ""
+msgstr "او در یک خانه عظیم با استخر، سرسره آبی، پلکان‌ها و برج‌های فراوان، صدها پنجره و آنقدر اتاق زندگی می‌کرد که اغلب خودش نیز در آن‌ها گم می‌شد."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:520
 msgid "Zangemann’s mansion stood high on a hill. From there, he could look out over the whole city."
-msgstr ""
+msgstr "عمارت زنگِمن در بالای یک تپه قرار داشت. او از آنجا می‌توانست کل شهر را زیر نظر داشته باشد."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:525

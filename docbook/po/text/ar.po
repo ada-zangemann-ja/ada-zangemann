@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2025-12-28 21:44+0100\n"
+"PO-Revision-Date: 2025-12-29 09:39+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ar\n"
@@ -401,19 +401,18 @@ msgstr ""
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:520
-#, fuzzy
 msgid "Far away, at the other end of town, lived a famous inventor named Zangemann. He was immensely rich. No sheet of paper in the world was big enough to show his bank balance with all its numbers and zeros!"
-msgstr "بعيداً ، في الطرف الآخر من المدينة ، عاش مخترعٌ مشهور يُدْعَى زانغمان. كان ثريّاً للغاية. لم تكن هناك ورقة في العالم كبيرة بما يكفي لإظهار رصيده المصرفي بكل أرقامه وأصفاره. كان يعيش في منزل ضخم به حَوْضُ سباحةٍ و زلاجةَ مائيّة ، والعديد من السلالم والأبراج ومئات النوافذ والعديد من الغرف التي كان يضيع فيها بانتظام. كان قصرُ زانغمان مرتفعاً على تلّ. من هناك ، يمكنه أَنْ يُطِلَّ على المدينة بأكملها."
+msgstr "بعيداً ، في الطرف الآخر من المدينة ، عاش مخترعٌ مشهور يُدْعَى زانغمان. كان ثريّاً للغاية. لم تكن هناك ورقة في العالم كبيرة بما يكفي لإظهار رصيده المصرفي بكل أرقامه وأصفاره."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:520
 msgid "He lived in a huge house with a swimming pool and waterslide, lots of staircases and towers, hundreds of windows, and so many rooms that he often got lost in them himself."
-msgstr ""
+msgstr "كان يعيش في منزل ضخم به حَوْضُ سباحةٍ و زلاجةَ مائيّة ، والعديد من السلالم والأبراج ومئات النوافذ والعديد من الغرف التي كان يضيع فيها بانتظام."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:520
 msgid "Zangemann’s mansion stood high on a hill. From there, he could look out over the whole city."
-msgstr ""
+msgstr "كان قصرُ زانغمان مرتفعاً على تلّ. من هناك ، يمكنه أَنْ يُطِلَّ على المدينة بأكملها."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:525

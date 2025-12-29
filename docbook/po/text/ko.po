@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2025-12-28 22:04+0100\n"
+"PO-Revision-Date: 2025-12-29 10:05+0100\n"
 "Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/fsfe/ada-zangemann/ko/>\n"
 "Language: ko\n"
@@ -440,19 +440,18 @@ msgstr "표지에 장기만과 그의 집이 실려있는 권위있는 잡지들
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:520
-#, fuzzy
 msgid "Far away, at the other end of town, lived a famous inventor named Zangemann. He was immensely rich. No sheet of paper in the world was big enough to show his bank balance with all its numbers and zeros!"
-msgstr "멀리, 도시 저 편에는 장기만이라는 이름의 유명한 발명가가 살고 있었어요. 그는 어마어마하게 부자였어요. 통장 잔고가 셀 수 없이 많은 숫자들과 0으로 이루어져 있어서 아저씨의 통장 잔고를 보여줄 수 있는 종이는 세상에 존재하지 않을 정도였어요! 아저씨 집은 수영장과 워터슬라이드, 수많은 계단과 타워, 수백 개의 창문이 달려 있었어요. 그 집에는 수많은 방들도 있었는데 아저씨가 종종 길을 잃어버리기도 했죠. 장기만 아저씨의 저택은 언덕에 우뚝 솟아 있었어요. 그는 거기에서 도시를 한 눈에 내려다 볼 수 있었지요."
+msgstr "멀리, 도시 저 편에는 장기만이라는 이름의 유명한 발명가가 살고 있었어요. 그는 어마어마하게 부자였어요. 통장 잔고가 셀 수 없이 많은 숫자들과 0으로 이루어져 있어서 아저씨의 통장 잔고를 보여줄 수 있는 종이는 세상에 존재하지 않을 정도였어요!"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:520
 msgid "He lived in a huge house with a swimming pool and waterslide, lots of staircases and towers, hundreds of windows, and so many rooms that he often got lost in them himself."
-msgstr ""
+msgstr "아저씨 집은 수영장과 워터슬라이드, 수많은 계단과 타워, 수백 개의 창문이 달려 있었어요. 그 집에는 수많은 방들도 있었는데 아저씨가 종종 길을 잃어버리기도 했죠."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:520
 msgid "Zangemann’s mansion stood high on a hill. From there, he could look out over the whole city."
-msgstr ""
+msgstr "장기만 아저씨의 저택은 언덕에 우뚝 솟아 있었어요. 그는 거기에서 도시를 한 눈에 내려다 볼 수 있었지요."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:525

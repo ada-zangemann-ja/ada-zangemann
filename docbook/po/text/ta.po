@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2025-12-29 07:33+0000\n"
+"PO-Revision-Date: 2025-12-29 10:14+0100\n"
 "Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
 "Language-Team: Tamil <https://hosted.weblate.org/projects/fsfe/ada-zangemann/ta/>\n"
 "Language: ta\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.15.1\n"
+"X-Generator: Poedit 3.6\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
@@ -379,19 +379,18 @@ msgstr ""
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:520
-#, fuzzy
 msgid "Far away, at the other end of town, lived a famous inventor named Zangemann. He was immensely rich. No sheet of paper in the world was big enough to show his bank balance with all its numbers and zeros!"
-msgstr "தொலைவில், நகரத்தின் மறுமுனையில், சாங்கேமன் என்ற பிரபல கண்டுபிடிப்பாளர் வாழ்ந்தார். அவர் மிகவும் பணக்காரராக இருந்தார். உலகில் எந்த தாளும் தனது வங்கி சமநிலையை அதன் அனைத்து எண்கள் மற்றும் பூச்சியங்களுடன் காண்பிக்கும் அளவுக்கு பெரியதாக இல்லை! அவர் ஒரு பெரிய வீட்டில் ஒரு நீச்சல் குளம் மற்றும் நீர்வீழ்ச்சி, ஏராளமான படிக்கட்டுகள் மற்றும் கோபுரங்கள், நூற்றுக்கணக்கான சன்னல்கள் மற்றும் பல அறைகள் ஆகியவற்றைக் கொண்டு வாழ்ந்தார். சாங்கேமனின் மாளிகை ஒரு மலையில் உயரமாக நின்றது. அங்கிருந்து, அவர் முழு நகரத்தையும் கவனிக்க முடியும்."
+msgstr "தொலைவில், நகரத்தின் மறுமுனையில், சாங்கேமன் என்ற பிரபல கண்டுபிடிப்பாளர் வாழ்ந்தார். அவர் மிகவும் பணக்காரராக இருந்தார். உலகில் எந்த தாளும் தனது வங்கி சமநிலையை அதன் அனைத்து எண்கள் மற்றும் பூச்சியங்களுடன் காண்பிக்கும் அளவுக்கு பெரியதாக இல்லை!"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:520
 msgid "He lived in a huge house with a swimming pool and waterslide, lots of staircases and towers, hundreds of windows, and so many rooms that he often got lost in them himself."
-msgstr ""
+msgstr "அவர் ஒரு பெரிய வீட்டில் ஒரு நீச்சல் குளம் மற்றும் நீர்வீழ்ச்சி, ஏராளமான படிக்கட்டுகள் மற்றும் கோபுரங்கள், நூற்றுக்கணக்கான சன்னல்கள் மற்றும் பல அறைகள் ஆகியவற்றைக் கொண்டு வாழ்ந்தார்."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:520
 msgid "Zangemann’s mansion stood high on a hill. From there, he could look out over the whole city."
-msgstr ""
+msgstr "சாங்கேமனின் மாளிகை ஒரு மலையில் உயரமாக நின்றது. அங்கிருந்து, அவர் முழு நகரத்தையும் கவனிக்க முடியும்."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:525

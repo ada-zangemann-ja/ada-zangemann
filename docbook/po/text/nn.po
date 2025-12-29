@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2025-11-25 21:49+0100\n"
-"PO-Revision-Date: 2025-12-28 22:06+0100\n"
+"PO-Revision-Date: 2025-12-29 10:07+0100\n"
 "Last-Translator: Kjetil Torgrim Homme <kjetilho@njus.no>\n"
 "Language-Team: \n"
 "Language: nn\n"
@@ -433,19 +433,18 @@ msgstr "Anerkjende tidsskrift («STJERNER», «PENGAR», «Rikaste mann») der Z
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:520
-#, fuzzy
 msgid "Far away, at the other end of town, lived a famous inventor named Zangemann. He was immensely rich. No sheet of paper in the world was big enough to show his bank balance with all its numbers and zeros!"
-msgstr "Langt unna, i den andre enden av byen, budde ein berømt oppfinnar som heitte Zangemann. Han var enormt rik. Det fanst ikkje eit papirark i verda som var stort nok til å skriva ned kor mykje pengar han hadde i banken. Ikkje ein gong viss ein skreiv talet med veldig små siffer! Han budde i eit kjempestort hus med symjebasseng og vassklie, massevis av trapper og tårn, hundrevis av vindauge og så mange rom at han ofte gjekk seg bort i dei. Zangemanns herskapshus stod høgt oppe på ein bakketopp. Derfrå kunne han sjå ut over heile byen."
+msgstr "Langt unna, i den andre enden av byen, budde ein berømt oppfinnar som heitte Zangemann. Han var enormt rik. Det fanst ikkje eit papirark i verda som var stort nok til å skriva ned kor mykje pengar han hadde i banken. Ikkje ein gong viss ein skreiv talet med veldig små siffer!"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:520
 msgid "He lived in a huge house with a swimming pool and waterslide, lots of staircases and towers, hundreds of windows, and so many rooms that he often got lost in them himself."
-msgstr ""
+msgstr "Han budde i eit kjempestort hus med symjebasseng og vassklie, massevis av trapper og tårn, hundrevis av vindauge og så mange rom at han ofte gjekk seg bort i dei."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:520
 msgid "Zangemann’s mansion stood high on a hill. From there, he could look out over the whole city."
-msgstr ""
+msgstr "Zangemanns herskapshus stod høgt oppe på ein bakketopp. Derfrå kunne han sjå ut over heile byen."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:525

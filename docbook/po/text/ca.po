@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2025-12-28 21:42+0100\n"
+"PO-Revision-Date: 2025-12-29 09:39+0100\n"
 "Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
 "Language-Team: Catalan <https://hosted.weblate.org/projects/fsfe/ada-zangemann/ca/>\n"
 "Language: ca\n"
@@ -381,19 +381,18 @@ msgstr ""
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:520
-#, fuzzy
 msgid "Far away, at the other end of town, lived a famous inventor named Zangemann. He was immensely rich. No sheet of paper in the world was big enough to show his bank balance with all its numbers and zeros!"
-msgstr "Molt lluny, a l’altra banda de la ciutat, vivia un inventor famós anomenat Zangemann. Era immensament ric. No hi havia full de paper al món prou gran per a mostrar el seu balanç bancari amb tots els seus números i zeros. Vivia en una casa enorme amb una piscina i un tobogan, moltes escales i torres, centenars de finestres i tantes habitacions que sovint ell mateix s’hi perdia. La mansió de Zangemann es trobava al cim d’un puig des d'on podia veure la ciutat sencera."
+msgstr "Molt lluny, a l’altra banda de la ciutat, vivia un inventor famós anomenat Zangemann. Era immensament ric. No hi havia full de paper al món prou gran per a mostrar el seu balanç bancari amb tots els seus números i zeros. "
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:520
 msgid "He lived in a huge house with a swimming pool and waterslide, lots of staircases and towers, hundreds of windows, and so many rooms that he often got lost in them himself."
-msgstr ""
+msgstr "Vivia en una casa enorme amb una piscina i un tobogan, moltes escales i torres, centenars de finestres i tantes habitacions que sovint ell mateix s’hi perdia."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:520
 msgid "Zangemann’s mansion stood high on a hill. From there, he could look out over the whole city."
-msgstr ""
+msgstr "La mansió de Zangemann es trobava al cim d’un puig des d'on podia veure la ciutat sencera."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:525
