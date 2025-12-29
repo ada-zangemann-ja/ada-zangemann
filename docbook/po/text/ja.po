@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2025-12-28 22:02+0100\n"
+"PO-Revision-Date: 2025-12-29 09:59+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -371,10 +371,20 @@ msgstr ""
 msgid "Prestigious magazines (“STARS“, “MONEY”, “Richest Man”) on whose cover are Zangemann and his villa."
 msgstr ""
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:520
-msgid "Far away, at the other end of town, lived a famous inventor named Zangemann. He was immensely rich. No sheet of paper in the world was big enough to show his bank balance with all its numbers and zeros! He lived in a huge house with a swimming pool and waterslide, lots of staircases and towers, hundreds of windows, and so many rooms that he often got lost in them himself. Zangemann’s mansion stood high on a hill. From there, he could look out over the whole city."
-msgstr "ずっとはなれたまちの反対がわには、ツァンゲマンという有名な発明家が住んでいました。ツァンゲマンはとてつもない大金持ちで、銀行にあずけているお金はけたが多すぎて、数字とゼロを紙に書ききれないほどでした。住んでいるのは、プールとウォータースライダー、たくさんの階段と塔、そしてなん百もの窓がついた豪邸です。あまりに部屋が多いので、ツァンゲマンは家のなかでよく迷子になりました。その豪邸は丘の上にあり、ツァンゲマンはそこからまち全体を見おろすことができました。"
+msgid "Far away, at the other end of town, lived a famous inventor named Zangemann. He was immensely rich. No sheet of paper in the world was big enough to show his bank balance with all its numbers and zeros!"
+msgstr "ずっとはなれたまちの反対がわには、ツァンゲマンという有名な発明家が住んでいました。ツァンゲマンはとてつもない大金持ちで、銀行にあずけているお金はけたが多すぎて、数字とゼロを紙に書ききれないほどでした"
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:520
+msgid "He lived in a huge house with a swimming pool and waterslide, lots of staircases and towers, hundreds of windows, and so many rooms that he often got lost in them himself."
+msgstr "住んでいるのは、プールとウォータースライダー、たくさんの階段と塔、そしてなん百もの窓がついた豪邸です。あまりに部屋が多いので、ツァンゲマンは家のなかでよく迷子になりました。"
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:520
+msgid "Zangemann’s mansion stood high on a hill. From there, he could look out over the whole city."
+msgstr "その豪邸は丘の上にあり、ツァンゲマンはそこからまち全体を見おろすことができました。"
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:525

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2025-12-28 22:06+0100\n"
+"PO-Revision-Date: 2025-12-29 10:06+0100\n"
 "Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/fsfe/ada-zangemann/nl/>\n"
 "Language: nl\n"
@@ -430,10 +430,20 @@ msgstr "Ada op de voorgrond verlaat het huis om naar school te gaan met op de ac
 msgid "Prestigious magazines (“STARS“, “MONEY”, “Richest Man”) on whose cover are Zangemann and his villa."
 msgstr "Prestigieuze tijdschriften (“STARS”, “MONEY”, “Richest Man”) met Zangemann en zijn landhuis op de voorpagina's."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:520
-msgid "Far away, at the other end of town, lived a famous inventor named Zangemann. He was immensely rich. No sheet of paper in the world was big enough to show his bank balance with all its numbers and zeros! He lived in a huge house with a swimming pool and waterslide, lots of staircases and towers, hundreds of windows, and so many rooms that he often got lost in them himself. Zangemann’s mansion stood high on a hill. From there, he could look out over the whole city."
-msgstr "Ver weg, aan de andere kant van de stad, woonde een beroemde uitvinder genaamd Zangemann. Hij was ongelooflijk rijk. Geen vel papier ter wereld was groot genoeg voor zijn bankafschrift met al die grote getallen! Hij woonde in een enorm huis met een zwembad, een waterglijbaan, veel trappen en torens, honderden ramen en zóveel kamers dat hij er zelf vaak verdwaalde. Zangemanns landhuis stond hoog op een heuvel. Daar vandaan kon hij over de hele stad uitkijken."
+msgid "Far away, at the other end of town, lived a famous inventor named Zangemann. He was immensely rich. No sheet of paper in the world was big enough to show his bank balance with all its numbers and zeros!"
+msgstr "Ver weg, aan de andere kant van de stad, woonde een beroemde uitvinder genaamd Zangemann. Hij was ongelooflijk rijk. Geen vel papier ter wereld was groot genoeg voor zijn bankafschrift met al die grote getallen!"
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:520
+msgid "He lived in a huge house with a swimming pool and waterslide, lots of staircases and towers, hundreds of windows, and so many rooms that he often got lost in them himself."
+msgstr "Hij woonde in een enorm huis met een zwembad, een waterglijbaan, veel trappen en torens, honderden ramen en zóveel kamers dat hij er zelf vaak verdwaalde."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:520
+msgid "Zangemann’s mansion stood high on a hill. From there, he could look out over the whole city."
+msgstr "Zangemanns landhuis stond hoog op een heuvel. Daar vandaan kon hij over de hele stad uitkijken."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:525

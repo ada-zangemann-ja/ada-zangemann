@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2025-12-28 21:57+0100\n"
+"PO-Revision-Date: 2025-12-29 09:50+0100\n"
 "Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/fsfe/ada-zangemann/hr/>\n"
 "Language: hr\n"
@@ -376,10 +376,20 @@ msgstr ""
 msgid "Prestigious magazines (“STARS“, “MONEY”, “Richest Man”) on whose cover are Zangemann and his villa."
 msgstr ""
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:520
-msgid "Far away, at the other end of town, lived a famous inventor named Zangemann. He was immensely rich. No sheet of paper in the world was big enough to show his bank balance with all its numbers and zeros! He lived in a huge house with a swimming pool and waterslide, lots of staircases and towers, hundreds of windows, and so many rooms that he often got lost in them himself. Zangemann’s mansion stood high on a hill. From there, he could look out over the whole city."
-msgstr "Daleko, na drugom kraju grada, živio je slavni izumitelj koji se zvao Zangemann. On je bio neizmjerno bogat. Niti jedan list papira na svijetu nije bio dovoljno velik da se na njemu napiše stanje njegova bankovnog računa sa svim tim brojevima i nulama! Živio je u golemoj kući s bazenom i toboganom, s mnogo stubišta i tornjeva, stotinama prozora te s tolikim mnogo soba da bi se i sam često izgubio. Zangemannova vila bila je visoko na brdu. Otuda je mogao gledati na cijeli grad."
+msgid "Far away, at the other end of town, lived a famous inventor named Zangemann. He was immensely rich. No sheet of paper in the world was big enough to show his bank balance with all its numbers and zeros!"
+msgstr "Daleko, na drugom kraju grada, živio je slavni izumitelj koji se zvao Zangemann. On je bio neizmjerno bogat. Niti jedan list papira na svijetu nije bio dovoljno velik da se na njemu napiše stanje njegova bankovnog računa sa svim tim brojevima i nulama!"
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:520
+msgid "He lived in a huge house with a swimming pool and waterslide, lots of staircases and towers, hundreds of windows, and so many rooms that he often got lost in them himself."
+msgstr "Živio je u golemoj kući s bazenom i toboganom, s mnogo stubišta i tornjeva, stotinama prozora te s tolikim mnogo soba da bi se i sam često izgubio."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:520
+msgid "Zangemann’s mansion stood high on a hill. From there, he could look out over the whole city."
+msgstr "Zangemannova vila bila je visoko na brdu. Otuda je mogao gledati na cijeli grad."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:525

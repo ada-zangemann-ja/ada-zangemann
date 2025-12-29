@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2025-12-28 22:13+0100\n"
+"PO-Revision-Date: 2025-12-29 10:15+0100\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim5@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/fsfe/ada-zangemann/uk/>\n"
 "Language: uk\n"
@@ -454,10 +454,20 @@ msgstr "На передньому плані Ада виходить з дому
 msgid "Prestigious magazines (“STARS“, “MONEY”, “Richest Man”) on whose cover are Zangemann and his villa."
 msgstr "Престижні журнали (“STARS“, “MONEY”, “Richest Man”), на обкладинках яких зображені Занґеманн і його вілла."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:520
-msgid "Far away, at the other end of town, lived a famous inventor named Zangemann. He was immensely rich. No sheet of paper in the world was big enough to show his bank balance with all its numbers and zeros! He lived in a huge house with a swimming pool and waterslide, lots of staircases and towers, hundreds of windows, and so many rooms that he often got lost in them himself. Zangemann’s mansion stood high on a hill. From there, he could look out over the whole city."
-msgstr "Далеко, на іншому кінці міста, жив відомий винахідник на ім'я Занґеманн. Він був надзвичайно багатий. Жоден аркуш паперу в світі не був достатньо великим, щоб відобразити його банківський баланс з усіма цифрами і нулями! Він жив у величезному будинку з басейном і водною гіркою, безліччю сходів і веж, сотнями вікон і такою кількістю кімнат, що сам часто губився в них. Особняк Занґеманна стояв високо на пагорбі. Звідти він міг дивитися на все місто."
+msgid "Far away, at the other end of town, lived a famous inventor named Zangemann. He was immensely rich. No sheet of paper in the world was big enough to show his bank balance with all its numbers and zeros!"
+msgstr "Далеко, на іншому кінці міста, жив відомий винахідник на ім'я Занґеманн. Він був надзвичайно багатий. Жоден аркуш паперу в світі не був достатньо великим, щоб відобразити його банківський баланс з усіма цифрами і нулями!"
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:520
+msgid "He lived in a huge house with a swimming pool and waterslide, lots of staircases and towers, hundreds of windows, and so many rooms that he often got lost in them himself."
+msgstr "Він жив у величезному будинку з басейном і водною гіркою, безліччю сходів і веж, сотнями вікон і такою кількістю кімнат, що сам часто губився в них."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:520
+msgid "Zangemann’s mansion stood high on a hill. From there, he could look out over the whole city."
+msgstr "Особняк Занґеманна стояв високо на пагорбі. Звідти він міг дивитися на все місто."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:525

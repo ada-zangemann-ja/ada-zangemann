@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2025-12-28 21:52+0100\n"
+"PO-Revision-Date: 2025-12-29 09:46+0100\n"
 "Last-Translator: Sacha Muszlak <sacha@muszlak.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/fsfe/ada-zangemann/fr/>\n"
 "Language: fr\n"
@@ -385,10 +385,20 @@ msgstr "Ce dessin représente une petite fille avec deux grandes couettes brunes
 msgid "Prestigious magazines (“STARS“, “MONEY”, “Richest Man”) on whose cover are Zangemann and his villa."
 msgstr "Ce dessin représente une pile de magazines bariolés de titres et d'images consacrés à Zangemann. C'est un homme maigre à lunettes, il porte un col roulé gris sous son menton pointu, avec des lunettes posées sur un nez encore plus pointu, et il occupe toutes les couvertures : Stars magazine montre son portrait satisfait devant sa villa, une construction ultra moderne avec terrasse accessible par un toboggan tourbillonnant, antennes, palmiers. Money magazine le montre fier de lui entouré d'étincelles et de Dollars. Un troisième magazine titre : “l'homme le plus riche”."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:520
-msgid "Far away, at the other end of town, lived a famous inventor named Zangemann. He was immensely rich. No sheet of paper in the world was big enough to show his bank balance with all its numbers and zeros! He lived in a huge house with a swimming pool and waterslide, lots of staircases and towers, hundreds of windows, and so many rooms that he often got lost in them himself. Zangemann’s mansion stood high on a hill. From there, he could look out over the whole city."
-msgstr "Loin de là, à l’autre bout de la ville, vivait un célèbre inventeur du nom de Zangemann. Il était immensément riche. Aucune feuille de papier n’était assez grande pour y écrire tous les chiffres et les zéros de son compte en banque. Il habitait une immense maison avec piscine et toboggan aquatique, de nombreux escaliers, des tours, des centaines de fenêtres et tant de pièces que lui-même s’y perdait régulièrement. La propriété de Zangemann était construite au sommet de la montagne. De là-haut, il pouvait observer toute la ville."
+msgid "Far away, at the other end of town, lived a famous inventor named Zangemann. He was immensely rich. No sheet of paper in the world was big enough to show his bank balance with all its numbers and zeros!"
+msgstr "Loin de là, à l’autre bout de la ville, vivait un célèbre inventeur du nom de Zangemann. Il était immensément riche. Aucune feuille de papier n’était assez grande pour y écrire tous les chiffres et les zéros de son compte en banque."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:520
+msgid "He lived in a huge house with a swimming pool and waterslide, lots of staircases and towers, hundreds of windows, and so many rooms that he often got lost in them himself."
+msgstr "Il habitait une immense maison avec piscine et toboggan aquatique, de nombreux escaliers, des tours, des centaines de fenêtres et tant de pièces que lui-même s’y perdait régulièrement."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:520
+msgid "Zangemann’s mansion stood high on a hill. From there, he could look out over the whole city."
+msgstr "La propriété de Zangemann était construite au sommet de la montagne. De là-haut, il pouvait observer toute la ville."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:525

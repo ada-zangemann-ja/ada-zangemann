@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-10-16 21:28+0200\n"
-"PO-Revision-Date: 2025-12-29 07:10+0000\n"
+"PO-Revision-Date: 2025-12-29 09:48+0100\n"
 "Last-Translator: Yaron Shahrabani <sh.yaron@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/fsfe/ada-zangemann/he/>\n"
 "Language: he\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n == 1) ? 0 : ((n == 2) ? 1 : ((n > 10 && n % 10 == 0) ? 2 : 3));\n"
-"X-Generator: Weblate 5.15.1\n"
+"X-Generator: Poedit 3.6\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
@@ -452,10 +452,20 @@ msgstr "עדה בחזית יוצאת מביתה כדי ללכת לבית הספ�
 msgid "Prestigious magazines (“STARS“, “MONEY”, “Richest Man”) on whose cover are Zangemann and his villa."
 msgstr "עיתונים יוקרתיים („STARS”,‏ „MONEY”,‏ „Richest Man”) שעל הכריכה שלהם זנגמן עם הווילה שלו."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:520
-msgid "Far away, at the other end of town, lived a famous inventor named Zangemann. He was immensely rich. No sheet of paper in the world was big enough to show his bank balance with all its numbers and zeros! He lived in a huge house with a swimming pool and waterslide, lots of staircases and towers, hundreds of windows, and so many rooms that he often got lost in them himself. Zangemann’s mansion stood high on a hill. From there, he could look out over the whole city."
-msgstr "הרחק משם, בצדו השני של העיר, חי ממציא מפורסם בשם זנגמן. הוא היה עשיר כקורח. אין דף בעולם כולו שיכל להכיל את כל המספרים והאפסים שבחשבון הבנק שלו! הוא חי בבית גדול עם בריכת שחייה ומגלשת מים, המון מדרגות וצריחים, מאות חלונות וכל כך הרבה חדרים עד שלפעמים הלך לאיבוד בעצמו. האחוזה של זנגמן עמדה על ראש גבעה. משם, יכול היה לתצפת על העיר כולה."
+msgid "Far away, at the other end of town, lived a famous inventor named Zangemann. He was immensely rich. No sheet of paper in the world was big enough to show his bank balance with all its numbers and zeros!"
+msgstr "הרחק משם, בצדו השני של העיר, חי ממציא מפורסם בשם זנגמן. הוא היה עשיר כקורח. אין דף בעולם כולו שיכל להכיל את כל המספרים והאפסים שבחשבון הבנק שלו!"
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:520
+msgid "He lived in a huge house with a swimming pool and waterslide, lots of staircases and towers, hundreds of windows, and so many rooms that he often got lost in them himself."
+msgstr "הוא חי בבית גדול עם בריכת שחייה ומגלשת מים, המון מדרגות וצריחים, מאות חלונות וכל כך הרבה חדרים עד שלפעמים הלך לאיבוד בעצמו"
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:520
+msgid "Zangemann’s mansion stood high on a hill. From there, he could look out over the whole city."
+msgstr "האחוזה של זנגמן עמדה על ראש גבעה. משם, יכול היה לתצפת על העיר כולה."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:525

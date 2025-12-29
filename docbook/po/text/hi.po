@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2025-12-28 21:56+0100\n"
+"PO-Revision-Date: 2025-12-29 09:49+0100\n"
 "Last-Translator: Aayush Gupta <aayushgupta219@gmail.com>\n"
 "Language-Team: Hindi <https://hosted.weblate.org/projects/fsfe/ada-zangemann/hi/>\n"
 "Language: hi\n"
@@ -380,10 +380,20 @@ msgstr ""
 msgid "Prestigious magazines (“STARS“, “MONEY”, “Richest Man”) on whose cover are Zangemann and his villa."
 msgstr "प्रतिष्ठित पत्रिकाएँ (\"सितारे\", \"धन\", \"धनवान पुरुष\") जिनके कवर पर ज़ैंगमैन और उसकी हवेली हैं।"
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:520
-msgid "Far away, at the other end of town, lived a famous inventor named Zangemann. He was immensely rich. No sheet of paper in the world was big enough to show his bank balance with all its numbers and zeros! He lived in a huge house with a swimming pool and waterslide, lots of staircases and towers, hundreds of windows, and so many rooms that he often got lost in them himself. Zangemann’s mansion stood high on a hill. From there, he could look out over the whole city."
-msgstr "दूर शहर के दूसरे छोर पर ज़ैंगमैन नाम का एक प्रसिद्ध आविष्कारक रहता था। वह बेतहाशा धनी था। दुनिया में कागज का कोई भी पन्ना इतना बड़ा नहीं था कि वह अपने सभी नंबरों और शून्यों के साथ अपना बैंक बैलेंस दिखा सके। वह एक विशाल घर में एक स्विमिंग पूल और वॉटरस्लाइड, बहुत सारी सीढ़ियाँ और टॉवर, सैकड़ों खिड़कियां और इतने सारे कमरे में रहता था कि वह अक्सर उनमें खो जाता था। ज़ैंगमैन की हवेली एक पहाड़ी पर ऊँची थी। वहां से वह पूरे शहर को देख सकता था।"
+msgid "Far away, at the other end of town, lived a famous inventor named Zangemann. He was immensely rich. No sheet of paper in the world was big enough to show his bank balance with all its numbers and zeros!"
+msgstr "दूर शहर के दूसरे छोर पर ज़ैंगमैन नाम का एक प्रसिद्ध आविष्कारक रहता था। वह बेतहाशा धनी था। दुनिया में कागज का कोई भी पन्ना इतना बड़ा नहीं था कि वह अपने सभी नंबरों और शून्यों के साथ अपना बैंक बैलेंस दिखा सके।"
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:520
+msgid "He lived in a huge house with a swimming pool and waterslide, lots of staircases and towers, hundreds of windows, and so many rooms that he often got lost in them himself."
+msgstr "वह एक विशाल घर में एक स्विमिंग पूल और वॉटरस्लाइड, बहुत सारी सीढ़ियाँ और टॉवर, सैकड़ों खिड़कियां और इतने सारे कमरे में रहता था कि वह अक्सर उनमें खो जाता था।"
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:520
+msgid "Zangemann’s mansion stood high on a hill. From there, he could look out over the whole city."
+msgstr "ज़ैंगमैन की हवेली एक पहाड़ी पर ऊँची थी। वहां से वह पूरे शहर को देख सकता था।"
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:525

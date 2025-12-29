@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2025-12-28 21:46+0100\n"
+"PO-Revision-Date: 2025-12-29 09:40+0100\n"
 "Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/fsfe/ada-zangemann/cs/>\n"
 "Language: cs\n"
@@ -376,10 +376,20 @@ msgstr ""
 msgid "Prestigious magazines (“STARS“, “MONEY”, “Richest Man”) on whose cover are Zangemann and his villa."
 msgstr ""
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:520
-msgid "Far away, at the other end of town, lived a famous inventor named Zangemann. He was immensely rich. No sheet of paper in the world was big enough to show his bank balance with all its numbers and zeros! He lived in a huge house with a swimming pool and waterslide, lots of staircases and towers, hundreds of windows, and so many rooms that he often got lost in them himself. Zangemann’s mansion stood high on a hill. From there, he could look out over the whole city."
-msgstr "Daleko odtud, na druhém konci města, bydlel slavný vynálezce, který se jmenoval Zangemann. Zangemann byl nebývale bohatý. Tak, že žádný papír na světě nebyl dostatečně velký na to, aby se na něj vešel stav jeho bankovního účtu se všemi čísly a nulami! Zangemann bydlel v obrovském domě s bazénem a tobogánem, spoustou schodišť a věží, stovkami oken a tolika pokoji, že se v nich často sám ztrácel. Jeho sídlo stálo vysoko na kopci, odkud viděl celé město."
+msgid "Far away, at the other end of town, lived a famous inventor named Zangemann. He was immensely rich. No sheet of paper in the world was big enough to show his bank balance with all its numbers and zeros!"
+msgstr "Daleko odtud, na druhém konci města, bydlel slavný vynálezce, který se jmenoval Zangemann. Zangemann byl nebývale bohatý. Tak, že žádný papír na světě nebyl dostatečně velký na to, aby se na něj vešel stav jeho bankovního účtu se všemi čísly a nulami!"
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:520
+msgid "He lived in a huge house with a swimming pool and waterslide, lots of staircases and towers, hundreds of windows, and so many rooms that he often got lost in them himself."
+msgstr "Zangemann bydlel v obrovském domě s bazénem a tobogánem, spoustou schodišť a věží, stovkami oken a tolika pokoji, že se v nich často sám ztrácel."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:520
+msgid "Zangemann’s mansion stood high on a hill. From there, he could look out over the whole city."
+msgstr "Jeho sídlo stálo vysoko na kopci, odkud viděl celé město."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:525

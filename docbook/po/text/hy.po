@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2025-12-28 21:58+0100\n"
+"PO-Revision-Date: 2025-12-29 09:55+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: hy\n"
@@ -378,10 +378,20 @@ msgstr "Առջեւում՝ Ադան տնից գնում է դպրոց, հետե�
 msgid "Prestigious magazines (“STARS“, “MONEY”, “Richest Man”) on whose cover are Zangemann and his villa."
 msgstr "Հեղինակաւոր ամսագրեր («Աստղեր», «Փող», «Մեծահարուստ տղամարդը»)՝ որոնց կազմին Զանգեմանն է եւ իր վիլլան։"
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:520
-msgid "Far away, at the other end of town, lived a famous inventor named Zangemann. He was immensely rich. No sheet of paper in the world was big enough to show his bank balance with all its numbers and zeros! He lived in a huge house with a swimming pool and waterslide, lots of staircases and towers, hundreds of windows, and so many rooms that he often got lost in them himself. Zangemann’s mansion stood high on a hill. From there, he could look out over the whole city."
-msgstr "Հեռվում՝ քաղաքի մյուս ծայրում, ապրում էր նորարար, չտեսնված հարուստ Զանգեմանը։ Աշխարհում չկար այդքան մեծ թուղթ, որ վրան գրեիր այդ բոլոր թվերն իրենց զրոներով։ Նա ապրում էր լողավազանով եւ ջրասահքով, աստիճաններով եւ աշտարակներով, հարյուրավոտ պատուահաններով մեծ տանը, որն այնքան շատ սենյակներ ուներ, որ ինքն էլ էր դրանց մեջ կորում։ Զանգեմանի առանձնատունը  կանգնած էր մեծ բլուրի վրա։ Այնտեղից նա ողջ քաղաքը կարող էր դիտել։"
+msgid "Far away, at the other end of town, lived a famous inventor named Zangemann. He was immensely rich. No sheet of paper in the world was big enough to show his bank balance with all its numbers and zeros!"
+msgstr "Հեռվում՝ քաղաքի մյուս ծայրում, ապրում էր նորարար, չտեսնված հարուստ Զանգեմանը։ Աշխարհում չկար այդքան մեծ թուղթ, որ վրան գրեիր այդ բոլոր թվերն իրենց զրոներով։"
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:520
+msgid "He lived in a huge house with a swimming pool and waterslide, lots of staircases and towers, hundreds of windows, and so many rooms that he often got lost in them himself."
+msgstr "Նա ապրում էր լողավազանով եւ ջրասահքով, աստիճաններով եւ աշտարակներով, հարյուրավոտ պատուահաններով մեծ տանը, որն այնքան շատ սենյակներ ուներ, որ ինքն էլ էր դրանց մեջ կորում։"
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:520
+msgid "Zangemann’s mansion stood high on a hill. From there, he could look out over the whole city."
+msgstr "Զանգեմանի առանձնատունը  կանգնած էր մեծ բլուրի վրա։ Այնտեղից նա ողջ քաղաքը կարող էր դիտել։"
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:525

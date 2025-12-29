@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2025-12-28 22:09+0100\n"
+"PO-Revision-Date: 2025-12-29 10:10+0100\n"
 "Last-Translator: Pavol Bezak <bezakp@gmail.com>\n"
 "Language-Team: Slovak <https://hosted.weblate.org/projects/fsfe/ada-zangemann/sk/>\n"
 "Language: sk\n"
@@ -378,10 +378,20 @@ msgstr ""
 msgid "Prestigious magazines (“STARS“, “MONEY”, “Richest Man”) on whose cover are Zangemann and his villa."
 msgstr ""
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:520
-msgid "Far away, at the other end of town, lived a famous inventor named Zangemann. He was immensely rich. No sheet of paper in the world was big enough to show his bank balance with all its numbers and zeros! He lived in a huge house with a swimming pool and waterslide, lots of staircases and towers, hundreds of windows, and so many rooms that he often got lost in them himself. Zangemann’s mansion stood high on a hill. From there, he could look out over the whole city."
-msgstr "Ďaleko odtiaľ, na druhej strane mesta, žil slávny vynálezca Zangemann. Bol neskutočne bohatý. Na žiadny papier by sa nezmestilo to dlhokánske číslo peňazí na jeho konte. Býval v obrovskom dome s bazénom a tobogánom. Bolo tam veľa schodov, veží, stovky okien a toľko veľa izieb, že sa v nich sám stále strácal. Zangemannovo panstvo sa nachádzalo vysoko na kopci. Odtiaľ mal výhľad na celé mesto."
+msgid "Far away, at the other end of town, lived a famous inventor named Zangemann. He was immensely rich. No sheet of paper in the world was big enough to show his bank balance with all its numbers and zeros!"
+msgstr "Ďaleko odtiaľ, na druhej strane mesta, žil slávny vynálezca Zangemann. Bol neskutočne bohatý. Na žiadny papier by sa nezmestilo to dlhokánske číslo peňazí na jeho konte."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:520
+msgid "He lived in a huge house with a swimming pool and waterslide, lots of staircases and towers, hundreds of windows, and so many rooms that he often got lost in them himself."
+msgstr "Býval v obrovskom dome s bazénom a tobogánom. Bolo tam veľa schodov, veží, stovky okien a toľko veľa izieb, že sa v nich sám stále strácal."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:520
+msgid "Zangemann’s mansion stood high on a hill. From there, he could look out over the whole city."
+msgstr "Zangemannovo panstvo sa nachádzalo vysoko na kopci. Odtiaľ mal výhľad na celé mesto."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:525

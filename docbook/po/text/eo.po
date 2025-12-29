@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2025-10-29 16:40+0000\n"
+"PO-Revision-Date: 2025-12-29 09:43+0100\n"
 "Last-Translator: Marco Ciampa <ciampix@posteo.net>\n"
 "Language-Team: Esperanto <https://hosted.weblate.org/projects/fsfe/ada-zangemann/eo/>\n"
 "Language: eo\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.14.1-dev\n"
+"X-Generator: Poedit 3.6\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
@@ -427,10 +427,20 @@ msgstr "Ada en la malfono forlasas la domon por iri al la lernejo, en la fono la
 msgid "Prestigious magazines (“STARS“, “MONEY”, “Richest Man”) on whose cover are Zangemann and his villa."
 msgstr "Prestiĝaj revuoj (“STELOJ”, “MONO”, “Plej Riĉa Viro”) sur kies kovrilo estas Zangemann kaj lia vilao."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:520
-msgid "Far away, at the other end of town, lived a famous inventor named Zangemann. He was immensely rich. No sheet of paper in the world was big enough to show his bank balance with all its numbers and zeros! He lived in a huge house with a swimming pool and waterslide, lots of staircases and towers, hundreds of windows, and so many rooms that he often got lost in them himself. Zangemann’s mansion stood high on a hill. From there, he could look out over the whole city."
-msgstr "Malproksime, ĉe la alia ekstremaĵo de la urbo, loĝis fama inventisto nomita Zangemann. Li estis ege riĉa. Neniu paperfolio en la mondo estis sufiĉe granda por montri lian bankkonton kun ĉiuj ĝiaj nombroj kaj nuloj! Li loĝis en grandega domo kun naĝejo kaj akvoglitejo, multaj ŝtuparoj kaj turoj, centoj da fenestroj kaj tiom da ĉambroj, ke li mem ofte perdiĝis en ili. La domego de Zangemann staris alte sur monteto. De tie, li povis rigardi la tutan urbon."
+msgid "Far away, at the other end of town, lived a famous inventor named Zangemann. He was immensely rich. No sheet of paper in the world was big enough to show his bank balance with all its numbers and zeros!"
+msgstr "Malproksime, ĉe la alia ekstremaĵo de la urbo, loĝis fama inventisto nomita Zangemann. Li estis ege riĉa. Neniu paperfolio en la mondo estis sufiĉe granda por montri lian bankkonton kun ĉiuj ĝiaj nombroj kaj nuloj!"
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:520
+msgid "He lived in a huge house with a swimming pool and waterslide, lots of staircases and towers, hundreds of windows, and so many rooms that he often got lost in them himself."
+msgstr "Li loĝis en grandega domo kun naĝejo kaj akvoglitejo, multaj ŝtuparoj kaj turoj, centoj da fenestroj kaj tiom da ĉambroj, ke li mem ofte perdiĝis en ili."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:520
+msgid "Zangemann’s mansion stood high on a hill. From there, he could look out over the whole city."
+msgstr "La domego de Zangemann staris alte sur monteto. De tie, li povis rigardi la tutan urbon."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:525
