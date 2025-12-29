@@ -409,8 +409,9 @@ targets-all-po-editorial = $(addprefix po/editorial/,$(addsuffix .po,$(translati
 targets-all-po = $(targets-all-po-text) $(targets-all-po-editorial)
 
 # Release into separate folder, intended for public sharing
+# Ordered to prioritize quick text formats
 .PHONY: release
-release: $(patsubst %.pdf,%.mediumres.pdf,$(targets-screen)) $(targets-pandoc-text-only-odt) $(targets-pandoc-text-only-md)
+release: $(targets-pandoc-text-only-md) $(targets-pandoc-text-only-odt) $(targets-brf) $(patsubst %.pdf,%.mediumres.pdf,$(targets-screen))
 	mkdir -p build/release
 	cp $^ build/release/
 
