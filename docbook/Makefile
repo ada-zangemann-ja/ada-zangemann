@@ -232,6 +232,16 @@ $(targets-pandoc-text-only-odt): build/Ada_Zangemann-pandoc-text-only.%.odt: \
 .PHONY: build/Ada_Zangemann-pandoc-text-only.all.odt
 build/Ada_Zangemann-pandoc-text-only.all.odt: $(targets-pandoc-text-only-odt)
 
+# Braille Ready Format
+# NOTE: lacks alt-text in output. See https://git.fsfe.org/FSFE/ada-zangemann/issues/106
+targets-brf = $(addprefix build/Ada_Zangemann.,$(addsuffix .brf,$(languages)))
+$(targets-brf): build/Ada_Zangemann.%.brf: \
+ build/Ada_Zangemann.%.html
+	file2brl -t $< $@
+
+.PHONY: build/Ada_Zangemann.all.brf
+build/Ada_Zangemann.all.brf: $(targets-brf)
+
 
 # Generic function for Scribus template processing
 # Params:

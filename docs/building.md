@@ -30,6 +30,7 @@ Packages needed for most outputs:
 - **scribus** to open the rendered file and generate pdf
 - **fonts-roboto** as standard font in the document
 - **ghostscript** for lower resolution pdf files
+- **liblouisutdml** for Braille Ready Files via file2brl
 - **xvfb** to hide Scribus UI when producing PDFs (optional)
 
 A convenient install command:
