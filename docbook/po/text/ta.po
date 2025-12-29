@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2025-12-29 07:10+0000\n"
+"PO-Revision-Date: 2025-12-29 07:33+0000\n"
 "Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
 "Language-Team: Tamil <https://hosted.weblate.org/projects/fsfe/ada-zangemann/ta/>\n"
 "Language: ta\n"
@@ -148,7 +148,7 @@ msgstr ""
 #. (itstool) id: Ada_Zangemann.dbk#para-back-1
 #: Ada_Zangemann.dbk:334
 msgid "The inventor Zangemann is world-famous and immensely rich. Adults and children alike love his fabulous technical inventions. But one day there is a problem: the children’s electronic skateboards no longer work properly. What’s going on? The curious girl Ada sees through what is going on. Together with her friends, she experiments with hardware and software, and the children forge a plan: Zangemann can no longer be the only one in control of the devices!"
-msgstr "[T] அவர் கண்டுபிடிப்பாளர் சாங்கேமன் உலகப் புகழ்பெற்றவர் மற்றும் மிகுந்த பணக்காரர். பெரியவர்களும் குழந்தைகளும் அவரது அற்புதமான தொழில்நுட்ப கண்டுபிடிப்புகளை விரும்புகிறார்கள். ஆனால் ஒரு நாள் ஒரு சிக்கல் உள்ளது: குழந்தைகளின் மின்னணு ச்கேட்போர்டுகள் இனி சரியாக வேலை செய்யாது. என்ன நடக்கிறது? ஆர்வமுள்ள பெண் அடா என்ன நடக்கிறது என்பதைப் பார்க்கிறாள். தனது நண்பர்களுடன் சேர்ந்து, அவர் வன்பொருள் மற்றும் மென்பொருளுடன் ஆய்வு செய்கிறார், மேலும் குழந்தைகள் ஒரு திட்டத்தை உருவாக்குகிறார்கள்: சாதனங்களின் கட்டுப்பாட்டில் சாங்க்மேன் இனி இருக்க முடியாது!"
+msgstr "அவர் கண்டுபிடிப்பாளர் சாங்கேமன் உலகப் புகழ்பெற்றவர் மற்றும் மிகுந்த பணக்காரர். பெரியவர்களும் குழந்தைகளும் அவரது அற்புதமான தொழில்நுட்ப கண்டுபிடிப்புகளை விரும்புகிறார்கள். ஆனால் ஒரு நாள் ஒரு சிக்கல் உள்ளது: குழந்தைகளின் மின்னணு ச்கேட்போர்டுகள் இனி சரியாக வேலை செய்யாது. என்ன நடக்கிறது? ஆர்வமுள்ள பெண் அடா என்ன நடக்கிறது என்பதைப் பார்க்கிறாள். தனது நண்பர்களுடன் சேர்ந்து, அவர் வன்பொருள் மற்றும் மென்பொருளுடன் ஆய்வு செய்கிறார், மேலும் குழந்தைகள் ஒரு திட்டத்தை உருவாக்குகிறார்கள்: சாதனங்களின் கட்டுப்பாட்டில் சாங்க்மேன் இனி இருக்க முடியாது!"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:335
@@ -584,7 +584,7 @@ msgstr ""
 #. (itstool) id: Ada_Zangemann.dbk#para-p18-1
 #: Ada_Zangemann.dbk:660
 msgid "The next day, there was a big commotion at Ada’s school. On the way to school, the kids’ skateboards had stopped working. The wheels simply stood still. And the children could no longer turn up the volume on their speakers. What was going on?"
-msgstr "[T] அவர் அடுத்த நாள், அடாவின் பள்ளியில் ஒரு பெரிய குழப்பம் ஏற்பட்டது. பள்ளிக்கு செல்லும் வழியில், குழந்தைகளின் ச்கேட்போர்டுகள் வேலை செய்வதை நிறுத்திவிட்டன. சக்கரங்கள் வெறுமனே அசையாமல் நின்றன. மேலும் குழந்தைகள் இனி தங்கள் பேச்சாளர்களின் அளவை உயர்த்த முடியாது. என்ன நடக்கிறது?"
+msgstr "அவர் அடுத்த நாள், அடாவின் பள்ளியில் ஒரு பெரிய குழப்பம் ஏற்பட்டது. பள்ளிக்கு செல்லும் வழியில், குழந்தைகளின் ச்கேட்போர்டுகள் வேலை செய்வதை நிறுத்திவிட்டன. சக்கரங்கள் வெறுமனே அசையாமல் நின்றன. மேலும் குழந்தைகள் இனி தங்கள் பேச்சாளர்களின் அளவை உயர்த்த முடியாது. என்ன நடக்கிறது?"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -621,7 +621,7 @@ msgstr ""
 #. (itstool) id: Ada_Zangemann.dbk#para-p20-1
 #: Ada_Zangemann.dbk:686
 msgid "Ada loved Wednesdays. Every Wednesday, her mother and Alan would pick her up from school, and they would all go to the library together. Ada was always drawn to the technology section. There were books with blueprints, instructions for experiments, and explanations of how different devices worked. In the library, Ada could also go online with her cell phone. She quickly realized that there was also much to discover on the internet. There, many people shared their ideas and repair tips to help others."
-msgstr "[அ] டா புதன்கிழமைகளில் நேசித்தார். ஒவ்வொரு புதன்கிழமையும், அவளுடைய தாயும் ஆலனும் அவளை பள்ளியிலிருந்து அழைத்துச் செல்வார்கள், அவர்கள் அனைவரும் ஒன்றாக நூலகத்திற்குச் செல்வார்கள். அடா எப்போதும் தொழில்நுட்ப பிரிவுக்கு ஈர்க்கப்பட்டார். வரைபடங்களைக் கொண்ட புத்தகங்கள், சோதனைகளுக்கான வழிமுறைகள் மற்றும் வெவ்வேறு சாதனங்கள் எவ்வாறு செயல்பட்டன என்பதற்கான விளக்கங்கள் இருந்தன. நூலகத்தில், அடா தனது செல்போனுடன் ஆன்லைனில் செல்லலாம். இணையத்தில் கண்டுபிடிக்க நிறைய இருக்கிறது என்பதை அவள் விரைவாக உணர்ந்தாள். அங்கு, பலர் தங்கள் யோசனைகளையும் பழுதுபார்க்கும் உதவிக்குறிப்புகளையும் மற்றவர்களுக்கு உதவ பகிர்ந்து கொண்டனர்."
+msgstr "அடா புதன்கிழமைகளில் நேசித்தார். ஒவ்வொரு புதன்கிழமையும், அவளுடைய தாயும் ஆலனும் அவளை பள்ளியிலிருந்து அழைத்துச் செல்வார்கள், அவர்கள் அனைவரும் ஒன்றாக நூலகத்திற்குச் செல்வார்கள். அடா எப்போதும் தொழில்நுட்ப பிரிவுக்கு ஈர்க்கப்பட்டார். வரைபடங்களைக் கொண்ட புத்தகங்கள், சோதனைகளுக்கான வழிமுறைகள் மற்றும் வெவ்வேறு சாதனங்கள் எவ்வாறு செயல்பட்டன என்பதற்கான விளக்கங்கள் இருந்தன. நூலகத்தில், அடா தனது செல்போனுடன் ஆன்லைனில் செல்லலாம். இணையத்தில் கண்டுபிடிக்க நிறைய இருக்கிறது என்பதை அவள் விரைவாக உணர்ந்தாள். அங்கு, பலர் தங்கள் யோசனைகளையும் பழுதுபார்க்கும் உதவிக்குறிப்புகளையும் மற்றவர்களுக்கு உதவ பகிர்ந்து கொண்டனர்."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:687
@@ -650,7 +650,7 @@ msgstr ""
 #. (itstool) id: Ada_Zangemann.dbk#para-p22-1
 #: Ada_Zangemann.dbk:705
 msgid "Over the next few weeks, Ada spent her afternoons in the library. She found books and websites that explained how programming languages and code worked. For Ada, it felt a bit like learning a secret language, or like studying vocabulary in school. Ada ate it all up. She expected her first program to do something simple: “Make this lamp blink!”"
-msgstr "[O] அடுத்த சில வாரங்களில், அடா தனது மதியங்களை நூலகத்தில் கழித்தார். நிரலாக்க மொழிகள் மற்றும் குறியீடு எவ்வாறு செயல்பட்டன என்பதை விளக்கும் புத்தகங்கள் மற்றும் வலைத்தளங்களை அவர் கண்டுபிடித்தார். அடாவைப் பொறுத்தவரை, இது ஒரு ரகசிய மொழியைக் கற்றுக்கொள்வது அல்லது பள்ளியில் சொல்லகராதி படிப்பது போன்றது. அடா அதையெல்லாம் சாப்பிட்டார். தனது முதல் திட்டம் எளிமையான ஒன்றைச் செய்வதாக அவள் எதிர்பார்த்தாள்: “இந்த விளக்கை ஒளிரச் செய்யுங்கள்!”"
+msgstr "அடுத்த சில வாரங்களில், அடா தனது மதியங்களை நூலகத்தில் கழித்தார். நிரலாக்க மொழிகள் மற்றும் குறியீடு எவ்வாறு செயல்பட்டன என்பதை விளக்கும் புத்தகங்கள் மற்றும் வலைத்தளங்களை அவர் கண்டுபிடித்தார். அடாவைப் பொறுத்தவரை, இது ஒரு ரகசிய மொழியைக் கற்றுக்கொள்வது அல்லது பள்ளியில் சொல்லகராதி படிப்பது போன்றது. அடா அதையெல்லாம் சாப்பிட்டார். தனது முதல் திட்டம் எளிமையான ஒன்றைச் செய்வதாக அவள் எதிர்பார்த்தாள்: “இந்த விளக்கை ஒளிரச் செய்யுங்கள்!”"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:706
@@ -718,7 +718,7 @@ msgstr ""
 #. (itstool) id: Ada_Zangemann.dbk#para-p26-1
 #: Ada_Zangemann.dbk:745
 msgid "Summer break was already halfway over. Ada stood in front of her big project and scratched her head. She had built a skateboard from old parts and then connected a motor to make the wheels turn. With a motorized skateboard, Ada could zoom to the library or the junkyard even faster after school. Super practical! But it didn’t work. When she stood on it and pressed the Go! button, the wheels moved, but way too fast. Ada fell off the skateboard every time she started. No matter what she tried, she just couldn’t get it right."
-msgstr "[கள்] உம்மர் பிரேக் ஏற்கனவே பாதியிலேயே இருந்தது. அடா தனது பெரிய திட்டத்தின் முன் நின்று தலையை சொறிந்து கொண்டாள். அவள் பழைய பகுதிகளிலிருந்து ஒரு ச்கேட்போர்டைக் கட்டியிருந்தாள், பின்னர் சக்கரங்களை மாற்ற ஒரு மோட்டாரை இணைத்தாள். மின்னோடி பொருத்தப்பட்ட ச்கேட்போர்டு மூலம், அடா நூலகத்திற்கு அல்லது சங்க்யார்டுக்கு பள்ளிக்குப் பிறகு வேகமாக பெரிதாக்க முடியும். சூப்பர் நடைமுறை! ஆனால் அது வேலை செய்யவில்லை. அவள் அதன் மீது நின்று பயணத்தை அழுத்தியபோது! பொத்தான், சக்கரங்கள் நகர்ந்தன, ஆனால் மிக வேகமாக. அவள் தொடங்கிய ஒவ்வொரு முறையும் அடா ச்கேட்போர்டில் இருந்து விழுந்தாள். அவள் என்ன முயற்சித்தாலும், அவளால் அதை சரியாகப் பெற முடியவில்லை."
+msgstr "கள் உம்மர் பிரேக் ஏற்கனவே பாதியிலேயே இருந்தது. அடா தனது பெரிய திட்டத்தின் முன் நின்று தலையை சொறிந்து கொண்டாள். அவள் பழைய பகுதிகளிலிருந்து ஒரு ச்கேட்போர்டைக் கட்டியிருந்தாள், பின்னர் சக்கரங்களை மாற்ற ஒரு மோட்டாரை இணைத்தாள். மின்னோடி பொருத்தப்பட்ட ச்கேட்போர்டு மூலம், அடா நூலகத்திற்கு அல்லது சங்க்யார்டுக்கு பள்ளிக்குப் பிறகு வேகமாக பெரிதாக்க முடியும். சூப்பர் நடைமுறை! ஆனால் அது வேலை செய்யவில்லை. அவள் அதன் மீது நின்று பயணத்தை அழுத்தியபோது! பொத்தான், சக்கரங்கள் நகர்ந்தன, ஆனால் மிக வேகமாக. அவள் தொடங்கிய ஒவ்வொரு முறையும் அடா ச்கேட்போர்டில் இருந்து விழுந்தாள். அவள் என்ன முயற்சித்தாலும், அவளால் அதை சரியாகப் பெற முடியவில்லை."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:746
@@ -850,8 +850,9 @@ msgstr "ஒரு வெள்ளரிக்காயில் வண்ண ந
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p35-1
 #: Ada_Zangemann.dbk:840
+#, fuzzy
 msgid "Every day, Ada and her friends made plans together for the afternoon. From a broken ice-cream machine, they built a new one that could make ice cream in every imaginable shape and color. They ate square ice cream, heart-shaped ice cream, and even pyramid-shaped ice cream, as well as strawberry, raspberry, and rainbow ice cream, all with sprinkles and hot fudge — much better than the varieties from the Zangemann machines."
-msgstr "[இ] நாள், அடாவும் அவரது நண்பர்களும் பிற்பகல் திட்டங்களை உருவாக்கினர். உடைந்த ஐச்கிரீம் இயந்திரத்திலிருந்து, அவர்கள் கற்பனை செய்யக்கூடிய ஒவ்வொரு வடிவத்திலும் வண்ணத்திலும் ஐச்கிரீம் தயாரிக்கக்கூடிய புதிய ஒன்றை உருவாக்கினர். அவர்கள் சதுர ஐச்கிரீம், இதய வடிவிலான ஐச்கிரீம் மற்றும் பிரமிட் வடிவ ஐச்கிரீம், அத்துடன் ச்ட்ராபெரி, ராச்பெர்ரி மற்றும் ரெயின்போ ஐச்கிரீம் ஆகியவற்றை கூட சாப்பிட்டனர், இவை அனைத்தும் தெளிப்பான்கள் மற்றும் சூடான ஃபட்ச்-சாங்கேமன் இயந்திரங்களிலிருந்து வரும் வகைகளை விட மிகவும் சிறந்தது."
+msgstr "இநாள், அடாவும் அவரது நண்பர்களும் பிற்பகல் திட்டங்களை உருவாக்கினர். உடைந்த ஐச்கிரீம் இயந்திரத்திலிருந்து, அவர்கள் கற்பனை செய்யக்கூடிய ஒவ்வொரு வடிவத்திலும் வண்ணத்திலும் ஐச்கிரீம் தயாரிக்கக்கூடிய புதிய ஒன்றை உருவாக்கினர். அவர்கள் சதுர ஐச்கிரீம், இதய வடிவிலான ஐச்கிரீம் மற்றும் பிரமிட் வடிவ ஐச்கிரீம், அத்துடன் ச்ட்ராபெரி, ராச்பெர்ரி மற்றும் ரெயின்போ ஐச்கிரீம் ஆகியவற்றை கூட சாப்பிட்டனர், இவை அனைத்தும் தெளிப்பான்கள் மற்றும் சூடான ஃபட்ச்-சாங்கேமன் இயந்திரங்களிலிருந்து வரும் வகைகளை விட மிகவும் சிறந்தது."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:841
@@ -874,7 +875,7 @@ msgstr ""
 #: Ada_Zangemann.dbk:851
 #, fuzzy
 msgid "One day, Zangemann noticed that some computers no longer obeyed his programming commands. Shocked and fuming with anger, he called the president. In a quivering voice, Zangemann yelled, “Someone is rewriting the programs in my devices. That can’t happen; after all, they are my inventions. It’s far too dangerous if everyone can do whatever they want with the computers. You must make a law against this!”"
-msgstr "[O] ne நாள், சில கணினிகள் இனி தனது நிரலாக்க கட்டளைகளுக்குக் கீழ்ப்படியவில்லை என்பதை சாங்கேமன் கவனித்தார். அதிர்ச்சியடைந்து கோபத்தால் எரியும் அவர் சனாதிபதியை அழைத்தார். ஒரு நடுங்கும் குரலில், சாங்கேமன் கத்தினார், “யாரோ எனது சாதனங்களில் உள்ள திட்டங்களை மீண்டும் எழுதுகிறார்கள். அது நடக்க முடியாது; எல்லாவற்றிற்கும் மேலாக, அவை என் கண்டுபிடிப்புகள். எல்லோரும் கணினிகளுடன் அவர்கள் விரும்பியதைச் செய்ய முடிந்தால் அது மிகவும் ஆபத்தானது. இதற்கு எதிராக நீங்கள் ஒரு சட்டத்தை உருவாக்க வேண்டும்! ”"
+msgstr "One நாள், சில கணினிகள் இனி தனது நிரலாக்க கட்டளைகளுக்குக் கீழ்ப்படியவில்லை என்பதை சாங்கேமன் கவனித்தார். அதிர்ச்சியடைந்து கோபத்தால் எரியும் அவர் சனாதிபதியை அழைத்தார். ஒரு நடுங்கும் குரலில், சாங்கேமன் கத்தினார், “யாரோ எனது சாதனங்களில் உள்ள திட்டங்களை மீண்டும் எழுதுகிறார்கள். அது நடக்க முடியாது; எல்லாவற்றிற்கும் மேலாக, அவை என் கண்டுபிடிப்புகள். எல்லோரும் கணினிகளுடன் அவர்கள் விரும்பியதைச் செய்ய முடிந்தால் அது மிகவும் ஆபத்தானது. இதற்கு எதிராக நீங்கள் ஒரு சட்டத்தை உருவாக்க வேண்டும்! ”"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:852
@@ -918,9 +919,8 @@ msgstr ""
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p39-1
 #: Ada_Zangemann.dbk:882
-#, fuzzy
 msgid "The next day, they didn’t go to school. Instead, they rode their skateboards to the parliament building, with large protest signs under their arms, and sat down in front of the building. The evening before, they had put LED lights on some of the signs, which were now flashing brightly. They had connected their speakers together so everyone in the street could hear what they were saying. Some passersby stopped and asked the children what they were demonstrating for. “For software freedom!” they replied in unison and told the adults their story. Impressed, the adults nodded, and the president also looked curiously at their signs as he approached the building."
-msgstr "[T] அவர் அடுத்த நாள், அவர்கள் பள்ளிக்குச் செல்லவில்லை. அதற்கு பதிலாக, அவர்கள் தங்கள் ச்கேட்போர்டுகளை பாராளுமன்ற கட்டிடத்திற்கு சவாரி செய்தனர், பெரிய எதிர்ப்பு அடையாளங்களுடன் தங்கள் கைகளின் கீழ், கட்டிடத்தின் முன் அமர்ந்தனர். அதற்கு முந்தைய மாலை, அவர்கள் சில அறிகுறிகளில் எல்.ஈ.டி விளக்குகளை வைத்திருந்தனர், அவை இப்போது பிரகாசமாக ஒளிரும். அவர்கள் தங்கள் பேச்சாளர்களை ஒன்றாக இணைத்திருந்தனர், எனவே தெருவில் உள்ள அனைவரும் அவர்கள் சொல்வதைக் கேட்க முடிந்தது. சில வழிப்போக்கர்கள் நிறுத்தி, குழந்தைகளிடம் அவர்கள் என்ன நிரூபிக்கிறார்கள் என்று கேட்டார்கள். \"மென்பொருள் சுதந்திரத்திற்காக!\" அவர்கள் ஒற்றுமையாக பதிலளித்தனர் மற்றும் பெரியவர்களுக்கு தங்கள் கதையைச் சொன்னார்கள். ஈர்க்கப்பட்ட, பெரியவர்கள் தலையசைத்தனர், மேலும் அவர் கட்டிடத்தை நெருங்கியபோது சனாதிபதியும் அவர்களின் அறிகுறிகளைக் கவனித்தனர்."
+msgstr "அவர் அடுத்த நாள், அவர்கள் பள்ளிக்குச் செல்லவில்லை. அதற்கு பதிலாக, அவர்கள் தங்கள் ச்கேட்போர்டுகளை பாராளுமன்ற கட்டிடத்திற்கு சவாரி செய்தனர், பெரிய எதிர்ப்பு அடையாளங்களுடன் தங்கள் கைகளின் கீழ், கட்டிடத்தின் முன் அமர்ந்தனர். அதற்கு முந்தைய மாலை, அவர்கள் சில அறிகுறிகளில் எல்.ஈ.டி விளக்குகளை வைத்திருந்தனர், அவை இப்போது பிரகாசமாக ஒளிரும். அவர்கள் தங்கள் பேச்சாளர்களை ஒன்றாக இணைத்திருந்தனர், எனவே தெருவில் உள்ள அனைவரும் அவர்கள் சொல்வதைக் கேட்க முடிந்தது. சில வழிப்போக்கர்கள் நிறுத்தி, குழந்தைகளிடம் அவர்கள் என்ன நிரூபிக்கிறார்கள் என்று கேட்டார்கள். \"மென்பொருள் சுதந்திரத்திற்காக!\" அவர்கள் ஒற்றுமையாக பதிலளித்தனர் மற்றும் பெரியவர்களுக்கு தங்கள் கதையைச் சொன்னார்கள். ஈர்க்கப்பட்ட, பெரியவர்கள் தலையசைத்தனர், மேலும் அவர் கட்டிடத்தை நெருங்கியபோது சனாதிபதியும் அவர்களின் அறிகுறிகளைக் கவனித்தனர்."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:883
@@ -992,9 +992,8 @@ msgstr ""
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p42-1
 #: Ada_Zangemann.dbk:927
-#, fuzzy
 msgid "Ada protested in front of the parliament building every week, even in pouring rain. On one such rainy day, when the president passed the group of dripping-wet children, he couldn’t help but admire their stubbornness. He asked Ada, “Why do you sit here every day? What do you want to achieve?” Ada replied, “We want to determine for ourselves what we can and cannot do with our computers.” Her friends shouted in unison: “Don’t wreck our tech! Don’t wreck our tech!” and “We want the code! We want the code!”"
-msgstr "[அ] டா ஒவ்வொரு வாரமும் பாராளுமன்ற கட்டிடத்தின் முன், மழையை ஊற்றுவதில் கூட எதிர்ப்பு தெரிவித்தார். இதுபோன்ற ஒரு மழை நாளில், குடியரசுத் தலைவர் சொட்டு மருந்து குழந்தைகளின் குழுவைக் கடந்து சென்றபோது, அவரால் உதவ முடியவில்லை, ஆனால் அவர்களின் பிடிவாதத்தைப் பாராட்ட முடியவில்லை. அவர் அடாவிடம், “நீங்கள் ஏன் ஒவ்வொரு நாளும் இங்கே உட்கார்ந்திருக்கிறீர்கள்? நீங்கள் எதை அடைய விரும்புகிறீர்கள்? ” அடா பதிலளித்தார், \"எங்கள் கணினிகளுடன் எங்களால் என்ன செய்ய முடியும், செய்ய முடியாது என்பதை நாங்கள் தீர்மானிக்க விரும்புகிறோம்.\" அவளுடைய நண்பர்கள் ஒற்றுமையுடன் கூச்சலிட்டனர்: “எங்கள் தொழில்நுட்பத்தை அழிக்க வேண்டாம்! எங்கள் தொழில்நுட்பத்தை அழிக்க வேண்டாம்! ” மேலும் “எங்களுக்கு குறியீடு வேண்டும்! எங்களுக்கு குறியீடு வேண்டும்! ”"
+msgstr "அடா ஒவ்வொரு வாரமும் பாராளுமன்ற கட்டிடத்தின் முன், மழையை ஊற்றுவதில் கூட எதிர்ப்பு தெரிவித்தார். இதுபோன்ற ஒரு மழை நாளில், குடியரசுத் தலைவர் சொட்டு மருந்து குழந்தைகளின் குழுவைக் கடந்து சென்றபோது, அவரால் உதவ முடியவில்லை, ஆனால் அவர்களின் பிடிவாதத்தைப் பாராட்ட முடியவில்லை. அவர் அடாவிடம், “நீங்கள் ஏன் ஒவ்வொரு நாளும் இங்கே உட்கார்ந்திருக்கிறீர்கள்? நீங்கள் எதை அடைய விரும்புகிறீர்கள்? ” அடா பதிலளித்தார், \"எங்கள் கணினிகளுடன் எங்களால் என்ன செய்ய முடியும், செய்ய முடியாது என்பதை நாங்கள் தீர்மானிக்க விரும்புகிறோம்.\" அவளுடைய நண்பர்கள் ஒற்றுமையுடன் கூச்சலிட்டனர்: “எங்கள் தொழில்நுட்பத்தை அழிக்க வேண்டாம்! எங்கள் தொழில்நுட்பத்தை அழிக்க வேண்டாம்! ” மேலும் “எங்களுக்கு குறியீடு வேண்டும்! எங்களுக்கு குறியீடு வேண்டும்! ”"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:928
@@ -1039,9 +1038,8 @@ msgstr ""
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p44-1
 #: Ada_Zangemann.dbk:954
-#, fuzzy
 msgid "The next morning, the president’s phone rang very early. It was Zangemann. He was angrier than ever. “Without me, the government computers will no longer work,” he threatened. But the president kept the call short and quickly hung up. The phone rang many more times that day, but Zangemann’s calls went unanswered. The president sat in a meeting with Ada, Toni, Marie, Konrad, and the government experts."
-msgstr "[T] அவர் அடுத்த நாள் காலையில், சனாதிபதியின் தொலைபேசி மிக விரைவாக ஒலித்தது. அது சாங்கேமன். அவர் முன்னெப்போதையும் விட கோபமாக இருந்தார். \"நான் இல்லாமல், அரசாங்க கணினிகள் இனி செயல்படாது\" என்று அவர் அச்சுறுத்தினார். ஆனால் குடியரசுத் தலைவர் அழைப்பை குறுகியதாக வைத்திருந்தார், விரைவாக தொங்கினார். அந்த நாளில் தொலைபேசி இன்னும் பல முறை ஒலித்தது, ஆனால் சாங்கேமனின் அழைப்புகள் பதிலளிக்கப்படவில்லை. அடா, டோனி, மேரி, கொன்ராட் மற்றும் அரசாங்க நிபுணர்களுடன் ஒரு சந்திப்பில் குடியரசுத் தலைவர் அமர்ந்தார்."
+msgstr "அவர் அடுத்த நாள் காலையில், சனாதிபதியின் தொலைபேசி மிக விரைவாக ஒலித்தது. அது சாங்கேமன். அவர் முன்னெப்போதையும் விட கோபமாக இருந்தார். \"நான் இல்லாமல், அரசாங்க கணினிகள் இனி செயல்படாது\" என்று அவர் அச்சுறுத்தினார். ஆனால் குடியரசுத் தலைவர் அழைப்பை குறுகியதாக வைத்திருந்தார், விரைவாக தொங்கினார். அந்த நாளில் தொலைபேசி இன்னும் பல முறை ஒலித்தது, ஆனால் சாங்கேமனின் அழைப்புகள் பதிலளிக்கப்படவில்லை. அடா, டோனி, மேரி, கொன்ராட் மற்றும் அரசாங்க நிபுணர்களுடன் ஒரு சந்திப்பில் குடியரசுத் தலைவர் அமர்ந்தார்."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1111,7 +1109,7 @@ msgstr ""
 #: Ada_Zangemann.dbk:1001
 #, fuzzy
 msgid "And Zangemann? No one’s heard much from him. Maybe he’s still sitting angrily in front of his golden computer. Maybe he doesn’t dare go out into the street anymore and has boarded up all the windows of his mansion so that he doesn’t have to worry about what other people are doing with his inventions. But maybe he also sometimes looks out into the world through his telescope and sees what the children are inventing every day. Perhaps then he will remember how much fun it was for himself to tinker and experiment. And maybe, just maybe, he eats pyramid-shaped raspberry ice cream with rainbow sprinkles."
-msgstr "[A] nd zangemann? அவரிடமிருந்து யாரும் அதிகம் கேட்கவில்லை. ஒருவேளை அவர் தனது தங்க கணினியின் முன் கோபமாக உட்கார்ந்திருக்கலாம். ஒருவேளை அவர் இனி தெருவுக்குச் செல்லத் துணியாமல், தனது மாளிகையின் அனைத்து சன்னல்களையும் ஏறிக்கொண்டிருக்கலாம், இதனால் மற்றவர்கள் தனது கண்டுபிடிப்புகளுடன் என்ன செய்கிறார்கள் என்பதைப் பற்றி அவர் கவலைப்பட வேண்டியதில்லை. ஆனால் அவர் சில சமயங்களில் தனது தொலைநோக்கி மூலம் உலகைப் பார்த்து, குழந்தைகள் ஒவ்வொரு நாளும் என்ன கண்டுபிடிப்பார்கள் என்பதைப் பார்க்கிறார். டிங்கர் மற்றும் பரிசோதனைக்கு தனக்கு எவ்வளவு வேடிக்கையாக இருந்தது என்பதை அவர் நினைவில் கொள்வார். ஒருவேளை, ஒருவேளை, அவர் ரெயின்போ தெளிப்புகளுடன் பிரமிட் வடிவ ராச்பெர்ரி ஐச்கிரீமை சாப்பிடுகிறார்."
+msgstr "And zangemann? அவரிடமிருந்து யாரும் அதிகம் கேட்கவில்லை. ஒருவேளை அவர் தனது தங்க கணினியின் முன் கோபமாக உட்கார்ந்திருக்கலாம். ஒருவேளை அவர் இனி தெருவுக்குச் செல்லத் துணியாமல், தனது மாளிகையின் அனைத்து சன்னல்களையும் ஏறிக்கொண்டிருக்கலாம், இதனால் மற்றவர்கள் தனது கண்டுபிடிப்புகளுடன் என்ன செய்கிறார்கள் என்பதைப் பற்றி அவர் கவலைப்பட வேண்டியதில்லை. ஆனால் அவர் சில சமயங்களில் தனது தொலைநோக்கி மூலம் உலகைப் பார்த்து, குழந்தைகள் ஒவ்வொரு நாளும் என்ன கண்டுபிடிப்பார்கள் என்பதைப் பார்க்கிறார். டிங்கர் மற்றும் பரிசோதனைக்கு தனக்கு எவ்வளவு வேடிக்கையாக இருந்தது என்பதை அவர் நினைவில் கொள்வார். ஒருவேளை, ஒருவேளை, அவர் ரெயின்போ தெளிப்புகளுடன் பிரமிட் வடிவ ராச்பெர்ரி ஐச்கிரீமை சாப்பிடுகிறார்."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
