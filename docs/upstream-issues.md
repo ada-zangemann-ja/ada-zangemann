@@ -134,3 +134,14 @@ Libxslt implements XSLT 1.0 with some extensions.
 Newer versions XSLT 2.0 and 3.0 have additional processing features that can help make the code more compact.
 
 - [Support for XLST 2.0 and XSLT 3.0](https://gitlab.gnome.org/GNOME/libxslt/-/issues/153)
+
+## LibreTranslate
+
+- [LibreTranslate issue tracker](https://github.com/LibreTranslate/LibreTranslate/issues)
+
+### Support more languages
+
+Support more languages in Argos Translate, the software underlying  LibreTranslate.
+LibreTranslate is important to make sense of translations for keeping translations up to date with format changes.
+
+- [Language reqests #91](https://github.com/argosopentech/argos-translate/discussions/91)
