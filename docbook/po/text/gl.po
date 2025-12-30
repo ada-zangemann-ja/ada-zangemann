@@ -3,15 +3,15 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2025-12-29 09:46+0100\n"
-"Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
+"PO-Revision-Date: 2025-12-31 08:01+0000\n"
+"Last-Translator: itagenata <ivan@tagenata.com>\n"
 "Language-Team: Galician <https://hosted.weblate.org/projects/fsfe/ada-zangemann/gl/>\n"
 "Language: gl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Poedit 3.6\n"
+"X-Generator: Weblate 5.15.1\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
@@ -173,7 +173,7 @@ msgstr "Unha regreta eléctrica, con entrada e saída dun cable branco que forma
 #. know as 'bastard title'.
 #: Ada_Zangemann.dbk:357
 msgid "Half-title page"
-msgstr ""
+msgstr "Anteportada"
 
 #. (itstool) path: mediaobject/alt
 #. (itstool) path: simplesect/para
@@ -190,7 +190,7 @@ msgstr "ADA &amp; ZANGEMANN"
 #. Also known as 'imprint'
 #: Ada_Zangemann.dbk:370
 msgid "Colophon"
-msgstr ""
+msgstr "Colofón"
 
 #. (itstool) path: simplesect/literallayout
 #. Smaller colophon to be combined with grey free cultural license
@@ -304,7 +304,7 @@ msgstr ""
 #. illustration of Ada’s dog.
 #: Ada_Zangemann.dbk:454
 msgid "Title page"
-msgstr ""
+msgstr "Portada"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -344,6 +344,8 @@ msgid ""
 "Matthias Kirschner\n"
 "Sandra Brandstätter"
 msgstr ""
+"Matthias Kirschner\n"
+"Sandra Brandstätter"
 
 #. (itstool) path: simplesect/literallayout
 #. (itstool) id: Ada_Zangemann.dbk#subtitle-titlepage
@@ -455,27 +457,27 @@ msgstr "Ada enreda con obxectos no seu laboratorio improvisado. Ada está sentad
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:564
 msgid "These inventions were very popular at Ada’s school, and many of her friends rode around on the cool skateboards. Ada was often sad, since her mother couldn’t buy her any of those great things: no skateboard, no speakers, no ice cream."
-msgstr ""
+msgstr "Estes inventos eran moi populares na escola de Ada e moitos dos seus amigos ían por aí en monopatíns chulos. Ada adoitaba estar triste,xa que a súa nai non lle podía mercar ningunha desas cousas tan fantásticas: nin monopatín, nin altofalantes, nin xeado."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:566
 msgid "Luckily, Ada lived right next to the junkyard. There were lots of broken gadgets and rusty parts, which she put together to make cool new things, like a soapbox she and Alan rode roaring down the hill, a windmill, and scary junk monsters, which she and Alan would fight together. She also found many useful items—an old cell phone, for example. The screen was cracked, but she could fix that, and while there wasn’t internet at the junkyard, she could get access somewhere else."
-msgstr ""
+msgstr "Por sorte, Ada vivía xusto ao lado dunha chatarraría. Alí había moreas de trebellos rotos e pezas enferruxadas, que xuntaba para facer cousas novas e chulas, como unha caixiña de xabón coa que ela e Alan baixaban o outeiro a toda velocidade, un muíño de vento e monstros terroríficos feitos de ferralla cos que ela e Alan loitaban. Tamén atopaba moitos obxectos útiles, como por exemplo un móbil vello. A pantalla estaba rachada, pero ela podía arranxala, e aínda que na chatarraría non había Internet, podía conectarse á rede noutro sitio."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:567
 msgid "Ada had so much fun tinkering in the junkyard and fixing broken things that she forgot all about the skateboards and the ice cream."
-msgstr ""
+msgstr "Ada pasábao tan ben enredando na chatarraría e arranxando cousas estragadas que se esqueceu por completo dos monopatíns e do xeado."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:571
 msgid "Because everyone bought his inventions, Zangemann soon became the richest person in the whole world. With all his money, he bought a huge golden computer with a keyboard made of jewels and set it up in the largest room of his mansion. From there, over the internet, he could control all the little computers built into his inventions."
-msgstr ""
+msgstr "Como todo o mundo mercaba as súas invencións, Zangemann axiña se converteu na persoa máis rica do mundo. Con todos os seus cartos comprou un enorme computador dourado cun teclado feito de xoias e instalouno na sala máis grande da súa mansión. Desde alí, a través de Internet, podía controlar todos os pequenos computadores integrados nos seus inventos."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:572
 msgid "All he had to do was press the proper key on the golden computer, and immediately all the ice-cream machines in town would dispense only vanilla ice cream. If Zangemann wanted people to eat chocolate ice cream, he pressed the key for chocolate ice cream. If he gave the order for lemon ice cream, the machines made only lemon ice cream. Zangemann loved his inventions and was always thrilled at how amazingly well his machines worked. Sometimes people were disappointed when their favorite flavor wasn’t available, but what could they do? After all, there was ice cream on every street corner."
-msgstr ""
+msgstr "Só tiña que premer a tecla axeitada no computador dourado e, de inmediato, todas as máquinas de xeado da cidade só daban xeado de vainilla. Se Zangemann quería que a xente comese xeado de chocolate, premía a tecla do xeado de chocolate. Se daba a orde de xeado de limón, as máquinas facían só xeado de limón. A Zangemann encantábanlle os seus inventos e sempre se emocionaba ao ver o incriblemente ben que funcionaban as súas máquinas. Ás veces a xente sentíase decepcionada cando o seu sabor favorito non estaba dispoñible, pero que podían facer? Ao fin e ao cabo, había xeado en cada esquina."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -487,7 +489,7 @@ msgstr "Unha regreta eléctrica branca enchufada a unha toma de corrente da pare
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:581
 msgid "Zangemann had a lot of fun pressing the sparkling keys and watching people eat ice cream. He spent many hours every day in front of his golden computer doing this. Again and again, he looked down on the city through a long telescope, observing how reliably his inventions carried out his commands."
-msgstr ""
+msgstr "Zangemann divertíase moito premendo as teclas brillantes e mirando como a xente comía xeado. Pasaba moitas horas cada día diante do seu computador dourado facendo isto. Unha e outra vez observaba a cidade a través dun longo telescopio, comprobando a fiabilidade coa que os seus inventos cumprían as súas ordes."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -499,7 +501,7 @@ msgstr "Zangemann sentado diante do seu ordenador dourado nunha butaca dourada c
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:591
 msgid "When he wasn’t sitting at his golden computer, Zangemann was building his little computers into new devices and then selling those. He built washing machines that sent a message to your cell phone when your laundry was done. He made vacuums that played happy music instead of droning loudly. He invented light bulbs that turned on and off at the snap of a finger and cars that told you where the nearest grocery store was."
-msgstr ""
+msgstr "Cando non estaba sentado perante o seu ordenador dourado, Zangemann construía pequenos ordenadores para incorporalos en novos aparellos e logo vendíaos. Fabricou lavadoras que enviaban unha mensaxe ao teu móbil cando a roupa estaba lista. Fixo aspiradoras que tocaban música alegre no canto de facer un ruído enxordecedor. Inventou lámpadas que se acendían e apagaban ao chascar os dedos e coches que che dicían onde estaba a tenda de comestibles máis próxima."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -511,19 +513,19 @@ msgstr "Paisaxe urbana con casas e tendas, cunha rúa central que xira cara á d
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:598
 msgid "Soon, almost every appliance in the world had a Zangemann computer built into it. Not all of his inventions seemed necessary at first, but people bought everything he made. That’s just the way it was. Everyone wanted the devices made by Zangemann, the greatest inventor in the world."
-msgstr ""
+msgstr "Axiña, case todos os aparellos do mundo tiñan un ordenador Zangemann incorporado. Non todos os seus inventos semellaban necesarios ao principio, pero a xente mercaba todo o que fabricaba. As cousas eran así. Todo o mundo quería os dispositivos creados por Zangemann, o maior inventor do mundo."
 
 #. (itstool) path: info/title
 #. Intended as 'on a day', not 'a single day'. This is supposed to be
 #. equal to the beginning of the first sentence of this chapter.
 #: Ada_Zangemann.dbk:603
 msgid "One day..."
-msgstr ""
+msgstr "Un día..."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:606
 msgid "One day Zangemann thought, “Today I want to see my inventions up close.” He put away his big telescope, then climbed down the many stairs of his mansion and ventured out into the city, full of anticipation at the thought of enjoying his cool devices."
-msgstr ""
+msgstr "Un día, Zangemann pensou: «Hoxe quero ver os meus inventos de preto.» Gardou o seu gran telescopio, baixou as numerosas escaleiras da súa mansión e aventurouse a saír á cidade, cheo de ilusión con só pensar en gozar dos seus xeniais dispositivos."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -535,12 +537,12 @@ msgstr "Zangemann baixa polas escaleiras desde a súa mansión no outeiro cara �
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:615
 msgid "“Maybe a little trip might even give me a few new ideas. If I’m completely honest, my last inventions weren’t quite as useful as the first ones... ,” Zangemann pondered. “But my ice-cream machines are and will remain second to none,” he thought immediately afterward, and not without pride, as he passed a group of people all eating coconut ice cream, the flavor of the day."
-msgstr ""
+msgstr "«Quizais unha pequena viaxe mesmo me dea algunhas ideas novas. Se son sincero, os meus últimos inventos non foron tan útiles como os primeiros…», reflexionou Zangemann. «Pero as miñas máquinas de xeado son e seguirán a ser insuperables», pensou de inmediato, non sen certo orgullo, ao pasar xunto a un grupo de persoas que comían xeado de coco, o sabor do día."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:617
 msgid "He was completely absorbed in his thoughts when suddenly — BAM! — something crashed into his shin."
-msgstr ""
+msgstr "Estaba completamente absorto nos seus pensamentos cando, de súpeto, —PAM!—, algo se estrelou contra a súa canela."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -552,12 +554,12 @@ msgstr "Zangemann despois do incidente co neno. Zangemann berra da dor mentres s
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:626
 msgid "Zangemann yelped and looked around for the cause. A startled child stood in front of him, holding an original Zangemann skateboard under his arm. “Sorry, I didn’t mean to do that,” the child stammered, but Zangemann wasn’t listening."
-msgstr ""
+msgstr "Zangemann deu un berro e ollou ao seu redor buscando a causa. Diante del estaba un neno asustado, cun monopatín orixinal de Zangemann baixo o brazo. “Síntoo, foi sen querer”, balbuciu o cativo, pero Zangemann non o escoitaba."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:627
 msgid "An angry Zangemann limped away. Suddenly, he heard loud music. He had never before heard something so horrible. He looked around and saw that the music was coming from a loudspeaker he himself had constructed. A child across the street was holding it. The child seemed to like the music, but it gave Zangemann a terrible headache, and his mood worsened. This was not how he had imagined his walk!"
-msgstr ""
+msgstr "Zangemann anoxado afastouse coxeando. De súpeto, escoitou música a todo volume. Nunca ouvira algo tan horrible. Ollou ao seu redor e viu que a música proviña dun altofalante que el mesmo construíra. Un neno sostíñao ao outro lado da rúa. Ao cativo parecía gustarlle a música, pero a Zangemann provocoulle unha terrible dor de cabeza e o seu humor empeorou. Non era así como imaxinara o seu paseo!"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -569,32 +571,32 @@ msgstr "Anuncios dun xeado de Zangemann (nun taboleiro de anuncios), dun monopat
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:637
 msgid "Zangemann was so furious with the two children. How dare they use his inventions this way? That night, he couldn’t sleep, so he sat down at his golden computer. From there, he gave all the little computers in the skateboards a command that they were no longer allowed to go on sidewalks. He ordered the small computers in the speakers to play music only at a low volume, except for his favorite music, which he immediately turned on to get into a better mood."
-msgstr ""
+msgstr "Zangemann estaba furioso cos dous nenos. Como se atrevía a utilizar os seus inventos dese xeito? Esa noite non puido durmir, así que sentou diante do seu ordenador dourado. Dende alí deulle a todos os ordenadores dos monopatíns unha orde: xa non se lles permitía circular polas beirarrúas. Mandou os ordenadores dos altofalantes que, puxesen música a un volume baixo, agás a súa música favorita, que prendeu inmediatamente para poñerse de bo humor."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:642
 msgid "The city in the evening, with houses, a church, and two streetlights. Images emerge from the dwellings illustrating Zangemann’s inventions bought by the inhabitants: a washing machine, a yellow vacuum cleaner, and a red car, all with Internet connection signals."
-msgstr ""
+msgstr "A cidade ao atardecer, con casas, unha igrexa e dous farois. Das vivendas saen imaxes que ilustran as invencións de Zangemann mercadas polos habitantes: unha lavadora, un aspirador amarelo e un coche vermello, todos con sinais de conexión a Internet."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:650
 msgid "Continuation of the previous picture, where in the background there is the hill with Zangemann’s house from whose antenna come the signals to control the various devices. In emerging images there are: a red electric skateboard, a light bulb, an ice cream machine, and a toilet, all of which are receiving commands from Zangemann."
-msgstr ""
+msgstr "Continuación da imaxe anterior, na que ao fondo está o outeiro coa casa de Zangemann, desde cuxa antena se emiten os sinais para controlar os distintos aparellos. Nas imaxes emerxentes aparecen: un monopatín eléctrico vermello, unha lámpada, unha máquina de xeados e un retrete, que están a recibir ordes de Zangemann."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:656
 msgid "Skateboards no longer work"
-msgstr ""
+msgstr "Monopatíns que xa non funcionan"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p18-1
 #: Ada_Zangemann.dbk:660
 msgid "The next day, there was a big commotion at Ada’s school. On the way to school, the kids’ skateboards had stopped working. The wheels simply stood still. And the children could no longer turn up the volume on their speakers. What was going on?"
-msgstr ""
+msgstr "Ao día seguinte houbo un gran balbordo na escola de Ada, De camiño ao colexio, os monopatíns dos cativos deixaron de funcionar. As rodas simplemente quedaron paradas. E os nenos xa non podían subir o volume dos seus altofalantes. Que estaba a pasar?"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -606,7 +608,7 @@ msgstr "Cinco cativos da escola que non son quen de facer que os monopatíns fun
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:669
 msgid "Although she didn’t own any of these things, Ada wondered why the skateboards and the speakers suddenly stopped working. But she didn’t really have time to think much about it, because she was tinkering again. She put together a complete bicycle from the parts of three broken bicycles. She gave the bicycle to her mother as a present so that she wouldn’t have to spend her money on bus tickets to work. For her brother, Ada built a loudspeaker so he could fall asleep to nice stories in the evenings when their mother was still at work."
-msgstr ""
+msgstr "Aínda que non tiña ningún deses aparellos, Ada preguntábase por que, de socato, os monopatíns e os altofalantes deixaran de funcionar. Mais non pensou moito niso porque decontado xa estaba a enredar de volta. Coas pezas de tres bicicletas escangalladas, montou unha bicicleta completa. Regaloulla a súa nai para que non tivese que gastar o diñeiro en billetes de autobús para ir traballar. Para seu irmán, Ada construíu un altofalante para que puidese durmir polas tardes, escoitando historias bonitas, cando a súa nai aínda estaba a traballar."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -618,28 +620,28 @@ msgstr "Primeiro plano de Ada pensativa, cunha mochila ás costas e unha man no 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:677
 msgid "After a few days, the initial shock at Ada’s school was forgotten. The skateboards still didn’t go on the sidewalk, but apart from that, they still worked. And so now the children rode in circles around the playground and listened to soft music. Only a strange, pompous marching music continued to play at an unchanged volume, which the children found rather puzzling."
-msgstr ""
+msgstr "Ao cabo duns días, o susto inicial na escola de Ada xa se esquecera. Os monopatíns seguían sen poder ir pola beirarrúa, pero alén diso funcionaban. Así que agora os nenos montaban en círculos polo patio do recreo e escoitaban música tranquila. Só seguía a soar a un volume invariable unha estraña e pomposa marcha. Algo que os cativos atopaban moi desconcertante."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:682
 msgid "Ada and software"
-msgstr ""
+msgstr "Ada e o software"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p20-1
 #: Ada_Zangemann.dbk:686
 msgid "Ada loved Wednesdays. Every Wednesday, her mother and Alan would pick her up from school, and they would all go to the library together. Ada was always drawn to the technology section. There were books with blueprints, instructions for experiments, and explanations of how different devices worked. In the library, Ada could also go online with her cell phone. She quickly realized that there was also much to discover on the internet. There, many people shared their ideas and repair tips to help others."
-msgstr ""
+msgstr "A Ada encantábanlle os mércores. Todos os mércores, súa nai e Alan recollían a Ada do colexio e ían xuntos a biblioteca. A Ada sempre lle interesara a sección de tecnoloxía. Había libros con planos, instrucións para experimentos e explicacións sobre o funcionamento de diferentes dispositivos. Na biblioteca Ada tamén podía conectarse a Internet co seu teléfono móbil. Axiña se decatou de que tamén había moito que descubrir en Internet. Alí, moita xente compartía as súas ideas e consellos de reparación para axudar aos demais."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:687
 msgid "On one of those afternoons, Ada learned two new words: hardware and software. Hardware was a word for something Ada already knew: the electronic devices she tinkered with after school, or those devices she could hold in her hands and try to fix or make into something else. What was completely new to Ada was the word software. She soon learned that it meant instructions that ran on a computer to control other devices or computers. Some books called those instructions programs or code. With such a computer program, one could, for example, tell a loudspeaker which song to play and how loud."
-msgstr ""
+msgstr "Unha desas tardes Ada aprendeu dúas palabras novas: hardware e software. Hardware era unha palabra para algo que Ada xa coñecía: os aparellos electrónicos cos que enredaba despois de clase, ou os que podía soster coas súas mans e tentar arranxar ou converter noutra cousa. O que era completamente novo para Ada era a palabra software. Axiña aprendeu que eran as instrucións que se executaban nun ordenador para controlar outros dispositivos ou ordenadores. Algúns libros chamábanlle a esas instrucións programa ou código. Cun programa de ordenador deses podíase, por exemplo, dicirlle a un altofalante que canción poñer e a que volume."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:688
 msgid "The best thing about Ada’s new discovery was realizing that she could tinker with software just as she could with hardware. Hardware is built with tools — hammers, drills, and screws. Software is built simply by writing down the commands for the hardware, one after the other. There was a separate language for this — the programming language. With software, Ada could make her inventions even more useful. She really wanted to learn the programming language!"
-msgstr ""
+msgstr "O mellor do novo descubrimento de Ada foi decatarse de que podía modificar o software igual que o hardware. O hardware construíase con ferramentas: martelos, trades e parafusos. O software construíase simplemente escribindo as ordes para o hardware, unha tras outra. Existía unha linguaxe propia para iso: a linguaxe de programación. Co software Ada podería facer os seus inventos aínda máis útiles. Tiña moitas ganas de aprender linguaxe de programación!"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -651,13 +653,13 @@ msgstr "Pantalla de ordenador da que saen simbolicamente elementos da linguaxe d
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:701
 msgid "Programming"
-msgstr ""
+msgstr "Programación"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p22-1
 #: Ada_Zangemann.dbk:705
 msgid "Over the next few weeks, Ada spent her afternoons in the library. She found books and websites that explained how programming languages and code worked. For Ada, it felt a bit like learning a secret language, or like studying vocabulary in school. Ada ate it all up. She expected her first program to do something simple: “Make this lamp blink!”"
-msgstr ""
+msgstr "Durante as semanas seguintes, Ada pasou as tardes na biblioteca. Entre libros e páxinas web que explicaban como funcionaban as linguaxes de programación e o código. Para Ada foi un chisco como aprender unha linguaxe secreta ou como estudar vocabulario na escola. Ada absorbeuno todo. Agardaba que o seu primeiro programa fixese algo sinxelo: \"Fai que esta lámpada tremeluza!\""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:706
@@ -831,21 +833,21 @@ msgstr "Un desaparafusador con mango laranxa e gris, uns alicates vermellos e tr
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:813
 msgid "Laboratory at the junkyard, under the veranda of Ada’s house. Ada is sitting on a water case with a leg bent under her, using a soldering iron. Konrad is standing next to her and dismounting a speaker. Marie is sitting on two tires with an arm resting on a table and her upside-down skateboard from which wires come out. She is talking with Alan, who is standing with his arms resting on the same table. On the table there are also: pliers, two wrenches, a spool of solder, a can of blue paint (a bit of paint has dried on the table), and a pitcher and two glasses containing a pink drink. Toni is testing his skateboard with added yellow wings and a fan. It burps."
-msgstr ""
+msgstr "Laboratorio na chatarraría, baixo o soportal da casa de Ada. Ada está sentada enriba dunha caixa de auga cunha perna dobrada por debaixo, usando un soldador. Konrad está de pé ao seu carón desmontando un altofalante. Marie está sentada sobre dous pneumáticos cun brazo apoiado nunha mesa e co seu monopatín do revés, do que saen cables. Está a falar con Alan, que está de pé coas mans apoiadas na mesma mesa. Sobre a mesa hai tamén: uns alicates, dúas chaves inglesas, un carrete de estaño, unha lata de pintura azul (un pouco de pintura quedou seca na mesa) e unha xerra e dous vasos que conteñen unha bebida rosa. Toni está a probar o seu monopatín, ao que lle engadiu ás amarelas e un ventilador. O monopatín arrota.."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:821
 msgid "Marie and Ada’s mom are dancing, facing each other. Alan, Ada, and Konrad are dancing in a circle. On the right there is a speaker playing, resting on an oil drum. Near the speaker there are two dancing mice. Toni is jumping through the tires. Ada’s dog is howling, and from his mouth come two distorted musical notes."
-msgstr ""
+msgstr "Marie e a nai de Ada están a bailar, unha fronte á outra. Alan, Ada e Konrad bailan en círculo. Á dereita hai un altofalante reproducindo música, apoiado nun bidón de aceite. Preto do altofalante hai dous ratos bailando. Toni está a saltar entre os pneumáticos. O can de Ada ouvea e da súa boca saen dúas notas musicais deformadas."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:829
 msgid "Hands holding wonderful ice cream cones: blue ice cream with a chocolate heart on top with a yellow heart on its center, and whipped cream on top of the chocolate; green ice cream with colored stars with a cucumber stuck on a stick; pink fish-shaped ice cream; pyramid-shaped ice cream with candies, and chocolate syrup, and a cherry on top; rainbow ice cream with a yellow umbrella; blue ghost-shaped ice cream with candies on it."
-msgstr ""
+msgstr "Mans sostendo cornetes de xeado marabillosos: xeado azul cun corazón de chocolate enriba, cun corazón amarelo no centro, e nata montada sobre o chocolate; xeado verde con estrelas de cores cun cogombro espetado nun pau; xeado rosa en forma de peixe; xeado en forma de pirámide con caramelos, xarope de chocolate e unha cereixa enriba; xeado arco da vella cun paraugas amarelo; xeado azul en forma de pantasma con caramelos pegados."
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p35-1
@@ -889,7 +891,7 @@ msgstr ""
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:860
 msgid "The President getting a phone call from the angry Zangemann. The videophone consists of an old red Zangemann dial phone connected to a monitor. Zangemann’s face appears on the monitor, while a yellow flare of Zangemann’s thundering voice comes out of the phone, and the President holds the receiver at arm’s length. The president has white hair and wears a light blue shirt, a red tie, and a blue jacket with yellow buttons. The President is sitting on a green chair with white vertical lines, and his other hand is on the desk. On the desk, in addition to the videophone, there are sheets with something written on them and an open purple fountain pen. The President was eating a sandwich of meat and cheese with greens with two olives on a toothpick, over a blue napkin with white stripes."
-msgstr ""
+msgstr "O presidente recibe unha chamada telefónica dun Zangemann furioso. O videoteléfono consiste nun vello teléfono vermello de disco Zangemann conectado a un monitor. A cara de Zangemann aparece no monitor, mentres que do teléfono sae un relampo amarelo da voz atronadora de Zangemann, e o presidente sostén o auricular co brazo estendido. O presidente ten o cabelo branco e leva unha camisa azul clara, unha gravata vermella e unha chaqueta azul con botóns amarelos. Está sentado nunha cadeira verde con liñas verticais brancas e ten a outra man apoiada na mesa. Sobre a mesa, ademais do videoteléfono, hai follas con algo escrito e unha pluma estilográfica morada aberta. O presidente estaba a comer un bocadillo de carne, queixo e leituga con dúas olivas nun escarvadentes, sobre un pano de mesa azul con raias brancas."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:865
@@ -906,7 +908,7 @@ msgstr ""
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:871
 msgid "Cans of green, blue, and pink paint; a paintbrush with yellow paint; a light green marker; and a rolled banner on which some blue paint has fallen."
-msgstr ""
+msgstr "Latas de pintura verde, azul e rosa; un pincel con pintura amarela; un rotulador verde claro; e unha pancarta enrolada sobre a que caeu unha pouca pintura azul."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:877
@@ -929,7 +931,7 @@ msgstr ""
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:888
 msgid "Yellow and green paint on the floor and wax crayons yellow, red, blue, green and brown; the latter 3 are in a gray cardboard box."
-msgstr ""
+msgstr "Pintura amarela e verde no chan e ceras amarelas, vermellas, azuis, verdes e marróns; as 3 últimas están nunha caixa de cartón gris."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:892
@@ -941,7 +943,7 @@ msgstr ""
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:897
 msgid "Group of protesters. Among them there are: Ada’s mother holding Alan’s hand and raising a pink ice cream; 3 colleagues of Toni’s father dressed in ties; two children holding the banner “Do your homework Mr. President and we will do ours!”; a robot with tank treads, irons as feet, an electric fan as abdomen, a monitor as head, and an eggbeater as one hand, holding a blue ice cream in his other hand; two parents holding the banner “Hacking 4 Freedom”; a lady holding an electronic sign “There is a code B”; two small birds, flying; the math teacher, Ms. Gernet, who has inserted in her cart a sign that says “They are young + need the code!“ The dog in her cart is barking; Ada and Konrad are carrying the banner “Don’t wreck our tech!” Marie and Toni are walking beneath the banner, and Marie is talking through a bullhorn held in her hand; Ada’s family’s dog is now wearing a red harness with shiny yellow LEDs that matches the collar."
-msgstr ""
+msgstr "Grupo de manifestantes. Entre eles están: a nai de Ada, que leva a Alan da man e ergue un xeado rosa; 3 compañeiros do pai de Toni vestidos con gravata; dous nenos que suxeitan a pancarta «Faga os seus deberes, señor presidente, e nós faremos os nosos!»; un robot cuxos pés son eirugas de tanque, ferros de pasar como pernas, un ventilador eléctrico como abdome, un monitor como cabeza e unhas varas de bater ovos nunha man e un xeado azul na outra; dous pais que suxeitan a pancarta «Hacking 4 Freedom»; unha señora que sostén un cartel electrónico que di «Hai un código B»; dous paxariños pequenos, voando; a profesora de matemáticas, a señora Gernet, que colocou no seu carriño un cartel que di «Son novos + precisan o código!». O can do seu carriño ladra; Ada e Konrad levan a pancarta «Non destrúan a nosa tecnoloxía!». Marie e Toni camiñan debaixo da pancarta, e Marie fala cun megáfono na man; o can da familia de Ada agora leva un arnés vermello con brillantes LED amarelos a xogo co seu colar."
 
 #. (itstool) path: info/excerpt
 #. Text on big banner, left on the illustration
@@ -954,14 +956,14 @@ msgstr ""
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:908
 msgid "Detail of the previous image: two children holding the banner “Do your homework Mr. President and we will do ours!”"
-msgstr ""
+msgstr "Detalle da imaxe anterior: dous nenos que suxeitan a pancarta «Faga os seus deberes, señor presidente, e nós faremos os nosos!»"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:914
 msgid "Detail of the previous image: Ada and Konrad are carrying the banner “Don’t wreck our tech!” Marie and Toni are walking beneath the banner, and Marie is talking through a bullhorn held in her hand; Ada’s family’s little dog is now wearing a red harness with shiny yellow LEDs that matches the collar."
-msgstr ""
+msgstr "Detalle da imaxe anterior: Ada e Konrad levan a pancarta «Non destrúan a nosa tecnoloxía!». Marie e Toni camiñan debaixo da pancarta, e Marie fala cun megáfono na man; o canciño da familia de Ada agora leva un arnés vermello con brillantes LED amarelos a xogo co seu colar."
 
 #. (itstool) path: info/excerpt
 #. Text on square signe on the right of the illustration
@@ -998,7 +1000,7 @@ msgstr ""
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:934
 msgid "One of Ada’s friends lying on his stomach with one foot up in the air is typing on a laptop. He has wavy brown hair parted in the center, a red sweatshirt, blue pants, and white socks but no shoes. Next to the computer there are a green cup and two open books."
-msgstr ""
+msgstr "Un dos amigos de Ada, deitado boca abaixo cun pé levantado no aire, está a escribir nun portátil. Ten o cabelo castaño ondulado con raia ao medio, un suadoiro vermello, pantalóns azuis e calcetíns brancos, pero non leva zapatos. Ao carón do computador hai unha cunca verde e dous libros abertos."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:936
@@ -1020,7 +1022,7 @@ msgstr ""
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:945
 msgid "Ada and her friends in the President’s office. Ada is reprogramming the President’s computer. Toni is setting up a speaker for the President’s secretary. Marie and Konrad are sitting on the floor and talking, and Marie has a laptop on her legs with an FSFE logo sticker (three stars: pea green, sky blue, and sea blue). On the floor are a bowl with candy and a plate with ice creams. The President’s phone is ringing, but nobody is answering."
-msgstr ""
+msgstr "Ada e os seus amigos están no despacho do presidente. Ada está volvendo a programar o computador do presidente. Toni está a instalar un altofalante para a secretaria do presidente. Marie e Konrad están sentados no chan falando, e Marie ten un portátil sobre as pernas cun adhesivo co logotipo da FSFE (tres estrelas: verde chícharo, azul ceo e augamariña). No chan hai un cunco con lambetadas e un prato con xeados. O teléfono do presidente está a soar, pero ninguén o colle."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:951
@@ -1038,7 +1040,7 @@ msgstr ""
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:959
 msgid "A herald, wearing a hat with a plume, playing a trumpet on which a red banner is hung."
-msgstr ""
+msgstr "Un heraldo, toucado cun sombreiro con pluma, toca unha trompeta da que colga unha bandeira vermella."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:961
@@ -1065,7 +1067,7 @@ msgstr ""
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:972
 msgid "The President with Toni, Konrad, Marie, Ada, and a herald playing a trumpet. Marie is standing on top of a ladder talking into a microphone. Konrad firmly holds the ladder on which Marie is standing. Ada is standing on a chair and holds a copy of the new law bearing a seal. Ada’s dog is sitting in front of her."
-msgstr ""
+msgstr "O presidente xunto con Toni, Konrad, Marie, Ada e un heraldo que esta a tocar unha trompeta. Marie está de pé enriba dunha escaleira falando por un micrófono. Konrad suxeita con firmeza a escaleira na que está Marie. Ada está de pé sobre unha cadeira e sostén un exemplar da nova lei cun selo. O can de Ada está sentado diante dela."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:977
@@ -1077,7 +1079,7 @@ msgstr ""
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:982
 msgid "Evening party. Children are holding ice cream and balloons with the words “I love FS (I love Free Software)”; other children are riding skateboards; yellow and orange flags are hanging; music comes out from a large speaker system; Ms. Gernet holds a pink tree-shaped ice cream with a yellow star on it; Ada’s mom is dancing with a gentleman."
-msgstr ""
+msgstr "Festa nocturna. Os nenos levan xeados e globos coas palabras «I love FS (I love Free Software)»; outros nenos van en monopatíns; colgan bandeiriñas amarelas e laranxas; soa a música nun grande equipo de altofalantes; a señora Gernet sostén un xeado rosa en forma de árbore cunha estrela amarela enriba; a nai de Ada está a bailar cun cabaleiro."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:986
@@ -1089,7 +1091,7 @@ msgstr ""
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:991
 msgid "The President, the secretary, and other people around a table enjoying crazy ice cream; yellow and orange flags continue from the previous image; a little girl who just took a pink ghost-shaped ice cream from the modified ice cream machine; Ada’s dog, Konrad, Marie, Ada, and Toni sneaking away from the party."
-msgstr ""
+msgstr "O presidente, a secretaria e outras persoas arredor dunha mesa gozande xeados disparatados; as bandeiriñas amarelas e laranxas continúan desde a imaxe anterior; unha nena pequena acaba de coller un xeado rosa en forma de pantasma da máquina de xeados modificada; o can de Ada, Konrad, Marie, Ada e Toni escapan ás agachadas da festa."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:997
@@ -1107,14 +1109,14 @@ msgstr ""
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:1006
 msgid "Ada’s little dog sniffing a trail of ice cream."
-msgstr ""
+msgstr "O canciño de Ada ulisca un rastro de xeado."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:1015
 msgid "A trail of candies and raspberry ice cream on the ground."
-msgstr ""
+msgstr "Un rastro de lambetadas e xeado de framboesa no chan."
 
 #. (itstool) path: info/title
 #. (itstool) id: Ada_Zangemann.dbk#title-acknowledgments
@@ -1146,7 +1148,7 @@ msgstr ""
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:1042
 msgid "Ada’s dog wags its tail after finding Zangemann hidden behind a curtain and eating an ice cream cone with candies and a blue umbrella on it and lots of raspberry ice cream dripping."
-msgstr ""
+msgstr "O can de Ada abana o rabo despois de atopar a Zangemann agochado detrás dunha cortina, mentres come un cornete de xeado con caramelos e un paraugas azul do que escorrega un montón de xeado de framboesa."
 
 #. (itstool) path: info/title
 #. (itstool) id: Ada_Zangemann.dbk#title-author
@@ -1171,7 +1173,7 @@ msgstr ""
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:1064
 msgid "Close-up of Matthias smiling, waving with one hand, and wearing a headset. Matthias has short hair and a little beard."
-msgstr ""
+msgstr "Primeiro plano de Matthias sorrindo, saudando cunha man e levando uns auriculares con micrófono. Matthias ten o cabelo curto e unha pequena barba."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1066
@@ -1201,7 +1203,7 @@ msgstr ""
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:1087
 msgid "Sandra smiling with a pencil in her hand in front of her chin. She has earphones with an integrated microphone. Sandra has short hair and glasses."
-msgstr ""
+msgstr "Sandra sorrindo cun lapis na man diante do queixo. Leva uns auriculares con micrófono integrado. Ten o cabelo curto e leva lentes."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1089
@@ -1245,7 +1247,7 @@ msgstr ""
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:1129
 msgid "A hand that holds a fish-shaped ice cream cone with a cucumber on a decorated toothpick, to color. In a bottom corner, a pencil writing."
-msgstr ""
+msgstr "Ilustración para colorear dunha man que sostén un cornete de xeado en forma de peixe cun cogombro espichado nun escarvadentes decorado. Na esquina inferior, un lapis escribindo."
 
 #. (itstool) path: simplesect/literallayout
 #. In a literallayout element all space and newline characters are kept.
@@ -1261,4 +1263,4 @@ msgstr ""
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:1139
 msgid "Three hands that hold as many empty ice cream cones, to draw and color. In the air above the middle cone is an umbrella."
-msgstr ""
+msgstr "Tres mans que sosteñen outros tantos cornetes de xeado baleiros, para debuxar e colorear. No aire, enriba do cornete central, hai un paraugas."
