@@ -427,6 +427,16 @@ build/Ada_Zangemann-insidecover.sla: templates/template-insidecover.sla
 %.pdf.txt: %.pdf
 	pdftotext $< $@
 
+# Text format for BrailleRAP processing
+# Uses [FF] placeholder between Docbook and Sed because xsltproc cannot insert form-feed.
+# Presence of form-feed can be checked using 'cat -v'.
+targets-braillerap = $(addprefix build/Ada_Zangemann-braillerap.,$(addsuffix .txt,$(languages)))
+build/Ada_Zangemann-braillerap.%.txt: build/Ada_Zangemann.%.dbk
+	xsltproc xsl/braillerap.xsl $< | sed 's/\[FF\]/\x0C/g' > $@
+
+.PHONY: build/Ada_Zangemann-braillerap.all.brf
+build/Ada_Zangemann-braillerap.all.brf: $(targets-braillerap)
+
 # Tab-delimited voiceover output
 build/Ada_Zangemann-voiceover.%.csv: build/Ada_Zangemann.%.dbk
 	xsltproc -o $@ xsl/movie-voice-timecodes.xsl $<
