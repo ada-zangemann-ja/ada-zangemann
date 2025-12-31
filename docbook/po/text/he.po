@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-10-16 21:28+0200\n"
-"PO-Revision-Date: 2025-12-29 09:48+0100\n"
+"PO-Revision-Date: 2025-12-31 08:01+0000\n"
 "Last-Translator: Yaron Shahrabani <sh.yaron@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/fsfe/ada-zangemann/he/>\n"
 "Language: he\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n == 1) ? 0 : ((n == 2) ? 1 : ((n > 10 && n % 10 == 0) ? 2 : 3));\n"
-"X-Generator: Poedit 3.6\n"
+"X-Generator: Weblate 5.15.1\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
@@ -360,7 +360,7 @@ msgid ""
 "We encourage you to support authors, publishers, and others involved in the creation of culture under free licenses – including <emphasis role=\"bold\">financially supporting them through purchases or donations</emphasis>. (<link xlink:href=\"https://fsfe.org/donate\">https://fsfe.org/donate</link>)\n"
 "Society should support those who respect others’ freedom."
 msgstr ""
-"<emphasis role=\"bold\">חופשי כמו בחירות ולא מבחינת מחיר</emphasis>\n"
+"<emphasis role=\"bold\">חופשי כמו חירות ולא מבחינת מחיר</emphasis>\n"
 "תוכנה חופשית מתייחסת לחרויות שהתוכנה מעניקה לך, לא כמה שהיא עלתה. באופן דומה, פרסום ספר בכפוף לרישיון בסגנון חופשי לא אומר שיש לך את הזכות לקבל עותק בחינם של הספר הקשיח או האלקטרוני. כלומר שיש לך את הזכויות שמפורטות לעיל, שמאפשרות לקהילה להיתרם קצת מעבר בזכות הספר הזה, כפי שאמור להיות בכל יצירה עם אופי תרבותי.\n"
 "\n"
 "אנו מעודדים אותך לתמוך במחברים, במפרסמים ואחרים שמעורבים ביצירת תרבות בכפוף לרישיון חופשי – כולל <emphasis role=\"bold\">תמיכה כלכלית בהם דרך רכישה או תרומות</emphasis>. (<link xlink:href=\"https://fsfe.org/donate\">https://fsfe.org/donate</link>)\n"
@@ -460,7 +460,7 @@ msgstr "הרחק משם, בצדו השני של העיר, חי ממציא מפו
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:520
 msgid "He lived in a huge house with a swimming pool and waterslide, lots of staircases and towers, hundreds of windows, and so many rooms that he often got lost in them himself."
-msgstr "הוא חי בבית גדול עם בריכת שחייה ומגלשת מים, המון מדרגות וצריחים, מאות חלונות וכל כך הרבה חדרים עד שלפעמים הלך לאיבוד בעצמו"
+msgstr "הוא חי בבית גדול עם בריכת שחייה ומגלשת מים, המון מדרגות וצריחים, מאות חלונות וכל כך הרבה חדרים עד שלפעמים הלך לאיבוד בעצמו."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:520

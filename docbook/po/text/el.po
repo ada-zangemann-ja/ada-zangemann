@@ -3,15 +3,15 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2025-12-29 09:42+0100\n"
-"Last-Translator: Gerasimos Chourdakis <gerasimos.chourdakis@ipvs.uni-stuttgart.de>\n"
+"PO-Revision-Date: 2025-12-31 08:01+0000\n"
+"Last-Translator: Stelios <steliosks@protonmail.com>\n"
 "Language-Team: Greek <https://hosted.weblate.org/projects/fsfe/ada-zangemann/el/>\n"
 "Language: el\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Poedit 3.6\n"
+"X-Generator: Weblate 5.15.1\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
@@ -25,13 +25,13 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:264 Ada_Zangemann.dbk:308 Ada_Zangemann.dbk:498
 msgid "Ada &amp; Zangemann"
-msgstr ""
+msgstr "Έιντα &? Ζάνγκεμαν"
 
 #. (itstool) path: subtitle/phrase
 #. (itstool) path: cover/bridgehead
 #: Ada_Zangemann.dbk:265 Ada_Zangemann.dbk:309
 msgid "A Tale of Software, Skateboards, and Raspberry Ice Cream"
-msgstr ""
+msgstr "Μια ιστορία λογισμικού, σκέιτμπορντ, και παγωτού βατόμουρο"
 
 #. (itstool) path: info/author
 #. ignore-same
@@ -51,7 +51,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:284
 msgid "Ada"
-msgstr ""
+msgstr "Έιντα"
 
 #. (itstool) path: character/charactername
 #. Name must not be changed.
@@ -59,7 +59,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:287
 msgid "Zangemann"
-msgstr ""
+msgstr "Ζάνγκεμαν"
 
 #. (itstool) path: character/charactername
 #. Name must not be changed.
@@ -67,7 +67,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:290
 msgid "Alan"
-msgstr ""
+msgstr "Άλαν"
 
 #. (itstool) path: character/charactername
 #. Character names are mostly reference to existing people in computer
@@ -82,7 +82,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:293
 msgid "Toni"
-msgstr ""
+msgstr "Τόνι"
 
 #. (itstool) path: character/charactername
 #. Character names are mostly reference to existing people in computer
@@ -97,7 +97,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:296
 msgid "Konrad"
-msgstr ""
+msgstr "Κόνραντ"
 
 #. (itstool) path: character/charactername
 #. Character names are mostly reference to existing people in computer
@@ -112,7 +112,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:299
 msgid "Marie"
-msgstr ""
+msgstr "Μαρί"
 
 #. (itstool) path: character/charactername
 #. Character names are mostly reference to existing people in computer
@@ -127,7 +127,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:302
 msgid "Ms. Gernet"
-msgstr ""
+msgstr "Κα. Γκερνέτ"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -147,12 +147,12 @@ msgstr ""
 #. (itstool) id: Ada_Zangemann.dbk#para-back-1
 #: Ada_Zangemann.dbk:334
 msgid "The inventor Zangemann is world-famous and immensely rich. Adults and children alike love his fabulous technical inventions. But one day there is a problem: the children’s electronic skateboards no longer work properly. What’s going on? The curious girl Ada sees through what is going on. Together with her friends, she experiments with hardware and software, and the children forge a plan: Zangemann can no longer be the only one in control of the devices!"
-msgstr ""
+msgstr "Ο εφευρέτης Ζάνγκεμαν είναι παγκοσμίου φήμης και εξαιρετικά πλούσιος. Ενήλικες και παιδιά αγαπούν τις υπέροχες τεχνικές εφευρέσεις του. Αλλά μια μέρα υπάρχει ένα πρόβλημα: τα ηλεκτρονικά σκέιτμπορντς των παιδιών δε λειτουργούν πια σωστά. Τι συμβαίνει; Το περίεργο κορίτσι Έιντα διακρίνει αυτό που συμβαίνει. Μαζί με τους φίλους της, πειραματίζεται με υλικό και λογισμικό, και τα παιδιά σφυρηλατούν ένα σχέδιο: Ο Ζάνγκεμαν δεν μπορεί πλέον να είναι ο μόνος που ελέγχει τις συσκευές!"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:335
 msgid "A book that arouses interest in tinkering and encourages shaping technology."
-msgstr ""
+msgstr "Ένα βιβλίο που προκαλεί ενδιαφέρον για μαστορέματα και ενθαρρύνει τη διαμόρφωση της τεχνολογίας."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -337,6 +337,8 @@ msgid ""
 "Matthias Kirschner\n"
 "Sandra Brandstätter"
 msgstr ""
+"Matthias Kirschner\n"
+"Sandra Brandstätter"
 
 #. (itstool) path: simplesect/literallayout
 #. (itstool) id: Ada_Zangemann.dbk#subtitle-titlepage
@@ -348,11 +350,14 @@ msgid ""
 "Software, Skateboards, and\n"
 "Raspberry Ice Cream"
 msgstr ""
+"Μια Ιστορία\n"
+"Λογισμικού, Σκέιτμπορντ, και\n"
+"Παγωτού Βατόμουρο"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:502
 msgid "Once upon a time, there was a little girl named Ada. Her family was so poor that all their savings fit inside a cookie jar."
-msgstr ""
+msgstr "Μια φορά κι έναν καιρό, υπήρχε ένα κοριτσάκι που λεγόταν Έιντα. Η οικογένειά της ήταν τόσο φτωχή που όλες οι αποταμιεύσεις τους χωρούσαν μέσα σε ένα βάζο για μπισκότα."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:502
