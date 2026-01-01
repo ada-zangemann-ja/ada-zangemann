@@ -399,13 +399,37 @@ msgstr "Hans palæ stod på en høj bakke. Derfra kunne han se ud over hele byen
 msgid "Zangemann and computers"
 msgstr "Zangemann og computere"
 
-#. (itstool) path: simplesect/para
-#. (itstool) id: Ada_Zangemann.dbk#para-p06-1
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:529
-msgid "Computers had fascinated Zangemann ever since he was a child. When he was young, computers were huge machines with lots of cables and loud, noisy fans. At school, little Zangemann often dreamed of all the things he would do with computers if they were just a little bit smaller — small enough that they could be built into other fun things. He knew what he would do. First, he would build a computer into his skateboard so that it would make cool noises when he rode it — maybe a fire engine siren or the sound of a rocket launch. Then he would use a computer to invent ice‑cream-making machines! The computer would mix the coolest flavors and even sell the ice cream. There would be machines on every street corner, and he could get ice cream in his favorite flavor whenever he felt like it, and just as much as he wanted. After that, he’d build a cleaning robot and a block-sorting machine so that his room would always be neat and clean. Zangemann had great new ideas like these every day. He could think of nothing else."
-msgstr "Zangemann havde været fascineret af computere, siden han var barn. Da han var ung, var computere store maskiner med masser af kabler og støjende blæsere. I skolen drømte lille Zangemann ofte om alle de ting, han ville gøre med computere, hvis de bare var en lille smule mindre. Så små, at de kunne bygges ind i andre sjove ting. Han vidste lige, hvad han ville gøre med dem. Først ville han bygge en computer ind i sit skateboard, så det kunne sige seje lyde, når han kørte på det - måske lyde som en brandbil eller en raket. Så ville han bruge en computer til at opfinde maskiner, der kunne lave is! Computeren skulle blande de bedste smage og endda sælge isen. Maskinerne skulle stå på hvert gadehjørne, og han ville kunne få sin yndlingsis, lige når han ville, og lige så meget af den som han ville. Bagefter ville han bygge en rengøringsrobot og en robot, der kunne sortere byggeklodser, så der altid ville være ryddet op på hans værelse. Hver eneste dag fik Zangemann den slags nye gode ideer. Det var det eneste, han kunne tænke på."
+msgid "Computers had fascinated Zangemann ever since he was a child. When he was young, computers were huge machines with lots of cables and loud, noisy fans."
+msgstr ""
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:529
+msgid "At school, little Zangemann often dreamed of all the things he would do with computers if they were just a little bit smaller — small enough that they could be built into other fun things."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:529
+msgid "He knew what he would do. First, he would build a computer into his skateboard so that it would make cool noises when he rode it — maybe a fire engine siren or the sound of a rocket launch."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:529
+msgid "Then he would use a computer to invent ice‑cream-making machines! The computer would mix the coolest flavors and even sell the ice cream."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:529
+msgid "There would be machines on every street corner, and he could get ice cream in his favorite flavor whenever he felt like it, and just as much as he wanted. After that, he’d build a cleaning robot and a block-sorting machine so that his room would always be neat and clean."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:529
+msgid "Zangemann had great new ideas like these every day. He could think of nothing else."
+msgstr ""
+
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:530
 msgid "As the years went by, Zangemann grew bigger and computers got smaller. In fact, by the time he finished school, they were so small they fit in his pocket. The smallest ones even fit on his fingertip."
 msgstr "Årene gik, Zangemann blev større, og computerne blev mindre. Faktisk blev de så små, at da han var færdig med at gå i skole, kunne de være i hans lomme. De allermindste kunne endda være på spidsen af hans finger."
@@ -1266,3 +1290,6 @@ msgstr ""
 #: Ada_Zangemann.dbk:1139
 msgid "Three hands that hold as many empty ice cream cones, to draw and color. In the air above the middle cone is an umbrella."
 msgstr ""
+
+#~ msgid "Computers had fascinated Zangemann ever since he was a child. When he was young, computers were huge machines with lots of cables and loud, noisy fans. At school, little Zangemann often dreamed of all the things he would do with computers if they were just a little bit smaller — small enough that they could be built into other fun things. He knew what he would do. First, he would build a computer into his skateboard so that it would make cool noises when he rode it — maybe a fire engine siren or the sound of a rocket launch. Then he would use a computer to invent ice‑cream-making machines! The computer would mix the coolest flavors and even sell the ice cream. There would be machines on every street corner, and he could get ice cream in his favorite flavor whenever he felt like it, and just as much as he wanted. After that, he’d build a cleaning robot and a block-sorting machine so that his room would always be neat and clean. Zangemann had great new ideas like these every day. He could think of nothing else."
+#~ msgstr "Zangemann havde været fascineret af computere, siden han var barn. Da han var ung, var computere store maskiner med masser af kabler og støjende blæsere. I skolen drømte lille Zangemann ofte om alle de ting, han ville gøre med computere, hvis de bare var en lille smule mindre. Så små, at de kunne bygges ind i andre sjove ting. Han vidste lige, hvad han ville gøre med dem. Først ville han bygge en computer ind i sit skateboard, så det kunne sige seje lyde, når han kørte på det - måske lyde som en brandbil eller en raket. Så ville han bruge en computer til at opfinde maskiner, der kunne lave is! Computeren skulle blande de bedste smage og endda sælge isen. Maskinerne skulle stå på hvert gadehjørne, og han ville kunne få sin yndlingsis, lige når han ville, og lige så meget af den som han ville. Bagefter ville han bygge en rengøringsrobot og en robot, der kunne sortere byggeklodser, så der altid ville være ryddet op på hans værelse. Hver eneste dag fik Zangemann den slags nye gode ideer. Det var det eneste, han kunne tænke på."

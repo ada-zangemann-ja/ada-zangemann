@@ -458,13 +458,37 @@ msgstr "장기만 아저씨의 저택은 언덕에 우뚝 솟아 있었어요. �
 msgid "Zangemann and computers"
 msgstr "장기만과 컴퓨터"
 
-#. (itstool) path: simplesect/para
-#. (itstool) id: Ada_Zangemann.dbk#para-p06-1
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:529
-msgid "Computers had fascinated Zangemann ever since he was a child. When he was young, computers were huge machines with lots of cables and loud, noisy fans. At school, little Zangemann often dreamed of all the things he would do with computers if they were just a little bit smaller — small enough that they could be built into other fun things. He knew what he would do. First, he would build a computer into his skateboard so that it would make cool noises when he rode it — maybe a fire engine siren or the sound of a rocket launch. Then he would use a computer to invent ice‑cream-making machines! The computer would mix the coolest flavors and even sell the ice cream. There would be machines on every street corner, and he could get ice cream in his favorite flavor whenever he felt like it, and just as much as he wanted. After that, he’d build a cleaning robot and a block-sorting machine so that his room would always be neat and clean. Zangemann had great new ideas like these every day. He could think of nothing else."
-msgstr "컴퓨터는 어렸을 때부터 장기만 아저씨를 매료시켰어요. 아저씨가 어렸을 때, 컴퓨터는 수많은 케이블과 크고 시끄러운 팬소리가 나는 거대한 기계였어요. 학교를 다닐 때 꼬마 장기만은 만약 컴퓨터가 지금보다 작아지게 된다면 무얼 할 수 있을까?라며 많은 것들을 상상하곤 했어요. 컴퓨터가 충분히 작아져서 여러가지 물건에 컴퓨터가 쏙 들어가게 될 때를 말이죠. 그렇게 된다면 뭘 해야 할지를 알 것 같았어요. 우선 컴퓨터가 달린 스케이트보드를 만들 작정이었어요. 그래서 스케이드보드를 타면 소방차 사이렌 소리나 로켓 발사 소리같은 멋진 소리를 내는 거에요. 그런 다음에는 아이스크림 만드는 기계에 컴퓨터를 넣을 생각이에요. 기계에 달린 컴퓨터가 가장 맛있는 맛을 섞어서 아이스크림을 만들어 파는거죠. 모든 길모퉁이에 아이스크림 만드는 기계를 놓을거에요. 그래서 내가 원할 때 마다 내가 좋아하는 맛의 아이스크림을 언제든 맘껏 먹을 수 있는거죠. 그리고나서 청소 로봇과 장난감 블럭 정리 기계를 만들 생각이에요. 그러면 항상 방이 깨끗하고 깔끔할거에요. 꼬마 장기만은 이렇게 훌륭하고 새로운 아이디어를 매일 매일 떠올렸어요. 사실 꼬마 장기만은 이것말고 다른 건 도무지 떠올릴 수 없었거든요."
+msgid "Computers had fascinated Zangemann ever since he was a child. When he was young, computers were huge machines with lots of cables and loud, noisy fans."
+msgstr ""
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:529
+msgid "At school, little Zangemann often dreamed of all the things he would do with computers if they were just a little bit smaller — small enough that they could be built into other fun things."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:529
+msgid "He knew what he would do. First, he would build a computer into his skateboard so that it would make cool noises when he rode it — maybe a fire engine siren or the sound of a rocket launch."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:529
+msgid "Then he would use a computer to invent ice‑cream-making machines! The computer would mix the coolest flavors and even sell the ice cream."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:529
+msgid "There would be machines on every street corner, and he could get ice cream in his favorite flavor whenever he felt like it, and just as much as he wanted. After that, he’d build a cleaning robot and a block-sorting machine so that his room would always be neat and clean."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:529
+msgid "Zangemann had great new ideas like these every day. He could think of nothing else."
+msgstr ""
+
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:530
 msgid "As the years went by, Zangemann grew bigger and computers got smaller. In fact, by the time he finished school, they were so small they fit in his pocket. The smallest ones even fit on his fingertip."
 msgstr "시간이 흘러, 꼬마 장기만은 점점 커지고 컴퓨터는 점점 작아졌어요. 장기만 아저씨가 막 학교를 졸업했을 때, 컴퓨터는 주머니에 쏙 들어갈 정도로 작아졌어요. 정말 작은 컴퓨터는 손가락 끝에 올려놓을 정도의 작은 크기였지요."
@@ -1323,3 +1347,6 @@ msgstr ""
 #: Ada_Zangemann.dbk:1139
 msgid "Three hands that hold as many empty ice cream cones, to draw and color. In the air above the middle cone is an umbrella."
 msgstr "그림그리기 및 색칠 놀이용 페이지. 빈 아이스크림콘을 들고 있는 세 명의 손. 중간 아이스크림 콘 위의 허공에는 우산 모양 장식이 그려져 있습니다."
+
+#~ msgid "Computers had fascinated Zangemann ever since he was a child. When he was young, computers were huge machines with lots of cables and loud, noisy fans. At school, little Zangemann often dreamed of all the things he would do with computers if they were just a little bit smaller — small enough that they could be built into other fun things. He knew what he would do. First, he would build a computer into his skateboard so that it would make cool noises when he rode it — maybe a fire engine siren or the sound of a rocket launch. Then he would use a computer to invent ice‑cream-making machines! The computer would mix the coolest flavors and even sell the ice cream. There would be machines on every street corner, and he could get ice cream in his favorite flavor whenever he felt like it, and just as much as he wanted. After that, he’d build a cleaning robot and a block-sorting machine so that his room would always be neat and clean. Zangemann had great new ideas like these every day. He could think of nothing else."
+#~ msgstr "컴퓨터는 어렸을 때부터 장기만 아저씨를 매료시켰어요. 아저씨가 어렸을 때, 컴퓨터는 수많은 케이블과 크고 시끄러운 팬소리가 나는 거대한 기계였어요. 학교를 다닐 때 꼬마 장기만은 만약 컴퓨터가 지금보다 작아지게 된다면 무얼 할 수 있을까?라며 많은 것들을 상상하곤 했어요. 컴퓨터가 충분히 작아져서 여러가지 물건에 컴퓨터가 쏙 들어가게 될 때를 말이죠. 그렇게 된다면 뭘 해야 할지를 알 것 같았어요. 우선 컴퓨터가 달린 스케이트보드를 만들 작정이었어요. 그래서 스케이드보드를 타면 소방차 사이렌 소리나 로켓 발사 소리같은 멋진 소리를 내는 거에요. 그런 다음에는 아이스크림 만드는 기계에 컴퓨터를 넣을 생각이에요. 기계에 달린 컴퓨터가 가장 맛있는 맛을 섞어서 아이스크림을 만들어 파는거죠. 모든 길모퉁이에 아이스크림 만드는 기계를 놓을거에요. 그래서 내가 원할 때 마다 내가 좋아하는 맛의 아이스크림을 언제든 맘껏 먹을 수 있는거죠. 그리고나서 청소 로봇과 장난감 블럭 정리 기계를 만들 생각이에요. 그러면 항상 방이 깨끗하고 깔끔할거에요. 꼬마 장기만은 이렇게 훌륭하고 새로운 아이디어를 매일 매일 떠올렸어요. 사실 꼬마 장기만은 이것말고 다른 건 도무지 떠올릴 수 없었거든요."
