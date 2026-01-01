@@ -3,20 +3,20 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2025-12-29 09:56+0100\n"
-"Last-Translator: Luh Putu Ayu Prapitasari <luhtu@yahoo.com>\n"
+"PO-Revision-Date: 2026-01-01 13:05+0000\n"
+"Last-Translator: Arif Budiman <arifpedia@gmail.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/fsfe/ada-zangemann/id/>\n"
 "Language: id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 3.6\n"
+"X-Generator: Weblate 5.15.1\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
 msgid "translator-credits"
-msgstr ""
+msgstr "Arif Budiman<arifpedia@gmail.com>, 2026"
 
 #. (itstool) path: info/title
 #. (itstool) path: cover/bridgehead
@@ -25,7 +25,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:264 Ada_Zangemann.dbk:308 Ada_Zangemann.dbk:498
 msgid "Ada &amp; Zangemann"
-msgstr ""
+msgstr "Ada &amp; Zangemann"
 
 #. (itstool) path: subtitle/phrase
 #. (itstool) path: cover/bridgehead
@@ -37,13 +37,13 @@ msgstr "Sebuah Cerita tentang Software, Skateboard, dan Es Krim Raspberry"
 #. ignore-same
 #: Ada_Zangemann.dbk:269
 msgid "<personname> <firstname>Matthias</firstname> <surname>Kirschner</surname> </personname>"
-msgstr ""
+msgstr "<personname> <firstname>Matthias</firstname> <surname>Kirschner</surname> </personname>"
 
 #. (itstool) path: info/othercredit
 #. ignore-same
 #: Ada_Zangemann.dbk:275
 msgid "<personname> <firstname>Sandra</firstname> <surname>Brandstätter</surname> </personname>"
-msgstr ""
+msgstr "<personname> <firstname>Sandra</firstname> <surname>Brandstätter</surname> </personname>"
 
 #. (itstool) path: character/charactername
 #. Name must not be changed.
@@ -51,7 +51,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:284
 msgid "Ada"
-msgstr ""
+msgstr "Ada"
 
 #. (itstool) path: character/charactername
 #. Name must not be changed.
@@ -59,7 +59,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:287
 msgid "Zangemann"
-msgstr ""
+msgstr "Zangemann"
 
 #. (itstool) path: character/charactername
 #. Name must not be changed.
@@ -67,7 +67,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:290
 msgid "Alan"
-msgstr ""
+msgstr "Alan"
 
 #. (itstool) path: character/charactername
 #. Character names are mostly reference to existing people in computer
@@ -82,7 +82,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:293
 msgid "Toni"
-msgstr ""
+msgstr "Toni"
 
 #. (itstool) path: character/charactername
 #. Character names are mostly reference to existing people in computer
@@ -97,7 +97,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:296
 msgid "Konrad"
-msgstr ""
+msgstr "Konrad"
 
 #. (itstool) path: character/charactername
 #. Character names are mostly reference to existing people in computer
@@ -112,7 +112,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:299
 msgid "Marie"
-msgstr ""
+msgstr "Marie"
 
 #. (itstool) path: character/charactername
 #. Character names are mostly reference to existing people in computer
@@ -134,7 +134,7 @@ msgstr "Ibu Gernet"
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:322
 msgid "Ada &amp; Zangemann - A Tale of Software, Skateboards, and Raspberry Ice Cream. By Matthias Kirschner and Sandra Brandstätter. On a mostly desaturated dark cyan background, in a frame composed of sometimes curled white lines that connect a mouse, a keyboard, and a pink smartphone, Ada and Zangemann are facing each other, both with their hands on their hips as a sign of challenge. Ada is smiling and Zangemann is frowning. Ada has black hair collected in two big right- and left-bound ringlets with red rubber bands, and red cheeks. She has little yellow stud earrings. She wears cyan and white horizontal striped shorts and a yellow shirt over a white undershirt that ends with embroidery that goes beyond the shirt. The shirt and undershirt come out over the shorts. Above the shirt Ada wears a blue hoodie. Ada is wearing red shoes with white tips and soles, and short white socks. She has one foot on a skateboard and the other on the ground. Zangemann has short gray hair and square glasses. He is wearing a purple turtle-neck sweater, light blue pants turned up, brown shoes, and white socks. He’s wearing a big tech watch. Above Zangemann there are a pair of pliers with red handles crossing the wire frame."
-msgstr ""
+msgstr "Ada &amp; Zangemann - Sebuah Kisah tentang Perangkat Lunak, Skateboard, dan Es Krim Raspberry. Oleh Matthias Kirschner dan Sandra Brandstätter. Pada latar belakang sian gelap yang sebagian besar tidak jenuh, di dalam bingkai yang tersusun dari garis-garis putih yang terkadang melengkung dan menghubungkan sebuah mouse, sebuah keyboard, dan sebuah ponsel pintar berwarna merah muda, Ada dan Zangemann saling berhadapan, keduanya dengan tangan di pinggang sebagai tanda tantangan. Ada tersenyum dan Zangemann cemberut. Ada memiliki rambut hitam yang dikumpulkan menjadi dua ikal besar yang mengarah ke kanan dan kiri dengan karet gelang merah, serta pipi merah. Ia memakai anting tindik kecil berwarna kuning. Ia mengenakan celana pendek bergaris horizontal sian dan putih serta baju kuning di atas kaus dalam putih yang berakhir dengan bordir yang menjulur melewati baju. Baju dan kaus dalam menjulur keluar di atas celana pendek. Di atas bajunya Ada mengenakan hoodie biru. Ada memakai sepatu merah dengan ujung dan sol putih, serta kaus kaki putih pendek. Ia menaruh satu kaki di atas skateboard dan kaki lainnya di tanah. Zangemann memiliki rambut abu-abu pendek dan kacamata kotak. Ia mengenakan sweter turtleneck ungu, celana biru muda yang dilipat ke atas, sepatu cokelat, dan kaus kaki putih. Ia memakai jam tangan teknologi besar. Di atas Zangemann terdapat sepasang tang dengan gagang merah yang menyilang bingkai kawat."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -147,7 +147,7 @@ msgstr "Sebuah alat solder dan kuas serta kaleng berisi cat berwarna kuning, dih
 #. (itstool) id: Ada_Zangemann.dbk#para-back-1
 #: Ada_Zangemann.dbk:334
 msgid "The inventor Zangemann is world-famous and immensely rich. Adults and children alike love his fabulous technical inventions. But one day there is a problem: the children’s electronic skateboards no longer work properly. What’s going on? The curious girl Ada sees through what is going on. Together with her friends, she experiments with hardware and software, and the children forge a plan: Zangemann can no longer be the only one in control of the devices!"
-msgstr ""
+msgstr "Penemu Zangemann terkenal di seluruh dunia dan sangat kaya raya. Orang dewasa maupun anak-anak menyukai penemuan teknisnya yang luar biasa. Namun suatu hari muncul masalah: skateboard elektronik anak-anak tidak lagi berfungsi dengan baik. Ada apa? Gadis ingin tahu bernama Ada memahami apa yang sedang terjadi. Bersama teman-temannya, ia bereksperimen dengan perangkat keras dan perangkat lunak, dan anak-anak pun menyusun rencana: Zangemann tidak boleh lagi menjadi satu-satunya pihak yang mengendalikan perangkat-perangkat itu!"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:335
@@ -214,6 +214,23 @@ msgid ""
 "\n"
 "<emphasis role=\"bold\">A big thank you</emphasis> to <emphasis role=\"bold\">dpunkt.verlag</emphasis> and <emphasis role=\"bold\">No Starch Press</emphasis> for understanding the values of software freedom, taking the time to discuss and understand the advantages of free cultural licenses, and the great support to publish this book under conditions that respect the FSFE’s values."
 msgstr ""
+"Hak Cipta © 2023 Matthias Kirschner dan Sandra Brandstätter.\n"
+"Karya ini dilisensikan di bawah Lisensi Creative Commons Atribusi-BerbagiSerupa 4.0 Internasional.\n"
+"Untuk melihat salinan lisensi ini, kunjungi <link xlink:href=\"https://creativecommons.org/licenses/by-sa/4.0/\">https://creativecommons.org/licenses/by-sa/4.0/</link> atau kirim surat ke Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.\n"
+"\n"
+"<emphasis role=\"bold\">Ada &amp; Zangemann: Kisah tentang Perangkat Lunak, Skateboard, dan Es Krim Raspberry</emphasis> adalah terjemahan dari versi asli berbahasa Jerman, Ada und Zangemann: Ein Märchen über Software, Skateboards und Himbeereis, yang diterbitkan oleh Dpunkt.verlag bekerja sama dengan O’Reilly Media, Inc., dengan label “O’REILLY,” © 2022 oleh Matthias Kirschner dan Sandra Brandstätter.\n"
+"\n"
+"Buku oleh Matthias Kirschner (penulis) dan Sandra Brandstätter (ilustrator) ini dilisensikan di bawah <emphasis role=\"bold\">Creative Commons CC-BY-SA</emphasis>, sebuah lisensi budaya bebas.\n"
+"\n"
+"<emphasis role=\"bold\">Anda boleh</emphasis> membagikan, menyalin, dan mendistribusikan ulang materi ini dalam media atau format apa pun. <emphasis role=\"bold\">Anda boleh</emphasis> mengadaptasi, me-remix, mengubah, dan mengembangkan materi ini untuk tujuan apa pun, termasuk komersial. <emphasis role=\"bold\">Anda wajib</emphasis> memberikan atribusi yang semestinya, menyertakan tautan ke lisensi, dan menyatakan jika ada perubahan yang dilakukan.\n"
+"\n"
+"<emphasis role=\"bold\">Anda boleh</emphasis> melakukannya dengan cara apa pun yang wajar, tetapi tidak dengan cara yang menyiratkan bahwa pemberi lisensi mendukung Anda atau penggunaan Anda. Jika Anda me-remix, mengubah, atau mengembangkan materi ini, <emphasis role=\"bold\">Anda wajib</emphasis> mendistribusikan kontribusi Anda di bawah lisensi yang sama seperti aslinya. (Ini adalah ringkasan yang mudah dipahami oleh manusia dari - dan bukan pengganti - “kode hukum” CC-BY-SA 4.0.)\n"
+"\n"
+"Selain itu, untuk versi remix (karya turunan), pemberi lisensi meminta Anda untuk tidak membuat perubahan apa pun pada ucapan terima kasih pribadi penulis serta biografi singkat penulis dan ilustrator; sebagai gantinya, mohon hapus sepenuhnya bagian-bagian tersebut dari versi remix Anda.\n"
+"\n"
+"Penerbitan di bawah lisensi budaya bebas ini dimungkinkan berkat dukungan besar dari dpunkt.verlag GmbH / O’Reilly Media, Inc. untuk buku berbahasa Jerman dan No Starch Press untuk buku berbahasa Inggris. Sayangnya, lisensi Creative Commons masih merupakan pengecualian yang jarang untuk buku yang diterbitkan secara komersial, dan sering dianggap revolusioner serta berisiko oleh penerbit.\n"
+"\n"
+"<emphasis role=\"bold\">Terima kasih yang sebesar-besarnya</emphasis> kepada <emphasis role=\"bold\">dpunkt.verlag</emphasis> dan <emphasis role=\"bold\">No Starch Press</emphasis> karena memahami nilai-nilai kebebasan perangkat lunak, meluangkan waktu untuk mendiskusikan dan memahami keunggulan lisensi budaya bebas, serta dukungan besar untuk menerbitkan buku ini di bawah ketentuan yang menghormati nilai-nilai FSFE."
 
 #. (itstool) path: simplesect/literallayout
 #. Full page colophon. Intended for print use, as an alternative to the
@@ -277,6 +294,57 @@ msgid ""
 "\n"
 "<emphasis role=\"bold\">A big thank you</emphasis> to <emphasis role=\"bold\">dpunkt.verlag</emphasis> and <emphasis role=\"bold\">No Starch Press</emphasis> for understanding the values of software freedom, taking the time to discuss and understand the advantages of free cultural licenses, and the great support to publish this book under conditions that respect the FSFE’s values."
 msgstr ""
+"Hak Cipta © 2023 Matthias Kirschner dan Sandra Brandstätter.\n"
+"Karya ini dilisensikan di bawah Lisensi Creative Commons Atribusi-BerbagiSerupa 4.0 Internasional.\n"
+"Untuk melihat salinan lisensi ini, kunjungi <link xlink:href=\"https://creativecommons.org/licenses/by-sa/4.0/\">https://creativecommons.org/licenses/by-sa/4.0/</link> atau kirim surat ke Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.\n"
+"\n"
+"<emphasis role=\"bold\">Ada &amp; Zangemann: Kisah tentang Perangkat Lunak, Skateboard, dan Es Krim Raspberry</emphasis> adalah terjemahan dari versi asli berbahasa Jerman, Ada und Zangemann: Ein Märchen über Software, Skateboards und Himbeereis, yang diterbitkan oleh Dpunkt.verlag bekerja sama dengan O’Reilly Media, Inc., dengan label “O’REILLY,” © 2022 oleh Matthias Kirschner dan Sandra Brandstätter.\n"
+"\n"
+"Cetakan pertama\n"
+"\n"
+"26 25 24 23 22 1 2 3 4 5\n"
+"\n"
+"ISBN-13: 978-1-7185-0318-2 (cetak)\n"
+"ISBN-13: 978-1-7185-0319-9 (ebook)\n"
+"\n"
+"Penerbit: William Pollock\n"
+"Penulis: Matthias Kirschner\n"
+"Ilustrator: Sandra Brandstätter\n"
+"Editor Pelaksana: Jill Franklin\n"
+"Editor Produksi: Jennifer Kepler\n"
+"Editor: Wiebke Helmchen\n"
+"Bantuan Warna: Olga Biryukova, Noémi Sárkány, Nathalie Scattolon, Kristina Haidinger, dan Jasmin Schlögl\n"
+"Desain Sampul: Sandra Brandstätter dan Susan Brown\n"
+"Penata Letak: Maureen Forys, Happenstance Type-O-Rama\n"
+"\n"
+"Untuk informasi mengenai distribusi, penjualan dalam jumlah besar, atau penjualan korporat, silakan hubungi No Starch Press, Inc. secara langsung di <link xlink:href=\"mailto:info@nostarch.com\">info@nostarch.com</link> atau:\n"
+"\n"
+"No Starch Press, Inc.\n"
+"245 8th Street, San Francisco, CA 94103\n"
+"telepon: 1.415.863.9900\n"
+"<link xlink:href=\"https://nostarch.com/\">www.nostarch.com</link>\n"
+"\n"
+"Catatan katalog untuk buku ini tersedia dari Library of Congress.\n"
+"\n"
+"No Starch Press dan logo No Starch Press adalah merek dagang terdaftar milik No Starch Press, Inc. Nama produk dan perusahaan lain yang disebutkan di sini mungkin merupakan merek dagang milik pemiliknya masing-masing. Alih-alih menggunakan simbol merek dagang pada setiap kemunculan nama bermerek dagang, kami menggunakan nama-nama tersebut hanya dalam konteks editorial dan demi kepentingan pemilik merek dagang, tanpa maksud untuk melanggar merek dagang.\n"
+"\n"
+"Informasi dalam buku ini didistribusikan dengan dasar “Apa Adanya”, tanpa garansi. Meskipun setiap tindakan pencegahan telah dilakukan dalam menyiapkan karya ini, baik penulis maupun No Starch Press, Inc. tidak bertanggung jawab kepada siapa pun atau entitas mana pun atas kerugian atau kerusakan apa pun yang disebabkan atau diduga disebabkan, secara langsung maupun tidak langsung, oleh informasi yang terkandung di dalamnya.\n"
+"\n"
+"Semua karakter dalam publikasi ini adalah fiktif, dan kemiripan apa pun dengan orang nyata, yang masih hidup atau sudah meninggal, semata-mata kebetulan.\n"
+"\n"
+"**\n"
+"\n"
+"Buku oleh Matthias Kirschner (penulis) dan Sandra Brandstätter (ilustrator) ini dilisensikan di bawah <emphasis role=\"bold\">Creative Commons CC-BY-SA</emphasis>, sebuah lisensi budaya bebas.\n"
+"\n"
+"<emphasis role=\"bold\">Anda boleh</emphasis> membagikan, menyalin, dan mendistribusikan ulang materi ini dalam media atau format apa pun. <emphasis role=\"bold\">Anda boleh</emphasis> mengadaptasi, me-remix, mengubah, dan mengembangkan materi ini untuk tujuan apa pun, termasuk komersial. <emphasis role=\"bold\">Anda wajib</emphasis> memberikan atribusi yang semestinya, menyertakan tautan ke lisensi, dan menyatakan jika ada perubahan yang dilakukan.\n"
+"\n"
+"<emphasis role=\"bold\">Anda boleh</emphasis> melakukannya dengan cara apa pun yang wajar, tetapi tidak dengan cara yang menyiratkan bahwa pemberi lisensi mendukung Anda atau penggunaan Anda. Jika Anda me-remix, mengubah, atau mengembangkan materi ini, <emphasis role=\"bold\">Anda wajib</emphasis> mendistribusikan kontribusi Anda di bawah lisensi yang sama seperti aslinya. (Ini adalah ringkasan yang mudah dipahami oleh manusia dari - dan bukan pengganti - “kode hukum” CC-BY-SA 4.0.)\n"
+"\n"
+"Selain itu, untuk versi remix (karya turunan), pemberi lisensi meminta Anda untuk tidak membuat perubahan apa pun pada ucapan terima kasih pribadi penulis serta biografi singkat penulis dan ilustrator; sebagai gantinya, mohon hapus sepenuhnya bagian-bagian tersebut dari versi remix Anda.\n"
+"\n"
+"Penerbitan di bawah lisensi budaya bebas ini dimungkinkan berkat dukungan besar dari dpunkt.verlag GmbH / O’Reilly Media, Inc. untuk buku berbahasa Jerman dan No Starch Press untuk buku berbahasa Inggris. Sayangnya, lisensi Creative Commons masih merupakan pengecualian yang jarang untuk buku yang diterbitkan secara komersial, dan sering dianggap revolusioner serta berisiko oleh penerbit.\n"
+"\n"
+"<emphasis role=\"bold\">Terima kasih yang sebesar-besarnya</emphasis> kepada <emphasis role=\"bold\">dpunkt.verlag</emphasis> dan <emphasis role=\"bold\">No Starch Press</emphasis> karena memahami nilai-nilai kebebasan perangkat lunak, meluangkan waktu untuk mendiskusikan dan memahami keunggulan lisensi budaya bebas, serta dukungan besar untuk menerbitkan buku ini di bawah ketentuan yang menghormati nilai-nilai FSFE."
 
 #. (itstool) path: simplesect/literallayout
 #. Grey section in the bottom of half page colophon.
@@ -291,6 +359,11 @@ msgid ""
 "We encourage you to support authors, publishers, and others involved in the creation of culture under free licenses – including <emphasis role=\"bold\">financially supporting them through purchases or donations</emphasis>. (<link xlink:href=\"https://fsfe.org/donate\">https://fsfe.org/donate</link>)\n"
 "Society should support those who respect others’ freedom."
 msgstr ""
+"<emphasis role=\"bold\">Bebas seperti dalam kebebasan, bukan harga</emphasis>\n"
+"Perangkat Lunak Bebas adalah tentang kebebasan yang Anda peroleh bersama perangkat lunak tersebut, bukan tentang harganya. Demikian pula, menerbitkan buku di bawah lisensi budaya bebas tidak berarti Anda berhak mendapatkan salinan buku atau ebook gratis. Ini berarti Anda memperoleh hak-hak yang dijelaskan di atas, yang memungkinkan masyarakat mendapatkan manfaat lebih lanjut dari buku ini, sebagaimana seharusnya dari semua karya budaya.\n"
+"\n"
+"Kami mendorong Anda untuk mendukung penulis, penerbit, dan pihak lain yang terlibat dalam penciptaan budaya di bawah lisensi bebas – termasuk <emphasis role=\"bold\">mendukung mereka secara finansial melalui pembelian atau donasi</emphasis>. (<link xlink:href=\"https://fsfe.org/donate\">https://fsfe.org/donate</link>)\n"
+"Masyarakat seharusnya mendukung mereka yang menghormati kebebasan orang lain."
 
 #. (itstool) path: info/title
 #. Page next to the colophon with title, subtitle, authors and
@@ -407,7 +480,7 @@ msgstr "Komputer telah memikat bapak Zangemann sejak kecil. Waktu bapak Zangeman
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:530
 msgid "As the years went by, Zangemann grew bigger and computers got smaller. In fact, by the time he finished school, they were so small they fit in his pocket. The smallest ones even fit on his fingertip."
-msgstr ""
+msgstr "Seiring berjalannya tahun, Zangemann semakin besar dan komputer semakin kecil. Bahkan, saat ia menyelesaikan sekolah, komputer-komputer itu sudah begitu kecil hingga muat di saku. Yang paling kecil bahkan muat di ujung jarinya."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -419,7 +492,7 @@ msgstr "Bapak Zangemann saat masih anak-anak duduk di kursi di meja sekolah. Dar
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:542
 msgid "“Finally, I can turn all my ideas into real things!” Zangemann exclaimed, and he got right to work. He found ways to put the small computers into all kinds of things to make them even more fun and useful. And then he sold them."
-msgstr ""
+msgstr "“Akhirnya, aku bisa mewujudkan semua ideku menjadi benda nyata!” seru Zangemann, lalu ia segera bekerja. Ia menemukan cara untuk memasukkan komputer-komputer kecil itu ke berbagai macam benda agar menjadi lebih menyenangkan dan berguna. Lalu ia menjualnya."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -431,7 +504,7 @@ msgstr "Mesin es krim asli buatan bapak Zangemann. Warnanya ice blue yaitu warna
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:549
 msgid "Adults and children loved his inventions. All the kids wanted to have one of his skateboards — complete with the latest sounds to show off to their friends at school. Kids also loved his speaker invention, which could instantly play any song you requested. And, of course, everyone loved the ice cream served every afternoon from the automatic, extra-delicious Original Zangemann Ice Cream Machine. It all seemed like magic, but the secret was simple: the little computers that Zangemann built into his machines made it all possible."
-msgstr ""
+msgstr "Orang dewasa dan anak-anak menyukai penemuannya. Semua anak ingin memiliki salah satu skateboard-nya — lengkap dengan suara-suara terbaru untuk dipamerkan kepada teman-teman mereka di sekolah. Anak-anak juga menyukai penemuan speakernya, yang dapat langsung memutar lagu apa pun yang Anda minta. Dan tentu saja, semua orang menyukai es krim yang disajikan setiap sore dari Mesin Es Krim Zangemann Asli otomatis yang ekstra lezat. Semuanya tampak seperti sihir, tetapi rahasianya sederhana: komputer-komputer kecil yang dipasang Zangemann ke dalam mesin-mesinnya membuat semua itu mungkin."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -450,27 +523,27 @@ msgstr "Si gadis kecil Ada sedang mengutak-atik benda-benda di laboratorium buat
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:564
 msgid "These inventions were very popular at Ada’s school, and many of her friends rode around on the cool skateboards. Ada was often sad, since her mother couldn’t buy her any of those great things: no skateboard, no speakers, no ice cream."
-msgstr ""
+msgstr "Penemuan-penemuan ini sangat populer di sekolah Ada, dan banyak teman-temannya berkeliling dengan skateboard keren itu. Ada sering sedih, karena ibunya tidak mampu membelikannya salah satu dari benda-benda hebat itu: tidak ada skateboard, tidak ada speaker, tidak ada es krim."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:566
 msgid "Luckily, Ada lived right next to the junkyard. There were lots of broken gadgets and rusty parts, which she put together to make cool new things, like a soapbox she and Alan rode roaring down the hill, a windmill, and scary junk monsters, which she and Alan would fight together. She also found many useful items—an old cell phone, for example. The screen was cracked, but she could fix that, and while there wasn’t internet at the junkyard, she could get access somewhere else."
-msgstr ""
+msgstr "Untungnya, Ada tinggal tepat di sebelah tempat pembuangan barang rongsokan. Ada banyak gawai rusak dan suku cadang berkarat, yang ia rangkai menjadi benda-benda baru yang keren, seperti mobil kotak sabun yang ia dan Alan kendarai meluncur deras menuruni bukit, sebuah kincir angin, dan monster rongsokan yang menyeramkan, yang ia dan Alan lawan bersama-sama. Ia juga menemukan banyak barang berguna—misalnya sebuah ponsel lama. Layarnya retak, tetapi ia bisa memperbaikinya, dan meskipun di tempat rongsokan tidak ada internet, ia bisa mendapatkan akses di tempat lain."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:567
 msgid "Ada had so much fun tinkering in the junkyard and fixing broken things that she forgot all about the skateboards and the ice cream."
-msgstr ""
+msgstr "Ada sangat menikmati mengutak-atik di tempat rongsokan dan memperbaiki benda-benda rusak hingga ia melupakan sama sekali skateboard dan es krim."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:571
 msgid "Because everyone bought his inventions, Zangemann soon became the richest person in the whole world. With all his money, he bought a huge golden computer with a keyboard made of jewels and set it up in the largest room of his mansion. From there, over the internet, he could control all the little computers built into his inventions."
-msgstr ""
+msgstr "Karena semua orang membeli penemuannya, Zangemann segera menjadi orang terkaya di seluruh dunia. Dengan semua uangnya, ia membeli sebuah komputer emas raksasa dengan keyboard yang terbuat dari permata, dan memasangnya di ruangan terbesar di rumah megahnya. Dari sana, melalui internet, ia dapat mengendalikan semua komputer kecil yang tertanam di dalam penemuannya."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:572
 msgid "All he had to do was press the proper key on the golden computer, and immediately all the ice-cream machines in town would dispense only vanilla ice cream. If Zangemann wanted people to eat chocolate ice cream, he pressed the key for chocolate ice cream. If he gave the order for lemon ice cream, the machines made only lemon ice cream. Zangemann loved his inventions and was always thrilled at how amazingly well his machines worked. Sometimes people were disappointed when their favorite flavor wasn’t available, but what could they do? After all, there was ice cream on every street corner."
-msgstr ""
+msgstr "Yang harus ia lakukan hanyalah menekan tombol yang tepat pada komputer emas, dan seketika semua mesin es krim di kota hanya akan mengeluarkan es krim vanila. Jika Zangemann ingin orang-orang makan es krim cokelat, ia menekan tombol untuk es krim cokelat. Jika ia memberi perintah untuk es krim lemon, mesin-mesin itu hanya membuat es krim lemon. Zangemann menyukai penemuannya dan selalu gembira melihat betapa luar biasanya mesin-mesinnya bekerja. Kadang-kadang orang kecewa ketika rasa favorit mereka tidak tersedia, tetapi apa yang bisa mereka lakukan? Lagipula, ada es krim di setiap sudut jalan."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -482,7 +555,7 @@ msgstr "Sebuah blok soket listrik berwarna putih terhubung ke sebuah stopkontak 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:581
 msgid "Zangemann had a lot of fun pressing the sparkling keys and watching people eat ice cream. He spent many hours every day in front of his golden computer doing this. Again and again, he looked down on the city through a long telescope, observing how reliably his inventions carried out his commands."
-msgstr ""
+msgstr "Zangemann sangat senang menekan tombol-tombol berkilau itu dan menonton orang-orang makan es krim. Ia menghabiskan berjam-jam setiap hari di depan komputer emasnya melakukan hal ini. Berulang kali, ia memandang ke bawah ke arah kota melalui sebuah teleskop panjang, mengamati betapa andalnya penemuannya menjalankan perintah-perintahnya."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -494,7 +567,7 @@ msgstr "Bapak Zangeman duduk di depan komputernya yang berwarna emas, ia duduk d
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:591
 msgid "When he wasn’t sitting at his golden computer, Zangemann was building his little computers into new devices and then selling those. He built washing machines that sent a message to your cell phone when your laundry was done. He made vacuums that played happy music instead of droning loudly. He invented light bulbs that turned on and off at the snap of a finger and cars that told you where the nearest grocery store was."
-msgstr ""
+msgstr "Ketika ia tidak duduk di depan komputer emasnya, Zangemann memasang komputer-komputer kecilnya ke perangkat-perangkat baru lalu menjualnya. Ia membuat mesin cuci yang mengirim pesan ke ponsel Anda ketika cucian selesai. Ia membuat penyedot debu yang memutar musik ceria alih-alih berdengung keras. Ia menemukan bola lampu yang menyala dan mati dengan jentikan jari serta mobil yang memberi tahu Anda di mana toko kelontong terdekat berada."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -506,19 +579,19 @@ msgstr "Lanskap kota dengan rumah-rumah dan toko-toko, dengan jalan utama yang b
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:598
 msgid "Soon, almost every appliance in the world had a Zangemann computer built into it. Not all of his inventions seemed necessary at first, but people bought everything he made. That’s just the way it was. Everyone wanted the devices made by Zangemann, the greatest inventor in the world."
-msgstr ""
+msgstr "Tak lama kemudian, hampir setiap peralatan di dunia memiliki komputer Zangemann yang tertanam di dalamnya. Tidak semua penemuannya tampak diperlukan pada awalnya, tetapi orang-orang membeli semua yang ia buat. Memang begitulah adanya. Semua orang menginginkan perangkat buatan Zangemann, penemu terhebat di dunia."
 
 #. (itstool) path: info/title
 #. Intended as 'on a day', not 'a single day'. This is supposed to be
 #. equal to the beginning of the first sentence of this chapter.
 #: Ada_Zangemann.dbk:603
 msgid "One day..."
-msgstr ""
+msgstr "Suatu hari..."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:606
 msgid "One day Zangemann thought, “Today I want to see my inventions up close.” He put away his big telescope, then climbed down the many stairs of his mansion and ventured out into the city, full of anticipation at the thought of enjoying his cool devices."
-msgstr ""
+msgstr "Suatu hari Zangemann berpikir, “Hari ini aku ingin melihat penemuanku dari dekat.” Ia menyimpan teleskop besarnya, lalu menuruni banyak tangga di rumah megahnya dan memberanikan diri pergi ke kota, penuh antisipasi membayangkan menikmati perangkat-perangkat kerennya."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -530,12 +603,12 @@ msgstr "Bapak Zangemann menuruni tangga dari rumahnya di atas bukit menuju kota.
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:615
 msgid "“Maybe a little trip might even give me a few new ideas. If I’m completely honest, my last inventions weren’t quite as useful as the first ones... ,” Zangemann pondered. “But my ice-cream machines are and will remain second to none,” he thought immediately afterward, and not without pride, as he passed a group of people all eating coconut ice cream, the flavor of the day."
-msgstr ""
+msgstr "“Mungkin perjalanan kecil bahkan bisa memberiku beberapa ide baru. Kalau aku jujur sepenuhnya, penemuan-penemuanku yang terakhir tidak sepenuhnya berguna seperti yang pertama...,” renung Zangemann. “Tapi mesin-mesin es krimku tidak ada duanya dan akan tetap begitu,” pikirnya segera setelah itu, dan bukan tanpa rasa bangga, saat ia melewati sekelompok orang yang semuanya sedang makan es krim kelapa, rasa hari itu."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:617
 msgid "He was completely absorbed in his thoughts when suddenly — BAM! — something crashed into his shin."
-msgstr ""
+msgstr "Ia begitu larut dalam pikirannya ketika tiba-tiba — BUK! — sesuatu menabrak tulang keringnya."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -547,422 +620,422 @@ msgstr "Bapak Zangemann setelah insiden dengan seorang anak. Bapak Zangemann men
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:626
 msgid "Zangemann yelped and looked around for the cause. A startled child stood in front of him, holding an original Zangemann skateboard under his arm. “Sorry, I didn’t mean to do that,” the child stammered, but Zangemann wasn’t listening."
-msgstr ""
+msgstr "Zangemann menjerit dan menoleh mencari penyebabnya. Seorang anak yang terkejut berdiri di depannya, memegang skateboard Zangemann asli di bawah lengannya. “Maaf, aku tidak bermaksud melakukan itu,” gagap si anak, tetapi Zangemann tidak mendengarkan."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:627
 msgid "An angry Zangemann limped away. Suddenly, he heard loud music. He had never before heard something so horrible. He looked around and saw that the music was coming from a loudspeaker he himself had constructed. A child across the street was holding it. The child seemed to like the music, but it gave Zangemann a terrible headache, and his mood worsened. This was not how he had imagined his walk!"
-msgstr ""
+msgstr "Dengan marah, Zangemann berjalan terpincang-pincang menjauh. Tiba-tiba, ia mendengar musik keras. Ia belum pernah mendengar sesuatu yang begitu mengerikan. Ia menoleh dan melihat bahwa musik itu berasal dari sebuah pengeras suara yang ia sendiri buat. Seorang anak di seberang jalan sedang memegangnya. Anak itu tampaknya menyukai musik tersebut, tetapi itu membuat Zangemann pusing sekali, dan suasana hatinya memburuk. Ini bukan seperti yang ia bayangkan untuk jalan-jalannya!"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:632
 msgid "Advertisements for Zangemann ice cream (sandwich board), a Zangemann electric skateboard, and a Zangemann washing machine. The math teacher, Ms. Gernet, is passing in front of the billboards. Ms. Gernet is an old lady with short white hair. She is dressed in a light green t-shirt and a pea green sweater, dark brown pants, and light green heeled shoes. She has a fuchsia shoulder bag, worn behind her. She pushes a small shopping cart in which there is a small brown dog with a collar and tag."
-msgstr ""
+msgstr "Iklan es krim Zangemann (papan iklan berdiri), sebuah skateboard listrik Zangemann, dan sebuah mesin cuci Zangemann. Guru matematika, Ibu Gernet, sedang melintas di depan papan-papan iklan tersebut. Ibu Gernet adalah seorang wanita tua berambut putih pendek. Ia mengenakan kaus berwarna hijau muda dan sweter hijau kacang, celana cokelat tua, serta sepatu hak berwarna hijau muda. Ia membawa tas selempang fuchsia, dikenakan di belakangnya. Ia mendorong keranjang belanja kecil yang di dalamnya ada seekor anjing kecil cokelat dengan kalung dan tanda pengenal."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:637
 msgid "Zangemann was so furious with the two children. How dare they use his inventions this way? That night, he couldn’t sleep, so he sat down at his golden computer. From there, he gave all the little computers in the skateboards a command that they were no longer allowed to go on sidewalks. He ordered the small computers in the speakers to play music only at a low volume, except for his favorite music, which he immediately turned on to get into a better mood."
-msgstr ""
+msgstr "Zangemann sangat murka kepada kedua anak itu. Beraninya mereka menggunakan penemuannya dengan cara seperti ini? Malam itu, ia tidak bisa tidur, jadi ia duduk di depan komputer emasnya. Dari sana, ia memberi perintah kepada semua komputer kecil di skateboard bahwa mereka tidak lagi boleh melaju di trotoar. Ia memerintahkan komputer kecil di pengeras suara agar hanya memutar musik dengan volume rendah, kecuali musik favoritnya, yang langsung ia putar untuk memperbaiki suasana hati."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:642
 msgid "The city in the evening, with houses, a church, and two streetlights. Images emerge from the dwellings illustrating Zangemann’s inventions bought by the inhabitants: a washing machine, a yellow vacuum cleaner, and a red car, all with Internet connection signals."
-msgstr ""
+msgstr "Kota pada malam hari, dengan rumah-rumah, sebuah gereja, dan dua lampu jalan. Gambar-gambar muncul dari tempat tinggal yang menggambarkan penemuan-penemuan Zangemann yang dibeli para penghuninya: sebuah mesin cuci, sebuah penyedot debu kuning, dan sebuah mobil merah, semuanya dengan sinyal koneksi internet."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:650
 msgid "Continuation of the previous picture, where in the background there is the hill with Zangemann’s house from whose antenna come the signals to control the various devices. In emerging images there are: a red electric skateboard, a light bulb, an ice cream machine, and a toilet, all of which are receiving commands from Zangemann."
-msgstr ""
+msgstr "Kelanjutan dari gambar sebelumnya, di mana pada latar belakang ada bukit dengan rumah Zangemann yang antenanya memancarkan sinyal untuk mengendalikan berbagai perangkat. Dalam gambar-gambar yang muncul terdapat: sebuah skateboard listrik merah, sebuah bola lampu, sebuah mesin es krim, dan sebuah toilet, yang semuanya menerima perintah dari Zangemann."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:656
 msgid "Skateboards no longer work"
-msgstr ""
+msgstr "Skateboard tidak lagi berfungsi"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p18-1
 #: Ada_Zangemann.dbk:660
 msgid "The next day, there was a big commotion at Ada’s school. On the way to school, the kids’ skateboards had stopped working. The wheels simply stood still. And the children could no longer turn up the volume on their speakers. What was going on?"
-msgstr ""
+msgstr "Keesokan harinya, terjadi kehebohan besar di sekolah Ada. Dalam perjalanan ke sekolah, skateboard anak-anak berhenti berfungsi. Roda-rodanya mendadak diam saja. Dan anak-anak tidak lagi bisa menaikkan volume pada pengeras suara mereka. Ada apa ini?"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:665
 msgid "Five kids from the school who can’t make skateboards work. Two girls wear helmets, respectively blue and red. A little girl with brown hair tied in two tails with yellow rubber bands is kneeling. She is trying to understand why the skateboard of her friend with the red helmet does not work. Four children have backpacks on their shoulders, while the little girl with the red helmet left hers leaning on a bench on which there are a yellow apple and a light blue bottle with a white flower on it."
-msgstr ""
+msgstr "Lima anak dari sekolah yang tidak bisa membuat skateboard berfungsi. Dua anak perempuan memakai helm, masing-masing biru dan merah. Seorang anak perempuan kecil berambut cokelat yang diikat menjadi dua ekor dengan karet gelang kuning sedang berlutut. Ia mencoba memahami mengapa skateboard temannya yang memakai helm merah tidak berfungsi. Empat anak memakai ransel di bahu, sementara anak perempuan kecil dengan helm merah meletakkan ranselnya bersandar pada sebuah bangku, di atasnya ada sebuah apel kuning dan botol biru muda dengan bunga putih di atasnya."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:669
 msgid "Although she didn’t own any of these things, Ada wondered why the skateboards and the speakers suddenly stopped working. But she didn’t really have time to think much about it, because she was tinkering again. She put together a complete bicycle from the parts of three broken bicycles. She gave the bicycle to her mother as a present so that she wouldn’t have to spend her money on bus tickets to work. For her brother, Ada built a loudspeaker so he could fall asleep to nice stories in the evenings when their mother was still at work."
-msgstr ""
+msgstr "Meskipun ia tidak memiliki satu pun dari benda-benda itu, Ada bertanya-tanya mengapa skateboard dan pengeras suara tiba-tiba berhenti berfungsi. Tetapi ia tidak benar-benar punya banyak waktu untuk memikirkannya, karena ia kembali mengutak-atik. Ia merakit sebuah sepeda lengkap dari bagian-bagian tiga sepeda yang rusak. Sepeda itu ia berikan kepada ibunya sebagai hadiah agar ibunya tidak perlu menghabiskan uangnya untuk tiket bus ke tempat kerja. Untuk adiknya, Ada membuat sebuah pengeras suara agar adiknya bisa tertidur ditemani cerita-cerita yang bagus pada malam hari ketika ibu mereka masih bekerja."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:674
 msgid "Close-up of Ada thoughtful, with a backpack and with one hand on her chin and the other resting on her side."
-msgstr ""
+msgstr "Tampilan dekat Ada yang sedang berpikir, dengan ransel, satu tangan di dagu dan tangan lainnya bertumpu di pinggang."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:677
 msgid "After a few days, the initial shock at Ada’s school was forgotten. The skateboards still didn’t go on the sidewalk, but apart from that, they still worked. And so now the children rode in circles around the playground and listened to soft music. Only a strange, pompous marching music continued to play at an unchanged volume, which the children found rather puzzling."
-msgstr ""
+msgstr "Setelah beberapa hari, keterkejutan awal di sekolah Ada pun terlupakan. Skateboard masih tidak boleh melaju di trotoar, tetapi selain itu, skateboard tetap berfungsi. Maka kini anak-anak berputar-putar mengelilingi taman bermain dan mendengarkan musik pelan. Hanya musik mars yang aneh dan berlagak megah yang terus diputar dengan volume yang tidak berubah, yang membuat anak-anak cukup kebingungan."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:682
 msgid "Ada and software"
-msgstr ""
+msgstr "Ada dan perangkat lunak"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p20-1
 #: Ada_Zangemann.dbk:686
 msgid "Ada loved Wednesdays. Every Wednesday, her mother and Alan would pick her up from school, and they would all go to the library together. Ada was always drawn to the technology section. There were books with blueprints, instructions for experiments, and explanations of how different devices worked. In the library, Ada could also go online with her cell phone. She quickly realized that there was also much to discover on the internet. There, many people shared their ideas and repair tips to help others."
-msgstr ""
+msgstr "Ada menyukai hari Rabu. Setiap hari Rabu, ibu dan Alan akan menjemputnya dari sekolah, dan mereka semua pergi ke perpustakaan bersama. Ada selalu tertarik ke bagian teknologi. Di sana ada buku-buku berisi cetak biru, petunjuk untuk eksperimen, dan penjelasan tentang cara kerja berbagai perangkat. Di perpustakaan, Ada juga bisa online dengan ponselnya. Ia segera menyadari bahwa ada banyak hal yang bisa ditemukan di internet. Di sana, banyak orang membagikan ide serta kiat perbaikan untuk membantu orang lain."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:687
 msgid "On one of those afternoons, Ada learned two new words: hardware and software. Hardware was a word for something Ada already knew: the electronic devices she tinkered with after school, or those devices she could hold in her hands and try to fix or make into something else. What was completely new to Ada was the word software. She soon learned that it meant instructions that ran on a computer to control other devices or computers. Some books called those instructions programs or code. With such a computer program, one could, for example, tell a loudspeaker which song to play and how loud."
-msgstr ""
+msgstr "Pada salah satu sore itu, Ada mempelajari dua kata baru: perangkat keras dan perangkat lunak. Perangkat keras adalah sebutan untuk sesuatu yang sudah Ada kenal: perangkat elektronik yang ia utak-atik sepulang sekolah, atau perangkat yang bisa ia pegang di tangan dan coba perbaiki atau ubah menjadi sesuatu yang lain. Yang benar-benar baru bagi Ada adalah kata perangkat lunak. Ia segera belajar bahwa itu berarti instruksi yang berjalan pada komputer untuk mengendalikan perangkat lain atau komputer lainnya. Beberapa buku menyebut instruksi itu program atau kode. Dengan program komputer semacam itu, seseorang dapat, misalnya, memberi tahu sebuah pengeras suara lagu apa yang harus diputar dan seberapa keras."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:688
 msgid "The best thing about Ada’s new discovery was realizing that she could tinker with software just as she could with hardware. Hardware is built with tools — hammers, drills, and screws. Software is built simply by writing down the commands for the hardware, one after the other. There was a separate language for this — the programming language. With software, Ada could make her inventions even more useful. She really wanted to learn the programming language!"
-msgstr ""
+msgstr "Hal terbaik dari penemuan baru Ada adalah menyadari bahwa ia bisa mengutak-atik perangkat lunak sebagaimana ia bisa mengutak-atik perangkat keras. Perangkat keras dibuat dengan alat — palu, bor, dan sekrup. Perangkat lunak dibuat cukup dengan menuliskan perintah-perintah untuk perangkat keras, satu demi satu. Untuk itu ada bahasa tersendiri — bahasa pemrograman. Dengan perangkat lunak, Ada bisa membuat penemuannya menjadi lebih berguna. Ia sangat ingin mempelajari bahasa pemrograman!"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:695
 msgid "Computer screen from which the elements of the programming language symbolically emerge: “while num &gt; 0“, “init“, “sx=42“, “for“, “v**3“. Ada is typing on a white keyboard with a blue cable, while her other hand enters the screen to change the program (“print(msg)”, “a+b+c+d=e”, “if”, “break”, “continue”, “exit()”). Next to the keyboard there are a pencil and an eraser."
-msgstr ""
+msgstr "Layar komputer yang darinya elemen-elemen bahasa pemrograman muncul secara simbolis: “while num &gt; 0“, “init“, “sx=42“, “for“, “v**3“. Ada sedang mengetik pada keyboard putih dengan kabel biru, sementara tangan satunya masuk ke layar untuk mengubah program (“print(msg)”, “a+b+c+d=e”, “if”, “break”, “continue”, “exit()”). Di samping keyboard ada sebuah pensil dan sebuah penghapus."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:701
 msgid "Programming"
-msgstr ""
+msgstr "Pemrograman"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p22-1
 #: Ada_Zangemann.dbk:705
 msgid "Over the next few weeks, Ada spent her afternoons in the library. She found books and websites that explained how programming languages and code worked. For Ada, it felt a bit like learning a secret language, or like studying vocabulary in school. Ada ate it all up. She expected her first program to do something simple: “Make this lamp blink!”"
-msgstr ""
+msgstr "Selama beberapa minggu berikutnya, Ada menghabiskan sore-sorenya di perpustakaan. Ia menemukan buku dan situs web yang menjelaskan bagaimana bahasa pemrograman dan kode bekerja. Bagi Ada, rasanya sedikit seperti mempelajari bahasa rahasia, atau seperti mempelajari kosakata di sekolah. Ada menyerap semuanya. Ia mengharapkan program pertamanya melakukan sesuatu yang sederhana: “Buat lampu ini berkedip!”"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:706
 msgid "Of course, she wanted to try her program out right away to see if it really worked. At the junkyard, she connected her cell phone to a small LED lamp. Then she typed the lines of code into her cell phone."
-msgstr ""
+msgstr "Tentu saja, ia ingin segera mencoba programnya untuk melihat apakah benar-benar berfungsi. Di tempat rongsokan, ia menghubungkan ponselnya ke sebuah lampu LED kecil. Lalu ia mengetik baris-baris kode itu ke ponselnya."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:707
 msgid "At first, nothing happened. Ada wondered where the error could be. She made a few small changes and tried again and .... “Yeesss!” The little light began to flash. On, off, on, off. Ada looked at the LED in amazement. She had written her first program!"
-msgstr ""
+msgstr "Awalnya, tidak terjadi apa-apa. Ada bertanya-tanya di mana kesalahannya. Ia membuat beberapa perubahan kecil dan mencoba lagi dan .... “Yaaas!” Lampu kecil itu mulai berkedip. Menyala, mati, menyala, mati. Ada memandang LED itu dengan takjub. Ia telah menulis program pertamanya!"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:708
 msgid "Ada was totally thrilled. She imagined all the great things she could do. If she just entered the right code, she could make her inventions do exactly what she wanted. It was not so easy, but after a few weeks, Ada wrote a truly useful program: one that would make Alan’s speakers automatically turn off half an hour after he had fallen asleep."
-msgstr ""
+msgstr "Ada sangat gembira. Ia membayangkan semua hal hebat yang bisa ia lakukan. Jika ia memasukkan kode yang tepat, ia bisa membuat penemuannya melakukan persis apa yang ia inginkan. Itu tidak mudah, tetapi setelah beberapa minggu, Ada menulis program yang benar-benar berguna: program yang akan membuat speaker Alan otomatis mati setengah jam setelah Alan tertidur."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:715
 msgid "Ada comes to grips with programming. She is typing on a keyboard resting on a gray mat and connected to a smartphone with a blue cable. The smartphone is connected with a red wire to an electronic card with a yellow LED lamp. The smartphone is powered by a transformer connected to a power strip with a gray wire and plug. On the table there are also: 3 books, of which one is open; a clipboard and a pencil; pliers; glue; solder; and a disconnected soldering iron."
-msgstr ""
+msgstr "Ada mulai memahami pemrograman. Ia sedang mengetik pada keyboard yang diletakkan di atas alas abu-abu dan terhubung ke sebuah ponsel pintar dengan kabel biru. Ponsel pintar itu terhubung dengan kabel merah ke sebuah papan elektronik dengan lampu LED kuning. Ponsel pintar itu mendapat daya dari sebuah transformator yang terhubung ke stop kontak ekstensi dengan kabel dan steker abu-abu. Di atas meja juga ada: 3 buku, salah satunya terbuka; sebuah clipboard dan pensil; tang; lem; timah solder; dan sebuah solder yang tidak terhubung."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:717
 msgid "Ada also had an idea for the next program she would write. It was a bigger deal, a real project. She would probably need the whole summer break for it... And she could hardly wait!"
-msgstr ""
+msgstr "Ada juga punya ide untuk program berikutnya yang akan ia tulis. Itu sesuatu yang lebih besar, sebuah proyek sungguhan. Ia mungkin membutuhkan seluruh liburan musim panas untuk itu... Dan ia hampir tidak sabar!"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:724
 msgid "Zangemann looks thoughtfully with his arms crossed out one of the great windows of his house, into which the sun’s rays are shining."
-msgstr ""
+msgstr "Zangemann tampak berpikir dengan tangan bersedekap menatap keluar melalui salah satu jendela besar rumahnya, yang disinari cahaya matahari."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:730
 msgid "A horrible night"
-msgstr ""
+msgstr "Malam yang mengerikan"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p25-1
 #: Ada_Zangemann.dbk:734
 msgid "Zangemann had slept horribly every night since his terrible walk in the city. When he went to bed each night, worries plagued him. “Oh no, my marvelous inventions. It can’t be that everyone just plays around with them. All the things that could go wrong! I put so much thought into everything, down to the last detail.” Zangemann pondered and pondered and tossed and turned sleeplessly in his bed all night."
-msgstr ""
+msgstr "Zangemann tidur sangat buruk setiap malam sejak jalan-jalannya yang mengerikan di kota. Setiap malam ketika ia pergi tidur, kekhawatiran menghantuinya. “Oh tidak, penemuanku yang luar biasa. Tidak mungkin semua orang hanya main-main dengannya. Begitu banyak hal yang bisa salah! Aku sudah memikirkan semuanya dengan matang, sampai detail terakhir.” Zangemann terus memikirkan hal itu dan gelisah, bolak-balik tanpa bisa tidur sepanjang malam di tempat tidurnya."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:735
 msgid "Waking up one morning with a deeply furrowed brow, he made a decision. He needed to make a change. Zangemann sat down at his computer and wrote one program after another. In these programs, he specified exactly what his inventions were to do and were not to do under any circumstances. The chaos had to stop!"
-msgstr ""
+msgstr "Suatu pagi, ia terbangun dengan kening berkerut dalam, lalu mengambil keputusan. Ia perlu membuat perubahan. Zangemann duduk di depan komputernya dan menulis program demi program. Dalam program-program ini, ia menetapkan secara persis apa yang boleh dan tidak boleh dilakukan penemuannya dalam keadaan apa pun. Kekacauan ini harus berhenti!"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:736
 msgid "Once he was done, he sent all the new programs from his golden computer to people’s devices. He ordered his speakers to play only his favorite music whenever he was within earshot. He programmed the ice-cream machines to stop selling ice cream in the afternoon. After all, he didn’t want his expensive clothes to get stained by ice cream while he was out for a walk. All day long he sat at the computer and typed and typed and typed..."
-msgstr ""
+msgstr "Setelah selesai, ia mengirim semua program baru dari komputer emasnya ke perangkat-perangkat orang. Ia memerintahkan pengeras suaranya untuk hanya memutar musik favoritnya setiap kali ia berada dalam jangkauan pendengaran. Ia memprogram mesin es krim untuk berhenti menjual es krim pada sore hari. Bagaimanapun, ia tidak ingin pakaian mahalnya ternoda es krim ketika ia sedang berjalan-jalan. Sepanjang hari ia duduk di depan komputer dan mengetik dan mengetik dan mengetik..."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:741
 msgid "First real project"
-msgstr ""
+msgstr "Proyek sungguhan pertama"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p26-1
 #: Ada_Zangemann.dbk:745
 msgid "Summer break was already halfway over. Ada stood in front of her big project and scratched her head. She had built a skateboard from old parts and then connected a motor to make the wheels turn. With a motorized skateboard, Ada could zoom to the library or the junkyard even faster after school. Super practical! But it didn’t work. When she stood on it and pressed the Go! button, the wheels moved, but way too fast. Ada fell off the skateboard every time she started. No matter what she tried, she just couldn’t get it right."
-msgstr ""
+msgstr "Liburan musim panas sudah lewat setengah. Ada berdiri di depan proyek besarnya dan menggaruk kepala. Ia telah membuat skateboard dari suku cadang lama lalu memasang motor agar roda-roda bisa berputar. Dengan skateboard bermotor, Ada bisa melesat ke perpustakaan atau tempat rongsokan lebih cepat sepulang sekolah. Sangat praktis! Namun, itu tidak berhasil. Ketika ia berdiri di atasnya dan menekan tombol Go!, roda-roda bergerak, tetapi terlalu cepat. Ada selalu terjatuh dari skateboard setiap kali mulai. Apa pun yang ia coba, ia tetap tidak bisa membuatnya benar."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:746
 msgid "After falling on her bottom for the hundredth time, she went back to the library. She always found answers to her questions there. And indeed, on the internet, she came across a program that someone had written for an electric scooter that also needed to start slowly. Ada downloaded it to her phone."
-msgstr ""
+msgstr "Setelah jatuh terduduk untuk keseratus kalinya, ia kembali ke perpustakaan. Di sana ia selalu menemukan jawaban atas pertanyaannya. Dan benar saja, di internet, ia menemukan sebuah program yang seseorang tulis untuk skuter listrik yang juga perlu mulai pelan. Ada mengunduhnya ke ponselnya."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:748
 msgid "Back at the junkyard, she adapted some lines of code for her skateboard program. She tweaked a few things and kept tinkering."
-msgstr ""
+msgstr "Kembali di tempat rongsokan, ia menyesuaikan beberapa baris kode untuk program skateboard-nya. Ia mengutak-atik beberapa hal dan terus bereksperimen."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:749
 msgid "Several failed attempts later, on the last day of summer break, the time had finally come. Ada stood on the skateboard and pressed the Go! button, and the skateboard started moving, slowly at first, then faster. It worked! She tried to brake. It worked! Ada let out a cry of joy and took a trip to the park."
-msgstr ""
+msgstr "Setelah beberapa kali percobaan gagal, pada hari terakhir liburan musim panas, akhirnya saatnya tiba. Ada berdiri di atas skateboard dan menekan tombol Go!, dan skateboard pun mulai bergerak, pelan pada awalnya, lalu semakin cepat. Berhasil! Ia mencoba mengerem. Berhasil! Ada berteriak gembira dan berkeliling ke taman."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:756
 msgid "Ada racing with her electric skateboard for city sidewalks. Ada’s skateboard is blue, with gray and pink wheels; the electronic part is placed above the skateboard (as opposed to Zangemann’s skateboards where the electronic part is below). Ada is holding in both hands a remote control with a short antenna to maneuver it. Behind Ada are Marie and Toni who carry their own skateboards under their arms and look with amazement at Ada, who has shot past them and in front of them. Marie has dark long hair with two braids fastened with orange clips, yellow earrings, a fuchsia shirt with white sleeves with purple horizontal stripes, a white skirt, white and yellow sneakers, white socks, a white hat with yellow sides, and a light purple backpack. Marie has a blue artificial leg. Her skateboard is blue with yellow wheels. Toni has red hair closely trimmed on the sides. He is wearing a blue sweatshirt, dark green pants, and white shoes. He has a red backpack with white inserts and shoulder straps. One hand is next to his mouth. His skateboard is purple with orange wheels. There’s also a father with his son walking in the opposite direction: the father is dressed in a blue checked jacket and blue pants and holds a brown briefcase. He is smiling at Ada. His son has a blue shirt, blue shorts, white shoes, a brown backpack, and a red and white hat. He holds under his arm a yellow Zangemann skateboard with light brown wheels, and he grins at Ada. In the background there is a bakery with large windows through which you can see the bread. It has a green and white striped awning around the corner and a sign on the sidewalk with the list of products. Overhead, a large pretzel is displayed. On the road there is a puddle that reflects the blue of the sky."
-msgstr ""
+msgstr "Ada melaju dengan skateboard listriknya di trotoar kota. Skateboard Ada berwarna biru, dengan roda abu-abu dan merah muda; bagian elektroniknya diletakkan di atas skateboard (berbeda dengan skateboard Zangemann yang bagian elektroniknya berada di bawah). Ada memegang sebuah remote control dengan antena pendek di kedua tangannya untuk mengendalikannya. Di belakang Ada ada Marie dan Toni yang membawa skateboard mereka sendiri di bawah lengan dan memandang takjub kepada Ada, yang melesat melewati mereka dan berada di depan mereka. Marie memiliki rambut panjang gelap dengan dua kepang yang dijepit dengan klip oranye, anting kuning, baju fuchsia dengan lengan putih bergaris horizontal ungu, rok putih, sepatu kets putih dan kuning, kaus kaki putih, topi putih dengan sisi kuning, dan ransel ungu muda. Marie memiliki kaki buatan berwarna biru. Skateboard-nya berwarna biru dengan roda kuning. Toni memiliki rambut merah yang dicukur rapat di sisi-sisinya. Ia mengenakan sweter biru, celana hijau tua, dan sepatu putih. Ia memakai ransel merah dengan sisipan dan tali bahu putih. Satu tangannya berada di dekat mulutnya. Skateboard-nya berwarna ungu dengan roda oranye. Ada juga seorang ayah dengan anak laki-lakinya yang berjalan ke arah berlawanan: sang ayah berpakaian jaket kotak-kotak biru dan celana biru serta memegang tas kerja cokelat. Ia tersenyum kepada Ada. Anak laki-lakinya mengenakan baju biru, celana pendek biru, sepatu putih, ransel cokelat, dan topi merah-putih. Ia memegang di bawah lengannya sebuah skateboard Zangemann berwarna kuning dengan roda cokelat muda, dan ia menyeringai kepada Ada. Di latar belakang ada sebuah toko roti dengan jendela besar yang memperlihatkan roti di dalamnya. Toko itu memiliki kanopi bergaris hijau-putih di sudut dan sebuah papan di trotoar berisi daftar produk. Di atasnya, sebuah pretzel besar dipajang. Di jalan ada sebuah genangan air yang memantulkan warna biru langit."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:761
 msgid "When Ada rode her skateboard to school on the first day back after summer break, the other children were amazed. During recess, Ada’s curious classmates surrounded her."
-msgstr ""
+msgstr "Ketika Ada mengendarai skateboard-nya ke sekolah pada hari pertama masuk setelah liburan musim panas, anak-anak lain tercengang. Saat jam istirahat, teman-teman sekelas Ada yang penasaran mengerumuninya."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:762
 msgid "“How can you ride your skateboard on the sidewalk?” they asked."
-msgstr ""
+msgstr "“Bagaimana kamu bisa mengendarai skateboard-mu di trotoar?” tanya mereka."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:767
 msgid "Ada stops on her skateboard surrounded by children. Marie is on one end. She is pointing to Ada’s skateboard and she’s talking. Next to her is Konrad, with short blond hair, a dark gray helmet, glasses, a green shirt with white collar and cuffs, light blue pants with white cuffs, and gray shoes with white soles. He has a red skateboard with orange wheels. Behind Ada there are 4 other children. On the other end Toni is smiling. He touches his chin with one hand while with the other he holds a yellow helmet by the laces."
-msgstr ""
+msgstr "Ada berhenti di atas skateboard-nya dikelilingi anak-anak. Marie berada di salah satu ujung. Ia menunjuk skateboard Ada dan sedang berbicara. Di sebelahnya ada Konrad, dengan rambut pirang pendek, helm abu-abu tua, kacamata, baju hijau dengan kerah dan manset putih, celana biru muda dengan manset putih, dan sepatu abu-abu dengan sol putih. Ia memiliki skateboard merah dengan roda oranye. Di belakang Ada ada 4 anak lainnya. Di ujung lain, Toni tersenyum. Ia menyentuh dagunya dengan satu tangan sementara dengan tangan lainnya ia memegang helm kuning pada talinya."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:771
 msgid "Ada thought for a moment, then said, “I don’t think it’s your skateboards but actually the software in them. It’s probably programmed into the software that the skateboards aren’t allowed to go on the sidewalk. But that can be changed!”"
-msgstr ""
+msgstr "Ada berpikir sejenak, lalu berkata, “Menurutku masalahnya bukan pada skateboard kalian, melainkan pada perangkat lunak di dalamnya. Mungkin sudah diprogram di perangkat lunaknya bahwa skateboard tidak boleh melaju di trotoar. Tapi itu bisa diubah!”"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:772
 msgid "That evening, Ada tested out her theory on her classmate Toni’s skateboard. She worked secretly through most of the night, and the next day, Toni could ride on the sidewalk again. Unfortunately, his skateboard could no longer make the sounds that his parents had bought from Zangemann. Instead, every 10 minutes it made a strange noise that sounded like a drawn-out burp. Ada knew that little errors like that could pop up in programs all the time. But Toni’s burping skateboard was really quite funny."
-msgstr ""
+msgstr "Malam itu, Ada menguji teorinya pada skateboard milik teman sekelasnya, Toni. Ia bekerja diam-diam hampir sepanjang malam, dan keesokan harinya Toni bisa kembali melaju di trotoar. Sayangnya, skateboard-nya tidak lagi bisa mengeluarkan suara-suara yang dibelikan orang tuanya dari Zangemann. Sebagai gantinya, setiap 10 menit skateboard itu mengeluarkan suara aneh yang terdengar seperti sendawa yang ditarik panjang. Ada tahu bahwa kesalahan-kesalahan kecil seperti itu bisa muncul dalam program kapan saja. Tetapi skateboard Toni yang bersendawa itu memang cukup lucu."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:777
 msgid "Hopscotch diagram drawn with chalk on asphalt. In a row, within squares, the numbers 1, 2; 3 and 4 next to each other; 5, 6; and 7 and 8 next to each other. The number 9 is not inside a square but inside a wider semicircle beyond the squares of numbers 7 and 8. Between the number 1 and the number 2 there is a blue bottle with white polka dots. A yellow Zangemann skateboard with orange wheels on the side of the diagram actually hides the number 1."
-msgstr ""
+msgstr "Gambar petak umpet (hopscotch) digambar dengan kapur di aspal. Dalam satu baris, di dalam kotak-kotak, angka 1, 2; 3 dan 4 berdampingan; 5, 6; dan 7 dan 8 berdampingan. Angka 9 tidak berada di dalam kotak, melainkan di dalam setengah lingkaran yang lebih lebar di luar kotak angka 7 dan 8. Di antara angka 1 dan angka 2 ada sebuah botol biru bermotif polkadot putih. Sebuah skateboard Zangemann kuning dengan roda oranye di sisi gambar sebenarnya menutupi angka 1."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:783
 msgid "Hacking for freedom"
-msgstr ""
+msgstr "Meretas demi kebebasan"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p30-1
 #: Ada_Zangemann.dbk:787
 msgid "More and more children started to visit Ada at the junkyard after school, and she helped them rewrite the programs in their skateboards. Some of her classmates were very excited about this new discovery. It was unbelievable what you could do with software code! They wanted to learn everything Ada knew about programming languages, and soon they were riding their skateboards again, wherever they wanted to."
-msgstr ""
+msgstr "Semakin banyak anak mulai mengunjungi Ada di tempat rongsokan sepulang sekolah, dan ia membantu mereka menulis ulang program dalam skateboard mereka. Beberapa teman sekelasnya sangat bersemangat dengan penemuan baru ini. Sulit dipercaya apa yang bisa dilakukan dengan kode perangkat lunak! Mereka ingin mempelajari semua yang Ada ketahui tentang bahasa pemrograman, dan tak lama kemudian mereka kembali mengendarai skateboard mereka, ke mana pun mereka mau."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:789
 msgid "But that wasn’t all. With the software, they could give their skateboards new, cool features. Marie attached colorful LED lights to her board that glowed different colors depending on the speed. Konrad built old propellers onto his skateboard for extra speed."
-msgstr ""
+msgstr "Namun bukan itu saja. Dengan perangkat lunak, mereka bisa memberi skateboard mereka fitur-fitur baru yang keren. Marie memasang lampu LED warna-warni pada papan skateboard-nya yang menyala dengan warna berbeda tergantung pada kecepatannya. Konrad memasang baling-baling lama pada skateboard-nya untuk menambah kecepatan."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:794
 msgid "A green battery with red and yellow wires, a power strip, glue, a roll of solder, and two pencils."
-msgstr ""
+msgstr "Sebuah baterai hijau dengan kabel merah dan kuning, sebuah stop kontak ekstensi, lem, sebuah gulungan timah solder, dan dua pensil."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:798
 msgid "Ada, Toni, Marie, and Konrad spent many afternoons at the junkyard. They even set up a real workshop where they could fine-tune their programs for hours, listening all the while to music from the speakers Ada had built for Alan."
-msgstr ""
+msgstr "Ada, Toni, Marie, dan Konrad menghabiskan banyak sore di tempat rongsokan. Mereka bahkan membuat bengkel sungguhan tempat mereka dapat menyempurnakan program mereka selama berjam-jam, sambil mendengarkan musik dari speaker yang Ada buat untuk Alan."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:799
 msgid "“Your brother’s speakers are much louder than ours,” remarked Toni, who was busy attaching a speedometer to his helmet. “I’m sure that’s also because of the software,” Marie said."
-msgstr ""
+msgstr "“Speaker kakakmu jauh lebih keras daripada punya kami,” komentar Toni, yang sedang sibuk memasang speedometer pada helmnya. “Aku yakin itu juga karena perangkat lunaknya,” kata Marie."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:800
 msgid "Together, they changed the software for the speakers too. Then they turned up the music as loud as possible and danced wildly together."
-msgstr ""
+msgstr "Bersama-sama, mereka mengubah perangkat lunak untuk speaker juga. Lalu mereka membesarkan volume musik setinggi mungkin dan menari liar bersama-sama."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:805
 msgid "A screwdriver with orange and gray handle, red pliers, and three LEDs: yellow, green, pink."
-msgstr ""
+msgstr "Sebuah obeng bergagang oranye dan abu-abu, tang merah, dan tiga LED: kuning, hijau, merah muda."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:813
 msgid "Laboratory at the junkyard, under the veranda of Ada’s house. Ada is sitting on a water case with a leg bent under her, using a soldering iron. Konrad is standing next to her and dismounting a speaker. Marie is sitting on two tires with an arm resting on a table and her upside-down skateboard from which wires come out. She is talking with Alan, who is standing with his arms resting on the same table. On the table there are also: pliers, two wrenches, a spool of solder, a can of blue paint (a bit of paint has dried on the table), and a pitcher and two glasses containing a pink drink. Toni is testing his skateboard with added yellow wings and a fan. It burps."
-msgstr ""
+msgstr "Laboratorium di tempat rongsokan, di bawah beranda rumah Ada. Ada duduk di atas peti air dengan satu kaki ditekuk di bawahnya, menggunakan solder. Konrad berdiri di sebelahnya dan membongkar sebuah speaker. Marie duduk di atas dua ban dengan satu tangan bertumpu pada meja dan skateboard-nya yang terbalik, dari mana kabel-kabel menjulur. Ia sedang berbicara dengan Alan, yang berdiri dengan kedua tangan bertumpu pada meja yang sama. Di atas meja juga ada: tang, dua kunci pas, gulungan timah solder, kaleng cat biru (sedikit cat mengering di atas meja), serta sebuah pitcher dan dua gelas berisi minuman merah muda. Toni sedang menguji skateboard-nya yang ditambahkan sayap kuning dan sebuah kipas. Skateboard itu bersendawa."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:821
 msgid "Marie and Ada’s mom are dancing, facing each other. Alan, Ada, and Konrad are dancing in a circle. On the right there is a speaker playing, resting on an oil drum. Near the speaker there are two dancing mice. Toni is jumping through the tires. Ada’s dog is howling, and from his mouth come two distorted musical notes."
-msgstr ""
+msgstr "Marie dan ibu Ada sedang menari, saling berhadapan. Alan, Ada, dan Konrad menari membentuk lingkaran. Di sebelah kanan ada sebuah speaker yang sedang memutar musik, diletakkan di atas drum oli. Di dekat speaker ada dua tikus yang sedang menari. Toni melompat melewati ban. Anjing Ada melolong, dan dari mulutnya keluar dua nada musik yang terdistorsi."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:829
 msgid "Hands holding wonderful ice cream cones: blue ice cream with a chocolate heart on top with a yellow heart on its center, and whipped cream on top of the chocolate; green ice cream with colored stars with a cucumber stuck on a stick; pink fish-shaped ice cream; pyramid-shaped ice cream with candies, and chocolate syrup, and a cherry on top; rainbow ice cream with a yellow umbrella; blue ghost-shaped ice cream with candies on it."
-msgstr ""
+msgstr "Tangan-tangan memegang cone es krim yang luar biasa: es krim biru dengan hati cokelat di atasnya dengan hati kuning di tengahnya, dan krim kocok di atas cokelat; es krim hijau dengan bintang-bintang berwarna dengan mentimun yang ditusukkan pada stik; es krim merah muda berbentuk ikan; es krim berbentuk piramida dengan permen, dan saus cokelat, serta ceri di atasnya; es krim pelangi dengan payung kuning; es krim biru berbentuk hantu dengan permen di atasnya."
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p35-1
 #: Ada_Zangemann.dbk:840
 msgid "Every day, Ada and her friends made plans together for the afternoon. From a broken ice-cream machine, they built a new one that could make ice cream in every imaginable shape and color. They ate square ice cream, heart-shaped ice cream, and even pyramid-shaped ice cream, as well as strawberry, raspberry, and rainbow ice cream, all with sprinkles and hot fudge — much better than the varieties from the Zangemann machines."
-msgstr ""
+msgstr "Setiap hari, Ada dan teman-temannya membuat rencana bersama untuk sore hari. Dari mesin es krim yang rusak, mereka membuat mesin baru yang bisa membuat es krim dalam setiap bentuk dan warna yang bisa dibayangkan. Mereka makan es krim kotak, es krim berbentuk hati, bahkan es krim berbentuk piramida, juga es krim stroberi, raspberry, dan pelangi, semuanya dengan taburan dan saus cokelat panas — jauh lebih enak daripada varian dari mesin-mesin Zangemann."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:841
 msgid "Sometimes they could even help adults. Toni reprogrammed his father’s ironing machine so that it could also iron ties again — Zangemann had forbidden the machines to do so because he hated ties like the plague. For the bus driver, they built an automatic watering system out of old hoses and a computer so that her plants would not die of thirst during summer days. And they helped the school custodian modify his vacuum so that it automatically recognized toys and wouldn’t suck them up."
-msgstr ""
+msgstr "Kadang-kadang mereka bahkan bisa membantu orang dewasa. Toni memprogram ulang mesin setrika ayahnya agar bisa menyetrika dasi lagi — Zangemann melarang mesin-mesin itu melakukannya karena ia membenci dasi setengah mati. Untuk sopir bus, mereka membuat sistem penyiraman otomatis dari selang-selang lama dan sebuah komputer agar tanaman-tanamannya tidak mati kehausan selama hari-hari musim panas. Dan mereka membantu petugas sekolah memodifikasi penyedot debunya agar otomatis mengenali mainan dan tidak menyedotnya."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:842
 msgid "Some things they built just for fun, like the fart machine they put in their math teacher’s chair. Whenever Ms. Gernet sat down, the machine played a little fart sound. The teacher would scold them, but Ada was sure that she secretly smirked a little every time."
-msgstr ""
+msgstr "Beberapa hal mereka buat hanya untuk bersenang-senang, seperti mesin kentut yang mereka pasang di kursi guru matematika. Setiap kali Ibu Gernet duduk, mesin itu memutar suara kentut kecil. Gurunya akan memarahi mereka, tetapi Ada yakin bahwa diam-diam ia sedikit menyeringai setiap kali."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:847
 msgid "Zangemann and the President"
-msgstr ""
+msgstr "Zangemann dan Presiden"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p36-1
 #: Ada_Zangemann.dbk:851
 msgid "One day, Zangemann noticed that some computers no longer obeyed his programming commands. Shocked and fuming with anger, he called the president. In a quivering voice, Zangemann yelled, “Someone is rewriting the programs in my devices. That can’t happen; after all, they are my inventions. It’s far too dangerous if everyone can do whatever they want with the computers. You must make a law against this!”"
-msgstr ""
+msgstr "Suatu hari, Zangemann menyadari bahwa beberapa komputer tidak lagi mematuhi perintah pemrogramannya. Terkejut dan mendidih oleh amarah, ia menelepon presiden. Dengan suara bergetar, Zangemann berteriak, “Seseorang menulis ulang program di perangkat-perangkatku. Itu tidak boleh terjadi; bagaimanapun juga, itu penemuanku. Terlalu berbahaya jika semua orang bisa melakukan apa saja yang mereka mau dengan komputer. Anda harus membuat undang-undang untuk melarang ini!”"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:852
 msgid "The president did not want to upset Zangemann. All the government’s computers were programmed by Zangemann. Without the computers, the government would not be able to run the country. So they passed the law as Zangemann requested:"
-msgstr ""
+msgstr "Presiden tidak ingin membuat Zangemann kesal. Semua komputer pemerintah diprogram oleh Zangemann. Tanpa komputer-komputer itu, pemerintah tidak akan bisa menjalankan negara. Jadi mereka mengesahkan undang-undang seperti yang diminta Zangemann:"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:853
 msgid "“All computers that do not listen to Zangemann are banned. Anyone who reprograms Zangemann’s devices will be fined 500,000 gold pieces!”"
-msgstr ""
+msgstr "“Semua komputer yang tidak mendengarkan Zangemann dilarang. Siapa pun yang memprogram ulang perangkat Zangemann akan didenda 500.000 keping emas!”"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:860
 msgid "The President getting a phone call from the angry Zangemann. The videophone consists of an old red Zangemann dial phone connected to a monitor. Zangemann’s face appears on the monitor, while a yellow flare of Zangemann’s thundering voice comes out of the phone, and the President holds the receiver at arm’s length. The president has white hair and wears a light blue shirt, a red tie, and a blue jacket with yellow buttons. The President is sitting on a green chair with white vertical lines, and his other hand is on the desk. On the desk, in addition to the videophone, there are sheets with something written on them and an open purple fountain pen. The President was eating a sandwich of meat and cheese with greens with two olives on a toothpick, over a blue napkin with white stripes."
-msgstr ""
+msgstr "Presiden menerima panggilan telepon dari Zangemann yang marah. Videotelepon itu terdiri dari telepon putar Zangemann merah tua yang terhubung ke monitor. Wajah Zangemann muncul di monitor, sementara semburan kuning dari suara menggelegar Zangemann keluar dari telepon, dan Presiden memegang gagang telepon sejauh lengan. Presiden berambut putih dan mengenakan kemeja biru muda, dasi merah, dan jaket biru dengan kancing kuning. Presiden duduk di kursi hijau dengan garis vertikal putih, dan tangan lainnya berada di atas meja. Di atas meja, selain videotelepon, ada lembaran-lembaran dengan sesuatu yang tertulis di atasnya serta sebuah pena tinta ungu yang terbuka. Presiden sedang makan sandwich daging dan keju dengan sayuran, dengan dua zaitun pada tusuk gigi, di atas serbet biru dengan garis putih."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:865
 msgid "When Ada and her friends heard this, they were furious. “This is unfair,” they said. “We rebuilt and reprogrammed our skateboards ourselves. They are much better now. We won’t let anyone take that away from us!”"
-msgstr ""
+msgstr "Ketika Ada dan teman-temannya mendengar ini, mereka sangat marah. “Ini tidak adil,” kata mereka. “Kami membangun kembali dan memprogram ulang skateboard kami sendiri. Sekarang jauh lebih baik. Kami tidak akan membiarkan siapa pun merampasnya dari kami!”"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:866
 msgid "They gathered in front of one of their rebuilt ice-cream machines and discussed the situation. It was clear that something had to be done about the new law, and they made a plan..."
-msgstr ""
+msgstr "Mereka berkumpul di depan salah satu mesin es krim hasil rakitan ulang mereka dan membahas situasinya. Jelas bahwa sesuatu harus dilakukan terhadap undang-undang baru itu, dan mereka pun membuat rencana..."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:871
 msgid "Cans of green, blue, and pink paint; a paintbrush with yellow paint; a light green marker; and a rolled banner on which some blue paint has fallen."
-msgstr ""
+msgstr "Kaleng-kaleng cat hijau, biru, dan merah muda; sebuah kuas dengan cat kuning; sebuah spidol hijau muda; dan sebuah spanduk tergulung yang terkena tumpahan sedikit cat biru."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:877
 msgid "Protest"
-msgstr ""
+msgstr "Aksi protes"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p39-1
 #: Ada_Zangemann.dbk:882
 msgid "The next day, they didn’t go to school. Instead, they rode their skateboards to the parliament building, with large protest signs under their arms, and sat down in front of the building. The evening before, they had put LED lights on some of the signs, which were now flashing brightly. They had connected their speakers together so everyone in the street could hear what they were saying. Some passersby stopped and asked the children what they were demonstrating for. “For software freedom!” they replied in unison and told the adults their story. Impressed, the adults nodded, and the president also looked curiously at their signs as he approached the building."
-msgstr ""
+msgstr "Keesokan harinya, mereka tidak pergi ke sekolah. Sebagai gantinya, mereka mengendarai skateboard ke gedung parlemen, dengan poster-poster protes besar di bawah lengan, lalu duduk di depan gedung itu. Malam sebelumnya, mereka memasang lampu LED pada beberapa poster, yang kini berkedip terang. Mereka menghubungkan speaker mereka sehingga semua orang di jalan dapat mendengar apa yang mereka katakan. Beberapa orang yang lewat berhenti dan bertanya kepada anak-anak itu untuk apa mereka berdemonstrasi. “Untuk kebebasan perangkat lunak!” jawab mereka serempak dan menceritakan kisah mereka kepada orang dewasa. Terkesan, orang-orang dewasa mengangguk, dan presiden juga memandang penasaran pada poster-poster mereka saat ia mendekati gedung itu."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:883
 msgid "On the following day, Ada and her friends again sat down in front of the parliament building, this time with support. Some classmates came whose skateboards Ada had reprogrammed. Toni’s father and other parents and adults also wanted to support the protest. They found the children’s devices very useful."
-msgstr ""
+msgstr "Pada hari berikutnya, Ada dan teman-temannya kembali duduk di depan gedung parlemen, kali ini dengan dukungan. Beberapa teman sekelas datang yang skateboard-nya telah diprogram ulang oleh Ada. Ayah Toni serta orang tua dan orang dewasa lainnya juga ingin mendukung protes tersebut. Mereka menganggap perangkat-perangkat anak-anak itu sangat berguna."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:888
 msgid "Yellow and green paint on the floor and wax crayons yellow, red, blue, green and brown; the latter 3 are in a gray cardboard box."
-msgstr ""
+msgstr "Cat kuning dan hijau di lantai serta krayon lilin berwarna kuning, merah, biru, hijau, dan cokelat; tiga yang terakhir berada di dalam kotak kardus abu-abu."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:892
 msgid "With each passing day, more and more children and adults joined the protest. The bus driver they had helped drove up in her bus. She honked loudly to attract even more people to the protest. The custodian brought a few friends, and Toni’s father brought his colleagues from work, all wearing perfectly ironed ties. Even Ms. Gernet came. The crowd grew, and after a few weeks, there were protests not just in Ada’s city but also in many cities throughout the country."
-msgstr ""
+msgstr "Seiring berlalunya hari, semakin banyak anak-anak dan orang dewasa yang bergabung dengan protes. Sopir bus yang pernah mereka bantu datang mengemudikan busnya. Ia membunyikan klakson keras-keras untuk menarik lebih banyak orang ke protes itu. Petugas sekolah membawa beberapa teman, dan ayah Toni membawa rekan-rekannya dari tempat kerja, semuanya mengenakan dasi yang disetrika rapi. Bahkan Ibu Gernet ikut datang. Kerumunan makin besar, dan setelah beberapa minggu, protes tidak hanya terjadi di kota Ada, tetapi juga di banyak kota di seluruh negeri."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:897
 msgid "Group of protesters. Among them there are: Ada’s mother holding Alan’s hand and raising a pink ice cream; 3 colleagues of Toni’s father dressed in ties; two children holding the banner “Do your homework Mr. President and we will do ours!”; a robot with tank treads, irons as feet, an electric fan as abdomen, a monitor as head, and an eggbeater as one hand, holding a blue ice cream in his other hand; two parents holding the banner “Hacking 4 Freedom”; a lady holding an electronic sign “There is a code B”; two small birds, flying; the math teacher, Ms. Gernet, who has inserted in her cart a sign that says “They are young + need the code!“ The dog in her cart is barking; Ada and Konrad are carrying the banner “Don’t wreck our tech!” Marie and Toni are walking beneath the banner, and Marie is talking through a bullhorn held in her hand; Ada’s family’s dog is now wearing a red harness with shiny yellow LEDs that matches the collar."
-msgstr ""
+msgstr "Sekelompok demonstran. Di antara mereka ada: ibu Ada memegang tangan Alan dan mengangkat es krim merah muda; 3 rekan kerja ayah Toni yang mengenakan dasi; dua anak memegang spanduk “Kerjakan PR Anda Pak Presiden dan kami akan mengerjakan PR kami!”; sebuah robot dengan roda rantai tank, setrika sebagai kaki, kipas listrik sebagai perut, monitor sebagai kepala, dan pengocok telur sebagai salah satu tangan, sambil memegang es krim biru di tangan lainnya; dua orang tua memegang spanduk “Hacking 4 Freedom”; seorang wanita memegang papan elektronik “Ada kode B”; dua burung kecil yang terbang; guru matematika, Ibu Gernet, yang menaruh di keranjangnya sebuah papan bertuliskan “Mereka masih muda + butuh kode!“ Anjing di keranjangnya sedang menggonggong; Ada dan Konrad membawa spanduk “Jangan rusak teknologi kami!” Marie dan Toni berjalan di bawah spanduk itu, dan Marie berbicara melalui megafon yang dipegangnya; anjing keluarga Ada kini mengenakan tali kekang merah dengan LED kuning mengilap yang serasi dengan kalungnya."
 
 #. (itstool) path: info/excerpt
 #. Text on big banner, left on the illustration
 #: Ada_Zangemann.dbk:899
 msgid "Do your homework Mr. President and we will do ours!"
-msgstr ""
+msgstr "Kerjakan PR Anda Pak Presiden dan kami akan mengerjakan PR kami!"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:908
 msgid "Detail of the previous image: two children holding the banner “Do your homework Mr. President and we will do ours!”"
-msgstr ""
+msgstr "Detail dari gambar sebelumnya: dua anak memegang spanduk “Kerjakan PR Anda Pak Presiden dan kami akan mengerjakan PR kami!”"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:914
 msgid "Detail of the previous image: Ada and Konrad are carrying the banner “Don’t wreck our tech!” Marie and Toni are walking beneath the banner, and Marie is talking through a bullhorn held in her hand; Ada’s family’s little dog is now wearing a red harness with shiny yellow LEDs that matches the collar."
-msgstr ""
+msgstr "Detail dari gambar sebelumnya: Ada dan Konrad membawa spanduk “Jangan rusak teknologi kami!” Marie dan Toni berjalan di bawah spanduk itu, dan Marie berbicara melalui megafon yang dipegangnya; anjing kecil keluarga Ada kini mengenakan tali kekang merah dengan LED kuning mengilap yang serasi dengan kalungnya."
 
 #. (itstool) path: info/excerpt
 #. Text on square signe on the right of the illustration
 #: Ada_Zangemann.dbk:916
 msgid "They are young + need the code!"
-msgstr ""
+msgstr "Mereka masih muda + butuh kode!"
 
 #. (itstool) path: info/excerpt
 #. Text on banner on the banner held by children on the right of the
@@ -970,152 +1043,152 @@ msgstr ""
 #. can be used, which translates to 'without code everything is dull!'.
 #: Ada_Zangemann.dbk:917
 msgid "Don’t wreck our tech!"
-msgstr ""
+msgstr "Jangan rusak teknologi kami!"
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:924
 msgid "Children help the government"
-msgstr ""
+msgstr "Anak-anak membantu pemerintah"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p42-1
 #: Ada_Zangemann.dbk:927
 msgid "Ada protested in front of the parliament building every week, even in pouring rain. On one such rainy day, when the president passed the group of dripping-wet children, he couldn’t help but admire their stubbornness. He asked Ada, “Why do you sit here every day? What do you want to achieve?” Ada replied, “We want to determine for ourselves what we can and cannot do with our computers.” Her friends shouted in unison: “Don’t wreck our tech! Don’t wreck our tech!” and “We want the code! We want the code!”"
-msgstr ""
+msgstr "Ada berunjuk rasa di depan gedung parlemen setiap minggu, bahkan saat hujan deras. Pada suatu hari hujan seperti itu, ketika presiden melewati kelompok anak-anak yang basah kuyup, ia tidak bisa tidak mengagumi kegigihan mereka. Ia bertanya kepada Ada, “Mengapa kamu duduk di sini setiap hari? Apa yang ingin kamu capai?” Ada menjawab, “Kami ingin menentukan sendiri apa yang boleh dan tidak boleh kami lakukan dengan komputer kami.” Teman-temannya berteriak serempak: “Jangan rusak teknologi kami! Jangan rusak teknologi kami!” dan “Kami ingin kodenya! Kami ingin kodenya!”"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:928
 msgid "The president looked at the determined faces of the children. Honestly, he, too, wanted to decide for himself what the government could and couldn’t do with its computers. But he didn’t understand anything about computers and code, so he had always left that to Zangemann. Deep in thought, the president entered the building."
-msgstr ""
+msgstr "Presiden memandang wajah-wajah anak-anak yang penuh tekad. Sejujurnya, ia juga ingin memutuskan sendiri apa yang boleh dan tidak boleh dilakukan pemerintah dengan komputer-komputernya. Tetapi ia tidak memahami apa pun tentang komputer dan kode, jadi selama ini ia selalu menyerahkannya kepada Zangemann. Dengan pikiran penuh pertimbangan, presiden masuk ke gedung itu."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:934
 msgid "One of Ada’s friends lying on his stomach with one foot up in the air is typing on a laptop. He has wavy brown hair parted in the center, a red sweatshirt, blue pants, and white socks but no shoes. Next to the computer there are a green cup and two open books."
-msgstr ""
+msgstr "Salah satu teman Ada berbaring tengkurap dengan satu kaki terangkat di udara sedang mengetik di laptop. Ia berambut cokelat bergelombang belah tengah, mengenakan sweter merah, celana biru, dan kaus kaki putih tanpa sepatu. Di sebelah komputer ada sebuah cangkir hijau dan dua buku terbuka."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:936
 msgid "The next day, the president invited Ada and her friends over. “We also want to be in charge of our software ourselves. In order for that to be true, the government must be independent from Zangemann. Can you tell me what you know about computer programs?” he asked them. Enthusiastically, they explained to him how software works and what you could do with it. The president was amazed."
-msgstr ""
+msgstr "Keesokan harinya, presiden mengundang Ada dan teman-temannya. “Kami juga ingin mengendalikan perangkat lunak kami sendiri. Agar hal itu benar-benar terjadi, pemerintah harus mandiri dari Zangemann. Bisakah kalian memberi tahu saya apa yang kalian ketahui tentang program komputer?” tanya presiden. Dengan antusias, mereka menjelaskan kepadanya bagaimana perangkat lunak bekerja dan apa yang bisa Anda lakukan dengannya. Presiden pun takjub."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:939
 msgid "With this new knowledge, the government would be able to design its own software, the way it wanted — completely without Zangemann. Immediately, the president called his advisers. In a large group, they discussed with the children everything they could change and improve in the software."
-msgstr ""
+msgstr "Dengan pengetahuan baru ini, pemerintah akan mampu merancang perangkat lunaknya sendiri, sesuai yang diinginkan — sepenuhnya tanpa Zangemann. Presien segera memanggil para penasihatnya. Dalam kelompok besar, mereka berdiskusi dengan anak-anak mengenai segala hal yang bisa mereka ubah dan perbaiki dalam perangkat lunak itu."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:940
 msgid "That evening, the children went home proud and satisfied. Something finally happened! Their long protest was worth it."
-msgstr ""
+msgstr "Malam itu, anak-anak pulang dengan bangga dan puas. Akhirnya sesuatu terjadi! Protes panjang mereka tidak sia-sia."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:945
 msgid "Ada and her friends in the President’s office. Ada is reprogramming the President’s computer. Toni is setting up a speaker for the President’s secretary. Marie and Konrad are sitting on the floor and talking, and Marie has a laptop on her legs with an FSFE logo sticker (three stars: pea green, sky blue, and sea blue). On the floor are a bowl with candy and a plate with ice creams. The President’s phone is ringing, but nobody is answering."
-msgstr ""
+msgstr "Ada dan teman-temannya di kantor Presiden. Ada sedang memprogram ulang komputer Presiden. Toni sedang menyiapkan sebuah speaker untuk sekretaris Presiden. Marie dan Konrad duduk di lantai dan berbicara, dan Marie memiliki laptop di atas kakinya dengan stiker logo FSFE (tiga bintang: hijau kacang, biru langit, dan biru laut). Di lantai ada sebuah mangkuk berisi permen dan sebuah piring berisi es krim. Telepon Presiden berdering, tetapi tidak ada yang menjawab."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:951
 msgid "New law"
-msgstr ""
+msgstr "Undang-undang baru"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p44-1
 #: Ada_Zangemann.dbk:954
 msgid "The next morning, the president’s phone rang very early. It was Zangemann. He was angrier than ever. “Without me, the government computers will no longer work,” he threatened. But the president kept the call short and quickly hung up. The phone rang many more times that day, but Zangemann’s calls went unanswered. The president sat in a meeting with Ada, Toni, Marie, Konrad, and the government experts."
-msgstr ""
+msgstr "Keesokan paginya, telepon Presiden berdering sangat pagi. Itu Zangemann. Ia lebih marah daripada sebelumnya. “Tanpa aku, komputer pemerintah tidak akan berfungsi lagi,” ancamnya. Namun Presiden memperpendek pembicaraan dan segera menutup telepon. Telepon berdering berkali-kali lagi hari itu, tetapi panggilan Zangemann tidak dijawab. Presiden duduk dalam rapat bersama Ada, Toni, Marie, Konrad, dan para pakar pemerintah."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:959
 msgid "A herald, wearing a hat with a plume, playing a trumpet on which a red banner is hung."
-msgstr ""
+msgstr "Seorang bentara, mengenakan topi dengan bulu, meniup terompet yang padanya tergantung sebuah spanduk merah."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:961
 msgid "In the days that followed, they talked from morning to night and designed their first programs for the government’s computers. They were no longer disturbed by Zangemann’s calls. Toni had the good idea of reprogramming the telephones. When Zangemann called, he only heard an automated recording: “The government only wants to use software that it can freely use, study, share, and improve. Thank you for calling.”"
-msgstr ""
+msgstr "Pada hari-hari berikutnya, mereka berdiskusi dari pagi hingga malam dan merancang program-program pertama untuk komputer pemerintah. Mereka tidak lagi terganggu oleh panggilan Zangemann. Toni punya ide bagus untuk memprogram ulang telepon-telepon. Ketika Zangemann menelepon, ia hanya mendengar rekaman otomatis: “Pemerintah hanya ingin menggunakan perangkat lunak yang dapat digunakan, dipelajari, dibagikan, dan ditingkatkan secara bebas. Terima kasih sudah menelepon.”"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:963
 msgid "Then, after many weeks of protests and discussions, the time had finally come: they abolished the old Zangemann law! Instead, the government announced:"
-msgstr ""
+msgstr "Kemudian, setelah berminggu-minggu aksi protes dan diskusi, akhirnya saatnya tiba: mereka mencabut undang-undang Zangemann yang lama! Sebagai gantinya, pemerintah mengumumkan:"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:966
 msgid "“Everyone is allowed to program their own computers as long as they adhere to the other laws.”"
-msgstr ""
+msgstr "“Setiap orang diizinkan memprogram komputer mereka sendiri selama mematuhi undang-undang lainnya.”"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:967
 msgid "In addition, a new school subject was introduced: computer hardware and software."
-msgstr ""
+msgstr "Selain itu, diperkenalkan mata pelajaran sekolah baru: perangkat keras dan perangkat lunak komputer."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:972
 msgid "The President with Toni, Konrad, Marie, Ada, and a herald playing a trumpet. Marie is standing on top of a ladder talking into a microphone. Konrad firmly holds the ladder on which Marie is standing. Ada is standing on a chair and holds a copy of the new law bearing a seal. Ada’s dog is sitting in front of her."
-msgstr ""
+msgstr "Presiden bersama Toni, Konrad, Marie, Ada, dan seorang bentara yang meniup terompet. Marie berdiri di atas tangga dan berbicara ke mikrofon. Konrad memegang tangga tempat Marie berdiri dengan kuat. Ada berdiri di atas kursi dan memegang salinan undang-undang baru yang memiliki segel. Anjing Ada duduk di depannya."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:977
 msgid "That evening, everyone celebrated with a big party. Ada, Alan, Toni, Marie, Konrad, and other children from school and their parents; the president; Ms. Gernet; the bus driver; the custodian — they were all there. They decorated the streets, listened to loud music, and ate ice cream, as much as they wanted, and in every imaginable shape and color."
-msgstr ""
+msgstr "Malam itu, semua orang merayakan dengan pesta besar. Ada, Alan, Toni, Marie, Konrad, dan anak-anak lain dari sekolah beserta orang tua mereka; presiden; Ibu Gernet; sopir bus; petugas sekolah — semuanya hadir. Mereka menghias jalan-jalan, mendengarkan musik keras, dan makan es krim, sebanyak yang mereka mau, dan dalam setiap bentuk serta warna yang bisa dibayangkan."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:982
 msgid "Evening party. Children are holding ice cream and balloons with the words “I love FS (I love Free Software)”; other children are riding skateboards; yellow and orange flags are hanging; music comes out from a large speaker system; Ms. Gernet holds a pink tree-shaped ice cream with a yellow star on it; Ada’s mom is dancing with a gentleman."
-msgstr ""
+msgstr "Pesta malam. Anak-anak memegang es krim dan balon bertuliskan “I love FS (I love Free Software)”; anak-anak lain sedang mengendarai skateboard; bendera kuning dan oranye bergantung; musik keluar dari sistem speaker besar; Ibu Gernet memegang es krim merah muda berbentuk pohon dengan bintang kuning di atasnya; ibu Ada sedang menari dengan seorang pria."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:986
 msgid "While the others continued partying late into the night, Ada and her friends slipped away to their workshop. They already had a lot of ideas for new inventions. And they wanted to start right away."
-msgstr ""
+msgstr "Sementara yang lain terus berpesta hingga larut malam, Ada dan teman-temannya menyelinap pergi ke bengkel mereka. Mereka sudah memiliki banyak ide untuk penemuan-penemuan baru. Dan mereka ingin segera memulainya."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:991
 msgid "The President, the secretary, and other people around a table enjoying crazy ice cream; yellow and orange flags continue from the previous image; a little girl who just took a pink ghost-shaped ice cream from the modified ice cream machine; Ada’s dog, Konrad, Marie, Ada, and Toni sneaking away from the party."
-msgstr ""
+msgstr "Presiden, sekretaris, dan orang-orang lain di sekitar meja menikmati es krim yang gila; bendera kuning dan oranye berlanjut dari gambar sebelumnya; seorang anak perempuan kecil yang baru saja mengambil es krim berbentuk hantu merah muda dari mesin es krim yang dimodifikasi; anjing Ada, Konrad, Marie, Ada, dan Toni menyelinap pergi dari pesta."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:997
 msgid "And Zangemann?"
-msgstr ""
+msgstr "Lalu Zangemann?"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p48-1
 #: Ada_Zangemann.dbk:1001
 msgid "And Zangemann? No one’s heard much from him. Maybe he’s still sitting angrily in front of his golden computer. Maybe he doesn’t dare go out into the street anymore and has boarded up all the windows of his mansion so that he doesn’t have to worry about what other people are doing with his inventions. But maybe he also sometimes looks out into the world through his telescope and sees what the children are inventing every day. Perhaps then he will remember how much fun it was for himself to tinker and experiment. And maybe, just maybe, he eats pyramid-shaped raspberry ice cream with rainbow sprinkles."
-msgstr ""
+msgstr "Lalu Zangemann? Tidak banyak yang terdengar darinya. Mungkin ia masih duduk dengan marah di depan komputer emasnya. Mungkin ia tidak berani lagi keluar ke jalan dan telah memaku semua jendela rumah megahnya agar ia tidak perlu khawatir tentang apa yang dilakukan orang lain terhadap penemuannya. Namun mungkin juga kadang-kadang ia memandang dunia melalui teleskopnya dan melihat apa yang ditemukan anak-anak setiap hari. Barangkali kemudian ia akan teringat betapa menyenangkannya dulu bagi dirinya sendiri untuk mengutak-atik dan bereksperimen. Dan mungkin, hanya mungkin, ia makan es krim raspberry berbentuk piramida dengan taburan pelangi."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:1006
 msgid "Ada’s little dog sniffing a trail of ice cream."
-msgstr ""
+msgstr "Anjing kecil Ada mengendus jejak es krim."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:1015
 msgid "A trail of candies and raspberry ice cream on the ground."
-msgstr ""
+msgstr "Jejak permen dan es krim raspberry di tanah."
 
 #. (itstool) path: info/title
 #. (itstool) id: Ada_Zangemann.dbk#title-acknowledgments
 #: Ada_Zangemann.dbk:1022
 msgid "Acknowledgments"
-msgstr ""
+msgstr "Ucapan terima kasih"
 
 #. (itstool) path: simplesect/para
 #. In the acknowledgments of the English version you can change 'No Starch
@@ -1124,123 +1197,123 @@ msgstr ""
 #. and encourage you to do that for other books in future as well.
 #: Ada_Zangemann.dbk:1030
 msgid "Many thanks to Reinhard Wiesemann from the Linuxhotel for the financial support and motivation to no longer plan but to make. Thanks to Sandra Brandstätter, who has brought me joy with every new design for the illustrations. Thanks to my editor Wiebke Helmchen, who made developing and sharpening the story fun, and to No Starch Press for agreeing to publish the book under a free culture license."
-msgstr ""
+msgstr "Banyak terima kasih kepada Reinhard Wiesemann dari Linuxhotel atas dukungan finansial dan motivasi untuk tidak lagi sekadar merencanakan, tetapi mewujudkannya. Terima kasih kepada Sandra Brandstätter, yang membawa saya kegembiraan dengan setiap desain baru untuk ilustrasi. Terima kasih kepada editor saya Wiebke Helmchen, yang membuat pengembangan dan pematangan cerita menjadi menyenangkan, serta kepada No Starch Press karena setuju menerbitkan buku ini di bawah lisensi budaya bebas."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1031
 msgid "Thanks to Bea and Benni, Brian, Christine and Marc, Cory, Bernhard, Isabel and Amelia, Katta, Kristina, Martin, Mona and Arne, Nina, Oliver, Reinhard, Sabine, and Torsten for great ideas, inspiration, and practical tips, and to the many people of the Free Software movement, from which I was allowed to learn and whose engagement motivated me."
-msgstr ""
+msgstr "Terima kasih kepada Bea dan Benni, Brian, Christine dan Marc, Cory, Bernhard, Isabel dan Amelia, Katta, Kristina, Martin, Mona dan Arne, Nina, Oliver, Reinhard, Sabine, dan Torsten atas ide-ide hebat, inspirasi, dan kiat praktis, serta kepada banyak orang dari gerakan Perangkat Lunak Bebas, dari whom saya diizinkan belajar dan keterlibatan mereka memotivasi saya."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1035
 msgid "Thanks to my family, who made me write early in the morning, late in the evening, and on holiday, and who always supports my work for software freedom. Especially, I would like to thank my children, who inspired me with new ideas at each reading. Without them, this book would not exist."
-msgstr ""
+msgstr "Terima kasih kepada keluarga saya, yang membuat saya menulis pagi-pagi sekali, larut malam, dan saat liburan, serta yang selalu mendukung pekerjaan saya untuk kebebasan perangkat lunak. Secara khusus, saya ingin berterima kasih kepada anak-anak saya, yang menginspirasi saya dengan ide-ide baru setiap kali pembacaan. Tanpa mereka, buku ini tidak akan ada."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:1042
 msgid "Ada’s dog wags its tail after finding Zangemann hidden behind a curtain and eating an ice cream cone with candies and a blue umbrella on it and lots of raspberry ice cream dripping."
-msgstr ""
+msgstr "Anjing Ada mengibaskan ekornya setelah menemukan Zangemann bersembunyi di balik tirai dan sedang makan cone es krim dengan permen dan payung biru di atasnya serta banyak es krim raspberry yang menetes."
 
 #. (itstool) path: info/title
 #. (itstool) id: Ada_Zangemann.dbk#title-author
 #: Ada_Zangemann.dbk:1049
 msgid "About the Author"
-msgstr ""
+msgstr "Tentang Penulis"
 
 #. (itstool) path: info/subtitle
 #. (itstool) id: Ada_Zangemann.dbk#subtitle-author
 #. ignore-same
 #: Ada_Zangemann.dbk:1050
 msgid "Matthias Kirschner"
-msgstr ""
+msgstr "Matthias Kirschner"
 
 #. (itstool) path: info/titleabbrev
 #: Ada_Zangemann.dbk:1051
 msgid "About the Author - Matthias Kirschner"
-msgstr ""
+msgstr "Tentang Penulis - Matthias Kirschner"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:1064
 msgid "Close-up of Matthias smiling, waving with one hand, and wearing a headset. Matthias has short hair and a little beard."
-msgstr ""
+msgstr "Tampilan dekat Matthias yang tersenyum, melambaikan tangan dengan satu tangan, dan mengenakan headset. Matthias berambut pendek dan berjanggut tipis."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1066
 msgid "Matthias was fascinated by computers and software as a child. He had an internet connection early, through which he learned a lot. Children have a right to take their future into their own hands. Therefore, Matthias is committed to the goal that all humans can use software in a self-determined way. He also wants to build an electric skateboard with Free Software."
-msgstr ""
+msgstr "Sejak kecil, Matthias terpesona oleh komputer dan perangkat lunak. Ia memiliki koneksi internet sejak dini, yang melaluinya ia belajar banyak hal. Anak-anak berhak untuk memegang masa depan mereka sendiri. Karena itu, Matthias berkomitmen pada tujuan agar semua manusia dapat menggunakan perangkat lunak secara mandiri. Ia juga ingin membuat skateboard listrik dengan Perangkat Lunak Bebas."
 
 #. (itstool) path: info/title
 #. (itstool) id: Ada_Zangemann.dbk#title-illustrator
 #: Ada_Zangemann.dbk:1072
 msgid "About the Illustrator"
-msgstr ""
+msgstr "Tentang Ilustrator"
 
 #. (itstool) path: info/subtitle
 #. (itstool) id: Ada_Zangemann.dbk#subtitle-illustrator
 #. ignore-same
 #: Ada_Zangemann.dbk:1073
 msgid "Sandra Brandstätter"
-msgstr ""
+msgstr "Sandra Brandstätter"
 
 #. (itstool) path: info/titleabbrev
 #: Ada_Zangemann.dbk:1074
 msgid "About the Illustrator - Sandra Brandstätter"
-msgstr ""
+msgstr "Tentang Ilustrator - Sandra Brandstätter"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:1087
 msgid "Sandra smiling with a pencil in her hand in front of her chin. She has earphones with an integrated microphone. Sandra has short hair and glasses."
-msgstr ""
+msgstr "Sandra tersenyum dengan sebuah pensil di tangannya di depan dagunya. Ia mengenakan earphone dengan mikrofon terintegrasi. Sandra berambut pendek dan berkacamata."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1089
 msgid "Sandra has always liked crafting with scissors, pliers, glue, wire, fabric, and paper. Today she works as an illustrator, comic author, and character designer for animated films and series, such as the German public television series Trudes Tier. On an ice-cream machine, Sandra would pick a creamy rainbow ice cream with lemon cucumber flavor and a lot of sprinkles."
-msgstr ""
+msgstr "Sandra selalu suka membuat kerajinan dengan gunting, tang, lem, kawat, kain, dan kertas. Kini ia bekerja sebagai ilustrator, penulis komik, dan perancang karakter untuk film dan seri animasi, seperti seri televisi publik Jerman Trudes Tier. Di sebuah mesin es krim, Sandra akan memilih es krim pelangi yang lembut dengan rasa lemon-mentimun dan banyak taburan."
 
 #. (itstool) path: info/title
 #. (itstool) id: Ada_Zangemann.dbk#title-bookswebsite
 #: Ada_Zangemann.dbk:1094
 msgid "Book’s website"
-msgstr ""
+msgstr "Situs web buku"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1102
 msgid "The Free Software Foundation Europe e.V. is a nonprofit association that empowers people to control technology. Software affects all areas of our life. That is why it is important that this technology gives us freedom instead of restricting us. Free Software (also called Open Source) gives everyone the right to use, study, share, and improve programs. Therefore, Free Software strengthens basic rights such as freedom of expression, freedom of the press, and the right to privacy."
-msgstr ""
+msgstr "Free Software Foundation Europe e.V. adalah asosiasi nirlaba yang memberdayakan orang untuk mengendalikan teknologi. Perangkat lunak memengaruhi semua aspek kehidupan kita. Itulah sebabnya penting bahwa teknologi ini memberi kita kebebasan alih-alih membatasi kita. Perangkat Lunak Bebas (juga disebut Open Source) memberi setiap orang hak untuk menggunakan, mempelajari, membagikan, dan meningkatkan program. Karena itu, Perangkat Lunak Bebas memperkuat hak-hak dasar seperti kebebasan berekspresi, kebebasan pers, dan hak atas privasi."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1104
 msgid "On the web page of the book, you will find more information and resources: <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
-msgstr ""
+msgstr "Di laman web buku, Anda akan menemukan informasi dan sumber daya lebih lanjut: <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
 
 #. (itstool) path: info/title
 #. (itstool) id: Ada_Zangemann.dbk#title-license
 #: Ada_Zangemann.dbk:1111
 msgid "License"
-msgstr ""
+msgstr "Lisensi"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1119
 msgid "The book Ada &amp; Zangemann: A Tale of Software, Skateboards, and Raspberry Ice Cream by Matthias Kirschner and Sandra Brandstätter, published by No Starch Press, is licensed under “Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).”"
-msgstr ""
+msgstr "Buku Ada &amp; Zangemann: Kisah tentang Perangkat Lunak, Skateboard, dan Es Krim Raspberry oleh Matthias Kirschner dan Sandra Brandstätter, yang diterbitkan oleh No Starch Press, dilisensikan di bawah “Creative Commons Atribusi-BerbagiSerupa 4.0 Internasional (CC BY-SA 4.0).”"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1120
 msgid "<link xlink:href=\"https://creativecommons.org/licenses/by-sa/4.0/\">https://creativecommons.org/licenses/by-sa/4.0/</link>"
-msgstr ""
+msgstr "<link xlink:href=\"https://creativecommons.org/licenses/by-sa/4.0/\">https://creativecommons.org/licenses/by-sa/4.0/</link>"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:1129
 msgid "A hand that holds a fish-shaped ice cream cone with a cucumber on a decorated toothpick, to color. In a bottom corner, a pencil writing."
-msgstr ""
+msgstr "Sebuah tangan yang memegang cone es krim berbentuk ikan dengan mentimun pada tusuk gigi hias, untuk diwarnai. Di sudut bawah, sebuah pensil sedang menulis."
 
 #. (itstool) path: simplesect/literallayout
 #. In a literallayout element all space and newline characters are kept.
@@ -1250,10 +1323,12 @@ msgid ""
 "Come up with some delicious, funny, or crazy ice-cream flavors and draw them on the ice-cream cones on the following page.\n"
 "More information about the book can be found at <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
 msgstr ""
+"Ciptakan beberapa rasa es krim yang lezat, lucu, atau gila dan gambarlah pada cone es krim di halaman berikut.\n"
+"Informasi lebih lanjut tentang buku dapat ditemukan di <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:1139
 msgid "Three hands that hold as many empty ice cream cones, to draw and color. In the air above the middle cone is an umbrella."
-msgstr ""
+msgstr "Tiga tangan yang memegang masing-masing cone es krim kosong, untuk digambar dan diwarnai. Di udara di atas cone tengah ada sebuah payung."
