@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2025-12-31 08:01+0000\n"
-"Last-Translator: Stelios <steliosks@protonmail.com>\n"
+"PO-Revision-Date: 2026-01-01 10:42+0000\n"
+"Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
 "Language-Team: Greek <https://hosted.weblate.org/projects/fsfe/ada-zangemann/el/>\n"
 "Language: el\n"
 "MIME-Version: 1.0\n"
@@ -25,7 +25,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:264 Ada_Zangemann.dbk:308 Ada_Zangemann.dbk:498
 msgid "Ada &amp; Zangemann"
-msgstr "Έιντα &? Ζάνγκεμαν"
+msgstr "Έιντα &amp;? Ζάνγκεμαν"
 
 #. (itstool) path: subtitle/phrase
 #. (itstool) path: cover/bridgehead
@@ -194,7 +194,7 @@ msgstr ""
 #.
 #. In a literallayout element all space and newline characters are kept.
 #: Ada_Zangemann.dbk:374
-#, no-wrap
+#, fuzzy, no-wrap
 msgid ""
 "Copyright © 2023 Matthias Kirschner and Sandra Brandstätter.\n"
 "This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.\n"
@@ -214,6 +214,78 @@ msgid ""
 "\n"
 "<emphasis role=\"bold\">A big thank you</emphasis> to <emphasis role=\"bold\">dpunkt.verlag</emphasis> and <emphasis role=\"bold\">No Starch Press</emphasis> for understanding the values of software freedom, taking the time to discuss and understand the advantages of free cultural licenses, and the great support to publish this book under conditions that respect the FSFE’s values."
 msgstr ""
+"Matthias Kirschner\n"
+"  Sandra Brandstätter\n"
+"\n"
+"ΑΝΤΑ & ΖΑΝΓΚΕΡΜΑΝ\n"
+"Μια Ιστορία Λογισμικού, Σκέιτμπορντ και Παγωτού Βατόμουρο\n"
+"\n"
+"\n"
+"Copyright © 2023 Matthias Kirschner and Sandra Brandstätter.\n"
+"Αυτό το έργο διατίθεται υπό την άδεια Creative Commons Αναφορά-Παρόμοια Διανομή 4.0 Διεθνές.\n"
+"Για να δείτε αντίγραφο της άδειας επισκεφθείτε τον σύνδεσμο https://creativecommons.org/licenses/by-sa/4.0/legalcode.el ή στείλτε γράμμα στη διεύθυνση Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.\n"
+"\n"
+"To ΑΝΤΑ & ΖΑΝΓΚΕΡΜΑΝ: Μία Ιστορία Λογισμικού, Σκέιτμπορντ και Παγωτού Βατόμουρο είναι μετάφραση του Γερμανικού πρωτοτύπου Ada und Zangemann: Ein Märchen über Software, Skateboards und Himbeereis,που εκδόθηκε από την Dpunkt.verlag σε συνεργασία με την O’Reilly Media, Inc., με απότύπωμα “O’REILLY,” © 2022 \n"
+"από τον Matthias Kirschner και την Sandra Brandstätter.\n"
+"\n"
+"Πρώτη εκτύπωση\n"
+"\n"
+"26 25 24 23 22 1 2 3 4 5\n"
+"\n"
+"ISBN-13: 978-1-7185-0318-2 (print)\n"
+"ISBN-13: 978-1-7185-0319-9 (ebook)\n"
+"\n"
+"Εκδότης: William Pollock\n"
+"Συγραφέας: Matthias Kirschner\n"
+"Εικονογράφος: Sandra Brandstätter\n"
+"Αρχισυντάκτρια: Jill Franklin\n"
+"Συντάκτρια Παραγωγής: Jennifer Kepler\n"
+"Συντάκτρια: Wiebke Helmchen\n"
+"Βηθοί χρωματισμού: Olga Biryukova, Noémi Sárkány, Nathalie Scattolon, Kristina Haidinger και Jasmin Schlögl\n"
+"Σχεδιασμός Εξώφυλλου: Sandra Brandstätter and Susan Brown\n"
+"Στοιχειοθεσία: Maureen Forys, Happenstance Type-O-Rama\n"
+"\n"
+"Για πληροφορίες σχετικά με τη διακίνηση και χονδρικές ή εταιρικές πωλήσεις, παρακαλείστε να επικοινωνήσετε με No Starch Press, Inc.\n"
+"directly at info@nostarch.com or:\n"
+"\n"
+"No Starch Press, Inc.\n"
+"245 8th Street, San Francisco, CA 94103\n"
+"Τηλέφωνο: 1.415.863.9900\n"
+"www.nostarch.com\n"
+"\n"
+"Ένα αρχείο καταλόγου αυτού του βιβλίου είναι διαθέσιμο στη Βιβλιοθήκη του Κογκρέσου.\n"
+"\n"
+"Η No Starch Press και το No Starch Press λογότυπα είναι εμπορικά σήματα της No Starch Press, Inc. Άλλα ονόματα προϊόντων και εταιρειών που αναφέρονται στο παρόν ενδέχεται να είναι εμπορικά σήματα των αντίστοιχων κατόχων τους. Αντί\n"
+"να χρησιμοποιούμε ένα σύμβολο εμπορικού σήματος σε κάθε εμφάνιση ενός εμπορικού σήματος,\n"
+"χρησιμοποιούμε μόνο τα ονόματα\n"
+"με εκδοτική μέθοδο και αποκλειστικά προς όφελος του/της κατόχου του εμπορικού σήματος, χωρίς πρόθεση παραβίασής του.\n"
+"\n"
+"Οι πληροφορίες σε αυτό το βιβλίο διανέμονται στη βάση \"ως έχουν\", χωρίς εγγύηση. Ενώ κάθε προφύλαξη\n"
+"έχει ληφθεί κατά την προετοιμασία αυτής της εργασίας, ούτε ο συγγραφέας ούτε η No Starch Press, Inc. θα φέρουν\n"
+"ευθύνη έναντι οποιουδήποτε προσώπου ή οντότητας σε σχέση με οποιαδήποτε απώλεια ή ζημία που προκλήθηκε ή φέρεται να προκληθεί άμεσα\n"
+"είτε έμμεσα από τις πληροφορίες που περιέχονται σε αυτό.\n"
+"\n"
+"Όλοι οι χαρακτήρες σε αυτή την έκδοση είναι φανταστικοί και οποιαδήποτε ομοιότητα με πραγματικά πρόσωπα, ζωντανά ή νεκρά, είναι\n"
+"καθαρά τυχαία.\n"
+"\n"
+"**\n"
+"\n"
+"Αυτό το βιβλίο των Matthias Kirschner (συγγραφέας) και Sandra Brandstätter\n"
+"(εικονογράφος) έχει άδεια βάσει του Creative Commons CC-BY-SA ελεύθερη\n"
+"άδεια.\n"
+"\n"
+"Μπορείτε να μοιραστείτε, να αντιγράψετε και να αναδιανείμετε το υλικό σε οποιοδήποτε μέσο ή μορφή. Μπορείτε να προσαρμόσετε, να αναμίξετε, να μεταμορφώσετε και να βασιστείτε στο υλικό για οποιονδήποτε σκοπό, ακόμα και για εμπορικούς σκοπούς. Θα πρέπει να καταχωρίσετε αναφορά στον/στη δημιουργό, να παράσχετε έναν σύνδεσμο προς την άδεια και να υποδείξετε εάν έγιναν αλλαγές. Μπορείτε να το κάνετε αυτό με οποιονδήποτε εύλογο τρόπο, αλλά όχι με τρόπο που να υπονοεί ότι\n"
+"ο/η δημιουργός αποδέχεται το έργο σας ή τη χρήση που εσείς κάνετε. \n"
+"Ο/η δικαιοπάροχος εγκρίνει εσάς ή τη χρήση σας. Αν αναμείξετε, τροποποιήσετε, ή δημιουργήσετε πάνω στο υλικό, πρέπει να διανείμετε τις δικές σας συνεισφορές υπό την ίδια άδεια όπως και το πρωτότυπο. (Αυτή είναι μια αναγνώσιμη περίληψη - και όχι\n"
+"ένα υποκατάστατο του νομικού κώδικα CC-BY-SA 4.0)\n"
+"\n"
+"Επιπλέον για εκδόσεις που προκύπτουν από ανάμειξη (παράγωγα έργα), ο/η δικαιοπάροχος σας ζητάει\n"
+"να μην γίνει καμία τροποποίηση στις προσωπικές ευχαριστίες και σύντομες βιογραφίες του συγγραφέα και της εικονογράφου. Διαφορετικά καλύτερα να\n"
+"αφαιρέσετε εντελώς αυτά τα μέρη από την έκδοση.\n"
+"\n"
+"Η δημοσίευση με αυτή την ελεύθερη άδεια ήταν δυνατή χάρη στη μεγάλη υποστήριξη από το dpunkt.verlag GmbH / O'Reilly για το γερμανικό βιβλίο και το No Starch Press για το αγγλικό βιβλίο. Δυστυχώς οι Creative Commons άδειες εξακολουθούν να αποτελούν σπάνιες εξαιρέσεις για εμπορικά δημοσιευμένα βιβλία και συχνά θεωρούνται επαναστατικές και επικίνδυνες από τους εκδότες.\n"
+"\n"
+"Ένα μεγάλο ευχαριστώ στο dpunkt.verlag και το No Starch Press για την κατανόηση των αξιών της ελευθερίας λογισμικού, που αφιερώσαν χρόνο για να συζητήσουμε και να κατανοήσουνε τα πλεονεκτήματα των ελεύθερων αδειών καθώς και τη μεγάλη υποστήριξη για τη δημοσίευση αυτού του βιβλίου υπό συνθήκες που σέβονται τις απαιτήσεις και τις αξίες του FSFE."
 
 #. (itstool) path: simplesect/literallayout
 #. Full page colophon. Intended for print use, as an alternative to the
@@ -223,7 +295,7 @@ msgstr ""
 #.
 #. In a literallayout element all space and newline characters are kept.
 #: Ada_Zangemann.dbk:391
-#, no-wrap
+#, fuzzy, no-wrap
 msgid ""
 "Copyright © 2023 Matthias Kirschner and Sandra Brandstätter.\n"
 "This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.\n"
@@ -277,13 +349,85 @@ msgid ""
 "\n"
 "<emphasis role=\"bold\">A big thank you</emphasis> to <emphasis role=\"bold\">dpunkt.verlag</emphasis> and <emphasis role=\"bold\">No Starch Press</emphasis> for understanding the values of software freedom, taking the time to discuss and understand the advantages of free cultural licenses, and the great support to publish this book under conditions that respect the FSFE’s values."
 msgstr ""
+"Matthias Kirschner\n"
+"  Sandra Brandstätter\n"
+"\n"
+"ΑΝΤΑ & ΖΑΝΓΚΕΡΜΑΝ\n"
+"Μια Ιστορία Λογισμικού, Σκέιτμπορντ και Παγωτού Βατόμουρο\n"
+"\n"
+"\n"
+"Copyright © 2023 Matthias Kirschner and Sandra Brandstätter.\n"
+"Αυτό το έργο διατίθεται υπό την άδεια Creative Commons Αναφορά-Παρόμοια Διανομή 4.0 Διεθνές.\n"
+"Για να δείτε αντίγραφο της άδειας επισκεφθείτε τον σύνδεσμο https://creativecommons.org/licenses/by-sa/4.0/legalcode.el ή στείλτε γράμμα στη διεύθυνση Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.\n"
+"\n"
+"To ΑΝΤΑ & ΖΑΝΓΚΕΡΜΑΝ: Μία Ιστορία Λογισμικού, Σκέιτμπορντ και Παγωτού Βατόμουρο είναι μετάφραση του Γερμανικού πρωτοτύπου Ada und Zangemann: Ein Märchen über Software, Skateboards und Himbeereis,που εκδόθηκε από την Dpunkt.verlag σε συνεργασία με την O’Reilly Media, Inc., με απότύπωμα “O’REILLY,” © 2022 \n"
+"από τον Matthias Kirschner και την Sandra Brandstätter.\n"
+"\n"
+"Πρώτη εκτύπωση\n"
+"\n"
+"26 25 24 23 22 1 2 3 4 5\n"
+"\n"
+"ISBN-13: 978-1-7185-0318-2 (print)\n"
+"ISBN-13: 978-1-7185-0319-9 (ebook)\n"
+"\n"
+"Εκδότης: William Pollock\n"
+"Συγραφέας: Matthias Kirschner\n"
+"Εικονογράφος: Sandra Brandstätter\n"
+"Αρχισυντάκτρια: Jill Franklin\n"
+"Συντάκτρια Παραγωγής: Jennifer Kepler\n"
+"Συντάκτρια: Wiebke Helmchen\n"
+"Βηθοί χρωματισμού: Olga Biryukova, Noémi Sárkány, Nathalie Scattolon, Kristina Haidinger και Jasmin Schlögl\n"
+"Σχεδιασμός Εξώφυλλου: Sandra Brandstätter and Susan Brown\n"
+"Στοιχειοθεσία: Maureen Forys, Happenstance Type-O-Rama\n"
+"\n"
+"Για πληροφορίες σχετικά με τη διακίνηση και χονδρικές ή εταιρικές πωλήσεις, παρακαλείστε να επικοινωνήσετε με No Starch Press, Inc.\n"
+"directly at info@nostarch.com or:\n"
+"\n"
+"No Starch Press, Inc.\n"
+"245 8th Street, San Francisco, CA 94103\n"
+"Τηλέφωνο: 1.415.863.9900\n"
+"www.nostarch.com\n"
+"\n"
+"Ένα αρχείο καταλόγου αυτού του βιβλίου είναι διαθέσιμο στη Βιβλιοθήκη του Κογκρέσου.\n"
+"\n"
+"Η No Starch Press και το No Starch Press λογότυπα είναι εμπορικά σήματα της No Starch Press, Inc. Άλλα ονόματα προϊόντων και εταιρειών που αναφέρονται στο παρόν ενδέχεται να είναι εμπορικά σήματα των αντίστοιχων κατόχων τους. Αντί\n"
+"να χρησιμοποιούμε ένα σύμβολο εμπορικού σήματος σε κάθε εμφάνιση ενός εμπορικού σήματος,\n"
+"χρησιμοποιούμε μόνο τα ονόματα\n"
+"με εκδοτική μέθοδο και αποκλειστικά προς όφελος του/της κατόχου του εμπορικού σήματος, χωρίς πρόθεση παραβίασής του.\n"
+"\n"
+"Οι πληροφορίες σε αυτό το βιβλίο διανέμονται στη βάση \"ως έχουν\", χωρίς εγγύηση. Ενώ κάθε προφύλαξη\n"
+"έχει ληφθεί κατά την προετοιμασία αυτής της εργασίας, ούτε ο συγγραφέας ούτε η No Starch Press, Inc. θα φέρουν\n"
+"ευθύνη έναντι οποιουδήποτε προσώπου ή οντότητας σε σχέση με οποιαδήποτε απώλεια ή ζημία που προκλήθηκε ή φέρεται να προκληθεί άμεσα\n"
+"είτε έμμεσα από τις πληροφορίες που περιέχονται σε αυτό.\n"
+"\n"
+"Όλοι οι χαρακτήρες σε αυτή την έκδοση είναι φανταστικοί και οποιαδήποτε ομοιότητα με πραγματικά πρόσωπα, ζωντανά ή νεκρά, είναι\n"
+"καθαρά τυχαία.\n"
+"\n"
+"**\n"
+"\n"
+"Αυτό το βιβλίο των Matthias Kirschner (συγγραφέας) και Sandra Brandstätter\n"
+"(εικονογράφος) έχει άδεια βάσει του Creative Commons CC-BY-SA ελεύθερη\n"
+"άδεια.\n"
+"\n"
+"Μπορείτε να μοιραστείτε, να αντιγράψετε και να αναδιανείμετε το υλικό σε οποιοδήποτε μέσο ή μορφή. Μπορείτε να προσαρμόσετε, να αναμίξετε, να μεταμορφώσετε και να βασιστείτε στο υλικό για οποιονδήποτε σκοπό, ακόμα και για εμπορικούς σκοπούς. Θα πρέπει να καταχωρίσετε αναφορά στον/στη δημιουργό, να παράσχετε έναν σύνδεσμο προς την άδεια και να υποδείξετε εάν έγιναν αλλαγές. Μπορείτε να το κάνετε αυτό με οποιονδήποτε εύλογο τρόπο, αλλά όχι με τρόπο που να υπονοεί ότι\n"
+"ο/η δημιουργός αποδέχεται το έργο σας ή τη χρήση που εσείς κάνετε. \n"
+"Ο/η δικαιοπάροχος εγκρίνει εσάς ή τη χρήση σας. Αν αναμείξετε, τροποποιήσετε, ή δημιουργήσετε πάνω στο υλικό, πρέπει να διανείμετε τις δικές σας συνεισφορές υπό την ίδια άδεια όπως και το πρωτότυπο. (Αυτή είναι μια αναγνώσιμη περίληψη - και όχι\n"
+"ένα υποκατάστατο του νομικού κώδικα CC-BY-SA 4.0)\n"
+"\n"
+"Επιπλέον για εκδόσεις που προκύπτουν από ανάμειξη (παράγωγα έργα), ο/η δικαιοπάροχος σας ζητάει\n"
+"να μην γίνει καμία τροποποίηση στις προσωπικές ευχαριστίες και σύντομες βιογραφίες του συγγραφέα και της εικονογράφου. Διαφορετικά καλύτερα να\n"
+"αφαιρέσετε εντελώς αυτά τα μέρη από την έκδοση.\n"
+"\n"
+"Η δημοσίευση με αυτή την ελεύθερη άδεια ήταν δυνατή χάρη στη μεγάλη υποστήριξη από το dpunkt.verlag GmbH / O'Reilly για το γερμανικό βιβλίο και το No Starch Press για το αγγλικό βιβλίο. Δυστυχώς οι Creative Commons άδειες εξακολουθούν να αποτελούν σπάνιες εξαιρέσεις για εμπορικά δημοσιευμένα βιβλία και συχνά θεωρούνται επαναστατικές και επικίνδυνες από τους εκδότες.\n"
+"\n"
+"Ένα μεγάλο ευχαριστώ στο dpunkt.verlag και το No Starch Press για την κατανόηση των αξιών της ελευθερίας λογισμικού, που αφιερώσαν χρόνο για να συζητήσουμε και να κατανοήσουνε τα πλεονεκτήματα των ελεύθερων αδειών καθώς και τη μεγάλη υποστήριξη για τη δημοσίευση αυτού του βιβλίου υπό συνθήκες που σέβονται τις απαιτήσεις και τις αξίες του FSFE."
 
 #. (itstool) path: simplesect/literallayout
 #. Grey section in the bottom of half page colophon.
 #.
 #. In a literallayout element all space and newline characters are kept.
 #: Ada_Zangemann.dbk:445
-#, no-wrap
+#, fuzzy, no-wrap
 msgid ""
 "<emphasis role=\"bold\">Free as in freedom not price</emphasis>\n"
 "Free Software is about the freedoms you receive with the software, not about the price. Likewise publishing a book under a free culture license does not mean you have the right to get a gratis copy of the book or ebook. It means you get the rights described above, which enable society to benefit further from this book, as it should from all cultural works.\n"
@@ -291,6 +435,10 @@ msgid ""
 "We encourage you to support authors, publishers, and others involved in the creation of culture under free licenses – including <emphasis role=\"bold\">financially supporting them through purchases or donations</emphasis>. (<link xlink:href=\"https://fsfe.org/donate\">https://fsfe.org/donate</link>)\n"
 "Society should support those who respect others’ freedom."
 msgstr ""
+"<emphasis role=\"bold\">Ελεύθερο όπως η Ελευθερία όχι στην τιμή.</emphasis>\n"
+"Το Ελεύθερο Λογισμικό αφορά τις ελευθερίες που λαμβάνετε με το λογισμικό, όχι την τιμή. Ομοίως, η δημοσίευση ενός βιβλίου με ελεύθερη άδεια δε σημαίνει ότι έχετε το δικαίωμα να λάβετε ένα δωρεάν αντίγραφο του βιβλίου ή του ebook. Σημαίνει ότι αποκτάτε τα δικαιώματα που περιγράφονται παραπάνω, τα οποία επιτρέπουν στην κοινωνία να επωφεληθεί περαιτέρω από αυτό, όπως θα έπρεπε να ισχύει σε κάθε πολιτιστική δραστηριότητα.\n"
+"\n"
+"Σας ενθαρρύνουμε να υποστηρίζετε συγγραφείς, εκδότες/εκδότριες και άλλους/άλλες που εμπλέκονται στη δημιουργία πολιτισμού με ελεύθερες άδειες – συμπεριλαμβανομένης της οικονομικής τους υποστήριξης μέσω αγορών ή δωρεών. Η κοινωνία πρέπει να υποστηρίζει όσους/όσες σέβονται την ελευθερία των άλλων."
 
 #. (itstool) path: info/title
 #. Page next to the colophon with title, subtitle, authors and
@@ -337,8 +485,8 @@ msgid ""
 "Matthias Kirschner\n"
 "Sandra Brandstätter"
 msgstr ""
-"Matthias Kirschner\n"
-"Sandra Brandstätter"
+"Ματίας Κίρσνερ\n"
+"Σάντρα Μπραντστέτερ"
 
 #. (itstool) path: simplesect/literallayout
 #. (itstool) id: Ada_Zangemann.dbk#subtitle-titlepage
@@ -363,7 +511,7 @@ msgstr "Μια φορά κι έναν καιρό, υπήρχε ένα κοριτ
 #: Ada_Zangemann.dbk:502
 #, fuzzy
 msgid "They didn’t have enough money to live in a proper home. Instead, Ada lived with her mother and her little brother, Alan, in a cabin near a junkyard on the edge of town."
-msgstr "See ongoing effort on https://git.fsfe.org/zvr/ada-zangemann-el. Planning to merge and port to Weblate."
+msgstr "Δεν είχαν αρκετά χρήματα για να ζήσουν σε ένα κανονικό σπίτι. Έτσι, η Άντα, η μητέρα της και ο μικρός της αδελφός, ο Άλαν, ζούσαν σε μια παράγκα κοντά σε μια μάντρα στην άκρη της πόλης."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -381,18 +529,21 @@ msgstr ""
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:520
+#, fuzzy
 msgid "Far away, at the other end of town, lived a famous inventor named Zangemann. He was immensely rich. No sheet of paper in the world was big enough to show his bank balance with all its numbers and zeros!"
-msgstr ""
+msgstr "Πολύ μακριά, στην άλλη άκρη της πόλης, ζούσε ένας διάσημος εφευρέτης με το όνομα Ζάνγκερμαν. Ήταν απίστευτα πλούσιος. Κανένα φύλλο χαρτί στον κόσμο δεν ήταν αρκετά μεγάλο ώστε να χωράει τις τραπεζικές του καταθέσεις με όλους τους αριθμούς και τα μηδενικά τους!"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:520
+#, fuzzy
 msgid "He lived in a huge house with a swimming pool and waterslide, lots of staircases and towers, hundreds of windows, and so many rooms that he often got lost in them himself."
-msgstr ""
+msgstr "Ζούσε σε ένα τεράστιο σπίτι με πισίνα και νεροτσουλήθρα, πολλές σκάλες και πύργους, εκατοντάδες παράθυρα και τόσα πολλά δωμάτια που συχνά χανόταν μέσα σε αυτά κι ο ίδιος."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:520
+#, fuzzy
 msgid "Zangemann’s mansion stood high on a hill. From there, he could look out over the whole city."
-msgstr ""
+msgstr "Η έπαυλη του Ζάνγκερμαν ήταν χτισμένη ψηλά σε έναν λόφο. Από κει πέρα μπορούσε να παρακολουθεί ολόκληρη την πόλη."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:525
@@ -402,13 +553,15 @@ msgstr ""
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p06-1
 #: Ada_Zangemann.dbk:529
+#, fuzzy
 msgid "Computers had fascinated Zangemann ever since he was a child. When he was young, computers were huge machines with lots of cables and loud, noisy fans. At school, little Zangemann often dreamed of all the things he would do with computers if they were just a little bit smaller — small enough that they could be built into other fun things. He knew what he would do. First, he would build a computer into his skateboard so that it would make cool noises when he rode it — maybe a fire engine siren or the sound of a rocket launch. Then he would use a computer to invent ice‑cream-making machines! The computer would mix the coolest flavors and even sell the ice cream. There would be machines on every street corner, and he could get ice cream in his favorite flavor whenever he felt like it, and just as much as he wanted. After that, he’d build a cleaning robot and a block-sorting machine so that his room would always be neat and clean. Zangemann had great new ideas like these every day. He could think of nothing else."
-msgstr ""
+msgstr "Οι υπολογιστές γοήτευαν τον Ζάνγκεμαν από παιδί. Τότε ήταν ακόμα τεράστιες μηχανές με πολλά καλώδια και δυνατούς ανεμιστήρες που κάνανε πολύ θόρυβο. Στο σχολείο ο Ζάνγκεμαν συχνά ονειρευόταν όλα τα πράγματα που θα μπορούσε να κάνει με τους υπολογιστές αν ήταν μικρότεροι, αρκετά μικροί ώστε να μπορούν να χωρέσουν σε κάθε είδους αντικείμενα. Το πρώτο πράγμα που θα έκανε θα ήταν να βάλει έναν υπολογιστή στο σκέιτμπορντ του, ώστε να μπορεί να βγάζει ωραίους ήχους καθώς έτρεχε, σα μια σειρήνα πυροσβεστικού ή μια εκτόξευση πυραύλου. Μετά θα έφτιαχνε μηχανές που να φτιάχνουν παγωτό! Ο υπολογιστής θα μπορούσε να ανακατεύει τις πιο ωραίες γεύσεις και να πουλάει το παγωτό αυτόματα. Οι μηχανές θα βρίσκονταν σε κάθε γωνιά του δρόμου και θα μπορούσε να παίρνει το αγαπημένο του παγωτό όποτε ήθελε, και ακριβώς όσο ήθελε. Θα έφτιαχνε επίσης ένα ρομπότ για να καθαρίζει και ένα για να ξεχωρίζει τα τουβλάκια, ώστε το δωμάτιό του να είναι πάντα καθαρό και τακτοποιημένο. Ο Ζάνγκεμαν είχε νέες ιδέες σαν αυτές κάθε μέρα. Δεν μπορούσε να σκεφτεί τίποτα άλλο."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:530
+#, fuzzy
 msgid "As the years went by, Zangemann grew bigger and computers got smaller. In fact, by the time he finished school, they were so small they fit in his pocket. The smallest ones even fit on his fingertip."
-msgstr ""
+msgstr "Πράγματι, καθώς περνούσαν τα χρόνια, ο Ζάνγκεμαν μεγάλωνε και οι υπολογιστές μίκραιναν. Όταν τελείωσε το σχολείο, ήταν τόσο μικροί που χωρούσαν στην τσέπη του. Τους μικρότερους μπορούσε να τους έχει ακόμα και στην άκρη του δαχτύλου του."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -419,8 +572,9 @@ msgstr ""
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:542
+#, fuzzy
 msgid "“Finally, I can turn all my ideas into real things!” Zangemann exclaimed, and he got right to work. He found ways to put the small computers into all kinds of things to make them even more fun and useful. And then he sold them."
-msgstr ""
+msgstr "«Επιτέλους, μπορώ να κάνω τις ιδέες μου πργματικότητα!» Αναφώνησε ο Ζάνγκερμαν και έπεσε με τα μούτρα στη δουλειά. Βρήκε τρόπο να βάζει τους μικρούς υπολογιστές μέσα σε ένα σωρό πράγματα για να τα κάνει ακόμη πιο διασκεδαστικά και χρήσιμα. Και μετά τα πουλούσε."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -431,8 +585,9 @@ msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:549
+#, fuzzy
 msgid "Adults and children loved his inventions. All the kids wanted to have one of his skateboards — complete with the latest sounds to show off to their friends at school. Kids also loved his speaker invention, which could instantly play any song you requested. And, of course, everyone loved the ice cream served every afternoon from the automatic, extra-delicious Original Zangemann Ice Cream Machine. It all seemed like magic, but the secret was simple: the little computers that Zangemann built into his machines made it all possible."
-msgstr ""
+msgstr "Οι ενήλικες και τα παιδιά αγάπησαν τις εφευρέσεις του. Όλα τα παιδιά ήθελαν να έχουν ένα από τα σκέιμπόρντ του — ολοκληρωμένα, με τους πιο πρόσφατους ήχους, για να το δείχνουν στους φίλους τους στο σχολείο. Τα παιδιά λάτρευαν επίσης την εφεύρεση του ηχείου, το οποίο μπορούσε να παίξει στη στιγμή οποιοδήποτε τραγούδι ζητούσες. Και, φυσικά, όλοι λάτρευαν το παγωτό που σερβίρεται κάθε απόγευμα από την αυτόματη, σούπερ υπέροχη Γνήσια Παγωτομηχανή Ζάνγκερμαν . Όλα αυτά έμοιαζαν μαγικά, αλλά το μυστικό ήταν απλό: οι μικροί υπολογιστές που ο Ζάνγκερμαν είχε βάλει στις μηχανές του τα έκαναν όλα αυτά δυνατά."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -450,28 +605,37 @@ msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:564
+#, fuzzy
 msgid "These inventions were very popular at Ada’s school, and many of her friends rode around on the cool skateboards. Ada was often sad, since her mother couldn’t buy her any of those great things: no skateboard, no speakers, no ice cream."
 msgstr ""
+"Αυτές οι εφευρέσεις ήταν πολύ δημοφιλείς και στο σχολείο της Άντας και πολλοί από τους φίλους της τριγυρνούσαν με τα σκέιτμπορντ με τους ήχους. Η κακομοίρα η Άντα ήταν συχνά λυπημένη,\n"
+"γιατί η μητέρα της δεν μπορούσε να της αγοράσει κανένα από αυτά τα υπέροχα πράγματα: ούτε σκέιτμπορντ, ούτε ηχεία, ούτε καν παγωτό."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:566
+#, fuzzy
 msgid "Luckily, Ada lived right next to the junkyard. There were lots of broken gadgets and rusty parts, which she put together to make cool new things, like a soapbox she and Alan rode roaring down the hill, a windmill, and scary junk monsters, which she and Alan would fight together. She also found many useful items—an old cell phone, for example. The screen was cracked, but she could fix that, and while there wasn’t internet at the junkyard, she could get access somewhere else."
 msgstr ""
+"Ευτυχώς, η Άντα ζούσε ακριβώς δίπλα σε μια μάντρα σκουπιδιών. Υπήρχαν εκεί πολλά σπασμένα και σκουριασμένα εξαρτήματα, τα οποία χρησιμοποιούσε για να φτιάξει ωραία πράγματα, όπως ένα έλκηθρο με ρόδες με το οποίο έτρεχαν με τον Άλαν στις κατηφόρες, έναν ανεμόμυλο, ή τρομακτικά τέρατα από παλιοσίδερα που τα πολεμούσαν με τον Άλαν. Είχε βρει επίσης πολλά χρήσιμα αντικείμενα,\n"
+"όπως ένα παλιό κινητό τηλέφωνο. Η οθόνη του ήταν ραγισμένη, αλλά μπορούσε να το φτιάξει, και ενώ δεν υπήρχε διαδίκτυο στη μάντρα, μπορούσε να έχει πρόσβαση από κάπου αλλού."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:567
+#, fuzzy
 msgid "Ada had so much fun tinkering in the junkyard and fixing broken things that she forgot all about the skateboards and the ice cream."
-msgstr ""
+msgstr "Η Άντα διασκέδαζε τόσο πολύ μαστορεύοντας στη μάντρα και φτιάχνοντας χαλασμένα πράγματα που ξέχνούσε τελείως τα σκέιτμπορντ και το παγωτό."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:571
+#, fuzzy
 msgid "Because everyone bought his inventions, Zangemann soon became the richest person in the whole world. With all his money, he bought a huge golden computer with a keyboard made of jewels and set it up in the largest room of his mansion. From there, over the internet, he could control all the little computers built into his inventions."
-msgstr ""
+msgstr "Καθώς όλοι αγόραζαν τις εφευρέσεις του, ο Ζάνγκερμαν έγινε γρήγορα ο πιο πλούσιος άνθρωπος στον κόσμο. Με όλα αυτά τα χρήματα, αγόρασε έναν τεράστιο χρυσό υπολογιστή με πληκτρολόγιο φτιαγμένο από διαμάντια και τον έβαλε στο μεγαλύτερο δωμάτειο της επαύλής του. Από εκεί, μέσα από το ίντερνετ, μπορούσε να ελέγξει όλους του μικρούς υπολογιστές που βρίσκονταν μέσα στις εφευρέσεις του."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:572
+#, fuzzy
 msgid "All he had to do was press the proper key on the golden computer, and immediately all the ice-cream machines in town would dispense only vanilla ice cream. If Zangemann wanted people to eat chocolate ice cream, he pressed the key for chocolate ice cream. If he gave the order for lemon ice cream, the machines made only lemon ice cream. Zangemann loved his inventions and was always thrilled at how amazingly well his machines worked. Sometimes people were disappointed when their favorite flavor wasn’t available, but what could they do? After all, there was ice cream on every street corner."
-msgstr ""
+msgstr "Το μόνο που έπρεπε να κάνει ήταν να πατήσει το κατάλληλο κουμπί στον χρυσό υπολογιστή του, και αμέσως όλες οι παγωτομηχανές της πόλης έβγαζαν μόνο παγωτό βανίλια. Αν ο Ζάνγκερμαν ήθελε οι άνθρωποι να τρώνε παγωτό σοκολάτα, πατούσε το κουμπί για παγωτό σοκολάτα. Αν έδινε εντολή για παγωτό λεμόνι, οι μηχανές έφτιαχναν μόνο παγωτό λεμόνι. Ο Ζάνγκερμαν αγαπούσε τις εφευρέσεις του και ήταν πάντα ενθουσιασμένος με το πόσο εκπληκτικά λειτουργούσαν οι μηχανές του. Κάποιες φορές οι άνθρωποι ήταν απογοητευμένοι όταν η αγαπημένη τους γεύση δεν ήταν διαθέσιμη, αλλά τι μπορούσαν να κάνουν; Στο κάτω κάτω, υπήρχε παγωτό σε κάθε γωνία."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -482,8 +646,9 @@ msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:581
+#, fuzzy
 msgid "Zangemann had a lot of fun pressing the sparkling keys and watching people eat ice cream. He spent many hours every day in front of his golden computer doing this. Again and again, he looked down on the city through a long telescope, observing how reliably his inventions carried out his commands."
-msgstr ""
+msgstr "Ο Ζάνγκεμαν ευχαριστιόταν πολύ να πατάει τα αστραφτερά πλήκτρα και να βλέπει τους ανθρώπους να τρώνε παγωτό. Περνούσε πολλές ώρες κάθε μέρα μπροστά στον χρυσό υπολογιστή του. Ξανά και ξανά κοίταζε την πόλη μέσα από ένα μεγάλο τηλεσκόπιο και παρατηρούσε πόσο αξιόπιστα οι εφευρέσεις του εκτελούσαν τις εντολές του."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -494,8 +659,9 @@ msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:591
+#, fuzzy
 msgid "When he wasn’t sitting at his golden computer, Zangemann was building his little computers into new devices and then selling those. He built washing machines that sent a message to your cell phone when your laundry was done. He made vacuums that played happy music instead of droning loudly. He invented light bulbs that turned on and off at the snap of a finger and cars that told you where the nearest grocery store was."
-msgstr ""
+msgstr "Όταν δεν καθότανε στον χρυσό του υπολογιστή, ο Ζάνγκερμαν έβαζε τους μικρούς του υπολογιστές σε νέες συσκευές και στη συνέχεια τις πουλούσε. Κατασκέυασε πλυντήρια ρούχων τα οποία έστελναν μήνυμα στο κινητό σου όταν τελείωναν την πλύση. Έφτιαξε σκούπες που παίζανε χαρούμενη μουσική αντί να βγάζουν βουητό. Ανακάλυψε λαμπτήρες που άναβαν και έσβηναν με το χτύπημα των δαχτύλων και αυτοκίνητα που σου έλεγαν που είναι το πιο κοντινό σούπερ μάρκετ."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -506,8 +672,9 @@ msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:598
+#, fuzzy
 msgid "Soon, almost every appliance in the world had a Zangemann computer built into it. Not all of his inventions seemed necessary at first, but people bought everything he made. That’s just the way it was. Everyone wanted the devices made by Zangemann, the greatest inventor in the world."
-msgstr ""
+msgstr "Σύντομα κάθε οικιακή συσκευή στον κόσμο είχε έναν υπολογιστή του Ζάνγκερμαν. Κάποιες από τις εφευρέσεις του δεν φαίνονταν πολύ χρήσιμες στην αρχή αλλά οι άνθρωποι αγόραζαν οτιδήποτε έφτιαχνε. Έτσι ήταν τα πράγματα. Όλοι θέλανε τις συσκευές του Ζάνγκερμαν, του μεγαλύτερου εφευρέτη στον κόσμο."
 
 #. (itstool) path: info/title
 #. Intended as 'on a day', not 'a single day'. This is supposed to be
@@ -518,8 +685,9 @@ msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:606
+#, fuzzy
 msgid "One day Zangemann thought, “Today I want to see my inventions up close.” He put away his big telescope, then climbed down the many stairs of his mansion and ventured out into the city, full of anticipation at the thought of enjoying his cool devices."
-msgstr ""
+msgstr "Μια μέρα ο Ζάνγκεμαν είπε, σήμερα θα πάω να δω τις εφευρέσεις μου από κοντά! Άφησε το μεγάλο του τηλεσκόπιο, κατέβηκε όλες τις σκάλες και βγήκε βιαστικά στην πόλη. Ήταν ανυπόμονος να απολαύσει τις υπέροχες συσκευές του."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -530,13 +698,15 @@ msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:615
+#, fuzzy
 msgid "“Maybe a little trip might even give me a few new ideas. If I’m completely honest, my last inventions weren’t quite as useful as the first ones... ,” Zangemann pondered. “But my ice-cream machines are and will remain second to none,” he thought immediately afterward, and not without pride, as he passed a group of people all eating coconut ice cream, the flavor of the day."
-msgstr ""
+msgstr "“Ίσως μια μικρή βόλτα να μου δώσει μερικές νέες ιδέες. Για να είμαι απόλυτα ειλικρινής, οι τελευταίες μου εφευρέσεις δεν ήταν τόσο χρήσιμες όσο οι πρώτες...,” συλλογίστηκε ο Ζάνγκερμαν. “Οι παγωτομηχανές μου, όμως, είναι και θα παραμείνουν αχτύπητες” σκέφτηκε αμέσως μετά, γεμάτος περηφάνια, καθώς περνούσε μπροστά από κάποιους ανθρώπους που τρώγανε παγωτό καρύδα, τη γεύση της ημέρας."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:617
+#, fuzzy
 msgid "He was completely absorbed in his thoughts when suddenly — BAM! — something crashed into his shin."
-msgstr ""
+msgstr "Ήταν εντελώς απορροφημένος στις σκέψεις του όταν ξαφνικά — ΜΠΑΜ! — κάτι χτύπησε το καλάμι του."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -547,13 +717,15 @@ msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:626
+#, fuzzy
 msgid "Zangemann yelped and looked around for the cause. A startled child stood in front of him, holding an original Zangemann skateboard under his arm. “Sorry, I didn’t mean to do that,” the child stammered, but Zangemann wasn’t listening."
-msgstr ""
+msgstr "Ο Ζάνγκεμαν ούρλιαξε και κοίταξε γύρω του. Δίπλα του ήταν ένα φοβισμένο μικρό παιδί που κρατούσε ένα σκέιτμπορντ Ζάνγκεμαν. Συγγνώμη, δεν το έκανα επίτηδες, τραύλισε, αλλά ο Ζάνγκεμαν δεν άκουγε."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:627
+#, fuzzy
 msgid "An angry Zangemann limped away. Suddenly, he heard loud music. He had never before heard something so horrible. He looked around and saw that the music was coming from a loudspeaker he himself had constructed. A child across the street was holding it. The child seemed to like the music, but it gave Zangemann a terrible headache, and his mood worsened. This was not how he had imagined his walk!"
-msgstr ""
+msgstr "Εκνευρισμένος, ο Ζάνγκεμαν απομακρύνθηκε κουτσαίνοντας. Ξαφνικά, ακούστηκε δυνατή μουσική. Δεν είχε ξανακούσει ποτέ κάτι τόσο φρικτό. Κοίταξε γύρω του και είδε ότι η μουσική προερχόταν από ένα μεγάφωνο που είχε κατασκευάσει και πουλήσει ο ίδιος. Το κρατούσε ένα παιδί στην απέναντι μεριά του δρόμου. Στο παιδί έμοιαζε να αρέσει η μουσική, αλλά στον Ζάνγκεμαν έφερε έναν τρομερό πονοκέφαλο, και η διάθεσή του έγινε ακόμα χειρότερη. Δεν είχε φανταστεί έτσι τη βόλτα του!"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -564,8 +736,9 @@ msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:637
+#, fuzzy
 msgid "Zangemann was so furious with the two children. How dare they use his inventions this way? That night, he couldn’t sleep, so he sat down at his golden computer. From there, he gave all the little computers in the skateboards a command that they were no longer allowed to go on sidewalks. He ordered the small computers in the speakers to play music only at a low volume, except for his favorite music, which he immediately turned on to get into a better mood."
-msgstr ""
+msgstr "Ο Ζάνγκερμαν ήταν τόσο θυμωμένος με τα δύο παιδιά. Πως τολμάνε να χρησιμοποιούν τις εφευρέσεις του με αυτόν τον τρόπο; Εκείνο το βράδυ, δεν τον έπαιρνε ο ύπνος, κι έτσι, κάθησε στον χρυσό του υπολογιστή. Από εκεί, έδωσε εντολή σε όλους τους μικρούς υπολογιστές των σκέιτμπορντ να μην επιτρέπεται πλέον να ανεβαίνουν στα πεζοδρόμια. Διέταξε τους μικρούς υπολογιστές στα ηχεία να παίζουν μουσική μόνο σιγανά, εκτός από τα αγαπημένα του κομμάτια, στα οποία η ένταση ανέβαινε αμέσως για να του φτιάχνει τη διάθεση."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -589,8 +762,11 @@ msgstr ""
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p18-1
 #: Ada_Zangemann.dbk:660
+#, fuzzy
 msgid "The next day, there was a big commotion at Ada’s school. On the way to school, the kids’ skateboards had stopped working. The wheels simply stood still. And the children could no longer turn up the volume on their speakers. What was going on?"
 msgstr ""
+"Την επόμενη μέρα, στο σχολείο της Άντας έγινε χαμός. Τα σκέιτμπορντ δε λειτουργούσαν για να φέρουν τα παιδιά στο σχολείο, οι ρόδες τους ήταν ακίνητες. Και τα ηχεία δεν έπαιζαν πια μουσική δυνατά.\n"
+"Τι είχε συμβεί;"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -601,8 +777,9 @@ msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:669
+#, fuzzy
 msgid "Although she didn’t own any of these things, Ada wondered why the skateboards and the speakers suddenly stopped working. But she didn’t really have time to think much about it, because she was tinkering again. She put together a complete bicycle from the parts of three broken bicycles. She gave the bicycle to her mother as a present so that she wouldn’t have to spend her money on bus tickets to work. For her brother, Ada built a loudspeaker so he could fall asleep to nice stories in the evenings when their mother was still at work."
-msgstr ""
+msgstr "Παρόλο που δεν είχε κανένα από όλα αυτά, η Άντα αναρρωτήθηκε γιατί τα σκέιτμπορντ και τα ηχεία σταμάτησαν ξαφνικά να δουλεύουν. Αλλά δεν είχε και πολύ χρόνο να το σκεφτεί, επειδή άρχισε ξανά τα μαστορέματα. Έφτιαξε ένα ολόκληρο ποδήλατο από τα εξαρτήματα που πήρε από τρία σπασμένα ποδήλατα. Έδωσε δώρο το ποδήλατο στη μητέρα της, ώστε να μην ξοδεύει χρήματα σε εισιτήρια λεωφορείου για τη δουλειά της. Για τον αδελφό της, η Άντα έφτιαξε ένα ηχείο για να τον κοιμίζει με ωραίες ιστορίες τα βράδια που η μητέρα τους βρισκόταν ακόμα στη δουλειά."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -613,8 +790,11 @@ msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:677
+#, fuzzy
 msgid "After a few days, the initial shock at Ada’s school was forgotten. The skateboards still didn’t go on the sidewalk, but apart from that, they still worked. And so now the children rode in circles around the playground and listened to soft music. Only a strange, pompous marching music continued to play at an unchanged volume, which the children found rather puzzling."
 msgstr ""
+"Μετά από μερικές ημέρες, το αρχικό σοκ στο σχολείο της Άντα είχε ξεχαστεί. Τα σκέιτμπορντ εξακολουθούσαν να μην κινούνται στα πεζοδρόμια αλλά πέρα από αυτό, ήταν ακόμη λειτουργικά. Έτσι τα παιδιά πλέον κάνανε κύκλους γύρω από τη παιδική χαρά ακούγοντας απαλή μουσική. Μόνο μία παράξενη, πομπώδης μουσική παρέλασης συνέχιζε να παίζει σε μια ένταση που δεν άλλαζε, κάτι που\n"
+"τα παιδιά έβρισκαν αρκετά παράξενο."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:682
@@ -624,18 +804,27 @@ msgstr ""
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p20-1
 #: Ada_Zangemann.dbk:686
+#, fuzzy
 msgid "Ada loved Wednesdays. Every Wednesday, her mother and Alan would pick her up from school, and they would all go to the library together. Ada was always drawn to the technology section. There were books with blueprints, instructions for experiments, and explanations of how different devices worked. In the library, Ada could also go online with her cell phone. She quickly realized that there was also much to discover on the internet. There, many people shared their ideas and repair tips to help others."
 msgstr ""
+"Η Άντα λάτρευε τις Τετάρτες. Κάθε Τετάρτη, η μητέρα της έπαιρνε αυτή και τον Άλαν από το σχολείο και όλοι μαζί πήγαιναν στη βιβλιοθήκη. Την Άντα πάντα την τραβούσε το τμήμα τεχνολογίας. Εκεί υπήρχαν βιβλία με οδηγίες για κατασκευές, περιγραφές για πειράματα και μπορούσε να βρει εξηγήσεις για το πώς πώς λειτουργούσαν οι διάφορες συσκευές. Στη βιβλιοθήκη η Άντα μπορούσε επίσης να έχει πρόσβαση στο διαδίκτυο μέσα από το κινητό της τηλέφωνο. Γρήγορα συνειδητοποίησε ότι υπήρχαν πολλά να ανακαλύψει και στο διαδίκτυο, μια που εκεί πολλοί άνθρωποι μοιράζονταν τις ιδέες τους\n"
+"και έδιναν συμβουλές για μαστορέματα για να βοηθήσουν άλλους."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:687
+#, fuzzy
 msgid "On one of those afternoons, Ada learned two new words: hardware and software. Hardware was a word for something Ada already knew: the electronic devices she tinkered with after school, or those devices she could hold in her hands and try to fix or make into something else. What was completely new to Ada was the word software. She soon learned that it meant instructions that ran on a computer to control other devices or computers. Some books called those instructions programs or code. With such a computer program, one could, for example, tell a loudspeaker which song to play and how loud."
 msgstr ""
+"Σε ένα από αυτά τα απογεύματα, η Άντα έμαθε δύο νέες λέξεις: υλικό και λογισμικό. Το υλικό ήταν μια λέξη για κάτι που η Άντα ήδη ήξερε καλά: τις ηλεκτρονικές συσκευές που μαστόρευε μετά το σχολείο,\n"
+"εκείνες τις συσκευές που μπορούσε να κρατήσει στα χέρια της και προσπαθούσε να τις φτιάξει ή να τις κάνει κάτι άλλο. Αυτό που ήταν εντελώς καινούργιο για την Άντα ήταν η λέξη λογισμικό. Γρήγορα κατάλαβε  ότι σήμαινε τις οδηγίες που μπορούσαν να χρησιμοποιηθούν για τον έλεγχο των συσκευών ή των υπολογιστών. Σε πολλά βιβλία, αυτές οι οδηγίες ονομάζονταν προγράμματα ή κώδικας. Με ένα τέτοιο πρόγραμμα, για παράδειγμα, μπορούσε κανείς να πει σε ένα μεγάφωνο ποιο τραγούδι να παίξει και πόσο δυνατά."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:688
+#, fuzzy
 msgid "The best thing about Ada’s new discovery was realizing that she could tinker with software just as she could with hardware. Hardware is built with tools — hammers, drills, and screws. Software is built simply by writing down the commands for the hardware, one after the other. There was a separate language for this — the programming language. With software, Ada could make her inventions even more useful. She really wanted to learn the programming language!"
 msgstr ""
+"Το καλύτερο με τη νέα ανακάλυψη της Άντας ήταν ότι έμαθε πως μπορούσε κανείς να πειράξει το λογισμικό όπως ακριβώς έκανε και με το υλικό. Το υλικό το κατασκευάζεις με εργαλεία, όπως σφυριά, τρυπάνια, και βίδες. Το λογισμικό το κατασκευάζεις γράφοντας απλά τις εντολές τη μία μετά την άλλη. Υπάρχει μια ειδική γλώσσα για αυτό, η γλώσσα προγραμματισμού. Με το λογισμικό η Άντα μπορούσε\n"
+"να κάνει τις κατασκευές της ακόμη πιο πρακτικές. Αποφάσισε να μάθει τη γλώσσα προγραμματισμού!"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -652,23 +841,27 @@ msgstr ""
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p22-1
 #: Ada_Zangemann.dbk:705
+#, fuzzy
 msgid "Over the next few weeks, Ada spent her afternoons in the library. She found books and websites that explained how programming languages and code worked. For Ada, it felt a bit like learning a secret language, or like studying vocabulary in school. Ada ate it all up. She expected her first program to do something simple: “Make this lamp blink!”"
-msgstr ""
+msgstr "Τις επόμενες εβδομάδες, η Άντα περνούσε τα απογεύματά της στη βιβλιοθήκη. Βρήκε βιβλία και σελίδες στο ίντερνετ που εξηγούσαν πώς λειτουργούσαν οι γλώσσες προγραμματισμού και ο κώδικας. Για εκείνη, ήταν σα να μαθαίνει μια μυστική γλώσσα ή σα να μελετάει τη σημασία άγνωστων λέξεων για κάποιο μάθημα στο σχολείο. Ή Άντα, ενθουσιασμένη, τα μάθαινε όλα. Ήθελε το πρώτο της πρόγραμμα να κάνει κάτι απλό: \"Κάνε αυτή τη λάμπα να αναβοσβήσει\"!"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:706
+#, fuzzy
 msgid "Of course, she wanted to try her program out right away to see if it really worked. At the junkyard, she connected her cell phone to a small LED lamp. Then she typed the lines of code into her cell phone."
-msgstr ""
+msgstr "Φυσικά, ήθελε να δοκιμάσει το πρόγραμμά της κατευθείαν για να δει αν δουλεύει. Στη μάντρα, συνέδεσε το κινητό της με μία μικρή λάμπα. Μετά έγραψε μερικές γραμμές κώδικα στο κινητό της."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:707
+#, fuzzy
 msgid "At first, nothing happened. Ada wondered where the error could be. She made a few small changes and tried again and .... “Yeesss!” The little light began to flash. On, off, on, off. Ada looked at the LED in amazement. She had written her first program!"
-msgstr ""
+msgstr "Στην αρχή, τίποτα δε συνέβη. Η Άντα αναρωτήθηκε πού θα μπορούσε να είναι το πρόβλημα. Μετά από μερικές αλλαγές δοκίμασε ξανά και ... \"Ναιιιι!\" Η λάμπα άρχισε να αναβοσβήνει. Ανοιχτό, κλειστό, ανοιχτό, κλειστό. Η Άντα κοίταξε τη λάμπα με ενθουσιασμό. Είχε μόλις γράψει το πρώτο της πρόγραμμα."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:708
+#, fuzzy
 msgid "Ada was totally thrilled. She imagined all the great things she could do. If she just entered the right code, she could make her inventions do exactly what she wanted. It was not so easy, but after a few weeks, Ada wrote a truly useful program: one that would make Alan’s speakers automatically turn off half an hour after he had fallen asleep."
-msgstr ""
+msgstr "Ήταν απίστευτα χαρούμενη. Φανταζότανε όλα τα υπέροχα πράγμα που μπορούσε να κάνει. Με το που έβαζε τον σωστό κώδικα, θα κατάφερνε οι εφευρέσεις της να κάνουν ό,τι ήθελε. Δεν ήταν έυκολο, όμως μετά από μερικές εβδομάδες, έγραψε ένα πολύ χρήσιμο πρόγραμμα: ένα πρόγραμμα που έκανε τα ηχεία του Άλαν να κλείνουν αυτόματα μισή ώρα αφού τον έπαιρνε ο ύπνος."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -679,8 +872,9 @@ msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:717
+#, fuzzy
 msgid "Ada also had an idea for the next program she would write. It was a bigger deal, a real project. She would probably need the whole summer break for it... And she could hardly wait!"
-msgstr ""
+msgstr "Η Άντα είχε ήδη μια ιδέα για το επόμενο πρόγραμμά της, ένα πολύ μεγαλύτερο πρόγραμμα, ένα σωστό προϊόν. Πιθανότατα θα της έπαιρνε όλες τις καλοκαιρινές διακοπές... και δεν άντεχε να περιμένει να ξεκινήσει!"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -697,18 +891,21 @@ msgstr ""
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p25-1
 #: Ada_Zangemann.dbk:734
+#, fuzzy
 msgid "Zangemann had slept horribly every night since his terrible walk in the city. When he went to bed each night, worries plagued him. “Oh no, my marvelous inventions. It can’t be that everyone just plays around with them. All the things that could go wrong! I put so much thought into everything, down to the last detail.” Zangemann pondered and pondered and tossed and turned sleeplessly in his bed all night."
-msgstr ""
+msgstr "Ο Ζάνγκερμαν κοιμόταν απαίσια τα βράδια έπειτα από την φριχτή βόλτα του στην πόλη. Όταν έπεφτε για ύπνο, τον βασάνιζαν οι σκέψεις. \"Ωχ όχι, οι\" θαυμάσιες εφευρέσεις μου. Δεν μπορεί ο καθένας να σαχλαμαρίζει μαζί τους. Πολλά μπορούν να πάνε στραβά! Τα έχω σκεφτεί όλα τόσο πολύ, ως την τελευταία λεπτομέρεια.\" Συλλογιζόταν ο Ζάνγκερμαν και στριφογυρνούσε άυπνος στο κρεβάτι του όλη νύχτα."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:735
+#, fuzzy
 msgid "Waking up one morning with a deeply furrowed brow, he made a decision. He needed to make a change. Zangemann sat down at his computer and wrote one program after another. In these programs, he specified exactly what his inventions were to do and were not to do under any circumstances. The chaos had to stop!"
-msgstr ""
+msgstr "Ένα πρωινό, αφού ξύπνησε με μαύρους κύκλους στα μάτια, πήρε μια απόφαση. Έπρεπε να κάνει αλλαγές. Ο Ζάνγκερμαν κάθησε μπροστά στον υπολογιστή του και έγραψε το ένα πρόγραμμα μετά το άλλο. Σε αυτά τα προγράμματα, καθόριζε ακριβώς το τι θα κάνουν και τι δε θα κάνουν οι εφευρέσεις του σε κάθε περίσταση. Το χάος έπρεπε να σταματήσει!"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:736
+#, fuzzy
 msgid "Once he was done, he sent all the new programs from his golden computer to people’s devices. He ordered his speakers to play only his favorite music whenever he was within earshot. He programmed the ice-cream machines to stop selling ice cream in the afternoon. After all, he didn’t want his expensive clothes to get stained by ice cream while he was out for a walk. All day long he sat at the computer and typed and typed and typed..."
-msgstr ""
+msgstr "Όταν τελείωσε, έστειλε όλα τα νέα προγράμματα από τον χρυσό του υπολογιστή στις συσκευές των ανθρώπων. Έδωσε εντολή στα ηχεία να παίζουν μόνο την αγαπημένη του μουσική κάθε φορά που βρισκόταν σε κοντινή απόσταση. Προγραμμάτισε τις παγωτομηχανές να μην πουλάνε παγωτό τα απογεύματα. Δεν ήθελε, αλλωστε, να λερωθούν τα πανάκριβά του ρούχα με παγωτό όταν θα έβγαινε βόλτα. Όλη μέρα καθόταν στον υπολογιστή του και πληκτρολογούσε, πληκτρολογούσε πληκτρολογούσε..."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:741
@@ -718,23 +915,29 @@ msgstr ""
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p26-1
 #: Ada_Zangemann.dbk:745
+#, fuzzy
 msgid "Summer break was already halfway over. Ada stood in front of her big project and scratched her head. She had built a skateboard from old parts and then connected a motor to make the wheels turn. With a motorized skateboard, Ada could zoom to the library or the junkyard even faster after school. Super practical! But it didn’t work. When she stood on it and pressed the Go! button, the wheels moved, but way too fast. Ada fell off the skateboard every time she started. No matter what she tried, she just couldn’t get it right."
 msgstr ""
+"Οι μισές καλοκαιρινές διακοπές είχαν ήδη περάσει. Η Άντα στεκόταν μπροστά στο μεγάλο της έργο της και έξυνε προβληματισμένη το κεφάλι της. Είχε φτιάξει ένα σκέιτμπορντ από παλιά εξαρτήματα\n"
+"και είχε συνδέσει ένα κινητήρα για να γυρνάει τις ρόδες. Με ένα μηχανοκίνητο σκέιτμπορντ θα μπορούσε να πηγαίνει στη βιβλιοθήκη ή στη μάντρα μετά το σχολείο ακόμα πιο γρήγορα. Αυτό θα πει πρακτικό και χρήσιμο! Αλλά δε δούλευε σωστά. Όταν ανέβαινε πάνω του και πάταγε το κουμπί για να ξεκινήσει, οι ρόδες γύρναγαν, αλλά πάρα πολύ γρήγορα. Και κάθε φορά η Άντα έπεφτε από το σκέιτμπορντ. Ό,τι κι αν είχε δοκιμάσει, δε μπορούσε να το κάνει να δουλέψει σωστά."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:746
+#, fuzzy
 msgid "After falling on her bottom for the hundredth time, she went back to the library. She always found answers to her questions there. And indeed, on the internet, she came across a program that someone had written for an electric scooter that also needed to start slowly. Ada downloaded it to her phone."
-msgstr ""
+msgstr "Αφού έσπασε τα μούτρα της εκατό φορές, η Άντα επέστρεψε στη βιβλιοθήκη. Εκεί έβρισκε πάντα τις απαντήσεις στις ερωτήσεις της. Πράγματι, βρήκε στο διαδίκτυο ένα πρόγραμμα που κάποιος είχε γράψει για ένα ηλεκτρικό σκούτερ, που κι αυτό έπρεπε να ξεκινάει σιγά-σιγά. Η Άντα κατέβασε το πρόγραμμα στο κινητό της."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:748
+#, fuzzy
 msgid "Back at the junkyard, she adapted some lines of code for her skateboard program. She tweaked a few things and kept tinkering."
-msgstr ""
+msgstr "Επιστρέφοντας στη μάντρα, αντέγραψε μερικές γραμμές κώδικα από αυτό το πρόγραμμα στο δικό της πρόγραμμα για το σκέιτμπορντ. Έκανε μερικές μετατροπές και συνέχισε να δοκιμάζει."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:749
+#, fuzzy
 msgid "Several failed attempts later, on the last day of summer break, the time had finally come. Ada stood on the skateboard and pressed the Go! button, and the skateboard started moving, slowly at first, then faster. It worked! She tried to brake. It worked! Ada let out a cry of joy and took a trip to the park."
-msgstr ""
+msgstr "Μετά από αρκετές ακόμα αποτυχημένες προσπάθειες, την τελευταία μέρα των καλοκαιρινών διακοπών, η Άντα ανέβηκε για άλλη μια φορά στο σκείτμπορντ και πάτησε το κουμπί της εκκίνησης. Το σκέιτμπορντ άρχισε να κινείται σιγά-σιγά, και μετά πιο γρήγορα. Δούλεψε! Δοκίμασε να το φρενάρει, πατώντας το αντίστοιχο κουμπί. Δούλεψε κι αυτό! Η Άντα έβγαλε μια κραυγή χαράς και πήγε μια βόλτα στο πάρκο."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -745,13 +948,15 @@ msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:761
+#, fuzzy
 msgid "When Ada rode her skateboard to school on the first day back after summer break, the other children were amazed. During recess, Ada’s curious classmates surrounded her."
-msgstr ""
+msgstr "Όταν η Άντα εμφανίστηκε την πρώτη μέρα σχολείου μετά τις διακοπές με το μηχανοκίνητο σκείτμπορντ της, τα άλλα παιδιά έμειναν έκπληκτα. Στο μεγάλο διάλειμμα την περιτριγύρισαν οι περίεργοι συμμαθητές της."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:762
+#, fuzzy
 msgid "“How can you ride your skateboard on the sidewalk?” they asked."
-msgstr ""
+msgstr "\"Πώς μπορείς να οδηγείς το σκέιτμπορντ στο πεζοδρόμιο;\" τη ρώτησαν."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -762,13 +967,17 @@ msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:771
+#, fuzzy
 msgid "Ada thought for a moment, then said, “I don’t think it’s your skateboards but actually the software in them. It’s probably programmed into the software that the skateboards aren’t allowed to go on the sidewalk. But that can be changed!”"
-msgstr ""
+msgstr "Η Άντα σκέφτηκε για λίγο και τους είπε, Δε νομίζω ότι φταίνε τα σκέιτμπορντ σας, αλλά το λογισμικό που έχουν. Πιθανότατα να είναι προγραμματισμένα έτσι ώστε να μην επιτρέπεται να κυκλοφορούν στο πεζοδρόμιο. Αλλά αυτό μπορεί να αλλάξει!"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:772
+#, fuzzy
 msgid "That evening, Ada tested out her theory on her classmate Toni’s skateboard. She worked secretly through most of the night, and the next day, Toni could ride on the sidewalk again. Unfortunately, his skateboard could no longer make the sounds that his parents had bought from Zangemann. Instead, every 10 minutes it made a strange noise that sounded like a drawn-out burp. Ada knew that little errors like that could pop up in programs all the time. But Toni’s burping skateboard was really quite funny."
 msgstr ""
+"Εκείνο το βράδυ, η Άντα δοκίμασε τη θεωρία της στο σκέιτμπορντ του συμμαθητή της Τόνι. Δούλεψε κρυφά μέσα στη νύχτα και την επόμενη μέρα ο Τόνι μπορούσε να κάνει ξανά βόλτες στο πεζοδρόμιο.\n"
+"Δυστυχώς, το σκέιτμπορντ δεν μπορούσε πια να κάνει όλους τους θορύβους που οι γονείς του είχαν αγοράσει από τον Ζάνγκεμαν. Αντίθετα, κάθε λίγα λεπτά ακουγόταν ένας παράξενος θόρυβος σαν ένα παρατεταμένο ρέψιμο. Η Άντα ήξερε ότι τέτοια μικρά προβληματάκια μπορούσαν πολλές φορές να εμφανιστούν σε προγράμματα. Από την άλλη, ένα σκέιτμπορντ που ρευόταν ήταν πραγματικά πολύ αστείο."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -785,13 +994,15 @@ msgstr ""
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p30-1
 #: Ada_Zangemann.dbk:787
+#, fuzzy
 msgid "More and more children started to visit Ada at the junkyard after school, and she helped them rewrite the programs in their skateboards. Some of her classmates were very excited about this new discovery. It was unbelievable what you could do with software code! They wanted to learn everything Ada knew about programming languages, and soon they were riding their skateboards again, wherever they wanted to."
-msgstr ""
+msgstr "Όλο και περισσότερα παιδιά άρχησαν να επισκέπτονται την Άντα στη μάντρα μετά το σχολείο, και αυτή τα  βοηθούσε να επαναπρογραμματίσουν τα σκέιτμπορντ τους. Μερικοί συμμαθητές της ήταν πολύ ενθουσιασμένοι για τη νέα τους ανακάλυψη. Ήταν απίστευτο το τι μπορούσαν να κάνουν με τον κώδικα! Θέλανε να μάθουν όλα όσα η Άντα ήξερε για τις γλώσσες προγραμματισμού και γρήγορα καβαλούσανε τα σκέιτμπόρντ τους ξανά όπου ήθελαν."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:789
+#, fuzzy
 msgid "But that wasn’t all. With the software, they could give their skateboards new, cool features. Marie attached colorful LED lights to her board that glowed different colors depending on the speed. Konrad built old propellers onto his skateboard for extra speed."
-msgstr ""
+msgstr "Αλλά έκαναν και καινούρια πράγματα. Με το λογισμικό μπορούσαν να προσθέσουν νέες, εντυπωσιακές λειτουργίες. Η Μαρί έβλαλε ένα πολύχρωμο φως το οποίο έλαμπε σε διαφορετικά χρώματα ανάλογα με τη ταχύτητα. Ο Κόνραντ έβαλε μια παλιά προπέλα στο σκέιτμπόρντ του για μεγαλύτερη ταχύτητα."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -802,18 +1013,23 @@ msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:798
+#, fuzzy
 msgid "Ada, Toni, Marie, and Konrad spent many afternoons at the junkyard. They even set up a real workshop where they could fine-tune their programs for hours, listening all the while to music from the speakers Ada had built for Alan."
 msgstr ""
+"Η Άντα, ο Τόνι, η Μαρί και ο Κόνραντ πέρασαν πολλά απογεύματα στη μάντρα. Έστησαν κι ένα πραγματικό εργαστήριο, όπου μπορούσαν να δουλεύουν και να τελειοποιούν τα προγράμματά τους για ώρες,\n"
+"ακούγοντας μουσική από τα ηχεία που είχε φτιάξει η Άντα για τον Άλαν."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:799
+#, fuzzy
 msgid "“Your brother’s speakers are much louder than ours,” remarked Toni, who was busy attaching a speedometer to his helmet. “I’m sure that’s also because of the software,” Marie said."
-msgstr ""
+msgstr "\"Τα ηχεία του αδελφού σου είναι πιο δυνατά από τα δικά μας,\" παρατήρησε ο Τόνι καθώς έβασε ένα ταχύμετρο στο κράνος του. \"Είμαι σίγουρη οτι και αυτό οφείλεται στο λογισμικό,\" είπε η Μαρί."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:800
+#, fuzzy
 msgid "Together, they changed the software for the speakers too. Then they turned up the music as loud as possible and danced wildly together."
-msgstr ""
+msgstr "Οι δυο τους μαζί άλλαξαν και το λογισμικό στα ηχεία. Μετά έβαλαν τη μουσική όσο δυνατά πήγαινε και τρελλαθήκανε στο χορό."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -846,18 +1062,21 @@ msgstr ""
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p35-1
 #: Ada_Zangemann.dbk:840
+#, fuzzy
 msgid "Every day, Ada and her friends made plans together for the afternoon. From a broken ice-cream machine, they built a new one that could make ice cream in every imaginable shape and color. They ate square ice cream, heart-shaped ice cream, and even pyramid-shaped ice cream, as well as strawberry, raspberry, and rainbow ice cream, all with sprinkles and hot fudge — much better than the varieties from the Zangemann machines."
-msgstr ""
+msgstr "Κάθε μέρα, η Άντα και η παρέα της κανόνιζαν τι θα έκαναν το απόγευμα. Έτσι, από μία χαλασμένη παγωτομηχανή, έφτιαξαν μία καινούργια που μπορούσε να φτιάχνει παγωτό σε κάθε σχήμα και χρώμα. Έτρωγαν τετράγωνο παγωτό, παγωτό σε σχήμα καρδιάς, ακόμα και παγωτό σε σχήμα πυραμίδας, με γεύση φράουλα, βατόμουρο, και ακόμη παγωτό ουράνιο τόξο, όλα πασπαλισμένα με τρούφα και ζεστή καραμέλα- πολύ καλύτερα από αυτά που πρόσφεραν οι παγωτομηγανές του Ζάνγκερμαν."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:841
+#, fuzzy
 msgid "Sometimes they could even help adults. Toni reprogrammed his father’s ironing machine so that it could also iron ties again — Zangemann had forbidden the machines to do so because he hated ties like the plague. For the bus driver, they built an automatic watering system out of old hoses and a computer so that her plants would not die of thirst during summer days. And they helped the school custodian modify his vacuum so that it automatically recognized toys and wouldn’t suck them up."
-msgstr ""
+msgstr "Κάποιες φορές βοηθούσανε ακόμα και τους μεγάλους. Ο Τόνι επαναπρογραμμάτισε το σίδερο του πατέρα του ώστε να μπορεί να σιδερώνει και πάλι τις γραβάτες του. Ο Ζάνγκερμαν το είχε απαγορέψει γιατί σιχαινόταν τις γραβάτες. Για την οδηγό του λεωφορείου, φτιάξανε ένα αυτόματο σύστημα ποτίσματος από μερικούς παλιούς σωλήνες και έναν υπολογιστή για να ποτίζονται τα φυτά της τους καλοκαιρινούς μήνες. Βοήθησαν, επίσης, τον σχολικό φύλακα να τροποποιήσει τη σκούπα του, ώστε αυτή να αναγνωρίζει αυτόματα τα παιχνίδια και να μην τα ρουφάει."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:842
+#, fuzzy
 msgid "Some things they built just for fun, like the fart machine they put in their math teacher’s chair. Whenever Ms. Gernet sat down, the machine played a little fart sound. The teacher would scold them, but Ada was sure that she secretly smirked a little every time."
-msgstr ""
+msgstr "Κάποια πράγματα τα φτιάχνανε απλά για πλάκα, όπως την μηχανή που βάλανε στη καρέκλα της κυρίας των μαθηματικών. Όποτε η Κα Γκέρνετ καθόταν, έβγαζε ένα μικρό θόρυβο πορδής. Η δασκάλα τους μάλωνε, αλλά η Άντα ήταν σίγουρη ότι κρυφά χαμογελούσε λιγάκι κάθε φορά."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:847
@@ -867,18 +1086,21 @@ msgstr ""
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p36-1
 #: Ada_Zangemann.dbk:851
+#, fuzzy
 msgid "One day, Zangemann noticed that some computers no longer obeyed his programming commands. Shocked and fuming with anger, he called the president. In a quivering voice, Zangemann yelled, “Someone is rewriting the programs in my devices. That can’t happen; after all, they are my inventions. It’s far too dangerous if everyone can do whatever they want with the computers. You must make a law against this!”"
-msgstr ""
+msgstr "Μία μέρα, ο Ζάνγκερμαν παρατήρησε ότι μερικοί υπολογιστές δεν υπάκουαν πια στις εντολές του. Σοκαρισμένος και βράζοντας από θυμό, τηλεφώνησε στον πρωθυπουργό.Ο Ζάνγκερμαν φώναξε με φωνή που έτρεμε: \"Κάποιος πειράζει τον κώδικα στις συσκευές μου! Αυτό πρέπει να σταματήσει! Είναι δικές μου εφευρέσεις! Είναι πολύ επικίνδυνο αν ο καθένας κάνει ό,τι θέλει στους υπολογιστές! Πρέπει να πάρεις μέτρα!\""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:852
+#, fuzzy
 msgid "The president did not want to upset Zangemann. All the government’s computers were programmed by Zangemann. Without the computers, the government would not be able to run the country. So they passed the law as Zangemann requested:"
-msgstr ""
+msgstr "Ο πρωθυπουργός δεν ήθελε να αναστατώσει τον Ζάγκερμαν: όλοι οι υπολογιστές της κυβέρνησης προγραμματιζόταν από εκείνον. Χωρίς τους υπολογιστές, η κυβέρνηση δε θα μπορούσε να κάνει τίποτα. Έτσι, πέρασαν τον παρακάτω νόμο όπως ήθελε ο Ζάνγκερμαν:"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:853
+#, fuzzy
 msgid "“All computers that do not listen to Zangemann are banned. Anyone who reprograms Zangemann’s devices will be fined 500,000 gold pieces!”"
-msgstr ""
+msgstr "\"Όσοι υπολογιστές δεν υπακούουν στον Ζάγκερμαν απαγορεύονται. Όποιος αλλάζει το λογισμικό στις συσκευές του Ζάνγκερμαν θα έχει πρόστιμο 500.000 χρυσά νομίσματα!\""
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -889,13 +1111,15 @@ msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:865
+#, fuzzy
 msgid "When Ada and her friends heard this, they were furious. “This is unfair,” they said. “We rebuilt and reprogrammed our skateboards ourselves. They are much better now. We won’t let anyone take that away from us!”"
-msgstr ""
+msgstr "Όταν η Άντα και οι φίλοι της άκουσαν τα νέα, έγιναν έξαλλοι. Αυτό είναι άδικο, είπαν. Εμείς οι ίδιοι ξαναφτιάξαμε και προγραμματίσαμε τα σκέτιμπορντ μας, και τώρα είναι πολύ καλύτερα. Δε θα αφήσουμε κανέναν να μας το στερήσει!"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:866
+#, fuzzy
 msgid "They gathered in front of one of their rebuilt ice-cream machines and discussed the situation. It was clear that something had to be done about the new law, and they made a plan..."
-msgstr ""
+msgstr "Συγκεντρώθηκαν μπροστά σε μια από τις παγωτομηχανές που είχαν πειράξει και συζήτησαν την κατάσταση. Ήταν ξεκάθαρο ότι κάτι έπρεπε να γίνει ενάντια στο νέο νόμο. Τελικά κατέληξαν σε ένα σχέδιο."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -912,13 +1136,15 @@ msgstr ""
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p39-1
 #: Ada_Zangemann.dbk:882
+#, fuzzy
 msgid "The next day, they didn’t go to school. Instead, they rode their skateboards to the parliament building, with large protest signs under their arms, and sat down in front of the building. The evening before, they had put LED lights on some of the signs, which were now flashing brightly. They had connected their speakers together so everyone in the street could hear what they were saying. Some passersby stopped and asked the children what they were demonstrating for. “For software freedom!” they replied in unison and told the adults their story. Impressed, the adults nodded, and the president also looked curiously at their signs as he approached the building."
-msgstr ""
+msgstr "Την επόμενη μέρα, δεν πήγαν σχολείο. Ανέβηκαν στα σκέιτμπόρντ τους και πήγαν μέχρι το Κοινοβούλιο, με μεγάλες επιγραφές με συνθήματα στα χέρια τους και κάθισαν μπροστά από το κτήριο. Από την προηγούμενη μέρα, είχαν βάλει φωτάκια σε μερικές επιγραφές και, έτσι, τώρα αυτές φωτίζονταν με ένα ζωηρό φως. Επίσης, είχαν συνδέσει τα ηχεία μεταξύ τους, ώστε όλοι στον δρόμο να ακούνε τα συνθήματά τους. Μερικοί περαστικοί σταμάτησαν και ρώτησαν τα παιδιά για ποιον λόγο διαδηλώναν. \"Για ελευθερία στο λογισμικό!\" απάντησαν με μία φωνή και εντυπωσιάζοντας τους ενήλικους με την ιστορία τους. Ο πρωθυπουργός κοιτούσε με απορία τις επιγραφές καθώς πλησίαζε τη βουλή."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:883
+#, fuzzy
 msgid "On the following day, Ada and her friends again sat down in front of the parliament building, this time with support. Some classmates came whose skateboards Ada had reprogrammed. Toni’s father and other parents and adults also wanted to support the protest. They found the children’s devices very useful."
-msgstr ""
+msgstr "Την επόμενη μέρα, η Άντα και οι φίλοι της κάθησαν ξανά μπροστά από το Κοινοβούλιο και τώρα ήταν ακόμα περισσότεροι. Είχαν έρθει και κάποιοι συμμαθητές τους που η Άντα τους είχε φτιάξει τα σκέιτμπορντ.  Ο πατέρας του Τόνι και άλλοι μεγάλοι ήθελαν κι αυτοί να έρθουν στη διαδήλωση. Πίστευαν πως οι συσκευές των παιδιών ήταν πολύ χρήσιμες."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -929,8 +1155,12 @@ msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:892
+#, fuzzy
 msgid "With each passing day, more and more children and adults joined the protest. The bus driver they had helped drove up in her bus. She honked loudly to attract even more people to the protest. The custodian brought a few friends, and Toni’s father brought his colleagues from work, all wearing perfectly ironed ties. Even Ms. Gernet came. The crowd grew, and after a few weeks, there were protests not just in Ada’s city but also in many cities throughout the country."
 msgstr ""
+"Κάθε μέρα που περνούσε όλο και περισσότερα παιδιά, αλλά και μεγάλοι, ερχόντουσαν στη διαμαρτυρία. Η οδηγός του λεωφορείου που τα παιδιά είχαν βοηθήσει με τα φυτά της, ήρθε με το λεωφορείο της\n"
+"και κόρναρε δυνατά για να μάθουν ακόμα περισσότεροι άνθρωποι τη διαμαρτυρία. Ο καθαριστής του σχολείου ήρθε με μερικούς φίλους του. Ο πατέρας του Τόνι ήρθε με συναδέλφους του από τη δουλειά,\n"
+"όλοι με άψογα σιδερωμένες γραβάτες. Ακόμα και η κυρία Γκέρνετ ήρθε. Το πλήθος μεγάλωνε, και μετά από μερικές εβδομάδες, υπήρχαν διαμαρτυρίες όχι μόνο στην πόλη που έμενε η Άντα, αλλά και σε άλλες πόλεις της χώρας."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -942,8 +1172,9 @@ msgstr ""
 #. (itstool) path: info/excerpt
 #. Text on big banner, left on the illustration
 #: Ada_Zangemann.dbk:899
+#, fuzzy
 msgid "Do your homework Mr. President and we will do ours!"
-msgstr ""
+msgstr "Κάντε τη δουλειά σας κ. Πρωθυπουργέ και θα κάνουμε κι εμείς τη δικιά μας!"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -962,16 +1193,18 @@ msgstr ""
 #. (itstool) path: info/excerpt
 #. Text on square signe on the right of the illustration
 #: Ada_Zangemann.dbk:916
+#, fuzzy
 msgid "They are young + need the code!"
-msgstr ""
+msgstr "Είναι παιδιά και χρειάζονται τον κώδικα!"
 
 #. (itstool) path: info/excerpt
 #. Text on banner on the banner held by children on the right of the
 #. illustration. Alternatively the German text 'Ohne Code ist alles doof!'
 #. can be used, which translates to 'without code everything is dull!'.
 #: Ada_Zangemann.dbk:917
+#, fuzzy
 msgid "Don’t wreck our tech!"
-msgstr ""
+msgstr "Χωρίς κώδικα, τα πάντα είναι χαζά!"
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:924
@@ -981,13 +1214,15 @@ msgstr ""
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p42-1
 #: Ada_Zangemann.dbk:927
+#, fuzzy
 msgid "Ada protested in front of the parliament building every week, even in pouring rain. On one such rainy day, when the president passed the group of dripping-wet children, he couldn’t help but admire their stubbornness. He asked Ada, “Why do you sit here every day? What do you want to achieve?” Ada replied, “We want to determine for ourselves what we can and cannot do with our computers.” Her friends shouted in unison: “Don’t wreck our tech! Don’t wreck our tech!” and “We want the code! We want the code!”"
-msgstr ""
+msgstr "Η Άντα διαμαρτυρόταν μπροστά από το κτήριο του Κοινοβουλίου κάθε εβδομάδα, ακόμη και μες στη βροχή. Μια τέτοια μέρα βροχερή, καθώς ο Πρωθυπουργός περνούσε μπροστά από την ομάδα των παιδιών που -κυριολεκτικά- στάζανε, θαύμασε το πείσμα τους. Ρώτησε την Άντα, «Γιατί κάθεσαι εδώ κάθε μέρα; Τι θέλεις να πετύχεις;» Η Άντα απάντησε: «Θέλουμε να αποφασίζουμε μόνοι μας τι μπορούμε και τι δεν μπορούμε να κάνουμε με τους υπολογιστές μας». Οι φίλοι της φώναξαν με μια φωνή: «Μην καταστρέφετε την τεχνολογία μας! Μην καταστρέφετε την τεχνολογία μας!» και «Θέλουμε τον κώδικα! Θέλουμε τον κώδικα!»"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:928
+#, fuzzy
 msgid "The president looked at the determined faces of the children. Honestly, he, too, wanted to decide for himself what the government could and couldn’t do with its computers. But he didn’t understand anything about computers and code, so he had always left that to Zangemann. Deep in thought, the president entered the building."
-msgstr ""
+msgstr "Ο Πρωθυπουργός κοίταξε τα αποφασισμένα πρόσωπα των παιδιών. Ειλικρινά, κι αυτός ο ίδιος ήθελε να αποφασίζει μόνος του τι μπορούσε και τι δεν μπορούσε να κάνει η κυβέρνηση με τους υπολογιστές της. Αλλά δεν καταλάβαινε τίποτα από υπολογιστές και κώδικα, οπότε αυτό το άφηνε πάντα στον Ζάνγκερμαν. Βυθισμένος στις σκέψεις του, μπήκε στο κτήριο."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -998,18 +1233,21 @@ msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:936
+#, fuzzy
 msgid "The next day, the president invited Ada and her friends over. “We also want to be in charge of our software ourselves. In order for that to be true, the government must be independent from Zangemann. Can you tell me what you know about computer programs?” he asked them. Enthusiastically, they explained to him how software works and what you could do with it. The president was amazed."
-msgstr ""
+msgstr "Την επόμενη μέρα, ο Πρωθυπουργός κάλεσε την Άντα και τους φίλους της. «Θέλουμε κι εμείς να είμαστε υπεύθυνοι για το λογισμικό μας οι ίδιοι. Για να συμβεί κάτι τέτοιο, η κυβέρνηση πρέπει να είναι ανεξάρτητη από τον Ζάνγκερμαν. Μπορείτε να μου πείτε τι γνωρίζετε από προγράμματα υπολογιστών;\" τους ρώτησε. Με ενθουσιασμό, του εξήγησαν πώς λειτουργεί το λογισμικό και τι μπορείς να κάνεις με αυτό. Ο Πρωθυπουργός έμεινε έκπληκτος."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:939
+#, fuzzy
 msgid "With this new knowledge, the government would be able to design its own software, the way it wanted — completely without Zangemann. Immediately, the president called his advisers. In a large group, they discussed with the children everything they could change and improve in the software."
-msgstr ""
+msgstr "Με αυτή τη νέα γνώση, το κράτος θα μπορούσε να σχεδιάσει το δικό του λογισμικό, όπως ακριβώς το ήθελε και χωρίς καμιά εμπλοκή του Ζάνγκεμαν. Αμέσως, ο πρωθυπουργός κάλεσε τους συμβούλους του. Σε μια μεγάλη ομάδα, συζήτησαν όλοι με τα παιδιά όλα αυτά που θα μπορούσαν να αλλάξουν και να βελτιώσουν στο λογισμικό."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:940
+#, fuzzy
 msgid "That evening, the children went home proud and satisfied. Something finally happened! Their long protest was worth it."
-msgstr ""
+msgstr "Εκείνο το βράδυ, τα παιδιά πήγαν σπίτι τους περήφανα και ικανοποιημένα. Επιτέλους κάτι συνέβη! Η μακροχρόνια διαμαρτυρία τους είχε αποδώσει καρπούς."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1026,8 +1264,9 @@ msgstr ""
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p44-1
 #: Ada_Zangemann.dbk:954
+#, fuzzy
 msgid "The next morning, the president’s phone rang very early. It was Zangemann. He was angrier than ever. “Without me, the government computers will no longer work,” he threatened. But the president kept the call short and quickly hung up. The phone rang many more times that day, but Zangemann’s calls went unanswered. The president sat in a meeting with Ada, Toni, Marie, Konrad, and the government experts."
-msgstr ""
+msgstr "Το επόμενο πρωί, το τηλέφωνο του Πρωθυπουργού χτύπησε νωρίς νωρίς. Ήταν ο Ζάνγκερμαν. Ήταν πιο θυμωμένος από ποτέ. «Χωρίς εμένα, οι υπολογιστές της κυβέρνησης δεν θα λειτουργούν πια»,  απείλησε. Όμως ο Πρωθυπουργός του μίλησε λίγο και έκλεισε το τηλέφωνο γρήγορα. Το τηλέφωνο χτύπησε πολλές φορές εκείνη την ημέρα, αλλά οι κλήσεις του Ζάνγκερμαν έμειναν αναπάντητες. Ο Πρωθυπουργός είχε μια συνάντηση με την Άντα, τον Τόνι, τη Μαρί, τον Κόνραντ και τους ειδικούς της κυβέρνησης."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1038,23 +1277,27 @@ msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:961
+#, fuzzy
 msgid "In the days that followed, they talked from morning to night and designed their first programs for the government’s computers. They were no longer disturbed by Zangemann’s calls. Toni had the good idea of reprogramming the telephones. When Zangemann called, he only heard an automated recording: “The government only wants to use software that it can freely use, study, share, and improve. Thank you for calling.”"
-msgstr ""
+msgstr "Τις επόμενες μέρες, συζητούσαν από το πρωί μέχρι το βράδυ και σχεδίαζαν τα δικά τους πρώτα προγράμματα για τους υπολογιστές της κυβέρνησης. Δεν ενοχλούνταν πλέον από τις κλήσεις του Ζάνγκερμαν. Ο Τόνι είχε την ιδέα να επαναπρογραμματίσει τα τηλέφωνα. Όταν τηλεφωνούσε ο Ζάνγκερμαν, άκουγε μόνο το παρακάτω ηχογραφημένο μήνυμα: «Η κυβέρνηση θέλει να χρησιμοποιεί μόνο λογισμικό που μπορεί να χρησιμοποιήσει, να μελετήσει, να μοιραστεί και βελτιώσει ελεύθερα. Ευχαριστούμε που καλέσατε.\""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:963
+#, fuzzy
 msgid "Then, after many weeks of protests and discussions, the time had finally come: they abolished the old Zangemann law! Instead, the government announced:"
-msgstr ""
+msgstr "Στη συνέχεια, μετά από πολλές εβδομάδες διαμαρτυριών και συζητήσεων, ήρθε επιτέλους η ώρα: ο παλιός νόμος του Ζάνγκερμαν καταργήθηκε! Στη θέση του, η κυβέρνηση ανακοίνωσε έναν καινούριο:"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:966
+#, fuzzy
 msgid "“Everyone is allowed to program their own computers as long as they adhere to the other laws.”"
-msgstr ""
+msgstr "«Όλοι έχουν το δικαίωμα να προγραμματίζουν τους δικούς του υπολογιστές, αρκεί να τηρούν τους υπόλοιπους νόμους»."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:967
+#, fuzzy
 msgid "In addition, a new school subject was introduced: computer hardware and software."
-msgstr ""
+msgstr "Επιπλέον, ένα νέο μάθημα μπήκε σε όλα τα σχολεία: υλικό και λογισμικό υπολογιστών."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1065,8 +1308,9 @@ msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:977
+#, fuzzy
 msgid "That evening, everyone celebrated with a big party. Ada, Alan, Toni, Marie, Konrad, and other children from school and their parents; the president; Ms. Gernet; the bus driver; the custodian — they were all there. They decorated the streets, listened to loud music, and ate ice cream, as much as they wanted, and in every imaginable shape and color."
-msgstr ""
+msgstr "Εκείνο το βράδυ, όλοι το γιόρτασαν με ένα μεγάλο πάρτυ. Η Άντα, ο Άλαν, ο Τόνι, η Μαρί, ο Κόνραντ και άλλα παιδιά από το σχολείο και οι γονείς τους, ο Πρωθυπουργός και η κυρία Σάλι, η οδηγός του λεωφορείου, ο φύλακας του σχολείου — ήταν όλοι εκεί. Στόλισαν τους δρόμους, άκουσαν δυνατή μουσική και έφαγαν παγωτό, όσο ήθελαν, και σε κάθε σχήμα και χρώμα που μπορεί κανείς να φανταστεί."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1077,8 +1321,9 @@ msgstr ""
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:986
+#, fuzzy
 msgid "While the others continued partying late into the night, Ada and her friends slipped away to their workshop. They already had a lot of ideas for new inventions. And they wanted to start right away."
-msgstr ""
+msgstr "Ενώ οι υπόλοιποι συνέχιζαν να διασκεδάζουν μέχρι αργά το βράδυ, η Άντα, ο Τόνι και η Μαρί έφυγαν και κατευθύνθηκαν προς το εργαστήριό τους. Είχαν ήδη πολλές ιδέες για νέες εφευρέσεις, και ήθελαν να ξεκινήσουν αμέσως."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1095,8 +1340,9 @@ msgstr ""
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p48-1
 #: Ada_Zangemann.dbk:1001
+#, fuzzy
 msgid "And Zangemann? No one’s heard much from him. Maybe he’s still sitting angrily in front of his golden computer. Maybe he doesn’t dare go out into the street anymore and has boarded up all the windows of his mansion so that he doesn’t have to worry about what other people are doing with his inventions. But maybe he also sometimes looks out into the world through his telescope and sees what the children are inventing every day. Perhaps then he will remember how much fun it was for himself to tinker and experiment. And maybe, just maybe, he eats pyramid-shaped raspberry ice cream with rainbow sprinkles."
-msgstr ""
+msgstr "Και ο Ζάνγκερμαν; Κανείς δεν έχει ακούσει το παραμικρό γι' αυτόν. Ίσως να κάθεται ακόμα θυμωμένος μπροστά στον χρυσό υπολογιστή του. Ίσως να μην τολμά πια να βγει στον δρόμο και να έχει κλείσει με σανίδες όλα τα παράθυρα της έπαυλής του ώστε να μην χρειάζεται να ανησυχεί για το τι κάνουν οι άλλοι με τις εφευρέσεις του. Ίσως πάλι, μερικές φορές να κοιτάζει τον κόσμο μέσα από το τηλεσκόπιό του και να βλέπει τι εφευρίσκουν τα παιδιά καθημερινά. Είναι πιθανό τότε να θυμάται πόσο διασκεδαστικό ήταν για τον ίδιο να μαστορεύει και να πειραματίζεται. Και ίσως, απλά ίσως, να τρώει παγωτό βατόμουρο, σε σχήμα πυραμίδας, με τρούφες στα χρώματα του ουράνιου τόξου."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1115,8 +1361,9 @@ msgstr ""
 #. (itstool) path: info/title
 #. (itstool) id: Ada_Zangemann.dbk#title-acknowledgments
 #: Ada_Zangemann.dbk:1022
+#, fuzzy
 msgid "Acknowledgments"
-msgstr ""
+msgstr "ΕΥΧΑΡΙΣΤΙΕΣ"
 
 #. (itstool) path: simplesect/para
 #. In the acknowledgments of the English version you can change 'No Starch
@@ -1124,18 +1371,21 @@ msgstr ""
 #. publishing this book in your language under a free cultural license,
 #. and encourage you to do that for other books in future as well.
 #: Ada_Zangemann.dbk:1030
+#, fuzzy
 msgid "Many thanks to Reinhard Wiesemann from the Linuxhotel for the financial support and motivation to no longer plan but to make. Thanks to Sandra Brandstätter, who has brought me joy with every new design for the illustrations. Thanks to my editor Wiebke Helmchen, who made developing and sharpening the story fun, and to No Starch Press for agreeing to publish the book under a free culture license."
-msgstr ""
+msgstr "Ευχαριστώ τον Reinhard Wiesemann από το Linuxhotel για την οικονομική υποστήριξη και τν ενθάρρυνση να μην σχεδιάζω πλέον αλλά να κάνω. Ευχαριστώ τη Sandra Brandstätter που με έκανε χαρούμενο με κάθε νέο σχέδιο για την εικονογράφηση. Ευχαριστώ την εκδότριά μου, Wiebke Helmchen, η οποία έκανε την τελειοποίηση της ιστορίας διασκεδαστική, και τη No Starch Press που συμφώνησε να εκδώσει το βιβλίο με ελεύθερη άδεια."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1031
+#, fuzzy
 msgid "Thanks to Bea and Benni, Brian, Christine and Marc, Cory, Bernhard, Isabel and Amelia, Katta, Kristina, Martin, Mona and Arne, Nina, Oliver, Reinhard, Sabine, and Torsten for great ideas, inspiration, and practical tips, and to the many people of the Free Software movement, from which I was allowed to learn and whose engagement motivated me."
-msgstr ""
+msgstr "Ευχαριστώ τις/τους Bea και Benni, Brian, Christine and Marc, Cory, Bernhard, Isabel και Amelia, Katta, Kristina, Martin, Mona and Arne, Nina, Oliver, Reinhard, Sabine, και Torsten για τις υπέροχές ιδέες, την έμπνευση και  τις πρακτικές συμβουλές καθώς και τους ανθρώπους του κινήματος του Ελεύθερου Λογισμικού, από τους οποίους έμαθα πολλά και εμπνεύστηκα από τη συμμετοχή τους."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1035
+#, fuzzy
 msgid "Thanks to my family, who made me write early in the morning, late in the evening, and on holiday, and who always supports my work for software freedom. Especially, I would like to thank my children, who inspired me with new ideas at each reading. Without them, this book would not exist."
-msgstr ""
+msgstr "Ευχαριστώ την οικογένειά μου, που με έκανε να γράφω νωρίς το πρωί, αργά το βράδυ και στις διακοπές, και που υποστηρίζει πάντα την εργασία μου για το ελεύθερο λογισμικό. Ιδιαίτερα θα ήθελα να ευχαριστήσω τα παιδιά μου που με ενέπνευσαν με νέες ιδέες σε κάθε ανάγνωση. Χωρίς αυτά, αυτό το βιβλίο δεν θα υπήρχε."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1147,20 +1397,23 @@ msgstr ""
 #. (itstool) path: info/title
 #. (itstool) id: Ada_Zangemann.dbk#title-author
 #: Ada_Zangemann.dbk:1049
+#, fuzzy
 msgid "About the Author"
-msgstr ""
+msgstr "Συγραφέας"
 
 #. (itstool) path: info/subtitle
 #. (itstool) id: Ada_Zangemann.dbk#subtitle-author
 #. ignore-same
 #: Ada_Zangemann.dbk:1050
+#, fuzzy
 msgid "Matthias Kirschner"
-msgstr ""
+msgstr "Matthias Kirschner"
 
 #. (itstool) path: info/titleabbrev
 #: Ada_Zangemann.dbk:1051
+#, fuzzy
 msgid "About the Author - Matthias Kirschner"
-msgstr ""
+msgstr "Συγραφέας - Matthias Kirschner"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1171,26 +1424,32 @@ msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1066
+#, fuzzy
 msgid "Matthias was fascinated by computers and software as a child. He had an internet connection early, through which he learned a lot. Children have a right to take their future into their own hands. Therefore, Matthias is committed to the goal that all humans can use software in a self-determined way. He also wants to build an electric skateboard with Free Software."
 msgstr ""
+"Ο Ματίας γοητεύτηκε από τους υπολογιστές και το λογισμικό ως παιδί. Είχε από νωρίς σύνδεση στο διαδίκτυο, μέσω του οποίου έμαθε πολλά. Τα παιδιά έχουν δικαίωμα πάρουν το μέλλον στα χέρια τους.\n"
+"Έτσι, ο Ματίας έχει δεσμευτεί σε αυτόν τον σκοπό: να μπορούν όλοι οι άνθρωποι να χρησιμοποιούν λογισμικό με έναν αυτοκαθορισμένο τρόπο. Θέλει κι αυτός να κατασκευάσει ένα ηλεκτρικό σκέιτμπορντ με Ελεύθερο Λογισμικό."
 
 #. (itstool) path: info/title
 #. (itstool) id: Ada_Zangemann.dbk#title-illustrator
 #: Ada_Zangemann.dbk:1072
+#, fuzzy
 msgid "About the Illustrator"
-msgstr ""
+msgstr "Εικονογράφηση"
 
 #. (itstool) path: info/subtitle
 #. (itstool) id: Ada_Zangemann.dbk#subtitle-illustrator
 #. ignore-same
 #: Ada_Zangemann.dbk:1073
+#, fuzzy
 msgid "Sandra Brandstätter"
-msgstr ""
+msgstr "Sandra Brandstätter"
 
 #. (itstool) path: info/titleabbrev
 #: Ada_Zangemann.dbk:1074
+#, fuzzy
 msgid "About the Illustrator - Sandra Brandstätter"
-msgstr ""
+msgstr "Εικονογράφηση - Sandra Brandstätter"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1201,40 +1460,47 @@ msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1089
+#, fuzzy
 msgid "Sandra has always liked crafting with scissors, pliers, glue, wire, fabric, and paper. Today she works as an illustrator, comic author, and character designer for animated films and series, such as the German public television series Trudes Tier. On an ice-cream machine, Sandra would pick a creamy rainbow ice cream with lemon cucumber flavor and a lot of sprinkles."
-msgstr ""
+msgstr "Στη Σάντρα άρεσαν πάντα οι χειροτεχίες με ψαλίδι, πένσα, κόλλα, σύρμα, ύφασμα και χαρτί. Σήμερα εργάζεται ως εικονογράφος, συγγραφέας κόμικς και σχεδιαστής χαρακτήρων για ταινίες κινουμένων σχεδίων και σειρές, όπως η τηλεοπτική σειρά της γερμανικής δημόσιας τηλερόρασης Trudes Tier. Σε μια παγωτομηχανή, η Σάντρα θα διάλεγε ένα παγωτό ουράνιο τόξο, με γεύση λεμόνι και πολλή τρούφα."
 
 #. (itstool) path: info/title
 #. (itstool) id: Ada_Zangemann.dbk#title-bookswebsite
 #: Ada_Zangemann.dbk:1094
+#, fuzzy
 msgid "Book’s website"
-msgstr ""
+msgstr "Ιστοσελίδα για το βιβλίο"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1102
+#, fuzzy
 msgid "The Free Software Foundation Europe e.V. is a nonprofit association that empowers people to control technology. Software affects all areas of our life. That is why it is important that this technology gives us freedom instead of restricting us. Free Software (also called Open Source) gives everyone the right to use, study, share, and improve programs. Therefore, Free Software strengthens basic rights such as freedom of expression, freedom of the press, and the right to privacy."
-msgstr ""
+msgstr "Το FSFE (Ίδρυμα για το Ελεύθερο Λογισμικό Ευρώπης) είναι μια μη κερδοσκοπική οργάνωση που εμψυχώνει τους ανθρώπους να ελέγχουν την τεχνολογία . Το λογισμικό επηρεάζει όλους τους τομείς της ζωής μας. Γι' αυτό είναι σημαντικό αυτή η τεχνολογία να μας δίνει ελευθερία αντί να μας περιορίζει. Το Ελεύθερο Λογισμικό δίνει σε όλες και όλους το δικαίωμα χρήσης, μελέτης, διαμοιρασμού και βελτίωσης των προγραμμάτων. Επομένως το Ελεύθερο Λογισμικό ενισχύει βασικά δικαιώματα όπως η ελευθερία της έκφρασης, η ελευθερία του Τύπου, και το δικαίωμα στην ιδιωτικότητα."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1104
+#, fuzzy
 msgid "On the web page of the book, you will find more information and resources: <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
-msgstr ""
+msgstr "Στην ιστοσελίδα του βιβλίου, θα βρείτε περισσότερες πληροφορίες και πηγές: https://ada.fsfe.org."
 
 #. (itstool) path: info/title
 #. (itstool) id: Ada_Zangemann.dbk#title-license
 #: Ada_Zangemann.dbk:1111
+#, fuzzy
 msgid "License"
-msgstr ""
+msgstr "Άδεια χρήσης"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1119
+#, fuzzy
 msgid "The book Ada &amp; Zangemann: A Tale of Software, Skateboards, and Raspberry Ice Cream by Matthias Kirschner and Sandra Brandstätter, published by No Starch Press, is licensed under “Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).”"
-msgstr ""
+msgstr "Το βιβλίο Άντα και Ζάγκερμαν: Μία Ιστορία Λογισμικού, Σκέιτμπορντ και Παγωτού Βατόμουρο  από τον Matthias Kirschner και τη Sandra Brandstätter, εκδώθηκε από τη No Starch Press,υπό από την άδεια  “Creative Commons Αναφορά Δημιουργού - Παρόμοια Διανομή 4.0 Διεθνές\""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1120
+#, fuzzy
 msgid "<link xlink:href=\"https://creativecommons.org/licenses/by-sa/4.0/\">https://creativecommons.org/licenses/by-sa/4.0/</link>"
-msgstr ""
+msgstr "<link xlink:href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.el\">https://creativecommons.org/licenses/by-sa/4.0/deed.el</link>"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1246,11 +1512,11 @@ msgstr ""
 #. (itstool) path: simplesect/literallayout
 #. In a literallayout element all space and newline characters are kept.
 #: Ada_Zangemann.dbk:1131
-#, no-wrap
+#, fuzzy, no-wrap
 msgid ""
 "Come up with some delicious, funny, or crazy ice-cream flavors and draw them on the ice-cream cones on the following page.\n"
 "More information about the book can be found at <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
-msgstr ""
+msgstr "Σκεφτείτε μερικές γευστικές, τρελές ή αστείες γεύσεις παγωτού και σχεδιάστε τις στα χωνάκια στις επόμενες σελίδες. Περισσότερα σχέδια και πληροφορίες για το βιβλίο θα βρείτε στο <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
