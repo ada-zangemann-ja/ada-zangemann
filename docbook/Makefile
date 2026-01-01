@@ -193,6 +193,25 @@ $(targets-dbtoepub): build/Ada_Zangemann-dbtoepub.%.epub: \
 .PHONY: build/Ada_Zangemann-dbtoepub.all.epub
 build/Ada_Zangemann-dbtoepub.all.epub: $(targets-dbtoepub)
 
+# Pandoc HTML
+targets-pandoc-html = $(addprefix build/Ada_Zangemann-pandoc.,$(addsuffix .html,$(languages)))
+$(targets-pandoc-html): build/Ada_Zangemann-pandoc.%.html: \
+ build/Ada_Zangemann-pure-profiled-text.%.dbk \
+ | build/images/illustrations/all
+	pandoc -f docbook -o $@ $<
+
+.PHONY: build/Ada_Zangemann-pandoc.all.html
+build/Ada_Zangemann-pandoc.all.html: $(targets-pandoc-html)
+
+# Pandoc textonly HTML
+targets-pandoc-text-only-html = $(addprefix build/Ada_Zangemann-pandoc-text-only.,$(addsuffix .html,$(languages)))
+$(targets-pandoc-text-only-html): build/Ada_Zangemann-pandoc-text-only.%.html: \
+ build/Ada_Zangemann-pure-profiled-text-only.%.dbk
+	pandoc -f docbook -o $@ $<
+
+.PHONY: build/Ada_Zangemann-pandoc-text-only.all.html
+build/Ada_Zangemann-pandoc-text-only.all.html: $(targets-pandoc-text-only-html)
+
 # Pandoc markdown
 targets-pandoc-md = $(addprefix build/Ada_Zangemann-pandoc.,$(addsuffix .md,$(languages)))
 $(targets-pandoc-md): build/Ada_Zangemann-pandoc.%.md: \
