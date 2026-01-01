@@ -73,6 +73,14 @@ Without this feature, fonts will have to be changed or even combined, depending 
 
 - [0016114: Multi fonts within one paragraph style](https://bugs.scribus.net/view.php?id=16114)
 
+### Accessibility support (PDF/UA)
+
+Support features needed to create accessible PDFs according to the PDF/UA standard.
+
+- [0005282: Support PDF features required for online reading and interaction, including accessibility tagging](https://bugs.scribus.net/view.php?id=5282)
+- [0014960: Tagged PDF and accessibility](https://bugs.scribus.net/view.php?id=14960)
+- [0017512: Accessibility Support: PDF/UA](https://bugs.scribus.net/view.php?id=17512)
+
 ## Pandoc
 
 - [Pandoc issue tracker](https://github.com/jgm/pandoc/issues)
