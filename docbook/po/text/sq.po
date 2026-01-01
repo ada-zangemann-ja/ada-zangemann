@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2025-12-29 11:23+0000\n"
+"PO-Revision-Date: 2026-01-01 10:42+0000\n"
 "Last-Translator: Erik <erik.ds@fsfe.org>\n"
 "Language-Team: Albanian <https://hosted.weblate.org/projects/fsfe/ada-zangemann/sq/>\n"
 "Language: sq\n"
@@ -168,7 +168,7 @@ msgstr "Zangemanni është një shpikës i famshëm në të gjithë botën dhe j
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:335
 msgid "A book that arouses interest in tinkering and encourages shaping technology."
-msgstr ""
+msgstr "Liber që të shkathtëson duart dhe të edukon për teknologjinë."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -812,8 +812,9 @@ msgstr ""
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:783
+#, fuzzy
 msgid "Hacking for freedom"
-msgstr ""
+msgstr "Hacking që te bëhesh i lirë"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p30-1
