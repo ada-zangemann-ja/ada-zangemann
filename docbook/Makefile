@@ -1,4 +1,5 @@
 # SPDX-FileCopyrightText: 2024-2025 Nico Rikken <nico.rikken@fsfe.org>
+# SPDX-FileCopyrightText: 2025 ירון שהרבני Yaron Shahrabani <sh.yaron@gmail.com>
 #
 # SPDX-License-Identifier: CC0-1.0
 
@@ -225,12 +226,42 @@ build/Ada_Zangemann-pandoc.all.odt: $(targets-pandoc-odt)
 # Pandoc textonly odt
 targets-pandoc-text-only-odt = $(addprefix build/Ada_Zangemann-pandoc-text-only.,$(addsuffix .odt,$(languages)))
 $(targets-pandoc-text-only-odt): build/Ada_Zangemann-pandoc-text-only.%.odt: \
- build/Ada_Zangemann-pure-profiled-text-only.%.dbk \
- | build/images/illustrations/all
+ build/Ada_Zangemann-pure-profiled-text-only.%.dbk
 	pandoc -f docbook -o $@ $<
 
 .PHONY: build/Ada_Zangemann-pandoc-text-only.all.odt
 build/Ada_Zangemann-pandoc-text-only.all.odt: $(targets-pandoc-text-only-odt)
+
+# Pandoc odt Hebrew template
+# Create default reference ODT and patch styles to RTL + Hebrew
+build/pandoc-reference.he.odt:
+	pandoc --print-default-data-file reference.odt > build/reference.odt
+	mkdir -p build/odt-ref && unzip -q -o build/reference.odt -d build/odt-ref
+
+	# Force RTL writing-mode on page and paragraph-level styles
+	sed -i 's/style:writing-mode="lr-tb"/style:writing-mode="rl-tb"/g' build/odt-ref/styles.xml
+	sed -i 's/style:writing-mode="page"/style:writing-mode="rl-tb"/g' build/odt-ref/styles.xml
+	sed -i -r '/<style:paragraph-properties/{ /style:writing-mode/! s/<style:paragraph-properties /<style:paragraph-properties style:writing-mode="rl-tb" / }' build/odt-ref/styles.xml
+
+	# Set Hebrew locale
+	sed -i 's/fo:language="en"/fo:language="he"/g' build/odt-ref/styles.xml
+	sed -i 's/fo:country="US"/fo:country="IL"/g' build/odt-ref/styles.xml
+
+	# Switch fonts to Noto Sans Hebrew (paragraph default + headings)
+	sed -i 's/style:font-name="Times New Roman"/style:font-name="Noto Sans Hebrew"/g' build/odt-ref/styles.xml
+	sed -i 's/style:font-name-asian="Lucida Sans Unicode"/style:font-name-asian="Noto Sans Hebrew"/g' build/odt-ref/styles.xml
+	sed -i 's/style:font-name-complex="Tahoma"/style:font-name-complex="Noto Sans Hebrew"/g' build/odt-ref/styles.xml
+	sed -i 's/style:font-name="Arial"/style:font-name="Noto Sans Hebrew"/g' build/odt-ref/styles.xml
+
+	# Start from Pandoc reference and update only styles.xml to preserve ODT packaging
+	cp build/reference.odt $@
+	zip -q -j -u $@ build/odt-ref/styles.xml
+
+# Pandoc textonly for Hebrew odt using custom style
+build/Ada_Zangemann-pandoc-text-only.he.odt: \
+ build/Ada_Zangemann-pure-profiled-text-only.he.dbk \
+ build/pandoc-reference.he.odt
+	pandoc -f docbook --reference-doc=build/pandoc-reference.he.odt -o $@ $<
 
 # Braille Ready Format
 # NOTE: lacks alt-text in output. See https://git.fsfe.org/FSFE/ada-zangemann/issues/106
