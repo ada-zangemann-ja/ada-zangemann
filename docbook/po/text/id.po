@@ -559,10 +559,18 @@ msgstr "Sebuah skateboard listrik asli buatan bapak Zangemann yang meninggalkan 
 msgid "Ada tinkers with objects in her improvised lab. Ada is sitting on an overturned water case, and working on a repair with a yellow screwdriver. Also on the table are green pliers, a red hammer, a white power strip, and another gadget. Ada is at a table consisting of a wooden board supported by two oil drums (one gray and one red) and a small wooden sawhorse. Behind Ada there are a washing machine, pipes, and a board. In front of the improvised table there are tires and an old phone with faulty wire. Alan is coming toward Ada holding a yellow fan over his head. Alan now wears white socks and yellow shoes."
 msgstr "Si gadis kecil Ada sedang mengutak-atik benda-benda di laboratorium buatannya. Ia duduk di atas sebuah kotak air yang terbalik, dan sedang memperbaiki sesuatu dengan obeng berwarna kuning. Di atas meja terdapat sebuah tang berwarna hijau, palu merah, soket listrik warna putih, dan sebuah perangkat lainnya. Si kecil Ada berada di meja yang terbuat dari papan kayu yang ditopang oleh dua buah drum minyak (satu warna abu-abu dan satu merah) serta sebuah alat pemotong kayu berukuran kecil. Sedangkan di belakangnya terdapat mesin cuci, beberapa pipa, dan sebuah papan. Kemudian, di depan meja tersebut terdapat beberapa ban dan sebuah telepon tua dengan kabel yang rusak. Alan sedang berjalan menuju Ada sambil memegang kipas angin kuning di atas kepalanya. Saat ini Alan mengenakan kaus kaki putih dan sepatu berwarna kuning."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
+#. Sentence continues in next string.
 #: Ada_Zangemann.dbk:564
-msgid "These inventions were very popular at Ada’s school, and many of her friends rode around on the cool skateboards. Ada was often sad, since her mother couldn’t buy her any of those great things: no skateboard, no speakers, no ice cream."
+#, fuzzy
+msgid "These inventions were very popular at Ada’s school, and many of her friends rode around on the cool skateboards. Ada was often sad, since her mother couldn’t buy her any of those great things:"
 msgstr "Penemuan-penemuan ini sangat populer di sekolah Ada, dan banyak teman-temannya berkeliling dengan skateboard keren itu. Ada sering sedih, karena ibunya tidak mampu membelikannya salah satu dari benda-benda hebat itu: tidak ada skateboard, tidak ada speaker, tidak ada es krim."
+
+#. (itstool) path: para/phrase
+#. Continuation of the sentence.
+#: Ada_Zangemann.dbk:564
+msgid "no skateboard, no speakers, no ice cream."
+msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:566

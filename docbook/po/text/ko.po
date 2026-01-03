@@ -546,10 +546,18 @@ msgstr "음표와 색색깔 동그라미가 춤을 추며 푸른색 잔상을 �
 msgid "Ada tinkers with objects in her improvised lab. Ada is sitting on an overturned water case, and working on a repair with a yellow screwdriver. Also on the table are green pliers, a red hammer, a white power strip, and another gadget. Ada is at a table consisting of a wooden board supported by two oil drums (one gray and one red) and a small wooden sawhorse. Behind Ada there are a washing machine, pipes, and a board. In front of the improvised table there are tires and an old phone with faulty wire. Alan is coming toward Ada holding a yellow fan over his head. Alan now wears white socks and yellow shoes."
 msgstr "에이다가 그녀의 즉석 연구실에서 물건을 만지작 거리고 있습니다. 에이다는 뒤집은 우유박스에 앉아서 노란색 드라이버로 무언가를 고치고 있습니다. 테이블 위에는 초록색 펜치와 빨간색 망치, 흰색 멀티탭 그리고 도구들이 놓여 있습니다. 에이다는 나무판으로 만들어진 책상 앞에 앉아있는데 나무판은 두개의 기름통과 (하나는 회색 하나는 빨간색) 작은 톱질용 작업대로 지지하고 있습니다. 에이다 뒤에는 세탁기, 파이프관, 판자가 놓여있습니다. 간이 테이블 앞에는 타이어들과 전선들이 헝클어진 오래된 전화기가 있습니다. 앨런이 노란색 환풍기를 머리 위로 들고 에이다에게 달려오고 있습니다. 앨런은 이제 흰색 양말과 노란색 신발을 신고 있습니다."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
+#. Sentence continues in next string.
 #: Ada_Zangemann.dbk:564
-msgid "These inventions were very popular at Ada’s school, and many of her friends rode around on the cool skateboards. Ada was often sad, since her mother couldn’t buy her any of those great things: no skateboard, no speakers, no ice cream."
+#, fuzzy
+msgid "These inventions were very popular at Ada’s school, and many of her friends rode around on the cool skateboards. Ada was often sad, since her mother couldn’t buy her any of those great things:"
 msgstr "아저씨의 발명품은 에이다의 학교에서 유행했어요. 에이다의 다른 많은 친구들이 그 멋진 스케이드보드를 타고 다녔지요. 에이다는 하지만 가끔 슬펐어요. 왜냐면 에이다의 엄마는 에이다에게 그런 멋진 것을 사줄 수 없었기 때문이에요. 멋진 스케이드보드도 스피커도 그리고 아이스크림도요..."
+
+#. (itstool) path: para/phrase
+#. Continuation of the sentence.
+#: Ada_Zangemann.dbk:564
+msgid "no skateboard, no speakers, no ice cream."
+msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:566

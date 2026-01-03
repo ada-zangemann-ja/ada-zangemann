@@ -494,10 +494,18 @@ msgstr "Ce dessin représente le passage d'un enfant à skateboard sur la page :
 msgid "Ada tinkers with objects in her improvised lab. Ada is sitting on an overturned water case, and working on a repair with a yellow screwdriver. Also on the table are green pliers, a red hammer, a white power strip, and another gadget. Ada is at a table consisting of a wooden board supported by two oil drums (one gray and one red) and a small wooden sawhorse. Behind Ada there are a washing machine, pipes, and a board. In front of the improvised table there are tires and an old phone with faulty wire. Alan is coming toward Ada holding a yellow fan over his head. Alan now wears white socks and yellow shoes."
 msgstr "Ce dessin représente Ada qui bricole dans un coin de la décharge, sur un établi fabriqué avec une planche, un tréteau et des bidons, sur lequel il y a une pince, un marteau, une multiprise et un transistor ouvert. Elle est assise sur une caisse, une jambe repliée, et répare en tirant la langue d'application un circuit électronique dans un boîtier. Autour d'elle, une vieille machine à laver, des tuyaux en fer, des pneus, un téléphone ancien démonté. Son petit frère joyeux, en t-shirt blanc à rayures rouges et short bleu, lui apporte un gros ventilateur industriel jaune."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
+#. Sentence continues in next string.
 #: Ada_Zangemann.dbk:564
-msgid "These inventions were very popular at Ada’s school, and many of her friends rode around on the cool skateboards. Ada was often sad, since her mother couldn’t buy her any of those great things: no skateboard, no speakers, no ice cream."
+#, fuzzy
+msgid "These inventions were very popular at Ada’s school, and many of her friends rode around on the cool skateboards. Ada was often sad, since her mother couldn’t buy her any of those great things:"
 msgstr "Dans l’école d’Ada aussi, ces inventions étaient très populaires et elle avait beaucoup d’amis qui se baladaient avec des skateboards super cools. Ada était souvent triste, car sa mère ne pouvait pas lui acheter toutes ces merveilleuses choses. Pas de skateboard, pas d’enceinte, pas de glace."
+
+#. (itstool) path: para/phrase
+#. Continuation of the sentence.
+#: Ada_Zangemann.dbk:564
+msgid "no skateboard, no speakers, no ice cream."
+msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:566

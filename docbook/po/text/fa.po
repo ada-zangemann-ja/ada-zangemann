@@ -559,10 +559,18 @@ msgstr "اسکیت‌برد الکتریکی اصلی زنگِمن که ردی �
 msgid "Ada tinkers with objects in her improvised lab. Ada is sitting on an overturned water case, and working on a repair with a yellow screwdriver. Also on the table are green pliers, a red hammer, a white power strip, and another gadget. Ada is at a table consisting of a wooden board supported by two oil drums (one gray and one red) and a small wooden sawhorse. Behind Ada there are a washing machine, pipes, and a board. In front of the improvised table there are tires and an old phone with faulty wire. Alan is coming toward Ada holding a yellow fan over his head. Alan now wears white socks and yellow shoes."
 msgstr "اِدا در آزمایشگاه غیرموفقش به اشیاء مشغول دست‌کاری است. اِدا روی یک ظرف آب واژگون نشسته و با یک پیچ‌گوشتی زرد در حال تعمیر است. روی میز همچنین انبردست سبز، چکش قرمز، یک چندراهی سفید و یک دستگاه دیگر وجود دارد. اِدا روی میزی نشسته که از یک تخته چوبی تشکیل شده و بر روی دو بشکه روغن (یکی خاکستری و یکی قرمز) و یک گهواره چوبی کوچک قرار دارد. پشت اِدا، یک ماشین لباسشویی، لوله‌ها و یک تخته وجود دارد. در مقابل میز غیرموفق، لاستیک‌ها و یک تلفن قدیمی با سیم معیوب قرار دارد. آلن به سمت اِدا می‌آید و یک پنکه زرد را بالای سرش نگه داشته است. آلن اکنون جوراب‌های سفیدی به پا و کفش‌های زردی پوشیده است."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
+#. Sentence continues in next string.
 #: Ada_Zangemann.dbk:564
-msgid "These inventions were very popular at Ada’s school, and many of her friends rode around on the cool skateboards. Ada was often sad, since her mother couldn’t buy her any of those great things: no skateboard, no speakers, no ice cream."
+#, fuzzy
+msgid "These inventions were very popular at Ada’s school, and many of her friends rode around on the cool skateboards. Ada was often sad, since her mother couldn’t buy her any of those great things:"
 msgstr "این اختراعات در مدرسه اِدا بسیار محبوب بودند و بسیاری از دوستانش با اسکیت‌بوردهای باحال اینور و اونور می‌رفتند. اِدا اغلب ناراحت بود، چون مادرش نمی‌توانست هیچ‌کدام از آن وسایل عالی را برایش بخرد: نه اسکیت‌بورد، نه اسپیکر، نه بستنی."
+
+#. (itstool) path: para/phrase
+#. Continuation of the sentence.
+#: Ada_Zangemann.dbk:564
+msgid "no skateboard, no speakers, no ice cream."
+msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:566
