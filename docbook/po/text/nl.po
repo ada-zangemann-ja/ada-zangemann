@@ -565,15 +565,45 @@ msgstr "Ze vond ook veel nuttige dingen zoals een oude mobiele telefoon. Het sch
 msgid "Ada had so much fun tinkering in the junkyard and fixing broken things that she forgot all about the skateboards and the ice cream."
 msgstr "Ada genoot van het sleutelen op de schroothoop en het repareren van kapotte dingen. Ze dacht niet meer aan de skateboards en het ijs."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:571
-msgid "Because everyone bought his inventions, Zangemann soon became the richest person in the whole world. With all his money, he bought a huge golden computer with a keyboard made of jewels and set it up in the largest room of his mansion. From there, over the internet, he could control all the little computers built into his inventions."
-msgstr "Omdat iedereen zijn uitvindingen kocht, werd Zangemann snel de rijkste persoon ter wereld. Met het geld kocht hij een gigantische gouden computer met een toetsenbord gemaakt van juwelen. Hij zette het in de grootste kamer van zijn landhuis. Daarvandaan kon hij, via het internet, alle kleine computers besturen die in zijn uitvindingen zaten gebouwd."
+msgid "Because everyone bought his inventions, Zangemann soon became the richest person in the whole world."
+msgstr ""
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:571
+msgid "With all his money, he bought a huge golden computer with a keyboard made of jewels and set it up in the largest room of his mansion."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:571
+msgid "From there, over the internet, he could control all the little computers built into his inventions."
+msgstr ""
+
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:572
-msgid "All he had to do was press the proper key on the golden computer, and immediately all the ice-cream machines in town would dispense only vanilla ice cream. If Zangemann wanted people to eat chocolate ice cream, he pressed the key for chocolate ice cream. If he gave the order for lemon ice cream, the machines made only lemon ice cream. Zangemann loved his inventions and was always thrilled at how amazingly well his machines worked. Sometimes people were disappointed when their favorite flavor wasn’t available, but what could they do? After all, there was ice cream on every street corner."
-msgstr "Hij hoefde alleen maar op de juiste toets van zijn gouden computer te drukken en meteen zouden alle ijsjesmachines in de stad alleen nog maar vanille-ijs uitgeven. Als Zangemann wilde dat mensen chocolade-ijs zouden eten, drukte hij op de knop voor chocolade-ijs. Als hij de opdracht gaf voor citroenijs, maakten de machines alleen citroenijs. Zangemann hield van zijn uitvindingen en was altijd opgewonden over hoe geweldig goed zijn machines werkten. Soms waren mensen teleurgesteld dat hun favoriete ijssmaak niet beschikbaar was, maar wat konden ze doen? Er was tenslotte ijs op elke straathoek."
+msgid "All he had to do was press the proper key on the golden computer, and immediately all the ice-cream machines in town would dispense only vanilla ice cream."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:572
+msgid "If Zangemann wanted people to eat chocolate ice cream, he pressed the key for chocolate ice cream."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:572
+msgid "If he gave the order for lemon ice cream, the machines made only lemon ice cream."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:572
+msgid "Zangemann loved his inventions and was always thrilled at how amazingly well his machines worked."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:572
+msgid "Sometimes people were disappointed when their favorite flavor wasn’t available, but what could they do? After all, there was ice cream on every street corner."
+msgstr ""
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1384,3 +1414,9 @@ msgstr ""
 #: Ada_Zangemann.dbk:1139
 msgid "Three hands that hold as many empty ice cream cones, to draw and color. In the air above the middle cone is an umbrella."
 msgstr "Drie handen die net zo veel lege ijshoorntjes vasthouden om op te tekenen en te kleuren. In de lucht boven het middelste hoorntje is een parapluutje."
+
+#~ msgid "Because everyone bought his inventions, Zangemann soon became the richest person in the whole world. With all his money, he bought a huge golden computer with a keyboard made of jewels and set it up in the largest room of his mansion. From there, over the internet, he could control all the little computers built into his inventions."
+#~ msgstr "Omdat iedereen zijn uitvindingen kocht, werd Zangemann snel de rijkste persoon ter wereld. Met het geld kocht hij een gigantische gouden computer met een toetsenbord gemaakt van juwelen. Hij zette het in de grootste kamer van zijn landhuis. Daarvandaan kon hij, via het internet, alle kleine computers besturen die in zijn uitvindingen zaten gebouwd."
+
+#~ msgid "All he had to do was press the proper key on the golden computer, and immediately all the ice-cream machines in town would dispense only vanilla ice cream. If Zangemann wanted people to eat chocolate ice cream, he pressed the key for chocolate ice cream. If he gave the order for lemon ice cream, the machines made only lemon ice cream. Zangemann loved his inventions and was always thrilled at how amazingly well his machines worked. Sometimes people were disappointed when their favorite flavor wasn’t available, but what could they do? After all, there was ice cream on every street corner."
+#~ msgstr "Hij hoefde alleen maar op de juiste toets van zijn gouden computer te drukken en meteen zouden alle ijsjesmachines in de stad alleen nog maar vanille-ijs uitgeven. Als Zangemann wilde dat mensen chocolade-ijs zouden eten, drukte hij op de knop voor chocolade-ijs. Als hij de opdracht gaf voor citroenijs, maakten de machines alleen citroenijs. Zangemann hield van zijn uitvindingen en was altijd opgewonden over hoe geweldig goed zijn machines werkten. Soms waren mensen teleurgesteld dat hun favoriete ijssmaak niet beschikbaar was, maar wat konden ze doen? Er was tenslotte ijs op elke straathoek."

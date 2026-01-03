@@ -514,15 +514,45 @@ msgstr "Sie fand auch viele nützliche Gegenstände – ein altes Handy zum Beis
 msgid "Ada had so much fun tinkering in the junkyard and fixing broken things that she forgot all about the skateboards and the ice cream."
 msgstr "Es machte Ada so viel Spaß, auf dem Schrottplatz zu basteln und kaputte Dinge zu reparieren, dass sie die Skateboards und das Eis darüber ganz vergaß."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:571
-msgid "Because everyone bought his inventions, Zangemann soon became the richest person in the whole world. With all his money, he bought a huge golden computer with a keyboard made of jewels and set it up in the largest room of his mansion. From there, over the internet, he could control all the little computers built into his inventions."
-msgstr "Weil alle seine Erfindungen kauften, war Zangemann bald der reichste Mensch auf der ganzen Welt. Von seinem vielen Geld kaufte er einen riesigen goldenen Computer mit einer Tastatur aus Edelsteinen und stellte ihn im größten Saal seiner Villa auf. Von hier aus steuerte er über das Internet all die kleinen Computer, die in seine Erfindungen eingebaut waren."
+msgid "Because everyone bought his inventions, Zangemann soon became the richest person in the whole world."
+msgstr ""
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:571
+msgid "With all his money, he bought a huge golden computer with a keyboard made of jewels and set it up in the largest room of his mansion."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:571
+msgid "From there, over the internet, he could control all the little computers built into his inventions."
+msgstr ""
+
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:572
-msgid "All he had to do was press the proper key on the golden computer, and immediately all the ice-cream machines in town would dispense only vanilla ice cream. If Zangemann wanted people to eat chocolate ice cream, he pressed the key for chocolate ice cream. If he gave the order for lemon ice cream, the machines made only lemon ice cream. Zangemann loved his inventions and was always thrilled at how amazingly well his machines worked. Sometimes people were disappointed when their favorite flavor wasn’t available, but what could they do? After all, there was ice cream on every street corner."
-msgstr "Er brauchte nur die richtigen Tasten am goldenen Computer zu drücken, und sofort gaben alle Eismaschinen in der Stadt nur noch Vanilleeis aus. Wenn Zangemann wollte, dass die Menschen Schokoladeneis aßen, drückte er die Tastenkombination für Schokoladeneis. Gab er den Befehl für Zitroneneis, dann produzierten die Maschinen nur noch Zitroneneis. Zangemann liebte seine Erfindungen und war jedes Mal begeistert, wie fantastisch seine Maschinen funktionierten. Manchmal waren die Menschen enttäuscht, wenn es nicht ihre Lieblingssorte gab, aber was sollten sie tun? Immerhin gab es an jeder Straßenecke Eis."
+msgid "All he had to do was press the proper key on the golden computer, and immediately all the ice-cream machines in town would dispense only vanilla ice cream."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:572
+msgid "If Zangemann wanted people to eat chocolate ice cream, he pressed the key for chocolate ice cream."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:572
+msgid "If he gave the order for lemon ice cream, the machines made only lemon ice cream."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:572
+msgid "Zangemann loved his inventions and was always thrilled at how amazingly well his machines worked."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:572
+msgid "Sometimes people were disappointed when their favorite flavor wasn’t available, but what could they do? After all, there was ice cream on every street corner."
+msgstr ""
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1316,3 +1346,9 @@ msgstr "Lass dir ein paar leckere, lustige oder verrückte Eissorten einfallen u
 #: Ada_Zangemann.dbk:1139
 msgid "Three hands that hold as many empty ice cream cones, to draw and color. In the air above the middle cone is an umbrella."
 msgstr ""
+
+#~ msgid "Because everyone bought his inventions, Zangemann soon became the richest person in the whole world. With all his money, he bought a huge golden computer with a keyboard made of jewels and set it up in the largest room of his mansion. From there, over the internet, he could control all the little computers built into his inventions."
+#~ msgstr "Weil alle seine Erfindungen kauften, war Zangemann bald der reichste Mensch auf der ganzen Welt. Von seinem vielen Geld kaufte er einen riesigen goldenen Computer mit einer Tastatur aus Edelsteinen und stellte ihn im größten Saal seiner Villa auf. Von hier aus steuerte er über das Internet all die kleinen Computer, die in seine Erfindungen eingebaut waren."
+
+#~ msgid "All he had to do was press the proper key on the golden computer, and immediately all the ice-cream machines in town would dispense only vanilla ice cream. If Zangemann wanted people to eat chocolate ice cream, he pressed the key for chocolate ice cream. If he gave the order for lemon ice cream, the machines made only lemon ice cream. Zangemann loved his inventions and was always thrilled at how amazingly well his machines worked. Sometimes people were disappointed when their favorite flavor wasn’t available, but what could they do? After all, there was ice cream on every street corner."
+#~ msgstr "Er brauchte nur die richtigen Tasten am goldenen Computer zu drücken, und sofort gaben alle Eismaschinen in der Stadt nur noch Vanilleeis aus. Wenn Zangemann wollte, dass die Menschen Schokoladeneis aßen, drückte er die Tastenkombination für Schokoladeneis. Gab er den Befehl für Zitroneneis, dann produzierten die Maschinen nur noch Zitroneneis. Zangemann liebte seine Erfindungen und war jedes Mal begeistert, wie fantastisch seine Maschinen funktionierten. Manchmal waren die Menschen enttäuscht, wenn es nicht ihre Lieblingssorte gab, aber was sollten sie tun? Immerhin gab es an jeder Straßenecke Eis."

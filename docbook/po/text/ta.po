@@ -513,15 +513,45 @@ msgstr "பல பயனுள்ள பொருட்களையும் அ
 msgid "Ada had so much fun tinkering in the junkyard and fixing broken things that she forgot all about the skateboards and the ice cream."
 msgstr "அடா மிகவும் வேடிக்கையாக இருந்தார், மேலும் சன்கியார்டில் டிங்கரிங் மற்றும் உடைந்த விசயங்களை சரிசெய்தார், ச்கேட்போர்டுகள் மற்றும் ஐச்கிரீம் பற்றி எல்லாவற்றையும் மறந்துவிட்டார்."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:571
-msgid "Because everyone bought his inventions, Zangemann soon became the richest person in the whole world. With all his money, he bought a huge golden computer with a keyboard made of jewels and set it up in the largest room of his mansion. From there, over the internet, he could control all the little computers built into his inventions."
-msgstr "எல்லோரும் அவரது கண்டுபிடிப்புகளை வாங்கியதால், சாங்கேமன் விரைவில் உலகெங்கிலும் பணக்காரராக ஆனார். தனது எல்லா பணத்துடனும், அவர் நகைகளால் ஆன விசைப்பலகை கொண்ட ஒரு பெரிய தங்க கணினியை வாங்கி தனது மாளிகையின் மிகப்பெரிய அறையில் அமைத்தார். அங்கிருந்து, இணையத்தில், அவர் தனது கண்டுபிடிப்புகளில் கட்டமைக்கப்பட்ட அனைத்து சிறிய கணினிகளையும் கட்டுப்படுத்த முடியும்."
+msgid "Because everyone bought his inventions, Zangemann soon became the richest person in the whole world."
+msgstr ""
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:571
+msgid "With all his money, he bought a huge golden computer with a keyboard made of jewels and set it up in the largest room of his mansion."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:571
+msgid "From there, over the internet, he could control all the little computers built into his inventions."
+msgstr ""
+
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:572
-msgid "All he had to do was press the proper key on the golden computer, and immediately all the ice-cream machines in town would dispense only vanilla ice cream. If Zangemann wanted people to eat chocolate ice cream, he pressed the key for chocolate ice cream. If he gave the order for lemon ice cream, the machines made only lemon ice cream. Zangemann loved his inventions and was always thrilled at how amazingly well his machines worked. Sometimes people were disappointed when their favorite flavor wasn’t available, but what could they do? After all, there was ice cream on every street corner."
-msgstr "அவர் செய்ய வேண்டியதெல்லாம் கோல்டன் கம்ப்யூட்டரில் சரியான விசையை அழுத்துவதுதான், உடனடியாக நகரத்தில் உள்ள அனைத்து ஐச்கிரீம் இயந்திரங்களும் வெண்ணிலா ஐச்கிரீமை மட்டுமே வழங்கும். மக்கள் சாக்லேட் ஐச்கிரீம் சாப்பிட வேண்டும் என்று சாங்கேமன் விரும்பினால், அவர் சாக்லேட் ஐச்கிரீமுக்கான விசையை அழுத்தினார். எலுமிச்சை ஐச்கிரீமுக்கு அவர் ஆர்டர் கொடுத்தால், இயந்திரங்கள் எலுமிச்சை ஐச்கிரீமை மட்டுமே செய்தன. சாங்கேமன் தனது கண்டுபிடிப்புகளை நேசித்தார், மேலும் அவரது இயந்திரங்கள் எவ்வளவு அதிசயமாக வேலை செய்தன என்று எப்போதும் மகிழ்ச்சியடைந்தார். சில நேரங்களில் மக்கள் தங்களுக்கு பிடித்த சுவை கிடைக்காதபோது ஏமாற்றமடைந்தனர், ஆனால் அவர்களால் என்ன செய்ய முடியும்? எல்லாவற்றிற்கும் மேலாக, ஒவ்வொரு தெரு மூலையிலும் ஐச்கிரீம் இருந்தது."
+msgid "All he had to do was press the proper key on the golden computer, and immediately all the ice-cream machines in town would dispense only vanilla ice cream."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:572
+msgid "If Zangemann wanted people to eat chocolate ice cream, he pressed the key for chocolate ice cream."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:572
+msgid "If he gave the order for lemon ice cream, the machines made only lemon ice cream."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:572
+msgid "Zangemann loved his inventions and was always thrilled at how amazingly well his machines worked."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:572
+msgid "Sometimes people were disappointed when their favorite flavor wasn’t available, but what could they do? After all, there was ice cream on every street corner."
+msgstr ""
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1341,6 +1371,12 @@ msgstr "சில சுவையான, வேடிக்கையான, அ�
 #: Ada_Zangemann.dbk:1139
 msgid "Three hands that hold as many empty ice cream cones, to draw and color. In the air above the middle cone is an umbrella."
 msgstr "நடுத்தர கூம்புக்கு மேலே உள்ள காற்றில் ஒரு குடை உள்ளது."
+
+#~ msgid "Because everyone bought his inventions, Zangemann soon became the richest person in the whole world. With all his money, he bought a huge golden computer with a keyboard made of jewels and set it up in the largest room of his mansion. From there, over the internet, he could control all the little computers built into his inventions."
+#~ msgstr "எல்லோரும் அவரது கண்டுபிடிப்புகளை வாங்கியதால், சாங்கேமன் விரைவில் உலகெங்கிலும் பணக்காரராக ஆனார். தனது எல்லா பணத்துடனும், அவர் நகைகளால் ஆன விசைப்பலகை கொண்ட ஒரு பெரிய தங்க கணினியை வாங்கி தனது மாளிகையின் மிகப்பெரிய அறையில் அமைத்தார். அங்கிருந்து, இணையத்தில், அவர் தனது கண்டுபிடிப்புகளில் கட்டமைக்கப்பட்ட அனைத்து சிறிய கணினிகளையும் கட்டுப்படுத்த முடியும்."
+
+#~ msgid "All he had to do was press the proper key on the golden computer, and immediately all the ice-cream machines in town would dispense only vanilla ice cream. If Zangemann wanted people to eat chocolate ice cream, he pressed the key for chocolate ice cream. If he gave the order for lemon ice cream, the machines made only lemon ice cream. Zangemann loved his inventions and was always thrilled at how amazingly well his machines worked. Sometimes people were disappointed when their favorite flavor wasn’t available, but what could they do? After all, there was ice cream on every street corner."
+#~ msgstr "அவர் செய்ய வேண்டியதெல்லாம் கோல்டன் கம்ப்யூட்டரில் சரியான விசையை அழுத்துவதுதான், உடனடியாக நகரத்தில் உள்ள அனைத்து ஐச்கிரீம் இயந்திரங்களும் வெண்ணிலா ஐச்கிரீமை மட்டுமே வழங்கும். மக்கள் சாக்லேட் ஐச்கிரீம் சாப்பிட வேண்டும் என்று சாங்கேமன் விரும்பினால், அவர் சாக்லேட் ஐச்கிரீமுக்கான விசையை அழுத்தினார். எலுமிச்சை ஐச்கிரீமுக்கு அவர் ஆர்டர் கொடுத்தால், இயந்திரங்கள் எலுமிச்சை ஐச்கிரீமை மட்டுமே செய்தன. சாங்கேமன் தனது கண்டுபிடிப்புகளை நேசித்தார், மேலும் அவரது இயந்திரங்கள் எவ்வளவு அதிசயமாக வேலை செய்தன என்று எப்போதும் மகிழ்ச்சியடைந்தார். சில நேரங்களில் மக்கள் தங்களுக்கு பிடித்த சுவை கிடைக்காதபோது ஏமாற்றமடைந்தனர், ஆனால் அவர்களால் என்ன செய்ய முடியும்? எல்லாவற்றிற்கும் மேலாக, ஒவ்வொரு தெரு மூலையிலும் ஐச்கிரீம் இருந்தது."
 
 #~ msgid "[[IDX: toc:Table of Contents text:Text cover:Cover other.titlepage:Front Cover chapter-01,cover:Front Cover chapter-02,page_02:Imprint chapter-03,page_04:Ada & Zangemann chapter-04,page_06:Zangemann and computers chapter-05,page_13:One day...  chapter-06,page_18:Skateboards no longer work chapter-07,page_20:Ada and software chapter-08,page_22:Programming chapter-09,page_25:A horrible night chapter-10,page_26:First real project chapter-11,page_30:Hacking for freedom chapter-12,page_36:Zangemann and the President chapter-13,page_39:Protest chapter-14,page_42:Children help the government chapter-15,page_44:New law chapter-16,page_48:And Zangemann? chapter-17,page_50:Acknowledgments chapter-18,page_52:About the Author - Matthias Kirschner chapter-19,page_53:About the Illustrator - Sandra Brandstätter chapter-20,page_54:Website for the book and license chapter-21,page_55:Drawing templates chapter-22,back_cover:Back cover and synopsis ]]"
 #~ msgstr ". . அத்தியாயம் -10, பக்கம்_26: முதல் உண்மையான திட்டம் அத்தியாயம் -11, பக்கம்_30: சுதந்திரத்திற்கான ஏக்கிங் அத்தியாயம் -12, பக்கம்_36: சாங்கேமன் மற்றும் குடியரசுத் தலைவர் அத்தியாயம் -13, பக்கம்_39: எதிர்ப்பு அத்தியாயம் -14, பக்கம்_42: குழந்தைகள் அரசாங்கத்திற்கு உதவி அத்தியாயம் -15, பக்கம்_44 : புதிய சட்டம் அத்தியாயம் -16, பக்கம்_48: மற்றும் சாங்கேமன்? அத்தியாயம் -17, பக்கம்_50: ஒப்புதல்கள் அத்தியாயம் -18, பக்கம்_52: ஆசிரியரைப் பற்றி-மத்தியாச் கிர்ச்னர் பாடம் -19, பக்கம்_53: விளக்கப்படத்தைப் பற்றி-சாண்ட்ரா பிராண்ட்ச்டாட்டர் அத்தியாயம் -20, பக்கம்_54: நூல் மற்றும் உரிமத்திற்கான வலைத்தளம் அத்தியாயம் -21, பக்கம்_55: வரைதல் வார்ப்புருக்கள் அத்தியாயம் -22, பின்_கவர்: பின் கவர் மற்றும் சுருக்கம்]]]"

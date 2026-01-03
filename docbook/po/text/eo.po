@@ -562,15 +562,45 @@ msgstr "Ŝi ankaŭ trovis multajn utilajn objektojn - ekzemple malnovan poŝtele
 msgid "Ada had so much fun tinkering in the junkyard and fixing broken things that she forgot all about the skateboards and the ice cream."
 msgstr "Ada tiom amuziĝis riparante en la rubejo kaj riparante rompitajn aĵojn, ke ŝi tute forgesis pri la rultabuloj kaj la glaciaĵo."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:571
-msgid "Because everyone bought his inventions, Zangemann soon became the richest person in the whole world. With all his money, he bought a huge golden computer with a keyboard made of jewels and set it up in the largest room of his mansion. From there, over the internet, he could control all the little computers built into his inventions."
-msgstr "Ĉar ĉiuj aĉetis liajn inventaĵojn, Zangemann baldaŭ fariĝis la plej riĉa homo en la tuta mondo. Per sia tuta mono, li aĉetis grandegan oran komputilon kun klavaro farita el juveloj kaj instalis ĝin en la plej granda ĉambro de sia domego. De tie, per la interreto, li povis regi ĉiujn malgrandajn komputilojn enigitajn en liajn inventaĵojn."
+msgid "Because everyone bought his inventions, Zangemann soon became the richest person in the whole world."
+msgstr ""
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:571
+msgid "With all his money, he bought a huge golden computer with a keyboard made of jewels and set it up in the largest room of his mansion."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:571
+msgid "From there, over the internet, he could control all the little computers built into his inventions."
+msgstr ""
+
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:572
-msgid "All he had to do was press the proper key on the golden computer, and immediately all the ice-cream machines in town would dispense only vanilla ice cream. If Zangemann wanted people to eat chocolate ice cream, he pressed the key for chocolate ice cream. If he gave the order for lemon ice cream, the machines made only lemon ice cream. Zangemann loved his inventions and was always thrilled at how amazingly well his machines worked. Sometimes people were disappointed when their favorite flavor wasn’t available, but what could they do? After all, there was ice cream on every street corner."
-msgstr "Li nur devis premi la ĝustan klavon sur la ora komputilo kaj tuj ĉiuj glaciaĵmaŝinoj en la urbo liverus nur vanilan glaciaĵon. Se Zangemann volis, ke homoj manĝu ĉokoladan glaciaĵon, li premis la klavon por ĉokolada glaciaĵo. Se li mendis citronan glaciaĵon, la maŝinoj faris nur citronan glaciaĵon. Zangemann amis siajn inventaĵojn kaj ĉiam estis ravita pri tio, kiel mirinde bone funkciis liaj maŝinoj. Foje homoj seniluziiĝis, kiam ilia plej ŝatata gusto ne estis havebla, sed kion ili povis fari? Fine, glaciaĵo troviĝis ĉe ĉiu stratangulo."
+msgid "All he had to do was press the proper key on the golden computer, and immediately all the ice-cream machines in town would dispense only vanilla ice cream."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:572
+msgid "If Zangemann wanted people to eat chocolate ice cream, he pressed the key for chocolate ice cream."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:572
+msgid "If he gave the order for lemon ice cream, the machines made only lemon ice cream."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:572
+msgid "Zangemann loved his inventions and was always thrilled at how amazingly well his machines worked."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:572
+msgid "Sometimes people were disappointed when their favorite flavor wasn’t available, but what could they do? After all, there was ice cream on every street corner."
+msgstr ""
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1362,3 +1392,9 @@ msgstr ""
 #: Ada_Zangemann.dbk:1139
 msgid "Three hands that hold as many empty ice cream cones, to draw and color. In the air above the middle cone is an umbrella."
 msgstr "Tri manoj kiuj tenas tiom da malplenaj glaciaĵkonusoj, por desegni kaj kolorigi. En la aero super la meza konuso estas ombrelo."
+
+#~ msgid "Because everyone bought his inventions, Zangemann soon became the richest person in the whole world. With all his money, he bought a huge golden computer with a keyboard made of jewels and set it up in the largest room of his mansion. From there, over the internet, he could control all the little computers built into his inventions."
+#~ msgstr "Ĉar ĉiuj aĉetis liajn inventaĵojn, Zangemann baldaŭ fariĝis la plej riĉa homo en la tuta mondo. Per sia tuta mono, li aĉetis grandegan oran komputilon kun klavaro farita el juveloj kaj instalis ĝin en la plej granda ĉambro de sia domego. De tie, per la interreto, li povis regi ĉiujn malgrandajn komputilojn enigitajn en liajn inventaĵojn."
+
+#~ msgid "All he had to do was press the proper key on the golden computer, and immediately all the ice-cream machines in town would dispense only vanilla ice cream. If Zangemann wanted people to eat chocolate ice cream, he pressed the key for chocolate ice cream. If he gave the order for lemon ice cream, the machines made only lemon ice cream. Zangemann loved his inventions and was always thrilled at how amazingly well his machines worked. Sometimes people were disappointed when their favorite flavor wasn’t available, but what could they do? After all, there was ice cream on every street corner."
+#~ msgstr "Li nur devis premi la ĝustan klavon sur la ora komputilo kaj tuj ĉiuj glaciaĵmaŝinoj en la urbo liverus nur vanilan glaciaĵon. Se Zangemann volis, ke homoj manĝu ĉokoladan glaciaĵon, li premis la klavon por ĉokolada glaciaĵo. Se li mendis citronan glaciaĵon, la maŝinoj faris nur citronan glaciaĵon. Zangemann amis siajn inventaĵojn kaj ĉiam estis ravita pri tio, kiel mirinde bone funkciis liaj maŝinoj. Foje homoj seniluziiĝis, kiam ilia plej ŝatata gusto ne estis havebla, sed kion ili povis fari? Fine, glaciaĵo troviĝis ĉe ĉiu stratangulo."

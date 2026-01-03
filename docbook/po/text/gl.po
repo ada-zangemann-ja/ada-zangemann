@@ -520,15 +520,45 @@ msgstr "Tamén atopaba moitos obxectos útiles, como por exemplo un móbil vello
 msgid "Ada had so much fun tinkering in the junkyard and fixing broken things that she forgot all about the skateboards and the ice cream."
 msgstr "Ada pasábao tan ben enredando na chatarraría e arranxando cousas estragadas que se esqueceu por completo dos monopatíns e do xeado."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:571
-msgid "Because everyone bought his inventions, Zangemann soon became the richest person in the whole world. With all his money, he bought a huge golden computer with a keyboard made of jewels and set it up in the largest room of his mansion. From there, over the internet, he could control all the little computers built into his inventions."
-msgstr "Como todo o mundo mercaba as súas invencións, Zangemann axiña se converteu na persoa máis rica do mundo. Con todos os seus cartos comprou un enorme computador dourado cun teclado feito de xoias e instalouno na sala máis grande da súa mansión. Desde alí, a través de Internet, podía controlar todos os pequenos computadores integrados nos seus inventos."
+msgid "Because everyone bought his inventions, Zangemann soon became the richest person in the whole world."
+msgstr ""
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:571
+msgid "With all his money, he bought a huge golden computer with a keyboard made of jewels and set it up in the largest room of his mansion."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:571
+msgid "From there, over the internet, he could control all the little computers built into his inventions."
+msgstr ""
+
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:572
-msgid "All he had to do was press the proper key on the golden computer, and immediately all the ice-cream machines in town would dispense only vanilla ice cream. If Zangemann wanted people to eat chocolate ice cream, he pressed the key for chocolate ice cream. If he gave the order for lemon ice cream, the machines made only lemon ice cream. Zangemann loved his inventions and was always thrilled at how amazingly well his machines worked. Sometimes people were disappointed when their favorite flavor wasn’t available, but what could they do? After all, there was ice cream on every street corner."
-msgstr "Só tiña que premer a tecla axeitada no computador dourado e, de inmediato, todas as máquinas de xeado da cidade só daban xeado de vainilla. Se Zangemann quería que a xente comese xeado de chocolate, premía a tecla do xeado de chocolate. Se daba a orde de xeado de limón, as máquinas facían só xeado de limón. A Zangemann encantábanlle os seus inventos e sempre se emocionaba ao ver o incriblemente ben que funcionaban as súas máquinas. Ás veces a xente sentíase decepcionada cando o seu sabor favorito non estaba dispoñible, pero que podían facer? Ao fin e ao cabo, había xeado en cada esquina."
+msgid "All he had to do was press the proper key on the golden computer, and immediately all the ice-cream machines in town would dispense only vanilla ice cream."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:572
+msgid "If Zangemann wanted people to eat chocolate ice cream, he pressed the key for chocolate ice cream."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:572
+msgid "If he gave the order for lemon ice cream, the machines made only lemon ice cream."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:572
+msgid "Zangemann loved his inventions and was always thrilled at how amazingly well his machines worked."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:572
+msgid "Sometimes people were disappointed when their favorite flavor wasn’t available, but what could they do? After all, there was ice cream on every street corner."
+msgstr ""
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1315,3 +1345,9 @@ msgstr ""
 #: Ada_Zangemann.dbk:1139
 msgid "Three hands that hold as many empty ice cream cones, to draw and color. In the air above the middle cone is an umbrella."
 msgstr "Tres mans que sosteñen outros tantos cornetes de xeado baleiros, para debuxar e colorear. No aire, enriba do cornete central, hai un paraugas."
+
+#~ msgid "Because everyone bought his inventions, Zangemann soon became the richest person in the whole world. With all his money, he bought a huge golden computer with a keyboard made of jewels and set it up in the largest room of his mansion. From there, over the internet, he could control all the little computers built into his inventions."
+#~ msgstr "Como todo o mundo mercaba as súas invencións, Zangemann axiña se converteu na persoa máis rica do mundo. Con todos os seus cartos comprou un enorme computador dourado cun teclado feito de xoias e instalouno na sala máis grande da súa mansión. Desde alí, a través de Internet, podía controlar todos os pequenos computadores integrados nos seus inventos."
+
+#~ msgid "All he had to do was press the proper key on the golden computer, and immediately all the ice-cream machines in town would dispense only vanilla ice cream. If Zangemann wanted people to eat chocolate ice cream, he pressed the key for chocolate ice cream. If he gave the order for lemon ice cream, the machines made only lemon ice cream. Zangemann loved his inventions and was always thrilled at how amazingly well his machines worked. Sometimes people were disappointed when their favorite flavor wasn’t available, but what could they do? After all, there was ice cream on every street corner."
+#~ msgstr "Só tiña que premer a tecla axeitada no computador dourado e, de inmediato, todas as máquinas de xeado da cidade só daban xeado de vainilla. Se Zangemann quería que a xente comese xeado de chocolate, premía a tecla do xeado de chocolate. Se daba a orde de xeado de limón, as máquinas facían só xeado de limón. A Zangemann encantábanlle os seus inventos e sempre se emocionaba ao ver o incriblemente ben que funcionaban as súas máquinas. Ás veces a xente sentíase decepcionada cando o seu sabor favorito non estaba dispoñible, pero que podían facer? Ao fin e ao cabo, había xeado en cada esquina."

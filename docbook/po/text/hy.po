@@ -513,15 +513,45 @@ msgstr "Նա նաեւ գտնում էր արժէքաւոր իրեր՝ հին բ�
 msgid "Ada had so much fun tinkering in the junkyard and fixing broken things that she forgot all about the skateboards and the ice cream."
 msgstr "Ադան այնքան էր զուարճանում թափառել֊սարքելով աղբանոցում, եւ վերանորոգելով ջարդուած բաները, որ նա լրիւ մոռանում էր այդ ողջ սքեյթներն ու պաղպաղակները։"
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:571
-msgid "Because everyone bought his inventions, Zangemann soon became the richest person in the whole world. With all his money, he bought a huge golden computer with a keyboard made of jewels and set it up in the largest room of his mansion. From there, over the internet, he could control all the little computers built into his inventions."
-msgstr "Քանի որ բոլորն առնում էին իր գիւտերը, Զանգեմանը շատ արագ դարձավ աշխարհի ամենահարուստ մարդը։ Իր գումարներով, նա գնեց մեծ ոսկեայ կարգիչ՝ ստեղնաշարերը զարդերով, եւ կարգաւորեց այն իր առանձնատան ամենամեծ սենեակում։ Այնտեղից, ինտերնետով նա կարող էր կառավարել բոլոր փոքր կարգիչները, որ իր գիւտերի ներսում էին։"
+msgid "Because everyone bought his inventions, Zangemann soon became the richest person in the whole world."
+msgstr ""
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:571
+msgid "With all his money, he bought a huge golden computer with a keyboard made of jewels and set it up in the largest room of his mansion."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:571
+msgid "From there, over the internet, he could control all the little computers built into his inventions."
+msgstr ""
+
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:572
-msgid "All he had to do was press the proper key on the golden computer, and immediately all the ice-cream machines in town would dispense only vanilla ice cream. If Zangemann wanted people to eat chocolate ice cream, he pressed the key for chocolate ice cream. If he gave the order for lemon ice cream, the machines made only lemon ice cream. Zangemann loved his inventions and was always thrilled at how amazingly well his machines worked. Sometimes people were disappointed when their favorite flavor wasn’t available, but what could they do? After all, there was ice cream on every street corner."
-msgstr "Իրենից պահանջւում էր միայն սեղմել կոճակ իր ոսկեայ համակարգչի վրայի եւ միանգամից իր բոլոր պաղպաղակի մեքենաները կտային միայն վանիլային պաղպաղակ։ Եթէ Զանգեմանն ուզեր, որ մարդիկ ուտեն շոկոլադէ պաղպաղակ, նա կսեղմեր կոճակ դրա համար։ Եթե ուզեր լիմոնով պաղպաղակ, մեքենաները կպատրաստէին միայն լիմոնով պաղպաղակ։ Զանգեմանը սիրում էր իր նորարարութիւնները, եւ միշտ յուզւում էր, թե ինչ հիանալի են իր մեքենաները աշխատում։ Երբեմն մարդիկ հիասթափւում էին, երբ իրենց սիրած համը հասանելի չէր, բայց ի՞նչ կարող էին անել։ Գոնէ ամեն փողոցի անկիւնում պաղպաղակ կար։"
+msgid "All he had to do was press the proper key on the golden computer, and immediately all the ice-cream machines in town would dispense only vanilla ice cream."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:572
+msgid "If Zangemann wanted people to eat chocolate ice cream, he pressed the key for chocolate ice cream."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:572
+msgid "If he gave the order for lemon ice cream, the machines made only lemon ice cream."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:572
+msgid "Zangemann loved his inventions and was always thrilled at how amazingly well his machines worked."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:572
+msgid "Sometimes people were disappointed when their favorite flavor wasn’t available, but what could they do? After all, there was ice cream on every street corner."
+msgstr ""
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1311,3 +1341,9 @@ msgstr ""
 #: Ada_Zangemann.dbk:1139
 msgid "Three hands that hold as many empty ice cream cones, to draw and color. In the air above the middle cone is an umbrella."
 msgstr ""
+
+#~ msgid "Because everyone bought his inventions, Zangemann soon became the richest person in the whole world. With all his money, he bought a huge golden computer with a keyboard made of jewels and set it up in the largest room of his mansion. From there, over the internet, he could control all the little computers built into his inventions."
+#~ msgstr "Քանի որ բոլորն առնում էին իր գիւտերը, Զանգեմանը շատ արագ դարձավ աշխարհի ամենահարուստ մարդը։ Իր գումարներով, նա գնեց մեծ ոսկեայ կարգիչ՝ ստեղնաշարերը զարդերով, եւ կարգաւորեց այն իր առանձնատան ամենամեծ սենեակում։ Այնտեղից, ինտերնետով նա կարող էր կառավարել բոլոր փոքր կարգիչները, որ իր գիւտերի ներսում էին։"
+
+#~ msgid "All he had to do was press the proper key on the golden computer, and immediately all the ice-cream machines in town would dispense only vanilla ice cream. If Zangemann wanted people to eat chocolate ice cream, he pressed the key for chocolate ice cream. If he gave the order for lemon ice cream, the machines made only lemon ice cream. Zangemann loved his inventions and was always thrilled at how amazingly well his machines worked. Sometimes people were disappointed when their favorite flavor wasn’t available, but what could they do? After all, there was ice cream on every street corner."
+#~ msgstr "Իրենից պահանջւում էր միայն սեղմել կոճակ իր ոսկեայ համակարգչի վրայի եւ միանգամից իր բոլոր պաղպաղակի մեքենաները կտային միայն վանիլային պաղպաղակ։ Եթէ Զանգեմանն ուզեր, որ մարդիկ ուտեն շոկոլադէ պաղպաղակ, նա կսեղմեր կոճակ դրա համար։ Եթե ուզեր լիմոնով պաղպաղակ, մեքենաները կպատրաստէին միայն լիմոնով պաղպաղակ։ Զանգեմանը սիրում էր իր նորարարութիւնները, եւ միշտ յուզւում էր, թե ինչ հիանալի են իր մեքենաները աշխատում։ Երբեմն մարդիկ հիասթափւում էին, երբ իրենց սիրած համը հասանելի չէր, բայց ի՞նչ կարող էին անել։ Գոնէ ամեն փողոցի անկիւնում պաղպաղակ կար։"

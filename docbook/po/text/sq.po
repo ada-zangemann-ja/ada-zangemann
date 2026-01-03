@@ -550,15 +550,45 @@ msgstr "Gjente edhe sende të dobishme, si një telefon të vjetër. Ekrani isht
 msgid "Ada had so much fun tinkering in the junkyard and fixing broken things that she forgot all about the skateboards and the ice cream."
 msgstr "Ada kënaqej aq shumë duke ndrequr sende të vjetra dhe duke krijuar të reja nga gjërat që të tjerët i hidhnin, sa që harronte fare për skateboardët apo akulloret."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:571
-msgid "Because everyone bought his inventions, Zangemann soon became the richest person in the whole world. With all his money, he bought a huge golden computer with a keyboard made of jewels and set it up in the largest room of his mansion. From there, over the internet, he could control all the little computers built into his inventions."
-msgstr "Meqenëse të gjithë blinin shpikjet e tij, Zangemanni u bë shpejt njeriu më i pasur në botë. Me paratë e tij, ai ndërtoi një kompjuter gjigand prej ari me tastierë të zbukuruar me gurë të çmuar dhe e vendosi në dhomën më të madhe të vilës së tij. Nga ky kompjuter, ai mund të kontrollonte përmes Internetit të gjithë kompjuterët e vegjël të vendosur në shpikjet e tij."
+msgid "Because everyone bought his inventions, Zangemann soon became the richest person in the whole world."
+msgstr ""
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:571
+msgid "With all his money, he bought a huge golden computer with a keyboard made of jewels and set it up in the largest room of his mansion."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:571
+msgid "From there, over the internet, he could control all the little computers built into his inventions."
+msgstr ""
+
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:572
-msgid "All he had to do was press the proper key on the golden computer, and immediately all the ice-cream machines in town would dispense only vanilla ice cream. If Zangemann wanted people to eat chocolate ice cream, he pressed the key for chocolate ice cream. If he gave the order for lemon ice cream, the machines made only lemon ice cream. Zangemann loved his inventions and was always thrilled at how amazingly well his machines worked. Sometimes people were disappointed when their favorite flavor wasn’t available, but what could they do? After all, there was ice cream on every street corner."
-msgstr "I mjaftonte thjesht të shtypte butonat e duhur në kompjuterin e tij prej ari dhe menjëherë të gjitha makinat e akullores në qytet fillonin të shpërndanin vetëm akullore me vanilje. Nëse Zangemanni dëshironte që njerëzit të hanin akullore me çokollatë, ai shtypte kombinimin përkatës të butonave. Nëse jepte urdhër për të shitur akullore me limon, atëherë makinat prodhonin vetëm akullore me limon. Zangemanni adhuronte shpikjet e tij dhe çdo herë mahnitej duke parë sa bukur funksiononin makinat e tij. Ndonjëherë, njerëzit zhgënjeheshin që nuk kishte shijen e tyre të preferuar, por çfarë mund të bënin? Të paktën kishte akullore në çdo cep të rrugës."
+msgid "All he had to do was press the proper key on the golden computer, and immediately all the ice-cream machines in town would dispense only vanilla ice cream."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:572
+msgid "If Zangemann wanted people to eat chocolate ice cream, he pressed the key for chocolate ice cream."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:572
+msgid "If he gave the order for lemon ice cream, the machines made only lemon ice cream."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:572
+msgid "Zangemann loved his inventions and was always thrilled at how amazingly well his machines worked."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:572
+msgid "Sometimes people were disappointed when their favorite flavor wasn’t available, but what could they do? After all, there was ice cream on every street corner."
+msgstr ""
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1360,3 +1390,9 @@ msgstr ""
 #: Ada_Zangemann.dbk:1139
 msgid "Three hands that hold as many empty ice cream cones, to draw and color. In the air above the middle cone is an umbrella."
 msgstr ""
+
+#~ msgid "Because everyone bought his inventions, Zangemann soon became the richest person in the whole world. With all his money, he bought a huge golden computer with a keyboard made of jewels and set it up in the largest room of his mansion. From there, over the internet, he could control all the little computers built into his inventions."
+#~ msgstr "Meqenëse të gjithë blinin shpikjet e tij, Zangemanni u bë shpejt njeriu më i pasur në botë. Me paratë e tij, ai ndërtoi një kompjuter gjigand prej ari me tastierë të zbukuruar me gurë të çmuar dhe e vendosi në dhomën më të madhe të vilës së tij. Nga ky kompjuter, ai mund të kontrollonte përmes Internetit të gjithë kompjuterët e vegjël të vendosur në shpikjet e tij."
+
+#~ msgid "All he had to do was press the proper key on the golden computer, and immediately all the ice-cream machines in town would dispense only vanilla ice cream. If Zangemann wanted people to eat chocolate ice cream, he pressed the key for chocolate ice cream. If he gave the order for lemon ice cream, the machines made only lemon ice cream. Zangemann loved his inventions and was always thrilled at how amazingly well his machines worked. Sometimes people were disappointed when their favorite flavor wasn’t available, but what could they do? After all, there was ice cream on every street corner."
+#~ msgstr "I mjaftonte thjesht të shtypte butonat e duhur në kompjuterin e tij prej ari dhe menjëherë të gjitha makinat e akullores në qytet fillonin të shpërndanin vetëm akullore me vanilje. Nëse Zangemanni dëshironte që njerëzit të hanin akullore me çokollatë, ai shtypte kombinimin përkatës të butonave. Nëse jepte urdhër për të shitur akullore me limon, atëherë makinat prodhonin vetëm akullore me limon. Zangemanni adhuronte shpikjet e tij dhe çdo herë mahnitej duke parë sa bukur funksiononin makinat e tij. Ndonjëherë, njerëzit zhgënjeheshin që nuk kishte shijen e tyre të preferuar, por çfarë mund të bënin? Të paktën kishte akullore në çdo cep të rrugës."
