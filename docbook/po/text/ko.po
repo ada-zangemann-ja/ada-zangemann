@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-03 09:38+0100\n"
+"PO-Revision-Date: 2026-01-03 12:08+0100\n"
 "Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/fsfe/ada-zangemann/ko/>\n"
 "Language: ko\n"
@@ -549,15 +549,14 @@ msgstr "에이다가 그녀의 즉석 연구실에서 물건을 만지작 거리
 #. (itstool) path: para/phrase
 #. Sentence continues in next string.
 #: Ada_Zangemann.dbk:564
-#, fuzzy
 msgid "These inventions were very popular at Ada’s school, and many of her friends rode around on the cool skateboards. Ada was often sad, since her mother couldn’t buy her any of those great things:"
-msgstr "아저씨의 발명품은 에이다의 학교에서 유행했어요. 에이다의 다른 많은 친구들이 그 멋진 스케이드보드를 타고 다녔지요. 에이다는 하지만 가끔 슬펐어요. 왜냐면 에이다의 엄마는 에이다에게 그런 멋진 것을 사줄 수 없었기 때문이에요. 멋진 스케이드보드도 스피커도 그리고 아이스크림도요..."
+msgstr "아저씨의 발명품은 에이다의 학교에서 유행했어요. 에이다의 다른 많은 친구들이 그 멋진 스케이드보드를 타고 다녔지요. 에이다는 하지만 가끔 슬펐어요. 왜냐면 에이다의 엄마는 에이다에게 그런 멋진 것을 사줄 수 없었기 때문이에요."
 
 #. (itstool) path: para/phrase
 #. Continuation of the sentence.
 #: Ada_Zangemann.dbk:564
 msgid "no skateboard, no speakers, no ice cream."
-msgstr ""
+msgstr "멋진 스케이드보드도 스피커도 그리고 아이스크림도요..."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:566

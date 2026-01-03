@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-10-16 21:28+0200\n"
-"PO-Revision-Date: 2026-01-03 09:43+0100\n"
+"PO-Revision-Date: 2026-01-03 12:11+0100\n"
 "Last-Translator: Elvira Pescu <elvirapesku@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/fsfe/ada-zangemann/ru/>\n"
 "Language: ru\n"
@@ -561,15 +561,14 @@ msgstr "Ада возится с предметами в своей самоде
 #. (itstool) path: para/phrase
 #. Sentence continues in next string.
 #: Ada_Zangemann.dbk:564
-#, fuzzy
 msgid "These inventions were very popular at Ada’s school, and many of her friends rode around on the cool skateboards. Ada was often sad, since her mother couldn’t buy her any of those great things:"
-msgstr "Эти изобретения были очень популярны в школе Ады, и многие из ее друзей катались на таких крутых скейтбордах. Ада часто грустила, потому что мама не могла купить ей ни одну из этих замечательных вещей: ни скейтборд, ни колонку, ни мороженое."
+msgstr "Эти изобретения были очень популярны в школе Ады, и многие из ее друзей катались на таких крутых скейтбордах. Ада часто грустила, потому что мама не могла купить ей ни одну из этих замечательных вещей:"
 
 #. (itstool) path: para/phrase
 #. Continuation of the sentence.
 #: Ada_Zangemann.dbk:564
 msgid "no skateboard, no speakers, no ice cream."
-msgstr ""
+msgstr "ни скейтборд, ни колонку, ни мороженое."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:566

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-03 09:48+0100\n"
+"PO-Revision-Date: 2026-01-03 12:13+0100\n"
 "Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
 "Language-Team: Tamil <https://hosted.weblate.org/projects/fsfe/ada-zangemann/ta/>\n"
 "Language: ta\n"
@@ -489,15 +489,14 @@ msgstr "அடா கவிழ்ந்த நீர் வழக்கில்
 #. (itstool) path: para/phrase
 #. Sentence continues in next string.
 #: Ada_Zangemann.dbk:564
-#, fuzzy
 msgid "These inventions were very popular at Ada’s school, and many of her friends rode around on the cool skateboards. Ada was often sad, since her mother couldn’t buy her any of those great things:"
-msgstr "இந்த கண்டுபிடிப்புகள் அடாவின் பள்ளியில் மிகவும் பிரபலமாக இருந்தன, மேலும் அவரது நண்பர்கள் பலர் கூல் ச்கேட்போர்டுகளில் சுற்றினர். அடா பெரும்பாலும் சோகமாக இருந்தார், ஏனென்றால் அவளுடைய தாயால் அந்த பெரிய விசயங்களை அவளால் வாங்க முடியவில்லை: ச்கேட்போர்டு இல்லை, பேச்சாளர்கள் இல்லை, ஐச்கிரீம் இல்லை."
+msgstr "இந்த கண்டுபிடிப்புகள் அடாவின் பள்ளியில் மிகவும் பிரபலமாக இருந்தன, மேலும் அவரது நண்பர்கள் பலர் கூல் ச்கேட்போர்டுகளில் சுற்றினர். அடா பெரும்பாலும் சோகமாக இருந்தார், ஏனென்றால் அவளுடைய தாயால் அந்த பெரிய விசயங்களை அவளால் வாங்க முடியவில்லை:"
 
 #. (itstool) path: para/phrase
 #. Continuation of the sentence.
 #: Ada_Zangemann.dbk:564
 msgid "no skateboard, no speakers, no ice cream."
-msgstr ""
+msgstr "ச்கேட்போர்டு இல்லை, பேச்சாளர்கள் இல்லை, ஐச்கிரீம் இல்லை."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:566

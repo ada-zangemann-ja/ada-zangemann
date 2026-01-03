@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-03 09:34+0100\n"
+"PO-Revision-Date: 2026-01-03 12:06+0100\n"
 "Last-Translator: Arif Budiman <arifpedia@gmail.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/fsfe/ada-zangemann/id/>\n"
 "Language: id\n"
@@ -562,15 +562,14 @@ msgstr "Si gadis kecil Ada sedang mengutak-atik benda-benda di laboratorium buat
 #. (itstool) path: para/phrase
 #. Sentence continues in next string.
 #: Ada_Zangemann.dbk:564
-#, fuzzy
 msgid "These inventions were very popular at Ada’s school, and many of her friends rode around on the cool skateboards. Ada was often sad, since her mother couldn’t buy her any of those great things:"
-msgstr "Penemuan-penemuan ini sangat populer di sekolah Ada, dan banyak teman-temannya berkeliling dengan skateboard keren itu. Ada sering sedih, karena ibunya tidak mampu membelikannya salah satu dari benda-benda hebat itu: tidak ada skateboard, tidak ada speaker, tidak ada es krim."
+msgstr "Penemuan-penemuan ini sangat populer di sekolah Ada, dan banyak teman-temannya berkeliling dengan skateboard keren itu. Ada sering sedih, karena ibunya tidak mampu membelikannya salah satu dari benda-benda hebat itu:"
 
 #. (itstool) path: para/phrase
 #. Continuation of the sentence.
 #: Ada_Zangemann.dbk:564
 msgid "no skateboard, no speakers, no ice cream."
-msgstr ""
+msgstr "tidak ada skateboard, tidak ada speaker, tidak ada es krim."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:566

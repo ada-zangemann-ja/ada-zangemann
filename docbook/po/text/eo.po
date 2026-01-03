@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-03 08:59+0100\n"
+"PO-Revision-Date: 2026-01-03 12:02+0100\n"
 "Last-Translator: Marco Ciampa <ciampix@posteo.net>\n"
 "Language-Team: Esperanto <https://hosted.weblate.org/projects/fsfe/ada-zangemann/eo/>\n"
 "Language: eo\n"
@@ -538,15 +538,14 @@ msgstr "Ada ludas kun objektoj en sia improvizita laboratorio. Ada sidas sur ren
 #. (itstool) path: para/phrase
 #. Sentence continues in next string.
 #: Ada_Zangemann.dbk:564
-#, fuzzy
 msgid "These inventions were very popular at Ada’s school, and many of her friends rode around on the cool skateboards. Ada was often sad, since her mother couldn’t buy her any of those great things:"
-msgstr "Ĉi tiuj inventaĵoj estis tre popularaj en la lernejo de Ada kaj multaj el ŝiaj amikoj rajdis ĉirkaŭe sur la mojosaj rultabuloj. Ada ofte estis malĝoja, ĉar ŝia patrino ne povis aĉeti al ŝi iujn ajn el tiuj bonegaĵoj: nek rultabulon, nek laŭtparolilojn, nek glaciaĵon."
+msgstr "Ĉi tiuj inventaĵoj estis tre popularaj en la lernejo de Ada kaj multaj el ŝiaj amikoj rajdis ĉirkaŭe sur la mojosaj rultabuloj. Ada ofte estis malĝoja, ĉar ŝia patrino ne povis aĉeti al ŝi iujn ajn el tiuj bonegaĵoj:"
 
 #. (itstool) path: para/phrase
 #. Continuation of the sentence.
 #: Ada_Zangemann.dbk:564
 msgid "no skateboard, no speakers, no ice cream."
-msgstr ""
+msgstr "nek rultabulon, nek laŭtparolilojn, nek glaciaĵon."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:566

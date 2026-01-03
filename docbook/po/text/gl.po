@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-03 09:05+0100\n"
+"PO-Revision-Date: 2026-01-03 12:03+0100\n"
 "Last-Translator: itagenata <ivan@tagenata.com>\n"
 "Language-Team: Galician <https://hosted.weblate.org/projects/fsfe/ada-zangemann/gl/>\n"
 "Language: gl\n"
@@ -496,15 +496,14 @@ msgstr "Ada enreda con obxectos no seu laboratorio improvisado. Ada está sentad
 #. (itstool) path: para/phrase
 #. Sentence continues in next string.
 #: Ada_Zangemann.dbk:564
-#, fuzzy
 msgid "These inventions were very popular at Ada’s school, and many of her friends rode around on the cool skateboards. Ada was often sad, since her mother couldn’t buy her any of those great things:"
-msgstr "Estes inventos eran moi populares na escola de Ada e moitos dos seus amigos ían por aí en monopatíns chulos. Ada adoitaba estar triste,xa que a súa nai non lle podía mercar ningunha desas cousas tan fantásticas: nin monopatín, nin altofalantes, nin xeado."
+msgstr "Estes inventos eran moi populares na escola de Ada e moitos dos seus amigos ían por aí en monopatíns chulos. Ada adoitaba estar triste,xa que a súa nai non lle podía mercar ningunha desas cousas tan fantásticas:"
 
 #. (itstool) path: para/phrase
 #. Continuation of the sentence.
 #: Ada_Zangemann.dbk:564
 msgid "no skateboard, no speakers, no ice cream."
-msgstr ""
+msgstr "nin monopatín, nin altofalantes, nin xeado."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:566

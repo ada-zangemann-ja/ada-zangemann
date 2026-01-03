@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-03 08:52+0100\n"
+"PO-Revision-Date: 2026-01-03 11:59+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ar\n"
@@ -510,15 +510,14 @@ msgstr ""
 #. (itstool) path: para/phrase
 #. Sentence continues in next string.
 #: Ada_Zangemann.dbk:564
-#, fuzzy
 msgid "These inventions were very popular at Ada’s school, and many of her friends rode around on the cool skateboards. Ada was often sad, since her mother couldn’t buy her any of those great things:"
-msgstr "كانت هذه الاختراعاتُ أيضاً شائعةٌ جداً في مدرسة آدا ، وكان العديد من أصدقائها يَتَجَوَّلوُن على ألواح التزلج الرائعة. غالباً ما كانت آدا حزينة ، لأَنَّ والدتها لم تستطع شراء أي من تلك الأشياء الرائعة: لا لوح تزلج ، ولا مكبرات صوت ، ولا آيس كريم."
+msgstr "كانت هذه الاختراعاتُ أيضاً شائعةٌ جداً في مدرسة آدا ، وكان العديد من أصدقائها يَتَجَوَّلوُن على ألواح التزلج الرائعة. غالباً ما كانت آدا حزينة ، لأَنَّ والدتها لم تستطع شراء أي من تلك الأشياء الرائعة"
 
 #. (itstool) path: para/phrase
 #. Continuation of the sentence.
 #: Ada_Zangemann.dbk:564
 msgid "no skateboard, no speakers, no ice cream."
-msgstr ""
+msgstr "لا لوح تزلج ، ولا مكبرات صوت ، ولا آيس كريم."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:566

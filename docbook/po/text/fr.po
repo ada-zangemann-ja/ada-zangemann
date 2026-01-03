@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-03 09:03+0100\n"
+"PO-Revision-Date: 2026-01-03 12:03+0100\n"
 "Last-Translator: Sacha Muszlak <sacha@muszlak.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/fsfe/ada-zangemann/fr/>\n"
 "Language: fr\n"
@@ -497,15 +497,14 @@ msgstr "Ce dessin représente Ada qui bricole dans un coin de la décharge, sur 
 #. (itstool) path: para/phrase
 #. Sentence continues in next string.
 #: Ada_Zangemann.dbk:564
-#, fuzzy
 msgid "These inventions were very popular at Ada’s school, and many of her friends rode around on the cool skateboards. Ada was often sad, since her mother couldn’t buy her any of those great things:"
-msgstr "Dans l’école d’Ada aussi, ces inventions étaient très populaires et elle avait beaucoup d’amis qui se baladaient avec des skateboards super cools. Ada était souvent triste, car sa mère ne pouvait pas lui acheter toutes ces merveilleuses choses. Pas de skateboard, pas d’enceinte, pas de glace."
+msgstr "Dans l’école d’Ada aussi, ces inventions étaient très populaires et elle avait beaucoup d’amis qui se baladaient avec des skateboards super cools. Ada était souvent triste, car sa mère ne pouvait pas lui acheter toutes ces merveilleuses choses."
 
 #. (itstool) path: para/phrase
 #. Continuation of the sentence.
 #: Ada_Zangemann.dbk:564
 msgid "no skateboard, no speakers, no ice cream."
-msgstr ""
+msgstr "Pas de skateboard, pas d’enceinte, pas de glace."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:566

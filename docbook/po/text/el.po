@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-03 08:58+0100\n"
+"PO-Revision-Date: 2026-01-03 12:14+0100\n"
 "Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
 "Language-Team: Greek <https://hosted.weblate.org/projects/fsfe/ada-zangemann/el/>\n"
 "Language: el\n"
@@ -655,13 +655,14 @@ msgstr ""
 #: Ada_Zangemann.dbk:564
 #, fuzzy
 msgid "These inventions were very popular at Ada’s school, and many of her friends rode around on the cool skateboards. Ada was often sad, since her mother couldn’t buy her any of those great things:"
-msgstr "Αυτές οι εφευρέσεις ήταν πολύ δημοφιλείς και στο σχολείο της Άντας και πολλοί από τους φίλους της τριγυρνούσαν με τα σκέιτμπορντ με τους ήχους. Η κακομοίρα η Άντα ήταν συχνά λυπημένη, γιατί η μητέρα της δεν μπορούσε να της αγοράσει κανένα από αυτά τα υπέροχα πράγματα: ούτε σκέιτμπορντ, ούτε ηχεία, ούτε καν παγωτό."
+msgstr "Αυτές οι εφευρέσεις ήταν πολύ δημοφιλείς και στο σχολείο της Άντας και πολλοί από τους φίλους της τριγυρνούσαν με τα σκέιτμπορντ με τους ήχους. Η κακομοίρα η Άντα ήταν συχνά λυπημένη, γιατί η μητέρα της δεν μπορούσε να της αγοράσει κανένα από αυτά τα υπέροχα πράγματα:"
 
 #. (itstool) path: para/phrase
 #. Continuation of the sentence.
 #: Ada_Zangemann.dbk:564
+#, fuzzy
 msgid "no skateboard, no speakers, no ice cream."
-msgstr ""
+msgstr "ούτε σκέιτμπορντ, ούτε ηχεία, ούτε καν παγωτό."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:566
