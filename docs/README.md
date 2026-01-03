@@ -14,6 +14,7 @@ SPDX-License-Identifier: CC-BY-SA-4.0
 
 ## Translation
 
+- [Start translating](start-translating.md)
 - [Translation guidelines](translation-guidelines.md)
 - [Translating illustrations](translating-illustrations.md)
 
@@ -29,4 +30,5 @@ SPDX-License-Identifier: CC-BY-SA-4.0
 - [Automation design](automation-design.md)
 - [DocBook](docbook.md)
 - [Upstream issues](upstream-issues.md)
+- [Text-based format (deprecated)](text-based-format.md)
 - [DocBook implementation notes (unstructured)](docbook-implementation.md)
