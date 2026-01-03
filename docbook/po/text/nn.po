@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2025-11-25 21:49+0100\n"
-"PO-Revision-Date: 2026-01-03 12:10+0100\n"
+"PO-Revision-Date: 2026-01-03 13:46+0100\n"
 "Last-Translator: Kjetil Torgrim Homme <kjetilho@njus.no>\n"
 "Language-Team: \n"
 "Language: nn\n"
@@ -551,12 +551,17 @@ msgstr "Også på Adas skule var oppfinningane veldig populære, og mange av ven
 msgid "no skateboard, no speakers, no ice cream."
 msgstr "Verken rullebrett, høgtalarar eller is."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:566
-msgid "Luckily, Ada lived right next to the junkyard. There were lots of broken gadgets and rusty parts, which she put together to make cool new things, like a soapbox she and Alan rode roaring down the hill, a windmill, and scary junk monsters, which she and Alan would fight together. She also found many useful items—an old cell phone, for example. The screen was cracked, but she could fix that, and while there wasn’t internet at the junkyard, she could get access somewhere else."
-msgstr "Heldigvis budde Ada like ved skraphaugen. Der var det mange øydelagde apparat og rustne reservedelar, som ho bygde seg ting med: Ein olabil, som ho og veslebror Alan køyrde ned bakken i, ei vindmølle og nokre skremmande søppelmonster som ho og Alan kunne slåst mot. Ho fann også mange ting som framleis fungerte: Ein gammal mobiltelefon, til dømes. Det var sprekk i skjermen, men det kunne ho ordna. Det var ikkje noko bra Internett på skraphaugen, men det kunne ho få tilgang til andre stader."
+msgid "Luckily, Ada lived right next to the junkyard. There were lots of broken gadgets and rusty parts, which she put together to make cool new things, like a soapbox she and Alan rode roaring down the hill, a windmill, and scary junk monsters, which she and Alan would fight together."
+msgstr "Heldigvis budde Ada like ved skraphaugen. Der var det mange øydelagde apparat og rustne reservedelar, som ho bygde seg ting med: Ein olabil, som ho og veslebror Alan køyrde ned bakken i, ei vindmølle og nokre skremmande søppelmonster som ho og Alan kunne slåst mot."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:566
+msgid "She also found many useful items—an old cell phone, for example. The screen was cracked, but she could fix that, and while there wasn’t internet at the junkyard, she could get access somewhere else."
+msgstr "Ho fann også mange ting som framleis fungerte: Ein gammal mobiltelefon, til dømes. Det var sprekk i skjermen, men det kunne ho ordna. Det var ikkje noko bra Internett på skraphaugen, men det kunne ho få tilgang til andre stader."
+
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:567
 msgid "Ada had so much fun tinkering in the junkyard and fixing broken things that she forgot all about the skateboards and the ice cream."
 msgstr "Ada hadde det så morosamt med å fikla på skraphaugen og fiksa øydelagde ting at ho gløymde alt om rullebretta og iskremen."

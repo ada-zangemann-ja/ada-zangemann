@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-03 11:59+0100\n"
+"PO-Revision-Date: 2026-01-03 13:31+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ar\n"
@@ -519,12 +519,17 @@ msgstr "كانت هذه الاختراعاتُ أيضاً شائعةٌ جداً 
 msgid "no skateboard, no speakers, no ice cream."
 msgstr "لا لوح تزلج ، ولا مكبرات صوت ، ولا آيس كريم."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:566
-msgid "Luckily, Ada lived right next to the junkyard. There were lots of broken gadgets and rusty parts, which she put together to make cool new things, like a soapbox she and Alan rode roaring down the hill, a windmill, and scary junk monsters, which she and Alan would fight together. She also found many useful items—an old cell phone, for example. The screen was cracked, but she could fix that, and while there wasn’t internet at the junkyard, she could get access somewhere else."
-msgstr "لحسن الحظ ، عاشت آدا بجوار ساحة الخردة. كان هناك الكثيرُ من الأدوات المكسورة والأجزاء الصدئة ، والتي جَمَعَتْها معاً لصُنْعِ أشياءَ جديدةِ رائعة: صندوق الصابون الذي رَكَّبَتْه هي وشقيقها الصغير آلان وهم يَتَزَلَّجُون إلى أسفل التَلّ ، أو طاحونة هوائية ، أو وحوش خردة مخيفة ، والتي كانوا يتقاتلون بها معاً. وَجَدت أيضاً العديدَ من العناصر المفيدة كهاتفٍ محمول قديم ، على سبيل المثال. كان به صَدْعٌ في الشاشة ، لكنّها تَمَكَّنت من إصلاح ذلك ، وبينما لا يوجد إنترنت في ساحة الخردة ، كان بإمكانها الوصول إلى الإنترنت من مكان آخر."
+msgid "Luckily, Ada lived right next to the junkyard. There were lots of broken gadgets and rusty parts, which she put together to make cool new things, like a soapbox she and Alan rode roaring down the hill, a windmill, and scary junk monsters, which she and Alan would fight together."
+msgstr "لحسن الحظ ، عاشت آدا بجوار ساحة الخردة. كان هناك الكثيرُ من الأدوات المكسورة والأجزاء الصدئة ، والتي جَمَعَتْها معاً لصُنْعِ أشياءَ جديدةِ رائعة: صندوق الصابون الذي رَكَّبَتْه هي وشقيقها الصغير آلان وهم يَتَزَلَّجُون إلى أسفل التَلّ ، أو طاحونة هوائية ، أو وحوش خردة مخيفة ، والتي كانوا يتقاتلون بها معاً."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:566
+msgid "She also found many useful items—an old cell phone, for example. The screen was cracked, but she could fix that, and while there wasn’t internet at the junkyard, she could get access somewhere else."
+msgstr "وَجَدت أيضاً العديدَ من العناصر المفيدة كهاتفٍ محمول قديم ، على سبيل المثال. كان به صَدْعٌ في الشاشة ، لكنّها تَمَكَّنت من إصلاح ذلك ، وبينما لا يوجد إنترنت في ساحة الخردة ، كان بإمكانها الوصول إلى الإنترنت من مكان آخر"
+
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:567
 msgid "Ada had so much fun tinkering in the junkyard and fixing broken things that she forgot all about the skateboards and the ice cream."
 msgstr "استمتعت آدا كثيراً بالعَبَث في ساحة الخردة وإصلاح الأشياء المكسورة لدرجة أَنَّها نَسِيَت كُلَّ شيء عن ألواح التزلج والآيس كريم."

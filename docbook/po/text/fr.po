@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-03 12:03+0100\n"
+"PO-Revision-Date: 2026-01-03 13:35+0100\n"
 "Last-Translator: Sacha Muszlak <sacha@muszlak.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/fsfe/ada-zangemann/fr/>\n"
 "Language: fr\n"
@@ -506,12 +506,17 @@ msgstr "Dans l’école d’Ada aussi, ces inventions étaient très populaires 
 msgid "no skateboard, no speakers, no ice cream."
 msgstr "Pas de skateboard, pas d’enceinte, pas de glace."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:566
-msgid "Luckily, Ada lived right next to the junkyard. There were lots of broken gadgets and rusty parts, which she put together to make cool new things, like a soapbox she and Alan rode roaring down the hill, a windmill, and scary junk monsters, which she and Alan would fight together. She also found many useful items—an old cell phone, for example. The screen was cracked, but she could fix that, and while there wasn’t internet at the junkyard, she could get access somewhere else."
-msgstr "Mais Ada vivait juste à côté de la décharge. Elle y trouvait des appareils cassés et des pièces rouillées avec lesquelles elle fabriquait des choses géniales : une caisse à savon dans laquelle son frère Alan et elle dévalaient la colline, une éolienne ou des monstres constitués de débris effrayants, qu’ils combattaient ensemble. Elle trouvait aussi beaucoup d’objets utiles, comme un vieux téléphone portable. L’écran était certes tout fissuré mais elle pourrait le réparer. Près de la décharge, il n’y avait pas Internet. Tant pis, elle le capterait ailleurs."
+msgid "Luckily, Ada lived right next to the junkyard. There were lots of broken gadgets and rusty parts, which she put together to make cool new things, like a soapbox she and Alan rode roaring down the hill, a windmill, and scary junk monsters, which she and Alan would fight together."
+msgstr "Mais Ada vivait juste à côté de la décharge. Elle y trouvait des appareils cassés et des pièces rouillées avec lesquelles elle fabriquait des choses géniales : une caisse à savon dans laquelle son frère Alan et elle dévalaient la colline, une éolienne ou des monstres constitués de débris effrayants, qu’ils combattaient ensemble."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:566
+msgid "She also found many useful items—an old cell phone, for example. The screen was cracked, but she could fix that, and while there wasn’t internet at the junkyard, she could get access somewhere else."
+msgstr "Elle trouvait aussi beaucoup d’objets utiles, comme un vieux téléphone portable. L’écran était certes tout fissuré mais elle pourrait le réparer. Près de la décharge, il n’y avait pas Internet. Tant pis, elle le capterait ailleurs."
+
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:567
 msgid "Ada had so much fun tinkering in the junkyard and fixing broken things that she forgot all about the skateboards and the ice cream."
 msgstr "Ada prenait un tel plaisir à bricoler dans la décharge et à réparer les objets cassés, qu’elle en oubliait complètement les skateboards et les glaces."

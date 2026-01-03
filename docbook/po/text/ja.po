@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-03 12:22+0100\n"
+"PO-Revision-Date: 2026-01-03 13:43+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -492,12 +492,17 @@ msgstr "ツァンゲマンの発明はアーダの学校でも大人気で、か
 msgid "no skateboard, no speakers, no ice cream."
 msgstr "アーダはそんなにすてきなスケートボードもスピーカーもアイスクリームも買ってもらえなかったので、ちょっぴり悲しくなりました。"
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:566
-msgid "Luckily, Ada lived right next to the junkyard. There were lots of broken gadgets and rusty parts, which she put together to make cool new things, like a soapbox she and Alan rode roaring down the hill, a windmill, and scary junk monsters, which she and Alan would fight together. She also found many useful items—an old cell phone, for example. The screen was cracked, but she could fix that, and while there wasn’t internet at the junkyard, she could get access somewhere else."
-msgstr "でも、さいわいなことに、アーダはガラクタ置き場のすぐとなりに住んでいました。アーダはガラクタのなかからこわれた道具やさびた部品をひろい出し、組みあわせてすてきなものをつくりました。アランといっしょに丘をすべりおりるカートや風車もつくりましたし、おそろしい怪獣をガラクタでつくっては、アランといっしょに戦いました。つかえるものは、ほかにもたくさん見つかりました。たとえば、古いケータイは画面がひび割れていましたが、なおすことができましたし、ガラクタ置き場にはインターネットがなくても、別の場所からつながりました。"
+msgid "Luckily, Ada lived right next to the junkyard. There were lots of broken gadgets and rusty parts, which she put together to make cool new things, like a soapbox she and Alan rode roaring down the hill, a windmill, and scary junk monsters, which she and Alan would fight together."
+msgstr "でも、さいわいなことに、アーダはガラクタ置き場のすぐとなりに住んでいました。アーダはガラクタのなかからこわれた道具やさびた部品をひろい出し、組みあわせてすてきなものをつくりました。アランといっしょに丘をすべりおりるカートや風車もつくりましたし、おそろしい怪獣をガラクタでつくっては、アランといっしょに戦いました。"
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:566
+msgid "She also found many useful items—an old cell phone, for example. The screen was cracked, but she could fix that, and while there wasn’t internet at the junkyard, she could get access somewhere else."
+msgstr "つかえるものは、ほかにもたくさん見つかりました。たとえば、古いケータイは画面がひび割れていましたが、なおすことができましたし、ガラクタ置き場にはインターネットがなくても、別の場所からつながりました。"
+
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:567
 msgid "Ada had so much fun tinkering in the junkyard and fixing broken things that she forgot all about the skateboards and the ice cream."
 msgstr "アーダはガラクタ置き場でものをいじったり、こわれたものをなおしたりするのが楽しくて、スケートボードやアイスクリームのことはすっかり忘れていました。"

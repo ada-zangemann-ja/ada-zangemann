@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-03 12:00+0100\n"
+"PO-Revision-Date: 2026-01-03 13:32+0100\n"
 "Last-Translator: Øjvind Fritjof Arnfred <fritjof@mencagli-arnfred.dk>\n"
 "Language-Team: Danish <https://hosted.weblate.org/projects/fsfe/ada-zangemann/da/>\n"
 "Language: da\n"
@@ -499,12 +499,17 @@ msgstr "Opfindelserne var også meget populære på Adas skole. Mange af hendes 
 msgid "no skateboard, no speakers, no ice cream."
 msgstr "Hverken skateboard, højtalere eller is."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:566
-msgid "Luckily, Ada lived right next to the junkyard. There were lots of broken gadgets and rusty parts, which she put together to make cool new things, like a soapbox she and Alan rode roaring down the hill, a windmill, and scary junk monsters, which she and Alan would fight together. She also found many useful items—an old cell phone, for example. The screen was cracked, but she could fix that, and while there wasn’t internet at the junkyard, she could get access somewhere else."
-msgstr "Heldigvis boede Ada lige ved siden af lossepladsen. Der var masser af ødelagte apparater og rustne reservedele, som hun byggede seje ting med: en sæbekassebil, som hun og lillebror Alan kørte ned af bakken i; og en vindmølle og nogle uhyggelige skraldemonstre, som de sammen kunne slås mod. Hun fandt også mange ting, der stadig fungerede: En gammel mobiltelefon, for eksempel. Skærmen var smadret, men det kunne hun ordne. Der var godt nok ikke noget internet på lossepladsen, men det kunne hun få adgang til andre steder."
+msgid "Luckily, Ada lived right next to the junkyard. There were lots of broken gadgets and rusty parts, which she put together to make cool new things, like a soapbox she and Alan rode roaring down the hill, a windmill, and scary junk monsters, which she and Alan would fight together."
+msgstr "Heldigvis boede Ada lige ved siden af lossepladsen. Der var masser af ødelagte apparater og rustne reservedele, som hun byggede seje ting med: en sæbekassebil, som hun og lillebror Alan kørte ned af bakken i; og en vindmølle og nogle uhyggelige skraldemonstre, som de sammen kunne slås mod."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:566
+msgid "She also found many useful items—an old cell phone, for example. The screen was cracked, but she could fix that, and while there wasn’t internet at the junkyard, she could get access somewhere else."
+msgstr "Hun fandt også mange ting, der stadig fungerede: En gammel mobiltelefon, for eksempel. Skærmen var smadret, men det kunne hun ordne. Der var godt nok ikke noget internet på lossepladsen, men det kunne hun få adgang til andre steder."
+
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:567
 msgid "Ada had so much fun tinkering in the junkyard and fixing broken things that she forgot all about the skateboards and the ice cream."
 msgstr "Ada havde det så sjovt med at rode på lossepladsen og fikse ødelagte ting, at hun glemte alt om skateboardsene og isen."

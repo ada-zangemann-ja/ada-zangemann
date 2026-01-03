@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-03 12:13+0100\n"
+"PO-Revision-Date: 2026-01-03 13:51+0100\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim5@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/fsfe/ada-zangemann/uk/>\n"
 "Language: uk\n"
@@ -574,12 +574,17 @@ msgstr "Ці винаходи були дуже популярні в школі
 msgid "no skateboard, no speakers, no ice cream."
 msgstr "ні скейтборду, ні колонок, ні морозива."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:566
-msgid "Luckily, Ada lived right next to the junkyard. There were lots of broken gadgets and rusty parts, which she put together to make cool new things, like a soapbox she and Alan rode roaring down the hill, a windmill, and scary junk monsters, which she and Alan would fight together. She also found many useful items—an old cell phone, for example. The screen was cracked, but she could fix that, and while there wasn’t internet at the junkyard, she could get access somewhere else."
-msgstr "На щастя, Ада жила поруч зі звалищем. Там було багато зламаних гаджетів та іржавих деталей, з яких вона складала нові круті речі, наприклад, мильницю, на якій вони з Аланом з гуркотом з'їжджали з пагорба, вітряк та страшних сміттєвих монстрів, з якими вони з Аланом разом боролися. Вона також знайшла багато корисних речей - наприклад, старий мобільний телефон. Екран був тріснутий, але вона могла це полагодити, і хоча на звалищі не було інтернету, вона могла отримати доступ до нього деінде."
+msgid "Luckily, Ada lived right next to the junkyard. There were lots of broken gadgets and rusty parts, which she put together to make cool new things, like a soapbox she and Alan rode roaring down the hill, a windmill, and scary junk monsters, which she and Alan would fight together."
+msgstr "На щастя, Ада жила поруч зі звалищем. Там було багато зламаних гаджетів та іржавих деталей, з яких вона складала нові круті речі, наприклад, мильницю, на якій вони з Аланом з гуркотом з'їжджали з пагорба, вітряк та страшних сміттєвих монстрів, з якими вони з Аланом разом боролися."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:566
+msgid "She also found many useful items—an old cell phone, for example. The screen was cracked, but she could fix that, and while there wasn’t internet at the junkyard, she could get access somewhere else."
+msgstr "Вона також знайшла багато корисних речей - наприклад, старий мобільний телефон. Екран був тріснутий, але вона могла це полагодити, і хоча на звалищі не було інтернету, вона могла отримати доступ до нього деінде."
+
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:567
 msgid "Ada had so much fun tinkering in the junkyard and fixing broken things that she forgot all about the skateboards and the ice cream."
 msgstr "Ада так захопилася, пораючись на звалищі та лагодячи зламані речі, що забула про скейтборди і морозиво."

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-03 12:00+0100\n"
+"PO-Revision-Date: 2026-01-03 13:31+0100\n"
 "Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
 "Language-Team: Catalan <https://hosted.weblate.org/projects/fsfe/ada-zangemann/ca/>\n"
 "Language: ca\n"
@@ -499,12 +499,17 @@ msgstr "Aquests invents eren molt populars a l’escola d’Ada, i molts dels se
 msgid "no skateboard, no speakers, no ice cream."
 msgstr "ni monopatí, ni altaveu, ni gelat."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:566
-msgid "Luckily, Ada lived right next to the junkyard. There were lots of broken gadgets and rusty parts, which she put together to make cool new things, like a soapbox she and Alan rode roaring down the hill, a windmill, and scary junk monsters, which she and Alan would fight together. She also found many useful items—an old cell phone, for example. The screen was cracked, but she could fix that, and while there wasn’t internet at the junkyard, she could get access somewhere else."
-msgstr "Per sort, Ada vivia al costat de l’abocador de ferralla. Hi havia molts aparells trencats i peces rovellades que podia ajuntar per a crear noves coses genials, com una carreta que ella i Alan conduïen corrent muntanya avall, un molí de vent, i monstres esgarrifosos de ferralla contra els quals lluitaven junts. Ada també hi trobava molts objectes útils —un telèfon mòbil, per exemple. Tenia la pantalla partida, però ella podia reparar‐la, i tot i que internet no arribava a l’abocador, podia trobar‐hi accés en altres llocs."
+msgid "Luckily, Ada lived right next to the junkyard. There were lots of broken gadgets and rusty parts, which she put together to make cool new things, like a soapbox she and Alan rode roaring down the hill, a windmill, and scary junk monsters, which she and Alan would fight together."
+msgstr "Per sort, Ada vivia al costat de l’abocador de ferralla. Hi havia molts aparells trencats i peces rovellades que podia ajuntar per a crear noves coses genials, com una carreta que ella i Alan conduïen corrent muntanya avall, un molí de vent, i monstres esgarrifosos de ferralla contra els quals lluitaven junts."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:566
+msgid "She also found many useful items—an old cell phone, for example. The screen was cracked, but she could fix that, and while there wasn’t internet at the junkyard, she could get access somewhere else."
+msgstr "Ada també hi trobava molts objectes útils —un telèfon mòbil, per exemple. Tenia la pantalla partida, però ella podia reparar‐la, i tot i que internet no arribava a l’abocador, podia trobar‐hi accés en altres llocs."
+
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:567
 msgid "Ada had so much fun tinkering in the junkyard and fixing broken things that she forgot all about the skateboards and the ice cream."
 msgstr "Ada es divertia tant fent experiments a l’abocador i reparant coses trencades, que va oblidar completament els monopatins i el gelat."

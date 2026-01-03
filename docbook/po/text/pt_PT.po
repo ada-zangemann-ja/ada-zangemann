@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-03 12:11+0100\n"
+"PO-Revision-Date: 2026-01-03 13:46+0100\n"
 "Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
 "Language-Team: Portuguese (Portugal) <https://hosted.weblate.org/projects/fsfe/ada-zangemann/pt_PT/>\n"
 "Language: pt_PT\n"
@@ -503,12 +503,17 @@ msgstr "Estas invenções eram muito populares na escola da Ada, e muitos dos se
 msgid "no skateboard, no speakers, no ice cream."
 msgstr "nem skate, nem altifalantes, nem gelados"
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:566
-msgid "Luckily, Ada lived right next to the junkyard. There were lots of broken gadgets and rusty parts, which she put together to make cool new things, like a soapbox she and Alan rode roaring down the hill, a windmill, and scary junk monsters, which she and Alan would fight together. She also found many useful items—an old cell phone, for example. The screen was cracked, but she could fix that, and while there wasn’t internet at the junkyard, she could get access somewhere else."
-msgstr "Felizmente, Ada vivia mesmo ao lado do ferro-velho. Havia muitos aparelhos avariados e peças ferrugentas, que ela juntava para fazer coisas novas e fixes, como uma caixa de sabão que ela e o Alan montavam ao descer a colina, um moinho de vento e monstros assustadores de sucata, com os quais ela e o Alan lutavam juntos. Ela também encontrou muitos objectos úteis - um telemóvel antigo, por exemplo. O ecrã estava rachado, mas ela pôde arranjá-lo, e embora não houvesse Internet no ferro-velho, ela podia ter acesso noutro sítio."
+msgid "Luckily, Ada lived right next to the junkyard. There were lots of broken gadgets and rusty parts, which she put together to make cool new things, like a soapbox she and Alan rode roaring down the hill, a windmill, and scary junk monsters, which she and Alan would fight together."
+msgstr "Felizmente, Ada vivia mesmo ao lado do ferro-velho. Havia muitos aparelhos avariados e peças ferrugentas, que ela juntava para fazer coisas novas e fixes, como uma caixa de sabão que ela e o Alan montavam ao descer a colina, um moinho de vento e monstros assustadores de sucata, com os quais ela e o Alan lutavam juntos."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:566
+msgid "She also found many useful items—an old cell phone, for example. The screen was cracked, but she could fix that, and while there wasn’t internet at the junkyard, she could get access somewhere else."
+msgstr "Ela também encontrou muitos objectos úteis - um telemóvel antigo, por exemplo. O ecrã estava rachado, mas ela pôde arranjá-lo, e embora não houvesse Internet no ferro-velho, ela podia ter acesso noutro sítio."
+
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:567
 msgid "Ada had so much fun tinkering in the junkyard and fixing broken things that she forgot all about the skateboards and the ice cream."
 msgstr "A Ada divertia-se tanto a mexer na sucata e a arranjar coisas partidas que se esqueceu dos skates e dos gelados."

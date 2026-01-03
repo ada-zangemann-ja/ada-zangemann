@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-03 12:06+0100\n"
+"PO-Revision-Date: 2026-01-03 13:42+0100\n"
 "Last-Translator: Marco Ciampa <ciampix@posteo.net>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/fsfe/ada-zangemann/it/>\n"
 "Language: it\n"
@@ -541,12 +541,17 @@ msgstr "Queste invenzioni erano molto popolari anche alla scuola di Ada, tanti d
 msgid "no skateboard, no speakers, no ice cream."
 msgstr "niente skateboard, niente altoparlanti, niente gelato."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:566
-msgid "Luckily, Ada lived right next to the junkyard. There were lots of broken gadgets and rusty parts, which she put together to make cool new things, like a soapbox she and Alan rode roaring down the hill, a windmill, and scary junk monsters, which she and Alan would fight together. She also found many useful items—an old cell phone, for example. The screen was cracked, but she could fix that, and while there wasn’t internet at the junkyard, she could get access somewhere else."
-msgstr "Per fortuna Ada viveva proprio vicino ad una discarica che era ricca di molte apparecchiature rotte e pezzi arrugginiti. Per gioco Ada metteva insieme questi pezzi per realizzare nuove fantastiche cose: una macchinina senza motore, che lei e il suo fratellino Alan utilizzavano per sfrecciare giù dalle colline, un mulino a vento, o dei terrificanti mostri di spazzatura, che poi avrebbero combattuto insieme. Trovava anche molti oggetti utili, tra cui un vecchio cellulare con lo schermo crepato. Ada pensò che avrebbe potuto aggiustarlo e, anche se nella discarica non c’era Internet, avrebbe poi potuto connettersi da qualche altra parte."
+msgid "Luckily, Ada lived right next to the junkyard. There were lots of broken gadgets and rusty parts, which she put together to make cool new things, like a soapbox she and Alan rode roaring down the hill, a windmill, and scary junk monsters, which she and Alan would fight together."
+msgstr "Per fortuna Ada viveva proprio vicino ad una discarica che era ricca di molte apparecchiature rotte e pezzi arrugginiti. Per gioco Ada metteva insieme questi pezzi per realizzare nuove fantastiche cose: una macchinina senza motore, che lei e il suo fratellino Alan utilizzavano per sfrecciare giù dalle colline, un mulino a vento, o dei terrificanti mostri di spazzatura, che poi avrebbero combattuto insieme."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:566
+msgid "She also found many useful items—an old cell phone, for example. The screen was cracked, but she could fix that, and while there wasn’t internet at the junkyard, she could get access somewhere else."
+msgstr "Trovava anche molti oggetti utili, tra cui un vecchio cellulare con lo schermo crepato. Ada pensò che avrebbe potuto aggiustarlo e, anche se nella discarica non c’era Internet, avrebbe poi potuto connettersi da qualche altra parte."
+
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:567
 msgid "Ada had so much fun tinkering in the junkyard and fixing broken things that she forgot all about the skateboards and the ice cream."
 msgstr "Ada era così entusiasta nel trovare e riparare cose rotte che si dimenticò completamente degli skateboard e del gelato."
