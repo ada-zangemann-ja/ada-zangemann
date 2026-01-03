@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2025-12-29 10:14+0100\n"
+"PO-Revision-Date: 2026-01-03 08:05+0100\n"
 "Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
 "Language-Team: Tamil <https://hosted.weblate.org/projects/fsfe/ada-zangemann/ta/>\n"
 "Language: ta\n"
@@ -397,14 +397,37 @@ msgstr "சாங்கேமனின் மாளிகை ஒரு மலை
 msgid "Zangemann and computers"
 msgstr ""
 
-#. (itstool) path: simplesect/para
-#. (itstool) id: Ada_Zangemann.dbk#para-p06-1
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:529
-#, fuzzy
-msgid "Computers had fascinated Zangemann ever since he was a child. When he was young, computers were huge machines with lots of cables and loud, noisy fans. At school, little Zangemann often dreamed of all the things he would do with computers if they were just a little bit smaller — small enough that they could be built into other fun things. He knew what he would do. First, he would build a computer into his skateboard so that it would make cool noises when he rode it — maybe a fire engine siren or the sound of a rocket launch. Then he would use a computer to invent ice‑cream-making machines! The computer would mix the coolest flavors and even sell the ice cream. There would be machines on every street corner, and he could get ice cream in his favorite flavor whenever he felt like it, and just as much as he wanted. After that, he’d build a cleaning robot and a block-sorting machine so that his room would always be neat and clean. Zangemann had great new ideas like these every day. He could think of nothing else."
-msgstr ". அவர் இளமையாக இருந்தபோது, கணினிகள் நிறைய கேபிள்கள் மற்றும் சத்தமான, சத்தமில்லாத ரசிகர்களைக் கொண்ட பெரிய இயந்திரங்களாக இருந்தன. பள்ளியில், லிட்டில் சாங்க்மேன் கணினிகள் கொஞ்சம் சிறியதாக இருந்தால், அவர் செய்யும் எல்லா விசயங்களையும் கனவு கண்டார் - அவை மற்ற வேடிக்கையான விசயங்களில் கட்டமைக்கப்படக்கூடிய அளவுக்கு சிறியவை. அவர் என்ன செய்வார் என்று அவருக்குத் தெரியும். முதலாவதாக, அவர் தனது ச்கேட்போர்டில் ஒரு கணினியை உருவாக்குவார், இதனால் அவர் சவாரி செய்யும் போது அது குளிர்ச்சியான சத்தத்தை ஏற்படுத்தும் - ஒருவேளை ஒரு தீயணைப்பு இயந்திர சைரன் அல்லது ராக்கெட் ஏவுதலின் ஒலி. பின்னர் அவர் ஐச்கிரீம் தயாரிக்கும் இயந்திரங்களைக் கண்டுபிடிக்க ஒரு கணினியைப் பயன்படுத்துவார்! கணினி மிகச்சிறந்த சுவைகளை கலந்து ஐச்கிரீமை கூட விற்பனை செய்யும். ஒவ்வொரு தெரு மூலையிலும் இயந்திரங்கள் இருக்கும், மேலும் அவர் அதை உணரும்போதெல்லாம் தனது விருப்பமான சுவையில் ஐச்கிரீம் பெற முடியும், மேலும் அவர் விரும்பியதைப் போலவே. அதன்பிறகு, அவர் ஒரு துப்புரவு ரோபோ மற்றும் ஒரு தொகுதி-வரிசைப்படுத்தும் இயந்திரத்தை உருவாக்குவார், இதனால் அவரது அறை எப்போதும் சுத்தமாகவும் சுத்தமாகவும் இருக்கும். சாங்கேமனுக்கு ஒவ்வொரு நாளும் இது போன்ற சிறந்த புதிய சிந்தனைகள் இருந்தன. அவர் வேறு எதுவும் யோசிக்க முடியவில்லை."
+msgid "Computers had fascinated Zangemann ever since he was a child. When he was young, computers were huge machines with lots of cables and loud, noisy fans."
+msgstr "அவர் இளமையாக இருந்தபோது, கணினிகள் நிறைய கேபிள்கள் மற்றும் சத்தமான, சத்தமில்லாத ரசிகர்களைக் கொண்ட பெரிய இயந்திரங்களாக இருந்தன."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:529
+msgid "At school, little Zangemann often dreamed of all the things he would do with computers if they were just a little bit smaller — small enough that they could be built into other fun things."
+msgstr "பள்ளியில், லிட்டில் சாங்க்மேன் கணினிகள் கொஞ்சம் சிறியதாக இருந்தால், அவர் செய்யும் எல்லா விசயங்களையும் கனவு கண்டார் - அவை மற்ற வேடிக்கையான விசயங்களில் கட்டமைக்கப்படக்கூடிய அளவுக்கு சிறியவை."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:529
+msgid "He knew what he would do. First, he would build a computer into his skateboard so that it would make cool noises when he rode it — maybe a fire engine siren or the sound of a rocket launch."
+msgstr "அவர் என்ன செய்வார் என்று அவருக்குத் தெரியும். முதலாவதாக, அவர் தனது ச்கேட்போர்டில் ஒரு கணினியை உருவாக்குவார், இதனால் அவர் சவாரி செய்யும் போது அது குளிர்ச்சியான சத்தத்தை ஏற்படுத்தும் - ஒருவேளை ஒரு தீயணைப்பு இயந்திர சைரன் அல்லது ராக்கெட் ஏவுதலின் ஒலி."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:529
+msgid "Then he would use a computer to invent ice‑cream-making machines! The computer would mix the coolest flavors and even sell the ice cream."
+msgstr "பின்னர் அவர் ஐச்கிரீம் தயாரிக்கும் இயந்திரங்களைக் கண்டுபிடிக்க ஒரு கணினியைப் பயன்படுத்துவார்! கணினி மிகச்சிறந்த சுவைகளை கலந்து ஐச்கிரீமை கூட விற்பனை செய்யும்."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:529
+msgid "There would be machines on every street corner, and he could get ice cream in his favorite flavor whenever he felt like it, and just as much as he wanted. After that, he’d build a cleaning robot and a block-sorting machine so that his room would always be neat and clean."
+msgstr "ஒவ்வொரு தெரு மூலையிலும் இயந்திரங்கள் இருக்கும், மேலும் அவர் அதை உணரும்போதெல்லாம் தனது விருப்பமான சுவையில் ஐச்கிரீம் பெற முடியும், மேலும் அவர் விரும்பியதைப் போலவே. அதன்பிறகு, அவர் ஒரு துப்புரவு ரோபோ மற்றும் ஒரு தொகுதி-வரிசைப்படுத்தும் இயந்திரத்தை உருவாக்குவார், இதனால் அவரது அறை எப்போதும் சுத்தமாகவும் சுத்தமாகவும் இருக்கும்."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:529
+msgid "Zangemann had great new ideas like these every day. He could think of nothing else."
+msgstr "சாங்கேமனுக்கு ஒவ்வொரு நாளும் இது போன்ற சிறந்த புதிய சிந்தனைகள் இருந்தன. அவர் வேறு எதுவும் யோசிக்க முடியவில்லை"
+
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:530
 #, fuzzy
 msgid "As the years went by, Zangemann grew bigger and computers got smaller. In fact, by the time he finished school, they were so small they fit in his pocket. The smallest ones even fit on his fingertip."
@@ -1292,21 +1315,8 @@ msgstr "சில சுவையான, வேடிக்கையான, அ�
 msgid "Three hands that hold as many empty ice cream cones, to draw and color. In the air above the middle cone is an umbrella."
 msgstr "நடுத்தர கூம்புக்கு மேலே உள்ள காற்றில் ஒரு குடை உள்ளது."
 
-#~ msgid "# SPDX-FileCopyrightText: 2022 Matthias Kirschner # # SPDX-License-Identifier: CC-BY-SA-4.0"
-#~ msgstr "# SPDX-FILECOPYRIGHTTEXT: 2022 மத்தியாச் கிர்ச்னர் # # SPDX-LICENSE-IDENTIFIER: CC-BY-SA-4.0"
-
-#~ msgid "## 0 ##"
-#~ msgstr "## 0 ##"
-
 #~ msgid "[[IDX: toc:Table of Contents text:Text cover:Cover other.titlepage:Front Cover chapter-01,cover:Front Cover chapter-02,page_02:Imprint chapter-03,page_04:Ada & Zangemann chapter-04,page_06:Zangemann and computers chapter-05,page_13:One day...  chapter-06,page_18:Skateboards no longer work chapter-07,page_20:Ada and software chapter-08,page_22:Programming chapter-09,page_25:A horrible night chapter-10,page_26:First real project chapter-11,page_30:Hacking for freedom chapter-12,page_36:Zangemann and the President chapter-13,page_39:Protest chapter-14,page_42:Children help the government chapter-15,page_44:New law chapter-16,page_48:And Zangemann? chapter-17,page_50:Acknowledgments chapter-18,page_52:About the Author - Matthias Kirschner chapter-19,page_53:About the Illustrator - Sandra Brandstätter chapter-20,page_54:Website for the book and license chapter-21,page_55:Drawing templates chapter-22,back_cover:Back cover and synopsis ]]"
 #~ msgstr ". . அத்தியாயம் -10, பக்கம்_26: முதல் உண்மையான திட்டம் அத்தியாயம் -11, பக்கம்_30: சுதந்திரத்திற்கான ஏக்கிங் அத்தியாயம் -12, பக்கம்_36: சாங்கேமன் மற்றும் குடியரசுத் தலைவர் அத்தியாயம் -13, பக்கம்_39: எதிர்ப்பு அத்தியாயம் -14, பக்கம்_42: குழந்தைகள் அரசாங்கத்திற்கு உதவி அத்தியாயம் -15, பக்கம்_44 : புதிய சட்டம் அத்தியாயம் -16, பக்கம்_48: மற்றும் சாங்கேமன்? அத்தியாயம் -17, பக்கம்_50: ஒப்புதல்கள் அத்தியாயம் -18, பக்கம்_52: ஆசிரியரைப் பற்றி-மத்தியாச் கிர்ச்னர் பாடம் -19, பக்கம்_53: விளக்கப்படத்தைப் பற்றி-சாண்ட்ரா பிராண்ட்ச்டாட்டர் அத்தியாயம் -20, பக்கம்_54: நூல் மற்றும் உரிமத்திற்கான வலைத்தளம் அத்தியாயம் -21, பக்கம்_55: வரைதல் வார்ப்புருக்கள் அத்தியாயம் -22, பின்_கவர்: பின் கவர் மற்றும் சுருக்கம்]]]"
-
-#, no-wrap
-#~ msgid "** 1 **\n"
-#~ msgstr "** 1 **\n"
-
-#~ msgid "[[I:ada-p01 ADA & ZANGEMANN ]]"
-#~ msgstr "[[I: ada-p01 ada & zangemann]]"
 
 #, no-wrap
 #~ msgid ""
@@ -1315,9 +1325,6 @@ msgstr "நடுத்தர கூம்புக்கு மேலே உள
 #~ msgstr ""
 #~ "மத்தியாச் கிர்ச்னர்\n"
 #~ " சாண்ட்ரா பிராண்ட்ச்டாட்டர்\n"
-
-#~ msgid "## 2 ##"
-#~ msgstr "## 2 ##"
 
 #~ msgid "Copyright © 2023 Matthias Kirschner and Sandra Brandstätter.  This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.  To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA."
 #~ msgstr "பதிப்புரிமை © 2023 மத்தியாச் கிர்ச்னர் மற்றும் சாண்ட்ரா பிராண்ட்ச்டாட்டர். இந்த பணி கிரியேட்டிவ் காமன்ச் பண்புக்கூறு-சேர்அலைக் 4.0 பன்னாட்டு உரிமத்தின் கீழ் உரிமம் பெற்றது. இந்த உரிமத்தின் நகலைக் காண, http://creativecommons.org/licenses/by-sa/4.0/ ஐப் பார்வையிடவும் அல்லது கிரியேட்டிவ் காமன்ச், பிஓ பெட்டி 1866, மவுண்டன் வியூ, சிஏ 94042, அமெரிக்காவிற்கு ஒரு கடிதத்தை அனுப்பவும்."
@@ -1355,10 +1362,6 @@ msgstr "நடுத்தர கூம்புக்கு மேலே உள
 #~ msgid "All characters in this publication are fictitious, and any resemblance to real persons, living or dead, is purely coincidental."
 #~ msgstr "இந்த வெளியீட்டில் உள்ள அனைத்து கதாபாத்திரங்களும் கற்பனையானவை, மேலும் உண்மையான நபர்களுடன் எந்தவொரு ஒற்றுமையும், வாழ்க்கை அல்லது இறந்தவை, முற்றிலும் தற்செயலானவை."
 
-#, no-wrap
-#~ msgid "**\n"
-#~ msgstr "****\n"
-
 #~ msgid "This book by Matthias Kirschner (author) and Sandra Brandstätter (illustrator) is licensed under <b>Creative Commons CC-BY-SA</b>, a free cultural license."
 #~ msgstr "மத்தியாச் கிர்ச்னர் (ஆசிரியர்) மற்றும் சாண்ட்ரா பிராண்ட்ச்டாட்டர் (இல்லச்ட்ரேட்டர்) ஆகியோரின் இந்த நூல் <b> கிரியேட்டிவ் காமன்ச் சிசி-பை-எச்ஏ </b> இன் கீழ் உரிமம் பெற்றது."
 
@@ -1383,292 +1386,11 @@ msgstr "நடுத்தர கூம்புக்கு மேலே உள
 #~ msgid "We encourage you to support authors, publishers, and others involved in the creation of culture under free licenses – including <b>financially supporting them through purchases or donations</b>.  (https://fsfe.org/donate)  Society should support those who respect others' freedom."
 #~ msgstr "இலவச உரிமங்களின் கீழ் கலாச்சாரத்தை உருவாக்குவதில் ஈடுபட்டுள்ள ஆசிரியர்கள், வெளியீட்டாளர்கள் மற்றும் பிறரை ஆதரிக்க நாங்கள் உங்களை ஊக்குவிக்கிறோம் - <b> கொள்முதல் அல்லது நன்கொடைகள் மூலம் பொருள் ரீதியாக அவர்களுக்கு ஆதரவளிக்கிறது </b>. (https://fsfe.org/donate) மற்றவர்களின் சுதந்திரத்தை மதிக்கிறவர்களுக்கு சமூகம் ஆதரிக்க வேண்டும்."
 
-#, no-wrap
-#~ msgid "** 3 **\n"
-#~ msgstr "** 3 **\n"
-
 #~ msgid "=== Slide 1"
 #~ msgstr "=== ச்லைடு 1"
-
-#~ msgid "## 4 ##"
-#~ msgstr "## 4 ##"
-
-#~ msgid "==== Slide 2"
-#~ msgstr "==== ச்லைடு 2"
-
-#, no-wrap
-#~ msgid "** 5 **\n"
-#~ msgstr "** 5 **\n"
-
-#~ msgid "## 6 ##"
-#~ msgstr "## 6 ##"
-
-#~ msgid "==== Slide 3"
-#~ msgstr "==== ச்லைடு 3"
-
-#, no-wrap
-#~ msgid "** 7 **\n"
-#~ msgstr "** 7 **\n"
-
-#~ msgid "## 8 ##"
-#~ msgstr "## 8 ##"
-
-#~ msgid "==== Slide 4"
-#~ msgstr "==== ச்லைடு 4"
-
-#, no-wrap
-#~ msgid "** 9 **\n"
-#~ msgstr "** 9 **\n"
-
-#~ msgid "==== Slide 5"
-#~ msgstr "==== ச்லைடு 5"
-
-#~ msgid "## 10 ##"
-#~ msgstr "## 10 ##"
-
-#~ msgid "==== Slide 6"
-#~ msgstr "==== ச்லைடு 6"
-
-#, no-wrap
-#~ msgid "** 11 **\n"
-#~ msgstr "** 11 **\n"
-
-#~ msgid "## 12 ##"
-#~ msgstr "## 12 ##"
-
-#~ msgid "==== Slide 7"
-#~ msgstr "==== ச்லைடு 7"
-
-#, no-wrap
-#~ msgid "** 13 **\n"
-#~ msgstr "** 13 **\n"
-
-#~ msgid "## 14 ##"
-#~ msgstr "## 14 ##"
-
-#~ msgid "==== Slide 8"
-#~ msgstr "==== ச்லைடு 8"
-
-#, no-wrap
-#~ msgid "** 15 **\n"
-#~ msgstr "** 15 **\n"
-
-#~ msgid "## 16 ##"
-#~ msgstr "## 16 ##"
-
-#~ msgid "==== Slide 9"
-#~ msgstr "==== ச்லைடு 9"
-
-#, no-wrap
-#~ msgid "** 17 **\n"
-#~ msgstr "** 17 **\n"
-
-#~ msgid "## 18 ##"
-#~ msgstr "## 18 ##"
-
-#~ msgid "==== Slide 10"
-#~ msgstr "==== ச்லைடு 10"
-
-#, no-wrap
-#~ msgid "** 19 **\n"
-#~ msgstr "** 19 **\n"
-
-#~ msgid "## 20 ##"
-#~ msgstr "## 20 ##"
-
-#~ msgid "==== Slide 11"
-#~ msgstr "==== ச்லைடு 11"
-
-#, no-wrap
-#~ msgid "** 21 **\n"
-#~ msgstr "** 21 **\n"
-
-#~ msgid "## 22 ##"
-#~ msgstr "## 22 ##"
-
-#~ msgid "==== Slide 12"
-#~ msgstr "==== ச்லைடு 12"
-
-#, no-wrap
-#~ msgid "** 23 **\n"
-#~ msgstr "** 23 **\n"
-
-#~ msgid "## 24 ##"
-#~ msgstr "## 24 ##"
-
-#, no-wrap
-#~ msgid "** 25 **\n"
-#~ msgstr "** 25 **\n"
-
-#~ msgid "==== Slide 13"
-#~ msgstr "==== ச்லைடு 13"
-
-#~ msgid "## 26 ##"
-#~ msgstr "## 26 ##"
-
-#~ msgid "==== Slide 14"
-#~ msgstr "==== ச்லைடு 14"
-
-#, no-wrap
-#~ msgid "** 27 **\n"
-#~ msgstr "** 27 **\n"
-
-#~ msgid "## 28 ##"
-#~ msgstr "## 28 ##"
-
-#~ msgid "==== Slide 15"
-#~ msgstr "==== ச்லைடு 15"
-
-#, no-wrap
-#~ msgid "** 29 **\n"
-#~ msgstr "** 29 **\n"
-
-#~ msgid "## 30 ##"
-#~ msgstr "## 30 ##"
-
-#~ msgid "==== Slide 16"
-#~ msgstr "==== ச்லைடு 16"
-
-#~ msgid "==== Slide 17"
-#~ msgstr "==== ச்லைடு 17"
-
-#, no-wrap
-#~ msgid "** 31 **\n"
-#~ msgstr "** 31 **\n"
-
-#~ msgid "## 32 ##"
-#~ msgstr "## 32 ##"
-
-#, no-wrap
-#~ msgid "** 33 **\n"
-#~ msgstr "** 33 **\n"
-
-#~ msgid "## 34 ##"
-#~ msgstr "## 34 ##"
-
-#, no-wrap
-#~ msgid "** 35 **\n"
-#~ msgstr "** 35 **\n"
-
-#~ msgid "==== Slide 18"
-#~ msgstr "==== ச்லைடு 18"
-
-#~ msgid "## 36 ##"
-#~ msgstr "## 36 ##"
-
-#~ msgid "==== Slide 19"
-#~ msgstr "==== ச்லைடு 19"
-
-#, no-wrap
-#~ msgid "** 37 **\n"
-#~ msgstr "** 37 **\n"
-
-#~ msgid "## 38 ##"
-#~ msgstr "## 38 ##"
-
-#~ msgid "==== Slide 20"
-#~ msgstr "==== ச்லைடு 20"
-
-#, no-wrap
-#~ msgid "** 39 **\n"
-#~ msgstr "** 39 **\n"
-
-#~ msgid "==== Slide 21"
-#~ msgstr "==== ச்லைடு 21"
-
-#~ msgid "## 40 ##"
-#~ msgstr "## 40 ##"
-
-#, no-wrap
-#~ msgid "** 41 **\n"
-#~ msgstr "** 41 **\n"
-
-#~ msgid "## 42 ##"
-#~ msgstr "## 42 ##"
-
-#~ msgid "==== Slide 22"
-#~ msgstr "==== ச்லைடு 22"
-
-#, no-wrap
-#~ msgid "** 43 **\n"
-#~ msgstr "** 43 **\n"
-
-#~ msgid "## 44 ##"
-#~ msgstr "## 44 ##"
-
-#~ msgid "==== Slide 23"
-#~ msgstr "==== ச்லைடு 23"
-
-#, no-wrap
-#~ msgid "** 45 **\n"
-#~ msgstr "** 45 **\n"
-
-#~ msgid "## 46 ##"
-#~ msgstr "## 46 ##"
-
-#~ msgid "==== Slide 24"
-#~ msgstr "==== ச்லைடு 24"
-
-#, no-wrap
-#~ msgid "** 47 **\n"
-#~ msgstr "** 47 **\n"
-
-#~ msgid "## 48 ##"
-#~ msgstr "## 48 ##"
-
-#~ msgid "==== Slide 25"
-#~ msgstr "==== ச்லைடு 25"
-
-#~ msgid "===== Slide 26"
-#~ msgstr "===== ச்லைடு 26"
-
-#, no-wrap
-#~ msgid "** 49 **\n"
-#~ msgstr "** 49 **\n"
-
-#~ msgid "## 50 ##"
-#~ msgstr "## 50 ##"
 
 #~ msgid "For the English edition, I would like to thank John for his valuable feedback to improve the language, as well as Catharina, Pam, Till, and Vint for assisting me in figuring out how to get the book published."
 #~ msgstr "ஆங்கில பதிப்பைப் பொறுத்தவரை, மொழியை மேம்படுத்துவதற்கான மதிப்புமிக்க கருத்துக்களுக்கும், புத்தகத்தை எவ்வாறு வெளியிடுவது என்பதைக் கண்டுபிடிப்பதில் எனக்கு உதவியதற்காக கேதரினா, பாம், டில், மற்றும் விண்ட் ஆகியோருக்கும் நன்றி தெரிவிக்க விரும்புகிறேன்."
 
-#, no-wrap
-#~ msgid "** 51 **\n"
-#~ msgstr "** 51 **\n"
-
-#~ msgid "## 52 ##"
-#~ msgstr "## 52 ##"
-
-#, no-wrap
-#~ msgid "** 53 **\n"
-#~ msgstr "** 53 **\n"
-
-#~ msgid "## 54 ##"
-#~ msgstr "## 54 ##"
-
 #~ msgid "Website for the book"
 #~ msgstr "புத்தகத்திற்கான வலைத்தளம்"
-
-#, no-wrap
-#~ msgid "** 55 **\n"
-#~ msgstr "** 55 **\n"
-
-#~ msgid "https://creativecommons.org/licenses/by-sa/4.0/"
-#~ msgstr "https://creativecommons.org/licenses/by-sa/4.0/"
-
-#~ msgid "## 56 ##"
-#~ msgstr "## 56 ##"
-
-#, no-wrap
-#~ msgid "** 57 **\n"
-#~ msgstr "** 57 **\n"
-
-#~ msgid "## 58 ##"
-#~ msgstr "## 58 ##"
-
-#, no-wrap
-#~ msgid "** 59 **\n"
-#~ msgstr "** 59 **\n"
-
-#~ msgid "## 60 ##"
-#~ msgstr "## 60 ##"

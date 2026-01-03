@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2025-12-29 10:09+0100\n"
+"PO-Revision-Date: 2026-01-03 07:41+0100\n"
 "Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
 "Language-Team: Portuguese (Portugal) <https://hosted.weblate.org/projects/fsfe/ada-zangemann/pt_PT/>\n"
 "Language: pt_PT\n"
@@ -403,13 +403,37 @@ msgstr "A mansão de Zangemann ficava no alto de uma colina. De lá, ele podia o
 msgid "Zangemann and computers"
 msgstr ""
 
-#. (itstool) path: simplesect/para
-#. (itstool) id: Ada_Zangemann.dbk#para-p06-1
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:529
-msgid "Computers had fascinated Zangemann ever since he was a child. When he was young, computers were huge machines with lots of cables and loud, noisy fans. At school, little Zangemann often dreamed of all the things he would do with computers if they were just a little bit smaller — small enough that they could be built into other fun things. He knew what he would do. First, he would build a computer into his skateboard so that it would make cool noises when he rode it — maybe a fire engine siren or the sound of a rocket launch. Then he would use a computer to invent ice‑cream-making machines! The computer would mix the coolest flavors and even sell the ice cream. There would be machines on every street corner, and he could get ice cream in his favorite flavor whenever he felt like it, and just as much as he wanted. After that, he’d build a cleaning robot and a block-sorting machine so that his room would always be neat and clean. Zangemann had great new ideas like these every day. He could think of nothing else."
-msgstr "Os computadores fascinaram Zangemann desde muito novo. Quando ele era jovem, os computadores eram máquinas enormes com muitos cabos e ventoinhas barulhentas. Na escola, o pequeno Zangemann sonhava com todas as coisas que poderia fazer com os computadores se estes fossem suficientemente pequenos para poderem ser integrados noutras coisas divertidas. Ele sabia o que iria fazer. Primeiro, iria incorporar um computador no seu skate para que fizesse barulhos fixes quando andasse nele - talvez uma sirene de um carro de bombeiros ou o som de um foguetão a descolar da rampa de lançamento. Depois, usaria o computador para inventar máquinas de fazer gelados! O computador misturaria os sabores mais fixes e até venderia o gelado. Haveria máquinas em todas as esquinas, e ele poderia comprar gelado do seu sabor preferido sempre que lhe apetecesse, e na quantidade que quisesse. Depois disso, construiria um robô de limpeza e uma máquina de seleção de blocos para que o seu quarto estivesse sempre arrumado e limpo. O Zangemann tinha ideias novas como estas todos os dias. Não pensava noutra coisa."
+msgid "Computers had fascinated Zangemann ever since he was a child. When he was young, computers were huge machines with lots of cables and loud, noisy fans."
+msgstr "Os computadores fascinaram Zangemann desde muito novo. Quando ele era jovem, os computadores eram máquinas enormes com muitos cabos e ventoinhas barulhentas."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:529
+msgid "At school, little Zangemann often dreamed of all the things he would do with computers if they were just a little bit smaller — small enough that they could be built into other fun things."
+msgstr "Na escola, o pequeno Zangemann sonhava com todas as coisas que poderia fazer com os computadores se estes fossem suficientemente pequenos para poderem ser integrados noutras coisas divertidas."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:529
+msgid "He knew what he would do. First, he would build a computer into his skateboard so that it would make cool noises when he rode it — maybe a fire engine siren or the sound of a rocket launch."
+msgstr "Ele sabia o que iria fazer. Primeiro, iria incorporar um computador no seu skate para que fizesse barulhos fixes quando andasse nele - talvez uma sirene de um carro de bombeiros ou o som de um foguetão a descolar da rampa de lançamento."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:529
+msgid "Then he would use a computer to invent ice‑cream-making machines! The computer would mix the coolest flavors and even sell the ice cream."
+msgstr "Depois, usaria o computador para inventar máquinas de fazer gelados! O computador misturaria os sabores mais fixes e até venderia o gelado."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:529
+msgid "There would be machines on every street corner, and he could get ice cream in his favorite flavor whenever he felt like it, and just as much as he wanted. After that, he’d build a cleaning robot and a block-sorting machine so that his room would always be neat and clean."
+msgstr "Haveria máquinas em todas as esquinas, e ele poderia comprar gelado do seu sabor preferido sempre que lhe apetecesse, e na quantidade que quisesse. Depois disso, construiria um robô de limpeza e uma máquina de seleção de blocos para que o seu quarto estivesse sempre arrumado e limpo."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:529
+msgid "Zangemann had great new ideas like these every day. He could think of nothing else."
+msgstr "O Zangemann tinha ideias novas como estas todos os dias. Não pensava noutra coisa."
+
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:530
 msgid "As the years went by, Zangemann grew bigger and computers got smaller. In fact, by the time he finished school, they were so small they fit in his pocket. The smallest ones even fit on his fingertip."
 msgstr "Com o passar dos anos, o Zangemann cresceu e os computadores ficaram mais pequenos. De facto, quando terminou a escola, os computadores eram tão pequenos que cabiam no seu bolso. Os mais pequenos até cabiam na ponta do dedo."

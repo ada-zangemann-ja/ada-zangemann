@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2025-12-29 09:39+0100\n"
+"PO-Revision-Date: 2026-01-03 06:37+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ar\n"
@@ -419,13 +419,37 @@ msgstr "كان قصرُ زانغمان مرتفعاً على تلّ. من هنا
 msgid "Zangemann and computers"
 msgstr ""
 
-#. (itstool) path: simplesect/para
-#. (itstool) id: Ada_Zangemann.dbk#para-p06-1
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:529
-msgid "Computers had fascinated Zangemann ever since he was a child. When he was young, computers were huge machines with lots of cables and loud, noisy fans. At school, little Zangemann often dreamed of all the things he would do with computers if they were just a little bit smaller — small enough that they could be built into other fun things. He knew what he would do. First, he would build a computer into his skateboard so that it would make cool noises when he rode it — maybe a fire engine siren or the sound of a rocket launch. Then he would use a computer to invent ice‑cream-making machines! The computer would mix the coolest flavors and even sell the ice cream. There would be machines on every street corner, and he could get ice cream in his favorite flavor whenever he felt like it, and just as much as he wanted. After that, he’d build a cleaning robot and a block-sorting machine so that his room would always be neat and clean. Zangemann had great new ideas like these every day. He could think of nothing else."
-msgstr "حتى عندما كان طفلاً ، فتنت أجهزةُ الكمبيوتر زانغمان. في ذلك الوقت وكانت لا تزال آلاتٍ ضخمةً بها الكثير من الكابلات والمراوح الصاخبة. في المدرسة ، غالباً ما كان زانغمان الصغير يَحلُمُ بكل الأشياء التي سيفعلها مع أجهزة الكمبيوتر إذا كانت أَصْغَرَ قليلاً ، صغيرةً بما يكفي ليتمَّ دمجُها في أجهزة أخرى. أولاً: كان سيصنع جهاز كمبيوتر في لوح التزلج الخاص به ، بحيث يمكن أَنْ يُصْدِرَ الكثير من الأصوات المختلفة عندما يُرَكِّبُ لها صفارة إنذار لمحرك الإطفاء أو صوت إطلاق صاروخ. وكان يَخْترع آلاتِ الآيس كريم! يقومُ الكمبيوتر بخَلْط أروعِ النَكَهات وبيع الآيس كريم تِلقْائياً. ستكون الآلاتُ في كل زاويةِ شارعٍ ، وسيكون قادراً على الحصول على الآيس كريم بنكهته المفضلة متى شَعَر بذلك. بعد ذلك ، كان يَصْنع روبوتاً مُنَظّماً ويبني آلةً لفرز الأشياء ، لذا ستكون غرفتُه دائماً جميلةً ونظيفةً. كان لدى زانغمان أفكارٌ جديدة كل يوم. لا يمكنه التفكير في أَيِّ شيءٍ آخَرَ."
+msgid "Computers had fascinated Zangemann ever since he was a child. When he was young, computers were huge machines with lots of cables and loud, noisy fans."
+msgstr "حتى عندما كان طفلاً ، فتنت أجهزةُ الكمبيوتر زانغمان. في ذلك الوقت وكانت لا تزال آلاتٍ ضخمةً بها الكثير من الكابلات والمراوح الصاخبة."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:529
+msgid "At school, little Zangemann often dreamed of all the things he would do with computers if they were just a little bit smaller — small enough that they could be built into other fun things."
+msgstr "في المدرسة ، غالباً ما كان زانغمان الصغير يَحلُمُ بكل الأشياء التي سيفعلها مع أجهزة الكمبيوتر إذا كانت أَصْغَرَ قليلاً ، صغيرةً بما يكفي ليتمَّ دمجُها في أجهزة أخرى."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:529
+msgid "He knew what he would do. First, he would build a computer into his skateboard so that it would make cool noises when he rode it — maybe a fire engine siren or the sound of a rocket launch."
+msgstr "أولاً: كان سيصنع جهاز كمبيوتر في لوح التزلج الخاص به ، بحيث يمكن أَنْ يُصْدِرَ الكثير من الأصوات المختلفة عندما يُرَكِّبُ لها صفارة إنذار لمحرك الإطفاء أو صوت إطلاق صاروخ."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:529
+msgid "Then he would use a computer to invent ice‑cream-making machines! The computer would mix the coolest flavors and even sell the ice cream."
+msgstr "وكان يَخْترع آلاتِ الآيس كريم! يقومُ الكمبيوتر بخَلْط أروعِ النَكَهات وبيع الآيس كريم تِلقْائياً."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:529
+msgid "There would be machines on every street corner, and he could get ice cream in his favorite flavor whenever he felt like it, and just as much as he wanted. After that, he’d build a cleaning robot and a block-sorting machine so that his room would always be neat and clean."
+msgstr "ستكون الآلاتُ في كل زاويةِ شارعٍ ، وسيكون قادراً على الحصول على الآيس كريم بنكهته المفضلة متى شَعَر بذلك. بعد ذلك ، كان يَصْنع روبوتاً مُنَظّماً ويبني آلةً لفرز الأشياء ، لذا ستكون غرفتُه دائماً جميلةً ونظيفةً."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:529
+msgid "Zangemann had great new ideas like these every day. He could think of nothing else."
+msgstr "كان لدى زانغمان أفكارٌ جديدة كل يوم. لا يمكنه التفكير في أَيِّ شيءٍ آخَرَ"
+
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:530
 msgid "As the years went by, Zangemann grew bigger and computers got smaller. In fact, by the time he finished school, they were so small they fit in his pocket. The smallest ones even fit on his fingertip."
 msgstr "في الواقع ، كلما زاد حجم زانغمان ، أصبحت أجهزة الكمبيوتر أصغر ، وبحلول الوقت الذي أنهى فيه المدرسةَ ، صارت صغيرة بحيث يتسع لها جيبه. حتى أَنَّ أَصْغَرَها تُناسبُ أطرافَ أصابعه."
