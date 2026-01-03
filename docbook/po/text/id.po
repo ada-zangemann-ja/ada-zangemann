@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-03 07:22+0100\n"
+"PO-Revision-Date: 2026-01-03 09:34+0100\n"
 "Last-Translator: Arif Budiman <arifpedia@gmail.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/fsfe/ada-zangemann/id/>\n"
 "Language: id\n"
@@ -528,22 +528,22 @@ msgstr "Mesin es krim asli buatan bapak Zangemann. Warnanya ice blue yaitu warna
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:549
 msgid "Adults and children loved his inventions. All the kids wanted to have one of his skateboards — complete with the latest sounds to show off to their friends at school."
-msgstr ""
+msgstr "Orang dewasa dan anak-anak menyukai penemuannya. Semua anak ingin memiliki salah satu skateboard-nya — lengkap dengan suara-suara terbaru untuk dipamerkan kepada teman-teman mereka di sekolah."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:549
 msgid "Kids also loved his speaker invention, which could instantly play any song you requested."
-msgstr ""
+msgstr "Anak-anak juga menyukai penemuan speakernya, yang dapat langsung memutar lagu apa pun yang Anda minta."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:549
 msgid "And, of course, everyone loved the ice cream served every afternoon from the automatic, extra-delicious Original Zangemann Ice Cream Machine."
-msgstr ""
+msgstr "Dan tentu saja, semua orang menyukai es krim yang disajikan setiap sore dari Mesin Es Krim Zangemann Asli otomatis yang ekstra lezat."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:549
 msgid "It all seemed like magic, but the secret was simple: the little computers that Zangemann built into his machines made it all possible."
-msgstr ""
+msgstr "Semuanya tampak seperti sihir, tetapi rahasianya sederhana: komputer-komputer kecil yang dipasang Zangemann ke dalam mesin-mesinnya membuat semua itu mungkin."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the

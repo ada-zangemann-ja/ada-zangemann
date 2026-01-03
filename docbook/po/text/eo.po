@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-03 08:25+0100\n"
+"PO-Revision-Date: 2026-01-03 08:59+0100\n"
 "Last-Translator: Marco Ciampa <ciampix@posteo.net>\n"
 "Language-Team: Esperanto <https://hosted.weblate.org/projects/fsfe/ada-zangemann/eo/>\n"
 "Language: eo\n"
@@ -504,22 +504,22 @@ msgstr "Originala glaciaĵmaŝino de Zangemann. Ĝi estas glaciblua kaj similas 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:549
 msgid "Adults and children loved his inventions. All the kids wanted to have one of his skateboards — complete with the latest sounds to show off to their friends at school."
-msgstr ""
+msgstr "Plenkreskuloj kaj infanoj amis liajn inventaĵojn. Ĉiuj infanoj volis havi unu el liaj rultabuloj — kompleta kun la plej novaj sonoj por montri al siaj amikoj en la lernejo."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:549
 msgid "Kids also loved his speaker invention, which could instantly play any song you requested."
-msgstr ""
+msgstr "Infanoj ankaŭ amis lian laŭtparolilan inventon, kiu povis tuj ludi ajnan kanton, kiun vi petis."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:549
 msgid "And, of course, everyone loved the ice cream served every afternoon from the automatic, extra-delicious Original Zangemann Ice Cream Machine."
-msgstr ""
+msgstr "Kaj, kompreneble, ĉiuj amis la glaciaĵon servatan ĉiun posttagmezon de la aŭtomata, ekstra bongusta Originala Zangemann Glaciaĵoj-maŝino."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:549
 msgid "It all seemed like magic, but the secret was simple: the little computers that Zangemann built into his machines made it all possible."
-msgstr ""
+msgstr "Ĉio ŝajnis magie, sed la sekreto estis simpla: la malgrandaj komputiloj, kiujn Zangemann enkonstruis en siajn maŝinojn, ebligis ĉion."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the

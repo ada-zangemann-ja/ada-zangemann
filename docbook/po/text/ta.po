@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-03 08:05+0100\n"
+"PO-Revision-Date: 2026-01-03 09:48+0100\n"
 "Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
 "Language-Team: Tamil <https://hosted.weblate.org/projects/fsfe/ada-zangemann/ta/>\n"
 "Language: ta\n"
@@ -455,22 +455,22 @@ msgstr "நான்: ADA-P08B படம்: சாங்கேமன் அச�
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:549
 msgid "Adults and children loved his inventions. All the kids wanted to have one of his skateboards — complete with the latest sounds to show off to their friends at school."
-msgstr ""
+msgstr "பெரியவர்களும் குழந்தைகளும் அவரது கண்டுபிடிப்புகளை நேசித்தார்கள். எல்லா குழந்தைகளும் அவரது ச்கேட்போர்டுகளில் ஒன்றை வைத்திருக்க விரும்பினர் - பள்ளியில் தங்கள் நண்பர்களைக் காண்பிப்பதற்கான அண்மைக் கால ஒலிகளுடன் முடிந்தது."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:549
 msgid "Kids also loved his speaker invention, which could instantly play any song you requested."
-msgstr ""
+msgstr "குழந்தைகள் அவரது பேச்சாளர் கண்டுபிடிப்பையும் நேசித்தார்கள், இது நீங்கள் கோரிய எந்த பாடலையும் உடனடியாக இயக்க முடியும்."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:549
 msgid "And, of course, everyone loved the ice cream served every afternoon from the automatic, extra-delicious Original Zangemann Ice Cream Machine."
-msgstr ""
+msgstr "மற்றும், நிச்சயமாக, எல்லோரும் தானியங்கி, கூடுதல்-சுவையான அசல் சாங்கேமன் ஐச்கிரீம் இயந்திரத்திலிருந்து ஒவ்வொரு பிற்பகலும் பரிமாறப்பட்ட ஐச்கிரீமை நேசித்தார்கள்"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:549
 msgid "It all seemed like magic, but the secret was simple: the little computers that Zangemann built into his machines made it all possible."
-msgstr ""
+msgstr "இது எல்லாம் மந்திரமாகத் தோன்றியது, ஆனால் மறைபொருள் எளிமையானது: சாங்க்மேன் தனது இயந்திரங்களில் கட்டிய சிறிய கணினிகள் அனைத்தையும் சாத்தியமாக்கியது."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the

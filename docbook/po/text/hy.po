@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-03 07:19+0100\n"
+"PO-Revision-Date: 2026-01-03 09:32+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: hy\n"
@@ -455,22 +455,22 @@ msgstr ""
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:549
 msgid "Adults and children loved his inventions. All the kids wanted to have one of his skateboards — complete with the latest sounds to show off to their friends at school."
-msgstr ""
+msgstr "Մեծերն ու փոքրերը սիրում էին նրա յօրինածները։ Բոլոր երեխաներն ուզում էին նրա սքեյթներից՝ վերջին հնչիւններով, որ ցուցադրէին իրենց դպրոցի ընկերներին։"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:549
 msgid "Kids also loved his speaker invention, which could instantly play any song you requested."
-msgstr ""
+msgstr "Երեխաները սիրում էին նաեւ նրա բարձրախօսը, որը միանգամից նուագում էր ցանկացած երգ, որ ուզում էին։"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:549
 msgid "And, of course, everyone loved the ice cream served every afternoon from the automatic, extra-delicious Original Zangemann Ice Cream Machine."
-msgstr ""
+msgstr "Եւ, իհարկէ, բոլորը սիրում էի ամեն օր կէսօրից յետոյ աւտոմատից մատուցուող պաղպաղակը, էքստրահամեղ Օրիգինալ Զանգեման Պաղպաղակի Մեքենայ:"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:549
 msgid "It all seemed like magic, but the secret was simple: the little computers that Zangemann built into his machines made it all possible."
-msgstr ""
+msgstr "Ամեն ինչ հրաշքի էր նման, բայց գաղտնիքը պարզ էր՝ փոքր համակարգիչները, որ Զանգեմանը սարքում էր իր մեքենաների մէջ, դարձնում էր այդ ամենը հնարաւոր։"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the

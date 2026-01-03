@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2025-11-25 21:49+0100\n"
-"PO-Revision-Date: 2026-01-03 07:37+0100\n"
+"PO-Revision-Date: 2026-01-03 09:40+0100\n"
 "Last-Translator: Kjetil Torgrim Homme <kjetilho@njus.no>\n"
 "Language-Team: \n"
 "Language: nn\n"
@@ -508,22 +508,22 @@ msgstr "Original Zangemann iskremmaskin. Fargen er isblå og liknar på ein drik
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:549
 msgid "Adults and children loved his inventions. All the kids wanted to have one of his skateboards — complete with the latest sounds to show off to their friends at school."
-msgstr ""
+msgstr "Barn og vaksne elska oppfinningane hans. Alle barna ville ha eit av rullebretta hans med dei siste lydane bygd inn, slik at dei kunne visa dei til vennene sine på skulen."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:549
 msgid "Kids also loved his speaker invention, which could instantly play any song you requested."
-msgstr ""
+msgstr "Dei elska også dei smarte høgtalarane hans som kunne spela akkurat den songen du ønskte deg."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:549
 msgid "And, of course, everyone loved the ice cream served every afternoon from the automatic, extra-delicious Original Zangemann Ice Cream Machine."
-msgstr ""
+msgstr "Og dei som framleis hadde nokre lommepengar igjen, dei kjøpte isen som vart servert kvar ettermiddag frå ein automatisk Original Zangemann iskremmaskin."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:549
 msgid "It all seemed like magic, but the secret was simple: the little computers that Zangemann built into his machines made it all possible."
-msgstr ""
+msgstr "Det var som magi, men i røyndommen var det heile veldig enkelt: det var små datamaskiner som Zangemann hadde bygd inn i maskinene sine som gjorde det heile mogleg."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the

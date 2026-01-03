@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-03 08:29+0100\n"
+"PO-Revision-Date: 2026-01-03 09:05+0100\n"
 "Last-Translator: itagenata <ivan@tagenata.com>\n"
 "Language-Team: Galician <https://hosted.weblate.org/projects/fsfe/ada-zangemann/gl/>\n"
 "Language: gl\n"
@@ -462,22 +462,22 @@ msgstr "Máquina de xeados orixinal de Zangemann. É de cor celeste e aseméllas
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:549
 msgid "Adults and children loved his inventions. All the kids wanted to have one of his skateboards — complete with the latest sounds to show off to their friends at school."
-msgstr ""
+msgstr "Os seus inventos encantaban aos cativos e aos adultos. Todos os nenos querían os seus monopatíns cos últimos sons para ensinarllos aos seus amigos do colexio."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:549
 msgid "Kids also loved his speaker invention, which could instantly play any song you requested."
-msgstr ""
+msgstr "Aos nenos tamén lles encantaba o altofalante que inventara, que ao instante reproducía calquera canción que lle pedises."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:549
 msgid "And, of course, everyone loved the ice cream served every afternoon from the automatic, extra-delicious Original Zangemann Ice Cream Machine."
-msgstr ""
+msgstr "E por suposto, a todo o mundo lle encantaba o xeado que todas as tardes servía a \"Máquina de Xeados Orixinal Zangemann\"."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:549
 msgid "It all seemed like magic, but the secret was simple: the little computers that Zangemann built into his machines made it all possible."
-msgstr ""
+msgstr "Todo semellaba máxico, pero o segredo era sinxelo: os pequenos ordenadores que Zangemann incorporara as súas máquinas."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
