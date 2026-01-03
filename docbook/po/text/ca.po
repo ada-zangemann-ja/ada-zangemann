@@ -1302,6 +1302,3 @@ msgstr ""
 #: Ada_Zangemann.dbk:1139
 msgid "Three hands that hold as many empty ice cream cones, to draw and color. In the air above the middle cone is an umbrella."
 msgstr ""
-
-#~ msgid "Adults and children loved his inventions. All the kids wanted to have one of his skateboards — complete with the latest sounds to show off to their friends at school. Kids also loved his speaker invention, which could instantly play any song you requested. And, of course, everyone loved the ice cream served every afternoon from the automatic, extra-delicious Original Zangemann Ice Cream Machine. It all seemed like magic, but the secret was simple: the little computers that Zangemann built into his machines made it all possible."
-#~ msgstr "Els seus invents encantaven a grans i menuts. Tots els xiquets i xiquetes volien tenir un dels seus monopatins —tots incloent els sons més nous per a presumir davant dels amics a l’escola. També els fascinava l’altaveu, inventat per Zangemann, que podia tocar qualsevol cançó que li demanares al moment. I, per descomptat, a tothom li encantava el gelat servit cada vesprada de forma automàtica i superdeliciosa per la Màquina de Gelats Original de Zangemann. Tot allò semblava màgia, però el secret era simple: els ordinadors xicotets que Zangemann ficava en les seues màquines ho feien possible."

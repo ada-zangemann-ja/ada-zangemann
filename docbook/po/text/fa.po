@@ -1371,6 +1371,3 @@ msgstr ""
 #: Ada_Zangemann.dbk:1139
 msgid "Three hands that hold as many empty ice cream cones, to draw and color. In the air above the middle cone is an umbrella."
 msgstr "سه تا دست هست که هر کدوم یه قیف بستنی گرفتن تا بچه‌ها بکشن و رنگش کنن. بالای قیف وسطی یه چتر توی هواست."
-
-#~ msgid "Adults and children loved his inventions. All the kids wanted to have one of his skateboards — complete with the latest sounds to show off to their friends at school. Kids also loved his speaker invention, which could instantly play any song you requested. And, of course, everyone loved the ice cream served every afternoon from the automatic, extra-delicious Original Zangemann Ice Cream Machine. It all seemed like magic, but the secret was simple: the little computers that Zangemann built into his machines made it all possible."
-#~ msgstr "بزرگ‌ترها و بچه‌ها اختراعات او را دوست داشتند. همه بچه‌ها می‌خواستند یکی از اسکیت‌بردهای او را داشته باشند — با آخرین صداها برای نمایش به دوستانشان در مدرسه. بچه‌ها همچنین اختراع بلندگوی او را دوست داشتند که می‌توانست به‌طور آنی هر آهنگی را که درخواست می‌کردید پخش کند. و البته، همه از بستنی که هر بعدازظهر از دستگاه بستنی‌ساز اتوماتیک و فوق‌العاده خوشمزه زنگِمن سرو می‌شد، لذت می‌بردند. همه چیز به نظر جادو می‌رسید، اما راز آن ساده بود: کامپیوترهای کوچکی که زنگِمن در دستگاه‌هایش ساخته بود، همه چیز را ممکن می‌کرد."

@@ -1341,6 +1341,3 @@ msgstr ""
 #: Ada_Zangemann.dbk:1139
 msgid "Three hands that hold as many empty ice cream cones, to draw and color. In the air above the middle cone is an umbrella."
 msgstr ""
-
-#~ msgid "Adults and children loved his inventions. All the kids wanted to have one of his skateboards — complete with the latest sounds to show off to their friends at school. Kids also loved his speaker invention, which could instantly play any song you requested. And, of course, everyone loved the ice cream served every afternoon from the automatic, extra-delicious Original Zangemann Ice Cream Machine. It all seemed like magic, but the secret was simple: the little computers that Zangemann built into his machines made it all possible."
-#~ msgstr "Të rriturit dhe fëmijët i adhuronin shpikjet e tij. Të gjithë fëmijët dëshironin skateboard-in e Zangemannit me tingullin më të fundit për të bërë përshtypje te shokët në oborrin e shkollës. Shumë kishin gjithashtu bokse Zangemann, shumë praktikë. Mjaftonte t’u tregoje titullin e një kënge dhe mund ta dëgjoje menjëherë. Dhe kush kishte ende para xhepi, shkonte të blinte një akullore të përgatitur automatikisht nga makina e akulloreve origjinale të Zangemannit sapo dilte nga shkolla. Ishte si magji – por gjithçka kontrollohej nga kompjuterët e vegjël që Zangemanni kishte vendosur në pajisje."
