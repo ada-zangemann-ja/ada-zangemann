@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-03 12:02+0100\n"
+"PO-Revision-Date: 2026-01-03 13:33+0100\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/fsfe/ada-zangemann/es/>\n"
 "Language: es\n"
@@ -537,14 +537,13 @@ msgstr "ni el monopatín, ni los altavoces, ni helados."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:566
-#, fuzzy
 msgid "Luckily, Ada lived right next to the junkyard. There were lots of broken gadgets and rusty parts, which she put together to make cool new things, like a soapbox she and Alan rode roaring down the hill, a windmill, and scary junk monsters, which she and Alan would fight together."
-msgstr "Por suerte, Ada vivía justo al lado del desguace. Había montones de aparatos rotos y piezas oxidadas que ella juntaba para construir cosas nuevas y geniales, como una caja grande de madera en la que Alan y ella se deslizaban colina abajo a toda velocidad, un molino de viento y monstruos terroríficos de chatarra contra los que luchaban juntos. También encontró muchos objetos útiles como, por ejemplo, un viejo teléfono móvil. La pantalla estaba rota pero podía arreglarla y, aunque no había internet en el desguace, podía acceder a la web en otro sitio. Tanto se divertía Ada trasteando en el desguace y arreglando cosas rotas que se olvidó por completo de los monopatines y el helado."
+msgstr "Por suerte, Ada vivía justo al lado del desguace. Había montones de aparatos rotos y piezas oxidadas que ella juntaba para construir cosas nuevas y geniales, como una caja grande de madera en la que Alan y ella se deslizaban colina abajo a toda velocidad, un molino de viento y monstruos terroríficos de chatarra contra los que luchaban juntos."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:566
 msgid "She also found many useful items—an old cell phone, for example. The screen was cracked, but she could fix that, and while there wasn’t internet at the junkyard, she could get access somewhere else."
-msgstr ""
+msgstr "También encontró muchos objetos útiles como, por ejemplo, un viejo teléfono móvil. La pantalla estaba rota pero podía arreglarla y, aunque no había internet en el desguace, podía acceder a la web en otro sitio. Tanto se divertía Ada trasteando en el desguace y arreglando cosas rotas que se olvidó por completo de los monopatines y el helado."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:567

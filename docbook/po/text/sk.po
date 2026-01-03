@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-03 12:12+0100\n"
+"PO-Revision-Date: 2026-01-03 13:47+0100\n"
 "Last-Translator: Pavol Bezak <bezakp@gmail.com>\n"
 "Language-Team: Slovak <https://hosted.weblate.org/projects/fsfe/ada-zangemann/sk/>\n"
 "Language: sk\n"
@@ -500,14 +500,13 @@ msgstr "Žiadny skejtbord, žiadne reproduktory, žiadna zmrzlina."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:566
-#, fuzzy
 msgid "Luckily, Ada lived right next to the junkyard. There were lots of broken gadgets and rusty parts, which she put together to make cool new things, like a soapbox she and Alan rode roaring down the hill, a windmill, and scary junk monsters, which she and Alan would fight together."
-msgstr "Našťastie Ada bývala vedľa vrakoviska. Našla pokazené zariadenia a hrdzavé časti, z ktorých stavala super veci. Krabica od mydla, na ktorej sa Ada s malým bratom Alanom šmýkali z kopca. Ventilátor, alebo strašné monštrá, proti ktorým spolu bojovali. Našla aj veľa užitočných vecí. Napríklad starý mobil. Displej bol síce prasknutý, ale to dokázala opraviť. Na vrakovisku nebol internet, ale ten našla inde."
+msgstr "Našťastie Ada bývala vedľa vrakoviska. Našla pokazené zariadenia a hrdzavé časti, z ktorých stavala super veci. Krabica od mydla, na ktorej sa Ada s malým bratom Alanom šmýkali z kopca. Ventilátor, alebo strašné monštrá, proti ktorým spolu bojovali."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:566
 msgid "She also found many useful items—an old cell phone, for example. The screen was cracked, but she could fix that, and while there wasn’t internet at the junkyard, she could get access somewhere else."
-msgstr ""
+msgstr "Našla aj veľa užitočných vecí. Napríklad starý mobil. Displej bol síce prasknutý, ale to dokázala opraviť. Na vrakovisku nebol internet, ale ten našla inde."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:567

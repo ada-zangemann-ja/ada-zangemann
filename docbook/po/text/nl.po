@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-03 12:10+0100\n"
+"PO-Revision-Date: 2026-01-03 13:45+0100\n"
 "Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/fsfe/ada-zangemann/nl/>\n"
 "Language: nl\n"
@@ -552,14 +552,13 @@ msgstr "Geen skateboard, geen speakers, geen ijsjes."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:566
-#, fuzzy
 msgid "Luckily, Ada lived right next to the junkyard. There were lots of broken gadgets and rusty parts, which she put together to make cool new things, like a soapbox she and Alan rode roaring down the hill, a windmill, and scary junk monsters, which she and Alan would fight together."
-msgstr "Gelukkig woonde Ada direct naast de schroothoop. Daar waren veel kapotte en roestige spullen, die ze samenvoegde tot nieuwe coole dingen. Zoals een zeepkist waarin zij en Alan van de berg naar beneden scheurden, een windmolen, en enge schrootmonsters waar ze dan samen tegen vochten. Ze vond ook veel nuttige dingen zoals een oude mobiele telefoon. Het scherm was kapot, maar dat kon ze vervangen. Op de schroothoop was geen internet, maar ze kon ergens anders wel toegang krijgen."
+msgstr "Gelukkig woonde Ada direct naast de schroothoop. Daar waren veel kapotte en roestige spullen, die ze samenvoegde tot nieuwe coole dingen. Zoals een zeepkist waarin zij en Alan van de berg naar beneden scheurden, een windmolen, en enge schrootmonsters waar ze dan samen tegen vochten."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:566
 msgid "She also found many useful items—an old cell phone, for example. The screen was cracked, but she could fix that, and while there wasn’t internet at the junkyard, she could get access somewhere else."
-msgstr ""
+msgstr "Ze vond ook veel nuttige dingen zoals een oude mobiele telefoon. Het scherm was kapot, maar dat kon ze vervangen. Op de schroothoop was geen internet, maar ze kon ergens anders wel toegang krijgen."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:567

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-03 12:08+0100\n"
+"PO-Revision-Date: 2026-01-03 13:45+0100\n"
 "Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/fsfe/ada-zangemann/ko/>\n"
 "Language: ko\n"
@@ -560,14 +560,13 @@ msgstr "멋진 스케이드보드도 스피커도 그리고 아이스크림도�
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:566
-#, fuzzy
 msgid "Luckily, Ada lived right next to the junkyard. There were lots of broken gadgets and rusty parts, which she put together to make cool new things, like a soapbox she and Alan rode roaring down the hill, a windmill, and scary junk monsters, which she and Alan would fight together."
-msgstr "하지만 운좋게도 에이다는 고물 수집장 옆에서 살았어요. 거기에는 다양한 부서진 물건들과 오래된 부품들이 있었어요. 그걸로 에이다는 동생 앨런과 신나게 언덕을 미끄러져서 내려갈 수 있는 나무 상자라던가 풍차라던가 힘을 합쳐 무찌를 수 있는 무서운 쓰레기 괴물같은걸 만들 수 있었어요. 에이다는 오래된 핸드폰 같은 유용한 물건도 찾을 수 있었어요. 화면은 비록 깨져있었지만 다시 고칠 수 있었어요. 고물 수집장에 인터넷이 깔려 있지 않았지만 여기가 아닌 다른 곳에서 핸드폰으로 인터넷에 접속할 수 있었어요."
+msgstr "하지만 운좋게도 에이다는 고물 수집장 옆에서 살았어요. 거기에는 다양한 부서진 물건들과 오래된 부품들이 있었어요. 그걸로 에이다는 동생 앨런과 신나게 언덕을 미끄러져서 내려갈 수 있는 나무 상자라던가 풍차라던가 힘을 합쳐 무찌를 수 있는 무서운 쓰레기 괴물같은걸 만들 수 있었어요."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:566
 msgid "She also found many useful items—an old cell phone, for example. The screen was cracked, but she could fix that, and while there wasn’t internet at the junkyard, she could get access somewhere else."
-msgstr ""
+msgstr "에이다는 오래된 핸드폰 같은 유용한 물건도 찾을 수 있었어요. 화면은 비록 깨져있었지만 다시 고칠 수 있었어요. 고물 수집장에 인터넷이 깔려 있지 않았지만 여기가 아닌 다른 곳에서 핸드폰으로 인터넷에 접속할 수 있었어요."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:567

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-03 12:05+0100\n"
+"PO-Revision-Date: 2026-01-03 13:39+0100\n"
 "Last-Translator: Aayush Gupta <aayushgupta219@gmail.com>\n"
 "Language-Team: Hindi <https://hosted.weblate.org/projects/fsfe/ada-zangemann/hi/>\n"
 "Language: hi\n"
@@ -502,14 +502,13 @@ msgstr "न स्केटबोर्ड, न स्पीकर, न आइ�
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:566
-#, fuzzy
 msgid "Luckily, Ada lived right next to the junkyard. There were lots of broken gadgets and rusty parts, which she put together to make cool new things, like a soapbox she and Alan rode roaring down the hill, a windmill, and scary junk monsters, which she and Alan would fight together."
-msgstr "सौभाग्य से, एडा कबाड़खाने के ठीक बगल में रहती थी। बहुत सारे टूटे हुए गैजेट और जंग लगे पुर्जे थे, जिन्हें उसने एक साथ जोड़ कर नई नई चीजें बनाईं, जैसे साबुन का डिब्बा जिस पर एलन और वो बैठ कर पहाड़ी पर से से नीचे उतर रहे हैं, एक पवनचक्की, कबाड़ से बने डरावने राक्षस, जिनसे एलन और वो मिलकर लड़ सकें। उसे कई उपयोगी वस्तुएँ भी मिलीं - उदाहरण के लिए एक पुराना सेल फोन। स्क्रीन टूट गई थी, पर वो जोड़ सकती थी और कबाड़ख़ाने में इंटरनेट भी नहीं था लेकिन वह कहीं और से जुगाड़ कर सकती थी।"
+msgstr "सौभाग्य से, एडा कबाड़खाने के ठीक बगल में रहती थी। बहुत सारे टूटे हुए गैजेट और जंग लगे पुर्जे थे, जिन्हें उसने एक साथ जोड़ कर नई नई चीजें बनाईं, जैसे साबुन का डिब्बा जिस पर एलन और वो बैठ कर पहाड़ी पर से से नीचे उतर रहे हैं, एक पवनचक्की, कबाड़ से बने डरावने राक्षस, जिनसे एलन और वो मिलकर लड़ सकें।"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:566
 msgid "She also found many useful items—an old cell phone, for example. The screen was cracked, but she could fix that, and while there wasn’t internet at the junkyard, she could get access somewhere else."
-msgstr ""
+msgstr "उसे कई उपयोगी वस्तुएँ भी मिलीं - उदाहरण के लिए एक पुराना सेल फोन। स्क्रीन टूट गई थी, पर वो जोड़ सकती थी और कबाड़ख़ाने में इंटरनेट भी नहीं था लेकिन वह कहीं और से जुगाड़ कर सकती थी।"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:567

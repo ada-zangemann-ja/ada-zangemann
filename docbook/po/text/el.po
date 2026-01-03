@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-03 12:14+0100\n"
+"PO-Revision-Date: 2026-01-03 13:33+0100\n"
 "Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
 "Language-Team: Greek <https://hosted.weblate.org/projects/fsfe/ada-zangemann/el/>\n"
 "Language: el\n"
@@ -668,12 +668,13 @@ msgstr "ούτε σκέιτμπορντ, ούτε ηχεία, ούτε καν π
 #: Ada_Zangemann.dbk:566
 #, fuzzy
 msgid "Luckily, Ada lived right next to the junkyard. There were lots of broken gadgets and rusty parts, which she put together to make cool new things, like a soapbox she and Alan rode roaring down the hill, a windmill, and scary junk monsters, which she and Alan would fight together."
-msgstr "Ευτυχώς, η Άντα ζούσε ακριβώς δίπλα σε μια μάντρα σκουπιδιών. Υπήρχαν εκεί πολλά σπασμένα και σκουριασμένα εξαρτήματα, τα οποία χρησιμοποιούσε για να φτιάξει ωραία πράγματα, όπως ένα έλκηθρο με ρόδες με το οποίο έτρεχαν με τον Άλαν στις κατηφόρες, έναν ανεμόμυλο, ή τρομακτικά τέρατα από παλιοσίδερα που τα πολεμούσαν με τον Άλαν. Είχε βρει επίσης πολλά χρήσιμα αντικείμενα, όπως ένα παλιό κινητό τηλέφωνο. Η οθόνη του ήταν ραγισμένη, αλλά μπορούσε να το φτιάξει, και ενώ δεν υπήρχε διαδίκτυο στη μάντρα, μπορούσε να έχει πρόσβαση από κάπου αλλού."
+msgstr "Ευτυχώς, η Άντα ζούσε ακριβώς δίπλα σε μια μάντρα σκουπιδιών. Υπήρχαν εκεί πολλά σπασμένα και σκουριασμένα εξαρτήματα, τα οποία χρησιμοποιούσε για να φτιάξει ωραία πράγματα, όπως ένα έλκηθρο με ρόδες με το οποίο έτρεχαν με τον Άλαν στις κατηφόρες, έναν ανεμόμυλο, ή τρομακτικά τέρατα από παλιοσίδερα που τα πολεμούσαν με τον Άλαν."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:566
+#, fuzzy
 msgid "She also found many useful items—an old cell phone, for example. The screen was cracked, but she could fix that, and while there wasn’t internet at the junkyard, she could get access somewhere else."
-msgstr ""
+msgstr "Είχε βρει επίσης πολλά χρήσιμα αντικείμενα, όπως ένα παλιό κινητό τηλέφωνο. Η οθόνη του ήταν ραγισμένη, αλλά μπορούσε να το φτιάξει, και ενώ δεν υπήρχε διαδίκτυο στη μάντρα, μπορούσε να έχει πρόσβαση από κάπου αλλού."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:567

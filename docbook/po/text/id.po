@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-03 12:06+0100\n"
+"PO-Revision-Date: 2026-01-03 13:41+0100\n"
 "Last-Translator: Arif Budiman <arifpedia@gmail.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/fsfe/ada-zangemann/id/>\n"
 "Language: id\n"
@@ -573,14 +573,13 @@ msgstr "tidak ada skateboard, tidak ada speaker, tidak ada es krim."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:566
-#, fuzzy
 msgid "Luckily, Ada lived right next to the junkyard. There were lots of broken gadgets and rusty parts, which she put together to make cool new things, like a soapbox she and Alan rode roaring down the hill, a windmill, and scary junk monsters, which she and Alan would fight together."
-msgstr "Untungnya, Ada tinggal tepat di sebelah tempat pembuangan barang rongsokan. Ada banyak gawai rusak dan suku cadang berkarat, yang ia rangkai menjadi benda-benda baru yang keren, seperti mobil kotak sabun yang ia dan Alan kendarai meluncur deras menuruni bukit, sebuah kincir angin, dan monster rongsokan yang menyeramkan, yang ia dan Alan lawan bersama-sama. Ia juga menemukan banyak barang berguna—misalnya sebuah ponsel lama. Layarnya retak, tetapi ia bisa memperbaikinya, dan meskipun di tempat rongsokan tidak ada internet, ia bisa mendapatkan akses di tempat lain."
+msgstr "Untungnya, Ada tinggal tepat di sebelah tempat pembuangan barang rongsokan. Ada banyak gawai rusak dan suku cadang berkarat, yang ia rangkai menjadi benda-benda baru yang keren, seperti mobil kotak sabun yang ia dan Alan kendarai meluncur deras menuruni bukit, sebuah kincir angin, dan monster rongsokan yang menyeramkan, yang ia dan Alan lawan bersama-sama."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:566
 msgid "She also found many useful items—an old cell phone, for example. The screen was cracked, but she could fix that, and while there wasn’t internet at the junkyard, she could get access somewhere else."
-msgstr ""
+msgstr "Ia juga menemukan banyak barang berguna—misalnya sebuah ponsel lama. Layarnya retak, tetapi ia bisa memperbaikinya, dan meskipun di tempat rongsokan tidak ada internet, ia bisa mendapatkan akses di tempat lain."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:567

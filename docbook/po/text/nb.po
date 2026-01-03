@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-03 12:09+0100\n"
+"PO-Revision-Date: 2026-01-03 13:45+0100\n"
 "Last-Translator: \"Henrik G. Sundt\" <hsundt@notam.no>\n"
 "Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/fsfe/ada-zangemann/nb_NO/>\n"
 "Language: nb\n"
@@ -563,14 +563,13 @@ msgstr "Hverken rullebrett, høyttalere eller is."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:566
-#, fuzzy
 msgid "Luckily, Ada lived right next to the junkyard. There were lots of broken gadgets and rusty parts, which she put together to make cool new things, like a soapbox she and Alan rode roaring down the hill, a windmill, and scary junk monsters, which she and Alan would fight together."
-msgstr "Heldigvis bodde Ada like ved skraphaugen. Der var det masse ødelagte apparater og rustne reservedeler, som hun bygde seg ting med: En olabil, som hun og lillebror Alan kjørte ned bakken i, en vindmølle og noen skremmende søppelmonstre som hun og Alan kunne slåss mot. Hun fant også mange ting som fortsatt fungerte: En gammel mobiltelefon, for eksempel. Det var sprekk i skjermen, men det kunne hun ordne. Det var ikke noe bra Internett på skraphaugen, men det kunne hun få tilgang til andre steder."
+msgstr "Heldigvis bodde Ada like ved skraphaugen. Der var det masse ødelagte apparater og rustne reservedeler, som hun bygde seg ting med: En olabil, som hun og lillebror Alan kjørte ned bakken i, en vindmølle og noen skremmende søppelmonstre som hun og Alan kunne slåss mot."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:566
 msgid "She also found many useful items—an old cell phone, for example. The screen was cracked, but she could fix that, and while there wasn’t internet at the junkyard, she could get access somewhere else."
-msgstr ""
+msgstr "Hun fant også mange ting som fortsatt fungerte: En gammel mobiltelefon, for eksempel. Det var sprekk i skjermen, men det kunne hun ordne. Det var ikke noe bra Internett på skraphaugen, men det kunne hun få tilgang til andre steder."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:567

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-03 12:11+0100\n"
+"PO-Revision-Date: 2026-01-03 13:46+0100\n"
 "Last-Translator: Igor W <igorwisnia@proton.me>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/fsfe/ada-zangemann/pl/>\n"
 "Language: pl\n"
@@ -626,14 +626,13 @@ msgstr "deskorolki, głośnika czy nawet lodów."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:566
-#, fuzzy
 msgid "Luckily, Ada lived right next to the junkyard. There were lots of broken gadgets and rusty parts, which she put together to make cool new things, like a soapbox she and Alan rode roaring down the hill, a windmill, and scary junk monsters, which she and Alan would fight together."
-msgstr "Na szczęście Ada mieszkała opodal wysypiska śmieci. Było tam wiele zepsutych urządzeń i zardzewiałych części, które składała aby zrobić nowe fajne rzeczy jak na przykład bobslej aby razem z Alanem zjeżdżać z górki, wiatrak i strasznego śmieciowego potwora. Znalazła również wiele przydatnych rzeczy jak choćby telefon komórkowy. Jego ekrany był pęknięty ale mogła to naprawić. A kiedy nie było Internetu na śmietnisku, mogła mieć do niego dostęp gdzieś indziej."
+msgstr "Na szczęście Ada mieszkała opodal wysypiska śmieci. Było tam wiele zepsutych urządzeń i zardzewiałych części, które składała aby zrobić nowe fajne rzeczy jak na przykład bobslej aby razem z Alanem zjeżdżać z górki, wiatrak i strasznego śmieciowego potwora."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:566
 msgid "She also found many useful items—an old cell phone, for example. The screen was cracked, but she could fix that, and while there wasn’t internet at the junkyard, she could get access somewhere else."
-msgstr ""
+msgstr "Znalazła również wiele przydatnych rzeczy jak choćby telefon komórkowy. Jego ekrany był pęknięty ale mogła to naprawić. A kiedy nie było Internetu na śmietnisku, mogła mieć do niego dostęp gdzieś indziej."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:567

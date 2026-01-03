@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-10-16 21:28+0200\n"
-"PO-Revision-Date: 2026-01-03 12:04+0100\n"
+"PO-Revision-Date: 2026-01-03 13:38+0100\n"
 "Last-Translator: Yaron Shahrabani <sh.yaron@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/fsfe/ada-zangemann/he/>\n"
 "Language: he\n"
@@ -574,14 +574,13 @@ msgstr "אין סקייטבורד, אין רמקולים, אין גלידה."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:566
-#, fuzzy
 msgid "Luckily, Ada lived right next to the junkyard. There were lots of broken gadgets and rusty parts, which she put together to make cool new things, like a soapbox she and Alan rode roaring down the hill, a windmill, and scary junk monsters, which she and Alan would fight together."
-msgstr "למרבה המזל, עדה התגוררה ליד מגרש הגרוטאות. היו שם המון חפצים אלקטרוניים שבורים וחלודים, שמהם בנתה דברים חדשים ומגניבים כמו מכונית מרוץ ללא מנוע שהיא ואלן דהרו בה במורד הגבעה, טחנת רוח ומפלצות מפחידות מגרוטאות, שבהן היא ואלן לחמו יחד. היא גם מצאה שלל פריטים שימושיים – טלפון ישן, למשל. המסך היה שבור אבל היא הצליחה לתקן אותו, ולמרות שלא היה אינטרנט במגרש הגרוטאות, היא הצליחה לגשת ממקום אחר."
+msgstr "למרבה המזל, עדה התגוררה ליד מגרש הגרוטאות. היו שם המון חפצים אלקטרוניים שבורים וחלודים, שמהם בנתה דברים חדשים ומגניבים כמו מכונית מרוץ ללא מנוע שהיא ואלן דהרו בה במורד הגבעה, טחנת רוח ומפלצות מפחידות מגרוטאות, שבהן היא ואלן לחמו יחד."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:566
 msgid "She also found many useful items—an old cell phone, for example. The screen was cracked, but she could fix that, and while there wasn’t internet at the junkyard, she could get access somewhere else."
-msgstr ""
+msgstr "היא גם מצאה שלל פריטים שימושיים – טלפון ישן, למשל. המסך היה שבור אבל היא הצליחה לתקן אותו, ולמרות שלא היה אינטרנט במגרש הגרוטאות, היא הצליחה לגשת ממקום אחר."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:567

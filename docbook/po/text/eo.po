@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-03 12:02+0100\n"
+"PO-Revision-Date: 2026-01-03 13:33+0100\n"
 "Last-Translator: Marco Ciampa <ciampix@posteo.net>\n"
 "Language-Team: Esperanto <https://hosted.weblate.org/projects/fsfe/ada-zangemann/eo/>\n"
 "Language: eo\n"
@@ -549,14 +549,13 @@ msgstr "nek rultabulon, nek laŭtparolilojn, nek glaciaĵon."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:566
-#, fuzzy
 msgid "Luckily, Ada lived right next to the junkyard. There were lots of broken gadgets and rusty parts, which she put together to make cool new things, like a soapbox she and Alan rode roaring down the hill, a windmill, and scary junk monsters, which she and Alan would fight together."
-msgstr "Bonŝance, Ada loĝis tuj apud la rubejo. Tie estis multaj rompitaj aparatoj kaj rustaj partoj, kiujn ŝi kunmetis por fari mojosajn novajn aferojn, kiel ekzemple keston, kiun ŝi kaj Alan rajdis muĝante laŭ la monteto, ventomuelejon kaj timigajn ruba-monstrojn, kiujn ŝi kaj Alan batalis kune. Ŝi ankaŭ trovis multajn utilajn objektojn - ekzemple malnovan poŝtelefonon. La ekrano estis fendita, sed ŝi povis ripari tion kaj kvankam ne estis interreto ĉe la rubodeponejo, ŝi povis akiri aliron aliloke."
+msgstr "Bonŝance, Ada loĝis tuj apud la rubejo. Tie estis multaj rompitaj aparatoj kaj rustaj partoj, kiujn ŝi kunmetis por fari mojosajn novajn aferojn, kiel ekzemple keston, kiun ŝi kaj Alan rajdis muĝante laŭ la monteto, ventomuelejon kaj timigajn ruba-monstrojn, kiujn ŝi kaj Alan batalis kune."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:566
 msgid "She also found many useful items—an old cell phone, for example. The screen was cracked, but she could fix that, and while there wasn’t internet at the junkyard, she could get access somewhere else."
-msgstr ""
+msgstr "Ŝi ankaŭ trovis multajn utilajn objektojn - ekzemple malnovan poŝtelefonon. La ekrano estis fendita, sed ŝi povis ripari tion kaj kvankam ne estis interreto ĉe la rubodeponejo, ŝi povis akiri aliron aliloke."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:567

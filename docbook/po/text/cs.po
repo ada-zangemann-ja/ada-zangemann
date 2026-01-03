@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-03 12:00+0100\n"
+"PO-Revision-Date: 2026-01-03 13:31+0100\n"
 "Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/fsfe/ada-zangemann/cs/>\n"
 "Language: cs\n"
@@ -498,14 +498,13 @@ msgstr "ani skateboard, ani reproduktor a ani zmrzlinu."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:566
-#, fuzzy
 msgid "Luckily, Ada lived right next to the junkyard. There were lots of broken gadgets and rusty parts, which she put together to make cool new things, like a soapbox she and Alan rode roaring down the hill, a windmill, and scary junk monsters, which she and Alan would fight together."
-msgstr "Naštěstí Ada bydlela kousek od smetiště. Tam byla spousta rozbitých zařízení a rezavých dílů, které Ada dávala dohromady, aby vyrobila zajímavé nové věci, jako například bednu od mýdel, na které spolu s bráškou Alanem s řinčením sjížděli z kopce, větrný mlýn a strašidelná odpadková strašidla, se kterými společně s Alanem bojovali. Taky našla spoustu použitelných předmětů — třeba starý mobil. Sice měl rozbitou obrazovku, ale s tím si Ada uměla poradit a, i když na skládce neměla internet, připojit se mohla odjinud."
+msgstr "Naštěstí Ada bydlela kousek od smetiště. Tam byla spousta rozbitých zařízení a rezavých dílů, které Ada dávala dohromady, aby vyrobila zajímavé nové věci, jako například bednu od mýdel, na které spolu s bráškou Alanem s řinčením sjížděli z kopce, větrný mlýn a strašidelná odpadková strašidla, se kterými společně s Alanem bojovali."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:566
 msgid "She also found many useful items—an old cell phone, for example. The screen was cracked, but she could fix that, and while there wasn’t internet at the junkyard, she could get access somewhere else."
-msgstr ""
+msgstr "Taky našla spoustu použitelných předmětů — třeba starý mobil. Sice měl rozbitou obrazovku, ale s tím si Ada uměla poradit a, i když na skládce neměla internet, připojit se mohla odjinud."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:567

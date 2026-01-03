@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-03 12:05+0100\n"
+"PO-Revision-Date: 2026-01-03 13:40+0100\n"
 "Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/fsfe/ada-zangemann/hr/>\n"
 "Language: hr\n"
@@ -498,14 +498,13 @@ msgstr "ni skateboard, ni zvučnik, ni sladoled."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:566
-#, fuzzy
 msgid "Luckily, Ada lived right next to the junkyard. There were lots of broken gadgets and rusty parts, which she put together to make cool new things, like a soapbox she and Alan rode roaring down the hill, a windmill, and scary junk monsters, which she and Alan would fight together."
-msgstr "Ada je međutim živjela pokraj odlagališta otpada. Tamo je bilo mnoštvo pokvarenih naprava i zahrđalih dijelova koje je spajala kako bi izradila fora nove stvari poput autića kojim su ona i Alan jurili niz brijeg, vjetrenjače te strašnih čudovišta od smeća protiv kojih bi se ona i Alan zajedno borili. Tamo je također pronašla mnoge korisne predmete kao što je stari mobitel. Ekran mu je bio napuknut, ali to je mogla popraviti, a iako na odlagalištu nije bilo interneta, mogla mu je pristupiti negdje drugdje."
+msgstr "Ada je međutim živjela pokraj odlagališta otpada. Tamo je bilo mnoštvo pokvarenih naprava i zahrđalih dijelova koje je spajala kako bi izradila fora nove stvari poput autića kojim su ona i Alan jurili niz brijeg, vjetrenjače te strašnih čudovišta od smeća protiv kojih bi se ona i Alan zajedno borili."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:566
 msgid "She also found many useful items—an old cell phone, for example. The screen was cracked, but she could fix that, and while there wasn’t internet at the junkyard, she could get access somewhere else."
-msgstr ""
+msgstr "Tamo je također pronašla mnoge korisne predmete kao što je stari mobitel. Ekran mu je bio napuknut, ali to je mogla popraviti, a iako na odlagalištu nije bilo interneta, mogla mu je pristupiti negdje drugdje."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:567
