@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-03 08:59+0100\n"
+"PO-Revision-Date: 2026-01-03 12:02+0100\n"
 "Last-Translator: Marco Ciampa <ciampix@posteo.net>\n"
 "Language-Team: Esperanto <https://hosted.weblate.org/projects/fsfe/ada-zangemann/eo/>\n"
 "Language: eo\n"
@@ -535,10 +535,17 @@ msgstr "Originala elektra rultabulo de Zangemann lasanta bluan spuron kun muzika
 msgid "Ada tinkers with objects in her improvised lab. Ada is sitting on an overturned water case, and working on a repair with a yellow screwdriver. Also on the table are green pliers, a red hammer, a white power strip, and another gadget. Ada is at a table consisting of a wooden board supported by two oil drums (one gray and one red) and a small wooden sawhorse. Behind Ada there are a washing machine, pipes, and a board. In front of the improvised table there are tires and an old phone with faulty wire. Alan is coming toward Ada holding a yellow fan over his head. Alan now wears white socks and yellow shoes."
 msgstr "Ada ludas kun objektoj en sia improvizita laboratorio. Ada sidas sur renversita akvokesto kaj laboras pri riparo per flava ŝraŭbturnilo. Ankaŭ sur la tablo estas verdaj pinĉiloj, ruĝa martelo, blanka multobla ŝtopilingo kaj alia aparato. Ada estas ĉe tablo konsistanta el ligna tabulo subtenata de du oleujoj (unu griza kaj unu ruĝa) kaj malgranda ligna segstablo. Malantaŭ Ada estas lavmaŝino, tuboj kaj tabulo. Antaŭ la improvizita tablo estas pneŭoj kaj malnova telefono kun difekta drato. Alan venas al Ada tenante flavan ventumilon super sia kapo. Alan nun portas blankajn ŝtrumpetojn kaj flavajn ŝuojn."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
+#. Sentence continues in next string.
 #: Ada_Zangemann.dbk:564
-msgid "These inventions were very popular at Ada’s school, and many of her friends rode around on the cool skateboards. Ada was often sad, since her mother couldn’t buy her any of those great things: no skateboard, no speakers, no ice cream."
-msgstr "Ĉi tiuj inventaĵoj estis tre popularaj en la lernejo de Ada kaj multaj el ŝiaj amikoj rajdis ĉirkaŭe sur la mojosaj rultabuloj. Ada ofte estis malĝoja, ĉar ŝia patrino ne povis aĉeti al ŝi iujn ajn el tiuj bonegaĵoj: nek rultabulon, nek laŭtparolilojn, nek glaciaĵon."
+msgid "These inventions were very popular at Ada’s school, and many of her friends rode around on the cool skateboards. Ada was often sad, since her mother couldn’t buy her any of those great things:"
+msgstr "Ĉi tiuj inventaĵoj estis tre popularaj en la lernejo de Ada kaj multaj el ŝiaj amikoj rajdis ĉirkaŭe sur la mojosaj rultabuloj. Ada ofte estis malĝoja, ĉar ŝia patrino ne povis aĉeti al ŝi iujn ajn el tiuj bonegaĵoj:"
+
+#. (itstool) path: para/phrase
+#. Continuation of the sentence.
+#: Ada_Zangemann.dbk:564
+msgid "no skateboard, no speakers, no ice cream."
+msgstr "nek rultabulon, nek laŭtparolilojn, nek glaciaĵon."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:566

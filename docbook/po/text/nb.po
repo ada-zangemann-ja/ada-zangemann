@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-03 09:38+0100\n"
+"PO-Revision-Date: 2026-01-03 12:09+0100\n"
 "Last-Translator: \"Henrik G. Sundt\" <hsundt@notam.no>\n"
 "Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/fsfe/ada-zangemann/nb_NO/>\n"
 "Language: nb\n"
@@ -549,10 +549,17 @@ msgstr "Et originalt Zangemann elektrisk rullebrett som etterlater seg en blå h
 msgid "Ada tinkers with objects in her improvised lab. Ada is sitting on an overturned water case, and working on a repair with a yellow screwdriver. Also on the table are green pliers, a red hammer, a white power strip, and another gadget. Ada is at a table consisting of a wooden board supported by two oil drums (one gray and one red) and a small wooden sawhorse. Behind Ada there are a washing machine, pipes, and a board. In front of the improvised table there are tires and an old phone with faulty wire. Alan is coming toward Ada holding a yellow fan over his head. Alan now wears white socks and yellow shoes."
 msgstr "Ada fikler med ting i sitt improviserte laboratorium. Ada sitter på en opp-ned vanntank og holder på med en reparasjon med en gul skrutrekker. På bordet er det i tillegg grønne tenger, en rød hammer, en hvit strømpadde og en annen dings. Ada sitter ved et bord som består av en treplate støttet opp av to oljetønner (en grå og en rød), og en liten sagstol av tre. Bak Ada er det en vaskemaskin, rør og et bord. Foran det improviserte bordet er det dekk og en gammel telefon med ødelagt ledning. Alan kommer mot Ada med en gul vifte over hodet. Alan har nå hvite sokker og gule sko."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
+#. Sentence continues in next string.
 #: Ada_Zangemann.dbk:564
-msgid "These inventions were very popular at Ada’s school, and many of her friends rode around on the cool skateboards. Ada was often sad, since her mother couldn’t buy her any of those great things: no skateboard, no speakers, no ice cream."
-msgstr "Også på Adas skole var oppfinnelsene veldig populære, og mange av vennene hennes kjørte rundt på de stilige rullebrettene. Ada var ofte lei seg siden moren hennes ikke hadde råd til noen av de fantastiske tingene. Hverken rullebrett, høyttalere eller is."
+msgid "These inventions were very popular at Ada’s school, and many of her friends rode around on the cool skateboards. Ada was often sad, since her mother couldn’t buy her any of those great things:"
+msgstr "Også på Adas skole var oppfinnelsene veldig populære, og mange av vennene hennes kjørte rundt på de stilige rullebrettene. Ada var ofte lei seg siden moren hennes ikke hadde råd til noen av de fantastiske tingene."
+
+#. (itstool) path: para/phrase
+#. Continuation of the sentence.
+#: Ada_Zangemann.dbk:564
+msgid "no skateboard, no speakers, no ice cream."
+msgstr "Hverken rullebrett, høyttalere eller is."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:566

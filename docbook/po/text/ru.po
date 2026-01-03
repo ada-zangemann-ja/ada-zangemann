@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-10-16 21:28+0200\n"
-"PO-Revision-Date: 2026-01-03 09:43+0100\n"
+"PO-Revision-Date: 2026-01-03 12:11+0100\n"
 "Last-Translator: Elvira Pescu <elvirapesku@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/fsfe/ada-zangemann/ru/>\n"
 "Language: ru\n"
@@ -558,10 +558,17 @@ msgstr "Оригинальный электрический скейтборд Z
 msgid "Ada tinkers with objects in her improvised lab. Ada is sitting on an overturned water case, and working on a repair with a yellow screwdriver. Also on the table are green pliers, a red hammer, a white power strip, and another gadget. Ada is at a table consisting of a wooden board supported by two oil drums (one gray and one red) and a small wooden sawhorse. Behind Ada there are a washing machine, pipes, and a board. In front of the improvised table there are tires and an old phone with faulty wire. Alan is coming toward Ada holding a yellow fan over his head. Alan now wears white socks and yellow shoes."
 msgstr "Ада возится с предметами в своей самодельной мастерской. Ада сидит на перевернутом ящике с жидкостью и ремонтирует что-то с помощью желтой отвертки. На столе также лежат зеленые плоскогубцы, красный молоток, белая удлинительная розетка и еще одно устройство. Ада сидит за столом, состоящим из деревянной доски, поддерживаемой двумя бочками из-под масла (одна серая, другая красная) и небольшой деревянной подставкой. За Адой стоят стиральная машина, трубы и доска. Перед импровизированным столом лежат шины и старый телефон с неисправным проводом. Алан идет к Аде, держа над головой желтый вентилятор. Алан теперь одет в белые носки и желтые туфли."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
+#. Sentence continues in next string.
 #: Ada_Zangemann.dbk:564
-msgid "These inventions were very popular at Ada’s school, and many of her friends rode around on the cool skateboards. Ada was often sad, since her mother couldn’t buy her any of those great things: no skateboard, no speakers, no ice cream."
-msgstr "Эти изобретения были очень популярны в школе Ады, и многие из ее друзей катались на таких крутых скейтбордах. Ада часто грустила, потому что мама не могла купить ей ни одну из этих замечательных вещей: ни скейтборд, ни колонку, ни мороженое."
+msgid "These inventions were very popular at Ada’s school, and many of her friends rode around on the cool skateboards. Ada was often sad, since her mother couldn’t buy her any of those great things:"
+msgstr "Эти изобретения были очень популярны в школе Ады, и многие из ее друзей катались на таких крутых скейтбордах. Ада часто грустила, потому что мама не могла купить ей ни одну из этих замечательных вещей:"
+
+#. (itstool) path: para/phrase
+#. Continuation of the sentence.
+#: Ada_Zangemann.dbk:564
+msgid "no skateboard, no speakers, no ice cream."
+msgstr "ни скейтборд, ни колонку, ни мороженое."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:566

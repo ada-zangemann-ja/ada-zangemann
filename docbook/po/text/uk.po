@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-03 09:49+0100\n"
+"PO-Revision-Date: 2026-01-03 12:13+0100\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim5@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/fsfe/ada-zangemann/uk/>\n"
 "Language: uk\n"
@@ -562,10 +562,17 @@ msgstr "Оригінальний електричний скейтборд Zange
 msgid "Ada tinkers with objects in her improvised lab. Ada is sitting on an overturned water case, and working on a repair with a yellow screwdriver. Also on the table are green pliers, a red hammer, a white power strip, and another gadget. Ada is at a table consisting of a wooden board supported by two oil drums (one gray and one red) and a small wooden sawhorse. Behind Ada there are a washing machine, pipes, and a board. In front of the improvised table there are tires and an old phone with faulty wire. Alan is coming toward Ada holding a yellow fan over his head. Alan now wears white socks and yellow shoes."
 msgstr "Ада порається з предметами у своїй імпровізованій лабораторії. Ада сидить на перекинутому ящику для води і працює над ремонтом за допомогою жовтої викрутки. Також на столі лежать зелені плоскогубці, червоний молоток, білий подовжувач і ще один гаджет. Ада сидить за столом, що складається з дерев'яної дошки, на якій стоять дві діжки для олії (сіра і червона) і маленька дерев'яна пилка. Позаду Ади - пральна машина, труби і дошка. Перед імпровізованим столом - шини і старий телефон з несправним дротом. Алан наближається до Ади, тримаючи над головою жовте віяло. Тепер на Алані білі шкарпетки і жовті туфлі."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
+#. Sentence continues in next string.
 #: Ada_Zangemann.dbk:564
-msgid "These inventions were very popular at Ada’s school, and many of her friends rode around on the cool skateboards. Ada was often sad, since her mother couldn’t buy her any of those great things: no skateboard, no speakers, no ice cream."
-msgstr "Ці винаходи були дуже популярні в школі Ади, і багато її друзів каталися на крутих скейтбордах. Ада часто сумувала, бо мама не могла купити їй нічого з цих чудових речей: ні скейтборду, ні колонок, ні морозива."
+msgid "These inventions were very popular at Ada’s school, and many of her friends rode around on the cool skateboards. Ada was often sad, since her mother couldn’t buy her any of those great things:"
+msgstr "Ці винаходи були дуже популярні в школі Ади, і багато її друзів каталися на крутих скейтбордах. Ада часто сумувала, бо мама не могла купити їй нічого з цих чудових речей:"
+
+#. (itstool) path: para/phrase
+#. Continuation of the sentence.
+#: Ada_Zangemann.dbk:564
+msgid "no skateboard, no speakers, no ice cream."
+msgstr "ні скейтборду, ні колонок, ні морозива."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:566
