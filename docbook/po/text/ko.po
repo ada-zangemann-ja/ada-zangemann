@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-03 07:34+0100\n"
+"PO-Revision-Date: 2026-01-03 09:38+0100\n"
 "Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/fsfe/ada-zangemann/ko/>\n"
 "Language: ko\n"
@@ -512,10 +512,25 @@ msgstr "“마침내 내 생각을 모두 현실로 만들수 있겠어!” 장�
 msgid "Zangemann original ice cream machine. It is ice blue in color and is similar to a vending machine of drinks, but instead of the cup there is a cone that is filled with ice cream. Above the dispenser there is a monitor showing the variety that is distributed, in this case pineapple ice cream. On the left there are the slot for inserting coins, the various buttons to choose the flavor, and the hole for returning coins. At the top there is a round white sign with a scoop of candy-pink ice cream in a cone. On the back of the machine there is the refrigeration machinery with the “Z” of the Zangemann logo."
 msgstr "“마침내 내 생각을 모두 현실로 만들수 있겠어!” 장기만 아저씨는 소리쳤어요. 그리곤 곧장 작업에 들어갔지요. 그는 모든 종류의 물건에 작은 컴퓨터를 넣어서 그것들은 좀 더 재미나고 유용하게 만드는 법을 찾아 냈어요. 그리고는 그것들은 사람들에게 팔기 시작했지요."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:549
-msgid "Adults and children loved his inventions. All the kids wanted to have one of his skateboards — complete with the latest sounds to show off to their friends at school. Kids also loved his speaker invention, which could instantly play any song you requested. And, of course, everyone loved the ice cream served every afternoon from the automatic, extra-delicious Original Zangemann Ice Cream Machine. It all seemed like magic, but the secret was simple: the little computers that Zangemann built into his machines made it all possible."
-msgstr "어른 아이 할 것 없이 모두 그의 발명품을 좋아했어요. 아이들은 그가 만든 스케이드보드를 갖고 싶어했어요. 최신 사운드가 탑재되어 있어 친구들에게 자랑하기 좋았거든요. 아이들은 어떤 음악이든지 바로바로 틀어주는 그의 스피커 발명품도 좋아했어요. 그리고 매일 오후에 판매되는 장기만 아저씨의 엄청 맛있기로 소문난 오리지날 자동 아이스크림 기계도 모두들 좋아했지요. 모든 게 마치 마법 같았어요. 그러나 비밀은 아주 간단했어요. 바로 장기만 아저씨가 기계에 넣어놓은 작은 컴퓨터 덕분이었죠."
+msgid "Adults and children loved his inventions. All the kids wanted to have one of his skateboards — complete with the latest sounds to show off to their friends at school."
+msgstr "어른 아이 할 것 없이 모두 그의 발명품을 좋아했어요. 아이들은 그가 만든 스케이드보드를 갖고 싶어했어요. 최신 사운드가 탑재되어 있어 친구들에게 자랑하기 좋았거든요."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:549
+msgid "Kids also loved his speaker invention, which could instantly play any song you requested."
+msgstr "아이들은 어떤 음악이든지 바로바로 틀어주는 그의 스피커 발명품도 좋아했어요."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:549
+msgid "And, of course, everyone loved the ice cream served every afternoon from the automatic, extra-delicious Original Zangemann Ice Cream Machine."
+msgstr "그리고 매일 오후에 판매되는 장기만 아저씨의 엄청 맛있기로 소문난 오리지날 자동 아이스크림 기계도 모두들 좋아했지요."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:549
+msgid "It all seemed like magic, but the secret was simple: the little computers that Zangemann built into his machines made it all possible."
+msgstr "모든 게 마치 마법 같았어요. 그러나 비밀은 아주 간단했어요. 바로 장기만 아저씨가 기계에 넣어놓은 작은 컴퓨터 덕분이었죠."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the

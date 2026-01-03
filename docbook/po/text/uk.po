@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-03 08:10+0100\n"
+"PO-Revision-Date: 2026-01-03 09:49+0100\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim5@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/fsfe/ada-zangemann/uk/>\n"
 "Language: uk\n"
@@ -528,10 +528,25 @@ msgstr "“Нарешті я можу перетворити всі свої і�
 msgid "Zangemann original ice cream machine. It is ice blue in color and is similar to a vending machine of drinks, but instead of the cup there is a cone that is filled with ice cream. Above the dispenser there is a monitor showing the variety that is distributed, in this case pineapple ice cream. On the left there are the slot for inserting coins, the various buttons to choose the flavor, and the hole for returning coins. At the top there is a round white sign with a scoop of candy-pink ice cream in a cone. On the back of the machine there is the refrigeration machinery with the “Z” of the Zangemann logo."
 msgstr "Оригінальний автомат для морозива Zangemann. Він має крижано-блакитний колір і схожий на автомат з продажу напоїв, але замість стаканчика тут є ріжок, який наповнюється морозивом. Над автоматом розташований монітор, на якому відображається сорт морозива, в даному випадку ананасове морозиво. Зліва є щілина для вставки монет, різні кнопки для вибору смаку та отвір для повернення монет. Вгорі - кругла біла вивіска з кулькою цукерково-рожевого морозива в ріжку. На задній частині машини зображено холодильне обладнання з літерою «Z» логотипу Zangemann."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:549
-msgid "Adults and children loved his inventions. All the kids wanted to have one of his skateboards — complete with the latest sounds to show off to their friends at school. Kids also loved his speaker invention, which could instantly play any song you requested. And, of course, everyone loved the ice cream served every afternoon from the automatic, extra-delicious Original Zangemann Ice Cream Machine. It all seemed like magic, but the secret was simple: the little computers that Zangemann built into his machines made it all possible."
-msgstr "Дорослі та діти любили його винаходи. Всі діти хотіли мати один з його скейтбордів - з найновішими звуками, щоб хвалитися ним перед друзями в школі. Дітям також подобався його винахід колонок, які могли миттєво відтворювати будь-яку пісню на ваше прохання. І, звичайно ж, усім подобалося морозиво, яке щодня подавали з автоматичної, надзвичайно смачної машини Original Zangemann Ice Cream Machine. Все це здавалося магією, але секрет був простий: маленькі комп'ютери, які Занґеманн вбудував у свої машини, зробили все це можливим."
+msgid "Adults and children loved his inventions. All the kids wanted to have one of his skateboards — complete with the latest sounds to show off to their friends at school."
+msgstr "Дорослі та діти любили його винаходи. Всі діти хотіли мати один з його скейтбордів - з найновішими звуками, щоб хвалитися ним перед друзями в школі."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:549
+msgid "Kids also loved his speaker invention, which could instantly play any song you requested."
+msgstr "Дітям також подобався його винахід колонок, які могли миттєво відтворювати будь-яку пісню на ваше прохання."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:549
+msgid "And, of course, everyone loved the ice cream served every afternoon from the automatic, extra-delicious Original Zangemann Ice Cream Machine."
+msgstr "І, звичайно ж, усім подобалося морозиво, яке щодня подавали з автоматичної, надзвичайно смачної машини Original Zangemann Ice Cream Machine."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:549
+msgid "It all seemed like magic, but the secret was simple: the little computers that Zangemann built into his machines made it all possible."
+msgstr "Все це здавалося магією, але секрет був простий: маленькі комп'ютери, які Занґеманн вбудував у свої машини, зробили все це можливим."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the

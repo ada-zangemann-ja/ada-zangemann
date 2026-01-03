@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-03 07:14+0100\n"
+"PO-Revision-Date: 2026-01-03 09:29+0100\n"
 "Last-Translator: Aayush Gupta <aayushgupta219@gmail.com>\n"
 "Language-Team: Hindi <https://hosted.weblate.org/projects/fsfe/ada-zangemann/hi/>\n"
 "Language: hi\n"
@@ -454,10 +454,25 @@ msgstr "“आखिरकार मैं अपने सभी विचा�
 msgid "Zangemann original ice cream machine. It is ice blue in color and is similar to a vending machine of drinks, but instead of the cup there is a cone that is filled with ice cream. Above the dispenser there is a monitor showing the variety that is distributed, in this case pineapple ice cream. On the left there are the slot for inserting coins, the various buttons to choose the flavor, and the hole for returning coins. At the top there is a round white sign with a scoop of candy-pink ice cream in a cone. On the back of the machine there is the refrigeration machinery with the “Z” of the Zangemann logo."
 msgstr ""
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:549
-msgid "Adults and children loved his inventions. All the kids wanted to have one of his skateboards — complete with the latest sounds to show off to their friends at school. Kids also loved his speaker invention, which could instantly play any song you requested. And, of course, everyone loved the ice cream served every afternoon from the automatic, extra-delicious Original Zangemann Ice Cream Machine. It all seemed like magic, but the secret was simple: the little computers that Zangemann built into his machines made it all possible."
-msgstr "छोटे और बड़े सब उसके आविष्कारों को पसंद करते थे। सभी बच्चे उसका एक स्केटबोर्ड पाना चाहते थे जो बिलकुल नए ध्वनियों से पूर्ण हो ताकि वो स्कूल में अपने दोस्तों को दिखा सकें। बच्चे भी उसके नये आविष्कारक स्पीकर को पसंद करते थे, जो किसी भी अनुरोध किये गए गीत को तुरंत बजा सकता था। और बिलकुल, हर किसी को ऑटोमैटिक, बेहद स्वादिष्ट ज़ैंगमैन आइसक्रीम मशीन से हर दोपहर में परोसी जाने वाली आइसक्रीम बहुत पसंद थी। यह सब जादू जैसा लग रहा था, लेकिन रहस्य सरल था: ज़ैंगमैन ने अपनी मशीनों में जो छोटे-छोटे कंप्यूटर लगाए, उन्होंने यह सब संभव बना दिया।"
+msgid "Adults and children loved his inventions. All the kids wanted to have one of his skateboards — complete with the latest sounds to show off to their friends at school."
+msgstr "छोटे और बड़े सब उसके आविष्कारों को पसंद करते थे। सभी बच्चे उसका एक स्केटबोर्ड पाना चाहते थे जो बिलकुल नए ध्वनियों से पूर्ण हो ताकि वो स्कूल में अपने दोस्तों को दिखा सकें।"
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:549
+msgid "Kids also loved his speaker invention, which could instantly play any song you requested."
+msgstr "बच्चे भी उसके नये आविष्कारक स्पीकर को पसंद करते थे, जो किसी भी अनुरोध किये गए गीत को तुरंत बजा सकता था।"
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:549
+msgid "And, of course, everyone loved the ice cream served every afternoon from the automatic, extra-delicious Original Zangemann Ice Cream Machine."
+msgstr "और बिलकुल, हर किसी को ऑटोमैटिक, बेहद स्वादिष्ट ज़ैंगमैन आइसक्रीम मशीन से हर दोपहर में परोसी जाने वाली आइसक्रीम बहुत पसंद थी।"
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:549
+msgid "It all seemed like magic, but the secret was simple: the little computers that Zangemann built into his machines made it all possible."
+msgstr "यह सब जादू जैसा लग रहा था, लेकिन रहस्य सरल था: ज़ैंगमैन ने अपनी मशीनों में जो छोटे-छोटे कंप्यूटर लगाए, उन्होंने यह सब संभव बना दिया।"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the

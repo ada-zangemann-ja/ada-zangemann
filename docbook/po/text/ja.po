@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-03 07:28+0100\n"
+"PO-Revision-Date: 2026-01-03 09:36+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -445,10 +445,25 @@ msgstr "「ようやくわたしのアイデアが実現するぞ！」とツァ
 msgid "Zangemann original ice cream machine. It is ice blue in color and is similar to a vending machine of drinks, but instead of the cup there is a cone that is filled with ice cream. Above the dispenser there is a monitor showing the variety that is distributed, in this case pineapple ice cream. On the left there are the slot for inserting coins, the various buttons to choose the flavor, and the hole for returning coins. At the top there is a round white sign with a scoop of candy-pink ice cream in a cone. On the back of the machine there is the refrigeration machinery with the “Z” of the Zangemann logo."
 msgstr ""
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:549
-msgid "Adults and children loved his inventions. All the kids wanted to have one of his skateboards — complete with the latest sounds to show off to their friends at school. Kids also loved his speaker invention, which could instantly play any song you requested. And, of course, everyone loved the ice cream served every afternoon from the automatic, extra-delicious Original Zangemann Ice Cream Machine. It all seemed like magic, but the secret was simple: the little computers that Zangemann built into his machines made it all possible."
-msgstr "おとなも子どもも、みんなツァンゲマンの発明したものが好きでした。どの子も、ツァンゲマンのスケートボードをほしがりました。最新流行のかっこいい音が鳴るスケートボードを、学校の友だちに見せびらかしたかったのです。ききたい曲をすぐに奏でてくれるツァンゲマンのスピーカーも、子どもたちに大人気でした。そして、まいにち午後になるとツァンゲマンのオリジナル・アイスクリームマシンから自動で出てくるとびきりおいしいアイスクリームも、もちろんみんなの大好物でした。すべてがまるで魔法のようでしたが、じつは簡単なことでした。なにもかも、ツァンゲマンがマシンに組み込んだ小さなコンピューターが動かしていたのです。"
+msgid "Adults and children loved his inventions. All the kids wanted to have one of his skateboards — complete with the latest sounds to show off to their friends at school."
+msgstr "おとなも子どもも、みんなツァンゲマンの発明したものが好きでした。どの子も、ツァンゲマンのスケートボードをほしがりました。最新流行のかっこいい音が鳴るスケートボードを、学校の友だちに見せびらかしたかったのです。"
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:549
+msgid "Kids also loved his speaker invention, which could instantly play any song you requested."
+msgstr "ききたい曲をすぐに奏でてくれるツァンゲマンのスピーカーも、子どもたちに大人気でした。"
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:549
+msgid "And, of course, everyone loved the ice cream served every afternoon from the automatic, extra-delicious Original Zangemann Ice Cream Machine."
+msgstr "そして、まいにち午後になるとツァンゲマンのオリジナル・アイスクリームマシンから自動で出てくるとびきりおいしいアイスクリームも、もちろんみんなの大好物でした。"
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:549
+msgid "It all seemed like magic, but the secret was simple: the little computers that Zangemann built into his machines made it all possible."
+msgstr "すべてがまるで魔法のようでしたが、じつは簡単なことでした。なにもかも、ツァンゲマンがマシンに組み込んだ小さなコンピューターが動かしていたのです。"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
