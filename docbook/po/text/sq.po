@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-03 12:12+0100\n"
+"PO-Revision-Date: 2026-01-03 11:24+0000\n"
 "Last-Translator: Erik <erik.ds@fsfe.org>\n"
 "Language-Team: Albanian <https://hosted.weblate.org/projects/fsfe/ada-zangemann/sq/>\n"
 "Language: sq\n"
@@ -11,13 +11,16 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Poedit 3.6\n"
+"X-Generator: Weblate 5.15.1\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
 msgid "translator-credits"
 msgstr ""
-"Coordinated by LibreLabs, a non-formal Albanian community defending digital civil liberties, this project adapts and continues in Albania the educational translation experiment first carried out by students in France. Thanks to the French Embassy in Tirana, especially Amélie Lombardini and Kleopatra Koleka, and the students and teachers of the Franco-Albanian sections. Thanks to Alexis Kauffmann from the French Ministry of Education.\n"
+"Teksti: Matthias Kirschner\n"
+"Ilustrimet: Sandra Brandstätter\n"
+"\n"
+"Përkthim bashkëpunues i koordinuar nga LibreLabs dhe i përfunduar në maj 2025 nga studentët e seksioneve frëngjisht-shqiptare:\n"
 "\n"
 "Shkolla Luigj Gurakuqi, Elbasan: Alvia, Alba, Armela, Egli, Elisa, Flavia, Martina, Menselina, Sidorela, Uenderlin, Xhoana\n"
 "Mësuese: Valbona Popa\n"
@@ -29,9 +32,7 @@ msgstr ""
 "Mësuese koordinatore: Edvalda Kuçi, Lindita Trashani\n"
 "\n"
 "Shkolla Asim Vokshi, Tirana: Esli, Rovena, Ajlin, Danai, Tea, Flavia, Ami \n"
-"Mësuese koordinatore: Eva Taku\n"
-"\n"
-" Thanks to Blerta Hyska for proofreading."
+"Mësuese koordinatore: Eva Taku"
 
 #. (itstool) path: info/title
 #. (itstool) path: cover/bridgehead
@@ -163,7 +164,7 @@ msgstr ""
 #. (itstool) id: Ada_Zangemann.dbk#para-back-1
 #: Ada_Zangemann.dbk:334
 msgid "The inventor Zangemann is world-famous and immensely rich. Adults and children alike love his fabulous technical inventions. But one day there is a problem: the children’s electronic skateboards no longer work properly. What’s going on? The curious girl Ada sees through what is going on. Together with her friends, she experiments with hardware and software, and the children forge a plan: Zangemann can no longer be the only one in control of the devices!"
-msgstr "Zangemanni është një shpikës i famshëm në të gjithë botën dhe jashtëzakonisht i pasur. Fëmijët dhe të rriturit i adhurojnë shpikjet e tij të jashtëzakonshme. Por papritmas, një problem i madh: skateboard-et elektronike të fëmijëve kanë defekte, dhe akulloret kanë vetëm një shije. Çfarë po ndodh? Ada, një vajzë kurioze, do të zbuloje sesi Zangemanni kontrollon produktet e tij nga kompjuteri i artë. Së bashku me miqtë e saj, ajo do të eksperimentojë me objekte të kompjuterizuara që i shpëtojnë vendimeve të Zangemannit. Një libër për fëmijë dhe të rinjtë që mund të përcjellë tek ata gëzimin e eksperimentimit. Një libër mbi lirinë e informatikës, shoqërinë dhe rolin e vajzave në teknologji që promovon autonominë femërore. Një rrëfim i gjallë dhe me ilustrime të jashtëzakonshme."
+msgstr "Zangemanni është një shpikës i famshëm në të gjithë botën dhe jashtëzakonisht i pasur. Fëmijët dhe të rriturit i adhurojnë shpikjet e tij të jashtëzakonshme. Por papritmas, një problem i madh: skateboard-et elektronike të fëmijëve kanë defekte, dhe akulloret kanë vetëm një shije. Çfarë po ndodh? Ada, një vajzë kurioze, do të zbuloje sesi Zangemanni kontrollon produktet e tij nga kompjuteri i artë. Së bashku me miqtë e saj, ajo do të eksperimentojë me objekte të kompjuterizuara që i shpëtojnë vendimeve të Zangemannit. Një libër për fëmijë dhe të rinjtë që mund të përcjellë tek ata gëzimin e eksperimentimit. Një libër mbi lirinë e informatikës, shoqërinë dhe rolin e vajzave në teknologji që promovon autonominë. Një rrëfim i gjallë dhe me ilustrime të jashtëzakonshme."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:335
@@ -1210,19 +1211,25 @@ msgstr "Falënderimet e autorit"
 #: Ada_Zangemann.dbk:1030
 msgid "Many thanks to Reinhard Wiesemann from the Linuxhotel for the financial support and motivation to no longer plan but to make. Thanks to Sandra Brandstätter, who has brought me joy with every new design for the illustrations. Thanks to my editor Wiebke Helmchen, who made developing and sharpening the story fun, and to No Starch Press for agreeing to publish the book under a free culture license."
 msgstr ""
-"Coordinated by LibreLabs, a non-formal Albanian community defending digital civil liberties, this project adapts and continues in Albania the educational translation experiment first carried out by students in France. Thanks to the French Embassy in Tirana, especially Amélie Lombardini and Kleopatra Koleka, and Alexis Kauffman from the French Ministry of Education. Thanks to the voluntary students of the Franco-Albanian sections at Luigj Gurakuqi (Elbasan), Gjergj Katriosti (Durrës), Oso Kuka (Shkodër), and Asim Vokshi (Tirana), along with their coordinating teachers: Anjeza Gjerazi, Valbona Popa, Edvalda Kuçi, Eva Taku, and Lindita Trashani. Thanks to Blerta Hyska for proofreading.\n"
+"This project was coordinated by LibreLabs, a non-formal community defending civil liberties in the digital space in Albania. Inspired by the translation of the French version by students in France, we replicated the experiment in Albania. \n"
 "\n"
-"Një falënderim i madh për Reinhard Wiesemann nga Linuxhotel për mbështetjen e tij financiare dhe për motivimin që na dha të veprojmë në vend që të planifikojmë gjithmonë. Faleminderit Sandra Brandstätter për gëzimin që më solli secila nga skicat e saj. Faleminderit për rilexuesen Wiebke Helmchen, me të cilën pata shumë kënaqësi në zhvillimin dhe përpunimin e kësaj historie, dhe Ariane Hesse për mbështetjen e saj të jashtëzakonshme tek botuesi."
+"We thank the French Embassy in Tirana for their openness, in particular Amélie Lombardini and Kleopatra Koleka, as well as Alexis Kauffmann from the French Ministry of Education. \n"
+"\n"
+"We are grateful to the talented voluntary students of the Franco-Albanian sections of the following schools : Luigj Gurakuqi (Elbasan), Gjergj Katriosti (Durrës), Oso Kuka (Shkodër) and Asim Vokshi (Tirana). Special thanks to the teachers from the different schools who coordinated the project : Anjeza Gjerazi, Valbona Popa, Edvalda Kuçi, Eva Taku and Lindita Trashani. Thanks to Blerta Hyska for proofreading the translation. \n"
+"\n"
+"We are grateful to the publishing house Papirus for their openness and innovative spirit.\n"
+"\n"
+"You can find more about LibreLabs on our website (https://librelabs.cc) and our forum (https://forum.librelabs.cc)"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1031
 msgid "Thanks to Bea and Benni, Brian, Christine and Marc, Cory, Bernhard, Isabel and Amelia, Katta, Kristina, Martin, Mona and Arne, Nina, Oliver, Reinhard, Sabine, and Torsten for great ideas, inspiration, and practical tips, and to the many people of the Free Software movement, from which I was allowed to learn and whose engagement motivated me."
-msgstr "Faleminderit Bea dhe Benni, Christine dhe Marc, Cory, Bernhard, Isabel dhe Amelia, Katta, Kristina, Martin, Mona dhe Arne, Nina, Oliver, Reinhard, Sabine dhe Torsten për idetë e tyre të shkëlqyera, frymëzimin dhe këshillat praktike, si edhe të gjithë personave nga lëvizja e softuerit të lirë prej të cilëve kam mësuar shumë dhe angazhimi i të cilëve më motivon."
+msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1035
 msgid "Thanks to my family, who made me write early in the morning, late in the evening, and on holiday, and who always supports my work for software freedom. Especially, I would like to thank my children, who inspired me with new ideas at each reading. Without them, this book would not exist."
-msgstr "Një falënderim nga zemra për familjen time, që më la të shkruaja herët në mëngjes, vonë në mbrëmje dhe gjatë pushimeve, dhe që gjithmonë ka mbështetur punën time për lirinë e softuerit. Dua të falënderoj në mënyrë të veçantë fëmijët e mi, të cilët më frymëzuan me ide të reja sa herë që u lexoja librin. Pa ta, ky libër nuk do të ekzistonte."
+msgstr ""
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
