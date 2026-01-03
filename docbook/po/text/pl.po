@@ -624,12 +624,18 @@ msgstr "The wszystkie wynalazki były bardzo popularne w szkole Ady. Wielu z jej
 msgid "no skateboard, no speakers, no ice cream."
 msgstr "deskorolki, głośnika czy nawet lodów."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:566
-msgid "Luckily, Ada lived right next to the junkyard. There were lots of broken gadgets and rusty parts, which she put together to make cool new things, like a soapbox she and Alan rode roaring down the hill, a windmill, and scary junk monsters, which she and Alan would fight together. She also found many useful items—an old cell phone, for example. The screen was cracked, but she could fix that, and while there wasn’t internet at the junkyard, she could get access somewhere else."
+#, fuzzy
+msgid "Luckily, Ada lived right next to the junkyard. There were lots of broken gadgets and rusty parts, which she put together to make cool new things, like a soapbox she and Alan rode roaring down the hill, a windmill, and scary junk monsters, which she and Alan would fight together."
 msgstr "Na szczęście Ada mieszkała opodal wysypiska śmieci. Było tam wiele zepsutych urządzeń i zardzewiałych części, które składała aby zrobić nowe fajne rzeczy jak na przykład bobslej aby razem z Alanem zjeżdżać z górki, wiatrak i strasznego śmieciowego potwora. Znalazła również wiele przydatnych rzeczy jak choćby telefon komórkowy. Jego ekrany był pęknięty ale mogła to naprawić. A kiedy nie było Internetu na śmietnisku, mogła mieć do niego dostęp gdzieś indziej."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:566
+msgid "She also found many useful items—an old cell phone, for example. The screen was cracked, but she could fix that, and while there wasn’t internet at the junkyard, she could get access somewhere else."
+msgstr ""
+
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:567
 msgid "Ada had so much fun tinkering in the junkyard and fixing broken things that she forgot all about the skateboards and the ice cream."
 msgstr "Dużo radości sprawiało Adzie majsterkowanie na wysypisku i naprawianie zepsutych rzeczy, tak że zupełnie zapomniała o deskorolkach i lodach."

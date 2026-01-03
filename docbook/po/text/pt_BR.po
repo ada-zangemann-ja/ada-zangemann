@@ -537,12 +537,18 @@ msgstr "Essas invenções eram muito populares na escola de Ada, e muitos de seu
 msgid "no skateboard, no speakers, no ice cream."
 msgstr "sem skate, sem alto-falantes, sem sorvete."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:566
-msgid "Luckily, Ada lived right next to the junkyard. There were lots of broken gadgets and rusty parts, which she put together to make cool new things, like a soapbox she and Alan rode roaring down the hill, a windmill, and scary junk monsters, which she and Alan would fight together. She also found many useful items—an old cell phone, for example. The screen was cracked, but she could fix that, and while there wasn’t internet at the junkyard, she could get access somewhere else."
+#, fuzzy
+msgid "Luckily, Ada lived right next to the junkyard. There were lots of broken gadgets and rusty parts, which she put together to make cool new things, like a soapbox she and Alan rode roaring down the hill, a windmill, and scary junk monsters, which she and Alan would fight together."
 msgstr "Felizmente, a Ada vivia ao lado do ferro-velho. Havia muitos aparelhos quebrados e peças enferrujadas, que ela montou para fazer coisas novas e legais, como uma caixa de sabão que ela e Alan montaram rugindo colina abaixo, um moinho de vento, e monstros de lixo assustadores, que ela e Alan lutavam juntos. Ela também encontrou muitos itens úteis – um velho celular, por exemplo. A tela estava rachada, mas ela poderia consertar isso, e enquanto não havia internet no ferro-velho, ela poderia ter acesso em outro lugar."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:566
+msgid "She also found many useful items—an old cell phone, for example. The screen was cracked, but she could fix that, and while there wasn’t internet at the junkyard, she could get access somewhere else."
+msgstr ""
+
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:567
 msgid "Ada had so much fun tinkering in the junkyard and fixing broken things that she forgot all about the skateboards and the ice cream."
 msgstr "Ada se divertiu tanto a mexer no ferro-velho e a consertar coisas quebradas que se esqueceu dos skates e do sorvete."

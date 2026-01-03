@@ -498,12 +498,18 @@ msgstr "Aj v škole, do ktorej chodila Ada, Viacerí jej kamaráti jazdili na t�
 msgid "no skateboard, no speakers, no ice cream."
 msgstr "Žiadny skejtbord, žiadne reproduktory, žiadna zmrzlina."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:566
-msgid "Luckily, Ada lived right next to the junkyard. There were lots of broken gadgets and rusty parts, which she put together to make cool new things, like a soapbox she and Alan rode roaring down the hill, a windmill, and scary junk monsters, which she and Alan would fight together. She also found many useful items—an old cell phone, for example. The screen was cracked, but she could fix that, and while there wasn’t internet at the junkyard, she could get access somewhere else."
+#, fuzzy
+msgid "Luckily, Ada lived right next to the junkyard. There were lots of broken gadgets and rusty parts, which she put together to make cool new things, like a soapbox she and Alan rode roaring down the hill, a windmill, and scary junk monsters, which she and Alan would fight together."
 msgstr "Našťastie Ada bývala vedľa vrakoviska. Našla pokazené zariadenia a hrdzavé časti, z ktorých stavala super veci. Krabica od mydla, na ktorej sa Ada s malým bratom Alanom šmýkali z kopca. Ventilátor, alebo strašné monštrá, proti ktorým spolu bojovali. Našla aj veľa užitočných vecí. Napríklad starý mobil. Displej bol síce prasknutý, ale to dokázala opraviť. Na vrakovisku nebol internet, ale ten našla inde."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:566
+msgid "She also found many useful items—an old cell phone, for example. The screen was cracked, but she could fix that, and while there wasn’t internet at the junkyard, she could get access somewhere else."
+msgstr ""
+
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:567
 msgid "Ada had so much fun tinkering in the junkyard and fixing broken things that she forgot all about the skateboards and the ice cream."
 msgstr "Adu opravovanie pokazených vecí tak bavilo, že zabudla na skejtbordy a zmrzlinu."

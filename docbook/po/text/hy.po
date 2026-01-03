@@ -498,12 +498,18 @@ msgstr "Այս նորարարութիւնները շատ յայտնի էին Ա�
 msgid "no skateboard, no speakers, no ice cream."
 msgstr "ոչ սքեյթ, ոչ բարձրախօս, ոչ պաղպաղակ։"
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:566
-msgid "Luckily, Ada lived right next to the junkyard. There were lots of broken gadgets and rusty parts, which she put together to make cool new things, like a soapbox she and Alan rode roaring down the hill, a windmill, and scary junk monsters, which she and Alan would fight together. She also found many useful items—an old cell phone, for example. The screen was cracked, but she could fix that, and while there wasn’t internet at the junkyard, she could get access somewhere else."
+#, fuzzy
+msgid "Luckily, Ada lived right next to the junkyard. There were lots of broken gadgets and rusty parts, which she put together to make cool new things, like a soapbox she and Alan rode roaring down the hill, a windmill, and scary junk monsters, which she and Alan would fight together."
 msgstr "Բարեբախտաբար Ադան աղբանոցի կողքն էր ապրում։ Այնտեղ շատ ջարդուած գաջեթներ եւ ժանգոտ մասեր կային, որոնք նա կպցնում էր իրար եւ հաւէս նոր բաներ ստանում, ինչպէս օճառամանը, որ ինքն ու Ալանը, քշում էին բլուրն ի վար` հողմաղացով, եւ վախենալու աղբէ հրէշները, որ ինքն ու Ալանը կռուացնում էին իրար հետ։ Նա նաեւ գտնում էր արժէքաւոր իրեր՝ հին բջջային, օրինակ։ Էկրանը ջարդուած էր, բայց նա կարող էր ուղղել դա, եւ քանի որ չկար ինտերնետ աղբամանոցում, նա կարող էր հասկանալիութիւն ստանալ այլ տեղից։"
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:566
+msgid "She also found many useful items—an old cell phone, for example. The screen was cracked, but she could fix that, and while there wasn’t internet at the junkyard, she could get access somewhere else."
+msgstr ""
+
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:567
 msgid "Ada had so much fun tinkering in the junkyard and fixing broken things that she forgot all about the skateboards and the ice cream."
 msgstr "Ադան այնքան էր զուարճանում թափառել֊սարքելով աղբանոցում, եւ վերանորոգելով ջարդուած բաները, որ նա լրիւ մոռանում էր այդ ողջ սքեյթներն ու պաղպաղակները։"

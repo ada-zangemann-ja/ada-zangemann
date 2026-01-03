@@ -535,12 +535,18 @@ msgstr "Edhe në shkollën e Adës, shpikje të tilla ishin shumë të njohura d
 msgid "no skateboard, no speakers, no ice cream."
 msgstr "As skateboard, as bokse, as akullore."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:566
-msgid "Luckily, Ada lived right next to the junkyard. There were lots of broken gadgets and rusty parts, which she put together to make cool new things, like a soapbox she and Alan rode roaring down the hill, a windmill, and scary junk monsters, which she and Alan would fight together. She also found many useful items—an old cell phone, for example. The screen was cracked, but she could fix that, and while there wasn’t internet at the junkyard, she could get access somewhere else."
+#, fuzzy
+msgid "Luckily, Ada lived right next to the junkyard. There were lots of broken gadgets and rusty parts, which she put together to make cool new things, like a soapbox she and Alan rode roaring down the hill, a windmill, and scary junk monsters, which she and Alan would fight together."
 msgstr "Por Ada jetonte afër një vendi ku hidheshin mbeturinat. Aty gjente pajisje të prishura dhe pjesë të ndryshkura me të cilat ndërtonte gjëra fantastike: një karrocë të vogël me të cilën ajo dhe vëllai i saj Alan zbrisnin kodrën me shpejtësi, një turbinë ere, apo përbindësha të krijuar nga pjesë të frikshme, kundër të cilëve luftonin së bashku. Gjente edhe sende të dobishme, si një telefon të vjetër. Ekrani ishte plot plasaritje, por ajo besonte se mund ta rregullonte. Aty pranë nuk kishte fare internet. Punë e madhe, ajo do e gjente diku tjetër."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:566
+msgid "She also found many useful items—an old cell phone, for example. The screen was cracked, but she could fix that, and while there wasn’t internet at the junkyard, she could get access somewhere else."
+msgstr ""
+
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:567
 msgid "Ada had so much fun tinkering in the junkyard and fixing broken things that she forgot all about the skateboards and the ice cream."
 msgstr "Ada kënaqej aq shumë duke ndrequr sende të vjetra dhe duke krijuar të reja nga gjërat që të tjerët i hidhnin, sa që harronte fare për skateboardët apo akulloret."

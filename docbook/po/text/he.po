@@ -572,12 +572,18 @@ msgstr "ההמצאות האלו היו מאוד נפוצות בבית הספר �
 msgid "no skateboard, no speakers, no ice cream."
 msgstr "אין סקייטבורד, אין רמקולים, אין גלידה."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:566
-msgid "Luckily, Ada lived right next to the junkyard. There were lots of broken gadgets and rusty parts, which she put together to make cool new things, like a soapbox she and Alan rode roaring down the hill, a windmill, and scary junk monsters, which she and Alan would fight together. She also found many useful items—an old cell phone, for example. The screen was cracked, but she could fix that, and while there wasn’t internet at the junkyard, she could get access somewhere else."
+#, fuzzy
+msgid "Luckily, Ada lived right next to the junkyard. There were lots of broken gadgets and rusty parts, which she put together to make cool new things, like a soapbox she and Alan rode roaring down the hill, a windmill, and scary junk monsters, which she and Alan would fight together."
 msgstr "למרבה המזל, עדה התגוררה ליד מגרש הגרוטאות. היו שם המון חפצים אלקטרוניים שבורים וחלודים, שמהם בנתה דברים חדשים ומגניבים כמו מכונית מרוץ ללא מנוע שהיא ואלן דהרו בה במורד הגבעה, טחנת רוח ומפלצות מפחידות מגרוטאות, שבהן היא ואלן לחמו יחד. היא גם מצאה שלל פריטים שימושיים – טלפון ישן, למשל. המסך היה שבור אבל היא הצליחה לתקן אותו, ולמרות שלא היה אינטרנט במגרש הגרוטאות, היא הצליחה לגשת ממקום אחר."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:566
+msgid "She also found many useful items—an old cell phone, for example. The screen was cracked, but she could fix that, and while there wasn’t internet at the junkyard, she could get access somewhere else."
+msgstr ""
+
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:567
 msgid "Ada had so much fun tinkering in the junkyard and fixing broken things that she forgot all about the skateboards and the ice cream."
 msgstr "לעדה היה ממש כיף לשפצר במגרש הגרוטאות ולתקן דברים שבורים עד שהיא שכחה לגמרי מהסקייטבורדים ומהגלידה."

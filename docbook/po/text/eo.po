@@ -547,12 +547,18 @@ msgstr "Ĉi tiuj inventaĵoj estis tre popularaj en la lernejo de Ada kaj multaj
 msgid "no skateboard, no speakers, no ice cream."
 msgstr "nek rultabulon, nek laŭtparolilojn, nek glaciaĵon."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:566
-msgid "Luckily, Ada lived right next to the junkyard. There were lots of broken gadgets and rusty parts, which she put together to make cool new things, like a soapbox she and Alan rode roaring down the hill, a windmill, and scary junk monsters, which she and Alan would fight together. She also found many useful items—an old cell phone, for example. The screen was cracked, but she could fix that, and while there wasn’t internet at the junkyard, she could get access somewhere else."
+#, fuzzy
+msgid "Luckily, Ada lived right next to the junkyard. There were lots of broken gadgets and rusty parts, which she put together to make cool new things, like a soapbox she and Alan rode roaring down the hill, a windmill, and scary junk monsters, which she and Alan would fight together."
 msgstr "Bonŝance, Ada loĝis tuj apud la rubejo. Tie estis multaj rompitaj aparatoj kaj rustaj partoj, kiujn ŝi kunmetis por fari mojosajn novajn aferojn, kiel ekzemple keston, kiun ŝi kaj Alan rajdis muĝante laŭ la monteto, ventomuelejon kaj timigajn ruba-monstrojn, kiujn ŝi kaj Alan batalis kune. Ŝi ankaŭ trovis multajn utilajn objektojn - ekzemple malnovan poŝtelefonon. La ekrano estis fendita, sed ŝi povis ripari tion kaj kvankam ne estis interreto ĉe la rubodeponejo, ŝi povis akiri aliron aliloke."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:566
+msgid "She also found many useful items—an old cell phone, for example. The screen was cracked, but she could fix that, and while there wasn’t internet at the junkyard, she could get access somewhere else."
+msgstr ""
+
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:567
 msgid "Ada had so much fun tinkering in the junkyard and fixing broken things that she forgot all about the skateboards and the ice cream."
 msgstr "Ada tiom amuziĝis riparante en la rubejo kaj riparante rompitajn aĵojn, ke ŝi tute forgesis pri la rultabuloj kaj la glaciaĵo."

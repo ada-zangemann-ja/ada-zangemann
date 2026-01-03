@@ -499,13 +499,18 @@ msgstr "Im Ada sinere Schule, sin die erfundunge berumt gsin un viel von sin i k
 msgid "no skateboard, no speakers, no ice cream."
 msgstr "ken skat, ken haut parleurs un glace."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:566
 #, fuzzy
-msgid "Luckily, Ada lived right next to the junkyard. There were lots of broken gadgets and rusty parts, which she put together to make cool new things, like a soapbox she and Alan rode roaring down the hill, a windmill, and scary junk monsters, which she and Alan would fight together. She also found many useful items—an old cell phone, for example. The screen was cracked, but she could fix that, and while there wasn’t internet at the junkyard, she could get access somewhere else."
+msgid "Luckily, Ada lived right next to the junkyard. There were lots of broken gadgets and rusty parts, which she put together to make cool new things, like a soapbox she and Alan rode roaring down the hill, a windmill, and scary junk monsters, which she and Alan would fight together."
 msgstr "Zum klieg wohnte Ada nevem dreckuffe. Do finds alle sorte veregdi apareter, rochtigi aldes dings… Es fabrigster e seifkist mitm sinem brüder Alan un wagelt de bugel nap, e windraedel un verschidini monster."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:566
+msgid "She also found many useful items—an old cell phone, for example. The screen was cracked, but she could fix that, and while there wasn’t internet at the junkyard, she could get access somewhere else."
+msgstr ""
+
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:567
 msgid "Ada had so much fun tinkering in the junkyard and fixing broken things that she forgot all about the skateboards and the ice cream."
 msgstr "Es het so grosser gsbass am bechle das es skat un glace vergesst."

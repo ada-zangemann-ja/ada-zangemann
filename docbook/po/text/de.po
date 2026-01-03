@@ -499,12 +499,18 @@ msgstr "Auch an Adas Schule waren diese Erfindungen sehr beliebt und viele ihrer
 msgid "no skateboard, no speakers, no ice cream."
 msgstr "kein Skateboard, keine Lautsprecher, kein Eis."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:566
-msgid "Luckily, Ada lived right next to the junkyard. There were lots of broken gadgets and rusty parts, which she put together to make cool new things, like a soapbox she and Alan rode roaring down the hill, a windmill, and scary junk monsters, which she and Alan would fight together. She also found many useful items—an old cell phone, for example. The screen was cracked, but she could fix that, and while there wasn’t internet at the junkyard, she could get access somewhere else."
+#, fuzzy
+msgid "Luckily, Ada lived right next to the junkyard. There were lots of broken gadgets and rusty parts, which she put together to make cool new things, like a soapbox she and Alan rode roaring down the hill, a windmill, and scary junk monsters, which she and Alan would fight together."
 msgstr "Zum Glück wohnte Ada direkt neben dem Schrottplatz. Dort gab es kaputte Geräte und rostige Teile, aus denen sie tolle Dinge zusammenbaute: eine Seifenkiste, in der sie und ihr kleiner Bruder Alan die Hügel runtersausten, ein Windrad oder furchterregende Schrottmonster, die sie dann zusammen bekämpften. Sie fand auch viele nützliche Gegenstände – ein altes Handy zum Beispiel. Der Bildschirm hatte zwar einen Sprung, aber den könnte sie reparieren, und auf dem Schrottplatz gab es zwar kein Internet, aber das würde sie woanders finden."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:566
+msgid "She also found many useful items—an old cell phone, for example. The screen was cracked, but she could fix that, and while there wasn’t internet at the junkyard, she could get access somewhere else."
+msgstr ""
+
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:567
 msgid "Ada had so much fun tinkering in the junkyard and fixing broken things that she forgot all about the skateboards and the ice cream."
 msgstr "Es machte Ada so viel Spaß, auf dem Schrottplatz zu basteln und kaputte Dinge zu reparieren, dass sie die Skateboards und das Eis darüber ganz vergaß."
