@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2025-12-31 08:01+0000\n"
+"PO-Revision-Date: 2026-01-03 05:23+0000\n"
 "Last-Translator: itagenata <ivan@tagenata.com>\n"
 "Language-Team: Galician <https://hosted.weblate.org/projects/fsfe/ada-zangemann/gl/>\n"
 "Language: gl\n"
@@ -664,17 +664,17 @@ msgstr "Durante as semanas seguintes, Ada pasou as tardes na biblioteca. Entre l
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:706
 msgid "Of course, she wanted to try her program out right away to see if it really worked. At the junkyard, she connected her cell phone to a small LED lamp. Then she typed the lines of code into her cell phone."
-msgstr ""
+msgstr "Por suposto, quería probar o seu programa de inmediato para ver se realmente funcionaba. Na chatarraría conectou o seu móbil a unha pequena lámpada LED. Logo tecleou as liñas de código no móbil."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:707
 msgid "At first, nothing happened. Ada wondered where the error could be. She made a few small changes and tried again and .... “Yeesss!” The little light began to flash. On, off, on, off. Ada looked at the LED in amazement. She had written her first program!"
-msgstr ""
+msgstr "Ao comezo non pasou nada. Ada preguntouse onde podía estar o erro. Fixo uns pequenos cambios e probou de novo e... «Si!». A luz comezou a escintilar. Acendida, apagada, acendida, apagada. Ada mirou a lámpada abraiada. Escribira o seu primeiro programa!"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:708
 msgid "Ada was totally thrilled. She imagined all the great things she could do. If she just entered the right code, she could make her inventions do exactly what she wanted. It was not so easy, but after a few weeks, Ada wrote a truly useful program: one that would make Alan’s speakers automatically turn off half an hour after he had fallen asleep."
-msgstr ""
+msgstr "Ada estaba encantada. Imaxinaba todas as cousas xeniais que podía facer. Se introducía o código correcto podería facer que os seus inventos fixesen exactamente o que quería. Non foi tan fácil, pero despois dunhas semanas Ada escribiu un programa realmente útil: un que faría que os altofalantes de Alan se apagasen automaticamente media hora despois de quedar durmido."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -686,7 +686,7 @@ msgstr "Ada familiarízase coa programación. Está a escribir nun teclado apoia
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:717
 msgid "Ada also had an idea for the next program she would write. It was a bigger deal, a real project. She would probably need the whole summer break for it... And she could hardly wait!"
-msgstr ""
+msgstr "Ada tamén tivo unha idea para o seguinte programa que escribiría. Era algo máis grande, un proxecto de verdade. Probablemente precisaría todoas as vacación de verán para facelo... E non podía esperar!"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -698,49 +698,49 @@ msgstr "Zangemann mira pensativo, cos brazos cruzados, a través dunha das grand
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:730
 msgid "A horrible night"
-msgstr ""
+msgstr "Unha noite horrible"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p25-1
 #: Ada_Zangemann.dbk:734
 msgid "Zangemann had slept horribly every night since his terrible walk in the city. When he went to bed each night, worries plagued him. “Oh no, my marvelous inventions. It can’t be that everyone just plays around with them. All the things that could go wrong! I put so much thought into everything, down to the last detail.” Zangemann pondered and pondered and tossed and turned sleeplessly in his bed all night."
-msgstr ""
+msgstr "Zangemann durmira fatal todas as noites dende o seu terrible paseo pola cidade. Cada noite, cando marchaba para a cama as preocupacións atormentábano. “Oh, non, os meus marabillosos inventos! Non pode ser que todo o mundo xogue dese xeito con eles. Cantas cousas poderían saír mal! Pensei tanto en todo, ata no último detalle”. Zangemann cavilou e cavilou... e deu voltas na cama toda a noite."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:735
 msgid "Waking up one morning with a deeply furrowed brow, he made a decision. He needed to make a change. Zangemann sat down at his computer and wrote one program after another. In these programs, he specified exactly what his inventions were to do and were not to do under any circumstances. The chaos had to stop!"
-msgstr ""
+msgstr "Pola mañá ergueuse co cello engurrado e tomou unha decisión. Tiña que facer un cambio. Zangemann sentou perante o seu ordenador dourado e escribiu un programa tras outro. Nestes programas especificaba exactamente o que os seus inventos debían e o que non debían facer baixo ningunha circunstancia. Había que rematar co caos!"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:736
 msgid "Once he was done, he sent all the new programs from his golden computer to people’s devices. He ordered his speakers to play only his favorite music whenever he was within earshot. He programmed the ice-cream machines to stop selling ice cream in the afternoon. After all, he didn’t want his expensive clothes to get stained by ice cream while he was out for a walk. All day long he sat at the computer and typed and typed and typed..."
-msgstr ""
+msgstr "Cando rematou, enviou dende o seu ordenador dourado todos os novos programas aos dispositivos da xente. Ordenou aos seus altofalantes que, sempre que estivese preto, reproducisen só a súa música favorita. Programou as máquinas de xeado para que deixasen de vender xeados pola tarde. Ao cabo, non quería que a súa roupa se manchase de xeado mentres paseaba. Durante todo o día sentou diante do ordenador e tecleou e tecleou e tecleou..."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:741
 msgid "First real project"
-msgstr ""
+msgstr "O primeiro proxecto de verdade"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p26-1
 #: Ada_Zangemann.dbk:745
 msgid "Summer break was already halfway over. Ada stood in front of her big project and scratched her head. She had built a skateboard from old parts and then connected a motor to make the wheels turn. With a motorized skateboard, Ada could zoom to the library or the junkyard even faster after school. Super practical! But it didn’t work. When she stood on it and pressed the Go! button, the wheels moved, but way too fast. Ada fell off the skateboard every time she started. No matter what she tried, she just couldn’t get it right."
-msgstr ""
+msgstr "As vacacións de verán xa ían pola metade. Ada parou fronte ao seu gran proxecto e rañou a cachola. Construíra un monopatín con pezas doutros vellos monopatíns e logo conectáralle un motor para facer xirar as rodas. Cun monopatín motorizado, Ada podería ir máis rápido á biblioteca ou á chatarraría despois de saír de clase. Superpráctico! Pero non funcionaba. Cando subía nel e premía o botón «Comezar», as rodas movíanse, aínda que demasiado rápido. Ada caía do monopatín cada vez que o prendía. Non importaba o que intentase, non conseguía facelo ben."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:746
 msgid "After falling on her bottom for the hundredth time, she went back to the library. She always found answers to her questions there. And indeed, on the internet, she came across a program that someone had written for an electric scooter that also needed to start slowly. Ada downloaded it to her phone."
-msgstr ""
+msgstr "Despois de caer de cu por enésima vez, volveu á biblioteca. Alí sempre atopaba respostas ás súas preguntas. E efectivamente, en Internet, atopou un programa que alguén escribira para unha scooter eléctrica que tamén precisaba prender lentamente. Ada descargouno no seu teléfono."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:748
 msgid "Back at the junkyard, she adapted some lines of code for her skateboard program. She tweaked a few things and kept tinkering."
-msgstr ""
+msgstr "De volta na chatarraría, adaptou algunhas liñas de código do seu programa de monopatín. Modificou algunhas cousas e seguiu enredando."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:749
 msgid "Several failed attempts later, on the last day of summer break, the time had finally come. Ada stood on the skateboard and pressed the Go! button, and the skateboard started moving, slowly at first, then faster. It worked! She tried to brake. It worked! Ada let out a cry of joy and took a trip to the park."
-msgstr ""
+msgstr "Tras varios intentos, no derradeiro día das vacacións de verán, Ada subiu ao monopatín e premeu o botón «Comezar». O monopatín comezou a moverse, primeiro amodo e logo máis rápido. Funcionou! Tentou frear. E funcionou! Ada berrou de alegría e foi probalo ao parque."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -752,12 +752,12 @@ msgstr "Ada vai a toda velocidade co seu monopatín eléctrico polas beirarrúas
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:761
 msgid "When Ada rode her skateboard to school on the first day back after summer break, the other children were amazed. During recess, Ada’s curious classmates surrounded her."
-msgstr ""
+msgstr "Cando Ada, o primeiro día despois das vacacións de verán, foi á escola en monopatín, os demais nenos quedaron abraiados. Durante o recreo, rodeárona curiosos."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:762
 msgid "“How can you ride your skateboard on the sidewalk?” they asked."
-msgstr ""
+msgstr "“Como podes ir en monopatín pola beirarrúa?”, preguntáronlle."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -769,12 +769,12 @@ msgstr "Ada detense co seu monopatín rodeada de nenos. Marie está nun dos extr
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:771
 msgid "Ada thought for a moment, then said, “I don’t think it’s your skateboards but actually the software in them. It’s probably programmed into the software that the skateboards aren’t allowed to go on the sidewalk. But that can be changed!”"
-msgstr ""
+msgstr "Ada pensou un intre e logo dixo: “Non creo que sexan os vosos monopatíns, senón o software que levan.Probablemente estea programado para que os monopatíns non poidan ir pola beirarrúa. Pero iso pódese mudar!”"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:772
 msgid "That evening, Ada tested out her theory on her classmate Toni’s skateboard. She worked secretly through most of the night, and the next day, Toni could ride on the sidewalk again. Unfortunately, his skateboard could no longer make the sounds that his parents had bought from Zangemann. Instead, every 10 minutes it made a strange noise that sounded like a drawn-out burp. Ada knew that little errors like that could pop up in programs all the time. But Toni’s burping skateboard was really quite funny."
-msgstr ""
+msgstr "Esa tarde, Ada puxo a proba a súa teoría co monopatín de Toni. Traballou en secreto case toda a noite, e ao día seguinte, Toni puido volver circular pola beirarrúa. Por desgraza, o seu monopatín xa non emitía os sons que seus pais compraran a Zangemann. No canto deles, cada 10 minutos facía un ruído estraño que soaba como un arroto longuísimo. Ada sabía que pequenos erros como ese podían aparecer nos programas todo o tempo. Pero o arroto do monopatín de Toni era… realmente divertido."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -786,18 +786,18 @@ msgstr "Diagrama da mariola debuxado con xiz sobre o asfalto. En fila, dentro de
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:783
 msgid "Hacking for freedom"
-msgstr ""
+msgstr "Hackear pola liberdade"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p30-1
 #: Ada_Zangemann.dbk:787
 msgid "More and more children started to visit Ada at the junkyard after school, and she helped them rewrite the programs in their skateboards. Some of her classmates were very excited about this new discovery. It was unbelievable what you could do with software code! They wanted to learn everything Ada knew about programming languages, and soon they were riding their skateboards again, wherever they wanted to."
-msgstr ""
+msgstr "Máis e máis nenos comezaron a visitar a Ada na chatarraría despois do colexio, e ela axudoulles a reescribir os programas dos seus monopatíns. Algúns dos seus compañeiros estaban moi entusiasmados con este novo descubrimento. Era incrible o que se podía facer sabendo programar! Querían aprender todo o que Ada sabía sobre linguaxes de programación e axiña volveron montar nos seus monopatíns onde lles petaba."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:789
 msgid "But that wasn’t all. With the software, they could give their skateboards new, cool features. Marie attached colorful LED lights to her board that glowed different colors depending on the speed. Konrad built old propellers onto his skateboard for extra speed."
-msgstr ""
+msgstr "Pero iso non era todo. Grazas ao software podían engadir características novas e sorprendentes aos seus monopatíns. Marie conectoulle luces LED de cores que brillaban con diferentes cores segundo a velocidade. Konrad integroulle unhas vellas hélices para aumentar a velocidade."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -809,7 +809,7 @@ msgstr "Unha batería verde con cables vermellos e amarelos, unha regreta eléct
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:798
 msgid "Ada, Toni, Marie, and Konrad spent many afternoons at the junkyard. They even set up a real workshop where they could fine-tune their programs for hours, listening all the while to music from the speakers Ada had built for Alan."
-msgstr ""
+msgstr "Ada, Toni, Marie e Konrad pasaban moitas tardes na chatarraría. Mesmo montaron un verdadeiro taller onde, durante horas, podían perfeccionar os seus programas mentres escoitaban música nos altofalantes que Ada construíra para Alan."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:799
