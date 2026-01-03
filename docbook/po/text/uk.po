@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2025-12-29 10:15+0100\n"
+"PO-Revision-Date: 2026-01-03 08:10+0100\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim5@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/fsfe/ada-zangemann/uk/>\n"
 "Language: uk\n"
@@ -477,32 +477,32 @@ msgstr "Занґеманн і комп'ютери"
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:529
 msgid "Computers had fascinated Zangemann ever since he was a child. When he was young, computers were huge machines with lots of cables and loud, noisy fans."
-msgstr ""
+msgstr "Комп'ютери зачаровували Занґеманна ще з дитинства. Коли він був маленьким, комп'ютери були величезними машинами з безліччю кабелів і гучними, галасливими вентиляторами."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:529
 msgid "At school, little Zangemann often dreamed of all the things he would do with computers if they were just a little bit smaller — small enough that they could be built into other fun things."
-msgstr ""
+msgstr "У школі маленький Занґеманн часто мріяв про те, що б він міг робити з комп'ютерами, якби вони були трохи меншими - достатньо маленькими, щоб їх можна було вбудувати в інші цікаві речі."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:529
 msgid "He knew what he would do. First, he would build a computer into his skateboard so that it would make cool noises when he rode it — maybe a fire engine siren or the sound of a rocket launch."
-msgstr ""
+msgstr "Він знав, що буде робити. По-перше, він вмонтує комп'ютер у свій скейтборд, щоб він видавав круті звуки, коли він їде на ньому - можливо, сирену пожежної машини або звук запуску ракети."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:529
 msgid "Then he would use a computer to invent ice‑cream-making machines! The computer would mix the coolest flavors and even sell the ice cream."
-msgstr ""
+msgstr "Потім він використовував комп'ютер, щоб винайти машину для виготовлення морозива! Комп'ютер змішував би найкрутіші смаки і навіть продавав би морозиво."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:529
 msgid "There would be machines on every street corner, and he could get ice cream in his favorite flavor whenever he felt like it, and just as much as he wanted. After that, he’d build a cleaning robot and a block-sorting machine so that his room would always be neat and clean."
-msgstr ""
+msgstr "Машини стояли б на кожному розі вулиці, і хлопчик міг би купувати морозиво з улюбленим смаком, коли йому заманеться, і стільки, скільки він захоче. Після цього він побудував би робота-прибиральника та машину для сортування блоків, щоб у його кімнаті завжди було чисто й охайно"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:529
 msgid "Zangemann had great new ideas like these every day. He could think of nothing else."
-msgstr ""
+msgstr "У Занґеманна щодня з'являлися нові чудові ідеї, подібні до цих. Він не міг думати ні про що інше."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:530
@@ -1359,6 +1359,3 @@ msgstr ""
 #: Ada_Zangemann.dbk:1139
 msgid "Three hands that hold as many empty ice cream cones, to draw and color. In the air above the middle cone is an umbrella."
 msgstr "Три руки, які тримають стільки ж порожніх ріжків від морозива, щоб малювати і розфарбовувати. У повітрі над середнім ріжком - парасолька."
-
-#~ msgid "Computers had fascinated Zangemann ever since he was a child. When he was young, computers were huge machines with lots of cables and loud, noisy fans. At school, little Zangemann often dreamed of all the things he would do with computers if they were just a little bit smaller — small enough that they could be built into other fun things. He knew what he would do. First, he would build a computer into his skateboard so that it would make cool noises when he rode it — maybe a fire engine siren or the sound of a rocket launch. Then he would use a computer to invent ice‑cream-making machines! The computer would mix the coolest flavors and even sell the ice cream. There would be machines on every street corner, and he could get ice cream in his favorite flavor whenever he felt like it, and just as much as he wanted. After that, he’d build a cleaning robot and a block-sorting machine so that his room would always be neat and clean. Zangemann had great new ideas like these every day. He could think of nothing else."
-#~ msgstr "Комп'ютери зачаровували Занґеманна ще з дитинства. Коли він був маленьким, комп'ютери були величезними машинами з безліччю кабелів і гучними, галасливими вентиляторами. У школі маленький Занґеманн часто мріяв про те, що б він міг робити з комп'ютерами, якби вони були трохи меншими - достатньо маленькими, щоб їх можна було вбудувати в інші цікаві речі. Він знав, що буде робити. По-перше, він вмонтує комп'ютер у свій скейтборд, щоб він видавав круті звуки, коли він їде на ньому - можливо, сирену пожежної машини або звук запуску ракети. Потім він використовував комп'ютер, щоб винайти машину для виготовлення морозива! Комп'ютер змішував би найкрутіші смаки і навіть продавав би морозиво. Машини стояли б на кожному розі вулиці, і хлопчик міг би купувати морозиво з улюбленим смаком, коли йому заманеться, і стільки, скільки він захоче. Після цього він побудував би робота-прибиральника та машину для сортування блоків, щоб у його кімнаті завжди було чисто й охайно. У Занґеманна щодня з'являлися нові чудові ідеї, подібні до цих. Він не міг думати ні про що інше."

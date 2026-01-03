@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2025-12-29 09:49+0100\n"
+"PO-Revision-Date: 2026-01-03 07:14+0100\n"
 "Last-Translator: Aayush Gupta <aayushgupta219@gmail.com>\n"
 "Language-Team: Hindi <https://hosted.weblate.org/projects/fsfe/ada-zangemann/hi/>\n"
 "Language: hi\n"
@@ -403,32 +403,32 @@ msgstr "ज़ैंगमैन और कंप्यूटर्स"
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:529
 msgid "Computers had fascinated Zangemann ever since he was a child. When he was young, computers were huge machines with lots of cables and loud, noisy fans."
-msgstr ""
+msgstr "कंप्यूटर ने ज़ैंगमैन को बचपन से ही आकर्षित किया था। जब वो छोटा था। कंप्यूटर बहुत बड़ी मशीनों जैसे थे जिनमें बहुत सारे केबल और तेज़, शोर करने वाले पंखे थे।"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:529
 msgid "At school, little Zangemann often dreamed of all the things he would do with computers if they were just a little bit smaller — small enough that they could be built into other fun things."
-msgstr ""
+msgstr "स्कूल में ज़ैंगमैन अक्सर उन सभी चीजों का सपना देखता था जो वह कंप्यूटर के साथ करता था - अगर वे थोड़े छोटे-छोटे होते तो उन्हें अन्य मज़ेदार चीज़ों में बनाया जा सकता था।"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:529
 msgid "He knew what he would do. First, he would build a computer into his skateboard so that it would make cool noises when he rode it — maybe a fire engine siren or the sound of a rocket launch."
-msgstr ""
+msgstr "वह जानता था कि वह क्या करेगा। सबसे पहले, वह अपने स्केटबोर्ड में कंप्यूटर लगाएगा ताकि जब वह उस पर सवार हो तो यह मज़ेदार शोर करे - यह एक दमकल सायरन या रॉकेट लॉन्च की आवाज हो सकती है।"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:529
 msgid "Then he would use a computer to invent ice‑cream-making machines! The computer would mix the coolest flavors and even sell the ice cream."
-msgstr ""
+msgstr "फिर वह आइसक्रीम बनाने वाली मशीनों का आविष्कार करने के लिए कंप्यूटर का प्रयोग करेगा! कंप्यूटर सबसे अच्छे स्वादों को मिलाएगा और आइसक्रीम भी बेचेगा।"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:529
 msgid "There would be machines on every street corner, and he could get ice cream in his favorite flavor whenever he felt like it, and just as much as he wanted. After that, he’d build a cleaning robot and a block-sorting machine so that his room would always be neat and clean."
-msgstr ""
+msgstr "हर गली-नुक्कड़ पर मशीनें होंगी और जब भी उसका मन करेगा, वह अपने मनपसंद फ्लेवर की आइसक्रीम ले सकेगा। और जैसा वह चाहता था। उसके बाद, वह एक सफाई करने वाला रोबोट और ब्लॉकस छाँटने वाली मशीन का निर्माण करेगा ताकि उसका कमरा हमेशा साफ सुथरा रहे।"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:529
 msgid "Zangemann had great new ideas like these every day. He could think of nothing else."
-msgstr ""
+msgstr "ज़ैंगमैन के पास हर दिन इस तरह का नया विचार था। वह और कुछ नहीं सोच सकता था।"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:530
@@ -1285,6 +1285,3 @@ msgstr ""
 #: Ada_Zangemann.dbk:1139
 msgid "Three hands that hold as many empty ice cream cones, to draw and color. In the air above the middle cone is an umbrella."
 msgstr "तीन हाथ जो अनेक खाली आइसक्रीम कोन पकड़े हुए हैं, उन्हें चित्र बनाने और रंगने के लिए। बीच वाले कोन के ऊपर हवा में एक छाता है।"
-
-#~ msgid "Computers had fascinated Zangemann ever since he was a child. When he was young, computers were huge machines with lots of cables and loud, noisy fans. At school, little Zangemann often dreamed of all the things he would do with computers if they were just a little bit smaller — small enough that they could be built into other fun things. He knew what he would do. First, he would build a computer into his skateboard so that it would make cool noises when he rode it — maybe a fire engine siren or the sound of a rocket launch. Then he would use a computer to invent ice‑cream-making machines! The computer would mix the coolest flavors and even sell the ice cream. There would be machines on every street corner, and he could get ice cream in his favorite flavor whenever he felt like it, and just as much as he wanted. After that, he’d build a cleaning robot and a block-sorting machine so that his room would always be neat and clean. Zangemann had great new ideas like these every day. He could think of nothing else."
-#~ msgstr "[]कंप्यूटर ने ज़ैंगमैन को बचपन से ही आकर्षित किया था। जब वो छोटा था। कंप्यूटर बहुत बड़ी मशीनों जैसे थे जिनमें बहुत सारे केबल और तेज़, शोर करने वाले पंखे थे। स्कूल में ज़ैंगमैन अक्सर उन सभी चीजों का सपना देखता था जो वह कंप्यूटर के साथ करता था - अगर वे थोड़े छोटे-छोटे होते तो उन्हें अन्य मज़ेदार चीज़ों में बनाया जा सकता था। वह जानता था कि वह क्या करेगा। सबसे पहले, वह अपने स्केटबोर्ड में कंप्यूटर लगाएगा ताकि जब वह उस पर सवार हो तो यह मज़ेदार शोर करे - यह एक दमकल सायरन या रॉकेट लॉन्च की आवाज हो सकती है। फिर वह आइसक्रीम बनाने वाली मशीनों का आविष्कार करने के लिए कंप्यूटर का प्रयोग करेगा! कंप्यूटर सबसे अच्छे स्वादों को मिलाएगा और आइसक्रीम भी बेचेगा। हर गली-नुक्कड़ पर मशीनें होंगी और जब भी उसका मन करेगा, वह अपने मनपसंद फ्लेवर की आइसक्रीम ले सकेगा। और जैसा वह चाहता था। उसके बाद, वह एक सफाई करने वाला रोबोट और ब्लॉकस छाँटने वाली मशीन का निर्माण करेगा ताकि उसका कमरा हमेशा साफ सुथरा रहे। ज़ैंगमैन के पास हर दिन इस तरह का नया विचार था। वह और कुछ नहीं सोच सकता था।"

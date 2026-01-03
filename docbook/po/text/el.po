@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-01 11:07+0000\n"
+"PO-Revision-Date: 2026-01-03 08:24+0100\n"
 "Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
 "Language-Team: Greek <https://hosted.weblate.org/projects/fsfe/ada-zangemann/el/>\n"
 "Language: el\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.15.1\n"
+"X-Generator: Poedit 3.6\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
@@ -552,33 +552,39 @@ msgstr ""
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:529
+#, fuzzy
 msgid "Computers had fascinated Zangemann ever since he was a child. When he was young, computers were huge machines with lots of cables and loud, noisy fans."
-msgstr ""
+msgstr "Οι υπολογιστές γοήτευαν τον Ζάνγκεμαν από παιδί. Τότε ήταν ακόμα τεράστιες μηχανές με πολλά καλώδια και δυνατούς ανεμιστήρες που κάνανε πολύ θόρυβο."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:529
+#, fuzzy
 msgid "At school, little Zangemann often dreamed of all the things he would do with computers if they were just a little bit smaller — small enough that they could be built into other fun things."
-msgstr ""
+msgstr "Στο σχολείο ο Ζάνγκεμαν συχνά ονειρευόταν όλα τα πράγματα που θα μπορούσε να κάνει με τους υπολογιστές αν ήταν μικρότεροι, αρκετά μικροί ώστε να μπορούν να χωρέσουν σε κάθε είδους αντικείμενα."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:529
+#, fuzzy
 msgid "He knew what he would do. First, he would build a computer into his skateboard so that it would make cool noises when he rode it — maybe a fire engine siren or the sound of a rocket launch."
-msgstr ""
+msgstr "Το πρώτο πράγμα που θα έκανε θα ήταν να βάλει έναν υπολογιστή στο σκέιτμπορντ του, ώστε να μπορεί να βγάζει ωραίους ήχους καθώς έτρεχε, σα μια σειρήνα πυροσβεστικού ή μια εκτόξευση πυραύλου."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:529
+#, fuzzy
 msgid "Then he would use a computer to invent ice‑cream-making machines! The computer would mix the coolest flavors and even sell the ice cream."
-msgstr ""
+msgstr "Μετά θα έφτιαχνε μηχανές που να φτιάχνουν παγωτό! Ο υπολογιστής θα μπορούσε να ανακατεύει τις πιο ωραίες γεύσεις και να πουλάει το παγωτό αυτόματα."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:529
+#, fuzzy
 msgid "There would be machines on every street corner, and he could get ice cream in his favorite flavor whenever he felt like it, and just as much as he wanted. After that, he’d build a cleaning robot and a block-sorting machine so that his room would always be neat and clean."
-msgstr ""
+msgstr "Οι μηχανές θα βρίσκονταν σε κάθε γωνιά του δρόμου και θα μπορούσε να παίρνει το αγαπημένο του παγωτό όποτε ήθελε, και ακριβώς όσο ήθελε. Θα έφτιαχνε επίσης ένα ρομπότ για να καθαρίζει και ένα για να ξεχωρίζει τα τουβλάκια, ώστε το δωμάτιό του να είναι πάντα καθαρό και τακτοποιημένο."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:529
+#, fuzzy
 msgid "Zangemann had great new ideas like these every day. He could think of nothing else."
-msgstr ""
+msgstr "Ο Ζάνγκεμαν είχε νέες ιδέες σαν αυτές κάθε μέρα. Δεν μπορούσε να σκεφτεί τίποτα άλλο."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:530
@@ -1524,7 +1530,3 @@ msgstr ""
 #: Ada_Zangemann.dbk:1139
 msgid "Three hands that hold as many empty ice cream cones, to draw and color. In the air above the middle cone is an umbrella."
 msgstr ""
-
-#, fuzzy
-#~ msgid "Computers had fascinated Zangemann ever since he was a child. When he was young, computers were huge machines with lots of cables and loud, noisy fans. At school, little Zangemann often dreamed of all the things he would do with computers if they were just a little bit smaller — small enough that they could be built into other fun things. He knew what he would do. First, he would build a computer into his skateboard so that it would make cool noises when he rode it — maybe a fire engine siren or the sound of a rocket launch. Then he would use a computer to invent ice‑cream-making machines! The computer would mix the coolest flavors and even sell the ice cream. There would be machines on every street corner, and he could get ice cream in his favorite flavor whenever he felt like it, and just as much as he wanted. After that, he’d build a cleaning robot and a block-sorting machine so that his room would always be neat and clean. Zangemann had great new ideas like these every day. He could think of nothing else."
-#~ msgstr "Οι υπολογιστές γοήτευαν τον Ζάνγκεμαν από παιδί. Τότε ήταν ακόμα τεράστιες μηχανές με πολλά καλώδια και δυνατούς ανεμιστήρες που κάνανε πολύ θόρυβο. Στο σχολείο ο Ζάνγκεμαν συχνά ονειρευόταν όλα τα πράγματα που θα μπορούσε να κάνει με τους υπολογιστές αν ήταν μικρότεροι, αρκετά μικροί ώστε να μπορούν να χωρέσουν σε κάθε είδους αντικείμενα. Το πρώτο πράγμα που θα έκανε θα ήταν να βάλει έναν υπολογιστή στο σκέιτμπορντ του, ώστε να μπορεί να βγάζει ωραίους ήχους καθώς έτρεχε, σα μια σειρήνα πυροσβεστικού ή μια εκτόξευση πυραύλου. Μετά θα έφτιαχνε μηχανές που να φτιάχνουν παγωτό! Ο υπολογιστής θα μπορούσε να ανακατεύει τις πιο ωραίες γεύσεις και να πουλάει το παγωτό αυτόματα. Οι μηχανές θα βρίσκονταν σε κάθε γωνιά του δρόμου και θα μπορούσε να παίρνει το αγαπημένο του παγωτό όποτε ήθελε, και ακριβώς όσο ήθελε. Θα έφτιαχνε επίσης ένα ρομπότ για να καθαρίζει και ένα για να ξεχωρίζει τα τουβλάκια, ώστε το δωμάτιό του να είναι πάντα καθαρό και τακτοποιημένο. Ο Ζάνγκεμαν είχε νέες ιδέες σαν αυτές κάθε μέρα. Δεν μπορούσε να σκεφτεί τίποτα άλλο."

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2025-12-29 09:55+0100\n"
+"PO-Revision-Date: 2026-01-03 07:19+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: hy\n"
@@ -401,32 +401,32 @@ msgstr ""
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:529
 msgid "Computers had fascinated Zangemann ever since he was a child. When he was young, computers were huge machines with lots of cables and loud, noisy fans."
-msgstr ""
+msgstr "Կարգիչները մանկուց զարմացնում էին Զանգեմանին։ Երբ նա երիտասարդ էր, կարգիչները մեծ մեքենաներին՝ շատ կաբելներով եւ աղմկոտ, աղմկոտ ֆաներով։"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:529
 msgid "At school, little Zangemann often dreamed of all the things he would do with computers if they were just a little bit smaller — small enough that they could be built into other fun things."
-msgstr ""
+msgstr "Դպրոցում, փոքրիկ Զանգեմանը յաճախ էր երազում բաների մասին, որոնք ինքը կարող էր անել, եթե դրնաք մի քիչ փոքր լինեին՝ այնքան փոքր, որ նրանցով սարքուէին այլ հաւէս բաներ։"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:529
 msgid "He knew what he would do. First, he would build a computer into his skateboard so that it would make cool noises when he rode it — maybe a fire engine siren or the sound of a rocket launch."
-msgstr ""
+msgstr "Նա գիտեր ինչ կաներ։ Սկզբում, նա կսարքեր կարգիչ իր սքեյթի ներսում՝ որ քշելիս հաւէս ձայներ կհաներ՝ գուցե հրշեջ մեքենայի ազդանշան, կամ հրթիռի արձակման։"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:529
 msgid "Then he would use a computer to invent ice‑cream-making machines! The computer would mix the coolest flavors and even sell the ice cream."
-msgstr ""
+msgstr "Կամ կհորիներ պաղպաղակ պատրաստող մեքենա։ Այն կարող էր խառնել ամենավերջ համերը եւ անգամ վաճառել պաղպաղակ։"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:529
 msgid "There would be machines on every street corner, and he could get ice cream in his favorite flavor whenever he felt like it, and just as much as he wanted. After that, he’d build a cleaning robot and a block-sorting machine so that his room would always be neat and clean."
-msgstr ""
+msgstr "Կլինեին մեքենաներ փողոցի ամեն անկյունում, եւ ինքը կկարողանար վերցնել պաղպաղակ իր ուզած համով, երբ ուզեր, ինչքան ուզեր։ Ի վերջո, կկառուցեր մաքրող ռոբոտ եւ տուփեր դասավորող մեքենա, եւ իր սենյակը միշտ կոկիկ եւ մաքուր կլիներ։"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:529
 msgid "Zangemann had great new ideas like these every day. He could think of nothing else."
-msgstr ""
+msgstr "Զանգեմանն այսպիսի նոր գաղափարներ էր ունենում գրեթե ամեն օր։ Ուրիշ ոչնչի մասին չէր կարող մտածել։"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:530
@@ -1284,6 +1284,3 @@ msgstr ""
 #: Ada_Zangemann.dbk:1139
 msgid "Three hands that hold as many empty ice cream cones, to draw and color. In the air above the middle cone is an umbrella."
 msgstr ""
-
-#~ msgid "Computers had fascinated Zangemann ever since he was a child. When he was young, computers were huge machines with lots of cables and loud, noisy fans. At school, little Zangemann often dreamed of all the things he would do with computers if they were just a little bit smaller — small enough that they could be built into other fun things. He knew what he would do. First, he would build a computer into his skateboard so that it would make cool noises when he rode it — maybe a fire engine siren or the sound of a rocket launch. Then he would use a computer to invent ice‑cream-making machines! The computer would mix the coolest flavors and even sell the ice cream. There would be machines on every street corner, and he could get ice cream in his favorite flavor whenever he felt like it, and just as much as he wanted. After that, he’d build a cleaning robot and a block-sorting machine so that his room would always be neat and clean. Zangemann had great new ideas like these every day. He could think of nothing else."
-#~ msgstr "Կարգիչները մանկուց զարմացնում էին Զանգեմանին։ Երբ նա երիտասարդ էր, կարգիչները մեծ մեքենաներին՝ շատ կաբելներով եւ աղմկոտ, աղմկոտ ֆաներով։ Դպրոցում, փոքրիկ Զանգեմանը յաճախ էր երազում բաների մասին, որոնք ինքը կարող էր անել, եթե դրնաք մի քիչ փոքր լինեին՝ այնքան փոքր, որ նրանցով սարքուէին այլ հաւէս բաներ։ Նա գիտեր ինչ կաներ։ Սկզբում, նա կսարքեր կարգիչ իր սքեյթի ներսում՝ որ քշելիս հաւէս ձայներ կհաներ՝ գուցե հրշեջ մեքենայի ազդանշան, կամ հրթիռի արձակման։ Կամ կհորիներ պաղպաղակ պատրաստող մեքենա։ Այն կարող էր խառնել ամենավերջ համերը եւ անգամ վաճառել պաղպաղակ։ Կլինեին մեքենաներ փողոցի ամեն անկյունում, եւ ինքը կկարողանար վերցնել պաղպաղակ իր ուզած համով, երբ ուզեր, ինչքան ուզեր։ Ի վերջո, կկառուցեր մաքրող ռոբոտ եւ տուփեր դասավորող մեքենա, եւ իր սենյակը միշտ կոկիկ եւ մաքուր կլիներ։ Զանգեմանն այսպիսի նոր գաղափարներ էր ունենում գրեթե ամեն օր։ Ուրիշ ոչնչի մասին չէր կարող մտածել։"
