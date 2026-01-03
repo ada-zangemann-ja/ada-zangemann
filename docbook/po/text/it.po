@@ -495,10 +495,25 @@ msgstr "«Posso finalmente realizzare tutte le mie idee!» esultò Zangemann, e 
 msgid "Zangemann original ice cream machine. It is ice blue in color and is similar to a vending machine of drinks, but instead of the cup there is a cone that is filled with ice cream. Above the dispenser there is a monitor showing the variety that is distributed, in this case pineapple ice cream. On the left there are the slot for inserting coins, the various buttons to choose the flavor, and the hole for returning coins. At the top there is a round white sign with a scoop of candy-pink ice cream in a cone. On the back of the machine there is the refrigeration machinery with the “Z” of the Zangemann logo."
 msgstr "Macchina per il gelato originale Zangemann. È di colore azzurro ghiaccio ed è simile ad un distributore automatico di bevande, ma al posto del bicchierino c'è un cono che viene riempito con gelato. Sopra il dispenser c'è un monitor che mostra la varietà che viene distribuita, nella fattispecie gelato all'ananas. Sulla sinistra ci sono la fessura per l'inserimento delle monete, i vari pulsanti per la scelta del gusto, e la buca per la restituzione delle monete. In alto c'è un insegna rotonda dove è disegnato un gelato rosa confetto dentro un cono. Sul retro della macchina c'è il motore refrigerante con la “Z” del logo di Zangemann."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:549
-msgid "Adults and children loved his inventions. All the kids wanted to have one of his skateboards — complete with the latest sounds to show off to their friends at school. Kids also loved his speaker invention, which could instantly play any song you requested. And, of course, everyone loved the ice cream served every afternoon from the automatic, extra-delicious Original Zangemann Ice Cream Machine. It all seemed like magic, but the secret was simple: the little computers that Zangemann built into his machines made it all possible."
-msgstr "Grandi e piccini amavano le sue invenzioni. Tutti i bambini volevano avere uno skateboard di Zangemann con incorporati gli ultimi effetti sonori per poterlo mostrare ai loro amici nel cortile della scuola. Molti possedevano anche i suoi pratici altoparlanti portatili che riproducevano istantaneamente qualsiasi canzone si richiedesse. E, se per caso fosse rimasto qualche soldo in tasca, nel pomeriggio potevano mangiare un gelato mescolato automaticamente da una delle macchine-mischia-gelato originali Zangemann. Sembrava una cosa magica, ma in realtà tutto questo era possibile grazie al piccolo computer che Zangemann aveva incorporato nei dispositivi."
+msgid "Adults and children loved his inventions. All the kids wanted to have one of his skateboards — complete with the latest sounds to show off to their friends at school."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:549
+msgid "Kids also loved his speaker invention, which could instantly play any song you requested."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:549
+msgid "And, of course, everyone loved the ice cream served every afternoon from the automatic, extra-delicious Original Zangemann Ice Cream Machine."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:549
+msgid "It all seemed like magic, but the secret was simple: the little computers that Zangemann built into his machines made it all possible."
+msgstr ""
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1344,3 +1359,6 @@ msgstr ""
 #: Ada_Zangemann.dbk:1139
 msgid "Three hands that hold as many empty ice cream cones, to draw and color. In the air above the middle cone is an umbrella."
 msgstr "Tre mani che tengono altrettanti coni gelato vuoti, da disegnare e colorare. Sospeso in aria sopra il cono centrale c'è un ombrellino."
+
+#~ msgid "Adults and children loved his inventions. All the kids wanted to have one of his skateboards — complete with the latest sounds to show off to their friends at school. Kids also loved his speaker invention, which could instantly play any song you requested. And, of course, everyone loved the ice cream served every afternoon from the automatic, extra-delicious Original Zangemann Ice Cream Machine. It all seemed like magic, but the secret was simple: the little computers that Zangemann built into his machines made it all possible."
+#~ msgstr "Grandi e piccini amavano le sue invenzioni. Tutti i bambini volevano avere uno skateboard di Zangemann con incorporati gli ultimi effetti sonori per poterlo mostrare ai loro amici nel cortile della scuola. Molti possedevano anche i suoi pratici altoparlanti portatili che riproducevano istantaneamente qualsiasi canzone si richiedesse. E, se per caso fosse rimasto qualche soldo in tasca, nel pomeriggio potevano mangiare un gelato mescolato automaticamente da una delle macchine-mischia-gelato originali Zangemann. Sembrava una cosa magica, ma in realtà tutto questo era possibile grazie al piccolo computer che Zangemann aveva incorporato nei dispositivi."

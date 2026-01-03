@@ -505,10 +505,25 @@ msgstr "«Endeleg kan eg gjera alvor av alle ideane mine!», utbraut Zangemann, 
 msgid "Zangemann original ice cream machine. It is ice blue in color and is similar to a vending machine of drinks, but instead of the cup there is a cone that is filled with ice cream. Above the dispenser there is a monitor showing the variety that is distributed, in this case pineapple ice cream. On the left there are the slot for inserting coins, the various buttons to choose the flavor, and the hole for returning coins. At the top there is a round white sign with a scoop of candy-pink ice cream in a cone. On the back of the machine there is the refrigeration machinery with the “Z” of the Zangemann logo."
 msgstr "Original Zangemann iskremmaskin. Fargen er isblå og liknar på ein drikkeautomat, men i staden for koppen, er det ei kjegle som er fylt med iskrem. Over dispenseren er det ein skjerm som viser kva variant som blir delt ut, i dette tilfellet ein ananas-iskrem. Til venstre er det eit opning for å leggja på myntar, ulike knappar for å velja smak og eit hol for myntretur. På toppen er det eit rundt kvitt skilt med ei kule med godterirosa iskrem i ei kjegle. På baksida av maskina er det kjølemaskineri med «Z»-logoen til Zangeman."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:549
-msgid "Adults and children loved his inventions. All the kids wanted to have one of his skateboards — complete with the latest sounds to show off to their friends at school. Kids also loved his speaker invention, which could instantly play any song you requested. And, of course, everyone loved the ice cream served every afternoon from the automatic, extra-delicious Original Zangemann Ice Cream Machine. It all seemed like magic, but the secret was simple: the little computers that Zangemann built into his machines made it all possible."
-msgstr "Barn og vaksne elska oppfinningane hans. Alle barna ville ha eit av rullebretta hans med dei siste lydane bygd inn, slik at dei kunne visa dei til vennene sine på skulen. Dei elska også dei smarte høgtalarane hans som kunne spela akkurat den songen du ønskte deg. Og dei som framleis hadde nokre lommepengar igjen, dei kjøpte isen som vart servert kvar ettermiddag frå ein automatisk Original Zangemann iskremmaskin. Det var som magi, men i røyndommen var det heile veldig enkelt: det var små datamaskiner som Zangemann hadde bygd inn i maskinene sine som gjorde det heile mogleg."
+msgid "Adults and children loved his inventions. All the kids wanted to have one of his skateboards — complete with the latest sounds to show off to their friends at school."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:549
+msgid "Kids also loved his speaker invention, which could instantly play any song you requested."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:549
+msgid "And, of course, everyone loved the ice cream served every afternoon from the automatic, extra-delicious Original Zangemann Ice Cream Machine."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:549
+msgid "It all seemed like magic, but the secret was simple: the little computers that Zangemann built into his machines made it all possible."
+msgstr ""
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1339,3 +1354,6 @@ msgstr ""
 #: Ada_Zangemann.dbk:1139
 msgid "Three hands that hold as many empty ice cream cones, to draw and color. In the air above the middle cone is an umbrella."
 msgstr "Tre hender som held mange tomme iskremkjeks, for teikning og fargeleggjing. I lufta over kjeksen i midten er det ein paraply."
+
+#~ msgid "Adults and children loved his inventions. All the kids wanted to have one of his skateboards — complete with the latest sounds to show off to their friends at school. Kids also loved his speaker invention, which could instantly play any song you requested. And, of course, everyone loved the ice cream served every afternoon from the automatic, extra-delicious Original Zangemann Ice Cream Machine. It all seemed like magic, but the secret was simple: the little computers that Zangemann built into his machines made it all possible."
+#~ msgstr "Barn og vaksne elska oppfinningane hans. Alle barna ville ha eit av rullebretta hans med dei siste lydane bygd inn, slik at dei kunne visa dei til vennene sine på skulen. Dei elska også dei smarte høgtalarane hans som kunne spela akkurat den songen du ønskte deg. Og dei som framleis hadde nokre lommepengar igjen, dei kjøpte isen som vart servert kvar ettermiddag frå ein automatisk Original Zangemann iskremmaskin. Det var som magi, men i røyndommen var det heile veldig enkelt: det var små datamaskiner som Zangemann hadde bygd inn i maskinene sine som gjorde det heile mogleg."

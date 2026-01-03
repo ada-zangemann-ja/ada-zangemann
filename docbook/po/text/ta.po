@@ -452,10 +452,25 @@ msgstr "\"இறுதியாக, எனது எல்லா யோசனை
 msgid "Zangemann original ice cream machine. It is ice blue in color and is similar to a vending machine of drinks, but instead of the cup there is a cone that is filled with ice cream. Above the dispenser there is a monitor showing the variety that is distributed, in this case pineapple ice cream. On the left there are the slot for inserting coins, the various buttons to choose the flavor, and the hole for returning coins. At the top there is a round white sign with a scoop of candy-pink ice cream in a cone. On the back of the machine there is the refrigeration machinery with the “Z” of the Zangemann logo."
 msgstr "நான்: ADA-P08B படம்: சாங்கேமன் அசல் ஐச்கிரீம் இயந்திரம். இது பனி நீல நிறத்தில் உள்ளது மற்றும் இது பானங்களின் விற்பனை இயந்திரத்தைப் போன்றது, ஆனால் கோப்பைக்கு பதிலாக ஐச்கிரீம் நிரப்பப்பட்ட ஒரு கூம்பு உள்ளது. டிச்பென்சருக்கு மேலே விநியோகிக்கப்படும் வகைகளைக் காட்டும் ஒரு மானிட்டர் உள்ளது, இந்த விசயத்தில் அன்னாசி ஐச்கிரீம். இடதுபுறத்தில் நாணயங்களைச் செருகுவதற்கான ச்லாட், சுவையைத் தேர்ந்தெடுப்பதற்கான பல்வேறு பொத்தான்கள் மற்றும் நாணயங்களை திருப்பித் தரும் துளை ஆகியவை உள்ளன. மேலே ஒரு கூம்பில் சாக்லேட்-பிங்க் ஐச்கிரீம் ஒரு ச்கூப் கொண்ட ஒரு சுற்று வெள்ளை அடையாளம் உள்ளது. இயந்திரத்தின் பின்புறத்தில் சாங்கேமன் லோகோவின் “இசட்” உடன் குளிர்பதன இயந்திரங்கள் உள்ளன."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:549
-msgid "Adults and children loved his inventions. All the kids wanted to have one of his skateboards — complete with the latest sounds to show off to their friends at school. Kids also loved his speaker invention, which could instantly play any song you requested. And, of course, everyone loved the ice cream served every afternoon from the automatic, extra-delicious Original Zangemann Ice Cream Machine. It all seemed like magic, but the secret was simple: the little computers that Zangemann built into his machines made it all possible."
-msgstr "பெரியவர்களும் குழந்தைகளும் அவரது கண்டுபிடிப்புகளை நேசித்தார்கள். எல்லா குழந்தைகளும் அவரது ச்கேட்போர்டுகளில் ஒன்றை வைத்திருக்க விரும்பினர் - பள்ளியில் தங்கள் நண்பர்களைக் காண்பிப்பதற்கான அண்மைக் கால ஒலிகளுடன் முடிந்தது. குழந்தைகள் அவரது பேச்சாளர் கண்டுபிடிப்பையும் நேசித்தார்கள், இது நீங்கள் கோரிய எந்த பாடலையும் உடனடியாக இயக்க முடியும். மற்றும், நிச்சயமாக, எல்லோரும் தானியங்கி, கூடுதல்-சுவையான அசல் சாங்கேமன் ஐச்கிரீம் இயந்திரத்திலிருந்து ஒவ்வொரு பிற்பகலும் பரிமாறப்பட்ட ஐச்கிரீமை நேசித்தார்கள். இது எல்லாம் மந்திரமாகத் தோன்றியது, ஆனால் மறைபொருள் எளிமையானது: சாங்க்மேன் தனது இயந்திரங்களில் கட்டிய சிறிய கணினிகள் அனைத்தையும் சாத்தியமாக்கியது."
+msgid "Adults and children loved his inventions. All the kids wanted to have one of his skateboards — complete with the latest sounds to show off to their friends at school."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:549
+msgid "Kids also loved his speaker invention, which could instantly play any song you requested."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:549
+msgid "And, of course, everyone loved the ice cream served every afternoon from the automatic, extra-delicious Original Zangemann Ice Cream Machine."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:549
+msgid "It all seemed like magic, but the secret was simple: the little computers that Zangemann built into his machines made it all possible."
+msgstr ""
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1314,6 +1329,9 @@ msgstr "சில சுவையான, வேடிக்கையான, அ�
 #: Ada_Zangemann.dbk:1139
 msgid "Three hands that hold as many empty ice cream cones, to draw and color. In the air above the middle cone is an umbrella."
 msgstr "நடுத்தர கூம்புக்கு மேலே உள்ள காற்றில் ஒரு குடை உள்ளது."
+
+#~ msgid "Adults and children loved his inventions. All the kids wanted to have one of his skateboards — complete with the latest sounds to show off to their friends at school. Kids also loved his speaker invention, which could instantly play any song you requested. And, of course, everyone loved the ice cream served every afternoon from the automatic, extra-delicious Original Zangemann Ice Cream Machine. It all seemed like magic, but the secret was simple: the little computers that Zangemann built into his machines made it all possible."
+#~ msgstr "பெரியவர்களும் குழந்தைகளும் அவரது கண்டுபிடிப்புகளை நேசித்தார்கள். எல்லா குழந்தைகளும் அவரது ச்கேட்போர்டுகளில் ஒன்றை வைத்திருக்க விரும்பினர் - பள்ளியில் தங்கள் நண்பர்களைக் காண்பிப்பதற்கான அண்மைக் கால ஒலிகளுடன் முடிந்தது. குழந்தைகள் அவரது பேச்சாளர் கண்டுபிடிப்பையும் நேசித்தார்கள், இது நீங்கள் கோரிய எந்த பாடலையும் உடனடியாக இயக்க முடியும். மற்றும், நிச்சயமாக, எல்லோரும் தானியங்கி, கூடுதல்-சுவையான அசல் சாங்கேமன் ஐச்கிரீம் இயந்திரத்திலிருந்து ஒவ்வொரு பிற்பகலும் பரிமாறப்பட்ட ஐச்கிரீமை நேசித்தார்கள். இது எல்லாம் மந்திரமாகத் தோன்றியது, ஆனால் மறைபொருள் எளிமையானது: சாங்க்மேன் தனது இயந்திரங்களில் கட்டிய சிறிய கணினிகள் அனைத்தையும் சாத்தியமாக்கியது."
 
 #~ msgid "[[IDX: toc:Table of Contents text:Text cover:Cover other.titlepage:Front Cover chapter-01,cover:Front Cover chapter-02,page_02:Imprint chapter-03,page_04:Ada & Zangemann chapter-04,page_06:Zangemann and computers chapter-05,page_13:One day...  chapter-06,page_18:Skateboards no longer work chapter-07,page_20:Ada and software chapter-08,page_22:Programming chapter-09,page_25:A horrible night chapter-10,page_26:First real project chapter-11,page_30:Hacking for freedom chapter-12,page_36:Zangemann and the President chapter-13,page_39:Protest chapter-14,page_42:Children help the government chapter-15,page_44:New law chapter-16,page_48:And Zangemann? chapter-17,page_50:Acknowledgments chapter-18,page_52:About the Author - Matthias Kirschner chapter-19,page_53:About the Illustrator - Sandra Brandstätter chapter-20,page_54:Website for the book and license chapter-21,page_55:Drawing templates chapter-22,back_cover:Back cover and synopsis ]]"
 #~ msgstr ". . அத்தியாயம் -10, பக்கம்_26: முதல் உண்மையான திட்டம் அத்தியாயம் -11, பக்கம்_30: சுதந்திரத்திற்கான ஏக்கிங் அத்தியாயம் -12, பக்கம்_36: சாங்கேமன் மற்றும் குடியரசுத் தலைவர் அத்தியாயம் -13, பக்கம்_39: எதிர்ப்பு அத்தியாயம் -14, பக்கம்_42: குழந்தைகள் அரசாங்கத்திற்கு உதவி அத்தியாயம் -15, பக்கம்_44 : புதிய சட்டம் அத்தியாயம் -16, பக்கம்_48: மற்றும் சாங்கேமன்? அத்தியாயம் -17, பக்கம்_50: ஒப்புதல்கள் அத்தியாயம் -18, பக்கம்_52: ஆசிரியரைப் பற்றி-மத்தியாச் கிர்ச்னர் பாடம் -19, பக்கம்_53: விளக்கப்படத்தைப் பற்றி-சாண்ட்ரா பிராண்ட்ச்டாட்டர் அத்தியாயம் -20, பக்கம்_54: நூல் மற்றும் உரிமத்திற்கான வலைத்தளம் அத்தியாயம் -21, பக்கம்_55: வரைதல் வார்ப்புருக்கள் அத்தியாயம் -22, பின்_கவர்: பின் கவர் மற்றும் சுருக்கம்]]]"
