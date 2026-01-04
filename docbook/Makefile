@@ -468,10 +468,13 @@ release: $(targets-pandoc-text-only-md) $(targets-pandoc-text-only-odt) $(target
 .PHONY: update
 update: po/text/Ada_Zangemann.pot po/editorial/Ada_Zangemann.pot $(targets-all-po)
 
-# Remove build output
+# Remove build output and uncommitted editorial files (which are kept around on purpose)
 .PHONY: clean
 clean:
 	rm -r build/ || exit 0
+	git restore build
+	rm po/editorial/*.po
+	git restore po/editorial/*.po
 
 # Print obsolete translations no longer matching source strings
 .PHONY: check-obsolete
