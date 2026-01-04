@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-03 13:45+0100\n"
+"PO-Revision-Date: 2026-01-04 07:55+0100\n"
 "Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/fsfe/ada-zangemann/ko/>\n"
 "Language: ko\n"
@@ -576,42 +576,42 @@ msgstr "에이다는 고물 수집장에서 이것저것 만지작거리며 부�
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:571
 msgid "Because everyone bought his inventions, Zangemann soon became the richest person in the whole world."
-msgstr ""
+msgstr "모두가 장기만 아저씨의 발명품을 좋아했기 때문에 장기만 아저씨는 곧 세계에서 가장 큰 부자가 되었어요."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:571
 msgid "With all his money, he bought a huge golden computer with a keyboard made of jewels and set it up in the largest room of his mansion."
-msgstr ""
+msgstr " 가진 돈을 모두 모아서 장기만 아저씨는 키보드가 보석으로 만들어진 거대한 황금 컴퓨터를 샀어요. 그리곤 저택 가장 큰 방에 설치했어요."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:571
 msgid "From there, over the internet, he could control all the little computers built into his inventions."
-msgstr ""
+msgstr "그는 그 컴퓨터로 인터넷을 통해 전 세계에 있는 모든 발명품 안에 있는 그의 작은 컴퓨터를 조종했어요."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:572
 msgid "All he had to do was press the proper key on the golden computer, and immediately all the ice-cream machines in town would dispense only vanilla ice cream."
-msgstr ""
+msgstr "마을의 모든 아이스크림 기계에서 바닐라 아이스크림만 나오게 하고 싶으면, 아저씨는 황금 컴퓨터에 달린 적절한 키를 누르기만 하면 되었죠."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:572
 msgid "If Zangemann wanted people to eat chocolate ice cream, he pressed the key for chocolate ice cream."
-msgstr ""
+msgstr "모든 사람들이 초콜렛 아이스크림을 먹길 원한다면, 아저씨는 초코렛 아이스크림 키만 누르면 되는거에요."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:572
 msgid "If he gave the order for lemon ice cream, the machines made only lemon ice cream."
-msgstr ""
+msgstr "레몬 아이스크림을 만들라고 명령을 내리면? 기계가 레몬 아이스크림만을 만드는 거죠."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:572
 msgid "Zangemann loved his inventions and was always thrilled at how amazingly well his machines worked."
-msgstr ""
+msgstr "장기만 아저씨는 그런 그의 발명품들을 사랑했어요. 그는 자신의 기계들이 항상 놀랍게 일을 잘 수행해내는 것에 짜릿함을 느꼈어요."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:572
 msgid "Sometimes people were disappointed when their favorite flavor wasn’t available, but what could they do? After all, there was ice cream on every street corner."
-msgstr ""
+msgstr "때때로 사람들이 자기가 좋아하는 맛이 없다고 불평을 하긴 했지만, 그 사람들이 그 이상 무슨 일을 할 수 있겠어요? 결국 모든 거리의 모퉁이에는 아저씨의 아이스크림 기계가 존재할테니까요."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the

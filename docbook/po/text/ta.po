@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-03 13:50+0100\n"
+"PO-Revision-Date: 2026-01-04 08:10+0100\n"
 "Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
 "Language-Team: Tamil <https://hosted.weblate.org/projects/fsfe/ada-zangemann/ta/>\n"
 "Language: ta\n"
@@ -516,42 +516,42 @@ msgstr "அடா மிகவும் வேடிக்கையாக இர
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:571
 msgid "Because everyone bought his inventions, Zangemann soon became the richest person in the whole world."
-msgstr ""
+msgstr "எல்லோரும் அவரது கண்டுபிடிப்புகளை வாங்கியதால், சாங்கேமன் விரைவில் உலகெங்கிலும் பணக்காரராக ஆனார்."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:571
 msgid "With all his money, he bought a huge golden computer with a keyboard made of jewels and set it up in the largest room of his mansion."
-msgstr ""
+msgstr "தனது எல்லா பணத்துடனும், அவர் நகைகளால் ஆன விசைப்பலகை கொண்ட ஒரு பெரிய தங்க கணினியை வாங்கி தனது மாளிகையின் மிகப்பெரிய அறையில் அமைத்தார்."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:571
 msgid "From there, over the internet, he could control all the little computers built into his inventions."
-msgstr ""
+msgstr "அங்கிருந்து, இணையத்தில், அவர் தனது கண்டுபிடிப்புகளில் கட்டமைக்கப்பட்ட அனைத்து சிறிய கணினிகளையும் கட்டுப்படுத்த முடியும்."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:572
 msgid "All he had to do was press the proper key on the golden computer, and immediately all the ice-cream machines in town would dispense only vanilla ice cream."
-msgstr ""
+msgstr "அவர் செய்ய வேண்டியதெல்லாம் கோல்டன் கம்ப்யூட்டரில் சரியான விசையை அழுத்துவதுதான், உடனடியாக நகரத்தில் உள்ள அனைத்து ஐச்கிரீம் இயந்திரங்களும் வெண்ணிலா ஐச்கிரீமை மட்டுமே வழங்கும்."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:572
 msgid "If Zangemann wanted people to eat chocolate ice cream, he pressed the key for chocolate ice cream."
-msgstr ""
+msgstr "மக்கள் சாக்லேட் ஐச்கிரீம் சாப்பிட வேண்டும் என்று சாங்கேமன் விரும்பினால், அவர் சாக்லேட் ஐச்கிரீமுக்கான விசையை அழுத்தினார்."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:572
 msgid "If he gave the order for lemon ice cream, the machines made only lemon ice cream."
-msgstr ""
+msgstr "எலுமிச்சை ஐச்கிரீமுக்கு அவர் ஆர்டர் கொடுத்தால், இயந்திரங்கள் எலுமிச்சை ஐச்கிரீமை மட்டுமே செய்தன."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:572
 msgid "Zangemann loved his inventions and was always thrilled at how amazingly well his machines worked."
-msgstr ""
+msgstr "சாங்கேமன் தனது கண்டுபிடிப்புகளை நேசித்தார், மேலும் அவரது இயந்திரங்கள் எவ்வளவு அதிசயமாக வேலை செய்தன என்று எப்போதும் மகிழ்ச்சியடைந்தார்."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:572
 msgid "Sometimes people were disappointed when their favorite flavor wasn’t available, but what could they do? After all, there was ice cream on every street corner."
-msgstr ""
+msgstr "சில நேரங்களில் மக்கள் தங்களுக்கு பிடித்த சுவை கிடைக்காதபோது ஏமாற்றமடைந்தனர், ஆனால் அவர்களால் என்ன செய்ய முடியும்? எல்லாவற்றிற்கும் மேலாக, ஒவ்வொரு தெரு மூலையிலும் ஐச்கிரீம் இருந்தது."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the

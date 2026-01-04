@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-03 13:41+0100\n"
+"PO-Revision-Date: 2026-01-04 07:49+0100\n"
 "Last-Translator: Arif Budiman <arifpedia@gmail.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/fsfe/ada-zangemann/id/>\n"
 "Language: id\n"
@@ -589,42 +589,42 @@ msgstr "Ada sangat menikmati mengutak-atik di tempat rongsokan dan memperbaiki b
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:571
 msgid "Because everyone bought his inventions, Zangemann soon became the richest person in the whole world."
-msgstr ""
+msgstr "Karena semua orang membeli penemuannya, Zangemann segera menjadi orang terkaya di seluruh dunia."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:571
 msgid "With all his money, he bought a huge golden computer with a keyboard made of jewels and set it up in the largest room of his mansion."
-msgstr ""
+msgstr "Dengan semua uangnya, ia membeli sebuah komputer emas raksasa dengan keyboard yang terbuat dari permata, dan memasangnya di ruangan terbesar di rumah megahnya."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:571
 msgid "From there, over the internet, he could control all the little computers built into his inventions."
-msgstr ""
+msgstr "Dari sana, melalui internet, ia dapat mengendalikan semua komputer kecil yang tertanam di dalam penemuannya."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:572
 msgid "All he had to do was press the proper key on the golden computer, and immediately all the ice-cream machines in town would dispense only vanilla ice cream."
-msgstr ""
+msgstr "Yang harus ia lakukan hanyalah menekan tombol yang tepat pada komputer emas, dan seketika semua mesin es krim di kota hanya akan mengeluarkan es krim vanila."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:572
 msgid "If Zangemann wanted people to eat chocolate ice cream, he pressed the key for chocolate ice cream."
-msgstr ""
+msgstr "Jika Zangemann ingin orang-orang makan es krim cokelat, ia menekan tombol untuk es krim cokelat."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:572
 msgid "If he gave the order for lemon ice cream, the machines made only lemon ice cream."
-msgstr ""
+msgstr "Jika ia memberi perintah untuk es krim lemon, mesin-mesin itu hanya membuat es krim lemon."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:572
 msgid "Zangemann loved his inventions and was always thrilled at how amazingly well his machines worked."
-msgstr ""
+msgstr "Zangemann menyukai penemuannya dan selalu gembira melihat betapa luar biasanya mesin-mesinnya bekerja."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:572
 msgid "Sometimes people were disappointed when their favorite flavor wasn’t available, but what could they do? After all, there was ice cream on every street corner."
-msgstr ""
+msgstr "Kadang-kadang orang kecewa ketika rasa favorit mereka tidak tersedia, tetapi apa yang bisa mereka lakukan? Lagipula, ada es krim di setiap sudut jalan."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the

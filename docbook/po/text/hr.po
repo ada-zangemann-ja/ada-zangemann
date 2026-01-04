@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-03 13:40+0100\n"
+"PO-Revision-Date: 2026-01-04 07:46+0100\n"
 "Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/fsfe/ada-zangemann/hr/>\n"
 "Language: hr\n"
@@ -475,7 +475,7 @@ msgstr "Sve se činilo poput magije, ali tajna je bila jednostavna: sve su omogu
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:554
 msgid "An original Zangemann electric skateboard leaving a blue trail with musical notes and colored circles. Only the knees, white socks, and olive green shoes with white soles of the child riding it are shown."
-msgstr ""
+msgstr "Budući da su svi kupovali njegove izume, Zangemann je ubrzo postao najbogatiji čovjek na cijelome svijetu. Svim tim novcem kupio si je golemo zlatno računalo s tipkovnicom izrađenom od dragulja i smjestio ga u najveću sobu svoje vile. Od tamo je putem interneta mogao kontrolirati sva malena računala ugrađena u njegove izume."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -514,42 +514,42 @@ msgstr "Ada se toliko mnogo zabavljala prtljajući na odlagalištu i popravljaju
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:571
 msgid "Because everyone bought his inventions, Zangemann soon became the richest person in the whole world."
-msgstr ""
+msgstr "Budući da su svi kupovali njegove izume, Zangemann je ubrzo postao najbogatiji čovjek na cijelome svijetu."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:571
 msgid "With all his money, he bought a huge golden computer with a keyboard made of jewels and set it up in the largest room of his mansion."
-msgstr ""
+msgstr "Svim tim novcem kupio si je golemo zlatno računalo s tipkovnicom izrađenom od dragulja i smjestio ga u najveću sobu svoje vile."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:571
 msgid "From there, over the internet, he could control all the little computers built into his inventions."
-msgstr ""
+msgstr "Od tamo je putem interneta mogao kontrolirati sva malena računala ugrađena u njegove izume."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:572
 msgid "All he had to do was press the proper key on the golden computer, and immediately all the ice-cream machines in town would dispense only vanilla ice cream."
-msgstr ""
+msgstr "Bilo je dovoljno samo da stisne pravu tipku na zlatnom računalu i odmah bi svi sladoledomati u gradu spravljali samo sladoled od vanilije."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:572
 msgid "If Zangemann wanted people to eat chocolate ice cream, he pressed the key for chocolate ice cream."
-msgstr ""
+msgstr "Ako je Zangemann želio da ljudi jedu samo sladoled od čokolade, pritisnuo bi tipku za sladoled od čokolade."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:572
 msgid "If he gave the order for lemon ice cream, the machines made only lemon ice cream."
-msgstr ""
+msgstr "Ako bi zadao naredbu za sladoled od limuna, strojevi su pravili samo sladoled od limuna."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:572
 msgid "Zangemann loved his inventions and was always thrilled at how amazingly well his machines worked."
-msgstr ""
+msgstr "Zangemann je volio svoje izume i uvijek ga je oduševljavalo kako dobro rade njegovi strojevi."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:572
 msgid "Sometimes people were disappointed when their favorite flavor wasn’t available, but what could they do? After all, there was ice cream on every street corner."
-msgstr ""
+msgstr "Ponekad bi ljudi bili razočarani ako njihov omiljeni okus nije bio dostupan, ali što su mogli. Na kraju krajeva, sladoleda je bilo na svakome uglu."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
