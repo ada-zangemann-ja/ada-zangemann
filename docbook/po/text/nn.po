@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2025-11-25 21:49+0100\n"
-"PO-Revision-Date: 2026-01-03 13:46+0100\n"
+"PO-Revision-Date: 2026-01-04 07:58+0100\n"
 "Last-Translator: Kjetil Torgrim Homme <kjetilho@njus.no>\n"
 "Language-Team: \n"
 "Language: nn\n"
@@ -566,15 +566,45 @@ msgstr "Ho fann også mange ting som framleis fungerte: Ein gammal mobiltelefon,
 msgid "Ada had so much fun tinkering in the junkyard and fixing broken things that she forgot all about the skateboards and the ice cream."
 msgstr "Ada hadde det så morosamt med å fikla på skraphaugen og fiksa øydelagde ting at ho gløymde alt om rullebretta og iskremen."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:571
-msgid "Because everyone bought his inventions, Zangemann soon became the richest person in the whole world. With all his money, he bought a huge golden computer with a keyboard made of jewels and set it up in the largest room of his mansion. From there, over the internet, he could control all the little computers built into his inventions."
-msgstr "Sidan alle kjøpte oppfinningane hans, vart Zangemann raskt den rikaste personen i heile verda. Med alle pengane sine kjøpte han seg ei datamaskin av gull med eit tastatur av edelsteinar, som han sette opp i det største rommet i huset sitt. Frå den kunne han via Internettet kontrollera alle dei små datamaskinene som var bygd inn i oppfinningane hans."
+msgid "Because everyone bought his inventions, Zangemann soon became the richest person in the whole world."
+msgstr "Sidan alle kjøpte oppfinningane hans, vart Zangemann raskt den rikaste personen i heile verda."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:571
+msgid "With all his money, he bought a huge golden computer with a keyboard made of jewels and set it up in the largest room of his mansion."
+msgstr "Med alle pengane sine kjøpte han seg ei datamaskin av gull med eit tastatur av edelsteinar, som han sette opp i det største rommet i huset sitt."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:571
+msgid "From there, over the internet, he could control all the little computers built into his inventions."
+msgstr "Frå den kunne han via Internettet kontrollera alle dei små datamaskinene som var bygd inn i oppfinningane hans."
+
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:572
-msgid "All he had to do was press the proper key on the golden computer, and immediately all the ice-cream machines in town would dispense only vanilla ice cream. If Zangemann wanted people to eat chocolate ice cream, he pressed the key for chocolate ice cream. If he gave the order for lemon ice cream, the machines made only lemon ice cream. Zangemann loved his inventions and was always thrilled at how amazingly well his machines worked. Sometimes people were disappointed when their favorite flavor wasn’t available, but what could they do? After all, there was ice cream on every street corner."
-msgstr "Alt han trong å gjera var å trykkja på dei rette knappane på den gylne datamaskina, og straks ville alle iskremmaskinene i byen berre laga vaniljeis. Når Zangemann ville at folka skulle eta sjokoladeis, så trykte han på tastekombinasjonen for sjokoladeis. Viss han beordra sitronis, så produserte maskinene berre sitronis. Zangemann elska oppfinningane sine og var alltid begeistra over å sjå kor godt maskinene hans fungerte. Nokre gonger vart folka skuffa over at deira favorittsmak ikkje var tilgjengeleg, men kva skulle dei gjera? Ein kunne trass alt få iskrem på kvart gatehjørne."
+msgid "All he had to do was press the proper key on the golden computer, and immediately all the ice-cream machines in town would dispense only vanilla ice cream."
+msgstr "Alt han trong å gjera var å trykkja på dei rette knappane på den gylne datamaskina, og straks ville alle iskremmaskinene i byen berre laga vaniljeis."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:572
+msgid "If Zangemann wanted people to eat chocolate ice cream, he pressed the key for chocolate ice cream."
+msgstr "Når Zangemann ville at folka skulle eta sjokoladeis, så trykte han på tastekombinasjonen for sjokoladeis."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:572
+msgid "If he gave the order for lemon ice cream, the machines made only lemon ice cream."
+msgstr "Viss han beordra sitronis, så produserte maskinene berre sitronis."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:572
+msgid "Zangemann loved his inventions and was always thrilled at how amazingly well his machines worked."
+msgstr "Zangemann elska oppfinningane sine og var alltid begeistra over å sjå kor godt maskinene hans fungerte."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:572
+msgid "Sometimes people were disappointed when their favorite flavor wasn’t available, but what could they do? After all, there was ice cream on every street corner."
+msgstr "Nokre gonger vart folka skuffa over at deira favorittsmak ikkje var tilgjengeleg, men kva skulle dei gjera? Ein kunne trass alt få iskrem på kvart gatehjørne."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the

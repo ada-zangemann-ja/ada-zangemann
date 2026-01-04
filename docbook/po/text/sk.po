@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-03 13:47+0100\n"
+"PO-Revision-Date: 2026-01-04 08:05+0100\n"
 "Last-Translator: Pavol Bezak <bezakp@gmail.com>\n"
 "Language-Team: Slovak <https://hosted.weblate.org/projects/fsfe/ada-zangemann/sk/>\n"
 "Language: sk\n"
@@ -513,15 +513,45 @@ msgstr "Našla aj veľa užitočných vecí. Napríklad starý mobil. Displej bo
 msgid "Ada had so much fun tinkering in the junkyard and fixing broken things that she forgot all about the skateboards and the ice cream."
 msgstr "Adu opravovanie pokazených vecí tak bavilo, že zabudla na skejtbordy a zmrzlinu."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:571
-msgid "Because everyone bought his inventions, Zangemann soon became the richest person in the whole world. With all his money, he bought a huge golden computer with a keyboard made of jewels and set it up in the largest room of his mansion. From there, over the internet, he could control all the little computers built into his inventions."
-msgstr "Keďže všetci kupovali jeho vynálezy, z Zangemanna sa stal najbohatší človek. Za svoje peniaze si kúpil obrovský zlatý počítač s klávesnicou s drahokamami a postavil ho v najväčšej sále svojej vily. Odtiaľ cez internet riadil všetky malé počítače vo svojich vynálezoch."
+msgid "Because everyone bought his inventions, Zangemann soon became the richest person in the whole world."
+msgstr "Keďže všetci kupovali jeho vynálezy, z Zangemanna sa stal najbohatší človek."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:571
+msgid "With all his money, he bought a huge golden computer with a keyboard made of jewels and set it up in the largest room of his mansion."
+msgstr "Za svoje peniaze si kúpil obrovský zlatý počítač s klávesnicou s drahokamami a postavil ho v najväčšej sále svojej vily."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:571
+msgid "From there, over the internet, he could control all the little computers built into his inventions."
+msgstr "Odtiaľ cez internet riadil všetky malé počítače vo svojich vynálezoch."
+
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:572
-msgid "All he had to do was press the proper key on the golden computer, and immediately all the ice-cream machines in town would dispense only vanilla ice cream. If Zangemann wanted people to eat chocolate ice cream, he pressed the key for chocolate ice cream. If he gave the order for lemon ice cream, the machines made only lemon ice cream. Zangemann loved his inventions and was always thrilled at how amazingly well his machines worked. Sometimes people were disappointed when their favorite flavor wasn’t available, but what could they do? After all, there was ice cream on every street corner."
-msgstr "Stačilo iba stlačiť správne klávesy na klávesnici zlatého počítača a okamžite všetky automaty v meste dávali už len vanilkovú zmrzlinu. Keď Zangemann chcel, by ľudia jedli čokoládovú zmrzlinu, stlačil klávesy pre čokoládovú zmrzlinu. Klávesy pre citrónovú zmrzlinu zariadili, že automaty dávali iba citrónovú zmrzlinu. Zangemann svoje vynálezy miloval a vždy bol nadšený z toho ako úžasne jeho prístroje fungujú. Niekedy boli ľudia sklamaní, keď nedostali ich obľúbený druh. Ale čo mohli robiť... Zmrzlina bola predsa na každom rohu ulice."
+msgid "All he had to do was press the proper key on the golden computer, and immediately all the ice-cream machines in town would dispense only vanilla ice cream."
+msgstr "Stačilo iba stlačiť správne klávesy na klávesnici zlatého počítača a okamžite všetky automaty v meste dávali už len vanilkovú zmrzlinu."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:572
+msgid "If Zangemann wanted people to eat chocolate ice cream, he pressed the key for chocolate ice cream."
+msgstr "Keď Zangemann chcel, by ľudia jedli čokoládovú zmrzlinu, stlačil klávesy pre čokoládovú zmrzlinu."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:572
+msgid "If he gave the order for lemon ice cream, the machines made only lemon ice cream."
+msgstr "Klávesy pre citrónovú zmrzlinu zariadili, že automaty dávali iba citrónovú zmrzlinu."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:572
+msgid "Zangemann loved his inventions and was always thrilled at how amazingly well his machines worked."
+msgstr "Zangemann svoje vynálezy miloval a vždy bol nadšený z toho ako úžasne jeho prístroje fungujú."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:572
+msgid "Sometimes people were disappointed when their favorite flavor wasn’t available, but what could they do? After all, there was ice cream on every street corner."
+msgstr "Niekedy boli ľudia sklamaní, keď nedostali ich obľúbený druh. Ale čo mohli robiť... Zmrzlina bola predsa na každom rohu ulice."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the

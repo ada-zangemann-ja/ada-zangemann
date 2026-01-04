@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-03 13:43+0100\n"
+"PO-Revision-Date: 2026-01-04 07:52+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -507,15 +507,45 @@ msgstr "つかえるものは、ほかにもたくさん見つかりました。
 msgid "Ada had so much fun tinkering in the junkyard and fixing broken things that she forgot all about the skateboards and the ice cream."
 msgstr "アーダはガラクタ置き場でものをいじったり、こわれたものをなおしたりするのが楽しくて、スケートボードやアイスクリームのことはすっかり忘れていました。"
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:571
-msgid "Because everyone bought his inventions, Zangemann soon became the richest person in the whole world. With all his money, he bought a huge golden computer with a keyboard made of jewels and set it up in the largest room of his mansion. From there, over the internet, he could control all the little computers built into his inventions."
-msgstr "みんながツァンゲマンの発明したものを買ったので、ツァンゲマンはすぐに世界一の大金持ちになりました。そのお金で巨大な金のコンピューターと宝石をちりばめたキーボードを買うと、豪邸の一番大きな部屋に置きました。そこからインターネットをつうじて、じぶんの発明品に組みこんだすべての小さなコンピューターを動かすことができたのです。"
+msgid "Because everyone bought his inventions, Zangemann soon became the richest person in the whole world."
+msgstr "みんながツァンゲマンの発明したものを買ったので、ツァンゲマンはすぐに世界一の大金持ちになりました"
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:571
+msgid "With all his money, he bought a huge golden computer with a keyboard made of jewels and set it up in the largest room of his mansion."
+msgstr "そのお金で巨大な金のコンピューターと宝石をちりばめたキーボードを買うと、豪邸の一番大きな部屋に置きました。"
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:571
+msgid "From there, over the internet, he could control all the little computers built into his inventions."
+msgstr "そこからインターネットをつうじて、じぶんの発明品に組みこんだすべての小さなコンピューターを動かすことができたのです。"
+
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:572
-msgid "All he had to do was press the proper key on the golden computer, and immediately all the ice-cream machines in town would dispense only vanilla ice cream. If Zangemann wanted people to eat chocolate ice cream, he pressed the key for chocolate ice cream. If he gave the order for lemon ice cream, the machines made only lemon ice cream. Zangemann loved his inventions and was always thrilled at how amazingly well his machines worked. Sometimes people were disappointed when their favorite flavor wasn’t available, but what could they do? After all, there was ice cream on every street corner."
-msgstr "金色のコンピューターのあるキーを押しさえすれば、すぐにまちじゅうすべてのアイスクリームマシンがバニラアイスだけをつくるようになりました。人びとにチョコレートアイスをたべさせたいと思えば、そのためのキーを押しました。レモンアイスをと命令すれば、出てくるのはレモンアイスだけでした。ツァンゲマンは自分の発明がおおいに気にいり、マシンがこれほどうまく動くことにわくわくしました。ときにお気に入りのフレーバーのアイスがなくてがっかりする人もいましたが、しかたありません。なんといっても、まちかどというまちかどでアイスクリームがたべられたのですから。"
+msgid "All he had to do was press the proper key on the golden computer, and immediately all the ice-cream machines in town would dispense only vanilla ice cream."
+msgstr "金色のコンピューターのあるキーを押しさえすれば、すぐにまちじゅうすべてのアイスクリームマシンがバニラアイスだけをつくるようになりました。"
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:572
+msgid "If Zangemann wanted people to eat chocolate ice cream, he pressed the key for chocolate ice cream."
+msgstr "人びとにチョコレートアイスをたべさせたいと思えば、そのためのキーを押しました。"
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:572
+msgid "If he gave the order for lemon ice cream, the machines made only lemon ice cream."
+msgstr "レモンアイスをと命令すれば、出てくるのはレモンアイスだけでした。"
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:572
+msgid "Zangemann loved his inventions and was always thrilled at how amazingly well his machines worked."
+msgstr "ツァンゲマンは自分の発明がおおいに気にいり、マシンがこれほどうまく動くことにわくわくしました。"
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:572
+msgid "Sometimes people were disappointed when their favorite flavor wasn’t available, but what could they do? After all, there was ice cream on every street corner."
+msgstr "ときにお気に入りのフレーバーのアイスがなくてがっかりする人もいましたが、しかたありません。なんといっても、まちかどというまちかどでアイスクリームがたべられたのですから。"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-03 13:32+0100\n"
+"PO-Revision-Date: 2026-01-04 07:23+0100\n"
 "Last-Translator: Bonnie <bonnie@fsfe.org>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/fsfe/ada-zangemann/de/>\n"
 "Language: de\n"
@@ -514,15 +514,45 @@ msgstr "Sie fand auch viele nützliche Gegenstände – ein altes Handy zum Beis
 msgid "Ada had so much fun tinkering in the junkyard and fixing broken things that she forgot all about the skateboards and the ice cream."
 msgstr "Es machte Ada so viel Spaß, auf dem Schrottplatz zu basteln und kaputte Dinge zu reparieren, dass sie die Skateboards und das Eis darüber ganz vergaß."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:571
-msgid "Because everyone bought his inventions, Zangemann soon became the richest person in the whole world. With all his money, he bought a huge golden computer with a keyboard made of jewels and set it up in the largest room of his mansion. From there, over the internet, he could control all the little computers built into his inventions."
-msgstr "Weil alle seine Erfindungen kauften, war Zangemann bald der reichste Mensch auf der ganzen Welt. Von seinem vielen Geld kaufte er einen riesigen goldenen Computer mit einer Tastatur aus Edelsteinen und stellte ihn im größten Saal seiner Villa auf. Von hier aus steuerte er über das Internet all die kleinen Computer, die in seine Erfindungen eingebaut waren."
+msgid "Because everyone bought his inventions, Zangemann soon became the richest person in the whole world."
+msgstr "Weil alle seine Erfindungen kauften, war Zangemann bald der reichste Mensch auf der ganzen Welt."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:571
+msgid "With all his money, he bought a huge golden computer with a keyboard made of jewels and set it up in the largest room of his mansion."
+msgstr "Von seinem vielen Geld kaufte er einen riesigen goldenen Computer mit einer Tastatur aus Edelsteinen und stellte ihn im größten Saal seiner Villa auf."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:571
+msgid "From there, over the internet, he could control all the little computers built into his inventions."
+msgstr "Von hier aus steuerte er über das Internet all die kleinen Computer, die in seine Erfindungen eingebaut waren."
+
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:572
-msgid "All he had to do was press the proper key on the golden computer, and immediately all the ice-cream machines in town would dispense only vanilla ice cream. If Zangemann wanted people to eat chocolate ice cream, he pressed the key for chocolate ice cream. If he gave the order for lemon ice cream, the machines made only lemon ice cream. Zangemann loved his inventions and was always thrilled at how amazingly well his machines worked. Sometimes people were disappointed when their favorite flavor wasn’t available, but what could they do? After all, there was ice cream on every street corner."
-msgstr "Er brauchte nur die richtigen Tasten am goldenen Computer zu drücken, und sofort gaben alle Eismaschinen in der Stadt nur noch Vanilleeis aus. Wenn Zangemann wollte, dass die Menschen Schokoladeneis aßen, drückte er die Tastenkombination für Schokoladeneis. Gab er den Befehl für Zitroneneis, dann produzierten die Maschinen nur noch Zitroneneis. Zangemann liebte seine Erfindungen und war jedes Mal begeistert, wie fantastisch seine Maschinen funktionierten. Manchmal waren die Menschen enttäuscht, wenn es nicht ihre Lieblingssorte gab, aber was sollten sie tun? Immerhin gab es an jeder Straßenecke Eis."
+msgid "All he had to do was press the proper key on the golden computer, and immediately all the ice-cream machines in town would dispense only vanilla ice cream."
+msgstr "Er brauchte nur die richtigen Tasten am goldenen Computer zu drücken, und sofort gaben alle Eismaschinen in der Stadt nur noch Vanilleeis aus."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:572
+msgid "If Zangemann wanted people to eat chocolate ice cream, he pressed the key for chocolate ice cream."
+msgstr "Wenn Zangemann wollte, dass die Menschen Schokoladeneis aßen, drückte er die Tastenkombination für Schokoladeneis."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:572
+msgid "If he gave the order for lemon ice cream, the machines made only lemon ice cream."
+msgstr "Gab er den Befehl für Zitroneneis, dann produzierten die Maschinen nur noch Zitroneneis."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:572
+msgid "Zangemann loved his inventions and was always thrilled at how amazingly well his machines worked."
+msgstr "Zangemann liebte seine Erfindungen und war jedes Mal begeistert, wie fantastisch seine Maschinen funktionierten."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:572
+msgid "Sometimes people were disappointed when their favorite flavor wasn’t available, but what could they do? After all, there was ice cream on every street corner."
+msgstr "Manchmal waren die Menschen enttäuscht, wenn es nicht ihre Lieblingssorte gab, aber was sollten sie tun? Immerhin gab es an jeder Straßenecke Eis."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the

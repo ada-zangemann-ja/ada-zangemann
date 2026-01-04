@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2026-01-03 13:37+0100\n"
+"PO-Revision-Date: 2026-01-04 07:37+0100\n"
 "Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
 "Language-Team: Alemannic <https://hosted.weblate.org/projects/fsfe/ada-zangemann/gsw/>\n"
 "Language: gsw\n"
@@ -515,15 +515,45 @@ msgstr ""
 msgid "Ada had so much fun tinkering in the junkyard and fixing broken things that she forgot all about the skateboards and the ice cream."
 msgstr "Es het so grosser gsbass am bechle das es skat un glace vergesst."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:571
-msgid "Because everyone bought his inventions, Zangemann soon became the richest person in the whole world. With all his money, he bought a huge golden computer with a keyboard made of jewels and set it up in the largest room of his mansion. From there, over the internet, he could control all the little computers built into his inventions."
-msgstr "Zangemann macht so viel gschefder das er de richte mann der weld gewore isch ! Mit dem ganze geld het er e immenser computer uss gold kauft, mit im e klavier uss edelstan un hets ins grechte zimmer instaliert. Mit dem computer kan er alles dirigere."
+msgid "Because everyone bought his inventions, Zangemann soon became the richest person in the whole world."
+msgstr "Zangemann macht so viel gschefder das er de richte mann der weld gewore isch!"
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:571
+msgid "With all his money, he bought a huge golden computer with a keyboard made of jewels and set it up in the largest room of his mansion."
+msgstr "Mit dem ganze geld het er e immenser computer uss gold kauft, mit im e klavier uss edelstan un hets ins grechte zimmer instaliert."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:571
+msgid "From there, over the internet, he could control all the little computers built into his inventions."
+msgstr "Mit dem computer kan er alles dirigere."
+
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:572
-msgid "All he had to do was press the proper key on the golden computer, and immediately all the ice-cream machines in town would dispense only vanilla ice cream. If Zangemann wanted people to eat chocolate ice cream, he pressed the key for chocolate ice cream. If he gave the order for lemon ice cream, the machines made only lemon ice cream. Zangemann loved his inventions and was always thrilled at how amazingly well his machines worked. Sometimes people were disappointed when their favorite flavor wasn’t available, but what could they do? After all, there was ice cream on every street corner."
-msgstr "So kan er jetz alli andere computer ewersehn. Er prucht nume uff e knopf drücke un alli glacemaschine mache vanilliaglace ; e andere knopf so gebts chogela oder citrone. Wen er will dass dlit chogelaglace esse prucht er nume auf de richtige knopf druge un selve fir citron. Er wundert sich vor de maschine wie so guet horiche un wen dlit enteuecht sin wen se nit de gchmach hen wie si velle, hen se doch glace an alle strossecke !"
+msgid "All he had to do was press the proper key on the golden computer, and immediately all the ice-cream machines in town would dispense only vanilla ice cream."
+msgstr "So kan er jetz alli andere computer ewersehn. Er prucht nume uff e knopf drücke un alli glacemaschine mache vanilliaglace;"
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:572
+msgid "If Zangemann wanted people to eat chocolate ice cream, he pressed the key for chocolate ice cream."
+msgstr "e andere knopf so gebts chogela oder citrone."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:572
+msgid "If he gave the order for lemon ice cream, the machines made only lemon ice cream."
+msgstr "Wen er will dass dlit chogelaglace esse prucht er nume auf de richtige knopf druge un selve fir citron."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:572
+msgid "Zangemann loved his inventions and was always thrilled at how amazingly well his machines worked."
+msgstr "Er wundert sich vor de maschine wie so guet horiche"
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:572
+msgid "Sometimes people were disappointed when their favorite flavor wasn’t available, but what could they do? After all, there was ice cream on every street corner."
+msgstr "un wen dlit enteuecht sin wen se nit de gchmach hen wie si velle, hen se doch glace an alle strossecke!"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the

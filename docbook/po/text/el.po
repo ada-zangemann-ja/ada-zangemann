@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-03 13:33+0100\n"
+"PO-Revision-Date: 2026-01-04 07:25+0100\n"
 "Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
 "Language-Team: Greek <https://hosted.weblate.org/projects/fsfe/ada-zangemann/el/>\n"
 "Language: el\n"
@@ -682,17 +682,53 @@ msgstr "Είχε βρει επίσης πολλά χρήσιμα αντικεί�
 msgid "Ada had so much fun tinkering in the junkyard and fixing broken things that she forgot all about the skateboards and the ice cream."
 msgstr "Η Άντα διασκέδαζε τόσο πολύ μαστορεύοντας στη μάντρα και φτιάχνοντας χαλασμένα πράγματα που ξέχνούσε τελείως τα σκέιτμπορντ και το παγωτό."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:571
 #, fuzzy
-msgid "Because everyone bought his inventions, Zangemann soon became the richest person in the whole world. With all his money, he bought a huge golden computer with a keyboard made of jewels and set it up in the largest room of his mansion. From there, over the internet, he could control all the little computers built into his inventions."
-msgstr "Καθώς όλοι αγόραζαν τις εφευρέσεις του, ο Ζάνγκερμαν έγινε γρήγορα ο πιο πλούσιος άνθρωπος στον κόσμο. Με όλα αυτά τα χρήματα, αγόρασε έναν τεράστιο χρυσό υπολογιστή με πληκτρολόγιο φτιαγμένο από διαμάντια και τον έβαλε στο μεγαλύτερο δωμάτειο της επαύλής του. Από εκεί, μέσα από το ίντερνετ, μπορούσε να ελέγξει όλους του μικρούς υπολογιστές που βρίσκονταν μέσα στις εφευρέσεις του."
+msgid "Because everyone bought his inventions, Zangemann soon became the richest person in the whole world."
+msgstr "Καθώς όλοι αγόραζαν τις εφευρέσεις του, ο Ζάνγκερμαν έγινε γρήγορα ο πιο πλούσιος άνθρωπος στον κόσμο."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:571
+#, fuzzy
+msgid "With all his money, he bought a huge golden computer with a keyboard made of jewels and set it up in the largest room of his mansion."
+msgstr "Με όλα αυτά τα χρήματα, αγόρασε έναν τεράστιο χρυσό υπολογιστή με πληκτρολόγιο φτιαγμένο από διαμάντια και τον έβαλε στο μεγαλύτερο δωμάτειο της επαύλής του."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:571
+#, fuzzy
+msgid "From there, over the internet, he could control all the little computers built into his inventions."
+msgstr "Από εκεί, μέσα από το ίντερνετ, μπορούσε να ελέγξει όλους του μικρούς υπολογιστές που βρίσκονταν μέσα στις εφευρέσεις του."
+
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:572
 #, fuzzy
-msgid "All he had to do was press the proper key on the golden computer, and immediately all the ice-cream machines in town would dispense only vanilla ice cream. If Zangemann wanted people to eat chocolate ice cream, he pressed the key for chocolate ice cream. If he gave the order for lemon ice cream, the machines made only lemon ice cream. Zangemann loved his inventions and was always thrilled at how amazingly well his machines worked. Sometimes people were disappointed when their favorite flavor wasn’t available, but what could they do? After all, there was ice cream on every street corner."
-msgstr "Το μόνο που έπρεπε να κάνει ήταν να πατήσει το κατάλληλο κουμπί στον χρυσό υπολογιστή του, και αμέσως όλες οι παγωτομηχανές της πόλης έβγαζαν μόνο παγωτό βανίλια. Αν ο Ζάνγκερμαν ήθελε οι άνθρωποι να τρώνε παγωτό σοκολάτα, πατούσε το κουμπί για παγωτό σοκολάτα. Αν έδινε εντολή για παγωτό λεμόνι, οι μηχανές έφτιαχναν μόνο παγωτό λεμόνι. Ο Ζάνγκερμαν αγαπούσε τις εφευρέσεις του και ήταν πάντα ενθουσιασμένος με το πόσο εκπληκτικά λειτουργούσαν οι μηχανές του. Κάποιες φορές οι άνθρωποι ήταν απογοητευμένοι όταν η αγαπημένη τους γεύση δεν ήταν διαθέσιμη, αλλά τι μπορούσαν να κάνουν; Στο κάτω κάτω, υπήρχε παγωτό σε κάθε γωνία."
+msgid "All he had to do was press the proper key on the golden computer, and immediately all the ice-cream machines in town would dispense only vanilla ice cream."
+msgstr "Το μόνο που έπρεπε να κάνει ήταν να πατήσει το κατάλληλο κουμπί στον χρυσό υπολογιστή του, και αμέσως όλες οι παγωτομηχανές της πόλης έβγαζαν μόνο παγωτό βανίλια."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:572
+#, fuzzy
+msgid "If Zangemann wanted people to eat chocolate ice cream, he pressed the key for chocolate ice cream."
+msgstr "Αν ο Ζάνγκερμαν ήθελε οι άνθρωποι να τρώνε παγωτό σοκολάτα, πατούσε το κουμπί για παγωτό σοκολάτα."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:572
+#, fuzzy
+msgid "If he gave the order for lemon ice cream, the machines made only lemon ice cream."
+msgstr "Αν έδινε εντολή για παγωτό λεμόνι, οι μηχανές έφτιαχναν μόνο παγωτό λεμόνι."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:572
+#, fuzzy
+msgid "Zangemann loved his inventions and was always thrilled at how amazingly well his machines worked."
+msgstr "Ο Ζάνγκερμαν αγαπούσε τις εφευρέσεις του και ήταν πάντα ενθουσιασμένος με το πόσο εκπληκτικά λειτουργούσαν οι μηχανές του."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:572
+#, fuzzy
+msgid "Sometimes people were disappointed when their favorite flavor wasn’t available, but what could they do? After all, there was ice cream on every street corner."
+msgstr "Κάποιες φορές οι άνθρωποι ήταν απογοητευμένοι όταν η αγαπημένη τους γεύση δεν ήταν διαθέσιμη, αλλά τι μπορούσαν να κάνουν; Στο κάτω κάτω, υπήρχε παγωτό σε κάθε γωνία."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
