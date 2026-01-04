@@ -25,7 +25,7 @@ others to control technology. Here the short summary:
 > to have them. But then something happens: when Zangemann once again
 > wants to take a close-up look at his inventions during a walk through
 > the city and, with a loud thud, a child riding a skateboard hits him
-> in the shin! Enraged, the inventor makes a momentous decision... The
+> in the shin! Enraged, the inventor makes a momentous decision… The
 > clever girl Ada sees through it all. Together with her friends, she
 > forges a plan.
 
@@ -65,7 +65,7 @@ values.**
 
 # Translations
 
-The FSFE would like to as many people as possible to learn about the
+The FSFE would like as many people as possible to learn about the
 book and being able to read it in their mother tongue. If you would like
 to do a community translation, please let [the FSFE's translation
 team](https://fsfe.org/contribute/translators) know about it and have a
@@ -76,7 +76,12 @@ publish the book in another language, or if you are interested to order
 a higher amount of books if the book would be available in a certain
 language, then please [reach out to us](https://fsfe.org/about/contact).
 
-The main texts can be found in the [texts directory](texts/).
+Translations can be contributed in gettext format via Weblate or by
+contributing files directly to the `docbook/po/texts` folder. The
+[start translating docs](docs/start-translating.md) help you get started.
+
+The generated texts can be found in the [release
+branch](https://git.fsfe.org/FSFE/ada-zangemann/src/branch/release/docbook/build/release).
 
 # Get your printed copy
 
@@ -107,7 +112,7 @@ available:
 * In Danish by Forlaget Modspil. Available in libraries, book stores and
   in all web shops that sell books. You can order it at any book store.
   We recommend that you buy it from  [Coding Pirate's web
-  shop](https://merchcity.com/product/coding-pirates-ada-zangemann-en-fortaelling-om-software-skateboards-og-hindbaeris-bog/). 
+  shop](https://merchcity.com/product/coding-pirates-ada-zangemann-en-fortaelling-om-software-skateboards-og-hindbaeris-bog/).
   [Coding Pirates](https://codingpirates.dk/) is a charity that teaches
   coding to children.
 
