@@ -560,9 +560,20 @@ msgstr "Niekedy boli ľudia sklamaní, keď nedostali ich obľúbený druh. Ale 
 msgid "A white power strip attached to a wall socket. The power strip has 3 sockets and a green switch. One of the sockets is attached to a plug with a gray cable."
 msgstr ""
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:581
-msgid "Zangemann had a lot of fun pressing the sparkling keys and watching people eat ice cream. He spent many hours every day in front of his golden computer doing this. Again and again, he looked down on the city through a long telescope, observing how reliably his inventions carried out his commands."
+msgid "Zangemann had a lot of fun pressing the sparkling keys and watching people eat ice cream."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:581
+msgid "He spent many hours every day in front of his golden computer doing this."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:581
+#, fuzzy
+msgid "Again and again, he looked down on the city through a long telescope, observing how reliably his inventions carried out his commands."
 msgstr "Zangemanna veľmi bavilo stláčať klávesy a pozerať sa na ľudí pri jedení zmrzliny. Každý deň takto strávil veľa hodín pri svojom zlatom počítači. A neustále sa na mesto pozeral dlhým teleskopom. Pozoroval, ako jeho vynálezy spoľahlivo vykonávajú jeho príkazy."
 
 #. (itstool) path: mediaobject/alt
@@ -572,10 +583,30 @@ msgstr "Zangemanna veľmi bavilo stláčať klávesy a pozerať sa na ľudí pri
 msgid "Zangeman sitting in front of his golden computer on a golden armchair with a very tall red padded backrest at whose top is the “Z” of the Zangemann logo. He is wearing a purple turtle-neck sweater and light blue trousers. The computer has four ornate monitors of various sizes, each of which has the logo on the back. It is integrated into a costly wooden desk from which a gray cable flows that is connected to the power strip of the previous page."
 msgstr ""
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
-msgid "When he wasn’t sitting at his golden computer, Zangemann was building his little computers into new devices and then selling those. He built washing machines that sent a message to your cell phone when your laundry was done. He made vacuums that played happy music instead of droning loudly. He invented light bulbs that turned on and off at the snap of a finger and cars that told you where the nearest grocery store was."
-msgstr "Keď nesedel pri svojom zlatom počítači, pridával Zangemann počítače do stále nových prístrojov a potom ich predával. Postavil práčku, ktorá poslala správu do mobilu, keď doprala. Vysávače, ktoré namiesto hluku hrali veselú hudbu. Lampy, ktoré zapnete alebo vypnete lusknutím prstov. A autá, ktoré pri jazde povedali, kde je najbližší supermarket."
+msgid "When he wasn’t sitting at his golden computer, Zangemann was building his little computers into new devices and then selling those."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:591
+msgid "He built washing machines that sent a message to your cell phone when your laundry was done."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:591
+msgid "He made vacuums that played happy music instead of droning loudly."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:591
+msgid "He invented light bulbs that turned on and off at the snap of a finger"
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:591
+msgid "and cars that told you where the nearest grocery store was."
+msgstr ""
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -584,9 +615,15 @@ msgstr "Keď nesedel pri svojom zlatom počítači, pridával Zangemann počíta
 msgid "City landscape with houses and shops, with a central street turning right. On the road there are a car and a cyclist. There are various children and adults walking or going on skateboards, some eating ice cream, while others are buying ice cream from the original Zangemann machines."
 msgstr ""
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:598
-msgid "Soon, almost every appliance in the world had a Zangemann computer built into it. Not all of his inventions seemed necessary at first, but people bought everything he made. That’s just the way it was. Everyone wanted the devices made by Zangemann, the greatest inventor in the world."
+msgid "Soon, almost every appliance in the world had a Zangemann computer built into it."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:598
+#, fuzzy
+msgid "Not all of his inventions seemed necessary at first, but people bought everything he made. That’s just the way it was. Everyone wanted the devices made by Zangemann, the greatest inventor in the world."
 msgstr "Čoskoro boli počítače od Zangemanna zabudované do takmer všetkých zariadení. Nie všetky vynálezy boli také praktické, ako sa na prvý pohľad zdali. Ale ľudia od neho kupovali všetko. Jednoducho všetci chceli prístroje od Zangemanna. Od najväčšieho vynálezcu sveta."
 
 #. (itstool) path: info/title
@@ -1338,3 +1375,6 @@ msgstr ""
 #: Ada_Zangemann.dbk:1139
 msgid "Three hands that hold as many empty ice cream cones, to draw and color. In the air above the middle cone is an umbrella."
 msgstr ""
+
+#~ msgid "When he wasn’t sitting at his golden computer, Zangemann was building his little computers into new devices and then selling those. He built washing machines that sent a message to your cell phone when your laundry was done. He made vacuums that played happy music instead of droning loudly. He invented light bulbs that turned on and off at the snap of a finger and cars that told you where the nearest grocery store was."
+#~ msgstr "Keď nesedel pri svojom zlatom počítači, pridával Zangemann počítače do stále nových prístrojov a potom ich predával. Postavil práčku, ktorá poslala správu do mobilu, keď doprala. Vysávače, ktoré namiesto hluku hrali veselú hudbu. Lampy, ktoré zapnete alebo vypnete lusknutím prstov. A autá, ktoré pri jazde povedali, kde je najbližší supermarket."

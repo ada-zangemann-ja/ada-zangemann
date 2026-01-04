@@ -562,9 +562,20 @@ msgstr "कभी-कभी लोग अपना पसंदीदा स्�
 msgid "A white power strip attached to a wall socket. The power strip has 3 sockets and a green switch. One of the sockets is attached to a plug with a gray cable."
 msgstr ""
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:581
-msgid "Zangemann had a lot of fun pressing the sparkling keys and watching people eat ice cream. He spent many hours every day in front of his golden computer doing this. Again and again, he looked down on the city through a long telescope, observing how reliably his inventions carried out his commands."
+msgid "Zangemann had a lot of fun pressing the sparkling keys and watching people eat ice cream."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:581
+msgid "He spent many hours every day in front of his golden computer doing this."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:581
+#, fuzzy
+msgid "Again and again, he looked down on the city through a long telescope, observing how reliably his inventions carried out his commands."
 msgstr "ज़ैंगमैन को स्पार्कलिंग चाबियों को दबाने और लोगों को आइसक्रीम खाते देखने में बहुत मज़ा आया। ऐसा करने में वह हर दिन अपने सुनहरे कंप्यूटर के सामने कई घंटे बिताता था। बार-बार, वह एक लंबी दूरबीन से शहर को देखता था, और अपने आविष्कारों को जो कितनी मज़बूती से उनके आदेशों का पालन कर रहे हैं।"
 
 #. (itstool) path: mediaobject/alt
@@ -574,10 +585,30 @@ msgstr "ज़ैंगमैन को स्पार्कलिंग चा
 msgid "Zangeman sitting in front of his golden computer on a golden armchair with a very tall red padded backrest at whose top is the “Z” of the Zangemann logo. He is wearing a purple turtle-neck sweater and light blue trousers. The computer has four ornate monitors of various sizes, each of which has the logo on the back. It is integrated into a costly wooden desk from which a gray cable flows that is connected to the power strip of the previous page."
 msgstr ""
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
-msgid "When he wasn’t sitting at his golden computer, Zangemann was building his little computers into new devices and then selling those. He built washing machines that sent a message to your cell phone when your laundry was done. He made vacuums that played happy music instead of droning loudly. He invented light bulbs that turned on and off at the snap of a finger and cars that told you where the nearest grocery store was."
-msgstr "जब ज़ैंगमैन अपने गोल्डन कंप्यूटर पर नहीं बैठता था, तब वह अपने छोटे कंप्यूटरों को नए उपकरणों में बना कर उन्हें बेचा करता था। उन्होंने वाशिंग मशीन का निर्माण किया जो आपके कपड़े धुल जाने के बाद सेल फोन पर संदेश भेजती थी। उन्होंने वेक्यूम बनाए जो जोर से बजने के बजाय खुशनुमा संगीत बजाते थे। उन्होंने प्रकाश बल्ब का आविष्कार किया जो एक उंगली के स्नैप पर चालू हो जाए और कार जो आपको निकटतम किराने की दुकान के बारे मे बता पाए।"
+msgid "When he wasn’t sitting at his golden computer, Zangemann was building his little computers into new devices and then selling those."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:591
+msgid "He built washing machines that sent a message to your cell phone when your laundry was done."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:591
+msgid "He made vacuums that played happy music instead of droning loudly."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:591
+msgid "He invented light bulbs that turned on and off at the snap of a finger"
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:591
+msgid "and cars that told you where the nearest grocery store was."
+msgstr ""
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -586,9 +617,15 @@ msgstr "जब ज़ैंगमैन अपने गोल्डन कं�
 msgid "City landscape with houses and shops, with a central street turning right. On the road there are a car and a cyclist. There are various children and adults walking or going on skateboards, some eating ice cream, while others are buying ice cream from the original Zangemann machines."
 msgstr ""
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:598
-msgid "Soon, almost every appliance in the world had a Zangemann computer built into it. Not all of his inventions seemed necessary at first, but people bought everything he made. That’s just the way it was. Everyone wanted the devices made by Zangemann, the greatest inventor in the world."
+msgid "Soon, almost every appliance in the world had a Zangemann computer built into it."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:598
+#, fuzzy
+msgid "Not all of his inventions seemed necessary at first, but people bought everything he made. That’s just the way it was. Everyone wanted the devices made by Zangemann, the greatest inventor in the world."
 msgstr "जल्द ही, दुनिया के लगभग हर उपकरण में एक ज़ैंगमैन कंप्यूटर लगाया गया था। उनके सभी आविष्कार पहले जरूरी नहीं लगे, लेकिन लोगों ने उनके द्वारा बनाई गई हर चीज को खरीदा। बस ऐसा ही था। हर कोई दुनिया के सबसे बड़े आविष्कारक ज़ैंगमैन द्वारा बनाए गए उपकरणों को पाना चाहता था।"
 
 #. (itstool) path: info/title
@@ -1342,3 +1379,6 @@ msgstr ""
 #: Ada_Zangemann.dbk:1139
 msgid "Three hands that hold as many empty ice cream cones, to draw and color. In the air above the middle cone is an umbrella."
 msgstr "तीन हाथ जो अनेक खाली आइसक्रीम कोन पकड़े हुए हैं, उन्हें चित्र बनाने और रंगने के लिए। बीच वाले कोन के ऊपर हवा में एक छाता है।"
+
+#~ msgid "When he wasn’t sitting at his golden computer, Zangemann was building his little computers into new devices and then selling those. He built washing machines that sent a message to your cell phone when your laundry was done. He made vacuums that played happy music instead of droning loudly. He invented light bulbs that turned on and off at the snap of a finger and cars that told you where the nearest grocery store was."
+#~ msgstr "जब ज़ैंगमैन अपने गोल्डन कंप्यूटर पर नहीं बैठता था, तब वह अपने छोटे कंप्यूटरों को नए उपकरणों में बना कर उन्हें बेचा करता था। उन्होंने वाशिंग मशीन का निर्माण किया जो आपके कपड़े धुल जाने के बाद सेल फोन पर संदेश भेजती थी। उन्होंने वेक्यूम बनाए जो जोर से बजने के बजाय खुशनुमा संगीत बजाते थे। उन्होंने प्रकाश बल्ब का आविष्कार किया जो एक उंगली के स्नैप पर चालू हो जाए और कार जो आपको निकटतम किराने की दुकान के बारे मे बता पाए।"

@@ -636,9 +636,20 @@ msgstr "Іноді люди були розчаровані, коли їхній
 msgid "A white power strip attached to a wall socket. The power strip has 3 sockets and a green switch. One of the sockets is attached to a plug with a gray cable."
 msgstr "Білий подовжувач, прикріплений до настінної розетки. На подовжувачі є 3 розетки і зелений вимикач. Одна з розеток приєднана до вилки сірим кабелем."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:581
-msgid "Zangemann had a lot of fun pressing the sparkling keys and watching people eat ice cream. He spent many hours every day in front of his golden computer doing this. Again and again, he looked down on the city through a long telescope, observing how reliably his inventions carried out his commands."
+msgid "Zangemann had a lot of fun pressing the sparkling keys and watching people eat ice cream."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:581
+msgid "He spent many hours every day in front of his golden computer doing this."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:581
+#, fuzzy
+msgid "Again and again, he looked down on the city through a long telescope, observing how reliably his inventions carried out his commands."
 msgstr "Занґеманну дуже подобалося натискати блискучі клавіші та спостерігати, як люди їдять морозиво. Щодня він проводив за цим заняттям багато годин перед своїм золотим комп'ютером. Знову і знову він дивився на місто через довгий телескоп, спостерігаючи, як надійно його винаходи виконують його команди."
 
 #. (itstool) path: mediaobject/alt
@@ -648,10 +659,30 @@ msgstr "Занґеманну дуже подобалося натискати б
 msgid "Zangeman sitting in front of his golden computer on a golden armchair with a very tall red padded backrest at whose top is the “Z” of the Zangemann logo. He is wearing a purple turtle-neck sweater and light blue trousers. The computer has four ornate monitors of various sizes, each of which has the logo on the back. It is integrated into a costly wooden desk from which a gray cable flows that is connected to the power strip of the previous page."
 msgstr "Занґеман сидить перед своїм золотим комп'ютером на золотому кріслі з дуже високою червоною м'якою спинкою, на вершині якої зображено літеру “Z” логотипу Zangemann. Він одягнений у фіолетовий светр з черепаховим вирізом і світло-блакитні штани. Комп'ютер має чотири витіюваті монітори різних розмірів, кожен з яких має логотип на задній панелі. Він вмонтований у дорогий дерев'яний стіл, від якого відходить сірий кабель, підключений до подовжувача, зображеного на попередній сторінці."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
-msgid "When he wasn’t sitting at his golden computer, Zangemann was building his little computers into new devices and then selling those. He built washing machines that sent a message to your cell phone when your laundry was done. He made vacuums that played happy music instead of droning loudly. He invented light bulbs that turned on and off at the snap of a finger and cars that told you where the nearest grocery store was."
-msgstr "Коли він не сидів за своїм золотим комп'ютером, Занґеманн перетворював свої маленькі комп'ютери на нові пристрої, а потім продавав їх. Він створив пральні машини, які надсилали повідомлення на мобільний телефон, коли прання було завершено. Він створив пилососи, які грали веселу музику замість того, щоб голосно гудіти. Він винайшов лампочки, які вмикалися і вимикалися одним клацанням пальця, і автомобілі, які підказували, де знаходиться найближчий продуктовий магазин."
+msgid "When he wasn’t sitting at his golden computer, Zangemann was building his little computers into new devices and then selling those."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:591
+msgid "He built washing machines that sent a message to your cell phone when your laundry was done."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:591
+msgid "He made vacuums that played happy music instead of droning loudly."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:591
+msgid "He invented light bulbs that turned on and off at the snap of a finger"
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:591
+msgid "and cars that told you where the nearest grocery store was."
+msgstr ""
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -660,9 +691,15 @@ msgstr "Коли він не сидів за своїм золотим комп'
 msgid "City landscape with houses and shops, with a central street turning right. On the road there are a car and a cyclist. There are various children and adults walking or going on skateboards, some eating ice cream, while others are buying ice cream from the original Zangemann machines."
 msgstr "Міський пейзаж з будинками та магазинами, центральна вулиця повертає праворуч. На дорозі - автомобіль і велосипедист. Різні діти і дорослі гуляють або катаються на скейтбордах, деякі їдять морозиво, а інші купують морозиво з оригінальних автоматів Zangemann."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:598
-msgid "Soon, almost every appliance in the world had a Zangemann computer built into it. Not all of his inventions seemed necessary at first, but people bought everything he made. That’s just the way it was. Everyone wanted the devices made by Zangemann, the greatest inventor in the world."
+msgid "Soon, almost every appliance in the world had a Zangemann computer built into it."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:598
+#, fuzzy
+msgid "Not all of his inventions seemed necessary at first, but people bought everything he made. That’s just the way it was. Everyone wanted the devices made by Zangemann, the greatest inventor in the world."
 msgstr "Незабаром майже в кожну побутову техніку у світі був вбудований комп'ютер Занґеманна. Не всі його винаходи спочатку здавалися потрібними, але люди купували все, що він робив. Так воно і було. Всі хотіли мати пристрої, зроблені Занґеманном, найбільшим винахідником у світі."
 
 #. (itstool) path: info/title
@@ -1416,3 +1453,6 @@ msgstr ""
 #: Ada_Zangemann.dbk:1139
 msgid "Three hands that hold as many empty ice cream cones, to draw and color. In the air above the middle cone is an umbrella."
 msgstr "Три руки, які тримають стільки ж порожніх ріжків від морозива, щоб малювати і розфарбовувати. У повітрі над середнім ріжком - парасолька."
+
+#~ msgid "When he wasn’t sitting at his golden computer, Zangemann was building his little computers into new devices and then selling those. He built washing machines that sent a message to your cell phone when your laundry was done. He made vacuums that played happy music instead of droning loudly. He invented light bulbs that turned on and off at the snap of a finger and cars that told you where the nearest grocery store was."
+#~ msgstr "Коли він не сидів за своїм золотим комп'ютером, Занґеманн перетворював свої маленькі комп'ютери на нові пристрої, а потім продавав їх. Він створив пральні машини, які надсилали повідомлення на мобільний телефон, коли прання було завершено. Він створив пилососи, які грали веселу музику замість того, щоб голосно гудіти. Він винайшов лампочки, які вмикалися і вимикалися одним клацанням пальця, і автомобілі, які підказували, де знаходиться найближчий продуктовий магазин."
