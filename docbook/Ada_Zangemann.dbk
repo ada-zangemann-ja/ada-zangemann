@@ -603,7 +603,7 @@ Raspberry Ice Cream</literallayout>
       <title its:locNote="Intended as 'on a day', not 'a single day'. This is supposed to be equal to the beginning of the first sentence of this chapter.">One day...</title>
     </info>
     <simplesect xml:id="sec-p13" az:pagenum="13">
-      <para>One day Zangemann thought, “Today I want to see my inventions up close.” He put away his big telescope, then climbed down the many stairs of his mansion and ventured out into the city, full of anticipation at the thought of enjoying his cool devices.</para>
+      <para><phrase az:movieVoiceTimeCodeIn="00:07:11:07" az:movieVoiceTimeCodeOut="00:07:18:11">One day Zangemann thought, “Today I want to see my inventions up close.”</phrase> <phrase az:movieVoiceTimeCodeIn="00:07:19:09" az:movieVoiceTimeCodeOut="00:07:28:11">He put away his big telescope, then climbed down the many stairs of his mansion and ventured out into the city, full of anticipation at the thought of enjoying his cool devices.</phrase></para>
       <mediaobject xml:id="img-ada-p13">
         <imageobject>
           <imagedata fileref="images/illustrations/ada-p13.ltr.png"/>
@@ -612,7 +612,7 @@ Raspberry Ice Cream</literallayout>
       </mediaobject>
     </simplesect>
     <simplesect xml:id="sec-p14" az:pagenum="14">
-      <para>“Maybe a little trip might even give me a few new ideas. If I’m completely honest, my last inventions weren’t quite as useful as the first ones... ,” Zangemann pondered. “But my ice-cream machines are and will remain second to none,” he thought immediately afterward, and not without pride, as he passed a group of people all eating coconut ice cream, the flavor of the day.</para>
+      <para><phrase az:movieVoiceTimeCodeIn="00:07:29:24" az:movieVoiceTimeCodeOut="00:07:42:15">“Maybe a little trip might even give me a few new ideas. If I’m completely honest, my last inventions weren’t quite as useful as the first ones... ,” Zangemann pondered.</phrase> <phrase az:movieVoiceTimeCodeIn="00:07:43:14" az:movieVoiceTimeCodeOut="00:07:56:11">“But my ice-cream machines are and will remain second to none,” he thought immediately afterward, and not without pride, as he passed a group of people all eating coconut ice cream, the flavor of the day.</phrase></para>
       <anchor az:slidenum="8"/>
       <para><phrase az:movieVoiceTimeCodeIn="00:07:57:15" az:movieVoiceTimeCodeOut="00:08:06:11">He was completely absorbed in his thoughts when suddenly — BAM! — something crashed into his shin.</phrase></para>
       <mediaobject xml:id="img-ada-p14">
@@ -623,8 +623,8 @@ Raspberry Ice Cream</literallayout>
       </mediaobject>
     </simplesect>
     <simplesect xml:id="sec-p15" az:pagenum="15">
-      <para>Zangemann yelped and looked around for the cause. A startled child stood in front of him, holding an original Zangemann skateboard under his arm. “Sorry, I didn’t mean to do that,” the child stammered, but Zangemann wasn’t listening.</para>
-      <para>An angry Zangemann limped away. Suddenly, he heard loud music. He had never before heard something so horrible. He looked around and saw that the music was coming from a loudspeaker he himself had constructed. A child across the street was holding it. The child seemed to like the music, but it gave Zangemann a terrible headache, and his mood worsened. This was not how he had imagined his walk!</para>
+      <para><phrase az:movieVoiceTimeCodeIn="00:08:06:21" az:movieVoiceTimeCodeOut="00:08:15:19">Zangemann yelped and looked around for the cause. A startled child stood in front of him, holding an original Zangemann skateboard under his arm.</phrase> <phrase az:movieVoiceTimeCodeIn="00:08:16:01" az:movieVoiceTimeCodeOut="00:08:24:08">“Sorry, I didn’t mean to do that,” the child stammered, but Zangemann wasn’t listening.</phrase></para>
+      <para><phrase az:movieVoiceTimeCodeIn="00:08:24:22" az:movieVoiceTimeCodeOut="00:08:34:11">An angry Zangemann limped away. Suddenly, he heard loud music. He had never before heard something so horrible.</phrase> <phrase az:movieVoiceTimeCodeIn="00:08:34:21" az:movieVoiceTimeCodeOut="00:08:45:16">He looked around and saw that the music was coming from a loudspeaker he himself had constructed.</phrase> <phrase az:movieVoiceTimeCodeIn="00:08:45:22" az:movieVoiceTimeCodeOut="00:08:56:15">A child across the street was holding it. The child seemed to like the music, but it gave Zangemann a terrible headache, and his mood worsened.</phrase> <phrase az:movieVoiceTimeCodeIn="00:08:57:11" az:movieVoiceTimeCodeOut="00:09:01:17">This was not how he had imagined his walk!</phrase></para>
       <mediaobject xml:id="img-ada-p15">
         <imageobject>
           <imagedata fileref="images/illustrations/ada-p15.ltr.png"/>
@@ -634,7 +634,7 @@ Raspberry Ice Cream</literallayout>
     </simplesect>
     <simplesect xml:id="sec-p16" az:pagenum="16">
       <anchor az:slidenum="9"/>
-      <para>Zangemann was so furious with the two children. How dare they use his inventions this way? That night, he couldn’t sleep, so he sat down at his golden computer. From there, he gave all the little computers in the skateboards a command that they were no longer allowed to go on sidewalks. He ordered the small computers in the speakers to play music only at a low volume, except for his favorite music, which he immediately turned on to get into a better mood.</para>
+      <para><phrase az:movieVoiceTimeCodeIn="00:09:02:01" az:movieVoiceTimeCodeOut="00:09:15:10">Zangemann was so furious with the two children. How dare they use his inventions this way? That night, he couldn’t sleep, so he sat down at his golden computer.</phrase> <phrase az:movieVoiceTimeCodeIn="00:09:15:24" az:movieVoiceTimeCodeOut="00:09:23:07">From there, he gave all the little computers in the skateboards a command that they were no longer allowed to go on sidewalks.</phrase> <phrase az:movieVoiceTimeCodeIn="00:09:23:19" az:movieVoiceTimeCodeOut="00:09:36:05">He ordered the small computers in the speakers to play music only at a low volume, except for his favorite music, which he immediately turned on to get into a better mood.</phrase></para>
       <mediaobject xml:id="img-ada-p16">
         <imageobject>
           <imagedata fileref="images/illustrations/ada-p16.ltr.png"/>
@@ -657,7 +657,7 @@ Raspberry Ice Cream</literallayout>
     </info>
     <simplesect xml:id="sec-p18" az:pagenum="18">
       <anchor az:slidenum="9"/>
-      <para xml:id="para-p18-1" az:dropcap="true" az:dropcapcharacter="T" az:dropcapfileref="images/capitals/T-olive.png" az:dropcapcolor="#bcc85a" az:dropcapbackgroundcolor="#ffffff" az:dropcapheightpt="50.56" az:dropcapwidthpt="38.4" az:dropcaplocalsc="0.16" az:dropcapscribuscharstyle="Capital Olive">The next day, there was a big commotion at Ada’s school. On the way to school, the kids’ skateboards had stopped working. The wheels simply stood still. And the children could no longer turn up the volume on their speakers. What was going on?</para>
+      <para xml:id="para-p18-1" az:dropcap="true" az:dropcapcharacter="T" az:dropcapfileref="images/capitals/T-olive.png" az:dropcapcolor="#bcc85a" az:dropcapbackgroundcolor="#ffffff" az:dropcapheightpt="50.56" az:dropcapwidthpt="38.4" az:dropcaplocalsc="0.16" az:dropcapscribuscharstyle="Capital Olive"><phrase az:movieVoiceTimeCodeIn="00:09:37:05" az:movieVoiceTimeCodeOut="00:09:44:15">The next day, there was a big commotion at Ada’s school. On the way to school, the kids’ skateboards had stopped working. The wheels simply stood still.</phrase> <phrase az:movieVoiceTimeCodeIn="00:09:45:06" az:movieVoiceTimeCodeOut="00:09:53:20">And the children could no longer turn up the volume on their speakers. What was going on?</phrase></para>
       <mediaobject xml:id="img-ada-p18">
         <imageobject>
           <imagedata fileref="images/illustrations/ada-p18.ltr.png"/>
@@ -666,7 +666,7 @@ Raspberry Ice Cream</literallayout>
       </mediaobject>
     </simplesect>
     <simplesect xml:id="sec-p19" az:pagenum="19">
-      <para>Although she didn’t own any of these things, Ada wondered why the skateboards and the speakers suddenly stopped working. But she didn’t really have time to think much about it, because she was tinkering again. She put together a complete bicycle from the parts of three broken bicycles. She gave the bicycle to her mother as a present so that she wouldn’t have to spend her money on bus tickets to work. For her brother, Ada built a loudspeaker so he could fall asleep to nice stories in the evenings when their mother was still at work.</para>
+      <para><phrase az:movieVoiceTimeCodeIn="00:09:54:15" az:movieVoiceTimeCodeOut="00:10:03:19">Although she didn’t own any of these things, Ada wondered why the skateboards and the speakers suddenly stopped working.</phrase> <phrase az:movieVoiceTimeCodeIn="00:10:04:06" az:movieVoiceTimeCodeOut="00:10:09:08">But she didn’t really have time to think much about it, because she was tinkering again.</phrase> <phrase az:movieVoiceTimeCodeIn="00:10:09:19" az:movieVoiceTimeCodeOut="00:10:20:05">She put together a complete bicycle from the parts of three broken bicycles. She gave the bicycle to her mother as a present so that she wouldn’t have to spend her money on bus tickets to work.</phrase> <phrase az:movieVoiceTimeCodeIn="00:10:20:18" az:movieVoiceTimeCodeOut="00:10:30:04">For her brother, Ada built a loudspeaker so he could fall asleep to nice stories in the evenings when their mother was still at work.</phrase></para>
       <mediaobject xml:id="img-ada-p19">
         <imageobject>
           <imagedata fileref="images/illustrations/ada-p19.ltr.png"/>
@@ -674,7 +674,7 @@ Raspberry Ice Cream</literallayout>
         <alt>Close-up of Ada thoughtful, with a backpack and with one hand on her chin and the other resting on her side.</alt>
       </mediaobject>
       <!-- NOTE: Change template to prevent text over image -->
-      <para>After a few days, the initial shock at Ada’s school was forgotten. The skateboards still didn’t go on the sidewalk, but apart from that, they still worked. And so now the children rode in circles around the playground and listened to soft music. Only a strange, pompous marching music continued to play at an unchanged volume, which the children found rather puzzling.</para>
+      <para><phrase az:movieVoiceTimeCodeIn="00:10:31:01" az:movieVoiceTimeCodeOut="00:10:41:02">After a few days, the initial shock at Ada’s school was forgotten. The skateboards still didn’t go on the sidewalk, but apart from that, they still worked.</phrase> <phrase az:movieVoiceTimeCodeIn="00:10:41:15" az:movieVoiceTimeCodeOut="00:10:48:04">And so now the children rode in circles around the playground and listened to soft music.</phrase> <phrase az:movieVoiceTimeCodeIn="00:10:48:21" az:movieVoiceTimeCodeOut="00:10:57:18">Only a strange, pompous marching music continued to play at an unchanged volume, which the children found rather puzzling.</phrase></para>
     </simplesect>
   </chapter>
   <chapter>
