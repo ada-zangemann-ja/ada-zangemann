@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-05 06:21+0100\n"
+"PO-Revision-Date: 2026-01-05 18:32+0000\n"
 "Last-Translator: Erik <erik.ds@fsfe.org>\n"
 "Language-Team: Albanian <https://hosted.weblate.org/projects/fsfe/ada-zangemann/sq/>\n"
 "Language: sq\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Poedit 3.6\n"
+"X-Generator: Weblate 5.15.1\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
@@ -1294,12 +1294,12 @@ msgstr ""
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1031
 msgid "Thanks to Bea and Benni, Brian, Christine and Marc, Cory, Bernhard, Isabel and Amelia, Katta, Kristina, Martin, Mona and Arne, Nina, Oliver, Reinhard, Sabine, and Torsten for great ideas, inspiration, and practical tips, and to the many people of the Free Software movement, from which I was allowed to learn and whose engagement motivated me."
-msgstr ""
+msgstr "  "
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1035
 msgid "Thanks to my family, who made me write early in the morning, late in the evening, and on holiday, and who always supports my work for software freedom. Especially, I would like to thank my children, who inspired me with new ideas at each reading. Without them, this book would not exist."
-msgstr ""
+msgstr " "
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
