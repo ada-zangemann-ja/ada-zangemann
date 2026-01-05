@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-04 08:06+0100\n"
+"PO-Revision-Date: 2026-01-05 06:21+0100\n"
 "Last-Translator: Erik <erik.ds@fsfe.org>\n"
 "Language-Team: Albanian <https://hosted.weblate.org/projects/fsfe/ada-zangemann/sq/>\n"
 "Language: sq\n"
@@ -597,10 +597,20 @@ msgstr "Ndonjëherë, njerëzit zhgënjeheshin që nuk kishte shijen e tyre të 
 msgid "A white power strip attached to a wall socket. The power strip has 3 sockets and a green switch. One of the sockets is attached to a plug with a gray cable."
 msgstr ""
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:581
-msgid "Zangemann had a lot of fun pressing the sparkling keys and watching people eat ice cream. He spent many hours every day in front of his golden computer doing this. Again and again, he looked down on the city through a long telescope, observing how reliably his inventions carried out his commands."
-msgstr "Zangemann kënaqej shumë duke shtypur tastet që shkëlqenin dhe duke parë njerëzit teksa hanin akulloret e tij. Kështu ai kalonte çdo ditë shumë orë përpara kompjuterit të tij prej ari. Nuk lodhej kurrë së vëzhguari qytetin nga lart përmes një teleskopi të gjatë dhe së konstatuari me kënaqësi me sa besnikëri i zbatonin shpikjet e tij urdhrat që u jepte."
+msgid "Zangemann had a lot of fun pressing the sparkling keys and watching people eat ice cream."
+msgstr "Zangemann kënaqej shumë duke shtypur tastet që shkëlqenin dhe duke parë njerëzit teksa hanin akulloret e tij."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:581
+msgid "He spent many hours every day in front of his golden computer doing this."
+msgstr "Kështu ai kalonte çdo ditë shumë orë përpara kompjuterit të tij prej ari."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:581
+msgid "Again and again, he looked down on the city through a long telescope, observing how reliably his inventions carried out his commands."
+msgstr "Nuk lodhej kurrë së vëzhguari qytetin nga lart përmes një teleskopi të gjatë dhe së konstatuari me kënaqësi me sa besnikëri i zbatonin shpikjet e tij urdhrat që u jepte."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -609,10 +619,30 @@ msgstr "Zangemann kënaqej shumë duke shtypur tastet që shkëlqenin dhe duke p
 msgid "Zangeman sitting in front of his golden computer on a golden armchair with a very tall red padded backrest at whose top is the “Z” of the Zangemann logo. He is wearing a purple turtle-neck sweater and light blue trousers. The computer has four ornate monitors of various sizes, each of which has the logo on the back. It is integrated into a costly wooden desk from which a gray cable flows that is connected to the power strip of the previous page."
 msgstr ""
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
-msgid "When he wasn’t sitting at his golden computer, Zangemann was building his little computers into new devices and then selling those. He built washing machines that sent a message to your cell phone when your laundry was done. He made vacuums that played happy music instead of droning loudly. He invented light bulbs that turned on and off at the snap of a finger and cars that told you where the nearest grocery store was."
-msgstr "Kur nuk ishte ulur përpara kompjuterit të tij prej ari, Zangemani instalonte kompjuterët e tij të vegjël në pajisje të reja për t’i shitur më pas. Ai ndërtoi makina larëse që dërgonin një mesazh në telefonin celular kur përfundonte larja, fshesa me korent që lëshonin muzikë të gëzueshme në vend që të bënin potere, llamba që ndizeshin dhe fikeshin me një trokitje gishti dhe makina që i tregonin drejtuesit se ku ndodhej supermarketi më i afërt."
+msgid "When he wasn’t sitting at his golden computer, Zangemann was building his little computers into new devices and then selling those."
+msgstr "Kur nuk ishte ulur përpara kompjuterit të tij prej ari, Zangemani instalonte kompjuterët e tij të vegjël në pajisje të reja për t’i shitur më pas."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:591
+msgid "He built washing machines that sent a message to your cell phone when your laundry was done."
+msgstr "Ai ndërtoi makina larëse që dërgonin një mesazh në telefonin celular kur përfundonte larja,"
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:591
+msgid "He made vacuums that played happy music instead of droning loudly."
+msgstr "fshesa me korent që lëshonin muzikë të gëzueshme në vend që të bënin potere,"
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:591
+msgid "He invented light bulbs that turned on and off at the snap of a finger"
+msgstr "llamba që ndizeshin dhe fikeshin me një trokitje gishti dhe makina që"
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:591
+msgid "and cars that told you where the nearest grocery store was."
+msgstr "i tregonin drejtuesit se ku ndodhej supermarketi më i afërt."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -621,10 +651,15 @@ msgstr "Kur nuk ishte ulur përpara kompjuterit të tij prej ari, Zangemani inst
 msgid "City landscape with houses and shops, with a central street turning right. On the road there are a car and a cyclist. There are various children and adults walking or going on skateboards, some eating ice cream, while others are buying ice cream from the original Zangemann machines."
 msgstr ""
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:598
-msgid "Soon, almost every appliance in the world had a Zangemann computer built into it. Not all of his inventions seemed necessary at first, but people bought everything he made. That’s just the way it was. Everyone wanted the devices made by Zangemann, the greatest inventor in the world."
-msgstr "Shumë shpejt, pothuajse të gjitha pajisjet kontrolloheshin nga një program kompjuterik i Zangemanit. Sigurisht jo të gjitha shpikjet ishin gjithmonë aq praktike sa dukeshin, por njerëzit blinin gjithçka që vinte prej tij. Ashtu ishte. Të gjithë donin të kishin pajisjet e Zangemanit, shpikësit më të madh në botë."
+msgid "Soon, almost every appliance in the world had a Zangemann computer built into it."
+msgstr "Shumë shpejt, pothuajse të gjitha pajisjet kontrolloheshin nga një program kompjuterik i Zangemanit."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:598
+msgid "Not all of his inventions seemed necessary at first, but people bought everything he made. That’s just the way it was. Everyone wanted the devices made by Zangemann, the greatest inventor in the world."
+msgstr "Sigurisht jo të gjitha shpikjet ishin gjithmonë aq praktike sa dukeshin, por njerëzit blinin gjithçka që vinte prej tij. Ashtu ishte. Të gjithë donin të kishin pajisjet e Zangemanit, shpikësit më të madh në botë."
 
 #. (itstool) path: info/title
 #. Intended as 'on a day', not 'a single day'. This is supposed to be

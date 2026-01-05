@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-04 07:52+0100\n"
+"PO-Revision-Date: 2026-01-05 06:04+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -554,10 +554,20 @@ msgstr "ときにお気に入りのフレーバーのアイスがなくてがっ
 msgid "A white power strip attached to a wall socket. The power strip has 3 sockets and a green switch. One of the sockets is attached to a plug with a gray cable."
 msgstr ""
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:581
-msgid "Zangemann had a lot of fun pressing the sparkling keys and watching people eat ice cream. He spent many hours every day in front of his golden computer doing this. Again and again, he looked down on the city through a long telescope, observing how reliably his inventions carried out his commands."
-msgstr "キラキラ光るキーを押したり、アイスクリームをたべている人びとをながめたりするのは、たいへんゆかいでした。ツァンゲマンはまいにち金色のコンピューターにむかっては、こうして長い時間をすごしました。大きな望遠鏡でまちを見おろし、じぶんの発明したものたちがきちんと命令にしたがって動くようすを、くりかえしながめました。"
+msgid "Zangemann had a lot of fun pressing the sparkling keys and watching people eat ice cream."
+msgstr "キラキラ光るキーを押したり、アイスクリームをたべている人びとをながめたりするのは、たいへんゆかいでした。"
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:581
+msgid "He spent many hours every day in front of his golden computer doing this."
+msgstr "ツァンゲマンはまいにち金色のコンピューターにむかっては、こうして長い時間をすごしました。"
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:581
+msgid "Again and again, he looked down on the city through a long telescope, observing how reliably his inventions carried out his commands."
+msgstr "大きな望遠鏡でまちを見おろし、じぶんの発明したものたちがきちんと命令にしたがって動くようすを、くりかえしながめました。"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -566,10 +576,30 @@ msgstr "キラキラ光るキーを押したり、アイスクリームをたべ
 msgid "Zangeman sitting in front of his golden computer on a golden armchair with a very tall red padded backrest at whose top is the “Z” of the Zangemann logo. He is wearing a purple turtle-neck sweater and light blue trousers. The computer has four ornate monitors of various sizes, each of which has the logo on the back. It is integrated into a costly wooden desk from which a gray cable flows that is connected to the power strip of the previous page."
 msgstr ""
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
-msgid "When he wasn’t sitting at his golden computer, Zangemann was building his little computers into new devices and then selling those. He built washing machines that sent a message to your cell phone when your laundry was done. He made vacuums that played happy music instead of droning loudly. He invented light bulbs that turned on and off at the snap of a finger and cars that told you where the nearest grocery store was."
-msgstr "金色のコンピューターの前にすわっていないときは、新しいデバイスに小さなコンピューターをいれて売りました。洗濯がおわるとケータイにメッセージを送って知らせる洗濯機、ブーンとうるさい音のかわりに楽しい曲を流す掃除機、指を鳴らすとついたり消えたりする電球、最寄りのスーパーの場所を知らせてくれる車などをつくったのです。"
+msgid "When he wasn’t sitting at his golden computer, Zangemann was building his little computers into new devices and then selling those."
+msgstr "金色のコンピューターの前にすわっていないときは、新しいデバイスに小さなコンピューターをいれて売りました。"
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:591
+msgid "He built washing machines that sent a message to your cell phone when your laundry was done."
+msgstr "洗濯がおわるとケータイにメッセージを送って知らせる洗濯機、"
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:591
+msgid "He made vacuums that played happy music instead of droning loudly."
+msgstr "ブーンとうるさい音のかわりに楽しい曲を流す掃除機、"
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:591
+msgid "He invented light bulbs that turned on and off at the snap of a finger"
+msgstr "指を鳴らすとついたり消えたりする電球、"
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:591
+msgid "and cars that told you where the nearest grocery store was."
+msgstr "最寄りのスーパーの場所を知らせてくれる車などをつくったのです。"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -578,10 +608,15 @@ msgstr "金色のコンピューターの前にすわっていないときは、
 msgid "City landscape with houses and shops, with a central street turning right. On the road there are a car and a cyclist. There are various children and adults walking or going on skateboards, some eating ice cream, while others are buying ice cream from the original Zangemann machines."
 msgstr ""
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:598
-msgid "Soon, almost every appliance in the world had a Zangemann computer built into it. Not all of his inventions seemed necessary at first, but people bought everything he made. That’s just the way it was. Everyone wanted the devices made by Zangemann, the greatest inventor in the world."
-msgstr "あっという間に、世界じゅうのほとんどの電化製品にツァンゲマンのコンピューターが組みこまれました。一見してぜんぶが必要とは思われませんでしたが、ツァンゲマンの発明したものであればみんなはなんでも買いました。なにしろツァンゲマンは世界一偉大な発明家ですから、発明したデバイスをだれもがほしがったのです。"
+msgid "Soon, almost every appliance in the world had a Zangemann computer built into it."
+msgstr "あっという間に、世界じゅうのほとんどの電化製品にツァンゲマンのコンピューターが組みこまれました。"
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:598
+msgid "Not all of his inventions seemed necessary at first, but people bought everything he made. That’s just the way it was. Everyone wanted the devices made by Zangemann, the greatest inventor in the world."
+msgstr "一見してぜんぶが必要とは思われませんでしたが、ツァンゲマンの発明したものであればみんなはなんでも買いました。なにしろツァンゲマンは世界一偉大な発明家ですから、発明したデバイスをだれもがほしがったのです。"
 
 #. (itstool) path: info/title
 #. Intended as 'on a day', not 'a single day'. This is supposed to be

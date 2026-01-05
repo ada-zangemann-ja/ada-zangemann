@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-04 07:57+0100\n"
+"PO-Revision-Date: 2026-01-05 06:10+0100\n"
 "Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/fsfe/ada-zangemann/nl/>\n"
 "Language: nl\n"
@@ -612,10 +612,20 @@ msgstr "Soms waren mensen teleurgesteld dat hun favoriete ijssmaak niet beschikb
 msgid "A white power strip attached to a wall socket. The power strip has 3 sockets and a green switch. One of the sockets is attached to a plug with a gray cable."
 msgstr "Een witte stekkerdoos verbonden aan een stopcontact. De stekkerdoos heeft drie aansluitingen en een groene schakelaar. In de stekkerdoos dit een stekker met een grijze kabel."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:581
-msgid "Zangemann had a lot of fun pressing the sparkling keys and watching people eat ice cream. He spent many hours every day in front of his golden computer doing this. Again and again, he looked down on the city through a long telescope, observing how reliably his inventions carried out his commands."
-msgstr "Zangemann werd blij van het indrukken van de fonkelende toetsen en de mensen ijs te zien eten. Zo bracht hij dagelijks vele uren door achter zijn gouden computer. Steeds weer keek hij door een lange telescoop naar de stad om te zien hoe betrouwbaar zijn uitvindingen zijn opdrachten opvolgden."
+msgid "Zangemann had a lot of fun pressing the sparkling keys and watching people eat ice cream."
+msgstr "Zangemann werd blij van het indrukken van de fonkelende toetsen en de mensen ijs te zien eten."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:581
+msgid "He spent many hours every day in front of his golden computer doing this."
+msgstr "Zo bracht hij dagelijks vele uren door achter zijn gouden computer."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:581
+msgid "Again and again, he looked down on the city through a long telescope, observing how reliably his inventions carried out his commands."
+msgstr "Steeds weer keek hij door een lange telescoop naar de stad om te zien hoe betrouwbaar zijn uitvindingen zijn opdrachten opvolgden."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -624,10 +634,30 @@ msgstr "Zangemann werd blij van het indrukken van de fonkelende toetsen en de me
 msgid "Zangeman sitting in front of his golden computer on a golden armchair with a very tall red padded backrest at whose top is the “Z” of the Zangemann logo. He is wearing a purple turtle-neck sweater and light blue trousers. The computer has four ornate monitors of various sizes, each of which has the logo on the back. It is integrated into a costly wooden desk from which a gray cable flows that is connected to the power strip of the previous page."
 msgstr "Zangemann zit achter zijn gouden computer op een goude stoel met armleuningen een erg hoge rode gecapitonneerde rugleuning met aan de bovenkant de \"Z\" van het Zangemann-logo. Hij draagt een paarse coltrui en een lichtblauwe broek. De computer heeft vier monitoren met decoratieve randen van verschillende grootten, elke met het logo op de achterkant. Het is geïntegreerd in een kostbaar houten bureau waarvandaan een grijze kabel slingert die is verbonden aan de stekkerdoos op de vorige pagina."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
-msgid "When he wasn’t sitting at his golden computer, Zangemann was building his little computers into new devices and then selling those. He built washing machines that sent a message to your cell phone when your laundry was done. He made vacuums that played happy music instead of droning loudly. He invented light bulbs that turned on and off at the snap of a finger and cars that told you where the nearest grocery store was."
-msgstr "Als hij niet achter zijn gouden computer zat, was Zangemann zijn kleine computers in nieuwe apparaten aan het bouwen om ze vervolgens te verkopen. Hij bouwde wasmachines die een berichtje naar je telefoon stuurden als de was klaar was. Hij maakte stofzuigers die een leuk deuntje speelden in plaats van luid te ronken. Hij vond lampen uit die je met een vingerknip aan en uit kon schakelen en auto's die je vertelden waar de dichtstbijzijnde supermarkt was."
+msgid "When he wasn’t sitting at his golden computer, Zangemann was building his little computers into new devices and then selling those."
+msgstr "Als hij niet achter zijn gouden computer zat, was Zangemann zijn kleine computers in nieuwe apparaten aan het bouwen om ze vervolgens te verkopen."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:591
+msgid "He built washing machines that sent a message to your cell phone when your laundry was done."
+msgstr "Hij bouwde wasmachines die een berichtje naar je telefoon stuurden als de was klaar was."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:591
+msgid "He made vacuums that played happy music instead of droning loudly."
+msgstr "Hij maakte stofzuigers die een leuk deuntje speelden in plaats van luid te ronken."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:591
+msgid "He invented light bulbs that turned on and off at the snap of a finger"
+msgstr "Hij vond lampen uit die je met een vingerknip aan en uit kon schakelen"
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:591
+msgid "and cars that told you where the nearest grocery store was."
+msgstr "en auto's die je vertelden waar de dichtstbijzijnde supermarkt was."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -636,10 +666,15 @@ msgstr "Als hij niet achter zijn gouden computer zat, was Zangemann zijn kleine 
 msgid "City landscape with houses and shops, with a central street turning right. On the road there are a car and a cyclist. There are various children and adults walking or going on skateboards, some eating ice cream, while others are buying ice cream from the original Zangemann machines."
 msgstr "Stadsaanzicht met huizen, winkels en een centrale straat die naar rechts afbuigt. Op de weg rijden een auto en een fietser. Er zijn verschillende kinderen en ouders aan het lopen of aan het skateboarden. Sommige eten ijs, terwijl anderen ijs kopen van de Originele Zangemann machines."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:598
-msgid "Soon, almost every appliance in the world had a Zangemann computer built into it. Not all of his inventions seemed necessary at first, but people bought everything he made. That’s just the way it was. Everyone wanted the devices made by Zangemann, the greatest inventor in the world."
-msgstr "Al snel had bijna elk apparaat een Zangemann-computer ingebouwd. Niet al zijn uitvindingen leken direct noodzakelijk, maar mensen kochten alles wat hij maakte. Zo was het gewoon. Iedereen wilde de apparaten gemaakt door Zangemann, de grootste uitvinder ter wereld."
+msgid "Soon, almost every appliance in the world had a Zangemann computer built into it."
+msgstr "Al snel had bijna elk apparaat een Zangemann-computer ingebouwd."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:598
+msgid "Not all of his inventions seemed necessary at first, but people bought everything he made. That’s just the way it was. Everyone wanted the devices made by Zangemann, the greatest inventor in the world."
+msgstr "Niet al zijn uitvindingen leken direct noodzakelijk, maar mensen kochten alles wat hij maakte. Zo was het gewoon. Iedereen wilde de apparaten gemaakt door Zangemann, de grootste uitvinder ter wereld."
 
 #. (itstool) path: info/title
 #. Intended as 'on a day', not 'a single day'. This is supposed to be

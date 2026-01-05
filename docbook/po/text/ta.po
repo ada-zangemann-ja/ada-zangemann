@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-04 08:10+0100\n"
+"PO-Revision-Date: 2026-01-05 06:27+0100\n"
 "Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
 "Language-Team: Tamil <https://hosted.weblate.org/projects/fsfe/ada-zangemann/ta/>\n"
 "Language: ta\n"
@@ -560,10 +560,20 @@ msgstr "சில நேரங்களில் மக்கள் தங்க
 msgid "A white power strip attached to a wall socket. The power strip has 3 sockets and a green switch. One of the sockets is attached to a plug with a gray cable."
 msgstr "ஒரு சுவர் சாக்கெட்டில் இணைக்கப்பட்ட ஒரு வெள்ளை ஆற்றல் துண்டு. பவர் ச்ட்ரிப்பில் 3 சாக்கெட்டுகள் மற்றும் பச்சை சுவிட்ச் உள்ளது. சாக்கெட்டுகளில் ஒன்று சாம்பல் கேபிள் கொண்ட பிளக்கில் இணைக்கப்பட்டுள்ளது."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:581
-msgid "Zangemann had a lot of fun pressing the sparkling keys and watching people eat ice cream. He spent many hours every day in front of his golden computer doing this. Again and again, he looked down on the city through a long telescope, observing how reliably his inventions carried out his commands."
-msgstr "சாங்கேமன் பிரகாசமான சாவியை அழுத்தி, மக்கள் ஐச்கிரீம் சாப்பிடுவதைப் பார்ப்பது மிகவும் வேடிக்கையாக இருந்தது. அவர் தனது கோல்டன் கம்ப்யூட்டருக்கு முன்னால் ஒவ்வொரு நாளும் பல மணி நேரம் செலவிட்டார். மீண்டும் மீண்டும், அவர் ஒரு நீண்ட தொலைநோக்கி மூலம் நகரத்தை கீழே பார்த்தார், அவரது கண்டுபிடிப்புகள் அவரது கட்டளைகளை எவ்வளவு நம்பத்தகுந்த முறையில் மேற்கொண்டன என்பதைக் கவனித்தார்."
+msgid "Zangemann had a lot of fun pressing the sparkling keys and watching people eat ice cream."
+msgstr "சாங்கேமன் பிரகாசமான சாவியை அழுத்தி, மக்கள் ஐச்கிரீம் சாப்பிடுவதைப் பார்ப்பது மிகவும் வேடிக்கையாக இருந்தது."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:581
+msgid "He spent many hours every day in front of his golden computer doing this."
+msgstr "அவர் தனது கோல்டன் கம்ப்யூட்டருக்கு முன்னால் ஒவ்வொரு நாளும் பல மணி நேரம் செலவிட்டார்."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:581
+msgid "Again and again, he looked down on the city through a long telescope, observing how reliably his inventions carried out his commands."
+msgstr "மீண்டும் மீண்டும், அவர் ஒரு நீண்ட தொலைநோக்கி மூலம் நகரத்தை கீழே பார்த்தார், அவரது கண்டுபிடிப்புகள் அவரது கட்டளைகளை எவ்வளவு நம்பத்தகுந்த முறையில் மேற்கொண்டன என்பதைக் கவனித்தார்."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -572,11 +582,32 @@ msgstr "சாங்கேமன் பிரகாசமான சாவிய�
 msgid "Zangeman sitting in front of his golden computer on a golden armchair with a very tall red padded backrest at whose top is the “Z” of the Zangemann logo. He is wearing a purple turtle-neck sweater and light blue trousers. The computer has four ornate monitors of various sizes, each of which has the logo on the back. It is integrated into a costly wooden desk from which a gray cable flows that is connected to the power strip of the previous page."
 msgstr "அவர் ஊதா ஆமை-கழுத்து ச்வெட்டர் மற்றும் வெளிர் நீல கால்சட்டை அணிந்துள்ளார். கணினியில் பல்வேறு அளவுகளில் நான்கு அலங்கரிக்கப்பட்ட மானிட்டர்கள் உள்ளன, ஒவ்வொன்றும் பின்புறத்தில் லோகோ உள்ளன. இது ஒரு விலையுயர்ந்த மர மேசையில் ஒருங்கிணைக்கப்பட்டுள்ளது, அதில் இருந்து ஒரு சாம்பல் கேபிள் முந்தைய பக்கத்தின் ஆற்றல் துண்டுடன் இணைக்கப்பட்டுள்ளது."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:591
+msgid "When he wasn’t sitting at his golden computer, Zangemann was building his little computers into new devices and then selling those."
+msgstr "அவர் தனது கோல்டன் கம்ப்யூட்டரில் அமராதபோது, சாங்கேமன் தனது சிறிய கணினிகளை புதிய சாதனங்களாக உருவாக்கி, பின்னர் அவற்றை விற்பனை செய்து கொண்டிருந்தார்."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:591
+msgid "He built washing machines that sent a message to your cell phone when your laundry was done."
+msgstr "உங்கள் சலவை முடிந்ததும் உங்கள் செல்போனுக்கு ஒரு செய்தியை அனுப்பிய சலவை இயந்திரங்களை அவர் கட்டினார்."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:591
+msgid "He made vacuums that played happy music instead of droning loudly."
+msgstr "அவர் சத்தமாக நடிப்பதற்குப் பதிலாக மகிழ்ச்சியான இசையை வாசிக்கும் வெற்றிடங்களை உருவாக்கினார்."
+
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 #, fuzzy
-msgid "When he wasn’t sitting at his golden computer, Zangemann was building his little computers into new devices and then selling those. He built washing machines that sent a message to your cell phone when your laundry was done. He made vacuums that played happy music instead of droning loudly. He invented light bulbs that turned on and off at the snap of a finger and cars that told you where the nearest grocery store was."
-msgstr "அவர் தனது கோல்டன் கம்ப்யூட்டரில் அமராதபோது, சாங்கேமன் தனது சிறிய கணினிகளை புதிய சாதனங்களாக உருவாக்கி, பின்னர் அவற்றை விற்பனை செய்து கொண்டிருந்தார். உங்கள் சலவை முடிந்ததும் உங்கள் செல்போனுக்கு ஒரு செய்தியை அனுப்பிய சலவை இயந்திரங்களை அவர் கட்டினார். அவர் சத்தமாக நடிப்பதற்குப் பதிலாக மகிழ்ச்சியான இசையை வாசிக்கும் வெற்றிடங்களை உருவாக்கினார். அவர் ஒரு விரல் மற்றும் கார்களின் புகைப்படத்தில் இயக்கப்பட்ட மற்றும் அணைக்கப்படும் ஒளி விளக்குகளை கண்டுபிடித்தார், அது அருகிலுள்ள மளிகைக் கடை எங்கே என்று உங்களுக்குச் சொன்னது."
+msgid "He invented light bulbs that turned on and off at the snap of a finger"
+msgstr "அவர் ஒரு விரல் மற்றும் கார்களின் புகைப்படத்தில் இயக்கப்பட்ட மற்றும் அணைக்கப்படும்"
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:591
+#, fuzzy
+msgid "and cars that told you where the nearest grocery store was."
+msgstr "ஒளி விளக்குகளை கண்டுபிடித்தார், அது அருகிலுள்ள மளிகைக் கடை எங்கே என்று உங்களுக்குச் சொன்னது."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -585,10 +616,15 @@ msgstr "அவர் தனது கோல்டன் கம்ப்யூட
 msgid "City landscape with houses and shops, with a central street turning right. On the road there are a car and a cyclist. There are various children and adults walking or going on skateboards, some eating ice cream, while others are buying ice cream from the original Zangemann machines."
 msgstr "வீடுகள் மற்றும் கடைகளுடன் நகர நிலப்பரப்பு, நடு தெரு வலதுபுறம் திரும்பும். சாலையில் ஒரு கார் மற்றும் ஒரு சைக்கிள் ஓட்டுநர் உள்ளனர். பல்வேறு குழந்தைகள் மற்றும் பெரியவர்கள் ச்கேட்போர்டுகளில் நடைபயிற்சி அல்லது செல்லும், சிலர் ஐச்கிரீம் சாப்பிடுகிறார்கள், மற்றவர்கள் அசல் சாங்கேமன் இயந்திரங்களிலிருந்து ஐச்கிரீம் வாங்குகிறார்கள்."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:598
-msgid "Soon, almost every appliance in the world had a Zangemann computer built into it. Not all of his inventions seemed necessary at first, but people bought everything he made. That’s just the way it was. Everyone wanted the devices made by Zangemann, the greatest inventor in the world."
-msgstr "விரைவில், உலகின் ஒவ்வொரு சாதனத்திலும் ஒரு சாங்கேமன் கணினி கட்டப்பட்டது. அவரது கண்டுபிடிப்புகள் அனைத்தும் முதலில் அவசியமில்லை என்று தோன்றவில்லை, ஆனால் மக்கள் அவர் செய்த அனைத்தையும் வாங்கினர். அது அப்படியே இருந்தது. உலகின் மிகப் பெரிய கண்டுபிடிப்பாளரான சாங்கேமன் தயாரித்த சாதனங்களை எல்லோரும் விரும்பினர்."
+msgid "Soon, almost every appliance in the world had a Zangemann computer built into it."
+msgstr "விரைவில், உலகின் ஒவ்வொரு சாதனத்திலும் ஒரு சாங்கேமன் கணினி கட்டப்பட்டது."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:598
+msgid "Not all of his inventions seemed necessary at first, but people bought everything he made. That’s just the way it was. Everyone wanted the devices made by Zangemann, the greatest inventor in the world."
+msgstr "அவரது கண்டுபிடிப்புகள் அனைத்தும் முதலில் அவசியமில்லை என்று தோன்றவில்லை, ஆனால் மக்கள் அவர் செய்த அனைத்தையும் வாங்கினர். அது அப்படியே இருந்தது. உலகின் மிகப் பெரிய கண்டுபிடிப்பாளரான சாங்கேமன் தயாரித்த சாதனங்களை எல்லோரும் விரும்பினர்."
 
 #. (itstool) path: info/title
 #. Intended as 'on a day', not 'a single day'. This is supposed to be
