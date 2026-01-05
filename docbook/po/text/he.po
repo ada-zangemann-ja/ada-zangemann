@@ -1449,6 +1449,3 @@ msgstr ""
 #: Ada_Zangemann.dbk:1139
 msgid "Three hands that hold as many empty ice cream cones, to draw and color. In the air above the middle cone is an umbrella."
 msgstr "שלוש ידיים שמחזיקות גביעי גלידה בכמות זהה, לציור ולצביעה. באוויר מעל הגביע האמצעי יש מטרייה."
-
-#~ msgid "When he wasn’t sitting at his golden computer, Zangemann was building his little computers into new devices and then selling those. He built washing machines that sent a message to your cell phone when your laundry was done. He made vacuums that played happy music instead of droning loudly. He invented light bulbs that turned on and off at the snap of a finger and cars that told you where the nearest grocery store was."
-#~ msgstr "כשלא היה מול מחשב הזהב שלו. זנגמן הרכיב את המחשבים הקטנים שלו לתוך מכשירים חדשים ואז מכר אותם. הוא בנה מכונת כביסה ששולחת הודעות לטלפון שלך כשתהליך הכיבוס הסתיים. הוא יצר שואבי אבק שהשמיעו מוזיקה שמחה במקום רעש שאיבה מחריש אוזניים. הוא המציא נורות שנדלקו ונכבו בנקישת אצבעותיו ומכוניות שסיפרו היכן נמצא המרכול הקרוב ביותר."

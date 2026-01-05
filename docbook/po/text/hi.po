@@ -1377,6 +1377,3 @@ msgstr ""
 #: Ada_Zangemann.dbk:1139
 msgid "Three hands that hold as many empty ice cream cones, to draw and color. In the air above the middle cone is an umbrella."
 msgstr "तीन हाथ जो अनेक खाली आइसक्रीम कोन पकड़े हुए हैं, उन्हें चित्र बनाने और रंगने के लिए। बीच वाले कोन के ऊपर हवा में एक छाता है।"
-
-#~ msgid "When he wasn’t sitting at his golden computer, Zangemann was building his little computers into new devices and then selling those. He built washing machines that sent a message to your cell phone when your laundry was done. He made vacuums that played happy music instead of droning loudly. He invented light bulbs that turned on and off at the snap of a finger and cars that told you where the nearest grocery store was."
-#~ msgstr "जब ज़ैंगमैन अपने गोल्डन कंप्यूटर पर नहीं बैठता था, तब वह अपने छोटे कंप्यूटरों को नए उपकरणों में बना कर उन्हें बेचा करता था। उन्होंने वाशिंग मशीन का निर्माण किया जो आपके कपड़े धुल जाने के बाद सेल फोन पर संदेश भेजती थी। उन्होंने वेक्यूम बनाए जो जोर से बजने के बजाय खुशनुमा संगीत बजाते थे। उन्होंने प्रकाश बल्ब का आविष्कार किया जो एक उंगली के स्नैप पर चालू हो जाए और कार जो आपको निकटतम किराने की दुकान के बारे मे बता पाए।"

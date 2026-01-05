@@ -1425,6 +1425,3 @@ msgstr ""
 #: Ada_Zangemann.dbk:1139
 msgid "Three hands that hold as many empty ice cream cones, to draw and color. In the air above the middle cone is an umbrella."
 msgstr ""
-
-#~ msgid "When he wasn’t sitting at his golden computer, Zangemann was building his little computers into new devices and then selling those. He built washing machines that sent a message to your cell phone when your laundry was done. He made vacuums that played happy music instead of droning loudly. He invented light bulbs that turned on and off at the snap of a finger and cars that told you where the nearest grocery store was."
-#~ msgstr "Kur nuk ishte ulur përpara kompjuterit të tij prej ari, Zangemani instalonte kompjuterët e tij të vegjël në pajisje të reja për t’i shitur më pas. Ai ndërtoi makina larëse që dërgonin një mesazh në telefonin celular kur përfundonte larja, fshesa me korent që lëshonin muzikë të gëzueshme në vend që të bënin potere, llamba që ndizeshin dhe fikeshin me një trokitje gishti dhe makina që i tregonin drejtuesit se ku ndodhej supermarketi më i afërt."
