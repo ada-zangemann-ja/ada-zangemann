@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2025-11-25 21:49+0100\n"
-"PO-Revision-Date: 2026-01-04 07:58+0100\n"
+"PO-Revision-Date: 2026-01-05 06:11+0100\n"
 "Last-Translator: Kjetil Torgrim Homme <kjetilho@njus.no>\n"
 "Language-Team: \n"
 "Language: nn\n"
@@ -616,18 +616,17 @@ msgstr "Ei kvit straumpadde kopla til ein veggkontakt. Straumpadda har tre stikk
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:581
 msgid "Zangemann had a lot of fun pressing the sparkling keys and watching people eat ice cream."
-msgstr ""
+msgstr "Zangemann hadde mykje moro med å trykkja på dei skinnande tastane og sjå folk eta iskrem."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:581
 msgid "He spent many hours every day in front of his golden computer doing this."
-msgstr ""
+msgstr "Kvar dag brukte han mange timar føre den gylne datamaskina si."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:581
-#, fuzzy
 msgid "Again and again, he looked down on the city through a long telescope, observing how reliably his inventions carried out his commands."
-msgstr "Zangemann hadde mykje moro med å trykkja på dei skinnande tastane og sjå folk eta iskrem. Kvar dag brukte han mange timar føre den gylne datamaskina si. Igjen og igjen kikka han ned på byen gjennom eit langt teleskop og såg kor trufast oppfinningane hans utførte ordrane han gav dei."
+msgstr "Igjen og igjen kikka han ned på byen gjennom eit langt teleskop og såg kor trufast oppfinningane hans utførte ordrane han gav dei."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -639,27 +638,27 @@ msgstr "Zangeman sit framfor den gylne datamaskina si i ein gyllen lenestol med 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "When he wasn’t sitting at his golden computer, Zangemann was building his little computers into new devices and then selling those."
-msgstr ""
+msgstr "Når han ikkje sat ved den gylne datamaskina si, så bygde Zangemann sine små datamaskiner inn i nye dingsar som han så selde."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "He built washing machines that sent a message to your cell phone when your laundry was done."
-msgstr ""
+msgstr "Han bygde vaskemaskiner som sende ei melding til mobiltelefonen din når klesvasken var ferdig."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "He made vacuums that played happy music instead of droning loudly."
-msgstr ""
+msgstr "Han bygde støvsugarar som spelte lykkeleg musikk i staden for å brumma høglydt."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "He invented light bulbs that turned on and off at the snap of a finger"
-msgstr ""
+msgstr "Han fann opp lyspærer som slo seg av og på når ein knipsa med fingrane"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "and cars that told you where the nearest grocery store was."
-msgstr ""
+msgstr "og bilar som kunne fortelja deg kor næraste matbutikk var."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -671,13 +670,12 @@ msgstr "Bylandskap med hus og butikkar, med ei sentral gate bøyande av mot høg
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:598
 msgid "Soon, almost every appliance in the world had a Zangemann computer built into it."
-msgstr ""
+msgstr "Raskt var det ei Zangemann-datamaskin i nesten alle elektriske apparat i verda."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:598
-#, fuzzy
 msgid "Not all of his inventions seemed necessary at first, but people bought everything he made. That’s just the way it was. Everyone wanted the devices made by Zangemann, the greatest inventor in the world."
-msgstr "Raskt var det ei Zangemann-datamaskin i nesten alle elektriske apparat i verda. Ikkje alle oppfinningane hans var like praktiske som det såg ut ved første blikk, men folk kjøpte alt han laga. Det var slik det var. Alle ville ha dingsar som Zangemann, den største oppfinnaren i verda, laga."
+msgstr "Ikkje alle oppfinningane hans var like praktiske som det såg ut ved første blikk, men folk kjøpte alt han laga. Det var slik det var. Alle ville ha dingsar som Zangemann, den største oppfinnaren i verda, laga."
 
 #. (itstool) path: info/title
 #. Intended as 'on a day', not 'a single day'. This is supposed to be

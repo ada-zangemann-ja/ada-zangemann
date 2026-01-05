@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-04 07:20+0100\n"
+"PO-Revision-Date: 2026-01-04 19:47+0100\n"
 "Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/fsfe/ada-zangemann/cs/>\n"
 "Language: cs\n"
@@ -561,18 +561,17 @@ msgstr ""
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:581
 msgid "Zangemann had a lot of fun pressing the sparkling keys and watching people eat ice cream."
-msgstr ""
+msgstr "Zangemanna náramně bavilo mačkat blyštící se klávesy a dívat se na lidi, jak jí zmrzlinu."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:581
 msgid "He spent many hours every day in front of his golden computer doing this."
-msgstr ""
+msgstr "Každý den tím u svého zlatého počítače strávil spoustu času."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:581
-#, fuzzy
 msgid "Again and again, he looked down on the city through a long telescope, observing how reliably his inventions carried out his commands."
-msgstr "Zangemanna náramně bavilo mačkat blyštící se klávesy a dívat se na lidi, jak jí zmrzlinu. Každý den tím u svého zlatého počítače strávil spoustu času. Znova a znova se díval dolů na město skrze dlouhý dalekohled a sledoval, jak spolehlivě jeho vynálezy plní všechny jeho příkazy."
+msgstr "Znova a znova se díval dolů na město skrze dlouhý dalekohled a sledoval, jak spolehlivě jeho vynálezy plní všechny jeho příkazy."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -584,27 +583,27 @@ msgstr ""
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "When he wasn’t sitting at his golden computer, Zangemann was building his little computers into new devices and then selling those."
-msgstr ""
+msgstr "Když neseděl před svým velkým počítačem, montoval Zangemann malé počítače do dalších přístrojů, které pak prodával."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "He built washing machines that sent a message to your cell phone when your laundry was done."
-msgstr ""
+msgstr "Vyrobil pračku, která, když doprala, uměla poslat zprávu do telefonu."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "He made vacuums that played happy music instead of droning loudly."
-msgstr ""
+msgstr "Vylepšil vysavač tak, že hrál veselou hudbu namísto hlasitého hučení."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "He invented light bulbs that turned on and off at the snap of a finger"
-msgstr ""
+msgstr "Vynalezl žárovky, které se zapínaly a vypínaly, když luskl prsty,"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "and cars that told you where the nearest grocery store was."
-msgstr ""
+msgstr "a auta, která mohla říct, kde je nejbližší obchod s potravinami."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -616,13 +615,12 @@ msgstr ""
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:598
 msgid "Soon, almost every appliance in the world had a Zangemann computer built into it."
-msgstr ""
+msgstr "Brzy v sobě mělo skoro každé zařízení na světě Zangemannův počítač."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:598
-#, fuzzy
 msgid "Not all of his inventions seemed necessary at first, but people bought everything he made. That’s just the way it was. Everyone wanted the devices made by Zangemann, the greatest inventor in the world."
-msgstr "Brzy v sobě mělo skoro každé zařízení na světě Zangemannův počítač. I když ne všechny jeho vynálezy byly na první pohled potřebné, lidé nakupovali vše, co vyrobil. Už to tak prostě bylo. Každý chtěl přístroje od Zangemanna, největšího světového vynálezce."
+msgstr "I když ne všechny jeho vynálezy byly na první pohled potřebné, lidé nakupovali vše, co vyrobil. Už to tak prostě bylo. Každý chtěl přístroje od Zangemanna, největšího světového vynálezce."
 
 #. (itstool) path: info/title
 #. Intended as 'on a day', not 'a single day'. This is supposed to be

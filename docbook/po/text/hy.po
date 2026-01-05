@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-04 07:48+0100\n"
+"PO-Revision-Date: 2026-01-05 05:57+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: hy\n"
@@ -563,18 +563,17 @@ msgstr ""
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:581
 msgid "Zangemann had a lot of fun pressing the sparkling keys and watching people eat ice cream."
-msgstr ""
+msgstr "Զանգեմանը շատ էր զուարճանում սեղմելով փայլող կոճակները եւ նայել ինչպէս են մարդիկ ուտում պաղպաղակ։"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:581
 msgid "He spent many hours every day in front of his golden computer doing this."
-msgstr ""
+msgstr "Սա անելով շատ ժամեր էր ծախսում ոսկեայ համակարգչի դիմաց։"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:581
-#, fuzzy
 msgid "Again and again, he looked down on the city through a long telescope, observing how reliably his inventions carried out his commands."
-msgstr "Զանգեմանը շատ էր զուարճանում սեղմելով փայլող կոճակները եւ նայել ինչպէս են մարդիկ ուտում պաղպաղակ։ Սա անելով շատ ժամեր էր ծախսում ոսկեայ համակարգչի դիմաց։ Կրկին եւ կրկին, նա նայում էր քաղաքին իր հեռադիտակով, ուսումնասիրելով իր հրամանների կատարման յուսալիութիւնը։"
+msgstr "Կրկին եւ կրկին, նա նայում էր քաղաքին իր հեռադիտակով, ուսումնասիրելով իր հրամանների կատարման յուսալիութիւնը։"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -586,27 +585,27 @@ msgstr ""
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "When he wasn’t sitting at his golden computer, Zangemann was building his little computers into new devices and then selling those."
-msgstr ""
+msgstr "Երբ ոսկեայ կարգչի դիմաց չէր, Զանգեմանը պատրաստում էր նոր փոքր համակարգիչներ՝ նոր սարքերի մէջ, եւ վաճառում էր դրանք։"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "He built washing machines that sent a message to your cell phone when your laundry was done."
-msgstr ""
+msgstr "Նա սարքում էր լուացքի մեքենաներ, որ ուղարկում էր նամակ բջջայինին, երբ լուացքը պատրաստ էր։"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "He made vacuums that played happy music instead of droning loudly."
-msgstr ""
+msgstr "Նա սարքել էր փոշեկուլ, որոնք նուագում էին ուրախ երաժշտութիւն՝ աղմկոտ ձայների փոխարէն։"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "He invented light bulbs that turned on and off at the snap of a finger"
-msgstr ""
+msgstr "Նա հորինել էր լամպեր, որոնք միանում֊անջատւում էին մատների ճտճտոցով,"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "and cars that told you where the nearest grocery store was."
-msgstr ""
+msgstr "եւ մեքենաներ, որ ասում էին, թե որտեղ է ամենամօտ մթերային խանութը։"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -618,13 +617,12 @@ msgstr "Քաղաքի լանդշաֆթ՝ տներով եւ խանութներով
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:598
 msgid "Soon, almost every appliance in the world had a Zangemann computer built into it."
-msgstr ""
+msgstr "Ժամանակի հետ գրեթէ ամեն ինչ աշխարհում իր մէջ ունէր Զանգեմանի կարգիչն իր ներսում։"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:598
-#, fuzzy
 msgid "Not all of his inventions seemed necessary at first, but people bought everything he made. That’s just the way it was. Everyone wanted the devices made by Zangemann, the greatest inventor in the world."
-msgstr "Ժամանակի հետ գրեթէ ամեն ինչ աշխարհում իր մէջ ունէր Զանգեմանի կարգիչն իր ներսում։ Ոչ բոլոր գիւտերն էին սկզբում պէտքական թւում, բայց մարդիկ գնում էին ամեն ինչ, որը նա սարքում էր։ Զուտ այդպէս էր։ Բոլորն ուզում էին սարքեր պատրաստուած Զանգեմանի կողմից՝ աշխարհի ամենամեծ նորարարից։"
+msgstr "Ոչ բոլոր գիւտերն էին սկզբում պէտքական թւում, բայց մարդիկ գնում էին ամեն ինչ, որը նա սարքում էր։ Զուտ այդպէս էր։ Բոլորն ուզում էին սարքեր պատրաստուած Զանգեմանի կողմից՝ աշխարհի ամենամեծ նորարարից։"
 
 #. (itstool) path: info/title
 #. Intended as 'on a day', not 'a single day'. This is supposed to be

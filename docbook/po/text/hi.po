@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-04 07:45+0100\n"
+"PO-Revision-Date: 2026-01-04 20:20+0100\n"
 "Last-Translator: Aayush Gupta <aayushgupta219@gmail.com>\n"
 "Language-Team: Hindi <https://hosted.weblate.org/projects/fsfe/ada-zangemann/hi/>\n"
 "Language: hi\n"
@@ -565,18 +565,17 @@ msgstr ""
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:581
 msgid "Zangemann had a lot of fun pressing the sparkling keys and watching people eat ice cream."
-msgstr ""
+msgstr "ज़ैंगमैन को स्पार्कलिंग चाबियों को दबाने और लोगों को आइसक्रीम खाते देखने में बहुत मज़ा आया।"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:581
 msgid "He spent many hours every day in front of his golden computer doing this."
-msgstr ""
+msgstr "ऐसा करने में वह हर दिन अपने सुनहरे कंप्यूटर के सामने कई घंटे बिताता था।"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:581
-#, fuzzy
 msgid "Again and again, he looked down on the city through a long telescope, observing how reliably his inventions carried out his commands."
-msgstr "ज़ैंगमैन को स्पार्कलिंग चाबियों को दबाने और लोगों को आइसक्रीम खाते देखने में बहुत मज़ा आया। ऐसा करने में वह हर दिन अपने सुनहरे कंप्यूटर के सामने कई घंटे बिताता था। बार-बार, वह एक लंबी दूरबीन से शहर को देखता था, और अपने आविष्कारों को जो कितनी मज़बूती से उनके आदेशों का पालन कर रहे हैं।"
+msgstr "बार-बार, वह एक लंबी दूरबीन से शहर को देखता था, और अपने आविष्कारों को जो कितनी मज़बूती से उनके आदेशों का पालन कर रहे हैं।"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -588,27 +587,27 @@ msgstr ""
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "When he wasn’t sitting at his golden computer, Zangemann was building his little computers into new devices and then selling those."
-msgstr ""
+msgstr "जब ज़ैंगमैन अपने गोल्डन कंप्यूटर पर नहीं बैठता था, तब वह अपने छोटे कंप्यूटरों को नए उपकरणों में बना कर उन्हें बेचा करता था।"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "He built washing machines that sent a message to your cell phone when your laundry was done."
-msgstr ""
+msgstr "उन्होंने वाशिंग मशीन का निर्माण किया जो आपके कपड़े धुल जाने के बाद सेल फोन पर संदेश भेजती थी।"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "He made vacuums that played happy music instead of droning loudly."
-msgstr ""
+msgstr "उन्होंने वेक्यूम बनाए जो जोर से बजने के बजाय खुशनुमा संगीत बजाते थे।"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "He invented light bulbs that turned on and off at the snap of a finger"
-msgstr ""
+msgstr "उन्होंने प्रकाश बल्ब का आविष्कार किया जो एक उंगली के स्नैप पर चालू हो जाए"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "and cars that told you where the nearest grocery store was."
-msgstr ""
+msgstr "और कार जो आपको निकटतम किराने की दुकान के बारे मे बता पाए।"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -620,13 +619,12 @@ msgstr ""
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:598
 msgid "Soon, almost every appliance in the world had a Zangemann computer built into it."
-msgstr ""
+msgstr "जल्द ही, दुनिया के लगभग हर उपकरण में एक ज़ैंगमैन कंप्यूटर लगाया गया था।"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:598
-#, fuzzy
 msgid "Not all of his inventions seemed necessary at first, but people bought everything he made. That’s just the way it was. Everyone wanted the devices made by Zangemann, the greatest inventor in the world."
-msgstr "जल्द ही, दुनिया के लगभग हर उपकरण में एक ज़ैंगमैन कंप्यूटर लगाया गया था। उनके सभी आविष्कार पहले जरूरी नहीं लगे, लेकिन लोगों ने उनके द्वारा बनाई गई हर चीज को खरीदा। बस ऐसा ही था। हर कोई दुनिया के सबसे बड़े आविष्कारक ज़ैंगमैन द्वारा बनाए गए उपकरणों को पाना चाहता था।"
+msgstr "उनके सभी आविष्कार पहले जरूरी नहीं लगे, लेकिन लोगों ने उनके द्वारा बनाई गई हर चीज को खरीदा। बस ऐसा ही था। हर कोई दुनिया के सबसे बड़े आविष्कारक ज़ैंगमैन द्वारा बनाए गए उपकरणों को पाना चाहता था।"
 
 #. (itstool) path: info/title
 #. Intended as 'on a day', not 'a single day'. This is supposed to be

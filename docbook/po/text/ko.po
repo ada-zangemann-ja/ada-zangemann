@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-04 07:55+0100\n"
+"PO-Revision-Date: 2026-01-05 06:07+0100\n"
 "Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/fsfe/ada-zangemann/ko/>\n"
 "Language: ko\n"
@@ -623,18 +623,17 @@ msgstr "흰색 멀티탭이 벽면 콘센트에 꾳혀있습니다. 멀티탭은
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:581
 msgid "Zangemann had a lot of fun pressing the sparkling keys and watching people eat ice cream."
-msgstr ""
+msgstr "장기만 아저씨는 반짝이는 키를 누르고 사람들이 아이스크림을 먹는 모습을 보는게 즐거웠어요."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:581
 msgid "He spent many hours every day in front of his golden computer doing this."
-msgstr ""
+msgstr "그는 황금 컴퓨터 앞에서 이 일을 하면서 수많은 시간을 보냈어요."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:581
-#, fuzzy
 msgid "Again and again, he looked down on the city through a long telescope, observing how reliably his inventions carried out his commands."
-msgstr "장기만 아저씨는 반짝이는 키를 누르고 사람들이 아이스크림을 먹는 모습을 보는게 즐거웠어요. 그는 황금 컴퓨터 앞에서 이 일을 하면서 수많은 시간을 보냈어요. 계속 또 계속.. 그는 긴 망원경을 이용해서 도시를 내려다 보면서 그의 발명품들이 얼마나 제대로 그의 명령을 잘 수행하는지 관찰했어요."
+msgstr "계속 또 계속.. 그는 긴 망원경을 이용해서 도시를 내려다 보면서 그의 발명품들이 얼마나 제대로 그의 명령을 잘 수행하는지 관찰했어요."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -646,27 +645,27 @@ msgstr "장기만 아저씨가 황금 컴퓨터 앞에 앉아있습니다. 장�
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "When he wasn’t sitting at his golden computer, Zangemann was building his little computers into new devices and then selling those."
-msgstr ""
+msgstr "아저씨가 황금 컴퓨터 앞에 앉아있지 않을 때에는 작은 컴퓨터를 이용해 새로운 장치를 만들거나 만든 새 장치를 팔았어요."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "He built washing machines that sent a message to your cell phone when your laundry was done."
-msgstr ""
+msgstr "그는 새로운 세탁기를 만들었는데 이 세탁기는 세탁이 끝나면 핸드폰으로 문자를 보내주었어요."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "He made vacuums that played happy music instead of droning loudly."
-msgstr ""
+msgstr "아저씨는 진공청소기도 만들었는데 시끄러운 소리대신 즐거운 음악을 연주해 주었어요."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "He invented light bulbs that turned on and off at the snap of a finger"
-msgstr ""
+msgstr "또 손가락을 딱하고 튕기면 켜지고 꺼지는"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "and cars that told you where the nearest grocery store was."
-msgstr ""
+msgstr "전구와 어디에 가까운 마트가 있는지 알려주는 자동차도 발명했어요."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -678,13 +677,12 @@ msgstr "집들과 가게들이 즐비한 도시의 모습. 도시에는 오른�
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:598
 msgid "Soon, almost every appliance in the world had a Zangemann computer built into it."
-msgstr ""
+msgstr "곧 세상의 모든 가전제품에 장기만 아저씨의 컴퓨터가 들어가게 되었어요."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:598
-#, fuzzy
 msgid "Not all of his inventions seemed necessary at first, but people bought everything he made. That’s just the way it was. Everyone wanted the devices made by Zangemann, the greatest inventor in the world."
-msgstr "곧 세상의 모든 가전제품에 장기만 아저씨의 컴퓨터가 들어가게 되었어요. 처음에는 아저씨의 발명품이 전부 다 필요해 보이지는 않았어요. 그러나 사람들은 점차 그것들은 하나둘씩 사기 시작했어요. 어쩌다 보니 그렇게 되었지요. 모두가 최고의 발명가인 장기만 아저씨가 만드는 제품을 가지고 싶어했어요."
+msgstr "처음에는 아저씨의 발명품이 전부 다 필요해 보이지는 않았어요. 그러나 사람들은 점차 그것들은 하나둘씩 사기 시작했어요. 어쩌다 보니 그렇게 되었지요. 모두가 최고의 발명가인 장기만 아저씨가 만드는 제품을 가지고 싶어했어요."
 
 #. (itstool) path: info/title
 #. Intended as 'on a day', not 'a single day'. This is supposed to be

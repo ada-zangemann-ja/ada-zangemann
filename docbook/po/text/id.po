@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-04 07:49+0100\n"
+"PO-Revision-Date: 2026-01-05 05:59+0100\n"
 "Last-Translator: Arif Budiman <arifpedia@gmail.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/fsfe/ada-zangemann/id/>\n"
 "Language: id\n"
@@ -636,18 +636,17 @@ msgstr "Sebuah blok soket listrik berwarna putih terhubung ke sebuah stopkontak 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:581
 msgid "Zangemann had a lot of fun pressing the sparkling keys and watching people eat ice cream."
-msgstr ""
+msgstr "Zangemann sangat senang menekan tombol-tombol berkilau itu dan menonton orang-orang makan es krim."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:581
 msgid "He spent many hours every day in front of his golden computer doing this."
-msgstr ""
+msgstr "Ia menghabiskan berjam-jam setiap hari di depan komputer emasnya melakukan hal ini."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:581
-#, fuzzy
 msgid "Again and again, he looked down on the city through a long telescope, observing how reliably his inventions carried out his commands."
-msgstr "Zangemann sangat senang menekan tombol-tombol berkilau itu dan menonton orang-orang makan es krim. Ia menghabiskan berjam-jam setiap hari di depan komputer emasnya melakukan hal ini. Berulang kali, ia memandang ke bawah ke arah kota melalui sebuah teleskop panjang, mengamati betapa andalnya penemuannya menjalankan perintah-perintahnya."
+msgstr "Berulang kali, ia memandang ke bawah ke arah kota melalui sebuah teleskop panjang, mengamati betapa andalnya penemuannya menjalankan perintah-perintahnya."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -659,27 +658,27 @@ msgstr "Bapak Zangeman duduk di depan komputernya yang berwarna emas, ia duduk d
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "When he wasn’t sitting at his golden computer, Zangemann was building his little computers into new devices and then selling those."
-msgstr ""
+msgstr "Ketika ia tidak duduk di depan komputer emasnya, Zangemann memasang komputer-komputer kecilnya ke perangkat-perangkat baru lalu menjualnya."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "He built washing machines that sent a message to your cell phone when your laundry was done."
-msgstr ""
+msgstr "Ia membuat mesin cuci yang mengirim pesan ke ponsel Anda ketika cucian selesai."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "He made vacuums that played happy music instead of droning loudly."
-msgstr ""
+msgstr "Ia membuat penyedot debu yang memutar musik ceria alih-alih berdengung keras."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "He invented light bulbs that turned on and off at the snap of a finger"
-msgstr ""
+msgstr "Ia menemukan bola lampu yang menyala dan mati dengan jentikan jari"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "and cars that told you where the nearest grocery store was."
-msgstr ""
+msgstr "serta mobil yang memberi tahu Anda di mana toko kelontong terdekat berada."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -691,13 +690,12 @@ msgstr "Lanskap kota dengan rumah-rumah dan toko-toko, dengan jalan utama yang b
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:598
 msgid "Soon, almost every appliance in the world had a Zangemann computer built into it."
-msgstr ""
+msgstr "Tak lama kemudian, hampir setiap peralatan di dunia memiliki komputer Zangemann yang tertanam di dalamnya."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:598
-#, fuzzy
 msgid "Not all of his inventions seemed necessary at first, but people bought everything he made. That’s just the way it was. Everyone wanted the devices made by Zangemann, the greatest inventor in the world."
-msgstr "Tak lama kemudian, hampir setiap peralatan di dunia memiliki komputer Zangemann yang tertanam di dalamnya. Tidak semua penemuannya tampak diperlukan pada awalnya, tetapi orang-orang membeli semua yang ia buat. Memang begitulah adanya. Semua orang menginginkan perangkat buatan Zangemann, penemu terhebat di dunia."
+msgstr "Tidak semua penemuannya tampak diperlukan pada awalnya, tetapi orang-orang membeli semua yang ia buat. Memang begitulah adanya. Semua orang menginginkan perangkat buatan Zangemann, penemu terhebat di dunia."
 
 #. (itstool) path: info/title
 #. Intended as 'on a day', not 'a single day'. This is supposed to be

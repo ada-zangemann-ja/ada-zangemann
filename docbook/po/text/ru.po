@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-10-16 21:28+0200\n"
-"PO-Revision-Date: 2026-01-04 08:03+0100\n"
+"PO-Revision-Date: 2026-01-05 06:18+0100\n"
 "Last-Translator: Elvira Pescu <elvirapesku@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/fsfe/ada-zangemann/ru/>\n"
 "Language: ru\n"
@@ -635,18 +635,17 @@ msgstr "Белая удлинительная розетка, прикрепле
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:581
 msgid "Zangemann had a lot of fun pressing the sparkling keys and watching people eat ice cream."
-msgstr ""
+msgstr "Зангеманн получал огромное удовольствие, нажимая на сверкающие клавиши и наблюдая за людьми, которые ели мороженое."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:581
 msgid "He spent many hours every day in front of his golden computer doing this."
-msgstr ""
+msgstr "Он проводил много часов каждый день перед своим золотым компьютером, занимаясь этим."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:581
-#, fuzzy
 msgid "Again and again, he looked down on the city through a long telescope, observing how reliably his inventions carried out his commands."
-msgstr "Зангеманн получал огромное удовольствие, нажимая на сверкающие клавиши и наблюдая за людьми, которые ели мороженое. Он проводил много часов каждый день перед своим золотым компьютером, занимаясь этим.Вновь и вновь он взирал на город через длинный телескоп, наблюдая, как надежно его изобретения выполняют его команды."
+msgstr "Вновь и вновь он взирал на город через длинный телескоп, наблюдая, как надежно его изобретения выполняют его команды."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -658,27 +657,27 @@ msgstr "Зангеман сидит перед своим золотым ком�
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "When he wasn’t sitting at his golden computer, Zangemann was building his little computers into new devices and then selling those."
-msgstr ""
+msgstr "Когда он не сидел за своим золотым компьютером, Зангеманн встраивал свои маленькие компьютеры в новые устройства, а затем продавал их."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "He built washing machines that sent a message to your cell phone when your laundry was done."
-msgstr ""
+msgstr "Он построил стиральные машины, которые отправляли сообщение на ваш мобильный телефон, когда стирка была закончена."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "He made vacuums that played happy music instead of droning loudly."
-msgstr ""
+msgstr "Он изобрел пылесосы, которые играли веселую музыку вместо громкого гудения."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "He invented light bulbs that turned on and off at the snap of a finger"
-msgstr ""
+msgstr "Он изобрел лампочки, которые включались и выключались одним щелчком пальцев,"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "and cars that told you where the nearest grocery store was."
-msgstr ""
+msgstr "и машины, которые сообщали вам, где находится ближайший продуктовый магазин."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -690,13 +689,12 @@ msgstr "Городской пейзаж с домами и магазинами,
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:598
 msgid "Soon, almost every appliance in the world had a Zangemann computer built into it."
-msgstr ""
+msgstr "Вскоре почти в каждом бытовом приборе в мире был встроен компьютер Зангеманна."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:598
-#, fuzzy
 msgid "Not all of his inventions seemed necessary at first, but people bought everything he made. That’s just the way it was. Everyone wanted the devices made by Zangemann, the greatest inventor in the world."
-msgstr "Вскоре почти в каждом бытовом приборе в мире был встроен компьютер Зангеманна. Поначалу не все его изобретения казались необходимыми, но люди все равно покупали все что он изобретал Так уж и было принято. Все хотели машины созданные Зангеманном, величайшим изобретателем в мире."
+msgstr "Поначалу не все его изобретения казались необходимыми, но люди все равно покупали все что он изобретал Так уж и было принято. Все хотели машины созданные Зангеманном, величайшим изобретателем в мире."
 
 #. (itstool) path: info/title
 #. Intended as 'on a day', not 'a single day'. This is supposed to be

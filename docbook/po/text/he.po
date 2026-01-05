@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-10-16 21:28+0200\n"
-"PO-Revision-Date: 2026-01-04 07:40+0100\n"
+"PO-Revision-Date: 2026-01-04 20:16+0100\n"
 "Last-Translator: Yaron Shahrabani <sh.yaron@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/fsfe/ada-zangemann/he/>\n"
 "Language: he\n"
@@ -637,18 +637,17 @@ msgstr "מפצל שקעים מחובר לשקע בקיר. במפצל יש שלו
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:581
 msgid "Zangemann had a lot of fun pressing the sparkling keys and watching people eat ice cream."
-msgstr ""
+msgstr "לזנגמן היה כיף מאוד ללחוץ על כל המקשים המנצנצים שלו ולצפות באנשים אוכלים גלידה."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:581
 msgid "He spent many hours every day in front of his golden computer doing this."
-msgstr ""
+msgstr "הוא השקיע בכך שעות רבות בכל יום מול מחשב הזהב שלו."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:581
-#, fuzzy
 msgid "Again and again, he looked down on the city through a long telescope, observing how reliably his inventions carried out his commands."
-msgstr "לזנגמן היה כיף מאוד ללחוץ על כל המקשים המנצנצים שלו ולצפות באנשים אוכלים גלידה. הוא השקיע בכך שעות רבות בכל יום מול מחשב הזהב שלו. שוב ושוב, הוא הביט מטה אל העיר מבעד למשקפת שלו, והבחין באיזו אמינות ההמצאות שלו מבצעות את הפקודות שלו."
+msgstr "שוב ושוב, הוא הביט מטה אל העיר מבעד למשקפת שלו, והבחין באיזו אמינות ההמצאות שלו מבצעות את הפקודות שלו."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -660,27 +659,27 @@ msgstr "זנגמן יושב מול מחשב הזהב שלו על כס זהב ע�
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "When he wasn’t sitting at his golden computer, Zangemann was building his little computers into new devices and then selling those."
-msgstr ""
+msgstr "כשלא היה מול מחשב הזהב שלו. זנגמן הרכיב את המחשבים הקטנים שלו לתוך מכשירים חדשים ואז מכר אותם."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "He built washing machines that sent a message to your cell phone when your laundry was done."
-msgstr ""
+msgstr "הוא בנה מכונת כביסה ששולחת הודעות לטלפון שלך כשתהליך הכיבוס הסתיים."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "He made vacuums that played happy music instead of droning loudly."
-msgstr ""
+msgstr "הוא יצר שואבי אבק שהשמיעו מוזיקה שמחה במקום רעש שאיבה מחריש אוזניים."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "He invented light bulbs that turned on and off at the snap of a finger"
-msgstr ""
+msgstr "הוא המציא נורות שנדלקו ונכבו בנקישת אצבעותיו"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "and cars that told you where the nearest grocery store was."
-msgstr ""
+msgstr "ומכוניות שסיפרו היכן נמצא המרכול הקרוב ביותר."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -692,13 +691,12 @@ msgstr "מבט על העיר עם בתים וחנויות, עם רחוב ראש�
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:598
 msgid "Soon, almost every appliance in the world had a Zangemann computer built into it."
-msgstr ""
+msgstr "תוך זמן קצר, כמעט בכל המכשירים בעולם הורכב המחשב של זנגמן."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:598
-#, fuzzy
 msgid "Not all of his inventions seemed necessary at first, but people bought everything he made. That’s just the way it was. Everyone wanted the devices made by Zangemann, the greatest inventor in the world."
-msgstr "תוך זמן קצר, כמעט בכל המכשירים בעולם הורכב המחשב של זנגמן. לא כל ההמצאות שלו נראו הכרחיות בהתחלה, אבל אנשים קנו את כל מה שהוא ייצר. בדיוק כמו שהם. כולם רצו את המכשירים שייצר זנגמן, הממציא הגדול ביותר בעולם."
+msgstr "לא כל ההמצאות שלו נראו הכרחיות בהתחלה, אבל אנשים קנו את כל מה שהוא ייצר. בדיוק כמו שהם. כולם רצו את המכשירים שייצר זנגמן, הממציא הגדול ביותר בעולם."
 
 #. (itstool) path: info/title
 #. Intended as 'on a day', not 'a single day'. This is supposed to be

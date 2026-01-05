@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-04 07:50+0100\n"
+"PO-Revision-Date: 2026-01-05 06:01+0100\n"
 "Last-Translator: Marco Ciampa <ciampix@posteo.net>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/fsfe/ada-zangemann/it/>\n"
 "Language: it\n"
@@ -606,18 +606,17 @@ msgstr "Una ciabatta bianca per la corrente attaccata ad una presa a muro. La ci
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:581
 msgid "Zangemann had a lot of fun pressing the sparkling keys and watching people eat ice cream."
-msgstr ""
+msgstr "Zangemann si divertiva tantissimo a premere i pulsanti scintillanti e guardare la gente mangiare il suo gelato."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:581
 msgid "He spent many hours every day in front of his golden computer doing this."
-msgstr ""
+msgstr "Ogni giorno trascorreva molte ore davanti al suo computer dorato;"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:581
-#, fuzzy
 msgid "Again and again, he looked down on the city through a long telescope, observing how reliably his inventions carried out his commands."
-msgstr "Zangemann si divertiva tantissimo a premere i pulsanti scintillanti e guardare la gente mangiare il suo gelato. Ogni giorno trascorreva molte ore davanti al suo computer dorato; e poi guardava giù, verso la città, con un lungo cannocchiale e ammirava quanto straordinariamente le sue invenzioni eseguissero i suoi comandi."
+msgstr "e poi guardava giù, verso la città, con un lungo cannocchiale e ammirava quanto straordinariamente le sue invenzioni eseguissero i suoi comandi."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -629,27 +628,27 @@ msgstr "Zangeman seduto di fronte al suo computer dorato su una poltrona anch'es
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "When he wasn’t sitting at his golden computer, Zangemann was building his little computers into new devices and then selling those."
-msgstr ""
+msgstr "Quando non era seduto di fronte al suo computer dorato, Zangemann inseriva il suo piccolo computer in nuovi dispositivi e poi li vendeva."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "He built washing machines that sent a message to your cell phone when your laundry was done."
-msgstr ""
+msgstr "Costruì delle lavatrici che inviavano un messaggio sul cellulare quando il bucato era finito,"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "He made vacuums that played happy music instead of droning loudly."
-msgstr ""
+msgstr "aspirapolvere che suonavano musica allegra invece di produrre rumore,"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "He invented light bulbs that turned on and off at the snap of a finger"
-msgstr ""
+msgstr "lampade che si accendevano e si spegnevano con lo schiocco delle dita"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "and cars that told you where the nearest grocery store was."
-msgstr ""
+msgstr "e auto che ti dicevano, mentre stavi guidando, dove si trovava il supermercato più vicino."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -661,13 +660,12 @@ msgstr "Panorama della città con case, palazzi e negozi con una strada centrale
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:598
 msgid "Soon, almost every appliance in the world had a Zangemann computer built into it."
-msgstr ""
+msgstr "Molto presto, venne installato un computer di Zangemann su quasi tutti i dispositivi del mondo."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:598
-#, fuzzy
 msgid "Not all of his inventions seemed necessary at first, but people bought everything he made. That’s just the way it was. Everyone wanted the devices made by Zangemann, the greatest inventor in the world."
-msgstr "Molto presto, venne installato un computer di Zangemann su quasi tutti i dispositivi del mondo. Non tutte le sue invenzioni erano però così utili come avrebbero potuto sembrare a prima vista, ma la gente le comprava comunque. Era semplicemente così. Tutti volevano avere gli strumenti fabbricati da Zangemann, il più grande inventore del mondo."
+msgstr "Non tutte le sue invenzioni erano però così utili come avrebbero potuto sembrare a prima vista, ma la gente le comprava comunque. Era semplicemente così. Tutti volevano avere gli strumenti fabbricati da Zangemann, il più grande inventore del mondo."
 
 #. (itstool) path: info/title
 #. Intended as 'on a day', not 'a single day'. This is supposed to be

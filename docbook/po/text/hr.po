@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-04 07:46+0100\n"
+"PO-Revision-Date: 2026-01-05 05:54+0100\n"
 "Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/fsfe/ada-zangemann/hr/>\n"
 "Language: hr\n"
@@ -561,18 +561,17 @@ msgstr ""
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:581
 msgid "Zangemann had a lot of fun pressing the sparkling keys and watching people eat ice cream."
-msgstr ""
+msgstr "Zangemanna je iznimno zabavljalo pritiskanje svjetlucavih tipki te gledanje ljudi koji jedu sladoled."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:581
 msgid "He spent many hours every day in front of his golden computer doing this."
-msgstr ""
+msgstr "Svakoga je dana provodio mnoge sate ispred svog zlatnog računala to promatrajući."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:581
-#, fuzzy
 msgid "Again and again, he looked down on the city through a long telescope, observing how reliably his inventions carried out his commands."
-msgstr "Zangemanna je iznimno zabavljalo pritiskanje svjetlucavih tipki te gledanje ljudi koji jedu sladoled. Svakoga je dana provodio mnoge sate ispred svog zlatnog računala to promatrajući. Iznova i iznova, gledao bi grad dugačkim teleskopom promatrajući kako njegovi izumi pouzdano izvršavaju njegove naredbe."
+msgstr "Iznova i iznova, gledao bi grad dugačkim teleskopom promatrajući kako njegovi izumi pouzdano izvršavaju njegove naredbe."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -584,27 +583,27 @@ msgstr ""
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "When he wasn’t sitting at his golden computer, Zangemann was building his little computers into new devices and then selling those."
-msgstr ""
+msgstr "Kada nije sjedio za svojim računalom, Zangemann je ugrađivao svoja malena računala u nove uređaje i zatim ih prodavao."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "He built washing machines that sent a message to your cell phone when your laundry was done."
-msgstr ""
+msgstr "Izradio je perilice rublja koje bi slale poruku na mobitel kada bi rublje bilo oprano."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "He made vacuums that played happy music instead of droning loudly."
-msgstr ""
+msgstr "Napravio je usisavače koji su svirali veselu glazbu umjesto glasnog zujanja."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "He invented light bulbs that turned on and off at the snap of a finger"
-msgstr ""
+msgstr "Izumio je žarulje koje se palilo i gasilo pucketanjem prstima"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "and cars that told you where the nearest grocery store was."
-msgstr ""
+msgstr "i automobile koji bi vam rekli gdje se nalazi najbliža trgovina."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -616,13 +615,12 @@ msgstr ""
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:598
 msgid "Soon, almost every appliance in the world had a Zangemann computer built into it."
-msgstr ""
+msgstr "Uskoro su gotovo svi uređaji na svijetu imali ugrađena Zangemannova računala."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:598
-#, fuzzy
 msgid "Not all of his inventions seemed necessary at first, but people bought everything he made. That’s just the way it was. Everyone wanted the devices made by Zangemann, the greatest inventor in the world."
-msgstr "Uskoro su gotovo svi uređaji na svijetu imali ugrađena Zangemannova računala. Na prvi se pogled činilo da nisu svi njegovi izumi osobito potrebni, ali ljudi su kupovali sve što bi izradio. Jednostavno je bilo tako. Svi su željeli imati uređaje koje je napravio Zangemann, najveći izumitelj na svijetu."
+msgstr "Na prvi se pogled činilo da nisu svi njegovi izumi osobito potrebni, ali ljudi su kupovali sve što bi izradio. Jednostavno je bilo tako. Svi su željeli imati uređaje koje je napravio Zangemann, najveći izumitelj na svijetu."
 
 #. (itstool) path: info/title
 #. Intended as 'on a day', not 'a single day'. This is supposed to be

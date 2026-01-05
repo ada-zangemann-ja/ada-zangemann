@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2026-01-04 07:37+0100\n"
+"PO-Revision-Date: 2026-01-04 20:12+0100\n"
 "Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
 "Language-Team: Alemannic <https://hosted.weblate.org/projects/fsfe/ada-zangemann/gsw/>\n"
 "Language: gsw\n"
@@ -565,18 +565,17 @@ msgstr ""
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:581
 msgid "Zangemann had a lot of fun pressing the sparkling keys and watching people eat ice cream."
-msgstr ""
+msgstr "Zengermann hett viel gchbass uff die glensiche knepf zu druge un dlit seen glace ze esse."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:581
 msgid "He spent many hours every day in front of his golden computer doing this."
-msgstr ""
+msgstr "Er vebringt stundelang vor sim goldene computer"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:581
-#, fuzzy
 msgid "Again and again, he looked down on the city through a long telescope, observing how reliably his inventions carried out his commands."
-msgstr "Zengermann hett viel gchbass uff die glensiche knepf zu druge un dlit seen glace ze esse. Er vebringt stundelang vor sim goldene computer un hett blesir dstadt von ove zu beobarde mit sinem lange teleskop. Er fraït sich dass sine maschine im horiche !"
+msgstr "un hett blesir dstadt von ove zu beobarde mit sinem lange teleskop. Er fraït sich dass sine maschine im horiche!"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -588,27 +587,27 @@ msgstr ""
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "When he wasn’t sitting at his golden computer, Zangemann was building his little computers into new devices and then selling those."
-msgstr ""
+msgstr "Wenn er nit am goldenecomputer huckt, beut er andere machine zum verkauf."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "He built washing machines that sent a message to your cell phone when your laundry was done."
-msgstr ""
+msgstr "Er grindet weschmachine wie im hendi angenn wen dwesch verdich isch,"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "He made vacuums that played happy music instead of droning loudly."
-msgstr ""
+msgstr "staübzuger mit scheni musik stad modorkrach,"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "He invented light bulbs that turned on and off at the snap of a finger"
-msgstr ""
+msgstr "lambe wie mit e fingerschnippe an oder uss ken,"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "and cars that told you where the nearest grocery store was."
-msgstr ""
+msgstr "un awe e wawe wie de nägsde supermarket anzeit."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -620,13 +619,12 @@ msgstr ""
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:598
 msgid "Soon, almost every appliance in the world had a Zangemann computer built into it."
-msgstr ""
+msgstr "Bal sin alle apareder durich Zangermann computer komandert gsin."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:598
-#, fuzzy
 msgid "Not all of his inventions seemed necessary at first, but people bought everything he made. That’s just the way it was. Everyone wanted the devices made by Zangemann, the greatest inventor in the world."
-msgstr "Bal sin alle apareder durich Zangermann computer komandert gsin. Es isch nit alles praktisch gsin aver es e so gsin, alli litt velle Zangermanns machine, de gregste erfinder de welt !"
+msgstr "Es isch nit alles praktisch gsin aver es e so gsin, alli litt velle Zangermanns machine, de gregste erfinder de welt !"
 
 #. (itstool) path: info/title
 #. Intended as 'on a day', not 'a single day'. This is supposed to be

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-04 07:32+0100\n"
+"PO-Revision-Date: 2026-01-04 20:06+0100\n"
 "Last-Translator: abbas davarpanah <abbasdp@proton.me>\n"
 "Language-Team: Persian <https://hosted.weblate.org/projects/fsfe/ada-zangemann/fa/>\n"
 "Language: fa\n"
@@ -636,18 +636,17 @@ msgstr "یک محافظ برق سفید که به پریز دیواری متصل
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:581
 msgid "Zangemann had a lot of fun pressing the sparkling keys and watching people eat ice cream."
-msgstr ""
+msgstr "زنگِمن از فشار دادن کلیدهای براق و تماشای مردم در حال بستنی خوردن، لذت زیادی می‌برد."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:581
 msgid "He spent many hours every day in front of his golden computer doing this."
-msgstr ""
+msgstr "او هر روز ساعت‌های زیادی را جلوی کامپیوتر طلایی‌اش صرف این کار می‌کرد."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:581
-#, fuzzy
 msgid "Again and again, he looked down on the city through a long telescope, observing how reliably his inventions carried out his commands."
-msgstr "زنگِمن از فشار دادن کلیدهای براق و تماشای مردم در حال بستنی خوردن، لذت زیادی می‌برد. او هر روز ساعت‌های زیادی را جلوی کامپیوتر طلایی‌اش صرف این کار می‌کرد. او بارها و بارها از طریق یک تلسکوپ بلند به شهر نگاه می‌کرد و مشاهده می‌کرد که اختراعاتش با چه دقتی دستورات او را انجام می‌دهند."
+msgstr "او بارها و بارها از طریق یک تلسکوپ بلند به شهر نگاه می‌کرد و مشاهده می‌کرد که اختراعاتش با چه دقتی دستورات او را انجام می‌دهند."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -659,27 +658,27 @@ msgstr "زنگِمن روی یک صندلی دسته‌دار طلایی با پ
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "When he wasn’t sitting at his golden computer, Zangemann was building his little computers into new devices and then selling those."
-msgstr ""
+msgstr "وقتی زنگِمن پای کامپیوتر طلاییش نمی‌نشست، سرگرم این بود که کامپیوترهای کوچیکش رو توی وسایل جدید جاساز کنه و بعد هم اونا رو بفروشه."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "He built washing machines that sent a message to your cell phone when your laundry was done."
-msgstr ""
+msgstr "مثلاً ماشین لباسشویی ساخت که وقتی لباست شسته می‌شد، یه پیام می‌فرستاد روی گوشیت."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "He made vacuums that played happy music instead of droning loudly."
-msgstr ""
+msgstr "یا جاروبرقی‌هایی درست کرد که به‌جای سر و صدای اعصاب‌خردکن، آهنگای شاد پخش می‌کردن."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "He invented light bulbs that turned on and off at the snap of a finger"
-msgstr ""
+msgstr "حتی لامپایی اختراع کرد که با یه بشکن روشن و خاموش می‌شدن"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "and cars that told you where the nearest grocery store was."
-msgstr ""
+msgstr "و ماشین‌هایی که بهت می‌گفتن نزدیک‌ترین فروشگاه مواد غذایی کجاست."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -691,13 +690,12 @@ msgstr "منظره شهری با خانه‌ها و مغازه‌ها، با ی�
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:598
 msgid "Soon, almost every appliance in the world had a Zangemann computer built into it."
-msgstr ""
+msgstr "تقریباً در هر وسیله‌ای در جهان یک رایانه‌ی زنگِمن استفاده میکرد."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:598
-#, fuzzy
 msgid "Not all of his inventions seemed necessary at first, but people bought everything he made. That’s just the way it was. Everyone wanted the devices made by Zangemann, the greatest inventor in the world."
-msgstr "تقریباً در هر وسیله‌ای در جهان یک رایانه‌ی زنگِمن استفاده میکرد. همه‌ی اختراعات او در ابتدا ضروری به نظر نمی‌رسیدند، اما مردم هر چیزی را که او می‌ساخت می‌خریدند. اوضاع همین‌طور بود. همه دستگاه‌هایی را می‌خواستند که توسط زنگِمن، بزرگ‌ترین مخترع جهان، ساخته شده بود."
+msgstr "همه‌ی اختراعات او در ابتدا ضروری به نظر نمی‌رسیدند، اما مردم هر چیزی را که او می‌ساخت می‌خریدند. اوضاع همین‌طور بود. همه دستگاه‌هایی را می‌خواستند که توسط زنگِمن، بزرگ‌ترین مخترع جهان، ساخته شده بود."
 
 #. (itstool) path: info/title
 #. Intended as 'on a day', not 'a single day'. This is supposed to be

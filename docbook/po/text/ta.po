@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-04 08:10+0100\n"
+"PO-Revision-Date: 2026-01-05 06:27+0100\n"
 "Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
 "Language-Team: Tamil <https://hosted.weblate.org/projects/fsfe/ada-zangemann/ta/>\n"
 "Language: ta\n"
@@ -563,18 +563,17 @@ msgstr "ஒரு சுவர் சாக்கெட்டில் இணை
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:581
 msgid "Zangemann had a lot of fun pressing the sparkling keys and watching people eat ice cream."
-msgstr ""
+msgstr "சாங்கேமன் பிரகாசமான சாவியை அழுத்தி, மக்கள் ஐச்கிரீம் சாப்பிடுவதைப் பார்ப்பது மிகவும் வேடிக்கையாக இருந்தது."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:581
 msgid "He spent many hours every day in front of his golden computer doing this."
-msgstr ""
+msgstr "அவர் தனது கோல்டன் கம்ப்யூட்டருக்கு முன்னால் ஒவ்வொரு நாளும் பல மணி நேரம் செலவிட்டார்."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:581
-#, fuzzy
 msgid "Again and again, he looked down on the city through a long telescope, observing how reliably his inventions carried out his commands."
-msgstr "சாங்கேமன் பிரகாசமான சாவியை அழுத்தி, மக்கள் ஐச்கிரீம் சாப்பிடுவதைப் பார்ப்பது மிகவும் வேடிக்கையாக இருந்தது. அவர் தனது கோல்டன் கம்ப்யூட்டருக்கு முன்னால் ஒவ்வொரு நாளும் பல மணி நேரம் செலவிட்டார். மீண்டும் மீண்டும், அவர் ஒரு நீண்ட தொலைநோக்கி மூலம் நகரத்தை கீழே பார்த்தார், அவரது கண்டுபிடிப்புகள் அவரது கட்டளைகளை எவ்வளவு நம்பத்தகுந்த முறையில் மேற்கொண்டன என்பதைக் கவனித்தார்."
+msgstr "மீண்டும் மீண்டும், அவர் ஒரு நீண்ட தொலைநோக்கி மூலம் நகரத்தை கீழே பார்த்தார், அவரது கண்டுபிடிப்புகள் அவரது கட்டளைகளை எவ்வளவு நம்பத்தகுந்த முறையில் மேற்கொண்டன என்பதைக் கவனித்தார்."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -586,27 +585,29 @@ msgstr "அவர் ஊதா ஆமை-கழுத்து ச்வெட�
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "When he wasn’t sitting at his golden computer, Zangemann was building his little computers into new devices and then selling those."
-msgstr ""
+msgstr "அவர் தனது கோல்டன் கம்ப்யூட்டரில் அமராதபோது, சாங்கேமன் தனது சிறிய கணினிகளை புதிய சாதனங்களாக உருவாக்கி, பின்னர் அவற்றை விற்பனை செய்து கொண்டிருந்தார்."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "He built washing machines that sent a message to your cell phone when your laundry was done."
-msgstr ""
+msgstr "உங்கள் சலவை முடிந்ததும் உங்கள் செல்போனுக்கு ஒரு செய்தியை அனுப்பிய சலவை இயந்திரங்களை அவர் கட்டினார்."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "He made vacuums that played happy music instead of droning loudly."
-msgstr ""
+msgstr "அவர் சத்தமாக நடிப்பதற்குப் பதிலாக மகிழ்ச்சியான இசையை வாசிக்கும் வெற்றிடங்களை உருவாக்கினார்."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
+#, fuzzy
 msgid "He invented light bulbs that turned on and off at the snap of a finger"
-msgstr ""
+msgstr "அவர் ஒரு விரல் மற்றும் கார்களின் புகைப்படத்தில் இயக்கப்பட்ட மற்றும் அணைக்கப்படும்"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
+#, fuzzy
 msgid "and cars that told you where the nearest grocery store was."
-msgstr ""
+msgstr "ஒளி விளக்குகளை கண்டுபிடித்தார், அது அருகிலுள்ள மளிகைக் கடை எங்கே என்று உங்களுக்குச் சொன்னது."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -618,13 +619,12 @@ msgstr "வீடுகள் மற்றும் கடைகளுடன் 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:598
 msgid "Soon, almost every appliance in the world had a Zangemann computer built into it."
-msgstr ""
+msgstr "விரைவில், உலகின் ஒவ்வொரு சாதனத்திலும் ஒரு சாங்கேமன் கணினி கட்டப்பட்டது."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:598
-#, fuzzy
 msgid "Not all of his inventions seemed necessary at first, but people bought everything he made. That’s just the way it was. Everyone wanted the devices made by Zangemann, the greatest inventor in the world."
-msgstr "விரைவில், உலகின் ஒவ்வொரு சாதனத்திலும் ஒரு சாங்கேமன் கணினி கட்டப்பட்டது. அவரது கண்டுபிடிப்புகள் அனைத்தும் முதலில் அவசியமில்லை என்று தோன்றவில்லை, ஆனால் மக்கள் அவர் செய்த அனைத்தையும் வாங்கினர். அது அப்படியே இருந்தது. உலகின் மிகப் பெரிய கண்டுபிடிப்பாளரான சாங்கேமன் தயாரித்த சாதனங்களை எல்லோரும் விரும்பினர்."
+msgstr "அவரது கண்டுபிடிப்புகள் அனைத்தும் முதலில் அவசியமில்லை என்று தோன்றவில்லை, ஆனால் மக்கள் அவர் செய்த அனைத்தையும் வாங்கினர். அது அப்படியே இருந்தது. உலகின் மிகப் பெரிய கண்டுபிடிப்பாளரான சாங்கேமன் தயாரித்த சாதனங்களை எல்லோரும் விரும்பினர்."
 
 #. (itstool) path: info/title
 #. Intended as 'on a day', not 'a single day'. This is supposed to be

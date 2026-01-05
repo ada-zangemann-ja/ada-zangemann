@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-04 07:25+0100\n"
+"PO-Revision-Date: 2026-01-04 19:57+0100\n"
 "Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
 "Language-Team: Greek <https://hosted.weblate.org/projects/fsfe/ada-zangemann/el/>\n"
 "Language: el\n"
@@ -739,19 +739,21 @@ msgstr ""
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:581
+#, fuzzy
 msgid "Zangemann had a lot of fun pressing the sparkling keys and watching people eat ice cream."
-msgstr ""
+msgstr "Ο Ζάνγκεμαν ευχαριστιόταν πολύ να πατάει τα αστραφτερά πλήκτρα και να βλέπει τους ανθρώπους να τρώνε παγωτό."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:581
+#, fuzzy
 msgid "He spent many hours every day in front of his golden computer doing this."
-msgstr ""
+msgstr "Περνούσε πολλές ώρες κάθε μέρα μπροστά στον χρυσό υπολογιστή του."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:581
 #, fuzzy
 msgid "Again and again, he looked down on the city through a long telescope, observing how reliably his inventions carried out his commands."
-msgstr "Ο Ζάνγκεμαν ευχαριστιόταν πολύ να πατάει τα αστραφτερά πλήκτρα και να βλέπει τους ανθρώπους να τρώνε παγωτό. Περνούσε πολλές ώρες κάθε μέρα μπροστά στον χρυσό υπολογιστή του. Ξανά και ξανά κοίταζε την πόλη μέσα από ένα μεγάλο τηλεσκόπιο και παρατηρούσε πόσο αξιόπιστα οι εφευρέσεις του εκτελούσαν τις εντολές του."
+msgstr "Ξανά και ξανά κοίταζε την πόλη μέσα από ένα μεγάλο τηλεσκόπιο και παρατηρούσε πόσο αξιόπιστα οι εφευρέσεις του εκτελούσαν τις εντολές του."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -762,28 +764,33 @@ msgstr ""
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
+#, fuzzy
 msgid "When he wasn’t sitting at his golden computer, Zangemann was building his little computers into new devices and then selling those."
-msgstr ""
+msgstr "Όταν δεν καθότανε στον χρυσό του υπολογιστή, ο Ζάνγκερμαν έβαζε τους μικρούς του υπολογιστές σε νέες συσκευές και στη συνέχεια τις πουλούσε."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
+#, fuzzy
 msgid "He built washing machines that sent a message to your cell phone when your laundry was done."
-msgstr ""
+msgstr "Κατασκέυασε πλυντήρια ρούχων τα οποία έστελναν μήνυμα στο κινητό σου όταν τελείωναν την πλύση."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
+#, fuzzy
 msgid "He made vacuums that played happy music instead of droning loudly."
-msgstr ""
+msgstr "Έφτιαξε σκούπες που παίζανε χαρούμενη μουσική αντί να βγάζουν βουητό."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
+#, fuzzy
 msgid "He invented light bulbs that turned on and off at the snap of a finger"
-msgstr ""
+msgstr "Ανακάλυψε λαμπτήρες που άναβαν και έσβηναν με το χτύπημα των δαχτύλων"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
+#, fuzzy
 msgid "and cars that told you where the nearest grocery store was."
-msgstr ""
+msgstr "και αυτοκίνητα που σου έλεγαν που είναι το πιο κοντινό σούπερ μάρκετ."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -794,14 +801,15 @@ msgstr ""
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:598
+#, fuzzy
 msgid "Soon, almost every appliance in the world had a Zangemann computer built into it."
-msgstr ""
+msgstr "Σύντομα κάθε οικιακή συσκευή στον κόσμο είχε έναν υπολογιστή του Ζάνγκερμαν."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:598
 #, fuzzy
 msgid "Not all of his inventions seemed necessary at first, but people bought everything he made. That’s just the way it was. Everyone wanted the devices made by Zangemann, the greatest inventor in the world."
-msgstr "Σύντομα κάθε οικιακή συσκευή στον κόσμο είχε έναν υπολογιστή του Ζάνγκερμαν. Κάποιες από τις εφευρέσεις του δεν φαίνονταν πολύ χρήσιμες στην αρχή αλλά οι άνθρωποι αγόραζαν οτιδήποτε έφτιαχνε. Έτσι ήταν τα πράγματα. Όλοι θέλανε τις συσκευές του Ζάνγκερμαν, του μεγαλύτερου εφευρέτη στον κόσμο."
+msgstr "Κάποιες από τις εφευρέσεις του δεν φαίνονταν πολύ χρήσιμες στην αρχή αλλά οι άνθρωποι αγόραζαν οτιδήποτε έφτιαχνε. Έτσι ήταν τα πράγματα. Όλοι θέλανε τις συσκευές του Ζάνγκερμαν, του μεγαλύτερου εφευρέτη στον κόσμο."
 
 #. (itstool) path: info/title
 #. Intended as 'on a day', not 'a single day'. This is supposed to be

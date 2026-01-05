@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-04 08:05+0100\n"
+"PO-Revision-Date: 2026-01-05 06:20+0100\n"
 "Last-Translator: Pavol Bezak <bezakp@gmail.com>\n"
 "Language-Team: Slovak <https://hosted.weblate.org/projects/fsfe/ada-zangemann/sk/>\n"
 "Language: sk\n"
@@ -563,18 +563,17 @@ msgstr ""
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:581
 msgid "Zangemann had a lot of fun pressing the sparkling keys and watching people eat ice cream."
-msgstr ""
+msgstr "Zangemanna veľmi bavilo stláčať klávesy a pozerať sa na ľudí pri jedení zmrzliny."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:581
 msgid "He spent many hours every day in front of his golden computer doing this."
-msgstr ""
+msgstr "Každý deň takto strávil veľa hodín pri svojom zlatom počítači."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:581
-#, fuzzy
 msgid "Again and again, he looked down on the city through a long telescope, observing how reliably his inventions carried out his commands."
-msgstr "Zangemanna veľmi bavilo stláčať klávesy a pozerať sa na ľudí pri jedení zmrzliny. Každý deň takto strávil veľa hodín pri svojom zlatom počítači. A neustále sa na mesto pozeral dlhým teleskopom. Pozoroval, ako jeho vynálezy spoľahlivo vykonávajú jeho príkazy."
+msgstr "A neustále sa na mesto pozeral dlhým teleskopom. Pozoroval, ako jeho vynálezy spoľahlivo vykonávajú jeho príkazy."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -586,27 +585,27 @@ msgstr ""
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "When he wasn’t sitting at his golden computer, Zangemann was building his little computers into new devices and then selling those."
-msgstr ""
+msgstr "Keď nesedel pri svojom zlatom počítači, pridával Zangemann počítače do stále nových prístrojov a potom ich predával."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "He built washing machines that sent a message to your cell phone when your laundry was done."
-msgstr ""
+msgstr "Postavil práčku, ktorá poslala správu do mobilu, keď doprala."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "He made vacuums that played happy music instead of droning loudly."
-msgstr ""
+msgstr "Vysávače, ktoré namiesto hluku hrali veselú hudbu."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "He invented light bulbs that turned on and off at the snap of a finger"
-msgstr ""
+msgstr "Lampy, ktoré zapnete alebo vypnete lusknutím prstov."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "and cars that told you where the nearest grocery store was."
-msgstr ""
+msgstr "A autá, ktoré pri jazde povedali, kde je najbližší supermarket."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -618,13 +617,12 @@ msgstr ""
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:598
 msgid "Soon, almost every appliance in the world had a Zangemann computer built into it."
-msgstr ""
+msgstr "Čoskoro boli počítače od Zangemanna zabudované do takmer všetkých zariadení."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:598
-#, fuzzy
 msgid "Not all of his inventions seemed necessary at first, but people bought everything he made. That’s just the way it was. Everyone wanted the devices made by Zangemann, the greatest inventor in the world."
-msgstr "Čoskoro boli počítače od Zangemanna zabudované do takmer všetkých zariadení. Nie všetky vynálezy boli také praktické, ako sa na prvý pohľad zdali. Ale ľudia od neho kupovali všetko. Jednoducho všetci chceli prístroje od Zangemanna. Od najväčšieho vynálezcu sveta."
+msgstr "Nie všetky vynálezy boli také praktické, ako sa na prvý pohľad zdali. Ale ľudia od neho kupovali všetko. Jednoducho všetci chceli prístroje od Zangemanna. Od najväčšieho vynálezcu sveta."
 
 #. (itstool) path: info/title
 #. Intended as 'on a day', not 'a single day'. This is supposed to be

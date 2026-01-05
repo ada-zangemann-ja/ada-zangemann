@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-04 07:26+0100\n"
+"PO-Revision-Date: 2026-01-04 19:59+0100\n"
 "Last-Translator: Marco Ciampa <ciampix@posteo.net>\n"
 "Language-Team: Esperanto <https://hosted.weblate.org/projects/fsfe/ada-zangemann/eo/>\n"
 "Language: eo\n"
@@ -612,18 +612,17 @@ msgstr "Blanka multobla ŝtopilingo konektita al mura ŝtopilingo. La multobla �
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:581
 msgid "Zangemann had a lot of fun pressing the sparkling keys and watching people eat ice cream."
-msgstr ""
+msgstr "Zangemann multe amuziĝis premante la brilantajn klavojn kaj rigardante homojn manĝi glaciaĵon."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:581
 msgid "He spent many hours every day in front of his golden computer doing this."
-msgstr ""
+msgstr "Li pasigis multajn horojn ĉiutage antaŭ sia ora komputilo farante tion."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:581
-#, fuzzy
 msgid "Again and again, he looked down on the city through a long telescope, observing how reliably his inventions carried out his commands."
-msgstr "Zangemann multe amuziĝis premante la brilantajn klavojn kaj rigardante homojn manĝi glaciaĵon. Li pasigis multajn horojn ĉiutage antaŭ sia ora komputilo farante tion. Denove kaj denove, li rigardis malsupren al la urbo per longa teleskopo, observante kiel fidinde liaj inventaĵoj plenumis liajn komandojn."
+msgstr "Denove kaj denove, li rigardis malsupren al la urbo per longa teleskopo, observante kiel fidinde liaj inventaĵoj plenumis liajn komandojn."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -635,27 +634,27 @@ msgstr "Zangeman sidas antaŭ sia ora komputilo sur ora brakseĝo kun tre alta r
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "When he wasn’t sitting at his golden computer, Zangemann was building his little computers into new devices and then selling those."
-msgstr ""
+msgstr "Kiam li ne sidis ĉe sia ora komputilo, Zangemann konstruis siajn malgrandajn komputilojn en novajn aparatojn kaj poste vendis ilin."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "He built washing machines that sent a message to your cell phone when your laundry was done."
-msgstr ""
+msgstr "Li konstruis lavmaŝinojn, kiuj sendis mesaĝon al via poŝtelefono kiam la lavado estas farita."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "He made vacuums that played happy music instead of droning loudly."
-msgstr ""
+msgstr "Li faris polvosuĉilojn, kiuj ludis ĝojan muzikon anstataŭ zumi laŭte."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "He invented light bulbs that turned on and off at the snap of a finger"
-msgstr ""
+msgstr "Li inventis ampolojn, kiuj ŝaltiĝas kaj malŝaltiĝas per fingroklako"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "and cars that told you where the nearest grocery store was."
-msgstr ""
+msgstr "kaj aŭtojn, kiuj indikas, kie estas la plej proksima nutraĵvendejo."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -667,13 +666,12 @@ msgstr "Urba pejzaĝo kun domoj kaj butikoj, kun centra strato turniĝanta dekst
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:598
 msgid "Soon, almost every appliance in the world had a Zangemann computer built into it."
-msgstr ""
+msgstr "Baldaŭ, preskaŭ ĉiu aparato en la mondo havis enkonstruitan Zangemann-an komputilon."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:598
-#, fuzzy
 msgid "Not all of his inventions seemed necessary at first, but people bought everything he made. That’s just the way it was. Everyone wanted the devices made by Zangemann, the greatest inventor in the world."
-msgstr "Baldaŭ, preskaŭ ĉiu aparato en la mondo havis enkonstruitan Zangemann-an komputilon. Ne ĉiuj liaj inventaĵoj ŝajnis necesaj komence, sed homoj aĉetis ĉion, kion li faris. Tiel estis. Ĉiuj volis la aparatojn faritajn de Zangemann, la plej granda inventinto en la mondo."
+msgstr "Ne ĉiuj liaj inventaĵoj ŝajnis necesaj komence, sed homoj aĉetis ĉion, kion li faris. Tiel estis. Ĉiuj volis la aparatojn faritajn de Zangemann, la plej granda inventinto en la mondo."
 
 #. (itstool) path: info/title
 #. Intended as 'on a day', not 'a single day'. This is supposed to be

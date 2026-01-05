@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-04 07:22+0100\n"
+"PO-Revision-Date: 2026-01-04 19:49+0100\n"
 "Last-Translator: Øjvind Fritjof Arnfred <fritjof@mencagli-arnfred.dk>\n"
 "Language-Team: Danish <https://hosted.weblate.org/projects/fsfe/ada-zangemann/da/>\n"
 "Language: da\n"
@@ -564,18 +564,17 @@ msgstr ""
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:581
 msgid "Zangemann had a lot of fun pressing the sparkling keys and watching people eat ice cream."
-msgstr ""
+msgstr "Zangemann havde det sjovt med at trykke på de skinnende knapper og se folk spise is."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:581
 msgid "He spent many hours every day in front of his golden computer doing this."
-msgstr ""
+msgstr "Hver dag brugte han mange timer på det foran sin gyldne computer."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:581
-#, fuzzy
 msgid "Again and again, he looked down on the city through a long telescope, observing how reliably his inventions carried out his commands."
-msgstr "Zangemann havde det sjovt med at trykke på de skinnende knapper og se folk spise is. Hver dag brugte han mange timer på det foran sin gyldne computer. Igen og igen kiggede han ned på byen igennem et langt teleskop og så, hvor trofast hans opfindelser udførte de ordrer, han gav dem."
+msgstr "Igen og igen kiggede han ned på byen igennem et langt teleskop og så, hvor trofast hans opfindelser udførte de ordrer, han gav dem."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -587,27 +586,27 @@ msgstr ""
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "When he wasn’t sitting at his golden computer, Zangemann was building his little computers into new devices and then selling those."
-msgstr ""
+msgstr "Når han ikke sad ved sin gyldne computer, byggede Zangemann sine små computere ind i nye ting, og så solgte han dem."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "He built washing machines that sent a message to your cell phone when your laundry was done."
-msgstr ""
+msgstr "Han byggede vaskemaskiner, der sendte en besked til din mobiltelefon,"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "He made vacuums that played happy music instead of droning loudly."
-msgstr ""
+msgstr "når din vask var færdig, støvsugere der spillede musik i stedet for at brumme højlydt,"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "He invented light bulbs that turned on and off at the snap of a finger"
-msgstr ""
+msgstr "elpærer der tændte og slukkede, når man knipsede med fingrene"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "and cars that told you where the nearest grocery store was."
-msgstr ""
+msgstr "og biler, der kunne fortælle dig, hvor det nærmeste supermarked lå."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -619,13 +618,12 @@ msgstr ""
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:598
 msgid "Soon, almost every appliance in the world had a Zangemann computer built into it."
-msgstr ""
+msgstr "Snart var der en Zangemann-computer i næsten hvert eneste elektroniske apparat i hele verden."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:598
-#, fuzzy
 msgid "Not all of his inventions seemed necessary at first, but people bought everything he made. That’s just the way it was. Everyone wanted the devices made by Zangemann, the greatest inventor in the world."
-msgstr "Snart var der en Zangemann-computer i næsten hvert eneste elektroniske apparat i hele verden. Det var ikke alle hans opfindelser der virkede helt nødvendige til at begynde med, men folk købte alt, hvad han lavede. Det var bare sådan det var. Alle ville have de apparater, som Zangemann, den største opfinder i verden, lavede."
+msgstr "Det var ikke alle hans opfindelser der virkede helt nødvendige til at begynde med, men folk købte alt, hvad han lavede. Det var bare sådan det var. Alle ville have de apparater, som Zangemann, den største opfinder i verden, lavede."
 
 #. (itstool) path: info/title
 #. Intended as 'on a day', not 'a single day'. This is supposed to be
