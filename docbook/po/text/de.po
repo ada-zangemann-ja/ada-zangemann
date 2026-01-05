@@ -632,9 +632,15 @@ msgstr "Nicht alle Erfindungen waren so praktisch, wie sie auf den ersten Blick 
 msgid "One day..."
 msgstr ""
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:606
-msgid "One day Zangemann thought, “Today I want to see my inventions up close.” He put away his big telescope, then climbed down the many stairs of his mansion and ventured out into the city, full of anticipation at the thought of enjoying his cool devices."
+msgid "One day Zangemann thought, “Today I want to see my inventions up close.”"
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:606
+#, fuzzy
+msgid "He put away his big telescope, then climbed down the many stairs of his mansion and ventured out into the city, full of anticipation at the thought of enjoying his cool devices."
 msgstr "Eines Tages dachte Zangemann: »Heute will ich mir meine Erfindungen mal ganz aus der Nähe anschauen!« Er legte sein großes Fernrohr weg und stieg voller Vorfreude die vielen Treppen hinab in die Stadt, um sich an seinen tollen Geräten zu erfreuen."
 
 #. (itstool) path: mediaobject/alt
@@ -644,9 +650,16 @@ msgstr "Eines Tages dachte Zangemann: »Heute will ich mir meine Erfindungen mal
 msgid "Zangemann descends the stairs from his mansion on the hill towards the city. Zangemann’s house stands on a hill. The front is blue with large windows; the towers are dark blue, and from a window starts a yellow slide that ends in a large swimming pool with two palm trees. The roofs are red, and above the highest tower an antenna is installed. On the sides of the stairs to get off the hill there are evergreen trees."
 msgstr ""
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:615
-msgid "“Maybe a little trip might even give me a few new ideas. If I’m completely honest, my last inventions weren’t quite as useful as the first ones... ,” Zangemann pondered. “But my ice-cream machines are and will remain second to none,” he thought immediately afterward, and not without pride, as he passed a group of people all eating coconut ice cream, the flavor of the day."
+#, fuzzy
+msgid "“Maybe a little trip might even give me a few new ideas. If I’m completely honest, my last inventions weren’t quite as useful as the first ones... ,” Zangemann pondered."
+msgstr "»Vielleicht bringt mich ein kleiner Ausflug sogar auf ein paar neue Ideen. Denn wenn ich ganz ehrlich bin, waren meine letzten Erfindungen nicht mehr ganz so praktisch wie die ersten ...«, überlegte Zangemann. »Aber meine Eismaschinen sind und bleiben unübertroffen«, dachte er gleich darauf nicht ohne Stolz, als er an einer Gruppe von Menschen vorbeikam, die allesamt Kokoseis schleckten – die Sorte des Tages."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:615
+#, fuzzy
+msgid "“But my ice-cream machines are and will remain second to none,” he thought immediately afterward, and not without pride, as he passed a group of people all eating coconut ice cream, the flavor of the day."
 msgstr "»Vielleicht bringt mich ein kleiner Ausflug sogar auf ein paar neue Ideen. Denn wenn ich ganz ehrlich bin, waren meine letzten Erfindungen nicht mehr ganz so praktisch wie die ersten ...«, überlegte Zangemann. »Aber meine Eismaschinen sind und bleiben unübertroffen«, dachte er gleich darauf nicht ohne Stolz, als er an einer Gruppe von Menschen vorbeikam, die allesamt Kokoseis schleckten – die Sorte des Tages."
 
 #. (itstool) path: para/phrase
@@ -661,15 +674,36 @@ msgstr "Er war ganz in seine Gedanken vertieft, als ihm plötzlich – RUMS! –
 msgid "Zangemann after the incident with the child. Zangemann screams from pain while holding up one of his legs with both hands at the shin. The child has brown hair that is blown back by Zangemann’s scream; he is wearing a light blue hooded sweatshirt and dark green pants. He holds a red Zangemann electric skateboard."
 msgstr ""
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:626
-msgid "Zangemann yelped and looked around for the cause. A startled child stood in front of him, holding an original Zangemann skateboard under his arm. “Sorry, I didn’t mean to do that,” the child stammered, but Zangemann wasn’t listening."
+#, fuzzy
+msgid "Zangemann yelped and looked around for the cause. A startled child stood in front of him, holding an original Zangemann skateboard under his arm."
 msgstr "Zangemann jaulte auf und sah sich um. Vor ihm stand ein Kind – total erschrocken und mit einem Original-Zangemann-Skateboard unterm Arm. »Entschuldigung, das wollte ich nicht«, stammelte es, aber Zangemann hörte nicht zu."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:626
+msgid "“Sorry, I didn’t mean to do that,” the child stammered, but Zangemann wasn’t listening."
+msgstr ""
+
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:627
-msgid "An angry Zangemann limped away. Suddenly, he heard loud music. He had never before heard something so horrible. He looked around and saw that the music was coming from a loudspeaker he himself had constructed. A child across the street was holding it. The child seemed to like the music, but it gave Zangemann a terrible headache, and his mood worsened. This was not how he had imagined his walk!"
-msgstr "Wütend humpelte Zangemann davon. Da ertönte plötzlich laute Musik. So etwas Grauenhaftes hatte er noch nie gehört. Er schaute sich um und sah, dass die Musik aus einem Lautsprecher kam, den er selbst entwickelt hatte. Ein Kind auf der anderen Straßenseite hielt ihn in der Hand. Dem Kind schien die Musik zu gefallen, aber Zangemann bekam davon fürchterliche Kopfschmerzen, und seine Laune wurde noch schlechter. So hatte er sich seinen Spaziergang nicht vorgestellt!"
+msgid "An angry Zangemann limped away. Suddenly, he heard loud music. He had never before heard something so horrible."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:627
+msgid "He looked around and saw that the music was coming from a loudspeaker he himself had constructed."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:627
+msgid "A child across the street was holding it. The child seemed to like the music, but it gave Zangemann a terrible headache, and his mood worsened."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:627
+msgid "This was not how he had imagined his walk!"
+msgstr ""
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -678,10 +712,20 @@ msgstr "Wütend humpelte Zangemann davon. Da ertönte plötzlich laute Musik. So
 msgid "Advertisements for Zangemann ice cream (sandwich board), a Zangemann electric skateboard, and a Zangemann washing machine. The math teacher, Ms. Gernet, is passing in front of the billboards. Ms. Gernet is an old lady with short white hair. She is dressed in a light green t-shirt and a pea green sweater, dark brown pants, and light green heeled shoes. She has a fuchsia shoulder bag, worn behind her. She pushes a small shopping cart in which there is a small brown dog with a collar and tag."
 msgstr ""
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:637
-msgid "Zangemann was so furious with the two children. How dare they use his inventions this way? That night, he couldn’t sleep, so he sat down at his golden computer. From there, he gave all the little computers in the skateboards a command that they were no longer allowed to go on sidewalks. He ordered the small computers in the speakers to play music only at a low volume, except for his favorite music, which he immediately turned on to get into a better mood."
-msgstr "Zangemann ärgerte sich wahnsinnig über die Kinder: Wie konnten sie seine Erfindungen nur so falsch verwenden! Er konnte nicht schlafen und setzte sich mitten in der Nacht an seinen goldenen Computer. Von dort gab er all den Minicomputern in den Skateboards den Befehl, dass sie nicht mehr auf Gehwegen fahren durften. Den kleinen Computern in den Lautsprechern befahl er, Musik nur noch in Zimmerlautstärke abzuspielen – mit Ausnahme seiner Lieblingsmusik, die er gleich anstellte, um bessere Laune zu bekommen."
+msgid "Zangemann was so furious with the two children. How dare they use his inventions this way? That night, he couldn’t sleep, so he sat down at his golden computer."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:637
+msgid "From there, he gave all the little computers in the skateboards a command that they were no longer allowed to go on sidewalks."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:637
+msgid "He ordered the small computers in the speakers to play music only at a low volume, except for his favorite music, which he immediately turned on to get into a better mood."
+msgstr ""
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -702,11 +746,16 @@ msgstr ""
 msgid "Skateboards no longer work"
 msgstr ""
 
-#. (itstool) path: simplesect/para
-#. (itstool) id: Ada_Zangemann.dbk#para-p18-1
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:660
-msgid "The next day, there was a big commotion at Ada’s school. On the way to school, the kids’ skateboards had stopped working. The wheels simply stood still. And the children could no longer turn up the volume on their speakers. What was going on?"
+#, fuzzy
+msgid "The next day, there was a big commotion at Ada’s school. On the way to school, the kids’ skateboards had stopped working. The wheels simply stood still."
 msgstr "Am nächsten Tag herrschte an Adas Schule große Aufregung. Auf dem Schulweg hatten die Skateboards nicht mehr funktioniert. Die Räder standen einfach still. Und dann die Lautsprecher – die Kinder konnten sie nicht mehr aufdrehen. Was war bloß los?"
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:660
+msgid "And the children could no longer turn up the volume on their speakers. What was going on?"
+msgstr ""
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -715,10 +764,25 @@ msgstr "Am nächsten Tag herrschte an Adas Schule große Aufregung. Auf dem Schu
 msgid "Five kids from the school who can’t make skateboards work. Two girls wear helmets, respectively blue and red. A little girl with brown hair tied in two tails with yellow rubber bands is kneeling. She is trying to understand why the skateboard of her friend with the red helmet does not work. Four children have backpacks on their shoulders, while the little girl with the red helmet left hers leaning on a bench on which there are a yellow apple and a light blue bottle with a white flower on it."
 msgstr ""
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:669
-msgid "Although she didn’t own any of these things, Ada wondered why the skateboards and the speakers suddenly stopped working. But she didn’t really have time to think much about it, because she was tinkering again. She put together a complete bicycle from the parts of three broken bicycles. She gave the bicycle to her mother as a present so that she wouldn’t have to spend her money on bus tickets to work. For her brother, Ada built a loudspeaker so he could fall asleep to nice stories in the evenings when their mother was still at work."
-msgstr "Obwohl sie keins dieser Dinge besaß, wunderte sich Ada darüber, dass die Skateboards und die Lautsprecher plötzlich nicht mehr wie vorher funktionierten. Aber sie hatte keine Zeit, um groß darüber nachzudenken, denn sie tüftelte schon wieder. Aus den Einzelteilen von drei kaputten Fahrrädern baute sie ein neues Fahrrad zusammen. Das schenkte sie ihrer Mutter, damit sie das Geld für das Busticket zur Arbeit sparen konnte. Ihrem Bruder baute Ada einen Lautsprecher, damit er abends zum Einschlafen, wenn ihre Mutter noch nicht von der Arbeit zurück war, schöne Geschichten hören konnte."
+msgid "Although she didn’t own any of these things, Ada wondered why the skateboards and the speakers suddenly stopped working."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:669
+msgid "But she didn’t really have time to think much about it, because she was tinkering again."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:669
+msgid "She put together a complete bicycle from the parts of three broken bicycles. She gave the bicycle to her mother as a present so that she wouldn’t have to spend her money on bus tickets to work."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:669
+msgid "For her brother, Ada built a loudspeaker so he could fall asleep to nice stories in the evenings when their mother was still at work."
+msgstr ""
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -727,10 +791,20 @@ msgstr "Obwohl sie keins dieser Dinge besaß, wunderte sich Ada darüber, dass d
 msgid "Close-up of Ada thoughtful, with a backpack and with one hand on her chin and the other resting on her side."
 msgstr ""
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:677
-msgid "After a few days, the initial shock at Ada’s school was forgotten. The skateboards still didn’t go on the sidewalk, but apart from that, they still worked. And so now the children rode in circles around the playground and listened to soft music. Only a strange, pompous marching music continued to play at an unchanged volume, which the children found rather puzzling."
-msgstr "Nach ein paar Tagen war der erste Schreck an Adas Schule vergessen. Die Skateboards fuhren zwar nicht mehr auf dem Gehweg, aber abgesehen davon funktionierten sie noch. Und so drehten die Kinder jetzt auf dem Schulhof ihre Kreise und hörten dabei leise Musik. Nur eine komische pompöse Marschmusik ertönte weiter in unveränderter Lautstärke – ziemlich rätselhaft."
+msgid "After a few days, the initial shock at Ada’s school was forgotten. The skateboards still didn’t go on the sidewalk, but apart from that, they still worked."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:677
+msgid "And so now the children rode in circles around the playground and listened to soft music."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:677
+msgid "Only a strange, pompous marching music continued to play at an unchanged volume, which the children found rather puzzling."
+msgstr ""
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:682
@@ -1381,3 +1455,15 @@ msgstr "Lass dir ein paar leckere, lustige oder verrückte Eissorten einfallen u
 #: Ada_Zangemann.dbk:1139
 msgid "Three hands that hold as many empty ice cream cones, to draw and color. In the air above the middle cone is an umbrella."
 msgstr ""
+
+#~ msgid "An angry Zangemann limped away. Suddenly, he heard loud music. He had never before heard something so horrible. He looked around and saw that the music was coming from a loudspeaker he himself had constructed. A child across the street was holding it. The child seemed to like the music, but it gave Zangemann a terrible headache, and his mood worsened. This was not how he had imagined his walk!"
+#~ msgstr "Wütend humpelte Zangemann davon. Da ertönte plötzlich laute Musik. So etwas Grauenhaftes hatte er noch nie gehört. Er schaute sich um und sah, dass die Musik aus einem Lautsprecher kam, den er selbst entwickelt hatte. Ein Kind auf der anderen Straßenseite hielt ihn in der Hand. Dem Kind schien die Musik zu gefallen, aber Zangemann bekam davon fürchterliche Kopfschmerzen, und seine Laune wurde noch schlechter. So hatte er sich seinen Spaziergang nicht vorgestellt!"
+
+#~ msgid "Zangemann was so furious with the two children. How dare they use his inventions this way? That night, he couldn’t sleep, so he sat down at his golden computer. From there, he gave all the little computers in the skateboards a command that they were no longer allowed to go on sidewalks. He ordered the small computers in the speakers to play music only at a low volume, except for his favorite music, which he immediately turned on to get into a better mood."
+#~ msgstr "Zangemann ärgerte sich wahnsinnig über die Kinder: Wie konnten sie seine Erfindungen nur so falsch verwenden! Er konnte nicht schlafen und setzte sich mitten in der Nacht an seinen goldenen Computer. Von dort gab er all den Minicomputern in den Skateboards den Befehl, dass sie nicht mehr auf Gehwegen fahren durften. Den kleinen Computern in den Lautsprechern befahl er, Musik nur noch in Zimmerlautstärke abzuspielen – mit Ausnahme seiner Lieblingsmusik, die er gleich anstellte, um bessere Laune zu bekommen."
+
+#~ msgid "Although she didn’t own any of these things, Ada wondered why the skateboards and the speakers suddenly stopped working. But she didn’t really have time to think much about it, because she was tinkering again. She put together a complete bicycle from the parts of three broken bicycles. She gave the bicycle to her mother as a present so that she wouldn’t have to spend her money on bus tickets to work. For her brother, Ada built a loudspeaker so he could fall asleep to nice stories in the evenings when their mother was still at work."
+#~ msgstr "Obwohl sie keins dieser Dinge besaß, wunderte sich Ada darüber, dass die Skateboards und die Lautsprecher plötzlich nicht mehr wie vorher funktionierten. Aber sie hatte keine Zeit, um groß darüber nachzudenken, denn sie tüftelte schon wieder. Aus den Einzelteilen von drei kaputten Fahrrädern baute sie ein neues Fahrrad zusammen. Das schenkte sie ihrer Mutter, damit sie das Geld für das Busticket zur Arbeit sparen konnte. Ihrem Bruder baute Ada einen Lautsprecher, damit er abends zum Einschlafen, wenn ihre Mutter noch nicht von der Arbeit zurück war, schöne Geschichten hören konnte."
+
+#~ msgid "After a few days, the initial shock at Ada’s school was forgotten. The skateboards still didn’t go on the sidewalk, but apart from that, they still worked. And so now the children rode in circles around the playground and listened to soft music. Only a strange, pompous marching music continued to play at an unchanged volume, which the children found rather puzzling."
+#~ msgstr "Nach ein paar Tagen war der erste Schreck an Adas Schule vergessen. Die Skateboards fuhren zwar nicht mehr auf dem Gehweg, aber abgesehen davon funktionierten sie noch. Und so drehten die Kinder jetzt auf dem Schulhof ihre Kreise und hörten dabei leise Musik. Nur eine komische pompöse Marschmusik ertönte weiter in unveränderter Lautstärke – ziemlich rätselhaft."

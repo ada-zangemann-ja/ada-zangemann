@@ -704,9 +704,15 @@ msgstr "Tidak semua penemuannya tampak diperlukan pada awalnya, tetapi orang-ora
 msgid "One day..."
 msgstr "Suatu hari..."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:606
-msgid "One day Zangemann thought, “Today I want to see my inventions up close.” He put away his big telescope, then climbed down the many stairs of his mansion and ventured out into the city, full of anticipation at the thought of enjoying his cool devices."
+msgid "One day Zangemann thought, “Today I want to see my inventions up close.”"
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:606
+#, fuzzy
+msgid "He put away his big telescope, then climbed down the many stairs of his mansion and ventured out into the city, full of anticipation at the thought of enjoying his cool devices."
 msgstr "Suatu hari Zangemann berpikir, “Hari ini aku ingin melihat penemuanku dari dekat.” Ia menyimpan teleskop besarnya, lalu menuruni banyak tangga di rumah megahnya dan memberanikan diri pergi ke kota, penuh antisipasi membayangkan menikmati perangkat-perangkat kerennya."
 
 #. (itstool) path: mediaobject/alt
@@ -716,9 +722,16 @@ msgstr "Suatu hari Zangemann berpikir, “Hari ini aku ingin melihat penemuanku 
 msgid "Zangemann descends the stairs from his mansion on the hill towards the city. Zangemann’s house stands on a hill. The front is blue with large windows; the towers are dark blue, and from a window starts a yellow slide that ends in a large swimming pool with two palm trees. The roofs are red, and above the highest tower an antenna is installed. On the sides of the stairs to get off the hill there are evergreen trees."
 msgstr "Bapak Zangemann menuruni tangga dari rumahnya di atas bukit menuju kota. Rumah Bapak Zangemann berdiri tegak di atas bukit. Bagian depannya berwarna biru dengan jendela-jendela berukuran besar; menara-menaranya berwarna biru tua, dan dari sebuah jendela terdapat perosotan berwarna kuning yang terhubung ke kolam renang besar di bawah yang dilengkapi dengan dua buah pohon palem. Atapnya berwarna merah, dan di atas menara tertinggi terdapat antena. Di sisi-sisi tangga untuk menuruni bukit terdapat pepohonan hijau yang rimbun."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:615
-msgid "“Maybe a little trip might even give me a few new ideas. If I’m completely honest, my last inventions weren’t quite as useful as the first ones... ,” Zangemann pondered. “But my ice-cream machines are and will remain second to none,” he thought immediately afterward, and not without pride, as he passed a group of people all eating coconut ice cream, the flavor of the day."
+#, fuzzy
+msgid "“Maybe a little trip might even give me a few new ideas. If I’m completely honest, my last inventions weren’t quite as useful as the first ones... ,” Zangemann pondered."
+msgstr "“Mungkin perjalanan kecil bahkan bisa memberiku beberapa ide baru. Kalau aku jujur sepenuhnya, penemuan-penemuanku yang terakhir tidak sepenuhnya berguna seperti yang pertama...,” renung Zangemann. “Tapi mesin-mesin es krimku tidak ada duanya dan akan tetap begitu,” pikirnya segera setelah itu, dan bukan tanpa rasa bangga, saat ia melewati sekelompok orang yang semuanya sedang makan es krim kelapa, rasa hari itu."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:615
+#, fuzzy
+msgid "“But my ice-cream machines are and will remain second to none,” he thought immediately afterward, and not without pride, as he passed a group of people all eating coconut ice cream, the flavor of the day."
 msgstr "“Mungkin perjalanan kecil bahkan bisa memberiku beberapa ide baru. Kalau aku jujur sepenuhnya, penemuan-penemuanku yang terakhir tidak sepenuhnya berguna seperti yang pertama...,” renung Zangemann. “Tapi mesin-mesin es krimku tidak ada duanya dan akan tetap begitu,” pikirnya segera setelah itu, dan bukan tanpa rasa bangga, saat ia melewati sekelompok orang yang semuanya sedang makan es krim kelapa, rasa hari itu."
 
 #. (itstool) path: para/phrase
@@ -733,15 +746,36 @@ msgstr "Ia begitu larut dalam pikirannya ketika tiba-tiba — BUK! — sesuatu m
 msgid "Zangemann after the incident with the child. Zangemann screams from pain while holding up one of his legs with both hands at the shin. The child has brown hair that is blown back by Zangemann’s scream; he is wearing a light blue hooded sweatshirt and dark green pants. He holds a red Zangemann electric skateboard."
 msgstr "Bapak Zangemann setelah insiden dengan seorang anak. Bapak Zangemann menjerit kesakitan sambil memegang salah satu kakinya dengan kedua tangan pada bagian tulang kering kakinya tersebut. Anak yang berambut cokelat terlihat kaget karena mendengar teriakan dari bapak Zangemann. Ia mengenakan sweter dengan tudung atau tutup kepala berwarna biru muda dan celana hijau tua. Ia memegang skateboard listrik berwarna merah merk Zangemann."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:626
-msgid "Zangemann yelped and looked around for the cause. A startled child stood in front of him, holding an original Zangemann skateboard under his arm. “Sorry, I didn’t mean to do that,” the child stammered, but Zangemann wasn’t listening."
+#, fuzzy
+msgid "Zangemann yelped and looked around for the cause. A startled child stood in front of him, holding an original Zangemann skateboard under his arm."
 msgstr "Zangemann menjerit dan menoleh mencari penyebabnya. Seorang anak yang terkejut berdiri di depannya, memegang skateboard Zangemann asli di bawah lengannya. “Maaf, aku tidak bermaksud melakukan itu,” gagap si anak, tetapi Zangemann tidak mendengarkan."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:626
+msgid "“Sorry, I didn’t mean to do that,” the child stammered, but Zangemann wasn’t listening."
+msgstr ""
+
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:627
-msgid "An angry Zangemann limped away. Suddenly, he heard loud music. He had never before heard something so horrible. He looked around and saw that the music was coming from a loudspeaker he himself had constructed. A child across the street was holding it. The child seemed to like the music, but it gave Zangemann a terrible headache, and his mood worsened. This was not how he had imagined his walk!"
-msgstr "Dengan marah, Zangemann berjalan terpincang-pincang menjauh. Tiba-tiba, ia mendengar musik keras. Ia belum pernah mendengar sesuatu yang begitu mengerikan. Ia menoleh dan melihat bahwa musik itu berasal dari sebuah pengeras suara yang ia sendiri buat. Seorang anak di seberang jalan sedang memegangnya. Anak itu tampaknya menyukai musik tersebut, tetapi itu membuat Zangemann pusing sekali, dan suasana hatinya memburuk. Ini bukan seperti yang ia bayangkan untuk jalan-jalannya!"
+msgid "An angry Zangemann limped away. Suddenly, he heard loud music. He had never before heard something so horrible."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:627
+msgid "He looked around and saw that the music was coming from a loudspeaker he himself had constructed."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:627
+msgid "A child across the street was holding it. The child seemed to like the music, but it gave Zangemann a terrible headache, and his mood worsened."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:627
+msgid "This was not how he had imagined his walk!"
+msgstr ""
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -750,10 +784,20 @@ msgstr "Dengan marah, Zangemann berjalan terpincang-pincang menjauh. Tiba-tiba, 
 msgid "Advertisements for Zangemann ice cream (sandwich board), a Zangemann electric skateboard, and a Zangemann washing machine. The math teacher, Ms. Gernet, is passing in front of the billboards. Ms. Gernet is an old lady with short white hair. She is dressed in a light green t-shirt and a pea green sweater, dark brown pants, and light green heeled shoes. She has a fuchsia shoulder bag, worn behind her. She pushes a small shopping cart in which there is a small brown dog with a collar and tag."
 msgstr "Iklan es krim Zangemann (papan iklan berdiri), sebuah skateboard listrik Zangemann, dan sebuah mesin cuci Zangemann. Guru matematika, Ibu Gernet, sedang melintas di depan papan-papan iklan tersebut. Ibu Gernet adalah seorang wanita tua berambut putih pendek. Ia mengenakan kaus berwarna hijau muda dan sweter hijau kacang, celana cokelat tua, serta sepatu hak berwarna hijau muda. Ia membawa tas selempang fuchsia, dikenakan di belakangnya. Ia mendorong keranjang belanja kecil yang di dalamnya ada seekor anjing kecil cokelat dengan kalung dan tanda pengenal."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:637
-msgid "Zangemann was so furious with the two children. How dare they use his inventions this way? That night, he couldn’t sleep, so he sat down at his golden computer. From there, he gave all the little computers in the skateboards a command that they were no longer allowed to go on sidewalks. He ordered the small computers in the speakers to play music only at a low volume, except for his favorite music, which he immediately turned on to get into a better mood."
-msgstr "Zangemann sangat murka kepada kedua anak itu. Beraninya mereka menggunakan penemuannya dengan cara seperti ini? Malam itu, ia tidak bisa tidur, jadi ia duduk di depan komputer emasnya. Dari sana, ia memberi perintah kepada semua komputer kecil di skateboard bahwa mereka tidak lagi boleh melaju di trotoar. Ia memerintahkan komputer kecil di pengeras suara agar hanya memutar musik dengan volume rendah, kecuali musik favoritnya, yang langsung ia putar untuk memperbaiki suasana hati."
+msgid "Zangemann was so furious with the two children. How dare they use his inventions this way? That night, he couldn’t sleep, so he sat down at his golden computer."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:637
+msgid "From there, he gave all the little computers in the skateboards a command that they were no longer allowed to go on sidewalks."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:637
+msgid "He ordered the small computers in the speakers to play music only at a low volume, except for his favorite music, which he immediately turned on to get into a better mood."
+msgstr ""
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -774,11 +818,16 @@ msgstr "Kelanjutan dari gambar sebelumnya, di mana pada latar belakang ada bukit
 msgid "Skateboards no longer work"
 msgstr "Skateboard tidak lagi berfungsi"
 
-#. (itstool) path: simplesect/para
-#. (itstool) id: Ada_Zangemann.dbk#para-p18-1
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:660
-msgid "The next day, there was a big commotion at Ada’s school. On the way to school, the kids’ skateboards had stopped working. The wheels simply stood still. And the children could no longer turn up the volume on their speakers. What was going on?"
+#, fuzzy
+msgid "The next day, there was a big commotion at Ada’s school. On the way to school, the kids’ skateboards had stopped working. The wheels simply stood still."
 msgstr "Keesokan harinya, terjadi kehebohan besar di sekolah Ada. Dalam perjalanan ke sekolah, skateboard anak-anak berhenti berfungsi. Roda-rodanya mendadak diam saja. Dan anak-anak tidak lagi bisa menaikkan volume pada pengeras suara mereka. Ada apa ini?"
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:660
+msgid "And the children could no longer turn up the volume on their speakers. What was going on?"
+msgstr ""
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -787,10 +836,25 @@ msgstr "Keesokan harinya, terjadi kehebohan besar di sekolah Ada. Dalam perjalan
 msgid "Five kids from the school who can’t make skateboards work. Two girls wear helmets, respectively blue and red. A little girl with brown hair tied in two tails with yellow rubber bands is kneeling. She is trying to understand why the skateboard of her friend with the red helmet does not work. Four children have backpacks on their shoulders, while the little girl with the red helmet left hers leaning on a bench on which there are a yellow apple and a light blue bottle with a white flower on it."
 msgstr "Lima anak dari sekolah yang tidak bisa membuat skateboard berfungsi. Dua anak perempuan memakai helm, masing-masing biru dan merah. Seorang anak perempuan kecil berambut cokelat yang diikat menjadi dua ekor dengan karet gelang kuning sedang berlutut. Ia mencoba memahami mengapa skateboard temannya yang memakai helm merah tidak berfungsi. Empat anak memakai ransel di bahu, sementara anak perempuan kecil dengan helm merah meletakkan ranselnya bersandar pada sebuah bangku, di atasnya ada sebuah apel kuning dan botol biru muda dengan bunga putih di atasnya."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:669
-msgid "Although she didn’t own any of these things, Ada wondered why the skateboards and the speakers suddenly stopped working. But she didn’t really have time to think much about it, because she was tinkering again. She put together a complete bicycle from the parts of three broken bicycles. She gave the bicycle to her mother as a present so that she wouldn’t have to spend her money on bus tickets to work. For her brother, Ada built a loudspeaker so he could fall asleep to nice stories in the evenings when their mother was still at work."
-msgstr "Meskipun ia tidak memiliki satu pun dari benda-benda itu, Ada bertanya-tanya mengapa skateboard dan pengeras suara tiba-tiba berhenti berfungsi. Tetapi ia tidak benar-benar punya banyak waktu untuk memikirkannya, karena ia kembali mengutak-atik. Ia merakit sebuah sepeda lengkap dari bagian-bagian tiga sepeda yang rusak. Sepeda itu ia berikan kepada ibunya sebagai hadiah agar ibunya tidak perlu menghabiskan uangnya untuk tiket bus ke tempat kerja. Untuk adiknya, Ada membuat sebuah pengeras suara agar adiknya bisa tertidur ditemani cerita-cerita yang bagus pada malam hari ketika ibu mereka masih bekerja."
+msgid "Although she didn’t own any of these things, Ada wondered why the skateboards and the speakers suddenly stopped working."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:669
+msgid "But she didn’t really have time to think much about it, because she was tinkering again."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:669
+msgid "She put together a complete bicycle from the parts of three broken bicycles. She gave the bicycle to her mother as a present so that she wouldn’t have to spend her money on bus tickets to work."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:669
+msgid "For her brother, Ada built a loudspeaker so he could fall asleep to nice stories in the evenings when their mother was still at work."
+msgstr ""
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -799,10 +863,20 @@ msgstr "Meskipun ia tidak memiliki satu pun dari benda-benda itu, Ada bertanya-t
 msgid "Close-up of Ada thoughtful, with a backpack and with one hand on her chin and the other resting on her side."
 msgstr "Tampilan dekat Ada yang sedang berpikir, dengan ransel, satu tangan di dagu dan tangan lainnya bertumpu di pinggang."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:677
-msgid "After a few days, the initial shock at Ada’s school was forgotten. The skateboards still didn’t go on the sidewalk, but apart from that, they still worked. And so now the children rode in circles around the playground and listened to soft music. Only a strange, pompous marching music continued to play at an unchanged volume, which the children found rather puzzling."
-msgstr "Setelah beberapa hari, keterkejutan awal di sekolah Ada pun terlupakan. Skateboard masih tidak boleh melaju di trotoar, tetapi selain itu, skateboard tetap berfungsi. Maka kini anak-anak berputar-putar mengelilingi taman bermain dan mendengarkan musik pelan. Hanya musik mars yang aneh dan berlagak megah yang terus diputar dengan volume yang tidak berubah, yang membuat anak-anak cukup kebingungan."
+msgid "After a few days, the initial shock at Ada’s school was forgotten. The skateboards still didn’t go on the sidewalk, but apart from that, they still worked."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:677
+msgid "And so now the children rode in circles around the playground and listened to soft music."
+msgstr ""
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:677
+msgid "Only a strange, pompous marching music continued to play at an unchanged volume, which the children found rather puzzling."
+msgstr ""
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:682
@@ -1448,3 +1522,15 @@ msgstr ""
 #: Ada_Zangemann.dbk:1139
 msgid "Three hands that hold as many empty ice cream cones, to draw and color. In the air above the middle cone is an umbrella."
 msgstr "Tiga tangan yang memegang masing-masing cone es krim kosong, untuk digambar dan diwarnai. Di udara di atas cone tengah ada sebuah payung."
+
+#~ msgid "An angry Zangemann limped away. Suddenly, he heard loud music. He had never before heard something so horrible. He looked around and saw that the music was coming from a loudspeaker he himself had constructed. A child across the street was holding it. The child seemed to like the music, but it gave Zangemann a terrible headache, and his mood worsened. This was not how he had imagined his walk!"
+#~ msgstr "Dengan marah, Zangemann berjalan terpincang-pincang menjauh. Tiba-tiba, ia mendengar musik keras. Ia belum pernah mendengar sesuatu yang begitu mengerikan. Ia menoleh dan melihat bahwa musik itu berasal dari sebuah pengeras suara yang ia sendiri buat. Seorang anak di seberang jalan sedang memegangnya. Anak itu tampaknya menyukai musik tersebut, tetapi itu membuat Zangemann pusing sekali, dan suasana hatinya memburuk. Ini bukan seperti yang ia bayangkan untuk jalan-jalannya!"
+
+#~ msgid "Zangemann was so furious with the two children. How dare they use his inventions this way? That night, he couldn’t sleep, so he sat down at his golden computer. From there, he gave all the little computers in the skateboards a command that they were no longer allowed to go on sidewalks. He ordered the small computers in the speakers to play music only at a low volume, except for his favorite music, which he immediately turned on to get into a better mood."
+#~ msgstr "Zangemann sangat murka kepada kedua anak itu. Beraninya mereka menggunakan penemuannya dengan cara seperti ini? Malam itu, ia tidak bisa tidur, jadi ia duduk di depan komputer emasnya. Dari sana, ia memberi perintah kepada semua komputer kecil di skateboard bahwa mereka tidak lagi boleh melaju di trotoar. Ia memerintahkan komputer kecil di pengeras suara agar hanya memutar musik dengan volume rendah, kecuali musik favoritnya, yang langsung ia putar untuk memperbaiki suasana hati."
+
+#~ msgid "Although she didn’t own any of these things, Ada wondered why the skateboards and the speakers suddenly stopped working. But she didn’t really have time to think much about it, because she was tinkering again. She put together a complete bicycle from the parts of three broken bicycles. She gave the bicycle to her mother as a present so that she wouldn’t have to spend her money on bus tickets to work. For her brother, Ada built a loudspeaker so he could fall asleep to nice stories in the evenings when their mother was still at work."
+#~ msgstr "Meskipun ia tidak memiliki satu pun dari benda-benda itu, Ada bertanya-tanya mengapa skateboard dan pengeras suara tiba-tiba berhenti berfungsi. Tetapi ia tidak benar-benar punya banyak waktu untuk memikirkannya, karena ia kembali mengutak-atik. Ia merakit sebuah sepeda lengkap dari bagian-bagian tiga sepeda yang rusak. Sepeda itu ia berikan kepada ibunya sebagai hadiah agar ibunya tidak perlu menghabiskan uangnya untuk tiket bus ke tempat kerja. Untuk adiknya, Ada membuat sebuah pengeras suara agar adiknya bisa tertidur ditemani cerita-cerita yang bagus pada malam hari ketika ibu mereka masih bekerja."
+
+#~ msgid "After a few days, the initial shock at Ada’s school was forgotten. The skateboards still didn’t go on the sidewalk, but apart from that, they still worked. And so now the children rode in circles around the playground and listened to soft music. Only a strange, pompous marching music continued to play at an unchanged volume, which the children found rather puzzling."
+#~ msgstr "Setelah beberapa hari, keterkejutan awal di sekolah Ada pun terlupakan. Skateboard masih tidak boleh melaju di trotoar, tetapi selain itu, skateboard tetap berfungsi. Maka kini anak-anak berputar-putar mengelilingi taman bermain dan mendengarkan musik pelan. Hanya musik mars yang aneh dan berlagak megah yang terus diputar dengan volume yang tidak berubah, yang membuat anak-anak cukup kebingungan."
