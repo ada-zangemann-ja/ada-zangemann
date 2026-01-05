@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-04 19:57+0100\n"
+"PO-Revision-Date: 2026-01-05 11:58+0100\n"
 "Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
 "Language-Team: Greek <https://hosted.weblate.org/projects/fsfe/ada-zangemann/el/>\n"
 "Language: el\n"
@@ -820,14 +820,15 @@ msgstr ""
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:606
+#, fuzzy
 msgid "One day Zangemann thought, “Today I want to see my inventions up close.”"
-msgstr ""
+msgstr "Μια μέρα ο Ζάνγκεμαν είπε, σήμερα θα πάω να δω τις εφευρέσεις μου από κοντά!"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:606
 #, fuzzy
 msgid "He put away his big telescope, then climbed down the many stairs of his mansion and ventured out into the city, full of anticipation at the thought of enjoying his cool devices."
-msgstr "Μια μέρα ο Ζάνγκεμαν είπε, σήμερα θα πάω να δω τις εφευρέσεις μου από κοντά! Άφησε το μεγάλο του τηλεσκόπιο, κατέβηκε όλες τις σκάλες και βγήκε βιαστικά στην πόλη. Ήταν ανυπόμονος να απολαύσει τις υπέροχες συσκευές του."
+msgstr "Άφησε το μεγάλο του τηλεσκόπιο, κατέβηκε όλες τις σκάλες και βγήκε βιαστικά στην πόλη. Ήταν ανυπόμονος να απολαύσει τις υπέροχες συσκευές του."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -840,13 +841,13 @@ msgstr ""
 #: Ada_Zangemann.dbk:615
 #, fuzzy
 msgid "“Maybe a little trip might even give me a few new ideas. If I’m completely honest, my last inventions weren’t quite as useful as the first ones... ,” Zangemann pondered."
-msgstr "“Ίσως μια μικρή βόλτα να μου δώσει μερικές νέες ιδέες. Για να είμαι απόλυτα ειλικρινής, οι τελευταίες μου εφευρέσεις δεν ήταν τόσο χρήσιμες όσο οι πρώτες...,” συλλογίστηκε ο Ζάνγκερμαν. “Οι παγωτομηχανές μου, όμως, είναι και θα παραμείνουν αχτύπητες” σκέφτηκε αμέσως μετά, γεμάτος περηφάνια, καθώς περνούσε μπροστά από κάποιους ανθρώπους που τρώγανε παγωτό καρύδα, τη γεύση της ημέρας."
+msgstr "“Ίσως μια μικρή βόλτα να μου δώσει μερικές νέες ιδέες. Για να είμαι απόλυτα ειλικρινής, οι τελευταίες μου εφευρέσεις δεν ήταν τόσο χρήσιμες όσο οι πρώτες...,” συλλογίστηκε ο Ζάνγκερμαν."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:615
 #, fuzzy
 msgid "“But my ice-cream machines are and will remain second to none,” he thought immediately afterward, and not without pride, as he passed a group of people all eating coconut ice cream, the flavor of the day."
-msgstr "“Ίσως μια μικρή βόλτα να μου δώσει μερικές νέες ιδέες. Για να είμαι απόλυτα ειλικρινής, οι τελευταίες μου εφευρέσεις δεν ήταν τόσο χρήσιμες όσο οι πρώτες...,” συλλογίστηκε ο Ζάνγκερμαν. “Οι παγωτομηχανές μου, όμως, είναι και θα παραμείνουν αχτύπητες” σκέφτηκε αμέσως μετά, γεμάτος περηφάνια, καθώς περνούσε μπροστά από κάποιους ανθρώπους που τρώγανε παγωτό καρύδα, τη γεύση της ημέρας."
+msgstr "“Οι παγωτομηχανές μου, όμως, είναι και θα παραμείνουν αχτύπητες” σκέφτηκε αμέσως μετά, γεμάτος περηφάνια, καθώς περνούσε μπροστά από κάποιους ανθρώπους που τρώγανε παγωτό καρύδα, τη γεύση της ημέρας."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:617
@@ -865,32 +866,37 @@ msgstr ""
 #: Ada_Zangemann.dbk:626
 #, fuzzy
 msgid "Zangemann yelped and looked around for the cause. A startled child stood in front of him, holding an original Zangemann skateboard under his arm."
-msgstr "Ο Ζάνγκεμαν ούρλιαξε και κοίταξε γύρω του. Δίπλα του ήταν ένα φοβισμένο μικρό παιδί που κρατούσε ένα σκέιτμπορντ Ζάνγκεμαν. Συγγνώμη, δεν το έκανα επίτηδες, τραύλισε, αλλά ο Ζάνγκεμαν δεν άκουγε."
+msgstr "Ο Ζάνγκεμαν ούρλιαξε και κοίταξε γύρω του. Δίπλα του ήταν ένα φοβισμένο μικρό παιδί που κρατούσε ένα σκέιτμπορντ Ζάνγκεμαν."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:626
+#, fuzzy
 msgid "“Sorry, I didn’t mean to do that,” the child stammered, but Zangemann wasn’t listening."
-msgstr ""
+msgstr "Συγγνώμη, δεν το έκανα επίτηδες, τραύλισε, αλλά ο Ζάνγκεμαν δεν άκουγε."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:627
+#, fuzzy
 msgid "An angry Zangemann limped away. Suddenly, he heard loud music. He had never before heard something so horrible."
-msgstr ""
+msgstr "Εκνευρισμένος, ο Ζάνγκεμαν απομακρύνθηκε κουτσαίνοντας. Ξαφνικά, ακούστηκε δυνατή μουσική. Δεν είχε ξανακούσει ποτέ κάτι τόσο φρικτό."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:627
+#, fuzzy
 msgid "He looked around and saw that the music was coming from a loudspeaker he himself had constructed."
-msgstr ""
+msgstr "Κοίταξε γύρω του και είδε ότι η μουσική προερχόταν από ένα μεγάφωνο που είχε κατασκευάσει και πουλήσει ο ίδιος."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:627
+#, fuzzy
 msgid "A child across the street was holding it. The child seemed to like the music, but it gave Zangemann a terrible headache, and his mood worsened."
-msgstr ""
+msgstr "Το κρατούσε ένα παιδί στην απέναντι μεριά του δρόμου. Στο παιδί έμοιαζε να αρέσει η μουσική, αλλά στον Ζάνγκεμαν έφερε έναν τρομερό πονοκέφαλο, και η διάθεσή του έγινε ακόμα χειρότερη."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:627
+#, fuzzy
 msgid "This was not how he had imagined his walk!"
-msgstr ""
+msgstr "Δεν είχε φανταστεί έτσι τη βόλτα του!"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -901,18 +907,21 @@ msgstr ""
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:637
+#, fuzzy
 msgid "Zangemann was so furious with the two children. How dare they use his inventions this way? That night, he couldn’t sleep, so he sat down at his golden computer."
-msgstr ""
+msgstr "Ο Ζάνγκερμαν ήταν τόσο θυμωμένος με τα δύο παιδιά. Πως τολμάνε να χρησιμοποιούν τις εφευρέσεις του με αυτόν τον τρόπο; Εκείνο το βράδυ, δεν τον έπαιρνε ο ύπνος, κι έτσι, κάθησε στον χρυσό του υπολογιστή."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:637
+#, fuzzy
 msgid "From there, he gave all the little computers in the skateboards a command that they were no longer allowed to go on sidewalks."
-msgstr ""
+msgstr "Από εκεί, έδωσε εντολή σε όλους τους μικρούς υπολογιστές των σκέιτμπορντ να μην επιτρέπεται πλέον να ανεβαίνουν στα πεζοδρόμια."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:637
+#, fuzzy
 msgid "He ordered the small computers in the speakers to play music only at a low volume, except for his favorite music, which he immediately turned on to get into a better mood."
-msgstr ""
+msgstr "Διέταξε τους μικρούς υπολογιστές στα ηχεία να παίζουν μουσική μόνο σιγανά, εκτός από τα αγαπημένα του κομμάτια, στα οποία η ένταση ανέβαινε αμέσως για να του φτιάχνει τη διάθεση."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -937,12 +946,13 @@ msgstr ""
 #: Ada_Zangemann.dbk:660
 #, fuzzy
 msgid "The next day, there was a big commotion at Ada’s school. On the way to school, the kids’ skateboards had stopped working. The wheels simply stood still."
-msgstr "Την επόμενη μέρα, στο σχολείο της Άντας έγινε χαμός. Τα σκέιτμπορντ δε λειτουργούσαν για να φέρουν τα παιδιά στο σχολείο, οι ρόδες τους ήταν ακίνητες. Και τα ηχεία δεν έπαιζαν πια μουσική δυνατά. Τι είχε συμβεί;"
+msgstr "Την επόμενη μέρα, στο σχολείο της Άντας έγινε χαμός. Τα σκέιτμπορντ δε λειτουργούσαν για να φέρουν τα παιδιά στο σχολείο, οι ρόδες τους ήταν ακίνητες."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:660
+#, fuzzy
 msgid "And the children could no longer turn up the volume on their speakers. What was going on?"
-msgstr ""
+msgstr "Και τα ηχεία δεν έπαιζαν πια μουσική δυνατά. Τι είχε συμβεί;"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -953,23 +963,27 @@ msgstr ""
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:669
+#, fuzzy
 msgid "Although she didn’t own any of these things, Ada wondered why the skateboards and the speakers suddenly stopped working."
-msgstr ""
+msgstr "Παρόλο που δεν είχε κανένα από όλα αυτά, η Άντα αναρρωτήθηκε γιατί τα σκέιτμπορντ και τα ηχεία σταμάτησαν ξαφνικά να δουλεύουν."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:669
+#, fuzzy
 msgid "But she didn’t really have time to think much about it, because she was tinkering again."
-msgstr ""
+msgstr "Αλλά δεν είχε και πολύ χρόνο να το σκεφτεί, επειδή άρχισε ξανά τα μαστορέματα."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:669
+#, fuzzy
 msgid "She put together a complete bicycle from the parts of three broken bicycles. She gave the bicycle to her mother as a present so that she wouldn’t have to spend her money on bus tickets to work."
-msgstr ""
+msgstr "Έφτιαξε ένα ολόκληρο ποδήλατο από τα εξαρτήματα που πήρε από τρία σπασμένα ποδήλατα. Έδωσε δώρο το ποδήλατο στη μητέρα της, ώστε να μην ξοδεύει χρήματα σε εισιτήρια λεωφορείου για τη δουλειά της."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:669
+#, fuzzy
 msgid "For her brother, Ada built a loudspeaker so he could fall asleep to nice stories in the evenings when their mother was still at work."
-msgstr ""
+msgstr "Για τον αδελφό της, η Άντα έφτιαξε ένα ηχείο για να τον κοιμίζει με ωραίες ιστορίες τα βράδια που η μητέρα τους βρισκόταν ακόμα στη δουλειά."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -980,18 +994,21 @@ msgstr ""
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:677
+#, fuzzy
 msgid "After a few days, the initial shock at Ada’s school was forgotten. The skateboards still didn’t go on the sidewalk, but apart from that, they still worked."
-msgstr ""
+msgstr "Μετά από μερικές ημέρες, το αρχικό σοκ στο σχολείο της Άντα είχε ξεχαστεί. Τα σκέιτμπορντ εξακολουθούσαν να μην κινούνται στα πεζοδρόμια αλλά πέρα από αυτό, ήταν ακόμη λειτουργικά."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:677
+#, fuzzy
 msgid "And so now the children rode in circles around the playground and listened to soft music."
-msgstr ""
+msgstr "Έτσι τα παιδιά πλέον κάνανε κύκλους γύρω από τη παιδική χαρά ακούγοντας απαλή μουσική."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:677
+#, fuzzy
 msgid "Only a strange, pompous marching music continued to play at an unchanged volume, which the children found rather puzzling."
-msgstr ""
+msgstr "Μόνο μία παράξενη, πομπώδης μουσική παρέλασης συνέχιζε να παίζει σε μια ένταση που δεν άλλαζε, κάτι που τα παιδιά έβρισκαν αρκετά παράξενο."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:682

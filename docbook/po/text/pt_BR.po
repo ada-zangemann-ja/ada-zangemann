@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-05 06:15+0100\n"
+"PO-Revision-Date: 2026-01-05 18:38+0100\n"
 "Last-Translator: William Weber Berrutti <wwberrutti@protonmail.ch>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/fsfe/ada-zangemann/pt_BR/>\n"
 "Language: pt_BR\n"
@@ -673,13 +673,12 @@ msgstr "Um dia..."
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:606
 msgid "One day Zangemann thought, “Today I want to see my inventions up close.”"
-msgstr ""
+msgstr "Um dia Zangemann pensou: “Hoje eu quero ver minhas invenções de perto.”"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:606
-#, fuzzy
 msgid "He put away his big telescope, then climbed down the many stairs of his mansion and ventured out into the city, full of anticipation at the thought of enjoying his cool devices."
-msgstr "Um dia Zangemann pensou: “Hoje eu quero ver minhas invenções de perto.” Ele largou seu grande telescópio, então desceu as muitas escadas de sua mansão e aventurou-se para a cidade, cheio de expectativa ao pensar em desfrutar de seus dispositivos legais."
+msgstr "Ele largou seu grande telescópio, então desceu as muitas escadas de sua mansão e aventurou-se para a cidade, cheio de expectativa ao pensar em desfrutar de seus dispositivos legais."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -690,15 +689,13 @@ msgstr "Zangemann desce as escadas de sua mansão na colina em direção à cida
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:615
-#, fuzzy
 msgid "“Maybe a little trip might even give me a few new ideas. If I’m completely honest, my last inventions weren’t quite as useful as the first ones... ,” Zangemann pondered."
-msgstr "“Talvez uma pequena viagem possa até me dar algumas ideias novas. Se eu sou completamente honesto, minhas últimas invenções não foram tão úteis quanto as primeiras... ”, Zangemann ponderou. “Mas minhas máquinas de sorvete são do bom e do melhor”, pensou ele imediatamente depois, e não sem orgulho, pois ele passou por um grupo de pessoas todas comendo sorvete de coco, o sabor do dia."
+msgstr "“Talvez uma pequena viagem possa até me dar algumas ideias novas. Se eu sou completamente honesto, minhas últimas invenções não foram tão úteis quanto as primeiras... ”, Zangemann ponderou."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:615
-#, fuzzy
 msgid "“But my ice-cream machines are and will remain second to none,” he thought immediately afterward, and not without pride, as he passed a group of people all eating coconut ice cream, the flavor of the day."
-msgstr "“Talvez uma pequena viagem possa até me dar algumas ideias novas. Se eu sou completamente honesto, minhas últimas invenções não foram tão úteis quanto as primeiras... ”, Zangemann ponderou. “Mas minhas máquinas de sorvete são do bom e do melhor”, pensou ele imediatamente depois, e não sem orgulho, pois ele passou por um grupo de pessoas todas comendo sorvete de coco, o sabor do dia."
+msgstr "“Mas minhas máquinas de sorvete são do bom e do melhor”, pensou ele imediatamente depois, e não sem orgulho, pois ele passou por um grupo de pessoas todas comendo sorvete de coco, o sabor do dia."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:617
@@ -714,34 +711,33 @@ msgstr "Zangemann depois do incidente com a criança. Zangemann grita de dor enq
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:626
-#, fuzzy
 msgid "Zangemann yelped and looked around for the cause. A startled child stood in front of him, holding an original Zangemann skateboard under his arm."
-msgstr "Zangemann uivou e olhou ao redor para a causa. Uma criança assustada ficou na frente dele, segurando um skate original de Zangemann sob seu braço. “Desculpe, eu não queria fazer isso,” a criança gaguejou, mas Zangemann não estava ouvindo."
+msgstr "Zangemann uivou e olhou ao redor para a causa. Uma criança assustada ficou na frente dele, segurando um skate original de Zangemann sob seu braço."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:626
 msgid "“Sorry, I didn’t mean to do that,” the child stammered, but Zangemann wasn’t listening."
-msgstr ""
+msgstr "“Desculpe, eu não queria fazer isso,” a criança gaguejou, mas Zangemann não estava ouvindo."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:627
 msgid "An angry Zangemann limped away. Suddenly, he heard loud music. He had never before heard something so horrible."
-msgstr ""
+msgstr "Um Zangemann zangado coxeou. De repente, ouviu música alta. Ele nunca tinha ouvido algo tão horrível."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:627
 msgid "He looked around and saw that the music was coming from a loudspeaker he himself had constructed."
-msgstr ""
+msgstr "Ele olhou em volta e viu que a música vinha de um alto-falante que ele mesmo havia construído."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:627
 msgid "A child across the street was holding it. The child seemed to like the music, but it gave Zangemann a terrible headache, and his mood worsened."
-msgstr ""
+msgstr "Uma criança do outro lado da rua estava a segurá-la. A criança parecia gostar da música, mas deu a Zangemann uma terrível dor de cabeça, e seu humor piorou."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:627
 msgid "This was not how he had imagined his walk!"
-msgstr ""
+msgstr "Não era assim que ele imaginava sua caminhada!"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -753,17 +749,17 @@ msgstr "Anúncios para o sorvete de Zangemann (barra de sanduíches), um skate e
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:637
 msgid "Zangemann was so furious with the two children. How dare they use his inventions this way? That night, he couldn’t sleep, so he sat down at his golden computer."
-msgstr ""
+msgstr "Zangemann estava tão furioso com as duas crianças. Como se atrevem a usar as invenções dele assim? Naquela noite, ele não conseguia dormir, de modo que se sentou em seu computador dourado."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:637
 msgid "From there, he gave all the little computers in the skateboards a command that they were no longer allowed to go on sidewalks."
-msgstr ""
+msgstr "Dali, ele deu a todos os pequenos computadores nos skates um comando de que eles não podiam mais ir em calçadas."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:637
 msgid "He ordered the small computers in the speakers to play music only at a low volume, except for his favorite music, which he immediately turned on to get into a better mood."
-msgstr ""
+msgstr "Ele ordenou que os pequenos computadores dos alto-falantes tocassem música apenas em um volume baixo, exceto por sua música favorita, que ele imediatamente ligou para ficar com um humor melhor."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -786,14 +782,13 @@ msgstr "Os skates já não funcionam"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:660
-#, fuzzy
 msgid "The next day, there was a big commotion at Ada’s school. On the way to school, the kids’ skateboards had stopped working. The wheels simply stood still."
-msgstr "N dia seguinte, houve uma grande comoção na escola de Ada. A caminho da escola, os skates das crianças tinham parado de funcionar. As rodas simplesmente pararam. E as crianças não conseguiam mais aumentar o volume em seus alto-falantes. O que estava acontecendo?"
+msgstr "N dia seguinte, houve uma grande comoção na escola de Ada. A caminho da escola, os skates das crianças tinham parado de funcionar. As rodas simplesmente pararam."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:660
 msgid "And the children could no longer turn up the volume on their speakers. What was going on?"
-msgstr ""
+msgstr "E as crianças não conseguiam mais aumentar o volume em seus alto-falantes. O que estava acontecendo?"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -805,22 +800,22 @@ msgstr "Cinco crianças da escola que não conseguem fazer os skates funcionarem
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:669
 msgid "Although she didn’t own any of these things, Ada wondered why the skateboards and the speakers suddenly stopped working."
-msgstr ""
+msgstr "Embora ela não tivesse nenhuma dessas coisas, Ada se perguntou por que os skates e os alto-falantes de repente pararam de funcionar."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:669
 msgid "But she didn’t really have time to think much about it, because she was tinkering again."
-msgstr ""
+msgstr "Mas ela realmente não tinha tempo para pensar muito sobre isso, porque ela estava mexendo em equipamentos de novo."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:669
 msgid "She put together a complete bicycle from the parts of three broken bicycles. She gave the bicycle to her mother as a present so that she wouldn’t have to spend her money on bus tickets to work."
-msgstr ""
+msgstr "Ela montou uma bicicleta completa com partes de três bicicletas quebradas. Ela deu a bicicleta à mãe como presente para que ela não precisasse gastar seu dinheiro em passagens de ônibus para o trabalho."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:669
 msgid "For her brother, Ada built a loudspeaker so he could fall asleep to nice stories in the evenings when their mother was still at work."
-msgstr ""
+msgstr "Para o seu irmão, Ada construiu um alto-falante para que ele pudesse adormecer com histórias agradáveis à noite, quando a mãe deles ainda estava no trabalho."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -832,17 +827,17 @@ msgstr "Ada pensativa de perto, com uma mochila e com uma mão no queixo e a out
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:677
 msgid "After a few days, the initial shock at Ada’s school was forgotten. The skateboards still didn’t go on the sidewalk, but apart from that, they still worked."
-msgstr ""
+msgstr "Depois de alguns dias, o choque inicial na escola de Ada foi esquecido. Os skates ainda não iam na calçada, mas além disso, ainda funcionavam."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:677
 msgid "And so now the children rode in circles around the playground and listened to soft music."
-msgstr ""
+msgstr "E agora as crianças andavam em círculos ao redor do parque e escutavam música suave."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:677
 msgid "Only a strange, pompous marching music continued to play at an unchanged volume, which the children found rather puzzling."
-msgstr ""
+msgstr "Apenas uma estranha e pomposa música marcial continuou a tocar num volume inalterado, que as crianças acharam bastante intrigante."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:682

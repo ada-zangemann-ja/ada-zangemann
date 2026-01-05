@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-05 06:20+0100\n"
+"PO-Revision-Date: 2026-01-05 18:52+0100\n"
 "Last-Translator: Pavol Bezak <bezakp@gmail.com>\n"
 "Language-Team: Slovak <https://hosted.weblate.org/projects/fsfe/ada-zangemann/sk/>\n"
 "Language: sk\n"
@@ -634,13 +634,12 @@ msgstr ""
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:606
 msgid "One day Zangemann thought, “Today I want to see my inventions up close.”"
-msgstr ""
+msgstr "Raz si Zangemann pomyslel: “Dnes si moje vynálezy pozriem z blízka.”"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:606
-#, fuzzy
 msgid "He put away his big telescope, then climbed down the many stairs of his mansion and ventured out into the city, full of anticipation at the thought of enjoying his cool devices."
-msgstr "Raz si Zangemann pomyslel: “Dnes si moje vynálezy pozriem z blízka.” Dal preč veľký teleskop a zbehol celý naradostený po mnohých schodoch do mesta, aby sa mohol tešiť zo svojich vynálezov."
+msgstr "Dal preč veľký teleskop a zbehol celý naradostený po mnohých schodoch do mesta, aby sa mohol tešiť zo svojich vynálezov."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -651,15 +650,13 @@ msgstr ""
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:615
-#, fuzzy
 msgid "“Maybe a little trip might even give me a few new ideas. If I’m completely honest, my last inventions weren’t quite as useful as the first ones... ,” Zangemann pondered."
-msgstr "“Možno ma malý výlet dovedie k novým nápadom.” “Lebo, úprimne, moje posledné vynálezy neboli až také praktické ako tie prvé.” Premýšľal Zangemann. “Ale moje zmrzlinové automaty sú a ostanú neprekonateľné.” Pomyslel si hneď potom, nie práve skromne, keď stretol skupinu ľudí, ktorí lízali kokosovú zmrzlinu. Druh dnešného dňa."
+msgstr "“Možno ma malý výlet dovedie k novým nápadom.” “Lebo, úprimne, moje posledné vynálezy neboli až také praktické ako tie prvé.” Premýšľal Zangemann."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:615
-#, fuzzy
 msgid "“But my ice-cream machines are and will remain second to none,” he thought immediately afterward, and not without pride, as he passed a group of people all eating coconut ice cream, the flavor of the day."
-msgstr "“Možno ma malý výlet dovedie k novým nápadom.” “Lebo, úprimne, moje posledné vynálezy neboli až také praktické ako tie prvé.” Premýšľal Zangemann. “Ale moje zmrzlinové automaty sú a ostanú neprekonateľné.” Pomyslel si hneď potom, nie práve skromne, keď stretol skupinu ľudí, ktorí lízali kokosovú zmrzlinu. Druh dnešného dňa."
+msgstr "“Ale moje zmrzlinové automaty sú a ostanú neprekonateľné.” Pomyslel si hneď potom, nie práve skromne, keď stretol skupinu ľudí, ktorí lízali kokosovú zmrzlinu. Druh dnešného dňa"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:617
@@ -675,34 +672,33 @@ msgstr ""
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:626
-#, fuzzy
 msgid "Zangemann yelped and looked around for the cause. A startled child stood in front of him, holding an original Zangemann skateboard under his arm."
-msgstr "Zangemann kričal a obzeral sa okolo. Pred ním stálo dieťa. Úplne vystrašené, držiac skejtbord od Zangemanna. “P... p... prepáčte, nechcel som.” Koktalo dieťa, ale Zangemann nepočúval."
+msgstr "Zangemann kričal a obzeral sa okolo. Pred ním stálo dieťa. Úplne vystrašené, držiac skejtbord od Zangemanna."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:626
 msgid "“Sorry, I didn’t mean to do that,” the child stammered, but Zangemann wasn’t listening."
-msgstr ""
+msgstr "“P... p... prepáčte, nechcel som.” Koktalo dieťa, ale Zangemann nepočúval."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:627
 msgid "An angry Zangemann limped away. Suddenly, he heard loud music. He had never before heard something so horrible."
-msgstr ""
+msgstr "Zangemann nahnevane odskackal preč. Zrazu zaznela hlasná hudba. Také niečo strašné ešte nikdy nepočul."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:627
 msgid "He looked around and saw that the music was coming from a loudspeaker he himself had constructed."
-msgstr ""
+msgstr "Poobzeral sa a zistil, že hudba išla z reproduktoru, ktorý sám vyrobil."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:627
 msgid "A child across the street was holding it. The child seemed to like the music, but it gave Zangemann a terrible headache, and his mood worsened."
-msgstr ""
+msgstr "Držalo ho dieťa na druhej strane ulice. Dieťaťu sa hudba páčila, ale Zangemanna z nej strašne bolela hlava. A nálada sa mu ešte viac zhoršila."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:627
 msgid "This was not how he had imagined his walk!"
-msgstr ""
+msgstr "Takto si svoju prechádzku nepredstavoval."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -714,17 +710,17 @@ msgstr ""
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:637
 msgid "Zangemann was so furious with the two children. How dare they use his inventions this way? That night, he couldn’t sleep, so he sat down at his golden computer."
-msgstr ""
+msgstr "Zangemann sa na deti strašne hneval. Ako len môžu jeho vynálezy tak zle používať? Nemohol spať a uprostred noci si sadol k svojmu zlatému počítaču."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:637
 msgid "From there, he gave all the little computers in the skateboards a command that they were no longer allowed to go on sidewalks."
-msgstr ""
+msgstr "Odtiaľ dal všetkým mini-počítačom v skejtbordoch príkaz, že nemôžu jazdiť po chodníkoch."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:637
 msgid "He ordered the small computers in the speakers to play music only at a low volume, except for his favorite music, which he immediately turned on to get into a better mood."
-msgstr ""
+msgstr "Počítačíkom v reproduktoroch prikázal hrať hudbu nie veľmi hlasno. Výnimka bola jeho obľúbená hudba, ktorú hneď nastavil, aby si zlepšil náladu."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -747,14 +743,13 @@ msgstr ""
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:660
-#, fuzzy
 msgid "The next day, there was a big commotion at Ada’s school. On the way to school, the kids’ skateboards had stopped working. The wheels simply stood still."
-msgstr "Na ďalší deň v Adynej škole panovalo veľké vzrušenie. Na chodníku skejtbordy už nefungovali. Kolieska jednoducho zastali. A potom reproduktory: Deti ich proste nemohli zapnúť. Čo sa to stalo?"
+msgstr "Na ďalší deň v Adynej škole panovalo veľké vzrušenie. Na chodníku skejtbordy už nefungovali. Kolieska jednoducho zastali."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:660
 msgid "And the children could no longer turn up the volume on their speakers. What was going on?"
-msgstr ""
+msgstr "A potom reproduktory: Deti ich proste nemohli zapnúť. Čo sa to stalo?"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -766,22 +761,22 @@ msgstr ""
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:669
 msgid "Although she didn’t own any of these things, Ada wondered why the skateboards and the speakers suddenly stopped working."
-msgstr ""
+msgstr "Aj keď žiadne zariadenie nevlastnila, Ada sa zamýšľala, že skejtbordy a reproduktory zrazu prestali fungovať."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:669
 msgid "But she didn’t really have time to think much about it, because she was tinkering again."
-msgstr ""
+msgstr "Ale namala čas príliš nad tým rozmýšľať. Znova totiž bastlovala."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:669
 msgid "She put together a complete bicycle from the parts of three broken bicycles. She gave the bicycle to her mother as a present so that she wouldn’t have to spend her money on bus tickets to work."
-msgstr ""
+msgstr "Z častí troch pokazených bicyklov postavila jeden nový bicykel. Ten venovala mame, aby ušetrila za lístok na autobus do práce."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:669
 msgid "For her brother, Ada built a loudspeaker so he could fall asleep to nice stories in the evenings when their mother was still at work."
-msgstr ""
+msgstr "Svojmu bratovi Ada vytvorila reproduktor, aby večer pred zaspávaním, keď ešte mama nebola doma, mohol počúvať pekné rozprávky."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -793,17 +788,17 @@ msgstr ""
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:677
 msgid "After a few days, the initial shock at Ada’s school was forgotten. The skateboards still didn’t go on the sidewalk, but apart from that, they still worked."
-msgstr ""
+msgstr "Po pár dňoch na Adynej škole nebolo po vzrušení ani stopy. Skejtbordy síce nejazdili po chodníkoch, ale inak fungovali."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:677
 msgid "And so now the children rode in circles around the playground and listened to soft music."
-msgstr ""
+msgstr "A tak sa deti jazdia na školskom dvore a počúvajú hudbu potichu."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:677
 msgid "Only a strange, pompous marching music continued to play at an unchanged volume, which the children found rather puzzling."
-msgstr ""
+msgstr "Iba nejaká smiešna pompézna pochodová hudba stále hrala nahlas. Veľmi záhadné..."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:682

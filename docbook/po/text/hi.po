@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-04 20:20+0100\n"
+"PO-Revision-Date: 2026-01-05 16:17+0100\n"
 "Last-Translator: Aayush Gupta <aayushgupta219@gmail.com>\n"
 "Language-Team: Hindi <https://hosted.weblate.org/projects/fsfe/ada-zangemann/hi/>\n"
 "Language: hi\n"
@@ -636,13 +636,12 @@ msgstr "एक दिन..।"
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:606
 msgid "One day Zangemann thought, “Today I want to see my inventions up close.”"
-msgstr ""
+msgstr "एक दिन ज़ैंगमैन ने सोचा, “आज मैं अपने आविष्कारों को करीब से देखना चाहता हूँ।”"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:606
-#, fuzzy
 msgid "He put away his big telescope, then climbed down the many stairs of his mansion and ventured out into the city, full of anticipation at the thought of enjoying his cool devices."
-msgstr "एक दिन ज़ैंगमैन ने सोचा, “आज मैं अपने आविष्कारों को करीब से देखना चाहता हूँ।” उसने अपनी बड़ी दूरबीन को हटा दिया, फिर अपने महलों की कई सीढ़ियाँ उतर कर शहर में निकल गया, अपने शांत उपकरणों का आनंद लेने के विचार से भरे हुए।"
+msgstr "उसने अपनी बड़ी दूरबीन को हटा दिया, फिर अपने महलों की कई सीढ़ियाँ उतर कर शहर में निकल गया, अपने शांत उपकरणों का आनंद लेने के विचार से भरे हुए।"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -653,15 +652,13 @@ msgstr ""
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:615
-#, fuzzy
 msgid "“Maybe a little trip might even give me a few new ideas. If I’m completely honest, my last inventions weren’t quite as useful as the first ones... ,” Zangemann pondered."
-msgstr "“शायद एक छोटी सी यात्रा मुझे कुछ नए विचार भी दे जाए अगर मैं पूरी तरह से ईमानदार हूं तो मेरे पिछले आविष्कार पहले वाले की तरह ही उपयोगी थे ...” ज़ैंगमैन ने विचार किया। “लेकिन मेरी आइसक्रीम मशीनें किसी और से पीछे नहीं रहेंगी” उसने तुरंत ही सोचा, और गर्व के भी साथ, जैसे ही वो एक समूह के पास से गुज़रा जो नारियल आइसक्रीम खा रहे थे, जो उस दिन का चुना गया स्वाद था।"
+msgstr "“शायद एक छोटी सी यात्रा मुझे कुछ नए विचार भी दे जाए अगर मैं पूरी तरह से ईमानदार हूं तो मेरे पिछले आविष्कार पहले वाले की तरह ही उपयोगी थे ...” ज़ैंगमैन ने विचार किया।"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:615
-#, fuzzy
 msgid "“But my ice-cream machines are and will remain second to none,” he thought immediately afterward, and not without pride, as he passed a group of people all eating coconut ice cream, the flavor of the day."
-msgstr "“शायद एक छोटी सी यात्रा मुझे कुछ नए विचार भी दे जाए अगर मैं पूरी तरह से ईमानदार हूं तो मेरे पिछले आविष्कार पहले वाले की तरह ही उपयोगी थे ...” ज़ैंगमैन ने विचार किया। “लेकिन मेरी आइसक्रीम मशीनें किसी और से पीछे नहीं रहेंगी” उसने तुरंत ही सोचा, और गर्व के भी साथ, जैसे ही वो एक समूह के पास से गुज़रा जो नारियल आइसक्रीम खा रहे थे, जो उस दिन का चुना गया स्वाद था।"
+msgstr "“लेकिन मेरी आइसक्रीम मशीनें किसी और से पीछे नहीं रहेंगी” उसने तुरंत ही सोचा, और गर्व के भी साथ, जैसे ही वो एक समूह के पास से गुज़रा जो नारियल आइसक्रीम खा रहे थे, जो उस दिन का चुना गया स्वाद था।"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:617
@@ -677,34 +674,33 @@ msgstr ""
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:626
-#, fuzzy
 msgid "Zangemann yelped and looked around for the cause. A startled child stood in front of him, holding an original Zangemann skateboard under his arm."
-msgstr "ज़ैंगमैन चिल्लाया और कारण के लिए चारों ओर देखने लगा। एक भौंचक्का बच्चा उसके सामने खड़ा था, अपनी  बांह के नीचे एक मूल ज़ैंगमैन स्केटबोर्ड थामे हुए। “क्षमा चाहता हूँ। में ऐसा नहीं करना चाहता था”, बच्चा हकलाया लेकिन ज़ैंगमैन सुन नहीं रहा था।"
+msgstr "ज़ैंगमैन चिल्लाया और कारण के लिए चारों ओर देखने लगा। एक भौंचक्का बच्चा उसके सामने खड़ा था, अपनी  बांह के नीचे एक मूल ज़ैंगमैन स्केटबोर्ड थामे हुए।"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:626
 msgid "“Sorry, I didn’t mean to do that,” the child stammered, but Zangemann wasn’t listening."
-msgstr ""
+msgstr "“क्षमा चाहता हूँ। में ऐसा नहीं करना चाहता था”, बच्चा हकलाया लेकिन ज़ैंगमैन सुन नहीं रहा था।"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:627
 msgid "An angry Zangemann limped away. Suddenly, he heard loud music. He had never before heard something so horrible."
-msgstr ""
+msgstr "गुस्से में ज़ैंगमैन लंगड़ा कर चला गया। अचानक, उसे तेज संगीत सुनाई पड़ा। उसने पहले कभी कुछ इतना भयानक नहीं सुना था।"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:627
 msgid "He looked around and saw that the music was coming from a loudspeaker he himself had constructed."
-msgstr ""
+msgstr "उसने चारों ओर देखा और देखा कि संगीत उसके द्वारा बनाए गए लाउडस्पीकर से आ रहा था।"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:627
 msgid "A child across the street was holding it. The child seemed to like the music, but it gave Zangemann a terrible headache, and his mood worsened."
-msgstr ""
+msgstr "सड़क के उस पार एक बच्चा उसे पकड़े हुए था। ऐसा लग रहा था कि बच्चे को संगीत पसंद आ रहा है, लेकिन इस से ज़ैंगमैन का भयानक सिरदर्द हो गया, और उसका मूड खराब हो गया।"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:627
 msgid "This was not how he had imagined his walk!"
-msgstr ""
+msgstr "उसने अपनी सैर की ऐसी  कल्पना नहीं की थी!"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -716,17 +712,17 @@ msgstr ""
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:637
 msgid "Zangemann was so furious with the two children. How dare they use his inventions this way? That night, he couldn’t sleep, so he sat down at his golden computer."
-msgstr ""
+msgstr "ज़ैंगमैन दो बच्चों से बहुत गुस्सा था। उनके आविष्कार का इस तरह उपयोग करने की उनकी हिम्मत कैसे हुई? उस रात, वह सो नहीं सका, इसलिए अपने सुनहरे कंप्यूटर पर बैठ कर काम करने लगा।"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:637
 msgid "From there, he gave all the little computers in the skateboards a command that they were no longer allowed to go on sidewalks."
-msgstr ""
+msgstr "वहां से, उसने स्केटबोर्ड के सभी छोटे कंप्यूटरों को एक आदेश दिया कि उन्हें अब फुटपाथ पर जाने की अनुमति नहीं है।"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:637
 msgid "He ordered the small computers in the speakers to play music only at a low volume, except for his favorite music, which he immediately turned on to get into a better mood."
-msgstr ""
+msgstr "उसने स्पीकरों में छोटे कंप्यूटरों को कम मात्रा में ही संगीत चलाने का आदेश दिया, अपने पसंदीदा संगीत को छोड़कर, जिसे उसने अपने  मूड को बेहतर बनाने के लिए तुरंत चालू कर दिया।"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -749,14 +745,13 @@ msgstr "स्केटबोर्ड्स काम नहीं करते
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:660
-#, fuzzy
 msgid "The next day, there was a big commotion at Ada’s school. On the way to school, the kids’ skateboards had stopped working. The wheels simply stood still."
-msgstr "[]अगले दिन एडा के स्कूल में खूब हंगामा हुआ। स्कूल जाते समय बच्चों के स्केटबोर्ड ने काम करना बंद कर दिया। पहिए बस स्थिर खड़े रहे। और बच्चे अब अपने स्पीकर का वॉल्यूम नहीं बढ़ा सकते थे। ये क्या हो रहा था?"
+msgstr "अगले दिन एडा के स्कूल में खूब हंगामा हुआ। स्कूल जाते समय बच्चों के स्केटबोर्ड ने काम करना बंद कर दिया। पहिए बस स्थिर खड़े रहे।"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:660
 msgid "And the children could no longer turn up the volume on their speakers. What was going on?"
-msgstr ""
+msgstr "और बच्चे अब अपने स्पीकर का वॉल्यूम नहीं बढ़ा सकते थे। ये क्या हो रहा था?"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -768,22 +763,22 @@ msgstr ""
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:669
 msgid "Although she didn’t own any of these things, Ada wondered why the skateboards and the speakers suddenly stopped working."
-msgstr ""
+msgstr "हालाँकि वह इनमें से किसी भी चीज़ की मालिक नहीं थी। एडा को आश्चर्य हुआ कि स्केटबोर्ड और स्पीकर ने अचानक काम करना क्यों बंद कर दिया।"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:669
 msgid "But she didn’t really have time to think much about it, because she was tinkering again."
-msgstr ""
+msgstr "लेकिन वास्तव में उसके पास इसके बारे में ज्यादा सोचने का समय नहीं था। क्योंकि वह फिर से चीज़ों के साथ छेड़छाड़ करने में लग गई थी।"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:669
 msgid "She put together a complete bicycle from the parts of three broken bicycles. She gave the bicycle to her mother as a present so that she wouldn’t have to spend her money on bus tickets to work."
-msgstr ""
+msgstr "उसने तीन टूटी हुई साइकिलों के पुर्जों से एक पूरी साइकिल बनाई। उसने अपनी माँ को तोहफ़े के रूप में साइकिल दी ताकि उसे काम करने पर जाने के लिए बस की टिकट पर पैसे खर्च न करने पड़ें।"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:669
 msgid "For her brother, Ada built a loudspeaker so he could fall asleep to nice stories in the evenings when their mother was still at work."
-msgstr ""
+msgstr "अपने भाई के लिए, एडा ने एक लाउड स्पीकर बनाया जिस पर वो  शाम को कहानियाँ सुन कर अच्छे से सो सके जब उनकी माँ अभी भी काम पर हो।"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -795,17 +790,17 @@ msgstr ""
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:677
 msgid "After a few days, the initial shock at Ada’s school was forgotten. The skateboards still didn’t go on the sidewalk, but apart from that, they still worked."
-msgstr ""
+msgstr "कुछ दिनों बाद एडा के स्कूल में लोग शुरुवात में लगे झटकों को भूलने लगे। स्केटबोर्ड अभी भी फुटपाथ पर नहीं चल रहे थे, पर वो अभी भी काम कर रहे थे।"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:677
 msgid "And so now the children rode in circles around the playground and listened to soft music."
-msgstr ""
+msgstr "और इसलिए अब बच्चे खेल के मैदान के चारों ओर गोले में घूमते और मधुर संगीत सुनते।"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:677
 msgid "Only a strange, pompous marching music continued to play at an unchanged volume, which the children found rather puzzling."
-msgstr ""
+msgstr "केवल एक अजीब, आडंबर से पूर्ण मार्चिंग संगीत अपरिवर्तित मात्रा में बजाता, जो बच्चों को काफी पेचीदा लगता।"
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:682

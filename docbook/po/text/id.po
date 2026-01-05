@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-05 05:59+0100\n"
+"PO-Revision-Date: 2026-01-05 17:19+0100\n"
 "Last-Translator: Arif Budiman <arifpedia@gmail.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/fsfe/ada-zangemann/id/>\n"
 "Language: id\n"
@@ -707,13 +707,12 @@ msgstr "Suatu hari..."
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:606
 msgid "One day Zangemann thought, “Today I want to see my inventions up close.”"
-msgstr ""
+msgstr "Suatu hari Zangemann berpikir, “Hari ini aku ingin melihat penemuanku dari dekat.”"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:606
-#, fuzzy
 msgid "He put away his big telescope, then climbed down the many stairs of his mansion and ventured out into the city, full of anticipation at the thought of enjoying his cool devices."
-msgstr "Suatu hari Zangemann berpikir, “Hari ini aku ingin melihat penemuanku dari dekat.” Ia menyimpan teleskop besarnya, lalu menuruni banyak tangga di rumah megahnya dan memberanikan diri pergi ke kota, penuh antisipasi membayangkan menikmati perangkat-perangkat kerennya."
+msgstr "Ia menyimpan teleskop besarnya, lalu menuruni banyak tangga di rumah megahnya dan memberanikan diri pergi ke kota, penuh antisipasi membayangkan menikmati perangkat-perangkat kerennya."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -724,15 +723,13 @@ msgstr "Bapak Zangemann menuruni tangga dari rumahnya di atas bukit menuju kota.
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:615
-#, fuzzy
 msgid "“Maybe a little trip might even give me a few new ideas. If I’m completely honest, my last inventions weren’t quite as useful as the first ones... ,” Zangemann pondered."
-msgstr "“Mungkin perjalanan kecil bahkan bisa memberiku beberapa ide baru. Kalau aku jujur sepenuhnya, penemuan-penemuanku yang terakhir tidak sepenuhnya berguna seperti yang pertama...,” renung Zangemann. “Tapi mesin-mesin es krimku tidak ada duanya dan akan tetap begitu,” pikirnya segera setelah itu, dan bukan tanpa rasa bangga, saat ia melewati sekelompok orang yang semuanya sedang makan es krim kelapa, rasa hari itu."
+msgstr "“Mungkin perjalanan kecil bahkan bisa memberiku beberapa ide baru. Kalau aku jujur sepenuhnya, penemuan-penemuanku yang terakhir tidak sepenuhnya berguna seperti yang pertama...,” renung Zangemann."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:615
-#, fuzzy
 msgid "“But my ice-cream machines are and will remain second to none,” he thought immediately afterward, and not without pride, as he passed a group of people all eating coconut ice cream, the flavor of the day."
-msgstr "“Mungkin perjalanan kecil bahkan bisa memberiku beberapa ide baru. Kalau aku jujur sepenuhnya, penemuan-penemuanku yang terakhir tidak sepenuhnya berguna seperti yang pertama...,” renung Zangemann. “Tapi mesin-mesin es krimku tidak ada duanya dan akan tetap begitu,” pikirnya segera setelah itu, dan bukan tanpa rasa bangga, saat ia melewati sekelompok orang yang semuanya sedang makan es krim kelapa, rasa hari itu."
+msgstr "“Tapi mesin-mesin es krimku tidak ada duanya dan akan tetap begitu,” pikirnya segera setelah itu, dan bukan tanpa rasa bangga, saat ia melewati sekelompok orang yang semuanya sedang makan es krim kelapa, rasa hari itu."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:617
@@ -748,34 +745,33 @@ msgstr "Bapak Zangemann setelah insiden dengan seorang anak. Bapak Zangemann men
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:626
-#, fuzzy
 msgid "Zangemann yelped and looked around for the cause. A startled child stood in front of him, holding an original Zangemann skateboard under his arm."
-msgstr "Zangemann menjerit dan menoleh mencari penyebabnya. Seorang anak yang terkejut berdiri di depannya, memegang skateboard Zangemann asli di bawah lengannya. “Maaf, aku tidak bermaksud melakukan itu,” gagap si anak, tetapi Zangemann tidak mendengarkan."
+msgstr "Zangemann menjerit dan menoleh mencari penyebabnya. Seorang anak yang terkejut berdiri di depannya, memegang skateboard Zangemann asli di bawah lengannya."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:626
 msgid "“Sorry, I didn’t mean to do that,” the child stammered, but Zangemann wasn’t listening."
-msgstr ""
+msgstr "“Maaf, aku tidak bermaksud melakukan itu,” gagap si anak, tetapi Zangemann tidak mendengarkan."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:627
 msgid "An angry Zangemann limped away. Suddenly, he heard loud music. He had never before heard something so horrible."
-msgstr ""
+msgstr "Dengan marah, Zangemann berjalan terpincang-pincang menjauh. Tiba-tiba, ia mendengar musik keras. Ia belum pernah mendengar sesuatu yang begitu mengerikan."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:627
 msgid "He looked around and saw that the music was coming from a loudspeaker he himself had constructed."
-msgstr ""
+msgstr "Ia menoleh dan melihat bahwa musik itu berasal dari sebuah pengeras suara yang ia sendiri buat."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:627
 msgid "A child across the street was holding it. The child seemed to like the music, but it gave Zangemann a terrible headache, and his mood worsened."
-msgstr ""
+msgstr "Seorang anak di seberang jalan sedang memegangnya. Anak itu tampaknya menyukai musik tersebut, tetapi itu membuat Zangemann pusing sekali, dan suasana hatinya memburuk."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:627
 msgid "This was not how he had imagined his walk!"
-msgstr ""
+msgstr "Ini bukan seperti yang ia bayangkan untuk jalan-jalannya!"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -787,17 +783,17 @@ msgstr "Iklan es krim Zangemann (papan iklan berdiri), sebuah skateboard listrik
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:637
 msgid "Zangemann was so furious with the two children. How dare they use his inventions this way? That night, he couldn’t sleep, so he sat down at his golden computer."
-msgstr ""
+msgstr "Zangemann sangat murka kepada kedua anak itu. Beraninya mereka menggunakan penemuannya dengan cara seperti ini? Malam itu, ia tidak bisa tidur, jadi ia duduk di depan komputer emasnya."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:637
 msgid "From there, he gave all the little computers in the skateboards a command that they were no longer allowed to go on sidewalks."
-msgstr ""
+msgstr "Dari sana, ia memberi perintah kepada semua komputer kecil di skateboard bahwa mereka tidak lagi boleh melaju di trotoar."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:637
 msgid "He ordered the small computers in the speakers to play music only at a low volume, except for his favorite music, which he immediately turned on to get into a better mood."
-msgstr ""
+msgstr "Ia memerintahkan komputer kecil di pengeras suara agar hanya memutar musik dengan volume rendah, kecuali musik favoritnya, yang langsung ia putar untuk memperbaiki suasana hati."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -820,14 +816,13 @@ msgstr "Skateboard tidak lagi berfungsi"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:660
-#, fuzzy
 msgid "The next day, there was a big commotion at Ada’s school. On the way to school, the kids’ skateboards had stopped working. The wheels simply stood still."
-msgstr "Keesokan harinya, terjadi kehebohan besar di sekolah Ada. Dalam perjalanan ke sekolah, skateboard anak-anak berhenti berfungsi. Roda-rodanya mendadak diam saja. Dan anak-anak tidak lagi bisa menaikkan volume pada pengeras suara mereka. Ada apa ini?"
+msgstr "Keesokan harinya, terjadi kehebohan besar di sekolah Ada. Dalam perjalanan ke sekolah, skateboard anak-anak berhenti berfungsi. Roda-rodanya mendadak diam saja."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:660
 msgid "And the children could no longer turn up the volume on their speakers. What was going on?"
-msgstr ""
+msgstr "Dan anak-anak tidak lagi bisa menaikkan volume pada pengeras suara mereka. Ada apa ini?"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -839,22 +834,22 @@ msgstr "Lima anak dari sekolah yang tidak bisa membuat skateboard berfungsi. Dua
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:669
 msgid "Although she didn’t own any of these things, Ada wondered why the skateboards and the speakers suddenly stopped working."
-msgstr ""
+msgstr "Meskipun ia tidak memiliki satu pun dari benda-benda itu, Ada bertanya-tanya mengapa skateboard dan pengeras suara tiba-tiba berhenti berfungsi."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:669
 msgid "But she didn’t really have time to think much about it, because she was tinkering again."
-msgstr ""
+msgstr "Tetapi ia tidak benar-benar punya banyak waktu untuk memikirkannya, karena ia kembali mengutak-atik."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:669
 msgid "She put together a complete bicycle from the parts of three broken bicycles. She gave the bicycle to her mother as a present so that she wouldn’t have to spend her money on bus tickets to work."
-msgstr ""
+msgstr "Ia merakit sebuah sepeda lengkap dari bagian-bagian tiga sepeda yang rusak. Sepeda itu ia berikan kepada ibunya sebagai hadiah agar ibunya tidak perlu menghabiskan uangnya untuk tiket bus ke tempat kerja."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:669
 msgid "For her brother, Ada built a loudspeaker so he could fall asleep to nice stories in the evenings when their mother was still at work."
-msgstr ""
+msgstr "Untuk adiknya, Ada membuat sebuah pengeras suara agar adiknya bisa tertidur ditemani cerita-cerita yang bagus pada malam hari ketika ibu mereka masih bekerja."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -866,17 +861,17 @@ msgstr "Tampilan dekat Ada yang sedang berpikir, dengan ransel, satu tangan di d
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:677
 msgid "After a few days, the initial shock at Ada’s school was forgotten. The skateboards still didn’t go on the sidewalk, but apart from that, they still worked."
-msgstr ""
+msgstr "Setelah beberapa hari, keterkejutan awal di sekolah Ada pun terlupakan. Skateboard masih tidak boleh melaju di trotoar, tetapi selain itu, skateboard tetap berfungsi."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:677
 msgid "And so now the children rode in circles around the playground and listened to soft music."
-msgstr ""
+msgstr "Maka kini anak-anak berputar-putar mengelilingi taman bermain dan mendengarkan musik pelan."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:677
 msgid "Only a strange, pompous marching music continued to play at an unchanged volume, which the children found rather puzzling."
-msgstr ""
+msgstr "Hanya musik mars yang aneh dan berlagak megah yang terus diputar dengan volume yang tidak berubah, yang membuat anak-anak cukup kebingungan."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:682
