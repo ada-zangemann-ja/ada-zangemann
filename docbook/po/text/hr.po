@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-05 05:54+0100\n"
+"PO-Revision-Date: 2026-01-05 16:25+0100\n"
 "Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/fsfe/ada-zangemann/hr/>\n"
 "Language: hr\n"
@@ -629,10 +629,15 @@ msgstr "Na prvi se pogled činilo da nisu svi njegovi izumi osobito potrebni, al
 msgid "One day..."
 msgstr ""
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:606
-msgid "One day Zangemann thought, “Today I want to see my inventions up close.” He put away his big telescope, then climbed down the many stairs of his mansion and ventured out into the city, full of anticipation at the thought of enjoying his cool devices."
-msgstr "Jednog dana Zangemann je pomislio „danas želim vidjeti svoje izume izbliza”. Odložio je svoj veliki teleskop, zatim se spustio niz mnogo stuba svoje vile i pošao u grad, unaprijed se radujući kako će uživati u svojim fora uređajima."
+msgid "One day Zangemann thought, “Today I want to see my inventions up close.”"
+msgstr "Jednog dana Zangemann je pomislio „danas želim vidjeti svoje izume izbliza”."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:606
+msgid "He put away his big telescope, then climbed down the many stairs of his mansion and ventured out into the city, full of anticipation at the thought of enjoying his cool devices."
+msgstr "Odložio je svoj veliki teleskop, zatim se spustio niz mnogo stuba svoje vile i pošao u grad, unaprijed se radujući kako će uživati u svojim fora uređajima."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -641,10 +646,15 @@ msgstr "Jednog dana Zangemann je pomislio „danas želim vidjeti svoje izume iz
 msgid "Zangemann descends the stairs from his mansion on the hill towards the city. Zangemann’s house stands on a hill. The front is blue with large windows; the towers are dark blue, and from a window starts a yellow slide that ends in a large swimming pool with two palm trees. The roofs are red, and above the highest tower an antenna is installed. On the sides of the stairs to get off the hill there are evergreen trees."
 msgstr ""
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:615
-msgid "“Maybe a little trip might even give me a few new ideas. If I’m completely honest, my last inventions weren’t quite as useful as the first ones... ,” Zangemann pondered. “But my ice-cream machines are and will remain second to none,” he thought immediately afterward, and not without pride, as he passed a group of people all eating coconut ice cream, the flavor of the day."
-msgstr "»Mali mi izlet možda čak pridonese i nekoliko novih ideja. Da budem sasvim iskren, moji najnoviji izumi nisu baš bili korisni kao oni prvi…,« razmišljao je Zangemann. Ali moji sladoledomati jesu i zauvijek će biti najbolji od svih, odmah je zatim neskromno pomislio dok je prolazio pokraj skupine ljudi koji su jeli sladoled od kokosa, odabranog okusa za taj dan."
+msgid "“Maybe a little trip might even give me a few new ideas. If I’m completely honest, my last inventions weren’t quite as useful as the first ones... ,” Zangemann pondered."
+msgstr "»Mali mi izlet možda čak pridonese i nekoliko novih ideja. Da budem sasvim iskren, moji najnoviji izumi nisu baš bili korisni kao oni prvi…,« razmišljao je Zangemann."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:615
+msgid "“But my ice-cream machines are and will remain second to none,” he thought immediately afterward, and not without pride, as he passed a group of people all eating coconut ice cream, the flavor of the day."
+msgstr "Ali moji sladoledomati jesu i zauvijek će biti najbolji od svih, odmah je zatim neskromno pomislio dok je prolazio pokraj skupine ljudi koji su jeli sladoled od kokosa, odabranog okusa za taj dan."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:617
@@ -658,15 +668,35 @@ msgstr "Bio je posve uronjen u svoje misli kada iznenada – TRES! – nešto mu
 msgid "Zangemann after the incident with the child. Zangemann screams from pain while holding up one of his legs with both hands at the shin. The child has brown hair that is blown back by Zangemann’s scream; he is wearing a light blue hooded sweatshirt and dark green pants. He holds a red Zangemann electric skateboard."
 msgstr ""
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:626
-msgid "Zangemann yelped and looked around for the cause. A startled child stood in front of him, holding an original Zangemann skateboard under his arm. “Sorry, I didn’t mean to do that,” the child stammered, but Zangemann wasn’t listening."
-msgstr "Zangemann je jauknuo i pogledao oko sebe da pronađe uzrok. Uplašeno dijete stajalo je pred njim, držeći pod rukom originalni Zangemannov skateboard. »Oprostite, nisam htio«, zamucalo je dijete, ali Zangemann nije slušao."
+msgid "Zangemann yelped and looked around for the cause. A startled child stood in front of him, holding an original Zangemann skateboard under his arm."
+msgstr "Zangemann je jauknuo i pogledao oko sebe da pronađe uzrok. Uplašeno dijete stajalo je pred njim, držeći pod rukom originalni Zangemannov skateboard."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:626
+msgid "“Sorry, I didn’t mean to do that,” the child stammered, but Zangemann wasn’t listening."
+msgstr "»Oprostite, nisam htio«, zamucalo je dijete, ali Zangemann nije slušao."
+
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:627
-msgid "An angry Zangemann limped away. Suddenly, he heard loud music. He had never before heard something so horrible. He looked around and saw that the music was coming from a loudspeaker he himself had constructed. A child across the street was holding it. The child seemed to like the music, but it gave Zangemann a terrible headache, and his mood worsened. This was not how he had imagined his walk!"
-msgstr "Ljutiti Zangemann odšepao je dalje. Iznenada, čuo je glasnu glazbu. Nikada prije nije čuo nešto toliko užasno. Pogledao je oko sebe i vidio da glazba dolazi iz zvučnika koji je on sam proizveo. Dijete s druge strane ceste nosilo ga je u rukama. Činilo se da dijete uživa u glazbi, ali Zangemanna je od nje boljela glava i raspoloženje mu se pokvarilo. Nije ovako zamišljao svoju šetnju!"
+msgid "An angry Zangemann limped away. Suddenly, he heard loud music. He had never before heard something so horrible."
+msgstr "Ljutiti Zangemann odšepao je dalje. Iznenada, čuo je glasnu glazbu. Nikada prije nije čuo nešto toliko užasno."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:627
+msgid "He looked around and saw that the music was coming from a loudspeaker he himself had constructed."
+msgstr "Pogledao je oko sebe i vidio da glazba dolazi iz zvučnika koji je on sam proizveo."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:627
+msgid "A child across the street was holding it. The child seemed to like the music, but it gave Zangemann a terrible headache, and his mood worsened."
+msgstr "Dijete s druge strane ceste nosilo ga je u rukama. Činilo se da dijete uživa u glazbi, ali Zangemanna je od nje boljela glava i raspoloženje mu se pokvarilo."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:627
+msgid "This was not how he had imagined his walk!"
+msgstr "Nije ovako zamišljao svoju šetnju!"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -675,10 +705,20 @@ msgstr "Ljutiti Zangemann odšepao je dalje. Iznenada, čuo je glasnu glazbu. Ni
 msgid "Advertisements for Zangemann ice cream (sandwich board), a Zangemann electric skateboard, and a Zangemann washing machine. The math teacher, Ms. Gernet, is passing in front of the billboards. Ms. Gernet is an old lady with short white hair. She is dressed in a light green t-shirt and a pea green sweater, dark brown pants, and light green heeled shoes. She has a fuchsia shoulder bag, worn behind her. She pushes a small shopping cart in which there is a small brown dog with a collar and tag."
 msgstr ""
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:637
-msgid "Zangemann was so furious with the two children. How dare they use his inventions this way? That night, he couldn’t sleep, so he sat down at his golden computer. From there, he gave all the little computers in the skateboards a command that they were no longer allowed to go on sidewalks. He ordered the small computers in the speakers to play music only at a low volume, except for his favorite music, which he immediately turned on to get into a better mood."
-msgstr "Zangemann je bio bijesan na to dvoje djece. Kako se samo usuđuju koristiti njegove izume na taj način? Te noći nije mogao zaspati te je sjeo za svoje zlatno računalo. Od tamo je izdao naredbu svim malenim računalima u skateboardovima da više ne smiju ići nogostupima. Naredio je malenim računalima u zvučnicima da glazbu puštaju samo tiho, osim njegove omiljene glazbe koju je odmah upalio da se oraspoloži."
+msgid "Zangemann was so furious with the two children. How dare they use his inventions this way? That night, he couldn’t sleep, so he sat down at his golden computer."
+msgstr "Zangemann je bio bijesan na to dvoje djece. Kako se samo usuđuju koristiti njegove izume na taj način? Te noći nije mogao zaspati te je sjeo za svoje zlatno računalo."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:637
+msgid "From there, he gave all the little computers in the skateboards a command that they were no longer allowed to go on sidewalks."
+msgstr "Od tamo je izdao naredbu svim malenim računalima u skateboardovima da više ne smiju ići nogostupima."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:637
+msgid "He ordered the small computers in the speakers to play music only at a low volume, except for his favorite music, which he immediately turned on to get into a better mood."
+msgstr "Naredio je malenim računalima u zvučnicima da glazbu puštaju samo tiho, osim njegove omiljene glazbe koju je odmah upalio da se oraspoloži."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -699,11 +739,15 @@ msgstr ""
 msgid "Skateboards no longer work"
 msgstr ""
 
-#. (itstool) path: simplesect/para
-#. (itstool) id: Ada_Zangemann.dbk#para-p18-1
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:660
-msgid "The next day, there was a big commotion at Ada’s school. On the way to school, the kids’ skateboards had stopped working. The wheels simply stood still. And the children could no longer turn up the volume on their speakers. What was going on?"
-msgstr "Sljedećeg dana u Adinoj školi došlo je do meteža. Na putu do škole djeci su skateboardovi prestali raditi. Kotači su im jednostavno stali, nepomično. Također, djeca više nisu mogla poglasniti svoje zvučnike. Što se to događalo?"
+msgid "The next day, there was a big commotion at Ada’s school. On the way to school, the kids’ skateboards had stopped working. The wheels simply stood still."
+msgstr "Sljedećeg dana u Adinoj školi došlo je do meteža. Na putu do škole djeci su skateboardovi prestali raditi. Kotači su im jednostavno stali, nepomično."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:660
+msgid "And the children could no longer turn up the volume on their speakers. What was going on?"
+msgstr "Također, djeca više nisu mogla poglasniti svoje zvučnike. Što se to događalo?"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -712,10 +756,25 @@ msgstr "Sljedećeg dana u Adinoj školi došlo je do meteža. Na putu do škole 
 msgid "Five kids from the school who can’t make skateboards work. Two girls wear helmets, respectively blue and red. A little girl with brown hair tied in two tails with yellow rubber bands is kneeling. She is trying to understand why the skateboard of her friend with the red helmet does not work. Four children have backpacks on their shoulders, while the little girl with the red helmet left hers leaning on a bench on which there are a yellow apple and a light blue bottle with a white flower on it."
 msgstr ""
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:669
-msgid "Although she didn’t own any of these things, Ada wondered why the skateboards and the speakers suddenly stopped working. But she didn’t really have time to think much about it, because she was tinkering again. She put together a complete bicycle from the parts of three broken bicycles. She gave the bicycle to her mother as a present so that she wouldn’t have to spend her money on bus tickets to work. For her brother, Ada built a loudspeaker so he could fall asleep to nice stories in the evenings when their mother was still at work."
-msgstr "Iako nije posjedovala nijednu od tih stvari, Ada se pitala zašto su skateboardovi i zvučnici iznenada prestali raditi. Ali nije imala mnogo vremena za razmišljanje jer se ponovno bacila na posao. Sastavila je cijeli bicikl od dijelova triju različitih razbijenih bicikala. Darovala je bicikl svojoj majci kako više ne bi morala trošiti novac na autobusnu kartu kada ide na posao. Bratu je izradila zvučnik kako bi mogao navečer prije spavanja slušati lijepe priče dok je mama još bila na poslu."
+msgid "Although she didn’t own any of these things, Ada wondered why the skateboards and the speakers suddenly stopped working."
+msgstr "Iako nije posjedovala nijednu od tih stvari, Ada se pitala zašto su skateboardovi i zvučnici iznenada prestali raditi."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:669
+msgid "But she didn’t really have time to think much about it, because she was tinkering again."
+msgstr "Ali nije imala mnogo vremena za razmišljanje jer se ponovno bacila na posao"
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:669
+msgid "She put together a complete bicycle from the parts of three broken bicycles. She gave the bicycle to her mother as a present so that she wouldn’t have to spend her money on bus tickets to work."
+msgstr "Sastavila je cijeli bicikl od dijelova triju različitih razbijenih bicikala. Darovala je bicikl svojoj majci kako više ne bi morala trošiti novac na autobusnu kartu kada ide na posao."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:669
+msgid "For her brother, Ada built a loudspeaker so he could fall asleep to nice stories in the evenings when their mother was still at work."
+msgstr "Bratu je izradila zvučnik kako bi mogao navečer prije spavanja slušati lijepe priče dok je mama još bila na poslu."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -724,10 +783,20 @@ msgstr "Iako nije posjedovala nijednu od tih stvari, Ada se pitala zašto su ska
 msgid "Close-up of Ada thoughtful, with a backpack and with one hand on her chin and the other resting on her side."
 msgstr ""
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:677
-msgid "After a few days, the initial shock at Ada’s school was forgotten. The skateboards still didn’t go on the sidewalk, but apart from that, they still worked. And so now the children rode in circles around the playground and listened to soft music. Only a strange, pompous marching music continued to play at an unchanged volume, which the children found rather puzzling."
-msgstr "Nakon nekoliko dana početni je šok u Adinoj školi bio zaboravljen. Skateboardovi i dalje nisu vozili po nogostupu, ali su još radili. I tako su se sada djeca vozila ukrug oko igrališta i slušala tihu glazbu. Samo je neobična, svečana koračnica svirala nepromijenjenom glasnoćom, što je zbunjivalo djecu."
+msgid "After a few days, the initial shock at Ada’s school was forgotten. The skateboards still didn’t go on the sidewalk, but apart from that, they still worked."
+msgstr "Nakon nekoliko dana početni je šok u Adinoj školi bio zaboravljen. Skateboardovi i dalje nisu vozili po nogostupu, ali su još radili."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:677
+msgid "And so now the children rode in circles around the playground and listened to soft music."
+msgstr "I tako su se sada djeca vozila ukrug oko igrališta i slušala tihu glazbu."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:677
+msgid "Only a strange, pompous marching music continued to play at an unchanged volume, which the children found rather puzzling."
+msgstr "Samo je neobična, svečana koračnica svirala nepromijenjenom glasnoćom, što je zbunjivalo djecu."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:682

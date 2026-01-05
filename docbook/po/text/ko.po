@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-05 06:07+0100\n"
+"PO-Revision-Date: 2026-01-05 17:43+0100\n"
 "Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/fsfe/ada-zangemann/ko/>\n"
 "Language: ko\n"
@@ -691,10 +691,15 @@ msgstr "처음에는 아저씨의 발명품이 전부 다 필요해 보이지는
 msgid "One day..."
 msgstr "어느 날..."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:606
-msgid "One day Zangemann thought, “Today I want to see my inventions up close.” He put away his big telescope, then climbed down the many stairs of his mansion and ventured out into the city, full of anticipation at the thought of enjoying his cool devices."
-msgstr "어느 날 장기만 아저씨는 생각했어요, “오늘은 내 발명품들을 가까이서 보고싶군.” 그는 큰 망원경을 밀어두고, 도시를 탐험하기 위해 그의 저택 계단을 내려가기로 했어요. 그가 만든 멋진 장치들을 직접 눈으로 보고 즐길 수 있으리란 희망을 안고서요."
+msgid "One day Zangemann thought, “Today I want to see my inventions up close.”"
+msgstr "어느 날 장기만 아저씨는 생각했어요, “오늘은 내 발명품들을 가까이서 보고싶군.” "
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:606
+msgid "He put away his big telescope, then climbed down the many stairs of his mansion and ventured out into the city, full of anticipation at the thought of enjoying his cool devices."
+msgstr "그는 큰 망원경을 밀어두고, 도시를 탐험하기 위해 그의 저택 계단을 내려가기로 했어요. 그가 만든 멋진 장치들을 직접 눈으로 보고 즐길 수 있으리란 희망을 안고서요."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -703,10 +708,15 @@ msgstr "어느 날 장기만 아저씨는 생각했어요, “오늘은 내 발�
 msgid "Zangemann descends the stairs from his mansion on the hill towards the city. Zangemann’s house stands on a hill. The front is blue with large windows; the towers are dark blue, and from a window starts a yellow slide that ends in a large swimming pool with two palm trees. The roofs are red, and above the highest tower an antenna is installed. On the sides of the stairs to get off the hill there are evergreen trees."
 msgstr "장기만 아저씨는 도시로 내려가기 위해 언덕 위에 있는 그의 저택 계단을 내려오고 있습니다. 장기만 아저씨의 저택은 언덕 위에 있습니다. 저택은 큰 창문을 가진 파란색이었어요; 높은 타워는 짙은 파란색이고 타워에 연결된 노란색 미끄럼틀이 두 그루의 야자수 나무가 있는 수영장으로 연결되어 있습니다. 지붕은 빨간색이고 가장 높은 타워에는 안테나가 설치되어 있습니다. 언덕을 내려가는 계단 옆에는 푸른 상록수 나무가 심어져 있습니다."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:615
-msgid "“Maybe a little trip might even give me a few new ideas. If I’m completely honest, my last inventions weren’t quite as useful as the first ones... ,” Zangemann pondered. “But my ice-cream machines are and will remain second to none,” he thought immediately afterward, and not without pride, as he passed a group of people all eating coconut ice cream, the flavor of the day."
-msgstr "“아마도 잠깐의 산책이 나에게 새로운 활력소를 불어 넣어줄꺼야. 만약 내 생각이 맞다면, 내 마지막 발명품은 처음 발명품 만큼 유용하지는 않을꺼야...” 아저씨는 깊은 생각에 빠졌어요. “그래도 내 아이스크림 기계는 누구에게도 뒤지지 않고 앞으로도 그럴꺼야” 아저씨는 한 무리의 사람들이 오늘의 아이스크림인 코코넛 아이스크림을 먹으며 스쳐 지나가는 걸 보면서 자부심이 차올랐습니다."
+msgid "“Maybe a little trip might even give me a few new ideas. If I’m completely honest, my last inventions weren’t quite as useful as the first ones... ,” Zangemann pondered."
+msgstr "“아마도 잠깐의 산책이 나에게 새로운 활력소를 불어 넣어줄꺼야. 만약 내 생각이 맞다면, 내 마지막 발명품은 처음 발명품 만큼 유용하지는 않을꺼야...” 아저씨는 깊은 생각에 빠졌어요. "
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:615
+msgid "“But my ice-cream machines are and will remain second to none,” he thought immediately afterward, and not without pride, as he passed a group of people all eating coconut ice cream, the flavor of the day."
+msgstr "“그래도 내 아이스크림 기계는 누구에게도 뒤지지 않고 앞으로도 그럴꺼야” 아저씨는 한 무리의 사람들이 오늘의 아이스크림인 코코넛 아이스크림을 먹으며 스쳐 지나가는 걸 보면서 자부심이 차올랐습니다."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:617
@@ -720,15 +730,35 @@ msgstr "아저씨가 완전히 자기 생각에 잠겨있던 그 때 - 쾅!!! - 
 msgid "Zangemann after the incident with the child. Zangemann screams from pain while holding up one of his legs with both hands at the shin. The child has brown hair that is blown back by Zangemann’s scream; he is wearing a light blue hooded sweatshirt and dark green pants. He holds a red Zangemann electric skateboard."
 msgstr "아이와 사고가 난 직후의 장기만 아저씨. 장기만 아저씨는 한 발을 들고 자신의 정강이를 손으로 부여 잡으며 비명을 지르고 있습니다. 장기만 아저씨의 비명 소리에 아이의 갈색 머리가 뒤로 휘날리고 있습니다: 아이는 하늘색의 후드 티셔츠와 짙은 녹색 바지를 입고 있습니다. 또 한 손에는 빨간색의 장기만 아저씨표 전동 스케이드보드를 들고 있습니다."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:626
-msgid "Zangemann yelped and looked around for the cause. A startled child stood in front of him, holding an original Zangemann skateboard under his arm. “Sorry, I didn’t mean to do that,” the child stammered, but Zangemann wasn’t listening."
-msgstr "장기만 아저써는 “악”하고 비명을 질렀습니다. 주위를 둘러봤지요. 깜짝놀란 아이가 아저씨 앞에 서있었어요. 한 손에는 장기만 아저씨의 스케이드 보드를 안고서요. “죄송해요, 그럴려고 한게 아닌데..” 아이는 당황해서 말을 더듬었어요. 하지만 장기만 아저씨에게는 귀에는 들리지 않았죠."
+msgid "Zangemann yelped and looked around for the cause. A startled child stood in front of him, holding an original Zangemann skateboard under his arm."
+msgstr "장기만 아저써는 “악”하고 비명을 질렀습니다. 주위를 둘러봤지요. 깜짝놀란 아이가 아저씨 앞에 서있었어요. 한 손에는 장기만 아저씨의 스케이드 보드를 안고서요."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:626
+msgid "“Sorry, I didn’t mean to do that,” the child stammered, but Zangemann wasn’t listening."
+msgstr "“죄송해요, 그럴려고 한게 아닌데..” 아이는 당황해서 말을 더듬었어요. 하지만 장기만 아저씨에게는 귀에는 들리지 않았죠."
+
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:627
-msgid "An angry Zangemann limped away. Suddenly, he heard loud music. He had never before heard something so horrible. He looked around and saw that the music was coming from a loudspeaker he himself had constructed. A child across the street was holding it. The child seemed to like the music, but it gave Zangemann a terrible headache, and his mood worsened. This was not how he had imagined his walk!"
-msgstr "화가 난 아저씨가 절뚝거리며 떠났어요. 갑자기 어디선가 시끄러운 음악이 들렸어요. 하지만 그렇게 끔직한 음악는 난생 처음 들어봤어요. 주변을 둘러봤더니 아저씨가 만든 스피커에서 음악이 흘러나오고 있는게 아니겠어요. 건너편 아이가 그 스피커를 가지고 있었어요. 아이는 그 음악을 좋아하는 것 같았지만 아저씨에겐 심각한 두통만 선사할 뿐이었죠. 아저씨는 기분이 안좋아졌어요. 이건 정말이지 예상하지 못한 하루였죠!"
+msgid "An angry Zangemann limped away. Suddenly, he heard loud music. He had never before heard something so horrible."
+msgstr "화가 난 아저씨가 절뚝거리며 떠났어요. 갑자기 어디선가 시끄러운 음악이 들렸어요. 하지만 그렇게 끔직한 음악는 난생 처음 들어봤어요."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:627
+msgid "He looked around and saw that the music was coming from a loudspeaker he himself had constructed."
+msgstr "주변을 둘러봤더니 아저씨가 만든 스피커에서 음악이 흘러나오고 있는게 아니겠어요."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:627
+msgid "A child across the street was holding it. The child seemed to like the music, but it gave Zangemann a terrible headache, and his mood worsened."
+msgstr "건너편 아이가 그 스피커를 가지고 있었어요. 아이는 그 음악을 좋아하는 것 같았지만 아저씨에겐 심각한 두통만 선사할 뿐이었죠. 아저씨는 기분이 안좋아졌어요."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:627
+msgid "This was not how he had imagined his walk!"
+msgstr "이건 정말이지 예상하지 못한 하루였죠!"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -737,10 +767,20 @@ msgstr "화가 난 아저씨가 절뚝거리며 떠났어요. 갑자기 어디�
 msgid "Advertisements for Zangemann ice cream (sandwich board), a Zangemann electric skateboard, and a Zangemann washing machine. The math teacher, Ms. Gernet, is passing in front of the billboards. Ms. Gernet is an old lady with short white hair. She is dressed in a light green t-shirt and a pea green sweater, dark brown pants, and light green heeled shoes. She has a fuchsia shoulder bag, worn behind her. She pushes a small shopping cart in which there is a small brown dog with a collar and tag."
 msgstr "장기만표 아이스크림 광고판 (접이식 간판), 장기만표 전동 스케이트보드 광고판 그리고 장기만표 세탁기 광고판. 수학을 가르치는 가넷 선생님이 광고판 앞을 걸어가고 있습니다. 가넷 선생님은 흰색 짧은 머리의 할머니 선생님이에요. 그녀는 밝은 녹색 티셔츠와 완두콩색 스웨터, 짙은 갈색의 바지, 밝은 녹색의 굽높은 구두를 신었어요. 그녀는 핫핑크색 핸드백을 뒤로 메고 있어요. 그녀는 작은 쇼핑 카트를 밀고 있었는데 카트 안에는 팬던트 목걸이를 찬 갈색 강이지가 타고 있습니다."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:637
-msgid "Zangemann was so furious with the two children. How dare they use his inventions this way? That night, he couldn’t sleep, so he sat down at his golden computer. From there, he gave all the little computers in the skateboards a command that they were no longer allowed to go on sidewalks. He ordered the small computers in the speakers to play music only at a low volume, except for his favorite music, which he immediately turned on to get into a better mood."
-msgstr "장기만 아저씨는 낮에 만났던 두 아이 때문에 화가 났습니다. 아이들은 어째서 자신의 발명품을 감히 그런 식으로 사용하는 걸까요? 그는 통 잠을 이루지 못했습니다. 그는 황금 컴퓨터에 앉았습니다. 거기서 아저씨는 스케이보드에 달린 작은 컴퓨터에게 더 이상 인도에서 동작하지 않도록 명령을 내렸습니다. 스피커에 달린 컴퓨터에게는 자신이 좋아하는 음악을 빼고는 모두 작은 소리로 연주되도록 지시를 내렸습니다. 아저씨는 지시를 내리고 난 뒤에 지금껏 가라앉은 기분을 바꾸고자 스피커를 켰답니다."
+msgid "Zangemann was so furious with the two children. How dare they use his inventions this way? That night, he couldn’t sleep, so he sat down at his golden computer."
+msgstr "장기만 아저씨는 낮에 만났던 두 아이 때문에 화가 났습니다. 아이들은 어째서 자신의 발명품을 감히 그런 식으로 사용하는 걸까요? 그는 통 잠을 이루지 못했습니다."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:637
+msgid "From there, he gave all the little computers in the skateboards a command that they were no longer allowed to go on sidewalks."
+msgstr "그는 황금 컴퓨터에 앉았습니다. 거기서 아저씨는 스케이보드에 달린 작은 컴퓨터에게 더 이상 인도에서 동작하지 않도록 명령을 내렸습니다."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:637
+msgid "He ordered the small computers in the speakers to play music only at a low volume, except for his favorite music, which he immediately turned on to get into a better mood."
+msgstr "스피커에 달린 컴퓨터에게는 자신이 좋아하는 음악을 빼고는 모두 작은 소리로 연주되도록 지시를 내렸습니다. 아저씨는 지시를 내리고 난 뒤에 지금껏 가라앉은 기분을 바꾸고자 스피커를 켰답니다."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -763,11 +803,15 @@ msgstr "이전 페이지 그림에서 이어지는 장면, 배경으로는 장�
 msgid "Skateboards no longer work"
 msgstr "스케이트보드가 멈췄다"
 
-#. (itstool) path: simplesect/para
-#. (itstool) id: Ada_Zangemann.dbk#para-p18-1
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:660
-msgid "The next day, there was a big commotion at Ada’s school. On the way to school, the kids’ skateboards had stopped working. The wheels simply stood still. And the children could no longer turn up the volume on their speakers. What was going on?"
-msgstr "다음날 에이다의 학교는 커다란 혼란에 빠졌어요. 학교로 오늘 길에 스케이트보드가 동작을 멈춰버렸기 때문입니다. 바퀴가 그냥 동작을 멈췄어요. 게다가 아이들은 더 이상 스피커의 볼륨을 높일 수 가 없게 되었어요. 도대체 무슨 일이 벌어진 걸까요?"
+msgid "The next day, there was a big commotion at Ada’s school. On the way to school, the kids’ skateboards had stopped working. The wheels simply stood still."
+msgstr "다음날 에이다의 학교는 커다란 혼란에 빠졌어요. 학교로 오늘 길에 스케이트보드가 동작을 멈춰버렸기 때문입니다. 바퀴가 그냥 동작을 멈췄어요."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:660
+msgid "And the children could no longer turn up the volume on their speakers. What was going on?"
+msgstr "게다가 아이들은 더 이상 스피커의 볼륨을 높일 수 가 없게 되었어요. 도대체 무슨 일이 벌어진 걸까요?"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -776,10 +820,25 @@ msgstr "다음날 에이다의 학교는 커다란 혼란에 빠졌어요. 학�
 msgid "Five kids from the school who can’t make skateboards work. Two girls wear helmets, respectively blue and red. A little girl with brown hair tied in two tails with yellow rubber bands is kneeling. She is trying to understand why the skateboard of her friend with the red helmet does not work. Four children have backpacks on their shoulders, while the little girl with the red helmet left hers leaning on a bench on which there are a yellow apple and a light blue bottle with a white flower on it."
 msgstr "스케이트 보드가 동작하지 않는 5명의 아이들. 두 명의 소녀가 각각 파란색과 빨간색의 헬맷을 쓰고 있습니다. 갈색 머리에 고무줄로 머리를 양갈래로 묶은 한 소녀가 무릎을 꿇고있습니다. 그녀는 빨간색 헬맷을 쓰고 있는 친구의 스케이트보드가 왜 동작을 안하는지 파악하려 애쓰고 있습니다. 4명의 아이들이 가방을 메고 있는 가운데 빨간색 헬맷을 쓴 아이의 가방은 벤치에 기대어져 있습니다. 벤치에는 노란색 사과와 흰색 꽃모양이 그려진 하늘색 물병이 놓여져 있습니다."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:669
-msgid "Although she didn’t own any of these things, Ada wondered why the skateboards and the speakers suddenly stopped working. But she didn’t really have time to think much about it, because she was tinkering again. She put together a complete bicycle from the parts of three broken bicycles. She gave the bicycle to her mother as a present so that she wouldn’t have to spend her money on bus tickets to work. For her brother, Ada built a loudspeaker so he could fall asleep to nice stories in the evenings when their mother was still at work."
-msgstr "비록 에이다는 스케이드보드나 스피커가 없었지만, 이것들이 왜 작동을 멈췄는지 궁금해 했어요. 하지만 그녀는 곧 거기에 집중할 여유가 없어졌어요. 왜냐하면 또 다시 뭔가를 만들고 싶었거든요. 에이다는 세 대의 부서진 자전거를 이용해 새로운 자전거를 만들어 냈어요. 그리고 그 자전거를 엄마에게 선물했어요. 자전거 덕분에 엄마는 일하러 갈 때 버스비를 아낄 수 있었지요. 에이다는 동생에게는 스피커를 만들어 주었어요. 그래서 엄마가 늦게오는 날에 동생이 스피커로 재밌는 이야기를 들으며 잠들 수 있도록 만들어 주었지요."
+msgid "Although she didn’t own any of these things, Ada wondered why the skateboards and the speakers suddenly stopped working."
+msgstr "비록 에이다는 스케이드보드나 스피커가 없었지만, 이것들이 왜 작동을 멈췄는지 궁금해 했어요."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:669
+msgid "But she didn’t really have time to think much about it, because she was tinkering again."
+msgstr "하지만 그녀는 곧 거기에 집중할 여유가 없어졌어요. 왜냐하면 또 다시 뭔가를 만들고 싶었거든요."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:669
+msgid "She put together a complete bicycle from the parts of three broken bicycles. She gave the bicycle to her mother as a present so that she wouldn’t have to spend her money on bus tickets to work."
+msgstr "에이다는 세 대의 부서진 자전거를 이용해 새로운 자전거를 만들어 냈어요. 그리고 그 자전거를 엄마에게 선물했어요. 자전거 덕분에 엄마는 일하러 갈 때 버스비를 아낄 수 있었지요."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:669
+msgid "For her brother, Ada built a loudspeaker so he could fall asleep to nice stories in the evenings when their mother was still at work."
+msgstr "에이다는 동생에게는 스피커를 만들어 주었어요. 그래서 엄마가 늦게오는 날에 동생이 스피커로 재밌는 이야기를 들으며 잠들 수 있도록 만들어 주었지요."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -788,10 +847,20 @@ msgstr "비록 에이다는 스케이드보드나 스피커가 없었지만, 이
 msgid "Close-up of Ada thoughtful, with a backpack and with one hand on her chin and the other resting on her side."
 msgstr "궁금해하는 에이다의 모습을 클로즈업, 가방을 메고 한 손은 그녀의 턱에 한 손은 그녀의 옆구리에 가져다 댄 모습."
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:677
-msgid "After a few days, the initial shock at Ada’s school was forgotten. The skateboards still didn’t go on the sidewalk, but apart from that, they still worked. And so now the children rode in circles around the playground and listened to soft music. Only a strange, pompous marching music continued to play at an unchanged volume, which the children found rather puzzling."
-msgstr "몇 일이 지나고, 에이다의 학교에서 벌어진 소동은 잊혀졌어요. 스케이드보드가 여전히 인도에서는 동작을 안했지만 그것과는 별개로 스케이드보드 자체가 동작을 하긴 했거든요. 아이들은 놀이터를 뱅뱅돌며 스케이드보드를 탔고, 오로지 조용한 음악만을 들었답니다. 스피커에선 요상하면서도 화려한 행진곡이 변함없는 음량으로 계속 연주가 되었는데, 아이들은 이를 조금 당혹스럽게 여겼습니다."
+msgid "After a few days, the initial shock at Ada’s school was forgotten. The skateboards still didn’t go on the sidewalk, but apart from that, they still worked."
+msgstr "몇 일이 지나고, 에이다의 학교에서 벌어진 소동은 잊혀졌어요. 스케이드보드가 여전히 인도에서는 동작을 안했지만 그것과는 별개로 스케이드보드 자체가 동작을 하긴 했거든요."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:677
+msgid "And so now the children rode in circles around the playground and listened to soft music."
+msgstr "아이들은 놀이터를 뱅뱅돌며 스케이드보드를 탔고, 오로지 조용한 음악만을 들었답니다."
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:677
+msgid "Only a strange, pompous marching music continued to play at an unchanged volume, which the children found rather puzzling."
+msgstr "스피커에선 요상하면서도 화려한 행진곡이 변함없는 음량으로 계속 연주가 되었는데, 아이들은 이를 조금 당혹스럽게 여겼습니다."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:682

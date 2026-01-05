@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-05 05:57+0100\n"
+"PO-Revision-Date: 2026-01-05 16:32+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: hy\n"
@@ -631,10 +631,15 @@ msgstr "Ոչ բոլոր գիւտերն էին սկզբում պէտքական թ
 msgid "One day..."
 msgstr ""
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:606
-msgid "One day Zangemann thought, “Today I want to see my inventions up close.” He put away his big telescope, then climbed down the many stairs of his mansion and ventured out into the city, full of anticipation at the thought of enjoying his cool devices."
-msgstr "Մի օր Զանգեմանը մտածեց, «Այսօր իմ գիւտերն ուզում եմ մօտիկից տեսնել»։ Մի կողմ դրեց հեռադիտակը, իջաւ իր առանձնատան աստիճաններով եւ մտաւ քաղաք, լի ակնկալիքներով, մտածումներով իր վերջ սարքերը վայելելու։"
+msgid "One day Zangemann thought, “Today I want to see my inventions up close.”"
+msgstr "Մի օր Զանգեմանը մտածեց, «Այսօր իմ գիւտերն ուզում եմ մօտիկից տեսնել»։"
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:606
+msgid "He put away his big telescope, then climbed down the many stairs of his mansion and ventured out into the city, full of anticipation at the thought of enjoying his cool devices."
+msgstr "Մի կողմ դրեց հեռադիտակը, իջաւ իր առանձնատան աստիճաններով եւ մտաւ քաղաք, լի ակնկալիքներով, մտածումներով իր վերջ սարքերը վայելելու։"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -643,10 +648,15 @@ msgstr "Մի օր Զանգեմանը մտածեց, «Այսօր իմ գիւտե�
 msgid "Zangemann descends the stairs from his mansion on the hill towards the city. Zangemann’s house stands on a hill. The front is blue with large windows; the towers are dark blue, and from a window starts a yellow slide that ends in a large swimming pool with two palm trees. The roofs are red, and above the highest tower an antenna is installed. On the sides of the stairs to get off the hill there are evergreen trees."
 msgstr ""
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:615
-msgid "“Maybe a little trip might even give me a few new ideas. If I’m completely honest, my last inventions weren’t quite as useful as the first ones... ,” Zangemann pondered. “But my ice-cream machines are and will remain second to none,” he thought immediately afterward, and not without pride, as he passed a group of people all eating coconut ice cream, the flavor of the day."
-msgstr "«Գուցէ մի փոքր զբօսանքն ինձ նոր գաղափարներ տա։ Եթէ լրիւ անկեղծ լինեմ իմ վերջին գիւտերն այնքան օգտակար չէին, ինչքան առաջինները․․․», մտորում էր Զանգեմանը, «Բայց պաղպաղակի մեքենայի միտքը երկրորդը չի ունենայ», միանգամից մտածեց նա, եւ ոչ առանց հպարտութեան, երբ անցնում էր մարդկանց խմբի մօտով, որոնք ուտում էին կոկոսով պաղպաղակ, օրուայ համը։"
+msgid "“Maybe a little trip might even give me a few new ideas. If I’m completely honest, my last inventions weren’t quite as useful as the first ones... ,” Zangemann pondered."
+msgstr "«Գուցէ մի փոքր զբօսանքն ինձ նոր գաղափարներ տա։ Եթէ լրիւ անկեղծ լինեմ իմ վերջին գիւտերն այնքան օգտակար չէին, ինչքան առաջինները․․․», մտորում էր Զանգեմանը,"
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:615
+msgid "“But my ice-cream machines are and will remain second to none,” he thought immediately afterward, and not without pride, as he passed a group of people all eating coconut ice cream, the flavor of the day."
+msgstr "«Բայց պաղպաղակի մեքենայի միտքը երկրորդը չի ունենայ», միանգամից մտածեց նա, եւ ոչ առանց հպարտութեան, երբ անցնում էր մարդկանց խմբի մօտով, որոնք ուտում էին կոկոսով պաղպաղակ, օրուայ համը։"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:617
@@ -660,15 +670,35 @@ msgstr "Մտքերի մէջ կորել էր, երբ յանկարծ՝ ԲՈՒՄ, �
 msgid "Zangemann after the incident with the child. Zangemann screams from pain while holding up one of his legs with both hands at the shin. The child has brown hair that is blown back by Zangemann’s scream; he is wearing a light blue hooded sweatshirt and dark green pants. He holds a red Zangemann electric skateboard."
 msgstr "Զանգեմանը երեխայի հետ միջադէպից յետոյ։ Ճչում է ցաւից, երկու ձեռքով սրունքները բռնած։ Երեխան ունէր շագանակագոյն մազեր, որոնք Զանգեմանի ճչոցից ետ էին քաշուել․ նա բաց կապոյտ հուդիով էր եւ մուգ դեղին շալուարով։ Բռնել էր կարմիր Զանգեման էլեկտրական սքեյթը։"
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:626
-msgid "Zangemann yelped and looked around for the cause. A startled child stood in front of him, holding an original Zangemann skateboard under his arm. “Sorry, I didn’t mean to do that,” the child stammered, but Zangemann wasn’t listening."
-msgstr "Զանգեմանը գոռաց եւ շուրջը նայեց հասկանալու համար։ Իր առջեւ կանգնած էր մի ապշած երեխա՝ արմունկ տակ Զանգեմանի սքեյթը։ «Ներողութիւն, չէի ուզում», կակազեց երեխան, բայց Զանգեմանը չէր լսում։"
+msgid "Zangemann yelped and looked around for the cause. A startled child stood in front of him, holding an original Zangemann skateboard under his arm."
+msgstr "Զանգեմանը գոռաց եւ շուրջը նայեց հասկանալու համար։ Իր առջեւ կանգնած էր մի ապշած երեխա՝ արմունկ տակ Զանգեմանի սքեյթը։"
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:626
+msgid "“Sorry, I didn’t mean to do that,” the child stammered, but Zangemann wasn’t listening."
+msgstr "«Ներողութիւն, չէի ուզում», կակազեց երեխան, բայց Զանգեմանը չէր լսում։"
+
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:627
-msgid "An angry Zangemann limped away. Suddenly, he heard loud music. He had never before heard something so horrible. He looked around and saw that the music was coming from a loudspeaker he himself had constructed. A child across the street was holding it. The child seemed to like the music, but it gave Zangemann a terrible headache, and his mood worsened. This was not how he had imagined his walk!"
-msgstr "Ջղայնացած Զանգեմանը կաղալով հեռացաւ։ Յանկարծ, բարձր երաժշտութիւն լսեց։ Երբեք այդքան ահաւոր բան չէր լսել։ Շուրջը նայեց եւ տեսաւ, որ երաժշտութիւնը լսւում էր բարձրախօսից՝ որ հենց ինքն էր սարքել։ Փողոցի այն կողմում մի երեխայ էր բռնել այն։ Երեւում էր, որ երեխան հաւանում է երգը, բայց Զանգեմանի մօտ սարսափելի գլխացաւ սկսեց, եւ տրամադրութիւնն աւելի վատացաւ։ Իր զբօսանքից նա բոլորովին էլ սա չէր սպասում։"
+msgid "An angry Zangemann limped away. Suddenly, he heard loud music. He had never before heard something so horrible."
+msgstr "Ջղայնացած Զանգեմանը կաղալով հեռացաւ։ Յանկարծ, բարձր երաժշտութիւն լսեց։ Երբեք այդքան ահաւոր բան չէր լսել։"
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:627
+msgid "He looked around and saw that the music was coming from a loudspeaker he himself had constructed."
+msgstr "Շուրջը նայեց եւ տեսաւ, որ երաժշտութիւնը լսւում էր բարձրախօսից՝ որ հենց ինքն էր սարքել։"
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:627
+msgid "A child across the street was holding it. The child seemed to like the music, but it gave Zangemann a terrible headache, and his mood worsened."
+msgstr "Փողոցի այն կողմում մի երեխայ էր բռնել այն։ Երեւում էր, որ երեխան հաւանում է երգը, բայց Զանգեմանի մօտ սարսափելի գլխացաւ սկսեց, եւ տրամադրութիւնն աւելի վատացաւ։"
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:627
+msgid "This was not how he had imagined his walk!"
+msgstr "Իր զբօսանքից նա բոլորովին էլ սա չէր սպասում։"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -677,10 +707,20 @@ msgstr "Ջղայնացած Զանգեմանը կաղալով հեռացաւ։ Յ
 msgid "Advertisements for Zangemann ice cream (sandwich board), a Zangemann electric skateboard, and a Zangemann washing machine. The math teacher, Ms. Gernet, is passing in front of the billboards. Ms. Gernet is an old lady with short white hair. She is dressed in a light green t-shirt and a pea green sweater, dark brown pants, and light green heeled shoes. She has a fuchsia shoulder bag, worn behind her. She pushes a small shopping cart in which there is a small brown dog with a collar and tag."
 msgstr ""
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:637
-msgid "Zangemann was so furious with the two children. How dare they use his inventions this way? That night, he couldn’t sleep, so he sat down at his golden computer. From there, he gave all the little computers in the skateboards a command that they were no longer allowed to go on sidewalks. He ordered the small computers in the speakers to play music only at a low volume, except for his favorite music, which he immediately turned on to get into a better mood."
-msgstr "Զանգեմանի կատաղել էր այս երեխաների վրայ։ Ոնց կարող էին իր գիւտերն այսպէս կիրառել։ Քունը փախաւ աչքերից, ու նա նստեց իր ոսկեայ կարգչի առջեւ։ Այնտեղից, իր բոլոր սքեյթների փոքր համակարգիչներին հրաման տուեց, որ նրանք այլեւս չկարողանան քշել մայթերին։ Հրամայեց բոլոր բարձրախօսների համակարգիչներին նուագել երաժշտութիւն միայն ցածր ձայնով, բացառութեամբ իր սիրած երգերի, որոնք նա միշտ միացնում էր՝ տրամադրութիւնը բարձրացնելու համար։"
+msgid "Zangemann was so furious with the two children. How dare they use his inventions this way? That night, he couldn’t sleep, so he sat down at his golden computer."
+msgstr "Զանգեմանի կատաղել էր այս երեխաների վրայ։ Ոնց կարող էին իր գիւտերն այսպէս կիրառել։ Քունը փախաւ աչքերից, ու նա նստեց իր ոսկեայ կարգչի առջեւ։"
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:637
+msgid "From there, he gave all the little computers in the skateboards a command that they were no longer allowed to go on sidewalks."
+msgstr "Այնտեղից, իր բոլոր սքեյթների փոքր համակարգիչներին հրաման տուեց, որ նրանք այլեւս չկարողանան քշել մայթերին։"
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:637
+msgid "He ordered the small computers in the speakers to play music only at a low volume, except for his favorite music, which he immediately turned on to get into a better mood."
+msgstr "Հրամայեց բոլոր բարձրախօսների համակարգիչներին նուագել երաժշտութիւն միայն ցածր ձայնով, բացառութեամբ իր սիրած երգերի, որոնք նա միշտ միացնում էր՝ տրամադրութիւնը բարձրացնելու համար։"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -702,11 +742,15 @@ msgstr ""
 msgid "Skateboards no longer work"
 msgstr ""
 
-#. (itstool) path: simplesect/para
-#. (itstool) id: Ada_Zangemann.dbk#para-p18-1
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:660
-msgid "The next day, there was a big commotion at Ada’s school. On the way to school, the kids’ skateboards had stopped working. The wheels simply stood still. And the children could no longer turn up the volume on their speakers. What was going on?"
-msgstr "Յաջորդ օրը, Ադայի դպրոցում մեծ ցնցում էր։ Դպրոցի ճանապարհին երեխաների սքեյթները դադարել էին աշխատել։ Անիւներն ուղղակի կանգնել էին։ Եւ երեխաներն այլեւս չէին կարողանում բարձրախօսների ձայնը բարձրացնել։ Ի՞նչ էր կատարւում։"
+msgid "The next day, there was a big commotion at Ada’s school. On the way to school, the kids’ skateboards had stopped working. The wheels simply stood still."
+msgstr "Յաջորդ օրը, Ադայի դպրոցում մեծ ցնցում էր։ Դպրոցի ճանապարհին երեխաների սքեյթները դադարել էին աշխատել։ Անիւներն ուղղակի կանգնել էին։"
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:660
+msgid "And the children could no longer turn up the volume on their speakers. What was going on?"
+msgstr "Եւ երեխաներն այլեւս չէին կարողանում բարձրախօսների ձայնը բարձրացնել։ Ի՞նչ էր կատարւում։"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -715,10 +759,25 @@ msgstr "Յաջորդ օրը, Ադայի դպրոցում մեծ ցնցում է�
 msgid "Five kids from the school who can’t make skateboards work. Two girls wear helmets, respectively blue and red. A little girl with brown hair tied in two tails with yellow rubber bands is kneeling. She is trying to understand why the skateboard of her friend with the red helmet does not work. Four children have backpacks on their shoulders, while the little girl with the red helmet left hers leaning on a bench on which there are a yellow apple and a light blue bottle with a white flower on it."
 msgstr ""
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:669
-msgid "Although she didn’t own any of these things, Ada wondered why the skateboards and the speakers suddenly stopped working. But she didn’t really have time to think much about it, because she was tinkering again. She put together a complete bicycle from the parts of three broken bicycles. She gave the bicycle to her mother as a present so that she wouldn’t have to spend her money on bus tickets to work. For her brother, Ada built a loudspeaker so he could fall asleep to nice stories in the evenings when their mother was still at work."
-msgstr "Չնայած նա այս սարքերից ոչ մեկ չունէր, Ադան զարմանում էր թե ինչու յանկարծ սքեյթներն ու բարձրախօսները դադարեցին աշխատել։ Բայց նա իրականում շատ ժամանակ չունէր դրա մասին մտածելու, քանի որ նա կրկին որոնումների մեջ էր։ Նա հաւաքել էր հեծանիվ երեք ջարդուած հեծանիւների մասերից։ Նա նուիրել էր հեծանիւը մայրիկին, որ նա այլեւս իր փողերը աւտոբուսի տոմսերի վրայ չծախսի աշխատանքի գնալիս։ Եղբօր համար Ադան սարքել էր բարձրախօս, որ նա քնի գեղեցիկ պատմութիւնների ներքոյ, այն երեկոներին երբ մայրիկը դեռ աշխատանքի էր։"
+msgid "Although she didn’t own any of these things, Ada wondered why the skateboards and the speakers suddenly stopped working."
+msgstr "Չնայած նա այս սարքերից ոչ մեկ չունէր, Ադան զարմանում էր թե ինչու յանկարծ սքեյթներն ու բարձրախօսները դադարեցին աշխատել։"
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:669
+msgid "But she didn’t really have time to think much about it, because she was tinkering again."
+msgstr "Բայց նա իրականում շատ ժամանակ չունէր դրա մասին մտածելու, քանի որ նա կրկին որոնումների մեջ էր։"
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:669
+msgid "She put together a complete bicycle from the parts of three broken bicycles. She gave the bicycle to her mother as a present so that she wouldn’t have to spend her money on bus tickets to work."
+msgstr "Նա հաւաքել էր հեծանիվ երեք ջարդուած հեծանիւների մասերից։ Նա նուիրել էր հեծանիւը մայրիկին, որ նա այլեւս իր փողերը աւտոբուսի տոմսերի վրայ չծախսի աշխատանքի գնալիս։"
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:669
+msgid "For her brother, Ada built a loudspeaker so he could fall asleep to nice stories in the evenings when their mother was still at work."
+msgstr "Եղբօր համար Ադան սարքել էր բարձրախօս, որ նա քնի գեղեցիկ պատմութիւնների ներքոյ, այն երեկոներին երբ մայրիկը դեռ աշխատանքի էր։"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -727,10 +786,20 @@ msgstr "Չնայած նա այս սարքերից ոչ մեկ չունէր, Ադ
 msgid "Close-up of Ada thoughtful, with a backpack and with one hand on her chin and the other resting on her side."
 msgstr "Մտածկոտ Ադան, ուսապարկով եւ մի ձեռքը դնչի տակ, միւսը կողքին։"
 
-#. (itstool) path: simplesect/para
+#. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:677
-msgid "After a few days, the initial shock at Ada’s school was forgotten. The skateboards still didn’t go on the sidewalk, but apart from that, they still worked. And so now the children rode in circles around the playground and listened to soft music. Only a strange, pompous marching music continued to play at an unchanged volume, which the children found rather puzzling."
-msgstr "Մի քանի օրից Ադայի դպրոցում բոլորը մոռացան սկզբնական շոկը։ Սքեյթները մայթերով չէին գնում, բայց քշվում էին։ Եւ այժմ երեխաները կլոր պտտւում էին խաղահրապարակի շուրջ եւ լսում էին ցածր երաժշտութիւն։ Միայն տարօրինակ, պոռճ երթերի երաժշտութիւնն էր, որ շարունակում էր նուագել բարձր ձայնով, ինչը երեխաներին շփոթեցնում էր։"
+msgid "After a few days, the initial shock at Ada’s school was forgotten. The skateboards still didn’t go on the sidewalk, but apart from that, they still worked."
+msgstr "Մի քանի օրից Ադայի դպրոցում բոլորը մոռացան սկզբնական շոկը։ Սքեյթները մայթերով չէին գնում, բայց քշվում էին։"
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:677
+msgid "And so now the children rode in circles around the playground and listened to soft music."
+msgstr "Եւ այժմ երեխաները կլոր պտտւում էին խաղահրապարակի շուրջ եւ լսում էին ցածր երաժշտութիւն։"
+
+#. (itstool) path: para/phrase
+#: Ada_Zangemann.dbk:677
+msgid "Only a strange, pompous marching music continued to play at an unchanged volume, which the children found rather puzzling."
+msgstr "Միայն տարօրինակ, պոռճ երթերի երաժշտութիւնն էր, որ շարունակում էր նուագել բարձր ձայնով, ինչը երեխաներին շփոթեցնում էր։"
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:682
