@@ -1508,15 +1508,3 @@ msgstr ""
 #: Ada_Zangemann.dbk:1139
 msgid "Three hands that hold as many empty ice cream cones, to draw and color. In the air above the middle cone is an umbrella."
 msgstr "그림그리기 및 색칠 놀이용 페이지. 빈 아이스크림콘을 들고 있는 세 명의 손. 중간 아이스크림 콘 위의 허공에는 우산 모양 장식이 그려져 있습니다."
-
-#~ msgid "An angry Zangemann limped away. Suddenly, he heard loud music. He had never before heard something so horrible. He looked around and saw that the music was coming from a loudspeaker he himself had constructed. A child across the street was holding it. The child seemed to like the music, but it gave Zangemann a terrible headache, and his mood worsened. This was not how he had imagined his walk!"
-#~ msgstr "화가 난 아저씨가 절뚝거리며 떠났어요. 갑자기 어디선가 시끄러운 음악이 들렸어요. 하지만 그렇게 끔직한 음악는 난생 처음 들어봤어요. 주변을 둘러봤더니 아저씨가 만든 스피커에서 음악이 흘러나오고 있는게 아니겠어요. 건너편 아이가 그 스피커를 가지고 있었어요. 아이는 그 음악을 좋아하는 것 같았지만 아저씨에겐 심각한 두통만 선사할 뿐이었죠. 아저씨는 기분이 안좋아졌어요. 이건 정말이지 예상하지 못한 하루였죠!"
-
-#~ msgid "Zangemann was so furious with the two children. How dare they use his inventions this way? That night, he couldn’t sleep, so he sat down at his golden computer. From there, he gave all the little computers in the skateboards a command that they were no longer allowed to go on sidewalks. He ordered the small computers in the speakers to play music only at a low volume, except for his favorite music, which he immediately turned on to get into a better mood."
-#~ msgstr "장기만 아저씨는 낮에 만났던 두 아이 때문에 화가 났습니다. 아이들은 어째서 자신의 발명품을 감히 그런 식으로 사용하는 걸까요? 그는 통 잠을 이루지 못했습니다. 그는 황금 컴퓨터에 앉았습니다. 거기서 아저씨는 스케이보드에 달린 작은 컴퓨터에게 더 이상 인도에서 동작하지 않도록 명령을 내렸습니다. 스피커에 달린 컴퓨터에게는 자신이 좋아하는 음악을 빼고는 모두 작은 소리로 연주되도록 지시를 내렸습니다. 아저씨는 지시를 내리고 난 뒤에 지금껏 가라앉은 기분을 바꾸고자 스피커를 켰답니다."
-
-#~ msgid "Although she didn’t own any of these things, Ada wondered why the skateboards and the speakers suddenly stopped working. But she didn’t really have time to think much about it, because she was tinkering again. She put together a complete bicycle from the parts of three broken bicycles. She gave the bicycle to her mother as a present so that she wouldn’t have to spend her money on bus tickets to work. For her brother, Ada built a loudspeaker so he could fall asleep to nice stories in the evenings when their mother was still at work."
-#~ msgstr "비록 에이다는 스케이드보드나 스피커가 없었지만, 이것들이 왜 작동을 멈췄는지 궁금해 했어요. 하지만 그녀는 곧 거기에 집중할 여유가 없어졌어요. 왜냐하면 또 다시 뭔가를 만들고 싶었거든요. 에이다는 세 대의 부서진 자전거를 이용해 새로운 자전거를 만들어 냈어요. 그리고 그 자전거를 엄마에게 선물했어요. 자전거 덕분에 엄마는 일하러 갈 때 버스비를 아낄 수 있었지요. 에이다는 동생에게는 스피커를 만들어 주었어요. 그래서 엄마가 늦게오는 날에 동생이 스피커로 재밌는 이야기를 들으며 잠들 수 있도록 만들어 주었지요."
-
-#~ msgid "After a few days, the initial shock at Ada’s school was forgotten. The skateboards still didn’t go on the sidewalk, but apart from that, they still worked. And so now the children rode in circles around the playground and listened to soft music. Only a strange, pompous marching music continued to play at an unchanged volume, which the children found rather puzzling."
-#~ msgstr "몇 일이 지나고, 에이다의 학교에서 벌어진 소동은 잊혀졌어요. 스케이드보드가 여전히 인도에서는 동작을 안했지만 그것과는 별개로 스케이드보드 자체가 동작을 하긴 했거든요. 아이들은 놀이터를 뱅뱅돌며 스케이드보드를 탔고, 오로지 조용한 음악만을 들었답니다. 스피커에선 요상하면서도 화려한 행진곡이 변함없는 음량으로 계속 연주가 되었는데, 아이들은 이를 조금 당혹스럽게 여겼습니다."
