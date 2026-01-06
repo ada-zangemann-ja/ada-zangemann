@@ -10,6 +10,8 @@ SPDX-License-Identifier: GPL-3.0-or-later
 
   <!-- XSLT 1.0 file to remove elements and attributes of certain namespaces -->
 
+  <xsl:output method="xml" encoding="UTF-8" indent="yes"/>
+
   <!-- Identity template to reproduce content -->
   <xsl:template match="@*|node()">
     <xsl:copy>
