@@ -3,15 +3,15 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2026-01-05 15:55+0100\n"
-"Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
+"PO-Revision-Date: 2026-01-06 20:22+0000\n"
+"Last-Translator: Jean-Baptiste Clad <jean-baptiste.clad@ac-strasbourg.fr>\n"
 "Language-Team: Alemannic <https://hosted.weblate.org/projects/fsfe/ada-zangemann/gsw/>\n"
 "Language: gsw\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Poedit 3.6\n"
+"X-Generator: Weblate 5.15.1\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
@@ -58,9 +58,8 @@ msgstr "Ada"
 #.
 #. ignore-same
 #: Ada_Zangemann.dbk:287
-#, fuzzy
 msgid "Zangemann"
-msgstr "Zengemann"
+msgstr "Zangemann"
 
 #. (itstool) path: character/charactername
 #. Name must not be changed.
@@ -363,7 +362,7 @@ msgstr "Es isch e mol e maïdele gsin wie Ada heist. Sini fameli isch so arm gsi
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:502
 msgid "They didn’t have enough money to live in a proper home. Instead, Ada lived with her mother and her little brother, Alan, in a cabin near a junkyard on the edge of town."
-msgstr "Sie hen nit genue gelt fir im e rechtige huss ze wohne. So wohnte Ada, sini mame un de klan brueder Alan in im e gebecheltehitte nevem dem dreckhuffe user de stadt!"
+msgstr "Sie hen nit genue gelt fir im e rechtige huss ze wohne. So wohnte Ada, sini mame un de klan brueder Alan in im e gebecheltehitte nevem dem dreckhuffe user de stadt."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -387,7 +386,7 @@ msgstr "Wit de fon uff de andere sit von de stadt, lebt e berumder erfinder name
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:520
 msgid "He lived in a huge house with a swimming pool and waterslide, lots of staircases and towers, hundreds of windows, and so many rooms that he often got lost in them himself."
-msgstr "Er wohte im e immense huss mit piscine un rutschban, e huffe steïe, durme, hunderde fenster un so vil zimmer as er sich regelmesig verlirt !"
+msgstr "Er wohte im e immense huss mit piscine un rutschban, e huffe steïe, durme, hunderde fenster un so vil zimmer as er sich regelmesig verlirt."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:520
@@ -533,7 +532,7 @@ msgstr "Mit dem computer kan er alles dirigere."
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:572
 msgid "All he had to do was press the proper key on the golden computer, and immediately all the ice-cream machines in town would dispense only vanilla ice cream."
-msgstr "So kan er jetz alli andere computer ewersehn. Er prucht nume uff e knopf drücke un alli glacemaschine mache vanilliaglace;"
+msgstr "So kan er jetz alli andere computer ewersehn. Er prucht nume uff e knopf drücke un alli glacemaschine mache vanilliaglace."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:572
@@ -894,7 +893,7 @@ msgstr "Am morije het er vorgemumme dass es net so vidercht kann gehn. Er huckt 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:736
 msgid "Once he was done, he sent all the new programs from his golden computer to people’s devices. He ordered his speakers to play only his favorite music whenever he was within earshot. He programmed the ice-cream machines to stop selling ice cream in the afternoon. After all, he didn’t want his expensive clothes to get stained by ice cream while he was out for a walk. All day long he sat at the computer and typed and typed and typed..."
-msgstr "Wie es verdi isch gsin, schickt er di programmer an alli apareder! Dhaut parleurs sole sini libsde musik spiele wenn er durchlaft, dglacemaschine solle ken glace me dzmida vekauffe ass sini hosse nimi drechet were wenn er durich geth. Er blid de ganze da am komputer un schribt, schribt, schribt…."
+msgstr "Wie es verdi isch gsin, schickt er di programmer an alli apareder! Dhaut parleurs sole sini libsde musik spiele wenn er durchlaft, dglacemaschine solle ken glace me dzmida vekauffe ass sini hosse nimi drechet were wenn er durich geth. Er blid de ganze da am komputer un schribt un schribt un schribt…"
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:741
