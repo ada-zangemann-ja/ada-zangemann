@@ -70,6 +70,63 @@ make build/Ada_Zangemann-print-headings-text-colophon-fullpage.en.pdf
 make build/Ada_Zangemann-print-headings-text-colophon-fullpage.en.mediumres.pdf
 make build/Ada_Zangemann-screen.en.pdf
 ```
+
+### Different outputs
+
+```mermaid
+flowchart LR
+  Docbook --> itstool{"ITS Tool (translation)"}
+  itstool --> translated[Translated Docbook]
+
+  subgraph Translations
+  gettext-text@{ shape: docs, label: "Gettext translations (text)" }
+  gettext-editorial@{ shape: docs, label: "Gettext translations (editorial)" }
+  end
+
+  itstool --> gettext-text
+  gettext-text --> itstool
+  gettext-text <--> weblate{Weblate}
+  itstool --> gettext-editorial
+  gettext-editorial --> itstool
+  translated --> pandoc{Pandoc}
+  pandoc --> HTML
+  pandoc --> document[Document .odt]
+  pandoc --> Markdown
+  translated --> XSLT{XSLT}
+  XSLT --> scribus-text[Scribus text]
+  XSLT --> scribus-cover[Scribus cover]
+  XSLT --> scribus-insidecover[Scribus insidecover]
+
+  subgraph Print
+  insidecover-pdf[Inside cover print pdf]
+  print-pdf[Print pdf]
+  cover-pdf[Cover print pdf]
+  end
+
+  scribus-text --> screen-pdf[Screen pdf]
+
+  scribus-text --> print-pdf
+  scribus-cover --> cover-pdf
+  scribus-insidecover --> insidecover-pdf
+
+  scribus-cover --> screen-pdf
+  XSLT --> braillerap[BrailleRAP text]
+  XSLT --> subtitles[Subtitles .srt]
+
+  screen-pdf --> ghostscript{Ghostscript}
+  ghostscript --> lowres[Lowres pdf]
+  ghostscript --> mediumres[Mediumres pdf]
+  ghostscript --> confidential[Confidential overlay pdf]
+  confidential --> ghostscript
+
+  subgraph legay[Legacy automation]
+  custom-txt --> reading-text[Book reading text]
+  custom-txt --> reading-presentation[Book reading presentation]
+  end
+
+  XSLT --> custom-txt[Custom text format]
+```
+
 ### Tips
 
 Make caches the output.
