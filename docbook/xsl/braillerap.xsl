@@ -41,13 +41,13 @@ I: <xsl:value-of select="//db:mediaobject[@xml:id='img-ada-p01-titleonly']/db:al
 
 I: <xsl:value-of select="//db:mediaobject[@xml:id='img-ada-cover']/db:alt"/>
 <xsl:text>&#xa;&#xa;</xsl:text>
-<!-- Page 3 -->[FF]
-<xsl:value-of select="//db:simplesect[@xml:id='sec-p03']/db:literallayout[1]"/>
-<xsl:text>&#xa;&#xa;</xsl:text>
-<xsl:value-of select="//db:para[@xml:id='title-titlepage']"/>
-<xsl:text>&#xa;&#xa;</xsl:text>
-<xsl:value-of select="//db:book/db:info/db:subtitle"/>
-<!-- Page 4 -->[FF]
+<!-- Page 3 --><!-- [FF] -->
+<!-- <xsl:value-of select="//db:simplesect[@xml:id='sec-p03']/db:literallayout[1]"/> -->
+<!-- <xsl:text>&#xa;&#xa;</xsl:text> -->
+<!-- <xsl:value-of select="//db:para[@xml:id='title-titlepage']"/> -->
+<!-- <xsl:text>&#xa;&#xa;</xsl:text> -->
+<!-- <xsl:value-of select="//db:book/db:info/db:subtitle"/> -->
+<!-- Page 4 - Chapter 1 -->[FF]
 <xsl:value-of select="normalize-space(//db:simplesect[@xml:id='sec-p04']/db:para[1])"/>
 
 I: <xsl:value-of select="//db:mediaobject[@xml:id='img-ada-p04']/db:alt"/>
@@ -58,7 +58,7 @@ I: <xsl:value-of select="//db:mediaobject[@xml:id='img-ada-p05']/db:alt"/>
 
 <xsl:value-of select="normalize-space(//db:simplesect[@xml:id='sec-p05']/db:para[1])"/>
 <xsl:text>&#xa;&#xa;</xsl:text>
-<!-- Page 6 -->[FF]
+<!-- Page 6 - Chapter 2 -->[FF]
 <xsl:value-of select="normalize-space(//db:simplesect[@xml:id='sec-p06']/db:para[1])"/>
 <xsl:text>&#xa;&#xa;</xsl:text>
 <xsl:value-of select="normalize-space(//db:simplesect[@xml:id='sec-p06']/db:para[2])"/>
@@ -105,7 +105,7 @@ I: <xsl:value-of select="//db:mediaobject[@xml:id='img-ada-p12']/db:alt"/>
 
 <xsl:value-of select="normalize-space(//db:simplesect[@xml:id='sec-p12']/db:para[2])"/>
 
-<!-- 13 -->[FF]
+<!-- 13 - Chapter 3 -->[FF]
 <xsl:value-of select="normalize-space(//db:simplesect[@xml:id='sec-p13']/db:para[1])"/>
 
 I: <xsl:value-of select="//db:mediaobject[@xml:id='img-ada-p13']/db:alt"/>
@@ -137,7 +137,7 @@ I: <xsl:value-of select="//db:mediaobject[@xml:id='img-ada-p16']/db:alt"/>
 I: <xsl:value-of select="//db:mediaobject[@xml:id='img-ada-p17']/db:alt"/>
 <xsl:text>&#xa;&#xa;</xsl:text>
 
-<!-- 18 -->
+<!-- 18 - Chapter 4 -->[FF]
 <xsl:value-of select="normalize-space(//db:simplesect[@xml:id='sec-p18']/db:para[1])"/>
 
 I: <xsl:value-of select="//db:mediaobject[@xml:id='img-ada-p18']/db:alt"/>
@@ -151,7 +151,7 @@ I: <xsl:value-of select="//db:mediaobject[@xml:id='img-ada-p19']/db:alt"/>
 
 <xsl:value-of select="normalize-space(//db:simplesect[@xml:id='sec-p19']/db:para[2])"/>
 
-<!-- 20 -->[FF]
+<!-- 20 - Chapter 5 -->[FF]
 <xsl:value-of select="normalize-space(//db:simplesect[@xml:id='sec-p20']/db:para[1])"/>
 <xsl:text>&#xa;&#xa;</xsl:text>
 <xsl:value-of select="normalize-space(//db:simplesect[@xml:id='sec-p20']/db:para[2])"/>
@@ -162,7 +162,7 @@ I: <xsl:value-of select="//db:mediaobject[@xml:id='img-ada-p19']/db:alt"/>
 I: <xsl:value-of select="//db:mediaobject[@xml:id='img-ada-p21']/db:alt"/>
 <xsl:text>&#xa;&#xa;</xsl:text>
 
-<!-- 22 -->[FF]
+<!-- 22 - Chapter 6 -->[FF]
 <xsl:value-of select="normalize-space(//db:simplesect[@xml:id='sec-p22']/db:para[1])"/>
 <xsl:text>&#xa;&#xa;</xsl:text>
 <xsl:value-of select="normalize-space(//db:simplesect[@xml:id='sec-p22']/db:para[2])"/>
@@ -181,14 +181,14 @@ I: <xsl:value-of select="//db:mediaobject[@xml:id='img-ada-p23']/db:alt"/>
 I: <xsl:value-of select="//db:mediaobject[@xml:id='img-ada-p24']/db:alt"/>
 <xsl:text>&#xa;&#xa;</xsl:text>
 
-<!-- 25 -->[FF]
+<!-- 25 - Chapter 7 -->[FF]
 <xsl:value-of select="normalize-space(//db:simplesect[@xml:id='sec-p25']/db:para[1])"/>
 <xsl:text>&#xa;&#xa;</xsl:text>
 <xsl:value-of select="normalize-space(//db:simplesect[@xml:id='sec-p25']/db:para[2])"/>
 <xsl:text>&#xa;&#xa;</xsl:text>
 <xsl:value-of select="normalize-space(//db:simplesect[@xml:id='sec-p25']/db:para[3])"/>
 
-<!-- 26 -->[FF]
+<!-- 26 - Chapter 8 -->[FF]
 <xsl:value-of select="normalize-space(//db:simplesect[@xml:id='sec-p26']/db:para[1])"/>
 <xsl:text>&#xa;&#xa;</xsl:text>
 <xsl:value-of select="normalize-space(//db:simplesect[@xml:id='sec-p26']/db:para[2])"/>
@@ -217,7 +217,7 @@ I: <xsl:value-of select="//db:mediaobject[@xml:id='img-ada-p28']/db:alt"/>
 I: <xsl:value-of select="//db:mediaobject[@xml:id='img-ada-p29']/db:alt"/>
 <xsl:text>&#xa;&#xa;</xsl:text>
 
-<!-- 30 -->[FF]
+<!-- 30 - Chapter 9 -->[FF]
 <xsl:value-of select="normalize-space(//db:simplesect[@xml:id='sec-p30']/db:para[1])"/>
 
 <xsl:value-of select="normalize-space(//db:simplesect[@xml:id='sec-p30']/db:para[2])"/>
@@ -254,7 +254,7 @@ I: <xsl:value-of select="//db:mediaobject[@xml:id='img-ada-p34']/db:alt"/>
 <xsl:text>&#xa;&#xa;</xsl:text>
 <xsl:value-of select="normalize-space(//db:simplesect[@xml:id='sec-p35']/db:para[3])"/>
 
-<!-- 36 -->[FF]
+<!-- 36 - Chapter 10 -->[FF]
 <xsl:value-of select="normalize-space(//db:simplesect[@xml:id='sec-p36']/db:para[1])"/>
 <xsl:text>&#xa;&#xa;</xsl:text>
 <xsl:value-of select="normalize-space(//db:simplesect[@xml:id='sec-p36']/db:para[2])"/>
@@ -273,7 +273,7 @@ I: <xsl:value-of select="//db:mediaobject[@xml:id='img-ada-p37']/db:alt"/>
 I: <xsl:value-of select="//db:mediaobject[@xml:id='img-ada-p38']/db:alt"/>
 <xsl:text>&#xa;&#xa;</xsl:text>
 
-<!-- 39 -->[FF]
+<!-- 39 - Chapter 11 -->[FF]
 <xsl:value-of select="normalize-space(//db:simplesect[@xml:id='sec-p39']/db:para[1])"/>
 <xsl:text>&#xa;&#xa;</xsl:text>
 <xsl:value-of select="normalize-space(//db:simplesect[@xml:id='sec-p39']/db:para[2])"/>
@@ -294,7 +294,7 @@ I: <xsl:value-of select="//db:mediaobject[@xml:id='img-ada-p40']/db:alt"/>
 I: <xsl:value-of select="//db:mediaobject[@xml:id='img-ada-p41']/db:alt"/>
 <xsl:text>&#xa;&#xa;</xsl:text>
 
-<!-- 42 -->[FF]
+<!-- 42 - Chapter 12 -->[FF]
 <xsl:value-of select="normalize-space(//db:simplesect[@xml:id='sec-p42']/db:para[1])"/>
 <xsl:text>&#xa;&#xa;</xsl:text>
 <xsl:value-of select="normalize-space(//db:simplesect[@xml:id='sec-p42']/db:para[2])"/>
@@ -312,7 +312,7 @@ I: <xsl:value-of select="//db:mediaobject[@xml:id='img-ada-p42']/db:alt"/>
 I: <xsl:value-of select="//db:mediaobject[@xml:id='img-ada-p43']/db:alt"/>
 <xsl:text>&#xa;&#xa;</xsl:text>
 
-<!-- 44 -->[FF]
+<!-- 44 - Chapter 13 -->[FF]
 <xsl:value-of select="normalize-space(//db:simplesect[@xml:id='sec-p44']/db:para[1])"/>
 
 I: <xsl:value-of select="//db:mediaobject[@xml:id='img-ada-p44']/db:alt"/>
@@ -342,17 +342,17 @@ I: <xsl:value-of select="//db:mediaobject[@xml:id='img-ada-p46']/db:alt"/>
 I: <xsl:value-of select="//db:mediaobject[@xml:id='img-ada-p47']/db:alt"/>
 <xsl:text>&#xa;&#xa;</xsl:text>
 
-<!-- 48 -->[FF]
+<!-- 48 - Chapter 14 -->[FF]
 <xsl:value-of select="normalize-space(//db:simplesect[@xml:id='sec-p48']/db:para[1])"/>
 
 I: <xsl:value-of select="//db:mediaobject[@xml:id='img-ada-p48']/db:alt"/>
 <xsl:text>&#xa;&#xa;</xsl:text>
 
-<!-- 49 -->[FF]
+<!-- 49 -->
 I: <xsl:value-of select="//db:mediaobject[@xml:id='img-ada-p49']/db:alt"/>
 <xsl:text>&#xa;&#xa;</xsl:text>
 
-<!-- 50 -->[FF]
+<!-- 50 - Acknowledgements-->[FF]
 <xsl:value-of select="//db:title[@xml:id='title-acknowledgments']"/>
 <xsl:text>&#xa;&#xa;</xsl:text>
 <xsl:value-of select="normalize-space(//db:simplesect[@xml:id='sec-p50']/db:para[1])"/>
@@ -361,7 +361,7 @@ I: <xsl:value-of select="//db:mediaobject[@xml:id='img-ada-p49']/db:alt"/>
 <xsl:text>&#xa;&#xa;</xsl:text>
 <xsl:value-of select="normalize-space(//db:simplesect[@xml:id='sec-p50']/db:para[3])"/>
 
-<!-- 51 -->[FF]
+<!-- 51 -->
 I: <xsl:value-of select="//db:mediaobject[@xml:id='img-ada-p51']/db:alt"/>
 <xsl:text>&#xa;&#xa;</xsl:text>
 
@@ -375,7 +375,7 @@ I: <xsl:value-of select="//db:mediaobject[@xml:id='img-ada-p52']/db:alt"/>
 
 <xsl:value-of select="normalize-space(//db:simplesect[@xml:id='sec-p52']/db:para[1])"/>
 
-<!-- 53 -->[FF]
+<!-- 53 -->
 <xsl:value-of select="//db:simplesect[@xml:id='sec-p53']/../db:info/db:title"/>
 <xsl:text>&#xa;</xsl:text>
 <xsl:value-of select="//db:simplesect[@xml:id='sec-p53']/../db:info/db:subtitle"/>
@@ -385,14 +385,14 @@ I: <xsl:value-of select="//db:mediaobject[@xml:id='img-ada-p53']/db:alt"/>
 
 <xsl:value-of select="normalize-space(//db:simplesect[@xml:id='sec-p53']/db:para[1])"/>
 
-<!-- 54 -->[FF]
+<!-- 54 - Website and license -->[FF]
 <xsl:value-of select="//db:title[@xml:id='title-bookswebsite']"/>
 <xsl:text>&#xa;&#xa;</xsl:text>
 <xsl:value-of select="normalize-space(//db:simplesect[@xml:id='sec-p54a']/db:para[1])"/>
 <xsl:text>&#xa;&#xa;</xsl:text>
 <xsl:value-of select="normalize-space(//db:simplesect[@xml:id='sec-p54a']/db:para[2])"/>
 
-<!-- 55 -->[FF]
+<!-- 55 -->
 <xsl:value-of select="//db:title[@xml:id='title-license']"/>
 
 <xsl:text>&#xa;&#xa;</xsl:text>
@@ -406,7 +406,7 @@ I: <xsl:value-of select="//db:mediaobject[@xml:id='img-ada-p55']/db:alt"/>
 
 <xsl:value-of select="normalize-space(//db:simplesect[@xml:id='sec-p55']/db:literallayout)"/>
 
-<!-- 57 -->[FF]
+<!-- 57 -->
 I: <xsl:value-of select="//db:mediaobject[@xml:id='img-ada-p56']/db:alt"/>
 <xsl:text>&#xa;&#xa;</xsl:text>
 
