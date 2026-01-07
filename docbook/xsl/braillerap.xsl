@@ -11,6 +11,8 @@ Stylesheet to generate text file format intended for BrailleRAP.
 
 Use this template like:
 xsltproc -o build/Ada_Zangemann-profiled-text.nl.txt xsl/braillerap.xsl build/Ada_Zangemann.nl.dbk
+
+TODO: handle emphasis in text.
 -->
 
 <xsl:stylesheet version="1.0"
