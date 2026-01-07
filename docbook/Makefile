@@ -434,8 +434,8 @@ targets-braillerap = $(addprefix build/Ada_Zangemann-braillerap.,$(addsuffix .tx
 build/Ada_Zangemann-braillerap.%.txt: build/Ada_Zangemann.%.dbk
 	xsltproc xsl/braillerap.xsl $< | sed 's/\[FF\]/\x0C/g' > $@
 
-.PHONY: build/Ada_Zangemann-braillerap.all.brf
-build/Ada_Zangemann-braillerap.all.brf: $(targets-braillerap)
+.PHONY: build/Ada_Zangemann-braillerap.all.txt
+build/Ada_Zangemann-braillerap.all.txt: $(targets-braillerap)
 
 # Tab-delimited voiceover output
 build/Ada_Zangemann-voiceover.%.csv: build/Ada_Zangemann.%.dbk
