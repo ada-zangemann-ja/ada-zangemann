@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-05 15:46+0100\n"
+"PO-Revision-Date: 2026-01-07 20:02+0000\n"
 "Last-Translator: itagenata <ivan@tagenata.com>\n"
 "Language-Team: Galician <https://hosted.weblate.org/projects/fsfe/ada-zangemann/gl/>\n"
 "Language: gl\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Poedit 3.6\n"
+"X-Generator: Weblate 5.15.1\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
@@ -36,14 +36,12 @@ msgstr "Unha historia sobre software, monopatíns e xeado de framboesa"
 #. (itstool) path: info/author
 #. ignore-same
 #: Ada_Zangemann.dbk:269
-#, fuzzy
 msgid "<personname> <firstname>Matthias</firstname> <surname>Kirschner</surname> </personname>"
 msgstr "<personname> <firstname>Matthias</firstname> <surname>Kirschner</surname> </personname>"
 
 #. (itstool) path: info/othercredit
 #. ignore-same
 #: Ada_Zangemann.dbk:275
-#, fuzzy
 msgid "<personname> <firstname>Sandra</firstname> <surname>Brandstätter</surname> </personname>"
 msgstr "<personname> <firstname>Sandra</firstname> <surname>Brandstätter</surname> </personname>"
 
@@ -52,7 +50,6 @@ msgstr "<personname> <firstname>Sandra</firstname> <surname>Brandstätter</surna
 #.
 #. ignore-same
 #: Ada_Zangemann.dbk:284
-#, fuzzy
 msgid "Ada"
 msgstr "Ada"
 
@@ -61,7 +58,6 @@ msgstr "Ada"
 #.
 #. ignore-same
 #: Ada_Zangemann.dbk:287
-#, fuzzy
 msgid "Zangemann"
 msgstr "Zangemann"
 
@@ -70,7 +66,6 @@ msgstr "Zangemann"
 #.
 #. ignore-same
 #: Ada_Zangemann.dbk:290
-#, fuzzy
 msgid "Alan"
 msgstr "Alan"
 
@@ -86,7 +81,6 @@ msgstr "Alan"
 #.
 #. ignore-same
 #: Ada_Zangemann.dbk:293
-#, fuzzy
 msgid "Toni"
 msgstr "Toni"
 
@@ -102,7 +96,6 @@ msgstr "Toni"
 #.
 #. ignore-same
 #: Ada_Zangemann.dbk:296
-#, fuzzy
 msgid "Konrad"
 msgstr "Konrad"
 
@@ -221,6 +214,25 @@ msgid ""
 "\n"
 "<emphasis role=\"bold\">A big thank you</emphasis> to <emphasis role=\"bold\">dpunkt.verlag</emphasis> and <emphasis role=\"bold\">No Starch Press</emphasis> for understanding the values of software freedom, taking the time to discuss and understand the advantages of free cultural licenses, and the great support to publish this book under conditions that respect the FSFE’s values."
 msgstr ""
+"Copyright © 2023 Matthias Kirschner e Sandra Brandstätter.\n"
+"\n"
+"Esta obra está baixo licenza Creative Commons Atribución-CompartirIgual 4.0 Internacional.\n"
+"\n"
+"Para ver unha copia desta licenza, visita <link xlink:href=\"https://creativecommons.org/licenses/by-sa/4.0/\">https://creativecommons.org/licenses/by-sa/4.0/</link> ou envía unha carta a Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.\n"
+"\n"
+"Ada & Zangemann: un conto sobre software, monopatíns e xeados de framboesa é unha tradución do orixinal alemán, Ada und Zangemann: Ein Märchen über Software, Skateboards und Himbeereis, publicado por Dpunkt.verlag en cooperación con O’Reilly Media, Inc., baixo o selo “O’REILLY,” © 2022 de Matthias Kirschner e Sandra Brandstätter.\n"
+"\n"
+"Este libro de Matthias Kirschner (autor) e Sandra Brandstätter (ilustradora) está baixo licenza <emphasis role=\"bold\">Creative Commons CC-BY-SA</emphasis>, unha licenza aberta.\n"
+"\n"
+"Podes compartir, copiar e redistribuír o material en calquera medio ou formato. Podes adaptar, mesturar, transformar e crear a partir do material con calquera finalidade, mesmo comercial. Debes dar o crédito axeitado, proporcionar unha ligazón á licenza e indicar se se fixeron cambios.\n"
+"\n"
+"Podes facelo de calquera xeito razoable, pero non de forma que suxira que o licitante te apoia a ti ou o teu uso. Se mesturas, transformas ou creas a partir do material, debes distribuír as túas contribucións baixo a mesma licenza que a do orixinal. (Isto é un resumo en linguaxe sinxela —e non un substituto— do “código legal” de CC-BY-SA 4.0.)\n"
+"\n"
+"Para as versións mesturadas (obras derivadas), os autores solicitan non facer cambios nos agradecementos persoais do autor nin nas breves biografías do autor e a ilustradora, ou ben eliminar por completo estas partes na versión mesturada.\n"
+"\n"
+"A publicación baixo unha licenza aberta foi posible ao grande apoio de dpunkt.verlag GmbH / O’Reilly para o libro en alemán e No Starch Press para a edición en inglés. Lamentablemente, as licenzas Creative Commons seguen sendo excepcións raras no mundo da publicación comercial e adoito son consideradas revolucionarias e arriscadas polos editores.\n"
+"\n"
+"Un enorme agradecemento a dpunkt.verlag e No Starch Press por comprender os valores da liberdade do software, tomar o tempo preciso para discutir e comprender os beneficios das licenzas abertas, e polo grande apoio na publicación deste libro baixo as condicións que respectan os valores da FSFE."
 
 #. (itstool) path: simplesect/literallayout
 #. Full page colophon. Intended for print use, as an alternative to the
@@ -284,6 +296,59 @@ msgid ""
 "\n"
 "<emphasis role=\"bold\">A big thank you</emphasis> to <emphasis role=\"bold\">dpunkt.verlag</emphasis> and <emphasis role=\"bold\">No Starch Press</emphasis> for understanding the values of software freedom, taking the time to discuss and understand the advantages of free cultural licenses, and the great support to publish this book under conditions that respect the FSFE’s values."
 msgstr ""
+"Copyright © 2023 Matthias Kirschner e Sandra Brandstätter.\n"
+"\n"
+"Esta obra está baixo licenza Creative Commons Atribución-CompartirIgual 4.0 Internacional.\n"
+"\n"
+"Para ver unha copia desta licenza, visita <link xlink:href=\"https://creativecommons.org/licenses/by-sa/4.0/\">https://creativecommons.org/licenses/by-sa/4.0/</link> ou envía unha carta a Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.\n"
+"\n"
+"Ada & Zangemann: un conto sobre software, monopatín e xeados de framboesa é unha tradución do orixinal alemán, Ada und Zangemann: Ein Märchen über Software, Skateboards und Himbeereis, publicado por Dpunkt.verlag en cooperación con O’Reilly Media, Inc., baixo o selo “O’REILLY,” © 2022 de Matthias Kirschner e Sandra Brandstätter.\n"
+"\n"
+"Primeira impresión\n"
+"\n"
+"26 25 24 23 22 1 2 3 4 5\n"
+"\n"
+"ISBN-13: 978-1-7185-0318-2 (impreso)\n"
+"ISBN-13: 978-1-7185-0319-9 (ebook)\n"
+"\n"
+"Editor: William Pollock\n"
+"Autor: Matthias Kirschner\n"
+"Ilustradora: Sandra Brandstätter\n"
+"Editora xeral: Jill Franklin\n"
+"Editora de produción: Jennifer Kepler\n"
+"Editora: Wiebke Helmchen\n"
+"Asistencia de cor: Olga Biryukova, Noémi Sárkány, Nathalie Scattolon, Kristina Haidinger e Jasmin Schlögl\n"
+"Deseño da cuberta: Sandra Brandstätter e Susan Brown\n"
+"Composición tipográfica: Maureen Forys, Happenstance Type-O-Rama\n"
+"\n"
+"Para información sobre a distribución, vendas por volume ou vendas corporativas, contacta directamente con No Starch Press, Inc. en <link xlink:href=\"mailto:info@nostarch.com\">info@nostarch.com</link> ou:\n"
+"\n"
+"No Starch Press, Inc.\n"
+"245 8th Street, San Francisco, CA 94103\n"
+"teléfono: 1.415.863.9900\n"
+"<link xlink:href=\"https://nostarch.com/\">www.nostarch.com</link>\n"
+"\n"
+"Un rexistro bibliográfico deste libro está dispoñible na Library of Congress.\n"
+"\n"
+"No Starch Press e o logotipo de No Starch Press son marcas rexistradas de No Starch Press, Inc. Outros nomes de produtos e empresas mencionados aquí poden ser marcas rexistradas dos seus respectivos propietarios. En lugar de empregar un símbolo de marca rexistrada en cada aparición dun nome con marca rexistrada, estamos a empregar os nomes só con fins editoriais e en beneficio do propietario da marca, sen intención de infrinxir a marca rexistrada.\n"
+"\n"
+"A información deste libro distribúese “tal cal”, sen garantía. Aínda que se tomou toda precaución na preparación desta obra, nin o autor nin No Starch Press, Inc. asumirán responsabilidade ningunha perante ningunha persoa ou entidade por calquera perda ou dano causado —ou supostamente causado— directa ou indirectamente pola información contida nela.\n"
+"\n"
+"Todos os personaxes desta publicación son ficticios, e calquera semellanza con persoas reais, vivas ou mortas, é pura coincidencia.\n"
+"\n"
+"**\n"
+"\n"
+"EEste libro de Matthias Kirschner (autor) e Sandra Brandstätter (ilustradora) está baixo licenza <emphasis role=\"bold\">Creative Commons CC-BY-SA</emphasis>, unha licenza aberta.\n"
+"\n"
+"Podes compartir, copiar e redistribuír o material en calquera medio ou formato. Podes adaptar, mesturar, transformar e crear a partir do material con calquera finalidade, mesmo comercial. Debes dar o crédito axeitado, proporcionar unha ligazón á licenza e indicar se se fixeron cambios.\n"
+"\n"
+"Podes facelo de calquera xeito razoable, pero non de forma que suxira que o licitante te apoia a ti ou o teu uso. Se mesturas, transformas ou creas a partir do material, debes distribuír as túas contribucións baixo a mesma licenza que a do orixinal. (Isto é un resumo en linguaxe sinxela —e non un substituto— do “código legal” de CC-BY-SA 4.0.)\n"
+"\n"
+"Para as versións mesturadas (obras derivadas), os autores solicitan non facer cambios nos agradecementos persoais do autor nin nas breves biografías do autor e a ilustradora, ou ben eliminar por completo estas partes na versión mesturada.\n"
+"\n"
+"A publicación baixo unha licenza aberta foi posible ao grande apoio de dpunkt.verlag GmbH / O’Reilly para o libro en alemán e No Starch Press para a edición en inglés. Lamentablemente, as licenzas Creative Commons seguen sendo excepcións raras no mundo da publicación comercial e adoito son consideradas revolucionarias e arriscadas polos editores.\n"
+"\n"
+"Un enorme agradecemento a dpunkt.verlag e No Starch Press por comprender os valores da liberdade do software, tomar o tempo preciso para discutir e comprender os beneficios das licenzas abertas, e polo grande apoio na publicación deste libro baixo as condicións que respectan os valores da FSFE."
 
 #. (itstool) path: simplesect/literallayout
 #. Grey section in the bottom of half page colophon.
@@ -298,6 +363,11 @@ msgid ""
 "We encourage you to support authors, publishers, and others involved in the creation of culture under free licenses – including <emphasis role=\"bold\">financially supporting them through purchases or donations</emphasis>. (<link xlink:href=\"https://fsfe.org/donate\">https://fsfe.org/donate</link>)\n"
 "Society should support those who respect others’ freedom."
 msgstr ""
+"<emphasis role=\"bold\">Libre como en liberdade, non de balde.</emphasis>\n"
+"O software libre trata das liberdades que recibes co software, non do prezo. Do mesmo xeito, publicar baixo unha licenza aberta non significa ter dereito a obter unha copia gratuíta do libro e do ebook. Significa ter os dereitos descritos anteriormente, que permiten á sociedade beneficiarse aínda máis del, como debería ser para toda a cultura. \n"
+"\n"
+"Animámoste a apoiar aos autores, editores e outros involucrados na creación de cultura con licenzas abertas, mesmo<emphasis role=\"bold\"> con apoio financeiro mediante a compra ou cunha doazón <emphasis role=\"bold\">(<link xlink:href=\"https://fsfe.org/donate\">https://fsfe.org/donate</link>)\n"
+"A sociedade debería apoiar a quen respecta a liberdade dos demais."
 
 #. (itstool) path: info/title
 #. Page next to the colophon with title, subtitle, authors and
@@ -388,7 +458,7 @@ msgstr "Revistas de prestixio («STARS», «MONEY», «Richest Man») cuxas port
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:520
 msgid "Far away, at the other end of town, lived a famous inventor named Zangemann. He was immensely rich. No sheet of paper in the world was big enough to show his bank balance with all its numbers and zeros!"
-msgstr "Moi lonxe, no outro extremo da cidade, vivía un inventor famoso chamado Zangemann. Era inmesamente rico. Non había no mundo unha folla de papel o suficientemente grande para amosar todos os cartos que tiña, con todos os seus números e ceros."
+msgstr "Moi lonxe, no outro extremo da cidade, vivía un inventor famoso chamado Zangemann. Era inmesamente rico. Non había no mundo unha folla de papel o suficientemente grande para amosar todos os cartos que tiña, con todos os seus números e ceros!"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:520
@@ -690,7 +760,7 @@ msgstr "“Síntoo, foi sen querer”, balbuciu o cativo, pero Zangemann non o e
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:627
 msgid "An angry Zangemann limped away. Suddenly, he heard loud music. He had never before heard something so horrible."
-msgstr "Zangemann anoxado afastouse coxeando. De súpeto, escoitou música a todo volume. Nunca ouvira algo tan horrible. "
+msgstr "Zangemann anoxado afastouse coxeando. De súpeto, escoitou música a todo volume. Nunca ouvira algo tan horrible."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:627
@@ -700,7 +770,7 @@ msgstr "Ollou ao seu redor e viu que a música proviña dun altofalante que el m
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:627
 msgid "A child across the street was holding it. The child seemed to like the music, but it gave Zangemann a terrible headache, and his mood worsened."
-msgstr "Un neno sostíñao ao outro lado da rúa. Ao cativo parecía gustarlle a música, pero a Zangemann provocoulle unha terrible dor de cabeza e o seu humor empeorou"
+msgstr "Un neno sostíñao ao outro lado da rúa. Ao cativo parecía gustarlle a música, pero a Zangemann provocoulle unha terrible dor de cabeza e o seu humor empeorou."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:627
@@ -999,12 +1069,12 @@ msgstr "Ada, Toni, Marie e Konrad pasaban moitas tardes na chatarraría. Mesmo m
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:799
 msgid "“Your brother’s speakers are much louder than ours,” remarked Toni, who was busy attaching a speedometer to his helmet. “I’m sure that’s also because of the software,” Marie said."
-msgstr ""
+msgstr "“Os altofalantes de teu irmán soan moito máis forte que os nosos”, comentou Toni, que estaba ocupado colocando un velocímetro no seu casco. “Seguro que iso tamén se debe ao software”, dixo Marie."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:800
 msgid "Together, they changed the software for the speakers too. Then they turned up the music as loud as possible and danced wildly together."
-msgstr ""
+msgstr "Xuntos, mudaron o software dos altofalantes. Despois subiron o volume da música ao máximo e bailaron coma tolos."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1038,38 +1108,38 @@ msgstr "Mans sostendo cornetes de xeado marabillosos: xeado azul cun corazón de
 #. (itstool) id: Ada_Zangemann.dbk#para-p35-1
 #: Ada_Zangemann.dbk:840
 msgid "Every day, Ada and her friends made plans together for the afternoon. From a broken ice-cream machine, they built a new one that could make ice cream in every imaginable shape and color. They ate square ice cream, heart-shaped ice cream, and even pyramid-shaped ice cream, as well as strawberry, raspberry, and rainbow ice cream, all with sprinkles and hot fudge — much better than the varieties from the Zangemann machines."
-msgstr ""
+msgstr "Todos os días, Ada e os seus amigos facían plans pola tarde. A partir dunha máquina de xeados rota, construíron unha nova que podía facer xeado de todas as formas e cores imaxinables. Comían xeado cadrado, xeado con forma de corazón e mesmo xeado en forma de pirámide, así como xeado de fresa, framboesa e arco iris, todo con labras e chocolate quente. Era moito mellor que o xeado das máquinas de Zangemann."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:841
 msgid "Sometimes they could even help adults. Toni reprogrammed his father’s ironing machine so that it could also iron ties again — Zangemann had forbidden the machines to do so because he hated ties like the plague. For the bus driver, they built an automatic watering system out of old hoses and a computer so that her plants would not die of thirst during summer days. And they helped the school custodian modify his vacuum so that it automatically recognized toys and wouldn’t suck them up."
-msgstr ""
+msgstr "Ás veces mesmo podían axudar aos adultos que tiñan problemas cos seus ordenadores. Toni volveu programar o ferro de pasar de seu pai para que tamén puidese desengurrar gravatas. Zangemann prohibírao porque odiaba as gravatas como á peste. Para a condutora do autobús, construíron un sistema de rego automático con mangueiras vellas e un ordenador para que as súas plantas non morresen de sede nos días de verán. E axudaron ao conserxe do colexio a modificar o seu aspirador para que recoñecese automaticamente os xoguetes e non os aspirase."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:842
 msgid "Some things they built just for fun, like the fart machine they put in their math teacher’s chair. Whenever Ms. Gernet sat down, the machine played a little fart sound. The teacher would scold them, but Ada was sure that she secretly smirked a little every time."
-msgstr ""
+msgstr "Algunhas cousas construíronas só por diversión, como a máquina de peidos que colocaron na cadeira da súa profesora de matemáticas. Cada vez que a señora Gernet sentaba, a máquina facía soar un peidiño. A profesora rifáballes, pero Ada estaba certa de que, en segredo, sorría cada vez un chisquiño máis."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:847
 msgid "Zangemann and the President"
-msgstr ""
+msgstr "Zangemann e o Presidente"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p36-1
 #: Ada_Zangemann.dbk:851
 msgid "One day, Zangemann noticed that some computers no longer obeyed his programming commands. Shocked and fuming with anger, he called the president. In a quivering voice, Zangemann yelled, “Someone is rewriting the programs in my devices. That can’t happen; after all, they are my inventions. It’s far too dangerous if everyone can do whatever they want with the computers. You must make a law against this!”"
-msgstr ""
+msgstr "Un día Zangemann decatouse de que algúns ordenadores xa non obedecían as súas ordes de programación. Sorprendido e furioso, chamou ao presidente. Con voz tremente, Zangemann berrou: “Alguén está a reescribir os programas dos meus aparellos! Iso non pode pasar; ao fin e ao cabo, son os meus inventos. É demasiado perigoso que todo o mundo poida facer o que queira cos ordenadores. Tes que facer unha lei contra isto!”"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:852
 msgid "The president did not want to upset Zangemann. All the government’s computers were programmed by Zangemann. Without the computers, the government would not be able to run the country. So they passed the law as Zangemann requested:"
-msgstr ""
+msgstr "O presidente non quería anoxar a Zangemann. Todos os ordenadores do goberno foran programados por Zangemann. Sen os ordenadores, o goberno non sería capaz de dirixir o país. Así que aprobaron a lei tal e como Zangemann pedira:"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:853
 msgid "“All computers that do not listen to Zangemann are banned. Anyone who reprograms Zangemann’s devices will be fined 500,000 gold pieces!”"
-msgstr ""
+msgstr "“Os ordenadores que non obedezan a Zangemann están prohibidos. Calquera que volva a programar os dispositivos de Zangemann será multado con 500.000 pezas de ouro!”"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1081,12 +1151,12 @@ msgstr "O presidente recibe unha chamada telefónica dun Zangemann furioso. O vi
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:865
 msgid "When Ada and her friends heard this, they were furious. “This is unfair,” they said. “We rebuilt and reprogrammed our skateboards ourselves. They are much better now. We won’t let anyone take that away from us!”"
-msgstr ""
+msgstr "Cando Ada e os seus amigos escoitaron isto, puxéronse furiosos. “É inxusto”, dixeron. “Reconstruímos e volvemos programar os nosos monopatíns nós mesmos. Agora son moito mellores. Non deixaremos que ninguén nolos quite!”"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:866
 msgid "They gathered in front of one of their rebuilt ice-cream machines and discussed the situation. It was clear that something had to be done about the new law, and they made a plan..."
-msgstr ""
+msgstr "Reuníronse fronte a unha das máquinas de xeados que reconstruíran e discutiron a situación. Estaba claro que había que facer algo sobre a nova lei e trazaron un plan..."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1098,18 +1168,18 @@ msgstr "Latas de pintura verde, azul e rosa; un pincel con pintura amarela; un r
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:877
 msgid "Protest"
-msgstr ""
+msgstr "Protesta"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p39-1
 #: Ada_Zangemann.dbk:882
 msgid "The next day, they didn’t go to school. Instead, they rode their skateboards to the parliament building, with large protest signs under their arms, and sat down in front of the building. The evening before, they had put LED lights on some of the signs, which were now flashing brightly. They had connected their speakers together so everyone in the street could hear what they were saying. Some passersby stopped and asked the children what they were demonstrating for. “For software freedom!” they replied in unison and told the adults their story. Impressed, the adults nodded, and the president also looked curiously at their signs as he approached the building."
-msgstr ""
+msgstr "Ao día seguinte non foron ao colexio. Foron cos seus monopatíns ata o Parlamento, con grandes carteis de protesta baixo o brazo e sentaron perante o edificio. A noite anterior colocaran luces LED nalgunhas pancartas, que agora escintilaban intensamente. Conectaran os seus altofalantes para que todo o mundo na rúa puidese ouvir o que dicían. Algúns transeúntes pararon e preguntáronlles aos cativos por que se manifestaban. “Pola liberdade do software!”, responderon ao unísono e contaron a súa historia aos adultos. Impresionados, os adultos asentiron e o presidente tamén mirou con curiosidade os carteis mentres se achegaba ao edificio."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:883
 msgid "On the following day, Ada and her friends again sat down in front of the parliament building, this time with support. Some classmates came whose skateboards Ada had reprogrammed. Toni’s father and other parents and adults also wanted to support the protest. They found the children’s devices very useful."
-msgstr ""
+msgstr "Ao día seguinte Ada e os seus amigos volveron sentar fronte ao Parlamento, desta volta acompañados. Acudiron algúns compañeiros cuxos monopatíns Ada volvera a programar. O pai de Toni e outros pais tamén quixeron apoiar a protesta. Parecíanlles moi útiles os inventos dos nenos."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1121,7 +1191,7 @@ msgstr "Pintura amarela e verde no chan e ceras amarelas, vermellas, azuis, verd
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:892
 msgid "With each passing day, more and more children and adults joined the protest. The bus driver they had helped drove up in her bus. She honked loudly to attract even more people to the protest. The custodian brought a few friends, and Toni’s father brought his colleagues from work, all wearing perfectly ironed ties. Even Ms. Gernet came. The crowd grew, and after a few weeks, there were protests not just in Ada’s city but also in many cities throughout the country."
-msgstr ""
+msgstr "Segundo pasaban os días, máis nenos e adultos se unían á protesta. A condutora de autobús á que axudaran chegou no seu autobús. Tocou a bucina para atraer máis xente á protesta. O conserxe trouxo algúns amigos e o pai de Toni trouxo aos seus compañeiros de traballo, todos con gravatas perfectamente desengurradas. Mesmo foi a señora Gernet. A multitude medrou e, ao cabo dunhas semanas, houbo protestas non só na cidade de Ada, tamén en moitas outras cidades de todo o país."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1134,7 +1204,7 @@ msgstr "Grupo de manifestantes. Entre eles están: a nai de Ada, que leva a Alan
 #. Text on big banner, left on the illustration
 #: Ada_Zangemann.dbk:899
 msgid "Do your homework Mr. President and we will do ours!"
-msgstr ""
+msgstr "Faga os seus deberes, señor presidente, e nós faremos os nosos!"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1154,7 +1224,7 @@ msgstr "Detalle da imaxe anterior: Ada e Konrad levan a pancarta «Non destrúan
 #. Text on square signe on the right of the illustration
 #: Ada_Zangemann.dbk:916
 msgid "They are young + need the code!"
-msgstr ""
+msgstr "Somos novos + precisamos o código!"
 
 #. (itstool) path: info/excerpt
 #. Text on banner on the banner held by children on the right of the
@@ -1162,23 +1232,23 @@ msgstr ""
 #. can be used, which translates to 'without code everything is dull!'.
 #: Ada_Zangemann.dbk:917
 msgid "Don’t wreck our tech!"
-msgstr ""
+msgstr "Non esnaquicedes a nosa tecnoloxía!"
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:924
 msgid "Children help the government"
-msgstr ""
+msgstr "Os cativos axudan ao goberno"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p42-1
 #: Ada_Zangemann.dbk:927
 msgid "Ada protested in front of the parliament building every week, even in pouring rain. On one such rainy day, when the president passed the group of dripping-wet children, he couldn’t help but admire their stubbornness. He asked Ada, “Why do you sit here every day? What do you want to achieve?” Ada replied, “We want to determine for ourselves what we can and cannot do with our computers.” Her friends shouted in unison: “Don’t wreck our tech! Don’t wreck our tech!” and “We want the code! We want the code!”"
-msgstr ""
+msgstr "Ada protestaba perante o Parlamento todas as semanas, mesmo baixo a chuvia torrencial. Nun deses días de chuvia, cando o presidente se cruzou cun grupo de cativos empapados, non puido senón admirar a súa teimosía. Preguntoulle a Ada: “Por que sentades aquí todos os días? Que queredes conseguir?”. Ada respondeu: “Queremos decidir por nós mesmos o que podemos e non podemos facer cos nosos ordenadores”. Os seus amigos berraron ao unísono: “Non esnaquicedes a nosa tecnoloxía! Non esnaquicedes a nosa tecnoloxía!” e “Queremos o código! Queremos o código!\""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:928
 msgid "The president looked at the determined faces of the children. Honestly, he, too, wanted to decide for himself what the government could and couldn’t do with its computers. But he didn’t understand anything about computers and code, so he had always left that to Zangemann. Deep in thought, the president entered the building."
-msgstr ""
+msgstr "O presidente mirou as caras decididas dos nenos. Sinceramente, el tamén quería decidir por si mesmo o que o goberno podía e non podía facer cos seus ordenadores. Pero non entendía nada de ordenadores nin de programación, así que sempre llo deixara a Zangemann. Pensativo, o presidente entrou no edificio."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1190,17 +1260,17 @@ msgstr "Un dos amigos de Ada, deitado boca abaixo cun pé levantado no aire, est
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:936
 msgid "The next day, the president invited Ada and her friends over. “We also want to be in charge of our software ourselves. In order for that to be true, the government must be independent from Zangemann. Can you tell me what you know about computer programs?” he asked them. Enthusiastically, they explained to him how software works and what you could do with it. The president was amazed."
-msgstr ""
+msgstr "Ao día seguinte, o presidente convocou a Ada e aos seus amigos. \"Tamén nós queremos controlar o noso software. Para que iso sexa posible, o goberno ten de ser independente de Zangemann. Podedes dicirme o que sabedes sobre programas informáticos?\", preguntoulles. Con entusiasmo, os nenos explicáronlle como funciona o software e o que se pode facer con el. O presidente quedou abraiado."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:939
 msgid "With this new knowledge, the government would be able to design its own software, the way it wanted — completely without Zangemann. Immediately, the president called his advisers. In a large group, they discussed with the children everything they could change and improve in the software."
-msgstr ""
+msgstr "Con estes novos coñecementos, o goberno podería deseñar o seu propio software como quixese, sen Zangemann. Inmediatamente, o presidente chamou aos seus asesores. Todos xuntos, discutiron cos nenos todo o que podían mudar e como mellorar o software."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:940
 msgid "That evening, the children went home proud and satisfied. Something finally happened! Their long protest was worth it."
-msgstr ""
+msgstr "Esa tarde, os nenos volveron a casa orgullosos e satisfeitos. Por fin acontecera algo! A súa longa protesta pagara a pena."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1212,13 +1282,13 @@ msgstr "Ada e os seus amigos están no despacho do presidente. Ada está volvend
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:951
 msgid "New law"
-msgstr ""
+msgstr "Nova lei"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p44-1
 #: Ada_Zangemann.dbk:954
 msgid "The next morning, the president’s phone rang very early. It was Zangemann. He was angrier than ever. “Without me, the government computers will no longer work,” he threatened. But the president kept the call short and quickly hung up. The phone rang many more times that day, but Zangemann’s calls went unanswered. The president sat in a meeting with Ada, Toni, Marie, Konrad, and the government experts."
-msgstr ""
+msgstr "Á mañá seguinte, moi cedo, soou o teléfono do presidente. Era Zangemann. Estaba máis anoxado que nunca. “Sen min, os ordenadores do goberno non funcionarán”, ameazou. Pero o presidente colgou rapidamente. Ao longo do día o teléfono soou moitas máis veces, pero as chamadas de Zangemann quedaron sen resposta. O presidente estaba reunido con Ada, Toni, Marie, Konrad e os expertos do goberno."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1230,22 +1300,22 @@ msgstr "Un heraldo, toucado cun sombreiro con pluma, toca unha trompeta da que c
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:961
 msgid "In the days that followed, they talked from morning to night and designed their first programs for the government’s computers. They were no longer disturbed by Zangemann’s calls. Toni had the good idea of reprogramming the telephones. When Zangemann called, he only heard an automated recording: “The government only wants to use software that it can freely use, study, share, and improve. Thank you for calling.”"
-msgstr ""
+msgstr "Durante os días seguintes, falaron dende a mañá ata a noite e deseñaron os seus primeiros programas para os ordenadores do goberno. Xa non lles molestaban as chamadas de Zangemann. Toni tivo a boa idea de volver programar os teléfonos. Cando Zangemann chamaba, só oía unha gravación automática: “O goberno só quere utilizar software que poida usar, estudar, mellorar e compartir libremente. Grazas por chamar.\""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:963
 msgid "Then, after many weeks of protests and discussions, the time had finally come: they abolished the old Zangemann law! Instead, the government announced:"
-msgstr ""
+msgstr "Despois de moitas semanas de protestas e debates, por fin chegou o momento: aboliron a antiga lei de Zangemann! No seu canto, o goberno anunciou:"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:966
 msgid "“Everyone is allowed to program their own computers as long as they adhere to the other laws.”"
-msgstr ""
+msgstr "\"Todo o mundo está autorizado a programar os seus propios ordenadores, sempre que se respecten as demais leis.\""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:967
 msgid "In addition, a new school subject was introduced: computer hardware and software."
-msgstr ""
+msgstr "Ademais, introduciuse unha nova materia nos colexios: equipos e programas informáticos."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1257,7 +1327,7 @@ msgstr "O presidente xunto con Toni, Konrad, Marie, Ada e un heraldo que esta a 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:977
 msgid "That evening, everyone celebrated with a big party. Ada, Alan, Toni, Marie, Konrad, and other children from school and their parents; the president; Ms. Gernet; the bus driver; the custodian — they were all there. They decorated the streets, listened to loud music, and ate ice cream, as much as they wanted, and in every imaginable shape and color."
-msgstr ""
+msgstr "Esa tardiña todos o celebraron cunha gran festa: Ada, Alan, Toni, Marie, Konrad e outros nenos da escola e os seus pais, o presidente, a señora Gernet, a condutora do autobús e o conserxe. Decoraron as rúas, escoitaron música a todo volume e comeron xeado, tanto como quixeron e de todas as formas e cores imaxinables."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1269,25 +1339,25 @@ msgstr "Festa nocturna. Os nenos levan xeados e globos coas palabras «I love FS
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:986
 msgid "While the others continued partying late into the night, Ada and her friends slipped away to their workshop. They already had a lot of ideas for new inventions. And they wanted to start right away."
-msgstr ""
+msgstr "Mentres os demais seguían de festa ata ben entrada a noite, Ada, Toni, Marie e Konrad escaparon ao seu taller. Tiñan moitas ideas para novos inventos e querían comezar deseguida."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:991
 msgid "The President, the secretary, and other people around a table enjoying crazy ice cream; yellow and orange flags continue from the previous image; a little girl who just took a pink ghost-shaped ice cream from the modified ice cream machine; Ada’s dog, Konrad, Marie, Ada, and Toni sneaking away from the party."
-msgstr "O presidente, a secretaria e outras persoas arredor dunha mesa gozande xeados disparatados; as bandeiriñas amarelas e laranxas continúan desde a imaxe anterior; unha nena pequena acaba de coller un xeado rosa en forma de pantasma da máquina de xeados modificada; o can de Ada, Konrad, Marie, Ada e Toni escapan ás agachadas da festa."
+msgstr "O presidente, a secretaria e outras persoas arredor dunha mesa gozan de xeados disparatados; as bandeiriñas amarelas e laranxas continúan desde a imaxe anterior; unha nena pequena acaba de coller un xeado rosa en forma de pantasma da máquina de xeados modificada; o can de Ada, Konrad, Marie, Ada e Toni escapan ás agachadas da festa."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:997
 msgid "And Zangemann?"
-msgstr ""
+msgstr "E Zangemann?"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p48-1
 #: Ada_Zangemann.dbk:1001
 msgid "And Zangemann? No one’s heard much from him. Maybe he’s still sitting angrily in front of his golden computer. Maybe he doesn’t dare go out into the street anymore and has boarded up all the windows of his mansion so that he doesn’t have to worry about what other people are doing with his inventions. But maybe he also sometimes looks out into the world through his telescope and sees what the children are inventing every day. Perhaps then he will remember how much fun it was for himself to tinker and experiment. And maybe, just maybe, he eats pyramid-shaped raspberry ice cream with rainbow sprinkles."
-msgstr ""
+msgstr "E Zangemann? Non se sabe moito del. Talvez aínda estea sentado anoxado diante do seu ordenador dourado. Talvez non se atreva a saír á rúa e tapiase todas as ventás da súa mansión para non ter que se preocupar polo que fan os demais cos seus inventos. Pero quizais, ás veces, mire o mundo a través do seu telescopio e vexa o que os nenos inventan cada día. Talvez entón lembre o divertido que era enredar e experimentar. E talvez, só talvez, coma xeado de framboesa con forma de pirámide e labras de arco iris."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1307,7 +1377,7 @@ msgstr "Un rastro de lambetadas e xeado de framboesa no chan."
 #. (itstool) id: Ada_Zangemann.dbk#title-acknowledgments
 #: Ada_Zangemann.dbk:1022
 msgid "Acknowledgments"
-msgstr ""
+msgstr "Agradecementos"
 
 #. (itstool) path: simplesect/para
 #. In the acknowledgments of the English version you can change 'No Starch
@@ -1316,17 +1386,17 @@ msgstr ""
 #. and encourage you to do that for other books in future as well.
 #: Ada_Zangemann.dbk:1030
 msgid "Many thanks to Reinhard Wiesemann from the Linuxhotel for the financial support and motivation to no longer plan but to make. Thanks to Sandra Brandstätter, who has brought me joy with every new design for the illustrations. Thanks to my editor Wiebke Helmchen, who made developing and sharpening the story fun, and to No Starch Press for agreeing to publish the book under a free culture license."
-msgstr ""
+msgstr "Moitas grazas a Reinhard Wiesemann, do LinuxHotel, polo apoio financeiro e pola motivación para deixar de planear e poñerme mans á obra. Grazas a Sandra Brandstätter, que me foi enchendo de alegría con cada deseño das ilustracións. Grazas á miña editora, Wiebke Helmchen, que fixo que desenvolver e afinar a historia fose moi divertido, e a No Starch Press por aceptar publicar o libro baixo unha licenza de cultura libre."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1031
 msgid "Thanks to Bea and Benni, Brian, Christine and Marc, Cory, Bernhard, Isabel and Amelia, Katta, Kristina, Martin, Mona and Arne, Nina, Oliver, Reinhard, Sabine, and Torsten for great ideas, inspiration, and practical tips, and to the many people of the Free Software movement, from which I was allowed to learn and whose engagement motivated me."
-msgstr ""
+msgstr "Grazas a Bea e Benni, Christine e Marc, Cory, Bernhard, Isabel e Amelia, Katta, Kristina, Martin, Mona e Arne, Nina, Oliver, Reinhard, Sabine e Torsten polas súas ideas xeniais, pola súa inspiración e polos seus consellos prácticos, e ás moitas persoas do movemento do Software Libre, das que puiden aprender e cuxo compromiso me motivou."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1035
 msgid "Thanks to my family, who made me write early in the morning, late in the evening, and on holiday, and who always supports my work for software freedom. Especially, I would like to thank my children, who inspired me with new ideas at each reading. Without them, this book would not exist."
-msgstr ""
+msgstr "Grazas á miña familia, que me motivou a escribir cedo pola mañá, tarde pola noite e en vacacións, e que sempre apoia o meu traballo pola liberdade do software. En especial, gustaríame agradecerlles aos meus fillos, que me inspiraron con ideas novas en cada lectura. Sen eles, este libro non existiría."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1339,19 +1409,19 @@ msgstr "O can de Ada abana o rabo despois de atopar a Zangemann agochado detrás
 #. (itstool) id: Ada_Zangemann.dbk#title-author
 #: Ada_Zangemann.dbk:1049
 msgid "About the Author"
-msgstr ""
+msgstr "Sobre o autor"
 
 #. (itstool) path: info/subtitle
 #. (itstool) id: Ada_Zangemann.dbk#subtitle-author
 #. ignore-same
 #: Ada_Zangemann.dbk:1050
 msgid "Matthias Kirschner"
-msgstr ""
+msgstr "Matthias Kirschner"
 
 #. (itstool) path: info/titleabbrev
 #: Ada_Zangemann.dbk:1051
 msgid "About the Author - Matthias Kirschner"
-msgstr ""
+msgstr "Sobre o autor - Matthias Kirschner"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1363,25 +1433,25 @@ msgstr "Primeiro plano de Matthias sorrindo, saudando cunha man e levando uns au
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1066
 msgid "Matthias was fascinated by computers and software as a child. He had an internet connection early, through which he learned a lot. Children have a right to take their future into their own hands. Therefore, Matthias is committed to the goal that all humans can use software in a self-determined way. He also wants to build an electric skateboard with Free Software."
-msgstr ""
+msgstr "A Matthias sempre lle fascinaron os ordenadores e o software. Desde moi cedo tivo conexión a Internet, coa que aprendeu moito. Os nenos teñen dereito a tomar as rendas do seu futuro. Por iso, Matthias está comprometido co obxectivo de que todas as persoas poidan usar o software de maneira autodeterminada. Tamén quere construír un monopatín eléctrico con Software Libre."
 
 #. (itstool) path: info/title
 #. (itstool) id: Ada_Zangemann.dbk#title-illustrator
 #: Ada_Zangemann.dbk:1072
 msgid "About the Illustrator"
-msgstr ""
+msgstr "Sobre a ilustradora"
 
 #. (itstool) path: info/subtitle
 #. (itstool) id: Ada_Zangemann.dbk#subtitle-illustrator
 #. ignore-same
 #: Ada_Zangemann.dbk:1073
 msgid "Sandra Brandstätter"
-msgstr ""
+msgstr "Sandra Brandstätter"
 
 #. (itstool) path: info/titleabbrev
 #: Ada_Zangemann.dbk:1074
 msgid "About the Illustrator - Sandra Brandstätter"
-msgstr ""
+msgstr "Sobre a ilustradora - Sandra Brandstätter"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1393,39 +1463,39 @@ msgstr "Sandra sorrindo cun lapis na man diante do queixo. Leva uns auriculares 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1089
 msgid "Sandra has always liked crafting with scissors, pliers, glue, wire, fabric, and paper. Today she works as an illustrator, comic author, and character designer for animated films and series, such as the German public television series Trudes Tier. On an ice-cream machine, Sandra would pick a creamy rainbow ice cream with lemon cucumber flavor and a lot of sprinkles."
-msgstr ""
+msgstr "A Sandra sempre lle gustaron os traballos manuais con tesoira, alicates, pegamento, arame, tea e papel. Hoxe traballa como ilustradora, autora de cómics e deseñadora de personaxes para películas e series de animación, como a serie da televisión pública alemana Trudes Tier. Nunha máquina de xeados, Sandra escollería un cremoso xeado arco iris con sabor a cogombro limón e un montón de labras."
 
 #. (itstool) path: info/title
 #. (itstool) id: Ada_Zangemann.dbk#title-bookswebsite
 #: Ada_Zangemann.dbk:1094
 msgid "Book’s website"
-msgstr ""
+msgstr "Web do libro"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1102
 msgid "The Free Software Foundation Europe e.V. is a nonprofit association that empowers people to control technology. Software affects all areas of our life. That is why it is important that this technology gives us freedom instead of restricting us. Free Software (also called Open Source) gives everyone the right to use, study, share, and improve programs. Therefore, Free Software strengthens basic rights such as freedom of expression, freedom of the press, and the right to privacy."
-msgstr ""
+msgstr "A Free Software Foundation Europe e.V é unha organización sen ánimo de lucro que brinda ás persoas medios para controlar a tecnoloxía. O software está presente en todos os ámbitos das nosas vidas. Por iso é importante que esta tecnoloxía nos dea liberdade no canto de restrinxirnos. O Software Libre (tamén chamado Open Source) dálle a todo o mundo o dereito a usar, estudar, compartir e mellorar os programas. O Software Libre axuda a apoiar outros dereitos fundamentais como a liberdade de expresión, a liberdade de prensa e o dereito á privacidade."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1104
 msgid "On the web page of the book, you will find more information and resources: <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
-msgstr ""
+msgstr "Na páxina web do libro atoparás máis información e outros materiais: <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
 
 #. (itstool) path: info/title
 #. (itstool) id: Ada_Zangemann.dbk#title-license
 #: Ada_Zangemann.dbk:1111
 msgid "License"
-msgstr ""
+msgstr "Licenza"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1119
 msgid "The book Ada &amp; Zangemann: A Tale of Software, Skateboards, and Raspberry Ice Cream by Matthias Kirschner and Sandra Brandstätter, published by No Starch Press, is licensed under “Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).”"
-msgstr ""
+msgstr "O libro “Ada &amp; Zangemann - Un conto sobre software, monopatíns e xeado de framboesa”, de Matthias Kirschner e Sandra Brandstätter, publicado por No Starch Press, está baixo licenza “Creative Commons Atribución-CompartirIgual 4.0 Internacional (CC BY-SA 4.0).”"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1120
 msgid "<link xlink:href=\"https://creativecommons.org/licenses/by-sa/4.0/\">https://creativecommons.org/licenses/by-sa/4.0/</link>"
-msgstr ""
+msgstr "<link xlink:href=\"https://creativecommons.org/licenses/by-sa/4.0/\">https://creativecommons.org/licenses/by-sa/4.0/</link>"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1442,6 +1512,8 @@ msgid ""
 "Come up with some delicious, funny, or crazy ice-cream flavors and draw them on the ice-cream cones on the following page.\n"
 "More information about the book can be found at <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
 msgstr ""
+"Engade sabores deliciosos, divertidos ou tolos e debúxaos nos conos de xeado da páxina seguinte.\n"
+"Para obter máis información sobre este libro, podes visitar <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
