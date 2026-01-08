@@ -116,6 +116,9 @@ available:
   [Coding Pirates](https://codingpirates.dk/) is a charity that teaches
   coding to children.
 
+* In Dutch by Free Software Foundation Europe e.V. You can order it at your
+  preferred book store. You can find it by ISBN code 9789465332307.
+
 # Profits of sales
 
 Matthias Kirschner wrote the text on a voluntary basis for the FSFE. All
