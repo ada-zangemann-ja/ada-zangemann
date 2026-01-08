@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-08 05:47+0000\n"
-"Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
+"PO-Revision-Date: 2026-01-09 07:00+0000\n"
+"Last-Translator: Matthias Kirschner <mk@fsfe.org>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/fsfe/ada-zangemann/de/>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -397,7 +397,7 @@ msgstr "Zangemanns Anwesen befand sich hoch oben auf einem Berg. Von dort konnte
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:525
 msgid "Zangemann and computers"
-msgstr ""
+msgstr "Zangemann und Computer"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:529
@@ -1448,4 +1448,4 @@ msgstr "Lass dir ein paar leckere, lustige oder verrückte Eissorten einfallen u
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:1139
 msgid "Three hands that hold as many empty ice cream cones, to draw and color. In the air above the middle cone is an umbrella."
-msgstr ""
+msgstr "Drei Hände die jeweils eine leere Eiswaffel halten zum Ausmalen. Über der mittleren Eiswaffel ist ein Schirmchen."
