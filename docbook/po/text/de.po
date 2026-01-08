@@ -3,15 +3,15 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-05 08:38+0100\n"
-"Last-Translator: Bonnie <bonnie@fsfe.org>\n"
+"PO-Revision-Date: 2026-01-08 05:47+0000\n"
+"Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/fsfe/ada-zangemann/de/>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Poedit 3.6\n"
+"X-Generator: Weblate 5.15.1\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
@@ -51,7 +51,7 @@ msgstr "<personname> <firstname>Sandra</firstname> <surname>Brandstätter</surna
 #. ignore-same
 #: Ada_Zangemann.dbk:284
 msgid "Ada"
-msgstr ""
+msgstr "Ada"
 
 #. (itstool) path: character/charactername
 #. Name must not be changed.
@@ -59,7 +59,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:287
 msgid "Zangemann"
-msgstr ""
+msgstr "Zangemann"
 
 #. (itstool) path: character/charactername
 #. Name must not be changed.
@@ -97,7 +97,7 @@ msgstr "Toni"
 #. ignore-same
 #: Ada_Zangemann.dbk:296
 msgid "Konrad"
-msgstr ""
+msgstr "Konrad"
 
 #. (itstool) path: character/charactername
 #. Character names are mostly reference to existing people in computer
@@ -112,7 +112,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:299
 msgid "Marie"
-msgstr ""
+msgstr "Marie"
 
 #. (itstool) path: character/charactername
 #. Character names are mostly reference to existing people in computer
@@ -127,7 +127,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:302
 msgid "Ms. Gernet"
-msgstr ""
+msgstr "Frau Gernet"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -178,13 +178,13 @@ msgstr ""
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:364 Ada_Zangemann.dbk:490
 msgid "ADA &amp; ZANGEMANN"
-msgstr ""
+msgstr "ADA &amp; ZANGEMANN"
 
 #. (itstool) path: info/title
 #. Also known as 'imprint'
 #: Ada_Zangemann.dbk:370
 msgid "Colophon"
-msgstr ""
+msgstr "Impressum"
 
 #. (itstool) path: simplesect/literallayout
 #. Smaller colophon to be combined with grey free cultural license
@@ -1350,7 +1350,7 @@ msgstr "Matthias Kirschner"
 #. (itstool) path: info/titleabbrev
 #: Ada_Zangemann.dbk:1051
 msgid "About the Author - Matthias Kirschner"
-msgstr ""
+msgstr "Über den Autor - Matthias Kirschner"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1380,7 +1380,7 @@ msgstr "Sandra Brandstätter"
 #. (itstool) path: info/titleabbrev
 #: Ada_Zangemann.dbk:1074
 msgid "About the Illustrator - Sandra Brandstätter"
-msgstr ""
+msgstr "Über die Illustratorin - Sandra Brandstätter"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1397,7 +1397,6 @@ msgstr "Sandra Sie hat schon immer gerne mit Schere, Zange, Kleber, Draht, Stoff
 #. (itstool) path: info/title
 #. (itstool) id: Ada_Zangemann.dbk#title-bookswebsite
 #: Ada_Zangemann.dbk:1094
-#, fuzzy
 msgid "Book’s website"
 msgstr "Webseite zum Buch"
 
