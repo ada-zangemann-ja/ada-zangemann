@@ -158,6 +158,21 @@ This is not a script to be run directly. It is a script that can be called from
 Scribus to automatically generate a pdf file. This process is automated in the
 to_pdf.sh script.
 
+### equalize_srt.py
+
+This script requires additional packages, as specified in requirements.txt
+In order to use this script, first create a Python virtual environment, install
+the packages and source the environment:
+
+```shell
+python3 -m venv .venv
+source ./venv/bin/activate
+pip install -r requirements.txt
+```
+
+If running this script from the Docbook Makefile, ensure that the environment is
+sourced so it has the packages available.
+
 ## Compatibility and development
 
 There is currently no versioning of scripts and source texts. Changes in scripts

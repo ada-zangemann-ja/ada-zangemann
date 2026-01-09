@@ -1,0 +1,6 @@
+# SPDX-FileCopyrightText: 2026 Nico Rikken <nico.rikken@fsfe.org>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+srt==3.5.3
+srt_equalizer==0.1.10

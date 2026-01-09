@@ -1,4 +1,4 @@
-# SPDX-FileCopyrightText: 2024-2025 Nico Rikken <nico.rikken@fsfe.org>
+# SPDX-FileCopyrightText: 2024-2026 Nico Rikken <nico.rikken@fsfe.org>
 # SPDX-FileCopyrightText: 2025 ירון שהרבני Yaron Shahrabani <sh.yaron@gmail.com>
 #
 # SPDX-License-Identifier: CC0-1.0
@@ -447,6 +447,16 @@ build/Ada_Zangemann-voiceover.%.csv: build/Ada_Zangemann.%.dbk
 # SRT file from voiceover data
 build/Ada_Zangemann-voiceover.%.srt: build/Ada_Zangemann.%.dbk
 	xsltproc -o $@ xsl/movie-voice-srt.xsl $<
+
+# Equalize SRT files using srt_equalizer Python package
+# Note that this requires Python package to work. See scripts/README.md for instructions
+targets-voiceover-equalized-srt = $(addprefix build/Ada_Zangemann-voiceover-equalized.,$(addsuffix .srt,$(languages)))
+$(targets-voiceover-equalized-srt): build/Ada_Zangemann-voiceover-equalized.%.srt: build/Ada_Zangemann-voiceover.%.srt
+	echo "NOTE: this action requires python packages in the environment. See scripts/README.md for instructions."
+	python3 ../scripts/equalize_srt.py $< $@
+
+.PHONY: build/Ada_Zangemann-voiceover-equalized.all.srt
+build/Ada_Zangemann-voiceover-equalized.all.srt: $(targets-voiceover-equalized-srt)
 
 # Format docbook file using xmllint
 .PHONY: xmllint-format
