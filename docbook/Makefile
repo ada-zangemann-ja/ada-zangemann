@@ -85,7 +85,10 @@ build/%.mo: build/%.po
 
 .PHONY: status
 status:
+	echo "Translations:"
 	for p in po/text/*.po; do printf "$$p "; msgfmt -o /dev/null --stat $$p; done
+	echo "Only alt-text:"
+	for p in po/text/*.po; do printf "$$p "; msggrep --extracted-comment -e 'mediaobject/alt' --no-wrap -o - $$p | msgfmt -o /dev/null --stat -; done
 
 # Derived images
 # NOTE: using images from source instead of build directory to prevent ordering conflict
