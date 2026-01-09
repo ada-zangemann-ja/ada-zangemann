@@ -73,7 +73,7 @@ po/editorial/%.po: po/editorial/Ada_Zangemann.pot
 	touch $@
 
 .PRECIOUS: build/%.po
-build/%.po: po/text/%.po po/editorial/%.po
+build/%.po: po/text/%.po po/editorial/%.po ## merged gettext file
 	msgcat -o $@ $+
 
 # Generate message strings for further processing.
@@ -122,14 +122,14 @@ build/images/capitals:
 
 # Create docbook files
 targets-dbk = $(addprefix build/Ada_Zangemann.,$(addsuffix .dbk,$(languages)))
-$(targets-dbk): build/Ada_Zangemann.%.dbk: build/%.mo Ada_Zangemann.dbk
+$(targets-dbk): build/Ada_Zangemann.%.dbk: build/%.mo Ada_Zangemann.dbk ## merged docbook
 	itstool --strict --merge $< --out $@ Ada_Zangemann.dbk
 
 .PHONY: build/Ada_Zangemann.all.dbk
 build/Ada_Zangemann.all.dbk: $(targets-dbk)
 
 # Create 'pure' docbook files without custom elements
-build/Ada_Zangemann-pure.%.dbk: build/Ada_Zangemann.%.dbk xsl/clean-docbook.xsl
+build/Ada_Zangemann-pure.%.dbk: build/Ada_Zangemann.%.dbk xsl/clean-docbook.xsl ## docbook without custom namespaces
 	xsltproc -o $@ xsl/clean-docbook.xsl $<
 
 # Profile 'pure' docbook for text processing
@@ -557,3 +557,10 @@ build/Ada_Zangemann-print-headings-text-colophon-fullpage-halftitle-global.nb-sc
 # Generate all translated docbook files and run xmllint on them. Early exit in case of failure.
 .PHONY: quick-check
 quick-check: $(addprefix build/Ada_Zangemann.,$(addsuffix .dbk.lint,$(languages)))
+
+.PHONY: help
+help:
+	@echo "Available targets:"
+	@grep -E '^.*:.*\s+##\s+\S+' Makefile | \
+	sed -E 's/^[^:]+:\s*([^:]+:.*##)/\1/' | \
+	awk 'BEGIN {FS = ":.*?## "}; {printf "  %-40s %s\n", $$1, $$2}'
