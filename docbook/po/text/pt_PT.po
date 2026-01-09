@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-05 18:41+0100\n"
+"PO-Revision-Date: 2026-01-09 07:00+0000\n"
 "Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
 "Language-Team: Portuguese (Portugal) <https://hosted.weblate.org/projects/fsfe/ada-zangemann/pt_PT/>\n"
 "Language: pt_PT\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Poedit 3.6\n"
+"X-Generator: Weblate 5.15.1\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
@@ -24,8 +24,9 @@ msgstr ""
 #.
 #. ignore-same
 #: Ada_Zangemann.dbk:264 Ada_Zangemann.dbk:308 Ada_Zangemann.dbk:498
+#, fuzzy
 msgid "Ada &amp; Zangemann"
-msgstr ""
+msgstr "Ada &amp; Zangemann"
 
 #. (itstool) path: subtitle/phrase
 #. (itstool) path: cover/bridgehead
@@ -37,13 +38,13 @@ msgstr "Uma história de software, skates e gelado de framboesa"
 #. ignore-same
 #: Ada_Zangemann.dbk:269
 msgid "<personname> <firstname>Matthias</firstname> <surname>Kirschner</surname> </personname>"
-msgstr ""
+msgstr "<personname> <firstname>Matthias</firstname> <surname>Kirschner</surname> </personname>"
 
 #. (itstool) path: info/othercredit
 #. ignore-same
 #: Ada_Zangemann.dbk:275
 msgid "<personname> <firstname>Sandra</firstname> <surname>Brandstätter</surname> </personname>"
-msgstr ""
+msgstr "<personname> <firstname>Sandra</firstname> <surname>Brandstätter</surname> </personname>"
 
 #. (itstool) path: character/charactername
 #. Name must not be changed.
@@ -51,7 +52,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:284
 msgid "Ada"
-msgstr ""
+msgstr "Ada"
 
 #. (itstool) path: character/charactername
 #. Name must not be changed.
@@ -59,7 +60,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:287
 msgid "Zangemann"
-msgstr ""
+msgstr "Zangemann"
 
 #. (itstool) path: character/charactername
 #. Name must not be changed.
@@ -67,7 +68,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:290
 msgid "Alan"
-msgstr ""
+msgstr "Alan"
 
 #. (itstool) path: character/charactername
 #. Character names are mostly reference to existing people in computer
@@ -82,7 +83,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:293
 msgid "Toni"
-msgstr ""
+msgstr "Toni"
 
 #. (itstool) path: character/charactername
 #. Character names are mostly reference to existing people in computer
@@ -97,7 +98,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:296
 msgid "Konrad"
-msgstr ""
+msgstr "Konrad"
 
 #. (itstool) path: character/charactername
 #. Character names are mostly reference to existing people in computer
@@ -112,7 +113,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:299
 msgid "Marie"
-msgstr ""
+msgstr "Marie"
 
 #. (itstool) path: character/charactername
 #. Character names are mostly reference to existing people in computer
@@ -127,7 +128,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:302
 msgid "Ms. Gernet"
-msgstr ""
+msgstr "Sra. Gernet"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -344,6 +345,8 @@ msgid ""
 "Matthias Kirschner\n"
 "Sandra Brandstätter"
 msgstr ""
+"Matthias Kirschner\n"
+"Sandra Brandstätter"
 
 #. (itstool) path: simplesect/literallayout
 #. (itstool) id: Ada_Zangemann.dbk#subtitle-titlepage
