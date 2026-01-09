@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-08 05:47+0000\n"
+"PO-Revision-Date: 2026-01-09 07:00+0000\n"
 "Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/fsfe/ada-zangemann/de/>\n"
 "Language: de\n"
@@ -146,7 +146,6 @@ msgstr ""
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-back-1
 #: Ada_Zangemann.dbk:334
-#, fuzzy
 msgid "The inventor Zangemann is world-famous and immensely rich. Adults and children alike love his fabulous technical inventions. But one day there is a problem: the children’s electronic skateboards no longer work properly. What’s going on? The curious girl Ada sees through what is going on. Together with her friends, she experiments with hardware and software, and the children forge a plan: Zangemann can no longer be the only one in control of the devices!"
 msgstr "Der Erfinder Zangemann ist weltberühmt und unermesslich reich. Erwachsene wie Kinder lieben seine fabelhaften technischen Erfindungen. Doch eines Tages gibt es ein Problem: Die elektronischen Skateboards der Kinder funktionieren nicht mehr richtig. Was ist da los? Die neugierige Ada findet heraus, was vor sich geht. Gemeinsam mit ihren Freunden experimentiert sie mit eigenen Computerprogrammen und die Kinder schmieden einen Plan: Zangemann darf nicht länger als Einziger die Kontrolle über die Geräte haben!"
 
@@ -314,7 +313,7 @@ msgstr ""
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:468
 msgid "Matthias Kirschner, Sandra Brandstätter"
-msgstr ""
+msgstr "Matthias Kirschner, Sandra Brandstätter"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -397,7 +396,7 @@ msgstr "Zangemanns Anwesen befand sich hoch oben auf einem Berg. Von dort konnte
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:525
 msgid "Zangemann and computers"
-msgstr ""
+msgstr "Zangemann und Computer"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:529
@@ -630,7 +629,7 @@ msgstr "Nicht alle Erfindungen waren so praktisch, wie sie auf den ersten Blick 
 #. equal to the beginning of the first sentence of this chapter.
 #: Ada_Zangemann.dbk:603
 msgid "One day..."
-msgstr ""
+msgstr "Eines Tages..."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:606
@@ -727,20 +726,22 @@ msgstr "Den kleinen Computern in den Lautsprechern befahl er, Musik nur noch in 
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:642
+#, fuzzy
 msgid "The city in the evening, with houses, a church, and two streetlights. Images emerge from the dwellings illustrating Zangemann’s inventions bought by the inhabitants: a washing machine, a yellow vacuum cleaner, and a red car, all with Internet connection signals."
-msgstr ""
+msgstr "Die Stadt am Abend, mit Häusern, einer Kirche und zwei Straßenlaternen. Aus den Wohnungen erscheinende Bilder illustrieren Zangemanns von den Einwohnern gekaufte Erfindungen; eine Waschmaschine, ein gelber Stabsauger und ein rotes Auto, alle mit Internetverbindungszeichen."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:650
+#, fuzzy
 msgid "Continuation of the previous picture, where in the background there is the hill with Zangemann’s house from whose antenna come the signals to control the various devices. In emerging images there are: a red electric skateboard, a light bulb, an ice cream machine, and a toilet, all of which are receiving commands from Zangemann."
-msgstr ""
+msgstr "Fortsetzung des vorigen Bildes, in dessen Hintergrund ein Hügel mit Zangemanns Haus zu sehen ist, von dessen Antennen die Signale kommen, die all die verschiedenen Geräte kontrollieren. In erscheinenden Bildern sind ein rotes Skateboard, eine Glühbirne, eine Eiscrememaschine und eine Toilette zu sehen, die alle die Kommandos Zangemanns empfangen."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:656
 msgid "Skateboards no longer work"
-msgstr ""
+msgstr "Skateboards funktionieren nicht mehr"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:660
@@ -804,7 +805,7 @@ msgstr "Nur eine komische pompöse Marschmusik ertönte weiter in unveränderter
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:682
 msgid "Ada and software"
-msgstr ""
+msgstr "Ada und Software"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p20-1
@@ -877,7 +878,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:730
 msgid "A horrible night"
-msgstr ""
+msgstr "Eine furchtbare Nacht"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p25-1
@@ -898,7 +899,7 @@ msgstr "Als er fertig war, schickte er all die neuen Programme von seinem golden
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:741
 msgid "First real project"
-msgstr ""
+msgstr "Das erste echte Projekt"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p26-1
@@ -965,7 +966,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:783
 msgid "Hacking for freedom"
-msgstr ""
+msgstr "Hacking für die Freiheit"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p30-1
@@ -1049,7 +1050,7 @@ msgstr "Manches bauten sie nur zum Spaß. Die Furzmaschine im Stuhl von ihrer Ma
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:847
 msgid "Zangemann and the President"
-msgstr ""
+msgstr "Zangemann und der Präsident"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p36-1
@@ -1094,7 +1095,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:877
 msgid "Protest"
-msgstr ""
+msgstr "Protest"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p39-1
@@ -1165,7 +1166,7 @@ msgstr "Ohne Code ist alles doof!"
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:924
 msgid "Children help the government"
-msgstr ""
+msgstr "Kinder helfen der Regierung"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p42-1
@@ -1210,7 +1211,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:951
 msgid "New law"
-msgstr ""
+msgstr "Neues Gesetz"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p44-1
@@ -1280,7 +1281,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:997
 msgid "And Zangemann?"
-msgstr ""
+msgstr "Und Zangemann?"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p48-1
@@ -1448,4 +1449,4 @@ msgstr "Lass dir ein paar leckere, lustige oder verrückte Eissorten einfallen u
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:1139
 msgid "Three hands that hold as many empty ice cream cones, to draw and color. In the air above the middle cone is an umbrella."
-msgstr ""
+msgstr "Drei Hände die jeweils eine leere Eiswaffel halten zum Ausmalen. Über der mittleren Eiswaffel ist ein Schirmchen."

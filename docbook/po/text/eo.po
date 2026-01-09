@@ -3,15 +3,15 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-05 12:01+0100\n"
-"Last-Translator: Marco Ciampa <ciampix@posteo.net>\n"
+"PO-Revision-Date: 2026-01-09 07:00+0000\n"
+"Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
 "Language-Team: Esperanto <https://hosted.weblate.org/projects/fsfe/ada-zangemann/eo/>\n"
 "Language: eo\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Poedit 3.6\n"
+"X-Generator: Weblate 5.15.1\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
@@ -405,13 +405,12 @@ msgstr ""
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:502
 msgid "Once upon a time, there was a little girl named Ada. Her family was so poor that all their savings fit inside a cookie jar."
-msgstr ""
+msgstr "Iam estis knabineto nomata Ada. Ŝia familio estis tiel malriĉa, ke ĉiuj iliaj ŝparaĵoj enestis en kuketujo."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:502
-#, fuzzy
 msgid "They didn’t have enough money to live in a proper home. Instead, Ada lived with her mother and her little brother, Alan, in a cabin near a junkyard on the edge of town."
-msgstr "Iam estis knabineto nomata Ada. Ŝia familio estis tiel malriĉa, ke ĉiuj iliaj ŝparaĵoj enestis en kuketujo. Ili ne havis sufiĉe da mono por vivi en deca hejmo. Anstataŭe, Ada loĝis kun sia patrino kaj sia frateto, Alan, en kabano proksime de rubodeponejo ĉe la rando de la urbo."
+msgstr "Ili ne havis sufiĉe da mono por vivi en deca hejmo. Anstataŭe, Ada loĝis kun sia patrino kaj sia frateto, Alan, en kabano proksime de rubodeponejo ĉe la rando de la urbo."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
