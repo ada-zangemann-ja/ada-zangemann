@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-05 17:26+0100\n"
+"PO-Revision-Date: 2026-01-10 08:44+0100\n"
 "Last-Translator: Marco Ciampa <ciampix@posteo.net>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/fsfe/ada-zangemann/it/>\n"
 "Language: it\n"
@@ -1462,9 +1462,8 @@ msgstr "La Free Software Foundation Europe e.V. è un’associazione benefica e 
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1104
-#, fuzzy
 msgid "On the web page of the book, you will find more information and resources: <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>"
-msgstr "Nel sito web del libro troverete maggiori informazioni e altro materiale: <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
+msgstr "Nel sito web del libro troverete maggiori informazioni e altro materiale: <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>"
 
 #. (itstool) path: info/title
 #. (itstool) id: Ada_Zangemann.dbk#title-license

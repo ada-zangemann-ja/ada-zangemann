@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-05 11:58+0100\n"
+"PO-Revision-Date: 2026-01-10 08:41+0100\n"
 "Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
 "Language-Team: Greek <https://hosted.weblate.org/projects/fsfe/ada-zangemann/el/>\n"
 "Language: el\n"
@@ -1676,9 +1676,8 @@ msgstr "Το FSFE (Ίδρυμα για το Ελεύθερο Λογισμικό 
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1104
-#, fuzzy
 msgid "On the web page of the book, you will find more information and resources: <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>"
-msgstr "Στην ιστοσελίδα του βιβλίου, θα βρείτε περισσότερες πληροφορίες και πηγές: https://ada.fsfe.org."
+msgstr "Στην ιστοσελίδα του βιβλίου, θα βρείτε περισσότερες πληροφορίες και πηγές: <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>"
 
 #. (itstool) path: info/title
 #. (itstool) id: Ada_Zangemann.dbk#title-license
@@ -1709,13 +1708,13 @@ msgstr ""
 #. (itstool) path: simplesect/literallayout
 #. In a literallayout element all space and newline characters are kept.
 #: Ada_Zangemann.dbk:1131
-#, fuzzy, no-wrap
+#, no-wrap
 msgid ""
 "Come up with some delicious, funny, or crazy ice-cream flavors and draw them on the ice-cream cones on the following page.\n"
 "More information about the book can be found at <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>"
 msgstr ""
 "Σκεφτείτε μερικές γευστικές, τρελές ή αστείες γεύσεις παγωτού και σχεδιάστε τις στα χωνάκια στις επόμενες σελίδες.\n"
-"Περισσότερα σχέδια και πληροφορίες για το βιβλίο θα βρείτε στο <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
+"Περισσότερα σχέδια και πληροφορίες για το βιβλίο θα βρείτε στο <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the

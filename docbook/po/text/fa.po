@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-05 13:31+0100\n"
+"PO-Revision-Date: 2026-01-10 08:43+0100\n"
 "Last-Translator: abbas davarpanah <abbasdp@proton.me>\n"
 "Language-Team: Persian <https://hosted.weblate.org/projects/fsfe/ada-zangemann/fa/>\n"
 "Language: fa\n"
@@ -1474,7 +1474,6 @@ msgstr "بنیاد نرم‌افزار آزاد اروپا٬ یه انجمن غ�
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1104
-#, fuzzy
 msgid "On the web page of the book, you will find more information and resources: <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>"
 msgstr "در صفحه وب کتاب، اطلاعات و منابع بیشتری پیدا خواهید کرد: <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
 
@@ -1504,7 +1503,7 @@ msgstr "«دستی دیده می‌شه که یه بستنی قیفی به شک�
 #. (itstool) path: simplesect/literallayout
 #. In a literallayout element all space and newline characters are kept.
 #: Ada_Zangemann.dbk:1131
-#, fuzzy, no-wrap
+#, no-wrap
 msgid ""
 "Come up with some delicious, funny, or crazy ice-cream flavors and draw them on the ice-cream cones on the following page.\n"
 "More information about the book can be found at <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>"

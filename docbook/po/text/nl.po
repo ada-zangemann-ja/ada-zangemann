@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-05 17:56+0100\n"
+"PO-Revision-Date: 2026-01-10 08:45+0100\n"
 "Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/fsfe/ada-zangemann/nl/>\n"
 "Language: nl\n"
@@ -1475,7 +1475,6 @@ msgstr "De Free Software Foundation Europe e.V. is een liefdadigheidsvereniging 
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1104
-#, fuzzy
 msgid "On the web page of the book, you will find more information and resources: <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>"
 msgstr "Op de website van het boek vind je meer informatie en materiaal: <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>"
 
@@ -1505,7 +1504,7 @@ msgstr "Een hand die visvormig ijs op een hoorntje vasthoudt met een komkommertj
 #. (itstool) path: simplesect/literallayout
 #. In a literallayout element all space and newline characters are kept.
 #: Ada_Zangemann.dbk:1131
-#, fuzzy, no-wrap
+#, no-wrap
 msgid ""
 "Come up with some delicious, funny, or crazy ice-cream flavors and draw them on the ice-cream cones on the following page.\n"
 "More information about the book can be found at <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>"
