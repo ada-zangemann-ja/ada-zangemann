@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-05 17:53+0100\n"
+"PO-Revision-Date: 2026-01-10 08:45+0100\n"
 "Last-Translator: \"Henrik G. Sundt\" <hsundt@notam.no>\n"
 "Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/fsfe/ada-zangemann/nb_NO/>\n"
 "Language: nb\n"
@@ -1464,8 +1464,8 @@ msgstr "The Free Software Foundation Europe e.V. er en ikkekommersiell forening 
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1104
-msgid "On the web page of the book, you will find more information and resources: <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
-msgstr "Du finner mer informasjon og ressurser på nettsiden for boken: <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
+msgid "On the web page of the book, you will find more information and resources: <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>"
+msgstr "Du finner mer informasjon og ressurser på nettsiden for boken: <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>"
 
 #. (itstool) path: info/title
 #. (itstool) id: Ada_Zangemann.dbk#title-license
@@ -1496,10 +1496,10 @@ msgstr "En hånd som holder en fiskeformet iskremkjeks med en agurk på en pynte
 #, no-wrap
 msgid ""
 "Come up with some delicious, funny, or crazy ice-cream flavors and draw them on the ice-cream cones on the following page.\n"
-"More information about the book can be found at <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
+"More information about the book can be found at <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>"
 msgstr ""
 "Finn på deilige, morsomme og ville iskremsmaker og tegn dem i iskremkjeksene på neste side.\n"
-"Mer informasjon om boken finnes på <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
+"Mer informasjon om boken finnes på <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the

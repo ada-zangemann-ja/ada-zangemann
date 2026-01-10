@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-10-16 21:28+0200\n"
-"PO-Revision-Date: 2026-01-05 18:46+0100\n"
+"PO-Revision-Date: 2026-01-10 08:47+0100\n"
 "Last-Translator: Elvira Pescu <elvirapesku@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/fsfe/ada-zangemann/ru/>\n"
 "Language: ru\n"
@@ -1473,8 +1473,8 @@ msgstr "Free Software Foundation Europe e.V. — это некоммерческ
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1104
-msgid "On the web page of the book, you will find more information and resources: <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
-msgstr "На сайте книги вы можете найти дополнительную информацию и ресурсы: <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
+msgid "On the web page of the book, you will find more information and resources: <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>"
+msgstr "На сайте книги вы можете найти дополнительную информацию и ресурсы: <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>"
 
 #. (itstool) path: info/title
 #. (itstool) id: Ada_Zangemann.dbk#title-license
@@ -1505,10 +1505,10 @@ msgstr "Рука, держащая мороженое в форме рыбки �
 #, no-wrap
 msgid ""
 "Come up with some delicious, funny, or crazy ice-cream flavors and draw them on the ice-cream cones on the following page.\n"
-"More information about the book can be found at <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
+"More information about the book can be found at <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>"
 msgstr ""
 "Придумайте несколько вкусных, забавных или необычных вкусов мороженого и нарисуйте их на рожках мороженого на следующей странице.\n"
-"Более подробную информацию о книге можно найти на сайте <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
+"Более подробную информацию о книге можно найти на сайте <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the

@@ -1101,7 +1101,7 @@ Raspberry Ice Cream</literallayout>
     <simplesect xml:id="sec-p54a" az:pagenum="54">
       <para>The Free Software Foundation Europe e.V. is a nonprofit association that empowers people to control technology. Software affects all areas of our life. That is why it is important that this technology gives us freedom instead of restricting us. Free Software (also called Open Source) gives everyone the right to use, study, share, and improve programs. Therefore, Free Software strengthens basic rights such as freedom of expression, freedom of the press, and the right to privacy.</para>
       <!-- TODO: Consider a newline to prevent wrapping -->
-      <para>On the web page of the book, you will find more information and resources: <link xlink:href="https://ada.fsfe.org">https://ada.fsfe.org</link>.</para>
+      <para>On the web page of the book, you will find more information and resources: <link xlink:href="https://ada.fsfe.org">https://ada.fsfe.org</link></para>
     </simplesect>
   </appendix>
   <appendix>
@@ -1129,7 +1129,7 @@ Raspberry Ice Cream</literallayout>
         <alt>A hand that holds a fish-shaped ice cream cone with a cucumber on a decorated toothpick, to color. In a bottom corner, a pencil writing.</alt>
       </mediaobject>
       <literallayout>Come up with some delicious, funny, or crazy ice-cream flavors and draw them on the ice-cream cones on the following page.
-More information about the book can be found at <link xlink:href="https://ada.fsfe.org">https://ada.fsfe.org</link>.</literallayout>
+More information about the book can be found at <link xlink:href="https://ada.fsfe.org">https://ada.fsfe.org</link></literallayout>
     </simplesect>
     <simplesect xml:id="sec-p56" az:pagenum="56">
       <mediaobject xml:id="img-ada-p56">

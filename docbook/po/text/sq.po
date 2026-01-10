@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-09 07:00+0000\n"
+"PO-Revision-Date: 2026-01-10 08:47+0100\n"
 "Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
 "Language-Team: Albanian <https://hosted.weblate.org/projects/fsfe/ada-zangemann/sq/>\n"
 "Language: sq\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.15.1\n"
+"X-Generator: Poedit 3.6\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
@@ -1451,8 +1451,8 @@ msgstr "Fondacioni i Programeve të Lira Evropë është një organizatë jofiti
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1104
-msgid "On the web page of the book, you will find more information and resources: <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
-msgstr "Në faqen e internetit kushtuar librit, do të gjeni më shumë informacion dhe dokumentacion:<link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
+msgid "On the web page of the book, you will find more information and resources: <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>"
+msgstr "Në faqen e internetit kushtuar librit, do të gjeni më shumë informacion dhe dokumentacion:<link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>"
 
 #. (itstool) path: info/title
 #. (itstool) id: Ada_Zangemann.dbk#title-license
@@ -1483,10 +1483,10 @@ msgstr ""
 #, no-wrap
 msgid ""
 "Come up with some delicious, funny, or crazy ice-cream flavors and draw them on the ice-cream cones on the following page.\n"
-"More information about the book can be found at <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
+"More information about the book can be found at <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>"
 msgstr ""
 "Shpikni disa shije të shijshme, qesharake ose të çmendura akulloreje dhe vizatoni ato në konet e akullores në faqen vijuese.\n"
-"Më shumë informacion rreth librit mund të gjendet në https://ada.fsfe.org."
+"Më shumë informacion rreth librit mund të gjendet në <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the

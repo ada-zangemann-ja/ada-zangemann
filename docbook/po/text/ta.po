@@ -1441,7 +1441,7 @@ msgstr "இலவச மென்பொருள் அறக்கட்டள�
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1104
 #, fuzzy
-msgid "On the web page of the book, you will find more information and resources: <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
+msgid "On the web page of the book, you will find more information and resources: <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>"
 msgstr "புத்தகத்தின் வலைப்பக்கத்தில், மேலும் தகவல்களையும் ஆதாரங்களையும் நீங்கள் காண்பீர்கள்: https://ada.fsfe.org."
 
 #. (itstool) path: info/title
@@ -1474,7 +1474,7 @@ msgstr "ஒரு கீழ் மூலையில், ஒரு பென்�
 #, fuzzy, no-wrap
 msgid ""
 "Come up with some delicious, funny, or crazy ice-cream flavors and draw them on the ice-cream cones on the following page.\n"
-"More information about the book can be found at <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
+"More information about the book can be found at <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>"
 msgstr "சில சுவையான, வேடிக்கையான, அல்லது பைத்தியம் ஐச்கிரீம் சுவைகளைக் கொண்டு வந்து அவற்றை பின்வரும் பக்கத்தில் உள்ள ஐச்கிரீம் கூம்புகளில் வரையவும். புத்தகத்தைப் பற்றிய கூடுதல் தகவல்களை https://ada.fsfe.org இல் காணலாம்."
 
 #. (itstool) path: mediaobject/alt

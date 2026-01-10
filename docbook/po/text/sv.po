@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2025-05-08 04:27+0000\n"
+"PO-Revision-Date: 2026-01-10 08:48+0100\n"
 "Last-Translator: Kristoffer Grundström <swedishsailfishosuser@tutanota.com>\n"
 "Language-Team: Swedish <https://hosted.weblate.org/projects/fsfe/ada-zangemann/sv/>\n"
 "Language: sv\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.12-dev\n"
+"X-Generator: Poedit 3.6\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
@@ -1401,8 +1401,8 @@ msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1104
-msgid "On the web page of the book, you will find more information and resources: <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
-msgstr "På bokens hemsida så kommer du att hitta mer information och resurser: <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
+msgid "On the web page of the book, you will find more information and resources: <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>"
+msgstr "På bokens hemsida så kommer du att hitta mer information och resurser: <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>"
 
 #. (itstool) path: info/title
 #. (itstool) id: Ada_Zangemann.dbk#title-license
@@ -1433,8 +1433,8 @@ msgstr ""
 #, no-wrap
 msgid ""
 "Come up with some delicious, funny, or crazy ice-cream flavors and draw them on the ice-cream cones on the following page.\n"
-"More information about the book can be found at <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
-msgstr ""
+"More information about the book can be found at <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>"
+msgstr "På bokens hemsida så kommer du att hitta mer information och resurser: <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
