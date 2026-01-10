@@ -557,3 +557,35 @@ build/Ada_Zangemann-print-headings-text-colophon-fullpage-halftitle-global.nb-sc
 # Generate all translated docbook files and run xmllint on them. Early exit in case of failure.
 .PHONY: quick-check
 quick-check: $(addprefix build/Ada_Zangemann.,$(addsuffix .dbk.lint,$(languages)))
+
+.PHONY: help
+help:
+	@echo "Usage: make [target]"
+	@echo ""
+	@echo "Tab completion is available to discover valid targets"
+	@echo ""
+	@echo "Online documentation at https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docs"
+	@echo ""
+	@echo "Languages:"
+	@echo "  $(languages)"
+	@echo ""
+	@echo "Build targets:  (use 'all' language to build for all languages)"
+	@echo "  build/[lang].po                                                                Merged gettext translation file"
+	@echo "  build/Ada_Zangemann-pure.[lang].dbk                                            Docbook without custom namespaces"
+	@echo "  build/Ada_Zangemann.[lang].txt                                                 Plaintext"
+	@echo "  build/Ada_Zangemann-pandoc.[lang].[html|md|odt]                                Output via Pandoc"
+	@echo "  build/Ada_Zangemann-pandoc-text-only.[lang].[html|md|odt]                      Output without images via Pandoc"
+	@echo "  build/Ada_Zangemann-print-headings-text.[lang].[sla|pdf]                       Book inside via Scribus"
+	@echo "  build/Ada_Zangemann-coverhard-text.[lang].[sla|pdf]                            Hardcover cover via Scribus"
+	@echo "  build/Ada_Zangemann-coversoft-216x216x4_728x3_175-text.[lang].[sla|pdf]        Softcover cover via Scribus"
+	@echo "  build/Ada_Zangemann-screen.[lang].[pdf|mediumres.pdf|lowres.pdf]               Pdf for screen viewing"
+	@echo "  build/Ada_Zangemann-screen-confidential.[lang].[pdf|mediumres.pdf|lowres.pdf]  Pdf for screen with watermark"
+	@echo ""
+	@echo "Initiate a new language:"
+	@echo "  build/[newlang].po"
+	@echo ""
+	@echo "Commands:"
+	@echo "  release          Key build targets for all languages"
+	@echo "  clean            Remove build output"
+	@echo "  status           Report of translations"
+	@echo "  check-obsolete   Find old translation strings still in the files"
