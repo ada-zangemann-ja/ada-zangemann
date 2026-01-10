@@ -73,7 +73,7 @@ po/editorial/%.po: po/editorial/Ada_Zangemann.pot
 	touch $@
 
 .PRECIOUS: build/%.po
-build/%.po: po/text/%.po po/editorial/%.po ## merged gettext file
+build/%.po: po/text/%.po po/editorial/%.po
 	msgcat -o $@ $+
 
 # Generate message strings for further processing.
@@ -122,14 +122,14 @@ build/images/capitals:
 
 # Create docbook files
 targets-dbk = $(addprefix build/Ada_Zangemann.,$(addsuffix .dbk,$(languages)))
-$(targets-dbk): build/Ada_Zangemann.%.dbk: build/%.mo Ada_Zangemann.dbk ## merged docbook
+$(targets-dbk): build/Ada_Zangemann.%.dbk: build/%.mo Ada_Zangemann.dbk
 	itstool --strict --merge $< --out $@ Ada_Zangemann.dbk
 
 .PHONY: build/Ada_Zangemann.all.dbk
 build/Ada_Zangemann.all.dbk: $(targets-dbk)
 
 # Create 'pure' docbook files without custom elements
-build/Ada_Zangemann-pure.%.dbk: build/Ada_Zangemann.%.dbk xsl/clean-docbook.xsl ## docbook without custom namespaces
+build/Ada_Zangemann-pure.%.dbk: build/Ada_Zangemann.%.dbk xsl/clean-docbook.xsl
 	xsltproc -o $@ xsl/clean-docbook.xsl $<
 
 # Profile 'pure' docbook for text processing
@@ -560,7 +560,31 @@ quick-check: $(addprefix build/Ada_Zangemann.,$(addsuffix .dbk.lint,$(languages)
 
 .PHONY: help
 help:
-	@echo "Available targets:"
-	@grep -E '^.*:.*\s+##\s+\S+' Makefile | \
-	sed -E 's/^[^:]+:\s*([^:]+:.*##)/\1/' | \
-	awk 'BEGIN {FS = ":.*?## "}; {printf "  %-40s %s\n", $$1, $$2}'
+	@echo "Usage: make [target]"
+	@echo ""
+	@echo "Tab completion is available to discover valid targets"
+	@echo ""
+	@echo "Online documentation at https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docs"
+	@echo ""
+	@echo "Languages:"
+	@echo "  $(languages)"
+	@echo ""
+	@echo "Build targets:"
+	@echo "  build/[lang].po                                                           Merged gettext translation file"
+	@echo "  build/Ada_Zangemann-pure.[lang].dbk                                       Docbook without custom namespaces"
+	@echo "  build/Ada_Zangemann.[lang].txt                                            Plaintext"
+	@echo "  build/Ada_Zangemann-pandoc.[lang].[html|md|odt]                           Output via Pandoc"
+	@echo "  build/Ada_Zangemann-pandoc-text-only.[lang].[html|md|odt]                 Output without images via Pandoc"
+	@echo "  build/Ada_Zangemann-print-headings-text.[lang].[sla|pdf]                  Book inside via Scribus"
+	@echo "  build/Ada_Zangemann-coverhard-text.[lang].[sla|pdf]                       Hardcover cover via Scribus"
+	@echo "  build/Ada_Zangemann-coversoft-216x216x4_728x3_175-text.[lang].[sla|pdf]   Softcover cover via Scribus"
+	@echo "  build/Ada_Zangemann-screen.[lang].[pdf|mediumres.pdf|lowres.pdf]          Pdf for screen viewing"
+	@echo ""
+	@echo "Initiate a new language:"
+	@echo "  build/[newlang].po"
+	@echo ""
+	@echo "Commands:"
+	@echo "  release          Key build targets for all languages"
+	@echo "  clean            Remove build output"
+	@echo "  status           Report of translations"
+	@echo "  check-obsolete   Find old translation strings still in the files"
