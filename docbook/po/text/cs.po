@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-10 08:40+0100\n"
+"PO-Revision-Date: 2026-01-10 08:11+0000\n"
 "Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/fsfe/ada-zangemann/cs/>\n"
 "Language: cs\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=((n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2);\n"
-"X-Generator: Poedit 3.6\n"
+"X-Generator: Weblate 5.15.1\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
@@ -1128,7 +1128,7 @@ msgstr ""
 #. Text on big banner, left on the illustration
 #: Ada_Zangemann.dbk:899
 msgid "Do your homework Mr. President and we will do ours!"
-msgstr ""
+msgstr "Splňte svůj úkol pane prezidente a my budem plnit své!"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1148,7 +1148,7 @@ msgstr ""
 #. Text on square signe on the right of the illustration
 #: Ada_Zangemann.dbk:916
 msgid "They are young + need the code!"
-msgstr ""
+msgstr "Jsou mladí + potřebují kód!"
 
 #. (itstool) path: info/excerpt
 #. Text on banner on the banner held by children on the right of the
@@ -1156,7 +1156,7 @@ msgstr ""
 #. can be used, which translates to 'without code everything is dull!'.
 #: Ada_Zangemann.dbk:917
 msgid "Don’t wreck our tech!"
-msgstr ""
+msgstr "Neničte naší techniku!"
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:924
