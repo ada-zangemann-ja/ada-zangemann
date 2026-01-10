@@ -1475,7 +1475,8 @@ msgstr "תנועת התוכנה החופשית האירופית (e.V.‎) היא
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1104
-msgid "On the web page of the book, you will find more information and resources: <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
+#, fuzzy
+msgid "On the web page of the book, you will find more information and resources: <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>"
 msgstr "באתר הספר, ניתן למצוא פרטים ומשאבים נוספים: <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
 
 #. (itstool) path: info/title
@@ -1504,10 +1505,10 @@ msgstr "יד שמחזיקה גביע גלידה בצורת דג עם מלפפו�
 #. (itstool) path: simplesect/literallayout
 #. In a literallayout element all space and newline characters are kept.
 #: Ada_Zangemann.dbk:1131
-#, no-wrap
+#, fuzzy, no-wrap
 msgid ""
 "Come up with some delicious, funny, or crazy ice-cream flavors and draw them on the ice-cream cones on the following page.\n"
-"More information about the book can be found at <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
+"More information about the book can be found at <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>"
 msgstr ""
 "עכשיו תורך להמציא טעמים טעימים, משעשעים או משוגעים לגלידה ולצייר אותם על גביעי הגלידה בעמוד הבא.\n"
 "אפשר למצוא מידע נוסף על הספר באתר <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."

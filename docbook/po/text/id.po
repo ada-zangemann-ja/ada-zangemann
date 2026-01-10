@@ -1474,7 +1474,8 @@ msgstr "Free Software Foundation Europe e.V. adalah asosiasi nirlaba yang member
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1104
-msgid "On the web page of the book, you will find more information and resources: <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
+#, fuzzy
+msgid "On the web page of the book, you will find more information and resources: <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>"
 msgstr "Di laman web buku, Anda akan menemukan informasi dan sumber daya lebih lanjut: <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
 
 #. (itstool) path: info/title
@@ -1503,10 +1504,10 @@ msgstr "Sebuah tangan yang memegang cone es krim berbentuk ikan dengan mentimun 
 #. (itstool) path: simplesect/literallayout
 #. In a literallayout element all space and newline characters are kept.
 #: Ada_Zangemann.dbk:1131
-#, no-wrap
+#, fuzzy, no-wrap
 msgid ""
 "Come up with some delicious, funny, or crazy ice-cream flavors and draw them on the ice-cream cones on the following page.\n"
-"More information about the book can be found at <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
+"More information about the book can be found at <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>"
 msgstr ""
 "Ciptakan beberapa rasa es krim yang lezat, lucu, atau gila dan gambarlah pada cone es krim di halaman berikut.\n"
 "Informasi lebih lanjut tentang buku dapat ditemukan di <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."

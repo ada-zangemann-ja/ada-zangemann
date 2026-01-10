@@ -1402,7 +1402,8 @@ msgstr "Evropská nadace pro svobodný software e.V je nezisková asociace, kter
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1104
-msgid "On the web page of the book, you will find more information and resources: <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
+#, fuzzy
+msgid "On the web page of the book, you will find more information and resources: <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>"
 msgstr "Na stránce knihy naleznete spoustu informací a dalších zdrojů: <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
 
 #. (itstool) path: info/title
@@ -1431,10 +1432,10 @@ msgstr ""
 #. (itstool) path: simplesect/literallayout
 #. In a literallayout element all space and newline characters are kept.
 #: Ada_Zangemann.dbk:1131
-#, no-wrap
+#, fuzzy, no-wrap
 msgid ""
 "Come up with some delicious, funny, or crazy ice-cream flavors and draw them on the ice-cream cones on the following page.\n"
-"More information about the book can be found at <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
+"More information about the book can be found at <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>"
 msgstr ""
 "Vymyslete si výtečné, veselé nebo šílené příchutě zmrzliny a nakreslete je na kornoutky zmrzliny na následující stránce.\n"
 "Více informací o knize je k nalezení na stránce <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."

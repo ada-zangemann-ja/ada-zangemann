@@ -1440,7 +1440,8 @@ msgstr "A Free Software Foundation Europe e.V. é uma associação sem fins lucr
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1104
-msgid "On the web page of the book, you will find more information and resources: <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
+#, fuzzy
+msgid "On the web page of the book, you will find more information and resources: <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>"
 msgstr "Na página web do livro, você encontrará mais informações e recursos: <link xlink:href=\"https://ada.fsfe.org/index.pt.html\"/>https://ada.fsfe.org/index.pt.html."
 
 #. (itstool) path: info/title
@@ -1469,10 +1470,10 @@ msgstr "Uma mão que segura um cone de sorvete em forma de peixe com um pepino e
 #. (itstool) path: simplesect/literallayout
 #. In a literallayout element all space and newline characters are kept.
 #: Ada_Zangemann.dbk:1131
-#, no-wrap
+#, fuzzy, no-wrap
 msgid ""
 "Come up with some delicious, funny, or crazy ice-cream flavors and draw them on the ice-cream cones on the following page.\n"
-"More information about the book can be found at <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
+"More information about the book can be found at <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>"
 msgstr ""
 "Crie alguns sabores deliciosos, engraçados ou loucos de sorvete e desenhe-os nos cones de sorvete na página seguinte.\n"
 "Mais informações sobre o livro podem ser encontradas em <link xlink:href=\"https://ada.fsfe.org/index.pt.html\"/>https://ada.fsfe.org/index.pt.html."

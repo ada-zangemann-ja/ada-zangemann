@@ -1477,7 +1477,8 @@ msgstr "Free Software Foundation Europe e.V. - це неприбуткова а�
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1104
-msgid "On the web page of the book, you will find more information and resources: <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
+#, fuzzy
+msgid "On the web page of the book, you will find more information and resources: <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>"
 msgstr "На веб сторінці книги ви знайдете більше інформації та ресурсів: <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
 
 #. (itstool) path: info/title
@@ -1506,10 +1507,10 @@ msgstr "Рука, яка тримає риб'ячий ріжок морозив�
 #. (itstool) path: simplesect/literallayout
 #. In a literallayout element all space and newline characters are kept.
 #: Ada_Zangemann.dbk:1131
-#, no-wrap
+#, fuzzy, no-wrap
 msgid ""
 "Come up with some delicious, funny, or crazy ice-cream flavors and draw them on the ice-cream cones on the following page.\n"
-"More information about the book can be found at <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
+"More information about the book can be found at <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>"
 msgstr ""
 "Придумайте смачні, кумедні або божевільні смаки морозива і намалюйте їх на ріжках морозива на наступній сторінці.\n"
 "Більше інформації про книгу можна знайти за посиланням <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
