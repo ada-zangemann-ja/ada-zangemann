@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-10 08:11+0000\n"
+"PO-Revision-Date: 2026-01-11 13:49+0000\n"
 "Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/fsfe/ada-zangemann/cs/>\n"
 "Language: cs\n"
@@ -1128,7 +1128,7 @@ msgstr ""
 #. Text on big banner, left on the illustration
 #: Ada_Zangemann.dbk:899
 msgid "Do your homework Mr. President and we will do ours!"
-msgstr "Splňte svůj úkol pane prezidente a my budem plnit své!"
+msgstr "Splňte svůj úkol pane prezidente a my budeme plnit své!"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
