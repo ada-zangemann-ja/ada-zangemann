@@ -3,15 +3,15 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-10 08:43+0100\n"
-"Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
+"PO-Revision-Date: 2026-01-15 12:01+0000\n"
+"Last-Translator: itagenata <ivan@tagenata.com>\n"
 "Language-Team: Galician <https://hosted.weblate.org/projects/fsfe/ada-zangemann/gl/>\n"
 "Language: gl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Poedit 3.6\n"
+"X-Generator: Weblate 5.15.2\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
@@ -147,7 +147,7 @@ msgstr "Un soldador e un pincel cunha lata de pintura amarela, enlazados por un 
 #. (itstool) id: Ada_Zangemann.dbk#para-back-1
 #: Ada_Zangemann.dbk:334
 msgid "The inventor Zangemann is world-famous and immensely rich. Adults and children alike love his fabulous technical inventions. But one day there is a problem: the children’s electronic skateboards no longer work properly. What’s going on? The curious girl Ada sees through what is going on. Together with her friends, she experiments with hardware and software, and the children forge a plan: Zangemann can no longer be the only one in control of the devices!"
-msgstr "O i inventor Zangemann é famoso en todo o mundo e é inmesamente rico. Adultos e cativos aman as súas fabulosas invencións. Pero un día xorde un problema: os monopatíns eléctricos dos nenos xa non funcionan correctamente. Que está a pasar? A curiosa Ada descobre o que está a suceder. Xunto cos seus amigos, enreda cos programas da computadora e elabora un plan: Zangemann xa non pode ter o control sobre os dispositivos!"
+msgstr "O inventor Zangemann é famoso en todo o mundo e é inmesamente rico. Adultos e cativos aman as súas fabulosas invencións. Pero un día xorde un problema: os monopatíns eléctricos dos nenos xa non funcionan correctamente. Que está a pasar? A curiosa Ada descobre o que está a suceder. Xunto cos seus amigos, enreda cos programas da computadora e elabora un plan: Zangemann xa non pode ter o control sobre os dispositivos!"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:335
