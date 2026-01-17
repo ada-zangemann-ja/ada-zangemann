@@ -3,15 +3,15 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-10 08:40+0100\n"
-"Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
+"PO-Revision-Date: 2026-01-17 08:06+0000\n"
+"Last-Translator: Matthias Kirschner <mk@fsfe.org>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/fsfe/ada-zangemann/de/>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Poedit 3.6\n"
+"X-Generator: Weblate 5.15.2\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
@@ -134,14 +134,14 @@ msgstr "Frau Gernet"
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:322
 msgid "Ada &amp; Zangemann - A Tale of Software, Skateboards, and Raspberry Ice Cream. By Matthias Kirschner and Sandra Brandstätter. On a mostly desaturated dark cyan background, in a frame composed of sometimes curled white lines that connect a mouse, a keyboard, and a pink smartphone, Ada and Zangemann are facing each other, both with their hands on their hips as a sign of challenge. Ada is smiling and Zangemann is frowning. Ada has black hair collected in two big right- and left-bound ringlets with red rubber bands, and red cheeks. She has little yellow stud earrings. She wears cyan and white horizontal striped shorts and a yellow shirt over a white undershirt that ends with embroidery that goes beyond the shirt. The shirt and undershirt come out over the shorts. Above the shirt Ada wears a blue hoodie. Ada is wearing red shoes with white tips and soles, and short white socks. She has one foot on a skateboard and the other on the ground. Zangemann has short gray hair and square glasses. He is wearing a purple turtle-neck sweater, light blue pants turned up, brown shoes, and white socks. He’s wearing a big tech watch. Above Zangemann there are a pair of pliers with red handles crossing the wire frame."
-msgstr ""
+msgstr "Ada &amp; Zangemann – Ein Märchen über Software, Skateboards und Himbeereis. Von Matthias Kirschner und Sandra Brandstätter. Vor einem überwiegend entsättigten dunkelcyanfarbenen Hintergrund, in einem Rahmen aus teilweise gewellten weißen Linien, die eine Maus, eine Tastatur und ein pinkfarbenes Smartphone verbinden, stehen sich Ada und Zangemann gegenüber, beide mit den Händen in den Hüften als Zeichen der Herausforderung. Ada lächelt und Zangemann runzelt die Stirn. Ada hat schwarzes Haar, das mit roten Gummibändern zu zwei großen Zöpfen auf der rechten und linken Seite zusammengebunden ist, und rote Wangen. Sie trägt kleine gelbe Ohrstecker. Sie trägt cyanfarbene und weiß gestreifte Shorts und ein gelbes Shirt über einem weißen Unterhemd, das mit einer Stickerei verziert ist, die über das Shirt hinausragt. Das Shirt und das Unterhemd ragen über die Shorts hinaus. Über dem Shirt trägt Ada einen blauen Hoodie. Ada trägt rote Schuhe mit weißen Spitzen und Sohlen und kurze weiße Socken. Sie steht mit einem Fuß auf einem Skateboard und mit dem anderen auf dem Boden. Zangemann hat kurzes graues Haar und eine eckige Brille. Er trägt einen lila Rollkragenpullover, hellblaue Hosen mit Umschlag, braune Schuhe und weiße Socken. Er trägt eine große Tech-Uhr. Über Zangemann befindet sich eine Zange mit roten Griffen, die den Kabelrahmen kreuzt."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:331
 msgid "A soldering iron and a brush and can with yellow paint, connected by white electrical cord that forms a frame."
-msgstr ""
+msgstr "Ein Lötkolben, eine Bürste und eine Dose mit gelber Farbe, verbunden durch ein weißes Stromkabel, das einen Rahmen bildet."
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-back-1
@@ -159,14 +159,14 @@ msgstr "Ein Buch für Kinder, das die Freude am Tüfteln vermittelt und zum selb
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:342
 msgid "A power strip, with input and output of white electrical cord that is the frame."
-msgstr ""
+msgstr "Steckdosenleiste mit Ein- und Ausgängen von eine weißen Stromkabel das einen Rahmen bildet."
 
 #. (itstool) path: info/title
 #. Page before the colophon and the title page, with just the title. Also
 #. know as 'bastard title'.
 #: Ada_Zangemann.dbk:357
 msgid "Half-title page"
-msgstr ""
+msgstr "Halbtitelblatt"
 
 #. (itstool) path: mediaobject/alt
 #. (itstool) path: simplesect/para
@@ -291,6 +291,11 @@ msgid ""
 "We encourage you to support authors, publishers, and others involved in the creation of culture under free licenses – including <emphasis role=\"bold\">financially supporting them through purchases or donations</emphasis>. (<link xlink:href=\"https://fsfe.org/donate\">https://fsfe.org/donate</link>)\n"
 "Society should support those who respect others’ freedom."
 msgstr ""
+"<emphasis role=\"bold\">Frei wie in Freiheit, nicht wie in Freibier</emphasis>\n"
+"Bei Freier Software geht es um die Freiheiten, die Sie mit der Software erhalten, nicht um den Preis. Ebenso bedeutet die Veröffentlichung eines Buches unter einer freien Kultur-Lizenz nicht, dass Sie das Recht haben, ein kostenloses Exemplar des Buches oder E-Books zu erhalten. Es bedeutet, dass Sie die oben beschriebenen Rechte erhalten, die es der Gesellschaft ermöglichen, weiter von diesem Buch zu profitieren, wie es bei allen kulturellen Werken der Fall sein sollte. \n"
+"\n"
+"Wir ermutigen Sie, Autoren, Verlage und andere, die an der Schaffung von Kultur unter freien Lizenzen beteiligt sind, zu unterstützen – auch <emphasis role=\"bold\">finanziell durch Käufe oder Spenden</emphasis>. (<link xlink:href=„https://fsfe.org/donate“>https://fsfe.org/donate</link>) \n"
+"Die Gesellschaft sollte diejenigen unterstützen, welche die Freiheit anderer respektieren."
 
 #. (itstool) path: info/title
 #. Page next to the colophon with title, subtitle, authors and
@@ -304,7 +309,7 @@ msgstr "Titelseite"
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:461
 msgid "Matthias Kirschner, Sandra Brandstätter - ADA &amp; ZANGEMANN - A Tale of Software, Skateboards and Raspberry Ice Cream. Title in the middle, authors in the upper left. In the lower right, Ada’s family’s dog with gray fur and some white patches and with a red collar with shiny yellow LEDs, which wags its tail."
-msgstr ""
+msgstr "Matthias Kirschner, Sandra Brandstätter – ADA &amp; ZANGEMANN – Ein Märchen über Software, Skateboards und Himbeereis. Titel in der Mitte, Autoren oben links. Unten rechts der Hund der Familie Ada mit grauem Fell und einigen weißen Flecken, einem roten Halsband mit leuchtenden gelben LEDs, der mit dem Schwanz wedelt."
 
 #. (itstool) path: mediaobject/alt
 #. ignore-same
@@ -320,14 +325,14 @@ msgstr "Matthias Kirschner, Sandra Brandstätter"
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:478
 msgid "ADA &amp; ZANGEMANN - A Tale of Software, Skateboards and Raspberry Ice Cream. Title in the middle, authors in the upper left."
-msgstr ""
+msgstr "ADA &amp; ZANGEMANN – Eine Märchen über Software, Skateboards und Himbeereis. Titel in der Mitte, Autoren oben links."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:485
 msgid "In the lower right, Ada’s family’s dog with gray fur and some white patches and with a red collar with shiny yellow LEDs, which wags its tail."
-msgstr ""
+msgstr "Unten rechts ist der Hund von Adas Familie mit grauem Fell und einigen weißen Flecken zu sehen, der ein rotes Halsband mit leuchtenden gelben LEDs trägt und mit dem Schwanz wedelt."
 
 #. (itstool) path: simplesect/literallayout
 #. In a literallayout element all space and newline characters are kept.
@@ -369,14 +374,14 @@ msgstr "Sie hatten kein Geld, um in einer richtigen Wohnung zu leben. Stattdesse
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:510
 msgid "Ada in foreground leaving the house to go to school, in the background Ada’s house and the junkyard. Ada has a brown backpack with yellow shoulder straps. To the left of Ada there is a red car, a Volkswagen Beetle, without wheels and no longer working, with one of the headlights remaining attached only with its wires. On the left, in front of the car, there are two tires, two boxes – one of which is a wooden box with an overturned bucket –, and an empty can, all among some plants with yellow flowers. In the background there is Ada’s house, with her mother and her brother Alan waving goodbye, and the dog sitting on the ground. Alan is sitting on the two entrance steps of the house. He has short dark hair and is dressed in a white short-sleeved shirt with a red stripe at the edges of the sleeves and two red stripes at the bottom of the shirt. Alan wears blue shorts and he is barefoot. Ada’s mom has dark lipstick and long black hair in a white headband. She is wearing a short blue shirt with white trim, white pants, and yellow shoes. Ada’s house is built of wood, with the front being white. The roof is dark red corrugated sheeting. There are two windows in front in addition to the door, and another window on the left side. A yellow duck stands on top of the roof, while a gray chimney protrudes. An antenna on the left of the roof supports a clothesline on which red clothespins hold a green tank top, a pair of light blue pants, and white underpants. To the right of the house there is a veranda on which there is installed a solar panel. Under the veranda there are a mattress, a red oil drum, and a gray case. Behind the house there are piles of landfill objects among which you can see a washing machine, a car, and various wooden boards."
-msgstr ""
+msgstr "Im Vordergrund Ada, die die Hütte verlässt, um zur Schule zu gehen, im Hintergrund Adas Hütte und der Schrottplatz. Ada hat einen braunen Rucksack mit gelben Schulterriemen. Links von Ada steht ein rotes Auto, ein Volkswagen Käfer, ohne Räder und nicht mehr fahrbereit, dessen einer Scheinwerfer nur noch mit den Kabeln befestigt ist. Links vor dem Auto liegen zwei Reifen, zwei Kisten – eine davon ist eine Holzkiste mit einem umgestürzten Eimer – und eine leere Dose, alles zwischen einigen Pflanzen mit gelben Blüten. Im Hintergrund ist Adas Hütte zu sehen, vor der ihre Mutter und ihr Bruder Alan ihr zum Abschied zuwinken und der Hund auf dem Boden sitzt. Alan sitzt auf den beiden Eingangstreppen der Hütte. Er hat kurzes dunkles Haar und trägt ein weißes Kurzarmhemd mit einem roten Streifen an den Ärmelenden und zwei roten Streifen am unteren Rand des Hemdes. Alan trägt blaue Shorts und ist barfuß. Adas Mutter hat langes schwarzes Haar, das mit einem weißen Stirnband zusammengebunden ist. Sie trägt ein kurzes blaues Hemd mit weißem Saum, eine weiße Hose und gelbe Schuhe. Adas Hütte ist aus Holz gebaut und hat eine weiße Fassade. Das Dach besteht aus dunkelroten Wellblechplatten. Neben der Tür gibt es zwei Fenster an der Vorderseite und ein weiteres Fenster an der linken Seite. Auf dem Dach steht eine gelbe Ente, während ein grauer Schornstein herausragt. Eine Antenne auf der linken Seite des Daches trägt eine Wäscheleine, an der an roten Wäscheklammern ein grünes Tanktop, eine hellblaue Hose und weiße Unterhosen hängen. Auf der rechten Seite des Hauses befindet sich eine Veranda, auf der ein Solarpanel installiert ist. Unter der Veranda liegen eine Matratze, ein roter Ölfass und ein grauer Koffer. Hinter dem Haus liegen Schrottberge, unter denen man eine Waschmaschine, ein Auto und verschiedene Holzbretter erkennen kann."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:518
 msgid "Prestigious magazines (“STARS“, “MONEY”, “Richest Man”) on whose cover are Zangemann and his villa."
-msgstr ""
+msgstr "Renommierte Zeitschriften („STARS“, „MONEY“, „Richest Man“), auf deren Titelseite Zangemann und seine Villa zu sehen sind."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:520
@@ -438,7 +443,7 @@ msgstr "Und tatsächlich: Je größer Zangemann wurde, desto kleiner wurden die 
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:537
 msgid "Zangemann as a child on a chair at a school table. From his head come six bubbles in which there are his ideas of places in which to insert computers: a video call system, a speaker, a washing machine, a skateboard with radio control on a big computer monitor, a wrist computer, and a shoulder computer with a monitor and keyboard. Zangemann has gray hair, a dark purple shirt with blue horizontal stripes, blue shorts, brown shoes and white socks. He wears glasses and a big watch on his left wrist. On the table there are an open notebook, a yellow pencil, and an eraser, while hanging on the side of the table there is his brown briefcase."
-msgstr ""
+msgstr "Zangemann als Kind auf einem Stuhl an einem Schultisch. Aus seinem Kopf kommen sechs Sprechblasen, in denen seine Ideen sichtbar sind, für die Computer eingesetzt werden könnten: ein Videotelefonsystem, ein Lautsprecher, eine Waschmaschine, ein Skateboard mit Funksteuerung auf einem großen Computermonitor, ein Armbanduhr-Computer und ein Rucksackcomputer mit Halterungen für Monitor und Tastatur vor dem Körper. Zangemann hat graue Haare, trägt ein dunkelviolettes Hemd mit blauen Querstreifen, blaue Shorts, braune Schuhe und weiße Socken. Er trägt eine Brille und eine große Uhr am linken Handgelenk. Auf dem Tisch liegen ein aufgeschlagenes Notizbuch, ein gelber Bleistift und ein Radiergummi, während an der Seite des Tisches seine braune Aktentasche hängt."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:542
@@ -450,7 +455,7 @@ msgstr "»Endlich kann ich all meine Ideen in die Tat umsetzen!«, jubelte Zange
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:547
 msgid "Zangemann original ice cream machine. It is ice blue in color and is similar to a vending machine of drinks, but instead of the cup there is a cone that is filled with ice cream. Above the dispenser there is a monitor showing the variety that is distributed, in this case pineapple ice cream. On the left there are the slot for inserting coins, the various buttons to choose the flavor, and the hole for returning coins. At the top there is a round white sign with a scoop of candy-pink ice cream in a cone. On the back of the machine there is the refrigeration machinery with the “Z” of the Zangemann logo."
-msgstr ""
+msgstr "Orignal-Zangemann-Eismaschine. Sie hat eine eisblaue Farbe und ähnelt einem Getränkeautomaten, aber statt eines Bechers gibt es eine Waffel, die mit Eiscreme gefüllt wird. Über dem Spender befindet sich ein Monitor, der die angebotene Sorte anzeigt, in diesem Fall Ananas-Eis. Auf der linken Seite befinden sich der Münzeinwurf, die verschiedenen Knöpfe zur Auswahl der Sorte und die Münzrückgabe. Oben befindet sich ein rundes weißes Schild mit einer Kugel bonbonrosa Eis in einer Waffel. Auf der Rückseite der Maschine befindet sich die Kühleinheit mit dem „Z“ des Zangemann-Logos."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:549
@@ -477,14 +482,14 @@ msgstr "Es war wie Zauberei – aber all das regelten die kleinen Computer, die 
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:554
 msgid "An original Zangemann electric skateboard leaving a blue trail with musical notes and colored circles. Only the knees, white socks, and olive green shoes with white soles of the child riding it are shown."
-msgstr ""
+msgstr "Ein originales elektrisches Skateboard von Zangemann hinterlässt eine blaue Spur mit Noten und farbigen Kreisen. Nur die Knie, die weißen Socken und die olivgrünen Schuhe mit weißen Sohlen des Kindes, das darauf fährt, sind zu sehen."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:562
 msgid "Ada tinkers with objects in her improvised lab. Ada is sitting on an overturned water case, and working on a repair with a yellow screwdriver. Also on the table are green pliers, a red hammer, a white power strip, and another gadget. Ada is at a table consisting of a wooden board supported by two oil drums (one gray and one red) and a small wooden sawhorse. Behind Ada there are a washing machine, pipes, and a board. In front of the improvised table there are tires and an old phone with faulty wire. Alan is coming toward Ada holding a yellow fan over his head. Alan now wears white socks and yellow shoes."
-msgstr ""
+msgstr "Ada bastelt in ihrer improvisierten Werkstatt an Gegenständen herum. Ada sitzt auf einer umgedrehten Getränkekiste und repariert etwas mit einem gelben Schraubendreher. Auf dem Tisch liegen außerdem eine grüne Zange, ein roter Hammer, eine weiße Steckdosenleiste und ein weiteres Gerät. Ada sitzt an einem Tisch, der aus einem Holzbrett besteht, das von zwei Ölfässern (einem grauen und einem roten) und einem kleinen Holzsägebock gestützt wird. Hinter Ada stehen eine Waschmaschine, Rohre und ein Brett. Vor dem improvisierten Tisch liegen Reifen und ein altes Telefon mit einem defekten Kabel. Alan kommt auf Ada zu und hält einen gelben Ventilator über seinen Kopf. Alan trägt jetzt weiße Socken und gelbe Schuhe."
 
 #. (itstool) path: para/phrase
 #. Sentence continues in next string.
@@ -558,7 +563,7 @@ msgstr "Manchmal waren die Menschen enttäuscht, wenn es nicht ihre Lieblingssor
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:577
 msgid "A white power strip attached to a wall socket. The power strip has 3 sockets and a green switch. One of the sockets is attached to a plug with a gray cable."
-msgstr ""
+msgstr "Eine weiße Steckdosenleiste, die an einer Wandsteckdose befestigt ist. Die Steckdosenleiste hat 3 Steckdosen und einen grünen Schalter. Eine der Steckdosen ist mit einem Stecker mit grauem Kabel verbunden."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:581
@@ -580,7 +585,7 @@ msgstr "Und immer wieder schaute er mit einem langen Fernrohr auf die Stadt hera
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:586
 msgid "Zangeman sitting in front of his golden computer on a golden armchair with a very tall red padded backrest at whose top is the “Z” of the Zangemann logo. He is wearing a purple turtle-neck sweater and light blue trousers. The computer has four ornate monitors of various sizes, each of which has the logo on the back. It is integrated into a costly wooden desk from which a gray cable flows that is connected to the power strip of the previous page."
-msgstr ""
+msgstr "Zangeman sitzt vor seinem goldenen Computer auf einem goldenen Sessel mit einer sehr hohen, roten, gepolsterten Rückenlehne, auf deren Spitze das „Z“ des Zangemann-Logos zu sehen ist. Er trägt einen violetten Rollkragenpullover und eine hellblaue Hose. Der Computer verfügt über vier verzierte Monitore unterschiedlicher Größe, auf deren Rückseite jeweils sein Logo zu sehen ist. Er ist in einen kostspieligen Holzschreibtisch integriert, aus dem ein graues Kabel herausragt, das mit der Steckdosenleiste auf der vorherigen Seite verbunden ist."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
@@ -612,7 +617,7 @@ msgstr "und Autos, die einem beim Fahren erzählten, wo der nächste Supermarkt 
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:596
 msgid "City landscape with houses and shops, with a central street turning right. On the road there are a car and a cyclist. There are various children and adults walking or going on skateboards, some eating ice cream, while others are buying ice cream from the original Zangemann machines."
-msgstr ""
+msgstr "Stadtlandschaft mit Häusern und Geschäften, mit einer zentralen Straße, die nach rechts abbiegt. Auf der Straße befinden sich ein Auto und eine Radfahrerin. Es sind verschiedene Kinder und Erwachsene zu sehen, die zu Fuß unterwegs sind oder Skateboard fahren, einige essen Eis, während andere Eis aus den originalen Zangemann-Automaten kaufen."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:598
@@ -646,7 +651,7 @@ msgstr "Er legte sein großes Fernrohr weg und stieg voller Vorfreude die vielen
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:611
 msgid "Zangemann descends the stairs from his mansion on the hill towards the city. Zangemann’s house stands on a hill. The front is blue with large windows; the towers are dark blue, and from a window starts a yellow slide that ends in a large swimming pool with two palm trees. The roofs are red, and above the highest tower an antenna is installed. On the sides of the stairs to get off the hill there are evergreen trees."
-msgstr ""
+msgstr "Zangemann steigt die Treppe seiner Villa auf dem Hügel hinunter in Richtung Stadt. Zangemanns Haus steht auf einem Berg. Die Fassade ist blau mit großen Fenstern, die Türme sind dunkelblau, und von einem Fenster geht eine gelbe Rutsche aus, die in einem großen Swimmingpool mit zwei Palmen endet. Die Dächer sind rot, und auf dem höchsten Turm ist eine Antenne installiert. An den Seiten der Treppe, die vom Berg hinunterführt, stehen Laubbäume."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:615
@@ -668,7 +673,7 @@ msgstr "Er war ganz in seine Gedanken vertieft, als ihm plötzlich – RUMS! –
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:622
 msgid "Zangemann after the incident with the child. Zangemann screams from pain while holding up one of his legs with both hands at the shin. The child has brown hair that is blown back by Zangemann’s scream; he is wearing a light blue hooded sweatshirt and dark green pants. He holds a red Zangemann electric skateboard."
-msgstr ""
+msgstr "Zangemann nach dem Unfall mit dem Kind. Zangemann schreit vor Schmerz, während er eines seiner Beine mit beiden Händen am Schienbein hochhält. Das Kind hat braunes Haar, das durch Zangemanns Schrei nach hinten geweht wird; es trägt ein hellblaues Kapuzensweatshirt und eine dunkelgrüne Hose. Es hält ein rotes Zangemann-Elektro-Skateboard in der Hand."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:626
@@ -705,7 +710,7 @@ msgstr "So hatte er sich seinen Spaziergang nicht vorgestellt!"
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:632
 msgid "Advertisements for Zangemann ice cream (sandwich board), a Zangemann electric skateboard, and a Zangemann washing machine. The math teacher, Ms. Gernet, is passing in front of the billboards. Ms. Gernet is an old lady with short white hair. She is dressed in a light green t-shirt and a pea green sweater, dark brown pants, and light green heeled shoes. She has a fuchsia shoulder bag, worn behind her. She pushes a small shopping cart in which there is a small brown dog with a collar and tag."
-msgstr ""
+msgstr "Werbung für Zangemann-Eiscreme (Aufstell-Tafel), ein elektrisches Skateboard von Zangemann und eine Waschmaschine von Zangemann. Die Mathematiklehrerin, Frau Gernet, geht an den Werbetafeln vorbei. Frau Gernet ist eine ältere Dame mit kurzen weißen Haaren. Sie trägt ein hellgrünes T-Shirt und einen erbsengrünen Pullover, eine dunkelbraune Hose und hellgrüne Schuhe mit Absätzen. Sie hat eine fuchsiafarbene Umhängetasche dabei, die sie über der Schulter trägt. Sie schiebt einen kleinen Einkaufswagen, in dem ein kleiner brauner Hund mit Halsband und Marke sitzt."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:637
@@ -758,7 +763,7 @@ msgstr "Und dann die Lautsprecher – die Kinder konnten sie nicht mehr aufdrehe
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:665
 msgid "Five kids from the school who can’t make skateboards work. Two girls wear helmets, respectively blue and red. A little girl with brown hair tied in two tails with yellow rubber bands is kneeling. She is trying to understand why the skateboard of her friend with the red helmet does not work. Four children have backpacks on their shoulders, while the little girl with the red helmet left hers leaning on a bench on which there are a yellow apple and a light blue bottle with a white flower on it."
-msgstr ""
+msgstr "Fünf Kinder aus der Schule, die mit ihren Skateboards nicht zum fahren bekommen. Zwei Mädchen tragen Helme, einen blauen und einen roten. Ein kleines Mädchen mit braunen Haaren, die mit gelben Gummibändern zu zwei Zöpfen zusammengebunden sind, kniet auf dem Boden. Sie versucht zu verstehen, warum das Skateboard ihrer Freundin mit dem roten Helm nicht funktioniert. Vier Kinder tragen Rucksäcke auf den Schultern, während das kleine Mädchen mit dem roten Helm ihren Rucksack auf einer Bank abgestellt hat, auf der ein gelber Apfel und eine hellblaue Flasche mit einer weißen Blume darauf liegen."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:669
@@ -785,7 +790,7 @@ msgstr "Ihrem Bruder baute Ada einen Lautsprecher, damit er abends zum Einschlaf
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:674
 msgid "Close-up of Ada thoughtful, with a backpack and with one hand on her chin and the other resting on her side."
-msgstr ""
+msgstr "Nahaufnahme von Ada, nachdenklich, mit einem Rucksack, einer Hand am Kinn und der anderen Hand an ihrer Hüfte."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:677
@@ -828,12 +833,12 @@ msgstr "Das Beste an Adas neuer Entdeckung war, dass man an der Software genauso
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:695
 msgid "Computer screen from which the elements of the programming language symbolically emerge: “while num &gt; 0“, “init“, “sx=42“, “for“, “v**3“. Ada is typing on a white keyboard with a blue cable, while her other hand enters the screen to change the program (“print(msg)”, “a+b+c+d=e”, “if”, “break”, “continue”, “exit()”). Next to the keyboard there are a pencil and an eraser."
-msgstr ""
+msgstr "Computerbildschirm, auf dem die Elemente der Programmiersprache symbolisch erscheinen: „while num &gt; 0“, „init“, „sx=42“, „for“, „v**3“. Ada tippt auf einer weißen Tastatur mit blauem Kabel, während ihre andere Hand in den Bildschirm greift, um das Programm zu ändern („print(msg)“, „a+b+c+d=e“, „if“, „break“, „continue“, „exit()“). Neben der Tastatur liegen ein Bleistift und ein Radiergummi."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:701
 msgid "Programming"
-msgstr ""
+msgstr "Programmieren"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p22-1
@@ -861,7 +866,7 @@ msgstr "Ada war total begeistert. Sie stellte sich vor, was sie damit für tolle
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:715
 msgid "Ada comes to grips with programming. She is typing on a keyboard resting on a gray mat and connected to a smartphone with a blue cable. The smartphone is connected with a red wire to an electronic card with a yellow LED lamp. The smartphone is powered by a transformer connected to a power strip with a gray wire and plug. On the table there are also: 3 books, of which one is open; a clipboard and a pencil; pliers; glue; solder; and a disconnected soldering iron."
-msgstr ""
+msgstr "Ada macht sich mit dem Programmieren vertraut. Sie tippt auf einer Tastatur, die auf einer grauen Unterlage liegt und mit einem blauen Kabel an ein Handy angeschlossen ist. Das Handy ist mit einem roten Kabel mit einer elektronischen Karte mit einer gelben LED-Lampe verbunden. Das Handy wird über einen Transformator mit Strom versorgt, der mit einem grauen Kabel und Stecker an eine Steckdosenleiste angeschlossen ist. Auf dem Tisch liegen außerdem: 3 Bücher, von denen eines aufgeschlagen ist; ein Klemmbrett und ein Bleistift; eine Zange; Kleber; Lötzinn; und ein nicht angeschlossener Lötkolben."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:717
@@ -873,7 +878,7 @@ msgstr "Ada hatte auch schon eine Idee für ein nächstes Programm, eine größe
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:724
 msgid "Zangemann looks thoughtfully with his arms crossed out one of the great windows of his house, into which the sun’s rays are shining."
-msgstr ""
+msgstr "Zangemann blickt nachdenklich mit verschränkten Armen aus einem der großen Fenster seines Hauses, in das die Sonnenstrahlen scheinen."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:730
@@ -927,7 +932,7 @@ msgstr "Mehrere misslungene Versuche später, am letzten Ferientag, stellte Ada 
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:756
 msgid "Ada racing with her electric skateboard for city sidewalks. Ada’s skateboard is blue, with gray and pink wheels; the electronic part is placed above the skateboard (as opposed to Zangemann’s skateboards where the electronic part is below). Ada is holding in both hands a remote control with a short antenna to maneuver it. Behind Ada are Marie and Toni who carry their own skateboards under their arms and look with amazement at Ada, who has shot past them and in front of them. Marie has dark long hair with two braids fastened with orange clips, yellow earrings, a fuchsia shirt with white sleeves with purple horizontal stripes, a white skirt, white and yellow sneakers, white socks, a white hat with yellow sides, and a light purple backpack. Marie has a blue artificial leg. Her skateboard is blue with yellow wheels. Toni has red hair closely trimmed on the sides. He is wearing a blue sweatshirt, dark green pants, and white shoes. He has a red backpack with white inserts and shoulder straps. One hand is next to his mouth. His skateboard is purple with orange wheels. There’s also a father with his son walking in the opposite direction: the father is dressed in a blue checked jacket and blue pants and holds a brown briefcase. He is smiling at Ada. His son has a blue shirt, blue shorts, white shoes, a brown backpack, and a red and white hat. He holds under his arm a yellow Zangemann skateboard with light brown wheels, and he grins at Ada. In the background there is a bakery with large windows through which you can see the bread. It has a green and white striped awning around the corner and a sign on the sidewalk with the list of products. Overhead, a large pretzel is displayed. On the road there is a puddle that reflects the blue of the sky."
-msgstr ""
+msgstr "Ada fährt mit ihrem elektrischen Skateboard auf dem Gehweg. Adas Skateboard ist blau, mit grauen und rosa Rädern; die Elektronik befindet sich oben auf dem Skateboard (im Gegensatz zu Zangemanns Skateboards, bei denen sich die Elektronik unten befindet). Ada hält in beiden Händen eine Fernbedienung mit einer kurzen Antenne, um es zu steuern. Hinter Ada stehen Marie und Toni, die ihre eigenen Skateboards unter dem Arm tragen und Ada erstaunt beobachten, die an ihnen vorbeigeflitzt ist und nun vor ihnen fährt. Marie hat dunkles langes Haar mit zwei Zöpfen, die mit orangefarbenen Spangen befestigt sind, gelbe Ohrringe, ein fuchsiafarbenes Shirt mit weißen Ärmeln und violetten Querstreifen, einen weißen Rock, weiß-gelbe Turnschuhe, weiße Socken, einen weißen Hut mit gelben Seiten und einen hellvioletten Rucksack. Marie hat eine blaue Beinprotese. Ihr Skateboard ist blau mit gelben Rollen. Toni hat rote Haare, die an den Seiten kurz geschnitten sind. Er trägt ein blaues Sweatshirt, eine dunkelgrüne Hose und weiße Schuhe. Er hat einen roten Rucksack mit weißen Einsätzen und Schultergurten. Eine Hand hält er neben seinem Mund. Sein Skateboard ist lila mit orangefarbenen Rollen. Da ist auch ein Vater mit seinem Sohn, die in die entgegengesetzte Richtung gehen: Der Vater trägt eine blau karierte Jacke und eine blaue Hose und hält eine braune Aktentasche in der Hand. Er lächelt Ada an. Sein Sohn trägt ein blaues Hemd, blaue Shorts, weiße Schuhe, einen braunen Rucksack und eine rot-weiße Mütze. Er hält ein gelbes Zangemann-Skateboard mit hellbraunen Rollen unter dem Arm und grinst Ada an. Im Hintergrund befindet sich eine Bäckerei mit großen Fenstern, durch die man das Brot sehen kann. Sie hat eine grün-weiß gestreifte Markise um die Ecke und ein Schild auf dem Bürgersteig mit der Liste der Produkte. Über ihr ist eine große Brezel ausgestellt. Auf der Straße befindet sich eine Pfütze, in der sich das Blau des Himmels spiegelt."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:761
@@ -944,7 +949,7 @@ msgstr "»Warum kannst du mit deinem Skateboard auf dem Gehweg fahren?«, fragte
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:767
 msgid "Ada stops on her skateboard surrounded by children. Marie is on one end. She is pointing to Ada’s skateboard and she’s talking. Next to her is Konrad, with short blond hair, a dark gray helmet, glasses, a green shirt with white collar and cuffs, light blue pants with white cuffs, and gray shoes with white soles. He has a red skateboard with orange wheels. Behind Ada there are 4 other children. On the other end Toni is smiling. He touches his chin with one hand while with the other he holds a yellow helmet by the laces."
-msgstr ""
+msgstr "Ada hält auf ihrem Skateboard an, umgeben von Kindern. Marie steht an einem Ende. Sie zeigt auf Adas Skateboard und spricht. Neben ihr steht Konrad mit kurzen blonden Haaren, einem dunkelgrauen Helm, einer Brille, einem grünen Hemd mit weißem Kragen und Manschetten, hellblauen Hosen mit weißen Manschetten und grauen Schuhen mit weißen Sohlen. Er hat ein rotes Skateboard mit orangefarbenen Rollen. Hinter Ada stehen vier weitere Kinder. Am anderen Ende lächelt Toni. Er berührt mit einer Hand sein Kinn, während er mit der anderen einen gelben Helm an den Gurten hält."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:771
@@ -961,7 +966,7 @@ msgstr "Am Abend probierte Ada das gleich am Skateboard von ihrem Mitschüler To
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:777
 msgid "Hopscotch diagram drawn with chalk on asphalt. In a row, within squares, the numbers 1, 2; 3 and 4 next to each other; 5, 6; and 7 and 8 next to each other. The number 9 is not inside a square but inside a wider semicircle beyond the squares of numbers 7 and 8. Between the number 1 and the number 2 there is a blue bottle with white polka dots. A yellow Zangemann skateboard with orange wheels on the side of the diagram actually hides the number 1."
-msgstr ""
+msgstr "Mit Kreide auf Asphalt gezeichnetes Himmel-Und-Hölle-Spiel. In einer Reihe, innerhalb von Quadraten, stehen die Zahlen 1, 2; 3 und 4 nebeneinander; 5, 6; und 7 und 8 nebeneinander. Die Zahl 9 befindet sich nicht innerhalb eines Quadrats, sondern innerhalb eines breiteren Halbkreises außerhalb der Quadrate mit den Zahlen 7 und 8. Zwischen der Zahl 1 und der Zahl 2 befindet sich eine blaue Flasche mit weißen Punkten. Ein gelbes Zangemann-Skateboard mit orangefarbenen Rädern an der Seite des Himmel-Und-Hölle-Spiel verdeckt die Zahl 1."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:783
@@ -985,7 +990,7 @@ msgstr "Doch damit nicht genug! Mit der Software konnten sie ihren Skateboards n
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:794
 msgid "A green battery with red and yellow wires, a power strip, glue, a roll of solder, and two pencils."
-msgstr ""
+msgstr "Eine grüne Batterie mit roten und gelben Kabeln, eine Steckdosenleiste, Kleber, eine Rolle Lötzinn und zwei Bleistifte."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:798
@@ -1007,28 +1012,28 @@ msgstr "Zusammen veränderten sie nun auch die Software für die Lautsprecher. D
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:805
 msgid "A screwdriver with orange and gray handle, red pliers, and three LEDs: yellow, green, pink."
-msgstr ""
+msgstr "Ein Schraubendreher mit orange-grauem Griff, einer roten Zange und drei LEDs: gelb, grün, rosa."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:813
 msgid "Laboratory at the junkyard, under the veranda of Ada’s house. Ada is sitting on a water case with a leg bent under her, using a soldering iron. Konrad is standing next to her and dismounting a speaker. Marie is sitting on two tires with an arm resting on a table and her upside-down skateboard from which wires come out. She is talking with Alan, who is standing with his arms resting on the same table. On the table there are also: pliers, two wrenches, a spool of solder, a can of blue paint (a bit of paint has dried on the table), and a pitcher and two glasses containing a pink drink. Toni is testing his skateboard with added yellow wings and a fan. It burps."
-msgstr ""
+msgstr "Werkstatt auf dem Schrottplatz, unter der Veranda von Adas Haus. Ada sitzt auf einem Wasserkanister, ein Bein unter sich angezogen, und benutzt einen Lötkolben. Konrad steht neben ihr und baut einen Lautsprecher auseinander. Marie sitzt auf zwei Reifen, einen Arm auf einem Tisch abgestützt, und ihr Skateboard liegt umgedreht neben ihr, aus dem Drähte herausragen. Sie unterhält sich mit Alan, der mit den Armen auf demselben Tisch abgestützt daneben steht. Auf dem Tisch liegen außerdem: eine Zange, zwei Schraubenschlüssel, eine Spule Lötzinn, eine Dose blaue Farbe (ein wenig Farbe ist auf dem Tisch getrocknet) sowie ein Krug und zwei Gläser mit einem rosa Getränk. Toni testet sein Skateboard mit zusätzlichen gelben Flügeln und einem Ventilator. Es rülpst."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:821
 msgid "Marie and Ada’s mom are dancing, facing each other. Alan, Ada, and Konrad are dancing in a circle. On the right there is a speaker playing, resting on an oil drum. Near the speaker there are two dancing mice. Toni is jumping through the tires. Ada’s dog is howling, and from his mouth come two distorted musical notes."
-msgstr ""
+msgstr "Marie und Adas Mutter tanzen einander gegenüber. Alan, Ada und Konrad tanzen im Kreis. Auf der rechten Seite steht ein Lautsprecher auf einem Ölfass. In der Nähe des Lautsprechers tanzen zwei Mäuse. Toni springt durch die Reifen. Adas Hund heult, und aus seinem Maul kommen zwei verzerrte Musiknoten."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:829
 msgid "Hands holding wonderful ice cream cones: blue ice cream with a chocolate heart on top with a yellow heart on its center, and whipped cream on top of the chocolate; green ice cream with colored stars with a cucumber stuck on a stick; pink fish-shaped ice cream; pyramid-shaped ice cream with candies, and chocolate syrup, and a cherry on top; rainbow ice cream with a yellow umbrella; blue ghost-shaped ice cream with candies on it."
-msgstr ""
+msgstr "Hände, die wunderschöne Eistüten halten: blaues Eis mit einem Schokoladenherz oben drauf, mit einem gelben Herz in der Mitte und Schlagsahne auf der Schokolade; grünes Eis mit bunten Sternen und einer Gurke auf einem Stiel; rosa Eis in Fischform; pyramidenförmiges Eis mit Streuseln, Schokoladensirup und einer Kirsche oben drauf; Regenbogeneis mit einem gelben Regenschirm; blaues Eis in Geisterform mit Streuseln darauf."
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p35-1
@@ -1073,7 +1078,7 @@ msgstr "»Alle Computer, die nicht auf Zangemann hören, sind verboten! Wer Zang
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:860
 msgid "The President getting a phone call from the angry Zangemann. The videophone consists of an old red Zangemann dial phone connected to a monitor. Zangemann’s face appears on the monitor, while a yellow flare of Zangemann’s thundering voice comes out of the phone, and the President holds the receiver at arm’s length. The president has white hair and wears a light blue shirt, a red tie, and a blue jacket with yellow buttons. The President is sitting on a green chair with white vertical lines, and his other hand is on the desk. On the desk, in addition to the videophone, there are sheets with something written on them and an open purple fountain pen. The President was eating a sandwich of meat and cheese with greens with two olives on a toothpick, over a blue napkin with white stripes."
-msgstr ""
+msgstr "Der Präsident erhält einen Anruf vom wütenden Zangemann. Das Bildtelefon besteht aus einem alten roten Zangemann-Wählscheibentelefon, das an einen Monitor angeschlossen ist. Zangemanns Gesicht erscheint auf dem Monitor, während eine gelbe Flamme von Zangemanns donnernder Stimme aus dem Telefon kommt und der Präsident den Hörer auf Armeslänge hält. Der Präsident hat weißes Haar und trägt ein hellblaues Hemd, eine rote Krawatte und eine blaue Jacke mit gelben Knöpfen. Der Präsident sitzt auf einem grünen Stuhl mit weißen vertikalen Linien, seine andere Hand liegt auf dem Schreibtisch. Auf dem Schreibtisch liegen neben dem Videotelefon einige Blätter mit Notizen und ein geöffneter violetter Füllfederhalter. Der Präsident isst ein Sandwich mit Wurst und Käse und Salat, auf dem zwei Oliven auf einem Zahnstocher stecken, über einer blauen Serviette mit weißen Streifen."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:865
@@ -1090,7 +1095,7 @@ msgstr "Vor einem ihrer umgebauten Eisautomaten versammelten sie sich und bespra
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:871
 msgid "Cans of green, blue, and pink paint; a paintbrush with yellow paint; a light green marker; and a rolled banner on which some blue paint has fallen."
-msgstr ""
+msgstr "Eimer mit grüner, blauer und rosa Farbe; ein Pinsel mit gelber Farbe; ein hellgrüner Filzstift; und ein aufgerolltes Banner, auf das etwas blaue Farbe getropft ist."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:877
@@ -1113,7 +1118,7 @@ msgstr "Auch an den nächsten Tagen setzten sich Ada und ihre Freunde wieder vor
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:888
 msgid "Yellow and green paint on the floor and wax crayons yellow, red, blue, green and brown; the latter 3 are in a gray cardboard box."
-msgstr ""
+msgstr "Gelbe und grüne Farbe auf dem Boden und Wachsmalstifte in Gelb, Rot, Blau, Grün und Braun; die letzten drei befinden sich in einem grauen Karton."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:892
@@ -1126,7 +1131,7 @@ msgstr "Mit jedem Tag wurden es mehr und mehr Kinder und Erwachsene, die protest
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:897
 msgid "Group of protesters. Among them there are: Ada’s mother holding Alan’s hand and raising a pink ice cream; 3 colleagues of Toni’s father dressed in ties; two children holding the banner “Do your homework Mr. President and we will do ours!”; a robot with tank treads, irons as feet, an electric fan as abdomen, a monitor as head, and an eggbeater as one hand, holding a blue ice cream in his other hand; two parents holding the banner “Hacking 4 Freedom”; a lady holding an electronic sign “There is a code B”; two small birds, flying; the math teacher, Ms. Gernet, who has inserted in her cart a sign that says “They are young + need the code!“ The dog in her cart is barking; Ada and Konrad are carrying the banner “Don’t wreck our tech!” Marie and Toni are walking beneath the banner, and Marie is talking through a bullhorn held in her hand; Ada’s family’s dog is now wearing a red harness with shiny yellow LEDs that matches the collar."
-msgstr ""
+msgstr "Gruppe von Demonstranten. Unter ihnen sind: Adas Mutter, die Alans Hand hält und ein rosa Eis hochhält; Tonis Vater und zwei seiner Kollegen, die Krawatten tragen; zwei Kinder, die das Transparent „Mach Deine Hausaufgaben Herr Präsident dann machen wir unsere!“ hochhalten; ein Roboter mit Raupenketten, Bügeleisen als Füßen, einem elektrischen Ventilator als Bauch, einem Monitor als Kopf und einem Schneebesen als eine Hand, der in seiner anderen Hand ein blaues Eis hält; zwei Eltern, die das Banner „Hacking 4 Freedom“ halten; eine Frau, die ein elektronisches Schild mit der Aufschrift „There is a Code B“ hält; zwei kleine Vögel, die fliegen; die Mathematiklehrerin Frau Gernet, die in ihren Rollator ein Schild mit der Aufschrift „Sie sind jung + brauchen den Code!“ gestellt hat. Der Hund in ihrem Einkaufswagen bellt; Ada und Konrad tragen das Transparent „Ohne Code ist alles doof!“ Marie und Toni gehen unter dem Banner hindurch, und Marie spricht durch ein Megafon, das sie in der Hand hält; der Hund von Adas Familie trägt jetzt ein rotes Geschirr mit leuchtend gelben LEDs, das zum Halsband passt."
 
 #. (itstool) path: info/excerpt
 #. Text on big banner, left on the illustration
@@ -1140,14 +1145,14 @@ msgstr "Mach deine Hausaufgaben Herr Präsident dann machen wir unsere!"
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:908
 msgid "Detail of the previous image: two children holding the banner “Do your homework Mr. President and we will do ours!”"
-msgstr ""
+msgstr "Detail des vorherigen Bildes: Zwei Kinder halten das Transparent „Mach Deine Hausaufgaben Herr Präsident dann machen wir unsere!“"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:914
 msgid "Detail of the previous image: Ada and Konrad are carrying the banner “Don’t wreck our tech!” Marie and Toni are walking beneath the banner, and Marie is talking through a bullhorn held in her hand; Ada’s family’s little dog is now wearing a red harness with shiny yellow LEDs that matches the collar."
-msgstr ""
+msgstr "Detail des vorherigen Bildes: Ada und Konrad tragen das Banner „Ohne Code ist alles doof!“. Marie und Toni gehen unter dem Banner entlang, und Marie spricht durch ein Megafon, das sie in der Hand hält. Der kleine Hund von Adas Familie trägt jetzt ein rotes Geschirr mit leuchtend gelben LEDs, das zum Halsband passt."
 
 #. (itstool) path: info/excerpt
 #. Text on square signe on the right of the illustration
@@ -1184,7 +1189,7 @@ msgstr "Der Präsident blickte in die entschlossenen Gesichter der Kinder. Wenn 
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:934
 msgid "One of Ada’s friends lying on his stomach with one foot up in the air is typing on a laptop. He has wavy brown hair parted in the center, a red sweatshirt, blue pants, and white socks but no shoes. Next to the computer there are a green cup and two open books."
-msgstr ""
+msgstr "Einer von Adas Freunden liegt auf dem Bauch, hat ein Bein in die Luft gestreckt und tippt auf einem Laptop. Er hat welliges braunes Haar mit Mittelscheitel, trägt ein rotes Sweatshirt, eine blaue Hose und weiße Socken, aber keine Schuhe. Neben dem Computer stehen ein grüner Becher und zwei aufgeschlagene Bücher."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:936
@@ -1206,7 +1211,7 @@ msgstr "An diesem Abend gingen die Kinder stolz und zufrieden nach Hause. Endlic
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:945
 msgid "Ada and her friends in the President’s office. Ada is reprogramming the President’s computer. Toni is setting up a speaker for the President’s secretary. Marie and Konrad are sitting on the floor and talking, and Marie has a laptop on her legs with an FSFE logo sticker (three stars: pea green, sky blue, and sea blue). On the floor are a bowl with candy and a plate with ice creams. The President’s phone is ringing, but nobody is answering."
-msgstr ""
+msgstr "Ada und ihre Freundinnen im Büro des Präsidenten. Ada programmiert den Computer des Präsidenten neu. Toni richtet einen Lautsprecher für die Beraterin des Präsidenten ein. Marie und Konrad sitzen auf dem Boden und unterhalten sich. Marie hat einen Laptop mit einem FSFE-Logo-Aufkleber (drei Sterne: erbsengrün, himmelblau und meerblau) auf den Beinen. Auf dem Boden stehen eine Schüssel mit Süßigkeiten und ein Teller mit Eiscreme. Das Telefon des Präsidenten klingelt, aber niemand geht ran."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:951
@@ -1224,7 +1229,7 @@ msgstr "Am nächsten Vormittag klingelte im Regierungsgebäude sehr früh das Te
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:959
 msgid "A herald, wearing a hat with a plume, playing a trumpet on which a red banner is hung."
-msgstr ""
+msgstr "Ein Herold mit einem Hut mit Federbusch spielt Fanfare, an der ein rotes Banner hängt."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:961
@@ -1251,7 +1256,7 @@ msgstr "Außerdem wurde ein neues Schulfach eingeführt: Computer und Programmie
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:972
 msgid "The President with Toni, Konrad, Marie, Ada, and a herald playing a trumpet. Marie is standing on top of a ladder talking into a microphone. Konrad firmly holds the ladder on which Marie is standing. Ada is standing on a chair and holds a copy of the new law bearing a seal. Ada’s dog is sitting in front of her."
-msgstr ""
+msgstr "Der Präsident mit Toni, Konrad, Marie, Ada und einem Herold, der Fanfare spielt. Marie steht auf einer Leiter und spricht in ein Mikrofon. Konrad hält die Leiter, auf der Marie steht, fest. Ada steht auf einem Stuhl und hält eine Kopie des neuen Gesetzes mit einem Siegel in der Hand. Adas Hund sitzt vor ihr."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:977
@@ -1264,7 +1269,7 @@ msgstr "An diesem Abend feierten alle gemeinsam ein großes Fest: Ada, Alan, die
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:982
 msgid "Evening party. Children are holding ice cream and balloons with the words “I love FS (I love Free Software)”; other children are riding skateboards; yellow and orange flags are hanging; music comes out from a large speaker system; Ms. Gernet holds a pink tree-shaped ice cream with a yellow star on it; Ada’s mom is dancing with a gentleman."
-msgstr ""
+msgstr "Abendparty. Kinder halten Eiscreme und Luftballons mit der Aufschrift „I love FS (Ich liebe Freie Software)“ in den Händen; andere Kinder fahren Skateboard; es hängen gelbe und orangefarbene Fahnen; Musik ertönt aus einer großen Lautsprecheranlage; Frau Gernet hält ein rosa, baumförmiges Eis mit einem gelben Stern darauf in der Hand; Adas Mutter tanzt mit einem Herrn."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:986
@@ -1276,7 +1281,7 @@ msgstr "Während die anderen bis spät in die Nacht weiterfeierten, schlichen si
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:991
 msgid "The President, the secretary, and other people around a table enjoying crazy ice cream; yellow and orange flags continue from the previous image; a little girl who just took a pink ghost-shaped ice cream from the modified ice cream machine; Ada’s dog, Konrad, Marie, Ada, and Toni sneaking away from the party."
-msgstr ""
+msgstr "Der Präsident, die Beraterin der Regierung und andere Personen sitzen um einen Tisch herum und genießen verrücktes Eis; gelbe und orangefarbene Flaggen setzen sich aus dem vorherigen Bild fort; ein kleines Mädchen, das gerade ein rosa Eis in Form eines Geistes aus der modifizierten Eismaschine genommen hat; Adas Hund, Konrad, Marie, Ada und Toni schleichen sich von der Party weg."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:997
@@ -1294,14 +1299,14 @@ msgstr "Und Zangemann? Von ihm hat man nicht mehr viel gehört. Vielleicht tobt 
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:1006
 msgid "Ada’s little dog sniffing a trail of ice cream."
-msgstr ""
+msgstr "Adas kleiner Hund schnüffelt an einer Eisspur."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:1015
 msgid "A trail of candies and raspberry ice cream on the ground."
-msgstr ""
+msgstr "Auf dem Boden liegt eine Spur aus Streuseln und Himbeereis."
 
 #. (itstool) path: info/title
 #. (itstool) id: Ada_Zangemann.dbk#title-acknowledgments
@@ -1333,7 +1338,7 @@ msgstr "Herzlichen Dank an meine Familie, die mich früh morgens, spät abends u
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:1042
 msgid "Ada’s dog wags its tail after finding Zangemann hidden behind a curtain and eating an ice cream cone with candies and a blue umbrella on it and lots of raspberry ice cream dripping."
-msgstr ""
+msgstr "Adas Hund wedelt mit dem Schwanz, nachdem er Zangemann hinter einem Vorhang versteckt gefunden hat, wo dieser ein Eis mit Streuseln und einem blauen Schirmchen isst, von dem jede Menge Himbeereis tropft."
 
 #. (itstool) path: info/title
 #. (itstool) id: Ada_Zangemann.dbk#title-author
@@ -1358,7 +1363,7 @@ msgstr "Über den Autor - Matthias Kirschner"
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:1064
 msgid "Close-up of Matthias smiling, waving with one hand, and wearing a headset. Matthias has short hair and a little beard."
-msgstr ""
+msgstr "Nahaufnahme von Matthias, der lächelt, mit einer Hand winkt und ein Headset trägt. Matthias hat kurzes Haar und einen kleinen Bart."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1066
@@ -1388,7 +1393,7 @@ msgstr "Über die Illustratorin - Sandra Brandstätter"
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:1087
 msgid "Sandra smiling with a pencil in her hand in front of her chin. She has earphones with an integrated microphone. Sandra has short hair and glasses."
-msgstr ""
+msgstr "Sandra lächelt mit einem Bleistift in der Hand vor ihrem Kinn. Sie trägt Kopfhörer mit integriertem Mikrofon. Sandra hat kurzes Haar und eine Brille."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1089
@@ -1432,7 +1437,7 @@ msgstr "<link xlink:href=\"https://creativecommons.org/licenses/by-sa/3.0/de/\">
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:1129
 msgid "A hand that holds a fish-shaped ice cream cone with a cucumber on a decorated toothpick, to color. In a bottom corner, a pencil writing."
-msgstr ""
+msgstr "Eine Hand, die eine fischförmige Eistüte mit einer Gurke auf einem verzierten Zahnstocher hält, zum Ausmalen. In der unteren Ecke ein Bleistift hinter dem geschwungene Schreibübungen gemacht wurden."
 
 # Removed newline in German translation to prevent taking up too much space.
 #. (itstool) path: simplesect/literallayout
