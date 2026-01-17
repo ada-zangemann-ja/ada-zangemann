@@ -43,11 +43,13 @@ Other package might be necessary for more specific outputs.
 
 ## Additional fonts
 
-You should install fonts from the `fonts/` directory.
+You should install fonts from the `fonts/` directory using the command `make -C fonts/ install`.
 Amatic is used for headings.
 Delicious Handrawn is required for the subtitle.
 Yuji Syuku is used for capitals.
 Roboto is used as for paragraphs, but is available as a package on most distributions and thus is listed in the packages.
+
+
 
 ## Building
 
