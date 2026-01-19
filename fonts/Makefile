@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: GPL-3.0-or-later
 
-FONT_DIR ?= ~/.local/share/fonts/
+FONT_DIR ?= ~/.local/share/fonts
 FONTS = $(wildcard *.zip)
 
 # helpers for the space -> newline substitution, inspired by
@@ -27,7 +27,7 @@ help:
 	@echo --------------------------------------------------
 
 install: $(FONTS:%.zip=$(FONT_DIR)/%)
-	fc-cache -f -v && echo All required fonts installed sucessfully. || (echo Font installation failed. && exit 1 )
+	fc-cache -f -v && echo All required fonts installed successfully. || (echo Font installation failed. && exit 1 )
 
 $(FONT_DIR)/%: %.zip
 	mkdir -p $@
