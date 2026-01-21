@@ -1,0 +1,813 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. (itstool) path: info/biblioid
+#. ISBN of print edition
+#: Ada_Zangemann.dbk:266
+msgid "978-1-7185-0318-2"
+msgstr ""
+
+#. (itstool) path: info/biblioid
+#. ISBN of ebook edition
+#: Ada_Zangemann.dbk:267
+msgid "978-1-7185-0319-9"
+msgstr ""
+
+#. (itstool) path: imageobject/imagedata@fileref
+#. (itstool) comment: imageobject/imagedata@fileref
+#. Link to the image. Only needs to be changed if the image is localized.
+#. Typical extensions are 'ltr' for left-to-right, 'rtl' for
+#. right-to-left' or a specific language. Many files are defined in
+#. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
+#. but some variants are generated in the automation.
+#: Ada_Zangemann.dbk:313
+msgid "images/illustrations/ada-a01.en.png"
+msgstr ""
+
+#. (itstool) path: imageobject/imagedata@fileref
+#. (itstool) comment: imageobject/imagedata@fileref
+#. Link to the image. Only needs to be changed if the image is localized.
+#. Typical extensions are 'ltr' for left-to-right, 'rtl' for
+#. right-to-left' or a specific language. Many files are defined in
+#. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
+#. but some variants are generated in the automation.
+#: Ada_Zangemann.dbk:316
+msgid "images/illustrations/ada-a01-nosubtitle.ltr.png"
+msgstr ""
+
+#. (itstool) path: imageobject/imagedata@fileref
+#. (itstool) comment: imageobject/imagedata@fileref
+#. Link to the image. Only needs to be changed if the image is localized.
+#. Typical extensions are 'ltr' for left-to-right, 'rtl' for
+#. right-to-left' or a specific language. Many files are defined in
+#. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
+#. but some variants are generated in the automation.
+#: Ada_Zangemann.dbk:329 Ada_Zangemann.dbk:340
+msgid "images/illustrations/ada-z04.ltr.png"
+msgstr ""
+
+#. (itstool) path: simplesect/para@dropcapfileref
+#. (itstool) comment: simplesect/para@dropcapfileref
+#. File for the capital image, depending on the capital letter and the
+#. required color. Can be postponed to the publishing process. priority:70
+#: Ada_Zangemann.dbk:334
+msgid "images/capitals/T-yellow2.png"
+msgstr ""
+
+#. (itstool) path: imageobject/imagedata@fileref
+#. (itstool) comment: imageobject/imagedata@fileref
+#. Link to the image. Only needs to be changed if the image is localized.
+#. Typical extensions are 'ltr' for left-to-right, 'rtl' for
+#. right-to-left' or a specific language. Many files are defined in
+#. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
+#. but some variants are generated in the automation.
+#: Ada_Zangemann.dbk:349
+msgid "images/illustrations/ada-a01-spine.ltr.btt.png"
+msgstr ""
+
+#. (itstool) path: imageobject/imagedata@fileref
+#. (itstool) comment: imageobject/imagedata@fileref
+#. Link to the image. Only needs to be changed if the image is localized.
+#. Typical extensions are 'ltr' for left-to-right, 'rtl' for
+#. right-to-left' or a specific language. Many files are defined in
+#. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
+#. but some variants are generated in the automation.
+#: Ada_Zangemann.dbk:362
+msgid "images/illustrations/ada-p01-titleonly.ltr.png"
+msgstr ""
+
+#. (itstool) path: imageobject/imagedata@fileref
+#. (itstool) comment: imageobject/imagedata@fileref
+#. Link to the image. Only needs to be changed if the image is localized.
+#. Typical extensions are 'ltr' for left-to-right, 'rtl' for
+#. right-to-left' or a specific language. Many files are defined in
+#. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
+#. but some variants are generated in the automation.
+#: Ada_Zangemann.dbk:466
+msgid "images/illustrations/ada-p03-author.ltr.png"
+msgstr ""
+
+#. (itstool) path: imageobject/imagedata@fileref
+#. (itstool) comment: imageobject/imagedata@fileref
+#. Link to the image. Only needs to be changed if the image is localized.
+#. Typical extensions are 'ltr' for left-to-right, 'rtl' for
+#. right-to-left' or a specific language. Many files are defined in
+#. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
+#. but some variants are generated in the automation.
+#: Ada_Zangemann.dbk:473
+msgid "images/illustrations/ada-p03-title.en.png"
+msgstr ""
+
+#. (itstool) path: imageobject/imagedata@fileref
+#. (itstool) comment: imageobject/imagedata@fileref
+#. Link to the image. Only needs to be changed if the image is localized.
+#. Typical extensions are 'ltr' for left-to-right, 'rtl' for
+#. right-to-left' or a specific language. Many files are defined in
+#. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
+#. but some variants are generated in the automation.
+#: Ada_Zangemann.dbk:476
+msgid "images/illustrations/ada-p03-titleonly.ltr.png"
+msgstr ""
+
+#. (itstool) path: imageobject/imagedata@fileref
+#. (itstool) comment: imageobject/imagedata@fileref
+#. Link to the image. Only needs to be changed if the image is localized.
+#. Typical extensions are 'ltr' for left-to-right, 'rtl' for
+#. right-to-left' or a specific language. Many files are defined in
+#. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
+#. but some variants are generated in the automation.
+#: Ada_Zangemann.dbk:483
+msgid "images/illustrations/ada-p03-dog.ltr.png"
+msgstr ""
+
+#. (itstool) path: simplesect/para@dropcapfileref
+#. (itstool) comment: simplesect/para@dropcapfileref
+#. File for the capital image, depending on the capital letter and the
+#. required color. Can be postponed to the publishing process. priority:70
+#: Ada_Zangemann.dbk:502
+msgid "images/capitals/O-cyan.png"
+msgstr ""
+
+#. (itstool) path: imageobject/imagedata@fileref
+#. (itstool) comment: imageobject/imagedata@fileref
+#. Link to the image. Only needs to be changed if the image is localized.
+#. Typical extensions are 'ltr' for left-to-right, 'rtl' for
+#. right-to-left' or a specific language. Many files are defined in
+#. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
+#. but some variants are generated in the automation.
+#: Ada_Zangemann.dbk:508
+msgid "images/illustrations/ada-p04.ltr.png"
+msgstr ""
+
+#. (itstool) path: imageobject/imagedata@fileref
+#. (itstool) comment: imageobject/imagedata@fileref
+#. Link to the image. Only needs to be changed if the image is localized.
+#. Typical extensions are 'ltr' for left-to-right, 'rtl' for
+#. right-to-left' or a specific language. Many files are defined in
+#. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
+#. but some variants are generated in the automation.
+#: Ada_Zangemann.dbk:516
+msgid "images/illustrations/ada-p05.ltr.png"
+msgstr ""
+
+#. (itstool) path: simplesect/para@dropcapfileref
+#. (itstool) comment: simplesect/para@dropcapfileref
+#. File for the capital image, depending on the capital letter and the
+#. required color. Can be postponed to the publishing process. priority:70
+#: Ada_Zangemann.dbk:529
+msgid "images/capitals/C-red1.png"
+msgstr ""
+
+#. (itstool) path: imageobject/imagedata@fileref
+#. (itstool) comment: imageobject/imagedata@fileref
+#. Link to the image. Only needs to be changed if the image is localized.
+#. Typical extensions are 'ltr' for left-to-right, 'rtl' for
+#. right-to-left' or a specific language. Many files are defined in
+#. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
+#. but some variants are generated in the automation.
+#: Ada_Zangemann.dbk:535
+msgid "images/illustrations/ada-p07.ltr.png"
+msgstr ""
+
+#. (itstool) path: imageobject/imagedata@fileref
+#. (itstool) comment: imageobject/imagedata@fileref
+#. Link to the image. Only needs to be changed if the image is localized.
+#. Typical extensions are 'ltr' for left-to-right, 'rtl' for
+#. right-to-left' or a specific language. Many files are defined in
+#. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
+#. but some variants are generated in the automation.
+#: Ada_Zangemann.dbk:545
+msgid "images/illustrations/ada-p08b.ltr.png"
+msgstr ""
+
+#. (itstool) path: imageobject/imagedata@fileref
+#. (itstool) comment: imageobject/imagedata@fileref
+#. Link to the image. Only needs to be changed if the image is localized.
+#. Typical extensions are 'ltr' for left-to-right, 'rtl' for
+#. right-to-left' or a specific language. Many files are defined in
+#. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
+#. but some variants are generated in the automation.
+#: Ada_Zangemann.dbk:552
+msgid "images/illustrations/ada-p08a.ltr.png"
+msgstr ""
+
+#. (itstool) path: imageobject/imagedata@fileref
+#. (itstool) comment: imageobject/imagedata@fileref
+#. Link to the image. Only needs to be changed if the image is localized.
+#. Typical extensions are 'ltr' for left-to-right, 'rtl' for
+#. right-to-left' or a specific language. Many files are defined in
+#. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
+#. but some variants are generated in the automation.
+#: Ada_Zangemann.dbk:560
+msgid "images/illustrations/ada-p09.ltr.png"
+msgstr ""
+
+#. (itstool) path: imageobject/imagedata@fileref
+#. (itstool) comment: imageobject/imagedata@fileref
+#. Link to the image. Only needs to be changed if the image is localized.
+#. Typical extensions are 'ltr' for left-to-right, 'rtl' for
+#. right-to-left' or a specific language. Many files are defined in
+#. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
+#. but some variants are generated in the automation.
+#: Ada_Zangemann.dbk:575
+msgid "images/illustrations/ada-p10.ltr.png"
+msgstr ""
+
+#. (itstool) path: imageobject/imagedata@fileref
+#. (itstool) comment: imageobject/imagedata@fileref
+#. Link to the image. Only needs to be changed if the image is localized.
+#. Typical extensions are 'ltr' for left-to-right, 'rtl' for
+#. right-to-left' or a specific language. Many files are defined in
+#. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
+#. but some variants are generated in the automation.
+#: Ada_Zangemann.dbk:584
+msgid "images/illustrations/ada-p11.ltr.png"
+msgstr ""
+
+#. (itstool) path: imageobject/imagedata@fileref
+#. (itstool) comment: imageobject/imagedata@fileref
+#. Link to the image. Only needs to be changed if the image is localized.
+#. Typical extensions are 'ltr' for left-to-right, 'rtl' for
+#. right-to-left' or a specific language. Many files are defined in
+#. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
+#. but some variants are generated in the automation.
+#: Ada_Zangemann.dbk:594
+msgid "images/illustrations/ada-p12.ltr.png"
+msgstr ""
+
+#. (itstool) path: imageobject/imagedata@fileref
+#. (itstool) comment: imageobject/imagedata@fileref
+#. Link to the image. Only needs to be changed if the image is localized.
+#. Typical extensions are 'ltr' for left-to-right, 'rtl' for
+#. right-to-left' or a specific language. Many files are defined in
+#. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
+#. but some variants are generated in the automation.
+#: Ada_Zangemann.dbk:609
+msgid "images/illustrations/ada-p13.ltr.png"
+msgstr ""
+
+#. (itstool) path: imageobject/imagedata@fileref
+#. (itstool) comment: imageobject/imagedata@fileref
+#. Link to the image. Only needs to be changed if the image is localized.
+#. Typical extensions are 'ltr' for left-to-right, 'rtl' for
+#. right-to-left' or a specific language. Many files are defined in
+#. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
+#. but some variants are generated in the automation.
+#: Ada_Zangemann.dbk:620
+msgid "images/illustrations/ada-p14.ltr.png"
+msgstr ""
+
+#. (itstool) path: imageobject/imagedata@fileref
+#. (itstool) comment: imageobject/imagedata@fileref
+#. Link to the image. Only needs to be changed if the image is localized.
+#. Typical extensions are 'ltr' for left-to-right, 'rtl' for
+#. right-to-left' or a specific language. Many files are defined in
+#. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
+#. but some variants are generated in the automation.
+#: Ada_Zangemann.dbk:630
+msgid "images/illustrations/ada-p15.ltr.png"
+msgstr ""
+
+#. (itstool) path: imageobject/imagedata@fileref
+#. (itstool) comment: imageobject/imagedata@fileref
+#. Link to the image. Only needs to be changed if the image is localized.
+#. Typical extensions are 'ltr' for left-to-right, 'rtl' for
+#. right-to-left' or a specific language. Many files are defined in
+#. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
+#. but some variants are generated in the automation.
+#: Ada_Zangemann.dbk:640
+msgid "images/illustrations/ada-p16.ltr.png"
+msgstr ""
+
+#. (itstool) path: imageobject/imagedata@fileref
+#. (itstool) comment: imageobject/imagedata@fileref
+#. Link to the image. Only needs to be changed if the image is localized.
+#. Typical extensions are 'ltr' for left-to-right, 'rtl' for
+#. right-to-left' or a specific language. Many files are defined in
+#. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
+#. but some variants are generated in the automation.
+#: Ada_Zangemann.dbk:648
+msgid "images/illustrations/ada-p17.ltr.png"
+msgstr ""
+
+#. (itstool) path: simplesect/para@dropcapfileref
+#. (itstool) comment: simplesect/para@dropcapfileref
+#. File for the capital image, depending on the capital letter and the
+#. required color. Can be postponed to the publishing process. priority:70
+#: Ada_Zangemann.dbk:660
+msgid "images/capitals/T-olive.png"
+msgstr ""
+
+#. (itstool) path: imageobject/imagedata@fileref
+#. (itstool) comment: imageobject/imagedata@fileref
+#. Link to the image. Only needs to be changed if the image is localized.
+#. Typical extensions are 'ltr' for left-to-right, 'rtl' for
+#. right-to-left' or a specific language. Many files are defined in
+#. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
+#. but some variants are generated in the automation.
+#: Ada_Zangemann.dbk:663
+msgid "images/illustrations/ada-p18.ltr.png"
+msgstr ""
+
+#. (itstool) path: imageobject/imagedata@fileref
+#. (itstool) comment: imageobject/imagedata@fileref
+#. Link to the image. Only needs to be changed if the image is localized.
+#. Typical extensions are 'ltr' for left-to-right, 'rtl' for
+#. right-to-left' or a specific language. Many files are defined in
+#. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
+#. but some variants are generated in the automation.
+#: Ada_Zangemann.dbk:672
+msgid "images/illustrations/ada-p19.ltr.png"
+msgstr ""
+
+#. (itstool) path: simplesect/para@dropcapfileref
+#. (itstool) comment: simplesect/para@dropcapfileref
+#. File for the capital image, depending on the capital letter and the
+#. required color. Can be postponed to the publishing process. priority:70
+#: Ada_Zangemann.dbk:686
+msgid "images/capitals/A-fucsia.png"
+msgstr ""
+
+#. (itstool) path: imageobject/imagedata@fileref
+#. (itstool) comment: imageobject/imagedata@fileref
+#. Link to the image. Only needs to be changed if the image is localized.
+#. Typical extensions are 'ltr' for left-to-right, 'rtl' for
+#. right-to-left' or a specific language. Many files are defined in
+#. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
+#. but some variants are generated in the automation.
+#: Ada_Zangemann.dbk:693
+msgid "images/illustrations/ada-p21.ltr.png"
+msgstr ""
+
+#. (itstool) path: simplesect/para@dropcapfileref
+#. (itstool) comment: simplesect/para@dropcapfileref
+#. File for the capital image, depending on the capital letter and the
+#. required color. Can be postponed to the publishing process. priority:70
+#: Ada_Zangemann.dbk:705
+msgid "images/capitals/O-lightcyan.png"
+msgstr ""
+
+#. (itstool) path: imageobject/imagedata@fileref
+#. (itstool) comment: imageobject/imagedata@fileref
+#. Link to the image. Only needs to be changed if the image is localized.
+#. Typical extensions are 'ltr' for left-to-right, 'rtl' for
+#. right-to-left' or a specific language. Many files are defined in
+#. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
+#. but some variants are generated in the automation.
+#: Ada_Zangemann.dbk:713
+msgid "images/illustrations/ada-p23.ltr.png"
+msgstr ""
+
+#. (itstool) path: imageobject/imagedata@fileref
+#. (itstool) comment: imageobject/imagedata@fileref
+#. Link to the image. Only needs to be changed if the image is localized.
+#. Typical extensions are 'ltr' for left-to-right, 'rtl' for
+#. right-to-left' or a specific language. Many files are defined in
+#. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
+#. but some variants are generated in the automation.
+#: Ada_Zangemann.dbk:722
+msgid "images/illustrations/ada-p24.ltr.png"
+msgstr ""
+
+#. (itstool) path: simplesect/para@dropcapfileref
+#. (itstool) comment: simplesect/para@dropcapfileref
+#. File for the capital image, depending on the capital letter and the
+#. required color. Can be postponed to the publishing process. priority:70
+#: Ada_Zangemann.dbk:734
+msgid "images/capitals/Z-brown.png"
+msgstr ""
+
+#. (itstool) path: simplesect/para@dropcapfileref
+#. (itstool) comment: simplesect/para@dropcapfileref
+#. File for the capital image, depending on the capital letter and the
+#. required color. Can be postponed to the publishing process. priority:70
+#: Ada_Zangemann.dbk:745
+msgid "images/capitals/S-red2.png"
+msgstr ""
+
+#. (itstool) path: imageobject/imagedata@fileref
+#. (itstool) comment: imageobject/imagedata@fileref
+#. Link to the image. Only needs to be changed if the image is localized.
+#. Typical extensions are 'ltr' for left-to-right, 'rtl' for
+#. right-to-left' or a specific language. Many files are defined in
+#. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
+#. but some variants are generated in the automation.
+#: Ada_Zangemann.dbk:754
+msgid "images/illustrations/ada-p27.ltr.png"
+msgstr ""
+
+#. (itstool) path: imageobject/imagedata@fileref
+#. (itstool) comment: imageobject/imagedata@fileref
+#. Link to the image. Only needs to be changed if the image is localized.
+#. Typical extensions are 'ltr' for left-to-right, 'rtl' for
+#. right-to-left' or a specific language. Many files are defined in
+#. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
+#. but some variants are generated in the automation.
+#: Ada_Zangemann.dbk:765
+msgid "images/illustrations/ada-p28.ltr.png"
+msgstr ""
+
+#. (itstool) path: imageobject/imagedata@fileref
+#. (itstool) comment: imageobject/imagedata@fileref
+#. Link to the image. Only needs to be changed if the image is localized.
+#. Typical extensions are 'ltr' for left-to-right, 'rtl' for
+#. right-to-left' or a specific language. Many files are defined in
+#. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
+#. but some variants are generated in the automation.
+#: Ada_Zangemann.dbk:775
+msgid "images/illustrations/ada-p29.ltr.png"
+msgstr ""
+
+#. (itstool) path: simplesect/para@dropcapfileref
+#. (itstool) comment: simplesect/para@dropcapfileref
+#. File for the capital image, depending on the capital letter and the
+#. required color. Can be postponed to the publishing process. priority:70
+#: Ada_Zangemann.dbk:787
+msgid "images/capitals/M-yellow.png"
+msgstr ""
+
+#. (itstool) path: imageobject/imagedata@fileref
+#. (itstool) comment: imageobject/imagedata@fileref
+#. Link to the image. Only needs to be changed if the image is localized.
+#. Typical extensions are 'ltr' for left-to-right, 'rtl' for
+#. right-to-left' or a specific language. Many files are defined in
+#. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
+#. but some variants are generated in the automation.
+#: Ada_Zangemann.dbk:792
+msgid "images/illustrations/ada-p30.ltr.png"
+msgstr ""
+
+#. (itstool) path: imageobject/imagedata@fileref
+#. (itstool) comment: imageobject/imagedata@fileref
+#. Link to the image. Only needs to be changed if the image is localized.
+#. Typical extensions are 'ltr' for left-to-right, 'rtl' for
+#. right-to-left' or a specific language. Many files are defined in
+#. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
+#. but some variants are generated in the automation.
+#: Ada_Zangemann.dbk:803
+msgid "images/illustrations/ada-p31.ltr.png"
+msgstr ""
+
+#. (itstool) path: imageobject/imagedata@fileref
+#. (itstool) comment: imageobject/imagedata@fileref
+#. Link to the image. Only needs to be changed if the image is localized.
+#. Typical extensions are 'ltr' for left-to-right, 'rtl' for
+#. right-to-left' or a specific language. Many files are defined in
+#. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
+#. but some variants are generated in the automation.
+#: Ada_Zangemann.dbk:811
+msgid "images/illustrations/ada-p32.ltr.png"
+msgstr ""
+
+#. (itstool) path: imageobject/imagedata@fileref
+#. (itstool) comment: imageobject/imagedata@fileref
+#. Link to the image. Only needs to be changed if the image is localized.
+#. Typical extensions are 'ltr' for left-to-right, 'rtl' for
+#. right-to-left' or a specific language. Many files are defined in
+#. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
+#. but some variants are generated in the automation.
+#: Ada_Zangemann.dbk:819
+msgid "images/illustrations/ada-p33.ltr.png"
+msgstr ""
+
+#. (itstool) path: imageobject/imagedata@fileref
+#. (itstool) comment: imageobject/imagedata@fileref
+#. Link to the image. Only needs to be changed if the image is localized.
+#. Typical extensions are 'ltr' for left-to-right, 'rtl' for
+#. right-to-left' or a specific language. Many files are defined in
+#. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
+#. but some variants are generated in the automation.
+#: Ada_Zangemann.dbk:827
+msgid "images/illustrations/ada-p34.ltr.png"
+msgstr ""
+
+#. (itstool) path: imageobject/imagedata@fileref
+#. (itstool) comment: imageobject/imagedata@fileref
+#. Link to the image. Only needs to be changed if the image is localized.
+#. Typical extensions are 'ltr' for left-to-right, 'rtl' for
+#. right-to-left' or a specific language. Many files are defined in
+#. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
+#. but some variants are generated in the automation.
+#: Ada_Zangemann.dbk:833
+msgid "images/illustrations/ada-p34-bottom.ltr.png"
+msgstr ""
+
+#. (itstool) path: simplesect/para@dropcapfileref
+#. (itstool) comment: simplesect/para@dropcapfileref
+#. File for the capital image, depending on the capital letter and the
+#. required color. Can be postponed to the publishing process. priority:70
+#: Ada_Zangemann.dbk:840
+msgid "images/capitals/E-pink.png"
+msgstr ""
+
+#. (itstool) path: simplesect/para@dropcapfileref
+#. (itstool) comment: simplesect/para@dropcapfileref
+#. File for the capital image, depending on the capital letter and the
+#. required color. Can be postponed to the publishing process. priority:70
+#: Ada_Zangemann.dbk:851
+msgid "images/capitals/O-green.png"
+msgstr ""
+
+#. (itstool) path: imageobject/imagedata@fileref
+#. (itstool) comment: imageobject/imagedata@fileref
+#. Link to the image. Only needs to be changed if the image is localized.
+#. Typical extensions are 'ltr' for left-to-right, 'rtl' for
+#. right-to-left' or a specific language. Many files are defined in
+#. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
+#. but some variants are generated in the automation.
+#: Ada_Zangemann.dbk:858
+msgid "images/illustrations/ada-p37.ltr.png"
+msgstr ""
+
+#. (itstool) path: imageobject/imagedata@fileref
+#. (itstool) comment: imageobject/imagedata@fileref
+#. Link to the image. Only needs to be changed if the image is localized.
+#. Typical extensions are 'ltr' for left-to-right, 'rtl' for
+#. right-to-left' or a specific language. Many files are defined in
+#. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
+#. but some variants are generated in the automation.
+#: Ada_Zangemann.dbk:869
+msgid "images/illustrations/ada-p38.ltr.png"
+msgstr ""
+
+#. (itstool) path: simplesect/para@dropcapfileref
+#. (itstool) comment: simplesect/para@dropcapfileref
+#. File for the capital image, depending on the capital letter and the
+#. required color. Can be postponed to the publishing process. priority:70
+#: Ada_Zangemann.dbk:882
+msgid "images/capitals/T-cyan.png"
+msgstr ""
+
+#. (itstool) path: imageobject/imagedata@fileref
+#. (itstool) comment: imageobject/imagedata@fileref
+#. Link to the image. Only needs to be changed if the image is localized.
+#. Typical extensions are 'ltr' for left-to-right, 'rtl' for
+#. right-to-left' or a specific language. Many files are defined in
+#. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
+#. but some variants are generated in the automation.
+#: Ada_Zangemann.dbk:886
+msgid "images/illustrations/ada-p39.ltr.png"
+msgstr ""
+
+#. (itstool) path: imageobject/imagedata@fileref
+#. (itstool) comment: imageobject/imagedata@fileref
+#. Link to the image. Only needs to be changed if the image is localized.
+#. Typical extensions are 'ltr' for left-to-right, 'rtl' for
+#. right-to-left' or a specific language. Many files are defined in
+#. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
+#. but some variants are generated in the automation.
+#: Ada_Zangemann.dbk:895
+msgid "images/illustrations/ada-p40-41.en.png"
+msgstr "images/illustrations/ada-p40-41.cs.png"
+
+#. (itstool) path: imageobject/imagedata@fileref
+#. (itstool) comment: imageobject/imagedata@fileref
+#. Link to the image. Only needs to be changed if the image is localized.
+#. Typical extensions are 'ltr' for left-to-right, 'rtl' for
+#. right-to-left' or a specific language. Many files are defined in
+#. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
+#. but some variants are generated in the automation.
+#: Ada_Zangemann.dbk:906
+msgid "images/illustrations/ada-p40.en.png"
+msgstr "images/illustrations/ada-p40.cs.png"
+
+#. (itstool) path: imageobject/imagedata@fileref
+#. (itstool) comment: imageobject/imagedata@fileref
+#. Link to the image. Only needs to be changed if the image is localized.
+#. Typical extensions are 'ltr' for left-to-right, 'rtl' for
+#. right-to-left' or a specific language. Many files are defined in
+#. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
+#. but some variants are generated in the automation.
+#: Ada_Zangemann.dbk:912
+msgid "images/illustrations/ada-p41.en.png"
+msgstr "images/illustrations/ada-p41.cs.png"
+
+#. (itstool) path: simplesect/para@dropcapfileref
+#. (itstool) comment: simplesect/para@dropcapfileref
+#. File for the capital image, depending on the capital letter and the
+#. required color. Can be postponed to the publishing process. priority:70
+#: Ada_Zangemann.dbk:927
+msgid "images/capitals/A-violet.png"
+msgstr ""
+
+#. (itstool) path: imageobject/imagedata@fileref
+#. (itstool) comment: imageobject/imagedata@fileref
+#. Link to the image. Only needs to be changed if the image is localized.
+#. Typical extensions are 'ltr' for left-to-right, 'rtl' for
+#. right-to-left' or a specific language. Many files are defined in
+#. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
+#. but some variants are generated in the automation.
+#: Ada_Zangemann.dbk:932
+msgid "images/illustrations/ada-p42.ltr.png"
+msgstr ""
+
+#. (itstool) path: imageobject/imagedata@fileref
+#. (itstool) comment: imageobject/imagedata@fileref
+#. Link to the image. Only needs to be changed if the image is localized.
+#. Typical extensions are 'ltr' for left-to-right, 'rtl' for
+#. right-to-left' or a specific language. Many files are defined in
+#. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
+#. but some variants are generated in the automation.
+#: Ada_Zangemann.dbk:943
+msgid "images/illustrations/ada-p43.ltr.png"
+msgstr ""
+
+#. (itstool) path: simplesect/para@dropcapfileref
+#. (itstool) comment: simplesect/para@dropcapfileref
+#. File for the capital image, depending on the capital letter and the
+#. required color. Can be postponed to the publishing process. priority:70
+#: Ada_Zangemann.dbk:954
+msgid "images/capitals/T-red3.png"
+msgstr ""
+
+#. (itstool) path: imageobject/imagedata@fileref
+#. (itstool) comment: imageobject/imagedata@fileref
+#. Link to the image. Only needs to be changed if the image is localized.
+#. Typical extensions are 'ltr' for left-to-right, 'rtl' for
+#. right-to-left' or a specific language. Many files are defined in
+#. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
+#. but some variants are generated in the automation.
+#: Ada_Zangemann.dbk:957
+msgid "images/illustrations/ada-p44.ltr.png"
+msgstr ""
+
+#. (itstool) path: imageobject/imagedata@fileref
+#. (itstool) comment: imageobject/imagedata@fileref
+#. Link to the image. Only needs to be changed if the image is localized.
+#. Typical extensions are 'ltr' for left-to-right, 'rtl' for
+#. right-to-left' or a specific language. Many files are defined in
+#. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
+#. but some variants are generated in the automation.
+#: Ada_Zangemann.dbk:970
+msgid "images/illustrations/ada-p45.ltr.png"
+msgstr ""
+
+#. (itstool) path: imageobject/imagedata@fileref
+#. (itstool) comment: imageobject/imagedata@fileref
+#. Link to the image. Only needs to be changed if the image is localized.
+#. Typical extensions are 'ltr' for left-to-right, 'rtl' for
+#. right-to-left' or a specific language. Many files are defined in
+#. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
+#. but some variants are generated in the automation.
+#: Ada_Zangemann.dbk:980
+msgid "images/illustrations/ada-p46.ltr.png"
+msgstr ""
+
+#. (itstool) path: imageobject/imagedata@fileref
+#. (itstool) comment: imageobject/imagedata@fileref
+#. Link to the image. Only needs to be changed if the image is localized.
+#. Typical extensions are 'ltr' for left-to-right, 'rtl' for
+#. right-to-left' or a specific language. Many files are defined in
+#. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
+#. but some variants are generated in the automation.
+#: Ada_Zangemann.dbk:989
+msgid "images/illustrations/ada-p47.ltr.png"
+msgstr ""
+
+#. (itstool) path: simplesect/para@dropcapfileref
+#. (itstool) comment: simplesect/para@dropcapfileref
+#. File for the capital image, depending on the capital letter and the
+#. required color. Can be postponed to the publishing process. priority:70
+#: Ada_Zangemann.dbk:1001
+msgid "images/capitals/A-yellow.png"
+msgstr ""
+
+#. (itstool) path: imageobject/imagedata@fileref
+#. (itstool) comment: imageobject/imagedata@fileref
+#. Link to the image. Only needs to be changed if the image is localized.
+#. Typical extensions are 'ltr' for left-to-right, 'rtl' for
+#. right-to-left' or a specific language. Many files are defined in
+#. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
+#. but some variants are generated in the automation.
+#: Ada_Zangemann.dbk:1004
+msgid "images/illustrations/ada-p48.ltr.png"
+msgstr ""
+
+#. (itstool) path: imageobject/imagedata@fileref
+#. (itstool) comment: imageobject/imagedata@fileref
+#. Link to the image. Only needs to be changed if the image is localized.
+#. Typical extensions are 'ltr' for left-to-right, 'rtl' for
+#. right-to-left' or a specific language. Many files are defined in
+#. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
+#. but some variants are generated in the automation.
+#: Ada_Zangemann.dbk:1013
+msgid "images/illustrations/ada-p49.ltr.png"
+msgstr ""
+
+#. (itstool) path: imageobject/imagedata@fileref
+#. (itstool) comment: imageobject/imagedata@fileref
+#. Link to the image. Only needs to be changed if the image is localized.
+#. Typical extensions are 'ltr' for left-to-right, 'rtl' for
+#. right-to-left' or a specific language. Many files are defined in
+#. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
+#. but some variants are generated in the automation.
+#: Ada_Zangemann.dbk:1025
+msgid "images/illustrations/ada-p50-title.en.png"
+msgstr ""
+
+#. (itstool) path: imageobject/imagedata@fileref
+#. (itstool) comment: imageobject/imagedata@fileref
+#. Link to the image. Only needs to be changed if the image is localized.
+#. Typical extensions are 'ltr' for left-to-right, 'rtl' for
+#. right-to-left' or a specific language. Many files are defined in
+#. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
+#. but some variants are generated in the automation.
+#: Ada_Zangemann.dbk:1040
+msgid "images/illustrations/ada-p51.ltr.png"
+msgstr ""
+
+#. (itstool) path: imageobject/imagedata@fileref
+#. (itstool) comment: imageobject/imagedata@fileref
+#. Link to the image. Only needs to be changed if the image is localized.
+#. Typical extensions are 'ltr' for left-to-right, 'rtl' for
+#. right-to-left' or a specific language. Many files are defined in
+#. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
+#. but some variants are generated in the automation.
+#: Ada_Zangemann.dbk:1054
+msgid "images/illustrations/ada-p52-title.en.png"
+msgstr ""
+
+#. (itstool) path: imageobject/imagedata@fileref
+#. (itstool) comment: imageobject/imagedata@fileref
+#. Link to the image. Only needs to be changed if the image is localized.
+#. Typical extensions are 'ltr' for left-to-right, 'rtl' for
+#. right-to-left' or a specific language. Many files are defined in
+#. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
+#. but some variants are generated in the automation.
+#: Ada_Zangemann.dbk:1062
+msgid "images/illustrations/ada-p52.ltr.png"
+msgstr ""
+
+#. (itstool) path: imageobject/imagedata@fileref
+#. (itstool) comment: imageobject/imagedata@fileref
+#. Link to the image. Only needs to be changed if the image is localized.
+#. Typical extensions are 'ltr' for left-to-right, 'rtl' for
+#. right-to-left' or a specific language. Many files are defined in
+#. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
+#. but some variants are generated in the automation.
+#: Ada_Zangemann.dbk:1077
+msgid "images/illustrations/ada-p53-title.en.png"
+msgstr ""
+
+#. (itstool) path: imageobject/imagedata@fileref
+#. (itstool) comment: imageobject/imagedata@fileref
+#. Link to the image. Only needs to be changed if the image is localized.
+#. Typical extensions are 'ltr' for left-to-right, 'rtl' for
+#. right-to-left' or a specific language. Many files are defined in
+#. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
+#. but some variants are generated in the automation.
+#: Ada_Zangemann.dbk:1085
+msgid "images/illustrations/ada-p53.ltr.png"
+msgstr ""
+
+#. (itstool) path: imageobject/imagedata@fileref
+#. (itstool) comment: imageobject/imagedata@fileref
+#. Link to the image. Only needs to be changed if the image is localized.
+#. Typical extensions are 'ltr' for left-to-right, 'rtl' for
+#. right-to-left' or a specific language. Many files are defined in
+#. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
+#. but some variants are generated in the automation.
+#: Ada_Zangemann.dbk:1097
+msgid "images/illustrations/ada-p54-title.en.png"
+msgstr ""
+
+#. (itstool) path: imageobject/imagedata@fileref
+#. (itstool) comment: imageobject/imagedata@fileref
+#. Link to the image. Only needs to be changed if the image is localized.
+#. Typical extensions are 'ltr' for left-to-right, 'rtl' for
+#. right-to-left' or a specific language. Many files are defined in
+#. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
+#. but some variants are generated in the automation.
+#: Ada_Zangemann.dbk:1114
+msgid "images/illustrations/ada-p55-title.en.png"
+msgstr ""
+
+#. (itstool) path: imageobject/imagedata@fileref
+#. (itstool) comment: imageobject/imagedata@fileref
+#. Link to the image. Only needs to be changed if the image is localized.
+#. Typical extensions are 'ltr' for left-to-right, 'rtl' for
+#. right-to-left' or a specific language. Many files are defined in
+#. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
+#. but some variants are generated in the automation.
+#: Ada_Zangemann.dbk:1127
+msgid "images/illustrations/ada-p56.ltr.png"
+msgstr ""
+
+#. (itstool) path: imageobject/imagedata@fileref
+#. (itstool) comment: imageobject/imagedata@fileref
+#. Link to the image. Only needs to be changed if the image is localized.
+#. Typical extensions are 'ltr' for left-to-right, 'rtl' for
+#. right-to-left' or a specific language. Many files are defined in
+#. https://git.fsfe.org/FSFE/ada-zangemann/src/branch/main/docbook/images/illustrations
+#. but some variants are generated in the automation.
+#: Ada_Zangemann.dbk:1137
+msgid "images/illustrations/ada-p57.ltr.png"
+msgstr ""
