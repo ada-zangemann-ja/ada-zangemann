@@ -3,15 +3,15 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-10 08:47+0100\n"
-"Last-Translator: William Weber Berrutti <wwberrutti@protonmail.ch>\n"
+"PO-Revision-Date: 2026-01-20 08:01+0000\n"
+"Last-Translator: Fernanda Weiden <fernanda.weiden@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/fsfe/ada-zangemann/pt_BR/>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Poedit 3.6\n"
+"X-Generator: Weblate 5.16-dev\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
@@ -147,7 +147,7 @@ msgstr "Um ferro de solda e uma escova e lata com tinta amarela, conectados por 
 #. (itstool) id: Ada_Zangemann.dbk#para-back-1
 #: Ada_Zangemann.dbk:334
 msgid "The inventor Zangemann is world-famous and immensely rich. Adults and children alike love his fabulous technical inventions. But one day there is a problem: the children’s electronic skateboards no longer work properly. What’s going on? The curious girl Ada sees through what is going on. Together with her friends, she experiments with hardware and software, and the children forge a plan: Zangemann can no longer be the only one in control of the devices!"
-msgstr "O O inventor Zangemann é mundialmente famoso e imensamente rico. Adultos e crianças adoram suas fabulosas invenções técnicas. Mas um dia há um problema: os skates eletrônicos das crianças já não funcionam corretamente. O que está acontecendo? A menina curiosa Ada vê o que está acontecendo. Juntamente com seus amigos, ela experimenta com hardware e software, e as crianças forjam um plano: Zangemann não pode mais ser o único no controle dos dispositivos!"
+msgstr "O inventor Zangemann é mundialmente famoso e imensamente rico. Adultos e crianças adoram suas fabulosas invenções técnicas. Mas um dia acontece um problema: os skates eletrônicos das crianças já não funcionam corretamente. O que está acontecendo? Ada, a menina curiosa, vê o que está acontecendo. Juntamente com seus amigos, ela experimenta com hardware e software, e as crianças criam um plano: Zangemann não pode mais ser o único no controle dos dispositivos!"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:335
