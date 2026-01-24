@@ -381,7 +381,7 @@ msgstr ""
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:520
 msgid "Far away, at the other end of town, lived a famous inventor named Zangemann. He was immensely rich. No sheet of paper in the world was big enough to show his bank balance with all its numbers and zeros!"
-msgstr "Daleko odtamtud, na druhém konci města, bydlel slavný vynálezce, který se jmenoval Zangemann. Zangemann byl ohromně bohatý. Tak, že žádný papír na světě nebyl dostatečně velký na to, aby se na něj vešel stav jeho bankovního účtu se všemi čísly a nulami!"
+msgstr "Daleko odtamtud, na druhém konci města, bydlel slavný vynálezce, který se jmenoval Zangemann. Zangemann byl nesmírně bohatý. Tak, že si mohl koupit vše, na co jen pomyslel, a i přesto mu na jeho bankovním účtu zbyla spousta peněz."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:520
