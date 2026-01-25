@@ -365,7 +365,7 @@ $(targets-coverhard-text): $(eval $(call scribus_template,coverhard-text,templat
 
 # Build version with text subtitle
 targets-coversoft-216x216x4_728x3_175-text = $(addprefix build/Ada_Zangemann-coversoft-216x216x4_728x3_175-text.,$(addsuffix .sla,$(languages)))
-$(targets-coversoft-216x216x4_728x3_175-text): $(eval $(call scribus_template,coverhard-coversoft-216x216x4_728x3_175-text,templates/template-coversoft-216x216x4_728x3_175.sla,capitals-text;cover-print-text;colophon-halfpage))
+$(targets-coversoft-216x216x4_728x3_175-text): $(eval $(call scribus_template,coversoft-216x216x4_728x3_175-text,templates/template-coversoft-216x216x4_728x3_175.sla,capitals-text;cover-print-text;colophon-halfpage))
 
 # Build screen cover (page 1 is back, page 2 is front)
 $(eval $(call scribus_template,coverscreen,templates/template-coverscreen.sla,capitals-text;cover-print-text;colophon-halfpage))
