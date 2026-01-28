@@ -639,7 +639,7 @@ msgstr "Jednoho dne si Zangemann pomyslel: „Dneska si prohlédnu své vynález
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:606
 msgid "He put away his big telescope, then climbed down the many stairs of his mansion and ventured out into the city, full of anticipation at the thought of enjoying his cool devices."
-msgstr "Odsunul svůj velký dalekohled a zamířil si to dolů, po spoustě schodech ze svého sídla, až do města. Těšil se, jak se bude bavit sledováním svých skvělých vynálezů."
+msgstr "Odsunul svůj velký dalekohled a zamířil si to dolů, po spoustě schodů ze svého sídla, až do města. Těšil se, jak se bude bavit sledováním svých skvělých vynálezů."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
