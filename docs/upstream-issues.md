@@ -153,3 +153,20 @@ Support more languages in Argos Translate, the software underlying  LibreTransla
 LibreTranslate is important to make sense of translations for keeping translations up to date with format changes.
 
 - [Language reqests #91](https://github.com/argosopentech/argos-translate/discussions/91)
+
+## SRT Equalizer
+
+- [SRT Equalizer issue tracker](https://github.com/peterk/srt_equalizer/issues)
+
+### Support additional quotation marks when splitting text (Fixed in v0.1.12)
+
+When splitting subtitles on punctuation, don't directly split at each punctuation, but consider quotation as well.
+
+- [Support additional quotation marks when splitting text](https://github.com/peterk/srt_equalizer/issues/22)
+
+### Provide srt-equalizer CLI command
+
+Add a CLI python file to expose a `srt-equalizer` command for equalizing files.
+It duplicates declarations of valid entries and default values.
+
+- [Provide srt-qualizer CLI command](https://github.com/peterk/srt_equalizer/pull/24)
