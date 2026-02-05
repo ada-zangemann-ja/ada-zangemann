@@ -1,5 +1,5 @@
 <!--
-SPDX-FileCopyrightText: 2025 Nico Rikken <nico.rikken@fsfe.org>
+SPDX-FileCopyrightText: 2025-2026 Nico Rikken <nico.rikken@fsfe.org>
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 -->
@@ -24,6 +24,7 @@ SPDX-License-Identifier: CC-BY-SA-4.0
 - [Publishing](publishing.md)
 - [Editions and notable differences](editions.md)
 - [Printing](printing.md)
+- [Lulu.com sale of Norwegian Bokmål](lulu-nb.md)
 
 ## Technical
 
