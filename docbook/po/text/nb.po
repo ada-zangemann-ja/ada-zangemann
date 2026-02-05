@@ -553,7 +553,7 @@ msgstr "Ada fikler med ting i sitt improviserte laboratorium. Ada sitter på en 
 #. Sentence continues in next string.
 #: Ada_Zangemann.dbk:564
 msgid "These inventions were very popular at Ada’s school, and many of her friends rode around on the cool skateboards. Ada was often sad, since her mother couldn’t buy her any of those great things:"
-msgstr "Også på Adas skole var oppfinnelsene veldig populære, og mange av vennene hennes kjørte rundt på de stilige rullebrettene. Ada var ofte lei seg siden moren hennes ikke hadde råd til noen av de fantastiske tingene."
+msgstr "Også på Adas skole var oppfinnelsene veldig populære, og mange av vennene hennes kjørte rundt på de stilige rullebrettene. Ada var ofte lei seg, siden moren hennes ikke hadde råd til noen av de fantastiske tingene."
 
 #. (itstool) path: para/phrase
 #. Continuation of the sentence.
