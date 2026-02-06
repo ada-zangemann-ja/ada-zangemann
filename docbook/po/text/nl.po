@@ -3,15 +3,15 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-10 08:45+0100\n"
-"Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
+"PO-Revision-Date: 2026-02-07 21:10+0000\n"
+"Last-Translator: Maurice Hendriks <m.hendriks@minvws.nl>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/fsfe/ada-zangemann/nl/>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Poedit 3.6\n"
+"X-Generator: Weblate 5.16-dev\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
@@ -443,7 +443,7 @@ msgstr "Hij woonde in een enorm huis met een zwembad, een waterglijbaan, veel tr
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:520
 msgid "Zangemann’s mansion stood high on a hill. From there, he could look out over the whole city."
-msgstr "Zangemanns landhuis stond hoog op een heuvel. Daar vandaan kon hij over de hele stad uitkijken."
+msgstr "Zangemanns landhuis stond hoog op een heuvel. Daarvandaan kon hij over de hele stad uitkijken."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:525
@@ -989,7 +989,7 @@ msgstr "Ada racet met haar elektrische skateboard over de stoep door de stad. Ad
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:761
 msgid "When Ada rode her skateboard to school on the first day back after summer break, the other children were amazed. During recess, Ada’s curious classmates surrounded her."
-msgstr "Toen Ada op de eerste schooldag na de vakantie met haar skateboard naar school reed, waren de andere kinderen onder de indruk. In de grote pauze was Ada omringd door nieuwsgierige klasgenoten."
+msgstr "Toen Ada op de eerste schooldag na de vakantie met haar skateboard naar school reed, waren de andere kinderen onder de indruk. In de grote pauze werd Ada omringd door nieuwsgierige klasgenoten."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:762
@@ -1250,7 +1250,7 @@ msgstr "Een van Ada’s vrienden light op haar buik met een voet in de lucht en 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:936
 msgid "The next day, the president invited Ada and her friends over. “We also want to be in charge of our software ourselves. In order for that to be true, the government must be independent from Zangemann. Can you tell me what you know about computer programs?” he asked them. Enthusiastically, they explained to him how software works and what you could do with it. The president was amazed."
-msgstr "De volgende dag nodigde de president Ada en haar vrienden uit. ‘We willen ook zelf de controle over onze software hebben. Daarvoor moet de regering onafhankelijk zijn van Zangemann. Kan je me vertellen wat je over computer­programma’s weet?’, vroeg hij. Enthousiast legden ze hem uit hoe software werkt en wat je er allemaal mee kan doen. De president was verbaasd."
+msgstr "De volgende dag nodigde de president Ada en haar vrienden uit. ‘We willen ook zelf de controle over onze software hebben. Daarvoor moet de regering onafhankelijk zijn van Zangemann. Kan je me vertellen wat je over computer­programma’s weet?’ vroeg hij. Enthousiast legden ze hem uit hoe software werkt en wat je er allemaal mee kan doen. De president was verbaasd."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:939
