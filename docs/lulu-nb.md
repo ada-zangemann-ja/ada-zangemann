@@ -42,43 +42,44 @@ book.  This give FSFE a sizable cut.
 
 ## Start
 
-Select "Print book", 
-"Publish Your Book"
-"Lulu Bookstore"
+Select "Print book",  
+"Publish Your Book"  
+"Lulu Bookstore"  
 "Global Distribution"
 
-Project title: Ada og Zangeman
-Book language: Norwegian
-Book category: Children's
+- Project title: Ada og Zangeman
+- Book language: Norwegian
+- Book category: Children's
 
 ## Copyright
 
-Title: Ada og Zangemann
-Subtitle: En fortelling om programvare, rullebrett og bringebæris
-Contributors:
- Original author: Matthias Kirschner
- Illustrated by SandraBrandstätter
- Translated by Petter Reinholdtsen
- Translated by Henrik G. Sund (should be Sundt?)
- Translated by: Hagen Echzell
-Copyright: Some Rights Reserved - Creative Commons CC-BY
- Copyright holder name: Matthias Kirschner
- [x] ShareAlike SA
+- Title: Ada og Zangemann
+- Subtitle: En fortelling om programvare, rullebrett og bringebæris
+- Contributors:
+  - Original author: Matthias Kirschner
+     - Illustrated by SandraBrandstätter
+     - Translated by Petter Reinholdtsen
+     - Translated by Henrik G. Sund (should be Sundt?)
+     - Translated by: Hagen Echzell
+- Copyright: Some Rights Reserved - Creative Commons CC-BY
+  - Copyright holder name: Matthias Kirschner
+- [x] ShareAlike SA
 
 ISBN: I have my own ISBN
- ISBN: 978-82-93828-24-2
- Imprint: Petter Reinholdtsen
- Contact information: [address]
+
+- ISBN: 978-82-93828-24-2
+- Imprint: Petter Reinholdtsen
+- Contact information: [address]
 
 ## Design
 
 Upload body PDF
 
-Interior Color: Standard Color
-Paper type: 80# White — Coated
-Binding type: Paperback Perfect Bound
-Cover finish: Matte
-Book Cover Design: "Upload Your Cover"
+- Interior Color: Standard Color
+- Paper type: 80# White — Coated
+- Binding type: Paperback Perfect Bound
+- Cover finish: Matte
+- Book Cover Design: "Upload Your Cover"
 
 Upload the cover PDF
 
@@ -107,22 +108,23 @@ Project Details
 
 Categories and Keywords
 
-Lulu Bookstore Category: Children's
-Bisac Main Category: Juvenile Fiction / Computers & Digital Media
-Bisac category 2: Young Adult Fiction / Computers & Digital Media
-Keywords: programming, right to repair, source code, free software, tinkering
+- Lulu Bookstore Category: Children's
+- Bisac Main Category: Juvenile Fiction / Computers & Digital Media
+- Bisac category 2: Young Adult Fiction / Computers & Digital Media
+- Keywords: programming, right to repair, source code, free software, tinkering
 
 Audience
 
-Young Adult - Teen fiction and nonfiction, age range 12-20, not for
+- Young Adult - Teen fiction and nonfiction, age range 12-20, not for
 educational purposes
 
 ## Pricing and Payees
 
-Set price: Fixed List Price
-Price: 19.95 EUR
+- Set price: Fixed List Price
+- Price: 19.95 EUR
 
 Payees for Your Book:
-  Free Software F. Europe e.V.
-  Paypal: finance@fsfe.org
-  Share: 100%
+
+- Free Software F. Europe e.V 
+- Paypal: finance@fsfe.org
+- Share: 100%
