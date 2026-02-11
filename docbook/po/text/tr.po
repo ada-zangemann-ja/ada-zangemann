@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "PO-Revision-Date: 2026-02-11 21:09+0000\n"
-"Last-Translator: Mert Şişmanoğlu <me@mertsismanoglu.com>\n"
+"Last-Translator: Hamdi Gümüş <hamdigumus@tutamail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/fsfe/ada-zangemann/tr/>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
@@ -13,9 +13,10 @@ msgstr ""
 "X-Generator: Weblate 5.16-dev\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
+#, fuzzy
 msgctxt "_"
 msgid "translator-credits"
-msgstr ""
+msgstr "Çevirmen bilgileri"
 
 #. (itstool) path: info/title
 #. (itstool) path: cover/bridgehead
@@ -24,25 +25,25 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:264 Ada_Zangemann.dbk:308 Ada_Zangemann.dbk:498
 msgid "Ada &amp; Zangemann"
-msgstr ""
+msgstr "Ada &amp; Zangemann"
 
 #. (itstool) path: subtitle/phrase
 #. (itstool) path: cover/bridgehead
 #: Ada_Zangemann.dbk:265 Ada_Zangemann.dbk:309
 msgid "A Tale of Software, Skateboards, and Raspberry Ice Cream"
-msgstr ""
+msgstr "Bir Yazılım Hikayesi, Kaykaylar ve Raspberry Ice Cream"
 
 #. (itstool) path: info/author
 #. ignore-same
 #: Ada_Zangemann.dbk:269
 msgid "<personname> <firstname>Matthias</firstname> <surname>Kirschner</surname> </personname>"
-msgstr ""
+msgstr "<personname> <firstname>Matthias</firstname> <surname>Kirschner</surname> </personname>"
 
 #. (itstool) path: info/othercredit
 #. ignore-same
 #: Ada_Zangemann.dbk:275
 msgid "<personname> <firstname>Sandra</firstname> <surname>Brandstätter</surname> </personname>"
-msgstr ""
+msgstr "<personname> <firstname>Sandra</firstname> <surname>Brandstätter</surname> </personname>"
 
 #. (itstool) path: character/charactername
 #. Name must not be changed.
@@ -66,7 +67,7 @@ msgstr "Zangemann"
 #. ignore-same
 #: Ada_Zangemann.dbk:290
 msgid "Alan"
-msgstr ""
+msgstr "Alan"
 
 #. (itstool) path: character/charactername
 #. Character names are mostly reference to existing people in computer
@@ -81,7 +82,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:293
 msgid "Toni"
-msgstr ""
+msgstr "Toni"
 
 #. (itstool) path: character/charactername
 #. Character names are mostly reference to existing people in computer
@@ -96,7 +97,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:296
 msgid "Konrad"
-msgstr ""
+msgstr "Konrad"
 
 #. (itstool) path: character/charactername
 #. Character names are mostly reference to existing people in computer
@@ -111,7 +112,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:299
 msgid "Marie"
-msgstr ""
+msgstr "Marie"
 
 #. (itstool) path: character/charactername
 #. Character names are mostly reference to existing people in computer
@@ -126,7 +127,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:302
 msgid "Ms. Gernet"
-msgstr ""
+msgstr "Gernet"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -146,12 +147,12 @@ msgstr ""
 #. (itstool) id: Ada_Zangemann.dbk#para-back-1
 #: Ada_Zangemann.dbk:334
 msgid "The inventor Zangemann is world-famous and immensely rich. Adults and children alike love his fabulous technical inventions. But one day there is a problem: the children’s electronic skateboards no longer work properly. What’s going on? The curious girl Ada sees through what is going on. Together with her friends, she experiments with hardware and software, and the children forge a plan: Zangemann can no longer be the only one in control of the devices!"
-msgstr ""
+msgstr "Mucit Zangemann dünya çapında ünlüdür ve oldukça zengindir. Yetişkinler de çocuklar da onun muhteşem teknik icatlarını çok sevmektedir. Ama bir gün bir sorun ortaya çıkar ve çocukların elektronik kaykayları artık düzgün çalışmaz olur. Ne olmaktadır? Meraklı bir kız olan Ada, olup biteni fark eder. Arkadaşlarıyla birlikte donanım ve yazılım üzerinde uğraşırlar ve çocuklar bir plan yapar: Zangemann artık cihazların kontrolünü tek başına elinde tutamayacaktır!"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:335
 msgid "A book that arouses interest in tinkering and encourages shaping technology."
-msgstr ""
+msgstr "Üzerinde çalışılması ilgi uyandıran ve teknolojiyi şekillendirmeyi teşvik eden bir kitap."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -164,8 +165,9 @@ msgstr ""
 #. Page before the colophon and the title page, with just the title. Also
 #. know as 'bastard title'.
 #: Ada_Zangemann.dbk:357
+#, fuzzy
 msgid "Half-title page"
-msgstr ""
+msgstr "Kitap Başlığı"
 
 #. (itstool) path: mediaobject/alt
 #. (itstool) path: simplesect/para
@@ -182,7 +184,7 @@ msgstr ""
 #. Also known as 'imprint'
 #: Ada_Zangemann.dbk:370
 msgid "Colophon"
-msgstr ""
+msgstr "Kolofon"
 
 #. (itstool) path: simplesect/literallayout
 #. Smaller colophon to be combined with grey free cultural license
@@ -295,8 +297,9 @@ msgstr ""
 #. Page next to the colophon with title, subtitle, authors and
 #. illustration of Ada’s dog.
 #: Ada_Zangemann.dbk:454
+#, fuzzy
 msgid "Title page"
-msgstr ""
+msgstr "Başlık sayfası"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -336,6 +339,8 @@ msgid ""
 "Matthias Kirschner\n"
 "Sandra Brandstätter"
 msgstr ""
+"Matthias Kirschner\n"
+"Sandra Brandstätter"
 
 #. (itstool) path: simplesect/literallayout
 #. (itstool) id: Ada_Zangemann.dbk#subtitle-titlepage
@@ -347,16 +352,18 @@ msgid ""
 "Software, Skateboards, and\n"
 "Raspberry Ice Cream"
 msgstr ""
+"Bir yazılım hikayesi, Kaykaylar, ve\n"
+"Raspberry Ice Cream"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:502
 msgid "Once upon a time, there was a little girl named Ada. Her family was so poor that all their savings fit inside a cookie jar."
-msgstr ""
+msgstr "Bir zamanlar, Ada adında küçük bir kız vardı. Ailesi o kadar fakirdi ki tüm birikimleri bir kurabiye kavanozuna sığıyordu."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:502
 msgid "They didn’t have enough money to live in a proper home. Instead, Ada lived with her mother and her little brother, Alan, in a cabin near a junkyard on the edge of town."
-msgstr ""
+msgstr "Düzgün bir evde yaşamak için bile yeterli paraları yoktu. Bu yüzden, Ada annesi ve küçük kardeşi Alan ile birlikte kasabanın kenarındaki bir hurdalık yakınındaki bir kulübede yaşıyordu."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -375,57 +382,58 @@ msgstr ""
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:520
 msgid "Far away, at the other end of town, lived a famous inventor named Zangemann. He was immensely rich. No sheet of paper in the world was big enough to show his bank balance with all its numbers and zeros!"
-msgstr ""
+msgstr "Uzaklarda, şehrin diğer ucunda, ünlü bir mucit olan Zangemann yaşıyordu. Son derece zengindi. Dünyada hiçbir kağıt, sahip olduğu parayı tüm sayıları ve sıfırlarıyla gösterecek kadar büyük değildi!"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:520
 msgid "He lived in a huge house with a swimming pool and waterslide, lots of staircases and towers, hundreds of windows, and so many rooms that he often got lost in them himself."
-msgstr ""
+msgstr "Yüzme havuzu ve su kaydırağı, birçok merdiveni ve kulesi, yüzlerce penceresi ve o kadar çok odası olan büyük bir evde yaşıyordu ki sık sık kendisi de orada kayboluyordu."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:520
 msgid "Zangemann’s mansion stood high on a hill. From there, he could look out over the whole city."
-msgstr ""
+msgstr "Zangemann'ın malikanesi bir tepenin yükseklerinde duruyordu. Oradan tüm şehre bakabilirdi."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:525
 msgid "Zangemann and computers"
-msgstr ""
+msgstr "Zangemann ve bilgisayarlar"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:529
 msgid "Computers had fascinated Zangemann ever since he was a child. When he was young, computers were huge machines with lots of cables and loud, noisy fans."
-msgstr ""
+msgstr "Bilgisayarlar, Zangemann'ı çocukluğundan beri büyülemişti. Gençliğinde bilgisayarlar çok sayıda kablo ve gürültülü, yüksek sesli fanları olan devasa makinelerdi."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:529
 msgid "At school, little Zangemann often dreamed of all the things he would do with computers if they were just a little bit smaller — small enough that they could be built into other fun things."
-msgstr ""
+msgstr "Okulda iken küçük Zangemann sık sık bilgisayarlarla yapacağı şeyleri hayal ederdi, mesala eğer bilgisayarlar biraz daha küçük olsaydı - başka eğlenceli şeylere entegre edilebilecek kadar küçük..."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:529
 msgid "He knew what he would do. First, he would build a computer into his skateboard so that it would make cool noises when he rode it — maybe a fire engine siren or the sound of a rocket launch."
-msgstr ""
+msgstr "Ne yapacağını biliyordu. İlk olarak, kaykayına bir bilgisayar yerleştirirdi ki sürerken havalı sesler çıkarabilsin - belki bir itfaiye motoru sireni ya da roket fırlatma sesi."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:529
 msgid "Then he would use a computer to invent ice‑cream-making machines! The computer would mix the coolest flavors and even sell the ice cream."
-msgstr ""
+msgstr "Sonra dondurma makinesi icat etmek için bir bilgisayar kullanırdı! Bilgisayar, en havalı aromaları karıştırıyor ve dondurmayı bile satıyordu."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:529
+#, fuzzy
 msgid "There would be machines on every street corner, and he could get ice cream in his favorite flavor whenever he felt like it, and just as much as he wanted. After that, he’d build a cleaning robot and a block-sorting machine so that his room would always be neat and clean."
-msgstr ""
+msgstr "Her sokak köşesinde makineler olacaktı ve istediği zaman, istediği kadar en sevdiği lezzette dondurma alabilirdi. Daha sonra, odasının her zaman düzenli ve temiz kalması için bir temizlik robotu ve blok ayırma makinesi yapacaktı."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:529
 msgid "Zangemann had great new ideas like these every day. He could think of nothing else."
-msgstr ""
+msgstr "Zangemann, her gün bunun gibi harika yeni fikirlerle dolup taşıyordu. Başka bir şey düşünemiyordu."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:530
 msgid "As the years went by, Zangemann grew bigger and computers got smaller. In fact, by the time he finished school, they were so small they fit in his pocket. The smallest ones even fit on his fingertip."
-msgstr ""
+msgstr "Yıllar geçtikçe Zangemann büyüdü ve bilgisayarlar küçüldü. Aslında, okulu bitirdiğinde bilgisayarlar o kadar küçüktüler ki cebine sığıyordu. En küçük olanlar parmak ucuna bile sığıyordu."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -437,7 +445,7 @@ msgstr ""
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:542
 msgid "“Finally, I can turn all my ideas into real things!” Zangemann exclaimed, and he got right to work. He found ways to put the small computers into all kinds of things to make them even more fun and useful. And then he sold them."
-msgstr ""
+msgstr "\"Sonunda tüm fikirlerimi gerçek nesnelere dönüştürebilirim!\" Zangemann çığlık çığlığa hemen işe koyuldu. Küçük bilgisayarları her türlü eşyanın içine koymanın yollarını buldu, böylece onları daha eğlenceli ve faydalı hale getirdi. Sonrasında onları sattı."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -449,12 +457,12 @@ msgstr ""
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:549
 msgid "Adults and children loved his inventions. All the kids wanted to have one of his skateboards — complete with the latest sounds to show off to their friends at school."
-msgstr ""
+msgstr "Yetişkinler ve çocuklar onun icatlarını çok sevdi. Tüm çocuklar onun kaykaylarından birine (tamamen yeni seslerle birlikte okuldaki arkadaşlarına göstermek için) sahip olmak istiyordu ."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:549
 msgid "Kids also loved his speaker invention, which could instantly play any song you requested."
-msgstr ""
+msgstr "Çocuklar aynı zamanda istenilen şarkıyı o anda çalabilen hoparlör icadını da çok sevdi."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:549
