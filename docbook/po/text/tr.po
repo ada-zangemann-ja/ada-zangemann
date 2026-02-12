@@ -1,12 +1,11 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
-"POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-02-10 20:01+0000\n"
-"Last-Translator: Øjvind Fritjof Arnfred <fritjof@mencagli-arnfred.dk>\n"
-"Language-Team: Danish <https://hosted.weblate.org/projects/fsfe/ada-zangemann/da/>\n"
-"Language: da\n"
+"PO-Revision-Date: 2026-02-11 21:09+0000\n"
+"Last-Translator: Hamdi Gümüş <hamdigumus@tutamail.com>\n"
+"Language-Team: Turkish <https://hosted.weblate.org/projects/fsfe/ada-zangemann/tr/>\n"
+"Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -14,9 +13,10 @@ msgstr ""
 "X-Generator: Weblate 5.16-dev\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
+#, fuzzy
 msgctxt "_"
 msgid "translator-credits"
-msgstr "Øjvind Fritjof Arnfred, 2024, 2025"
+msgstr "Çevirmen bilgileri"
 
 #. (itstool) path: info/title
 #. (itstool) path: cover/bridgehead
@@ -25,13 +25,13 @@ msgstr "Øjvind Fritjof Arnfred, 2024, 2025"
 #. ignore-same
 #: Ada_Zangemann.dbk:264 Ada_Zangemann.dbk:308 Ada_Zangemann.dbk:498
 msgid "Ada &amp; Zangemann"
-msgstr "Ada og Zangemann"
+msgstr "Ada &amp; Zangemann"
 
 #. (itstool) path: subtitle/phrase
 #. (itstool) path: cover/bridgehead
 #: Ada_Zangemann.dbk:265 Ada_Zangemann.dbk:309
 msgid "A Tale of Software, Skateboards, and Raspberry Ice Cream"
-msgstr "En fortælling om software, skateboards og hindbæris"
+msgstr "Bir Yazılım Hikayesi, Kaykaylar ve Raspberry Ice Cream"
 
 #. (itstool) path: info/author
 #. ignore-same
@@ -127,7 +127,7 @@ msgstr "Marie"
 #. ignore-same
 #: Ada_Zangemann.dbk:302
 msgid "Ms. Gernet"
-msgstr "Ms. Gernet"
+msgstr "Gernet"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -147,12 +147,12 @@ msgstr ""
 #. (itstool) id: Ada_Zangemann.dbk#para-back-1
 #: Ada_Zangemann.dbk:334
 msgid "The inventor Zangemann is world-famous and immensely rich. Adults and children alike love his fabulous technical inventions. But one day there is a problem: the children’s electronic skateboards no longer work properly. What’s going on? The curious girl Ada sees through what is going on. Together with her friends, she experiments with hardware and software, and the children forge a plan: Zangemann can no longer be the only one in control of the devices!"
-msgstr "Opfinderen Zangemann er verdensberømt og ufatteligt rig. Både børn og voksne elsker hans fantastiske opfindelser. Men en dag er der problemer: børnenes elektroniske skateboards virker ikke længere som de skal. Hvad er det der sker? - Den nysgerrige pige Ada gennemskuer problemet. Sammen med sine venner eksperimenterer hun med hardware og software, og børnene lægger en plan: Zangemann skal ikke være den eneste der bestemmer over teknologien!"
+msgstr "Mucit Zangemann dünya çapında ünlüdür ve oldukça zengindir. Yetişkinler de çocuklar da onun muhteşem teknik icatlarını çok sevmektedir. Ama bir gün bir sorun ortaya çıkar ve çocukların elektronik kaykayları artık düzgün çalışmaz olur. Ne olmaktadır? Meraklı bir kız olan Ada, olup biteni fark eder. Arkadaşlarıyla birlikte donanım ve yazılım üzerinde uğraşırlar ve çocuklar bir plan yapar: Zangemann artık cihazların kontrolünü tek başına elinde tutamayacaktır!"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:335
 msgid "A book that arouses interest in tinkering and encourages shaping technology."
-msgstr "En bog der stimulerer den indre pilfinger og opmuntrer børn i alle aldre til at forme teknologierne omkring dem."
+msgstr "Üzerinde çalışılması ilgi uyandıran ve teknolojiyi şekillendirmeyi teşvik eden bir kitap."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -165,8 +165,9 @@ msgstr ""
 #. Page before the colophon and the title page, with just the title. Also
 #. know as 'bastard title'.
 #: Ada_Zangemann.dbk:357
+#, fuzzy
 msgid "Half-title page"
-msgstr "Smudstitelblad"
+msgstr "Kitap Başlığı"
 
 #. (itstool) path: mediaobject/alt
 #. (itstool) path: simplesect/para
@@ -177,7 +178,7 @@ msgstr "Smudstitelblad"
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:364 Ada_Zangemann.dbk:490
 msgid "ADA &amp; ZANGEMANN"
-msgstr "ADA &amp; ZANGEMANN"
+msgstr ""
 
 #. (itstool) path: info/title
 #. Also known as 'imprint'
@@ -296,8 +297,9 @@ msgstr ""
 #. Page next to the colophon with title, subtitle, authors and
 #. illustration of Ada’s dog.
 #: Ada_Zangemann.dbk:454
+#, fuzzy
 msgid "Title page"
-msgstr "Titelblad"
+msgstr "Başlık sayfası"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -313,21 +315,21 @@ msgstr ""
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:468
 msgid "Matthias Kirschner, Sandra Brandstätter"
-msgstr "Matthias Kirschner, Sandra Brandstätter"
+msgstr ""
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:478
 msgid "ADA &amp; ZANGEMANN - A Tale of Software, Skateboards and Raspberry Ice Cream. Title in the middle, authors in the upper left."
-msgstr "ADA &amp; ZANGEMANN - En fortælling of software, skateboards og hindbæris. Titel i midten, ophavspersoneners navne øverst til venstre."
+msgstr ""
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:485
 msgid "In the lower right, Ada’s family’s dog with gray fur and some white patches and with a red collar with shiny yellow LEDs, which wags its tail."
-msgstr "I nederste højre hjørne, Adas families hund med hvidplettet grå pels og et rødt halsbånd der har skinnende gule LED pærer. Den logrer med sin hale."
+msgstr ""
 
 #. (itstool) path: simplesect/literallayout
 #. In a literallayout element all space and newline characters are kept.
@@ -350,26 +352,25 @@ msgid ""
 "Software, Skateboards, and\n"
 "Raspberry Ice Cream"
 msgstr ""
-"En Fortælling om\n"
-"Software, Skateboards og\n"
-"Hindbæris"
+"Bir yazılım hikayesi, Kaykaylar, ve\n"
+"Raspberry Ice Cream"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:502
 msgid "Once upon a time, there was a little girl named Ada. Her family was so poor that all their savings fit inside a cookie jar."
-msgstr "Der var en gang en lille pige som hed Ada. Hendes familie var så fattig, at hele deres opsparing kunne være i en kagedåse."
+msgstr "Bir zamanlar, Ada adında küçük bir kız vardı. Ailesi o kadar fakirdi ki tüm birikimleri bir kurabiye kavanozuna sığıyordu."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:502
 msgid "They didn’t have enough money to live in a proper home. Instead, Ada lived with her mother and her little brother, Alan, in a cabin near a junkyard on the edge of town."
-msgstr "De havde ikke penge nok til et ordentligt hus. I stedet boede Ada sammen med sin mor og lillebror Alan i en hytte tæt på en losseplads i udkanten af byen."
+msgstr "Düzgün bir evde yaşamak için bile yeterli paraları yoktu. Bu yüzden, Ada annesi ve küçük kardeşi Alan ile birlikte kasabanın kenarındaki bir hurdalık yakınındaki bir kulübede yaşıyordu."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:510
 msgid "Ada in foreground leaving the house to go to school, in the background Ada’s house and the junkyard. Ada has a brown backpack with yellow shoulder straps. To the left of Ada there is a red car, a Volkswagen Beetle, without wheels and no longer working, with one of the headlights remaining attached only with its wires. On the left, in front of the car, there are two tires, two boxes – one of which is a wooden box with an overturned bucket –, and an empty can, all among some plants with yellow flowers. In the background there is Ada’s house, with her mother and her brother Alan waving goodbye, and the dog sitting on the ground. Alan is sitting on the two entrance steps of the house. He has short dark hair and is dressed in a white short-sleeved shirt with a red stripe at the edges of the sleeves and two red stripes at the bottom of the shirt. Alan wears blue shorts and he is barefoot. Ada’s mom has dark lipstick and long black hair in a white headband. She is wearing a short blue shirt with white trim, white pants, and yellow shoes. Ada’s house is built of wood, with the front being white. The roof is dark red corrugated sheeting. There are two windows in front in addition to the door, and another window on the left side. A yellow duck stands on top of the roof, while a gray chimney protrudes. An antenna on the left of the roof supports a clothesline on which red clothespins hold a green tank top, a pair of light blue pants, and white underpants. To the right of the house there is a veranda on which there is installed a solar panel. Under the veranda there are a mattress, a red oil drum, and a gray case. Behind the house there are piles of landfill objects among which you can see a washing machine, a car, and various wooden boards."
-msgstr "Ada i forgrunden, på vej til skole. I baggrunden Adas hus og skrotpladsen. Ada her en brun rygsæk med gule skulderstropper. Til venstre for Ada er der en rød bil, en Volkswagen Beetle, uden hjul og ude af drift, med kun een forlygte tilbage, hængende i en ledning. På venstre siden, foran bilen er der to dæk, to kasser - den ene af træ, med en kvadret dåse i - og en tom spand. Alt står hulter til bulter mellem planter og gule blomster. I døren til Adas hus i baggrunden, står hendes mor og vinker farvel, og hunden sidder på jorden viden siden af. Adas lillebror Alan sidder på trappestenen op til husets dør og vinker, han er barfodet og har blå shorts på. Adas mor har rød læbestift og langt sort hår, holdt oppe med et hvidt hårbånd. Hun er en kort blå skjorte på, med hvide kanter, hvide bukser og gule sko. Adas hus er bygget af træ med hvid facade. Taget er af mørkerøde bølgeplader. Facaden har to vinduer og en dør. På venstre side af huset er der endnu et vindue. På taget stikker en grå skorsten op, som der står en gul and ved siden af. En antenne til venstre på taget understøtter en snor med vasketøj hvorpå der hænger en grøn top, et par lyseblå bukser og et par hvide underbukser. Til højre for huset er der en veranda med et solcellepanel på. Omkring verandaen ligger der madrasser, en rød olietønde og en grå kasse. Bag huset er der bjerge af skrot, blandt andet en vaskemaskine, en bil og forskellige træplader."
+msgstr ""
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -381,57 +382,58 @@ msgstr ""
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:520
 msgid "Far away, at the other end of town, lived a famous inventor named Zangemann. He was immensely rich. No sheet of paper in the world was big enough to show his bank balance with all its numbers and zeros!"
-msgstr "Langt væk, i den anden ende af byen, boede der en berømt opfinder ved navn Zangemann. Han var helt enormt rig. Der fandtes ikke et stykke papir i hele verden der var stort nok til at man kunne skrive på det hvor mange penge han havde. Ikke engang hvis man skrev tallet med småt!"
+msgstr "Uzaklarda, şehrin diğer ucunda, ünlü bir mucit olan Zangemann yaşıyordu. Son derece zengindi. Dünyada hiçbir kağıt, sahip olduğu parayı tüm sayıları ve sıfırlarıyla gösterecek kadar büyük değildi!"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:520
 msgid "He lived in a huge house with a swimming pool and waterslide, lots of staircases and towers, hundreds of windows, and so many rooms that he often got lost in them himself."
-msgstr "Zangemann boede i et kæmpestort hus med en svømmepøl og en vandrutchebane, massevis af trapper og tårne, hundredevis af vinduer og så mange værelser, at han selv tit for vild i dem."
+msgstr "Yüzme havuzu ve su kaydırağı, birçok merdiveni ve kulesi, yüzlerce penceresi ve o kadar çok odası olan büyük bir evde yaşıyordu ki sık sık kendisi de orada kayboluyordu."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:520
 msgid "Zangemann’s mansion stood high on a hill. From there, he could look out over the whole city."
-msgstr "Hans palæ stod på en høj bakke. Derfra kunne han se ud over hele byen."
+msgstr "Zangemann'ın malikanesi bir tepenin yükseklerinde duruyordu. Oradan tüm şehre bakabilirdi."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:525
 msgid "Zangemann and computers"
-msgstr "Zangemann og computere"
+msgstr "Zangemann ve bilgisayarlar"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:529
 msgid "Computers had fascinated Zangemann ever since he was a child. When he was young, computers were huge machines with lots of cables and loud, noisy fans."
-msgstr "Zangemann havde været fascineret af computere, siden han var barn. Da han var ung, var computere store maskiner med masser af kabler og støjende blæsere."
+msgstr "Bilgisayarlar, Zangemann'ı çocukluğundan beri büyülemişti. Gençliğinde bilgisayarlar çok sayıda kablo ve gürültülü, yüksek sesli fanları olan devasa makinelerdi."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:529
 msgid "At school, little Zangemann often dreamed of all the things he would do with computers if they were just a little bit smaller — small enough that they could be built into other fun things."
-msgstr "I skolen drømte lille Zangemann ofte om alle de ting, han ville gøre med computere, hvis de bare var en lille smule mindre. Så små, at de kunne bygges ind i andre sjove ting."
+msgstr "Okulda iken küçük Zangemann sık sık bilgisayarlarla yapacağı şeyleri hayal ederdi, mesala eğer bilgisayarlar biraz daha küçük olsaydı - başka eğlenceli şeylere entegre edilebilecek kadar küçük..."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:529
 msgid "He knew what he would do. First, he would build a computer into his skateboard so that it would make cool noises when he rode it — maybe a fire engine siren or the sound of a rocket launch."
-msgstr "Han vidste lige, hvad han ville gøre med dem. Først ville han bygge en computer ind i sit skateboard, så det kunne sige seje lyde, når han kørte på det - måske lyde som en brandbil eller en raket."
+msgstr "Ne yapacağını biliyordu. İlk olarak, kaykayına bir bilgisayar yerleştirirdi ki sürerken havalı sesler çıkarabilsin - belki bir itfaiye motoru sireni ya da roket fırlatma sesi."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:529
 msgid "Then he would use a computer to invent ice‑cream-making machines! The computer would mix the coolest flavors and even sell the ice cream."
-msgstr "Så ville han bruge en computer til at opfinde maskiner, der kunne lave is! Computeren skulle blande de bedste smage og endda sælge isen."
+msgstr "Sonra dondurma makinesi icat etmek için bir bilgisayar kullanırdı! Bilgisayar, en havalı aromaları karıştırıyor ve dondurmayı bile satıyordu."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:529
+#, fuzzy
 msgid "There would be machines on every street corner, and he could get ice cream in his favorite flavor whenever he felt like it, and just as much as he wanted. After that, he’d build a cleaning robot and a block-sorting machine so that his room would always be neat and clean."
-msgstr "Maskinerne skulle stå på hvert gadehjørne, og han ville kunne få sin yndlingsis, lige når han ville, og lige så meget af den som han ville. Bagefter ville han bygge en rengøringsrobot og en robot, der kunne sortere byggeklodser, så der altid ville være ryddet op på hans værelse."
+msgstr "Her sokak köşesinde makineler olacaktı ve istediği zaman, istediği kadar en sevdiği lezzette dondurma alabilirdi. Daha sonra, odasının her zaman düzenli ve temiz kalması için bir temizlik robotu ve blok ayırma makinesi yapacaktı."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:529
 msgid "Zangemann had great new ideas like these every day. He could think of nothing else."
-msgstr "Hver eneste dag fik Zangemann den slags nye gode ideer. Det var det eneste, han kunne tænke på."
+msgstr "Zangemann, her gün bunun gibi harika yeni fikirlerle dolup taşıyordu. Başka bir şey düşünemiyordu."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:530
 msgid "As the years went by, Zangemann grew bigger and computers got smaller. In fact, by the time he finished school, they were so small they fit in his pocket. The smallest ones even fit on his fingertip."
-msgstr "Årene gik, Zangemann blev større, og computerne blev mindre. Faktisk blev de så små, at da han var færdig med at gå i skole, kunne de være i hans lomme. De allermindste kunne endda være på spidsen af hans finger."
+msgstr "Yıllar geçtikçe Zangemann büyüdü ve bilgisayarlar küçüldü. Aslında, okulu bitirdiğinde bilgisayarlar o kadar küçüktüler ki cebine sığıyordu. En küçük olanlar parmak ucuna bile sığıyordu."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -443,7 +445,7 @@ msgstr ""
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:542
 msgid "“Finally, I can turn all my ideas into real things!” Zangemann exclaimed, and he got right to work. He found ways to put the small computers into all kinds of things to make them even more fun and useful. And then he sold them."
-msgstr "“Endelig kan jeg gøre alle mine ideer til virkelighed!”, udbrød Zangemann og gik straks i gang med arbejdet. Han fandt måder at putte de små computere ind i alle slags ting for at gøre dem endnu sjovere og mere brugbare. Og så solgte han dem."
+msgstr "\"Sonunda tüm fikirlerimi gerçek nesnelere dönüştürebilirim!\" Zangemann çığlık çığlığa hemen işe koyuldu. Küçük bilgisayarları her türlü eşyanın içine koymanın yollarını buldu, böylece onları daha eğlenceli ve faydalı hale getirdi. Sonrasında onları sattı."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -455,22 +457,22 @@ msgstr ""
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:549
 msgid "Adults and children loved his inventions. All the kids wanted to have one of his skateboards — complete with the latest sounds to show off to their friends at school."
-msgstr "Børn og voksne elskede hans opfindelser. Alle børnene ville have et af hans skateboards med de seneste lyde indbygget, så de kunne vise dem til deres venner i skolen."
+msgstr "Yetişkinler ve çocuklar onun icatlarını çok sevdi. Tüm çocuklar onun kaykaylarından birine (tamamen yeni seslerle birlikte okuldaki arkadaşlarına göstermek için) sahip olmak istiyordu ."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:549
 msgid "Kids also loved his speaker invention, which could instantly play any song you requested."
-msgstr "De var også vilde med hans smarte højtalere, der kunne spille lige den sang, man ønskede sig."
+msgstr "Çocuklar aynı zamanda istenilen şarkıyı o anda çalabilen hoparlör icadını da çok sevdi."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:549
 msgid "And, of course, everyone loved the ice cream served every afternoon from the automatic, extra-delicious Original Zangemann Ice Cream Machine."
-msgstr "Og selvfølgelig var alle helt vilde med den is, der blev serveret hver eftermiddag fra den automatiske ekstralækre Originale Zangemann Ismaskine."
+msgstr ""
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:549
 msgid "It all seemed like magic, but the secret was simple: the little computers that Zangemann built into his machines made it all possible."
-msgstr "Det var som magi, men i virkeligheden var det hele meget simpelt: det var de små computere, som Zangemann byggede ind i sine maskiner, der gjorde det hele muligt."
+msgstr ""
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -490,68 +492,68 @@ msgstr ""
 #. Sentence continues in next string.
 #: Ada_Zangemann.dbk:564
 msgid "These inventions were very popular at Ada’s school, and many of her friends rode around on the cool skateboards. Ada was often sad, since her mother couldn’t buy her any of those great things:"
-msgstr "Opfindelserne var også meget populære på Adas skole. Mange af hendes venner kørte rundt på de seje skateboards. Ada var tit ked af det, fordi hendes mor ikke havde råd til nogen af de fantastiske ting:"
+msgstr ""
 
 #. (itstool) path: para/phrase
 #. Continuation of the sentence.
 #: Ada_Zangemann.dbk:564
 msgid "no skateboard, no speakers, no ice cream."
-msgstr "Hverken skateboard, højtalere eller is."
+msgstr ""
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:566
 msgid "Luckily, Ada lived right next to the junkyard. There were lots of broken gadgets and rusty parts, which she put together to make cool new things, like a soapbox she and Alan rode roaring down the hill, a windmill, and scary junk monsters, which she and Alan would fight together."
-msgstr "Heldigvis boede Ada lige ved siden af lossepladsen. Der var masser af ødelagte apparater og rustne reservedele, som hun byggede seje ting med: en sæbekassebil, som hun og lillebror Alan kørte ned af bakken i; og en vindmølle og nogle uhyggelige skraldemonstre, som de sammen kunne slås mod."
+msgstr ""
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:566
 msgid "She also found many useful items—an old cell phone, for example. The screen was cracked, but she could fix that, and while there wasn’t internet at the junkyard, she could get access somewhere else."
-msgstr "Hun fandt også mange ting, der stadig fungerede: En gammel mobiltelefon, for eksempel. Skærmen var smadret, men det kunne hun ordne. Der var godt nok ikke noget internet på lossepladsen, men det kunne hun få adgang til andre steder."
+msgstr ""
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:567
 msgid "Ada had so much fun tinkering in the junkyard and fixing broken things that she forgot all about the skateboards and the ice cream."
-msgstr "Ada havde det så sjovt med at rode på lossepladsen og fikse ødelagte ting, at hun glemte alt om skateboardsene og isen."
+msgstr ""
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:571
 msgid "Because everyone bought his inventions, Zangemann soon became the richest person in the whole world."
-msgstr "Alle købte hans opfindelser, så Zangemann blev hurtigt den rigeste person i hele verden."
+msgstr ""
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:571
 msgid "With all his money, he bought a huge golden computer with a keyboard made of jewels and set it up in the largest room of his mansion."
-msgstr "Med alle sine penge købte han en computer af guld med et tastatur af diamanter, som han stillede op midt i det største rum i sit hus."
+msgstr ""
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:571
 msgid "From there, over the internet, he could control all the little computers built into his inventions."
-msgstr "Derfra kunne han via internettet kontrollere alle de små computere, der var bygget ind i hans opfindelser."
+msgstr ""
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:572
 msgid "All he had to do was press the proper key on the golden computer, and immediately all the ice-cream machines in town would dispense only vanilla ice cream."
-msgstr "Det eneste, han skulle gøre, var at trykke på den rigtige knap på den gyldne computer, og så ville alle ismaskinerne i byen kun lave vaniljeis."
+msgstr ""
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:572
 msgid "If Zangemann wanted people to eat chocolate ice cream, he pressed the key for chocolate ice cream."
-msgstr "Hvis Zangemann ville have, at folk skulle spise chokoladeis i stedet, trykkede han bare på chokoladeisknappen."
+msgstr ""
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:572
 msgid "If he gave the order for lemon ice cream, the machines made only lemon ice cream."
-msgstr "Hvis han gav ordre om kun at lave citronis, lavede maskinerne kun citronis."
+msgstr ""
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:572
 msgid "Zangemann loved his inventions and was always thrilled at how amazingly well his machines worked."
-msgstr "Zangemann elskede sine opfindelser og var altid begejstret over at se, hvor godt hans maskiner virkede."
+msgstr ""
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:572
 msgid "Sometimes people were disappointed when their favorite flavor wasn’t available, but what could they do? After all, there was ice cream on every street corner."
-msgstr "En gang imellem var folk skuffede, hvis deres favoritsmag ikke var tilgængelig, men hvad kunne de gøre? Man kunne trods alt få is på hvert gadehjørne."
+msgstr ""
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -563,17 +565,17 @@ msgstr ""
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:581
 msgid "Zangemann had a lot of fun pressing the sparkling keys and watching people eat ice cream."
-msgstr "Zangemann havde det sjovt med at trykke på de skinnende knapper og se folk spise is."
+msgstr ""
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:581
 msgid "He spent many hours every day in front of his golden computer doing this."
-msgstr "Hver dag brugte han mange timer på det foran sin gyldne computer."
+msgstr ""
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:581
 msgid "Again and again, he looked down on the city through a long telescope, observing how reliably his inventions carried out his commands."
-msgstr "Igen og igen kiggede han ned på byen igennem et langt teleskop og så, hvor trofast hans opfindelser udførte de ordrer, han gav dem."
+msgstr ""
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -585,27 +587,27 @@ msgstr ""
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "When he wasn’t sitting at his golden computer, Zangemann was building his little computers into new devices and then selling those."
-msgstr "Når han ikke sad ved sin gyldne computer, byggede Zangemann sine små computere ind i nye ting, og så solgte han dem."
+msgstr ""
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "He built washing machines that sent a message to your cell phone when your laundry was done."
-msgstr "Han byggede vaskemaskiner, der sendte en besked til din mobiltelefon,"
+msgstr ""
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "He made vacuums that played happy music instead of droning loudly."
-msgstr "når din vask var færdig, støvsugere der spillede musik i stedet for at brumme højlydt,"
+msgstr ""
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "He invented light bulbs that turned on and off at the snap of a finger"
-msgstr "elpærer der tændte og slukkede, når man knipsede med fingrene"
+msgstr ""
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "and cars that told you where the nearest grocery store was."
-msgstr "og biler, der kunne fortælle dig, hvor det nærmeste supermarked lå."
+msgstr ""
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -617,29 +619,29 @@ msgstr ""
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:598
 msgid "Soon, almost every appliance in the world had a Zangemann computer built into it."
-msgstr "Snart var der en Zangemann-computer i næsten hvert eneste elektroniske apparat i hele verden."
+msgstr ""
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:598
 msgid "Not all of his inventions seemed necessary at first, but people bought everything he made. That’s just the way it was. Everyone wanted the devices made by Zangemann, the greatest inventor in the world."
-msgstr "Det var ikke alle hans opfindelser der virkede helt nødvendige til at begynde med, men folk købte alt, hvad han lavede. Det var bare sådan det var. Alle ville have de apparater, som Zangemann, den største opfinder i verden, lavede."
+msgstr ""
 
 #. (itstool) path: info/title
 #. Intended as 'on a day', not 'a single day'. This is supposed to be
 #. equal to the beginning of the first sentence of this chapter.
 #: Ada_Zangemann.dbk:603
 msgid "One day..."
-msgstr "En dag..."
+msgstr ""
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:606
 msgid "One day Zangemann thought, “Today I want to see my inventions up close.”"
-msgstr "En dag tænkte Zangemann: “I dag vil jeg se mine opfindelser tæt på.”"
+msgstr ""
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:606
 msgid "He put away his big telescope, then climbed down the many stairs of his mansion and ventured out into the city, full of anticipation at the thought of enjoying his cool devices."
-msgstr "Han lagde sit store teleskop væk og gik fuld af forventning ned af de mange trapper, der var fra hans hus og ned til gaden, for at komme ud i byen og nyde sine seje apparater."
+msgstr ""
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -651,17 +653,17 @@ msgstr ""
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:615
 msgid "“Maybe a little trip might even give me a few new ideas. If I’m completely honest, my last inventions weren’t quite as useful as the first ones... ,” Zangemann pondered."
-msgstr "“Måske kan en lille tur endda give mig et par nye ideer. Hvis jeg skal være helt ærlig, var mine sidste opfindelser ikke helt så brugbare som de første…”, tænkte Zangemann."
+msgstr ""
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:615
 msgid "“But my ice-cream machines are and will remain second to none,” he thought immediately afterward, and not without pride, as he passed a group of people all eating coconut ice cream, the flavor of the day."
-msgstr "“Men mine ismaskiner er og bliver uforlignelige,” tænkte han lige bagefter med en vis stolthed, da han gik forbi en gruppe mennesker, der alle sammen stod og spiste kokosis, som var dagens smag."
+msgstr ""
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:617
 msgid "He was completely absorbed in his thoughts when suddenly — BAM! — something crashed into his shin."
-msgstr "Han var helt opslugt af sine egne tanker, da pludselig - BUMP! - noget kørte ind i hans skinneben for fuld kraft."
+msgstr ""
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -673,32 +675,32 @@ msgstr ""
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:626
 msgid "Zangemann yelped and looked around for the cause. A startled child stood in front of him, holding an original Zangemann skateboard under his arm."
-msgstr "Zangemann gav et vræl fra sig og så sig om. Et skræmt barn stod foran ham med et originalt Zangemann-skateboard under armen."
+msgstr ""
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:626
 msgid "“Sorry, I didn’t mean to do that,” the child stammered, but Zangemann wasn’t listening."
-msgstr "“Undskyld, det var ikke med vilje,” fremstammede barnet, men Zangemann hørte ikke efter."
+msgstr ""
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:627
 msgid "An angry Zangemann limped away. Suddenly, he heard loud music. He had never before heard something so horrible."
-msgstr "Den vrede Zangemann humpede væk. Pludselig kunne han høre høj musik. Han havde aldrig hørt noget så skrækkeligt."
+msgstr ""
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:627
 msgid "He looked around and saw that the music was coming from a loudspeaker he himself had constructed."
-msgstr "Han så sig om og fandt ud af, at musikken kom fra en højtaler, som han selv havde udviklet."
+msgstr ""
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:627
 msgid "A child across the street was holding it. The child seemed to like the music, but it gave Zangemann a terrible headache, and his mood worsened."
-msgstr "Et barn på den anden side af gaden havde den i hånden. Barnet så ud til at nyde musikken, men den gav Zangemann en forfærdelig hovedpine, og hans humør blev dårligere."
+msgstr ""
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:627
 msgid "This was not how he had imagined his walk!"
-msgstr "Det var ikke sådan her, han havde forestillet sig sin gåtur!"
+msgstr ""
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -710,46 +712,46 @@ msgstr ""
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:637
 msgid "Zangemann was so furious with the two children. How dare they use his inventions this way? That night, he couldn’t sleep, so he sat down at his golden computer."
-msgstr "Zangemann var vildt irriteret på de to børn. Hvordan kunne de bruge hans opfindelser så forkert? Den nat kunne han ikke sove, så han satte sig ved sin gyldne computer."
+msgstr ""
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:637
 msgid "From there, he gave all the little computers in the skateboards a command that they were no longer allowed to go on sidewalks."
-msgstr "Derfra sendte han en kommando ud til alle de små computere i skateboardsene om, at de ikke længere måtte køre på fortovene."
+msgstr ""
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:637
 msgid "He ordered the small computers in the speakers to play music only at a low volume, except for his favorite music, which he immediately turned on to get into a better mood."
-msgstr "Han fik også de små computere i højtalerne til at skrue ned til lav volumen, bortset fra når det var hans yndlingsmusik, som han straks satte på for at komme i bedre humør."
+msgstr ""
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:642
 msgid "The city in the evening, with houses, a church, and two streetlights. Images emerge from the dwellings illustrating Zangemann’s inventions bought by the inhabitants: a washing machine, a yellow vacuum cleaner, and a red car, all with Internet connection signals."
-msgstr "Byen om aftenen med huse, en kirke og to gadelamper. Billed-bobler kommer op fra husene med illustrationer af de af Zangemanns opfindelser, folk har købt: en vaskemaskine, en gul støvsuger, en rød bil. Alle tingene har internet-signal streger ud fra sig."
+msgstr ""
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:650
 msgid "Continuation of the previous picture, where in the background there is the hill with Zangemann’s house from whose antenna come the signals to control the various devices. In emerging images there are: a red electric skateboard, a light bulb, an ice cream machine, and a toilet, all of which are receiving commands from Zangemann."
-msgstr "Fortsættelse af det forrige billede, hvor man i baggrunden kan se bakken med Zangemanns hus, hvorpå der står en antenne der sender signaler ud til de forskellige enheder. I billed-boblerne på denne side er der: et rødt elektrisk skateboard, en lyspære, en ismaskine og et toilet. Alle modtager kommandoer fra Zangemann."
+msgstr ""
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:656
 msgid "Skateboards no longer work"
-msgstr "Skateboards virker ikke længere"
+msgstr ""
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:660
 msgid "The next day, there was a big commotion at Ada’s school. On the way to school, the kids’ skateboards had stopped working. The wheels simply stood still."
-msgstr "Næste dag var der stor opstandelse på Adas skole. På vej til skole var børnenes skateboards holdt op med at virke. Hjulene stod simpelthen stille."
+msgstr ""
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:660
 msgid "And the children could no longer turn up the volume on their speakers. What was going on?"
-msgstr "Og så var der højtalerne: børnene kunne ikke længere skrue op for dem. Hvad foregik der?"
+msgstr ""
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -761,22 +763,22 @@ msgstr ""
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:669
 msgid "Although she didn’t own any of these things, Ada wondered why the skateboards and the speakers suddenly stopped working."
-msgstr "Selv om hun ikke ejede nogen af tingene selv, undrede Ada sig over, hvordan det kunne være, at skateboardsene og højtalerne pludselig holdt op med at virke."
+msgstr ""
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:669
 msgid "But she didn’t really have time to think much about it, because she was tinkering again."
-msgstr "Men hun havde ikke tid til at spekulere for meget over det, for hun var i gang med at skrue på lossepladsen igen."
+msgstr ""
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:669
 msgid "She put together a complete bicycle from the parts of three broken bicycles. She gave the bicycle to her mother as a present so that she wouldn’t have to spend her money on bus tickets to work."
-msgstr "Hun byggede en cykel som en gave til sin mor, så hun ikke skulle bruge penge på at tage bussen til arbejdet."
+msgstr ""
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:669
 msgid "For her brother, Ada built a loudspeaker so he could fall asleep to nice stories in the evenings when their mother was still at work."
-msgstr "Og til sin bror byggede hun en højtaler, så han kunne lytte til rare godnathistorier om aftenen, når han skulle sove og deres mor stadig var på arbejde."
+msgstr ""
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -788,38 +790,38 @@ msgstr ""
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:677
 msgid "After a few days, the initial shock at Ada’s school was forgotten. The skateboards still didn’t go on the sidewalk, but apart from that, they still worked."
-msgstr "Efter et par dage var opstandelsen på Adas skole glemt igen. Skateboardsene kunne stadig ikke køre på fortovet, men bortset fra det virkede de endnu."
+msgstr ""
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:677
 msgid "And so now the children rode in circles around the playground and listened to soft music."
-msgstr "Så nu kørte børnene rundt i cirkler på legepladsen og lyttede til stille musik."
+msgstr ""
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:677
 msgid "Only a strange, pompous marching music continued to play at an unchanged volume, which the children found rather puzzling."
-msgstr "Det eneste, der blev afspillet ved en uændret styrke, var en sær pompøs marchmusik, som børnene undrede sig noget over."
+msgstr ""
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:682
 msgid "Ada and software"
-msgstr "Ada og software"
+msgstr ""
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p20-1
 #: Ada_Zangemann.dbk:686
 msgid "Ada loved Wednesdays. Every Wednesday, her mother and Alan would pick her up from school, and they would all go to the library together. Ada was always drawn to the technology section. There were books with blueprints, instructions for experiments, and explanations of how different devices worked. In the library, Ada could also go online with her cell phone. She quickly realized that there was also much to discover on the internet. There, many people shared their ideas and repair tips to help others."
-msgstr "Adas yndlingsdag var onsdag. Hver onsdag kom hendes mor og Alan og hentede hende fra skolen, og så gik de alle tre på biblioteket sammen. Ada gik altid direkte over i teknikafdelingen. Der stod der bøger med arbejdstegninger, instruktioner og eksperimenter og forklaringer på, hvordan forskellige apparater virkede. På biblioteket kunne Ada også komme online med sin mobiltelefon. Hun fandt snart ud af, at der også var meget at gå på opdagelse i på internettet. Der var masser af mennesker, der delte deres ideer og reparationsfif med andre."
+msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:687
 msgid "On one of those afternoons, Ada learned two new words: hardware and software. Hardware was a word for something Ada already knew: the electronic devices she tinkered with after school, or those devices she could hold in her hands and try to fix or make into something else. What was completely new to Ada was the word software. She soon learned that it meant instructions that ran on a computer to control other devices or computers. Some books called those instructions programs or code. With such a computer program, one could, for example, tell a loudspeaker which song to play and how loud."
-msgstr "Det var sådan en onsdag eftermiddag, at Ada lærte to nye ord: “hardware” og “software”. “Hardware” var et ord for noget Ada allerede kendte godt. Det var de elektroniske apparater, som hun kunne holde i sine hænder og prøve at reparere eller bygge nye ting med. Ordet “software” var til gengæld helt nyt for hende. Hun fandt snart ud af, at det betød “de instruktioner, som kører på en computer og lader den styre andre computere eller apparater”. Nogle bøger kaldte softwareinstruktionerne for “programmer” eller “kode”. Med sådan et computerprogram kunne man for eksempel fortælle en højtaler, hvilken sang den skulle spille og hvor højt den skulle gøre det."
+msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:688
 msgid "The best thing about Ada’s new discovery was realizing that she could tinker with software just as she could with hardware. Hardware is built with tools — hammers, drills, and screws. Software is built simply by writing down the commands for the hardware, one after the other. There was a separate language for this — the programming language. With software, Ada could make her inventions even more useful. She really wanted to learn the programming language!"
-msgstr "Det bedste ved Adas nye opdagelse var, at hun fandt ud af, at hun kunne arbejde med software, præcis ligesom hun kunne arbejde med hardware. Hardware er bygget med værktøj som hamre, bor og skruer. Software blev bygget ved, at man skrev kommandoerne til hardwaren ned en efter en. Der fandtes et særligt sprog til det - programmeringssproget. Med software kunne Ada gøre sine opfindelser endnu mere brugbare. Hun ville virkelig gerne lære det programmeringssprog!"
+msgstr ""
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -831,28 +833,28 @@ msgstr ""
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:701
 msgid "Programming"
-msgstr "Programmering"
+msgstr ""
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p22-1
 #: Ada_Zangemann.dbk:705
 msgid "Over the next few weeks, Ada spent her afternoons in the library. She found books and websites that explained how programming languages and code worked. For Ada, it felt a bit like learning a secret language, or like studying vocabulary in school. Ada ate it all up. She expected her first program to do something simple: “Make this lamp blink!”"
-msgstr "De næste uger brugte Ada sine eftermiddage på biblioteket. Hun fandt bøger og hjemmesider, der forklarede, hvordan programmeringssprog og kode virkede. Ada havde det lidt, som om hun var ved at lære et hemmeligt sprog eller studerede grammatik i skolen. Hun slugte det hele. Hendes første program skulle gøre en simpel ting: “Få denne lampe til at blinke!”"
+msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:706
 msgid "Of course, she wanted to try her program out right away to see if it really worked. At the junkyard, she connected her cell phone to a small LED lamp. Then she typed the lines of code into her cell phone."
-msgstr "Hun havde selvfølgelig lyst til at prøve sit program af med det samme for at se, om det virkelig virkede. På lossepladsen forbandt hun sin mobiltelefon til en lille LED-pære. Så skrev hun den programkode, som hun havde noteret ned, ind på mobiltelefonen."
+msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:707
 msgid "At first, nothing happened. Ada wondered where the error could be. She made a few small changes and tried again and .... “Yeesss!” The little light began to flash. On, off, on, off. Ada looked at the LED in amazement. She had written her first program!"
-msgstr "Først skete der ikke noget. Ada undrede sig over, hvor fejlen kunne være. Hun lavede et par små forandringer og… “Jaaaaa!”. Den lille pære begyndte at blinke. Tændt, slukket, tændt, slukket. Ada så begejstret på LED-pæren. Hun havde skrevet sit første program!"
+msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:708
 msgid "Ada was totally thrilled. She imagined all the great things she could do. If she just entered the right code, she could make her inventions do exactly what she wanted. It was not so easy, but after a few weeks, Ada wrote a truly useful program: one that would make Alan’s speakers automatically turn off half an hour after he had fallen asleep."
-msgstr "Ada var helt oppe at køre. Hun forestillede sig alle de fantastiske ting, hun kunne gøre. Hvis hun bare skrev den rette kode, kunne hun få sine opfindelser til at gøre lige, hvad hun ønskede. Det var ikke helt let, men efter et par uger skrev Ada et virkelig brugbart program: Et, der ville få Alans højtalere til at slukke automatisk en halv time efter, at han var faldet i søvn."
+msgstr ""
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -864,7 +866,7 @@ msgstr ""
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:717
 msgid "Ada also had an idea for the next program she would write. It was a bigger deal, a real project. She would probably need the whole summer break for it... And she could hardly wait!"
-msgstr "Ada havde også en idé til det næste program, hun ville skrive. Det var en større sag. Et rigtigt projekt. Hun ville nok være nødt til at bruge hele sommerferien på det… Hun kunne næsten ikke vente!"
+msgstr ""
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -876,49 +878,49 @@ msgstr ""
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:730
 msgid "A horrible night"
-msgstr "En forfærdelig nat"
+msgstr ""
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p25-1
 #: Ada_Zangemann.dbk:734
 msgid "Zangemann had slept horribly every night since his terrible walk in the city. When he went to bed each night, worries plagued him. “Oh no, my marvelous inventions. It can’t be that everyone just plays around with them. All the things that could go wrong! I put so much thought into everything, down to the last detail.” Zangemann pondered and pondered and tossed and turned sleeplessly in his bed all night."
-msgstr "Zangemann havde sovet elendigt hver nat siden den forfærdelige gåtur i byen. Hver aften, når han gik i seng, var han plaget af bekymringer. “Åh nej, mine fantastiske opfindelser. Det går ikke, at alle bare leger sådan med dem. Tænk på alt det der kunne gå galt! Jeg har gjort så meget ud af det hele, ned i den mindste detalje”, tænkte Zangemann, imens han lå og vendte og drejede sig hele natten."
+msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:735
 msgid "Waking up one morning with a deeply furrowed brow, he made a decision. He needed to make a change. Zangemann sat down at his computer and wrote one program after another. In these programs, he specified exactly what his inventions were to do and were not to do under any circumstances. The chaos had to stop!"
-msgstr "En morgen, hvor han vågnede op med en ekstra dyb panderynke, tog han en beslutning. Han var nødt til at lave en ændring. Zangemann satte sig ned ved sin computer og skrev det ene program efter det andet. I disse programmer bestemte han helt præcist, hvad hans opfindelser måtte gøre og hvad de ikke under nogen omstændigheder måtte gøre. Kaoset måtte stoppe!"
+msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:736
 msgid "Once he was done, he sent all the new programs from his golden computer to people’s devices. He ordered his speakers to play only his favorite music whenever he was within earshot. He programmed the ice-cream machines to stop selling ice cream in the afternoon. After all, he didn’t want his expensive clothes to get stained by ice cream while he was out for a walk. All day long he sat at the computer and typed and typed and typed..."
-msgstr "Da han var færdig, sendte han alle de nye programmer fra sin gyldne computer til folks apparater. Han beordrede sine højtalere til kun at spille hans yndlingsmusik, når han var i nærheden. Han programmerede ismaskinerne til at holde op med at sælge is om eftermiddagen, for han havde ikke lyst til at få grimme ispletter på sit dyre tøj, når han var ude at gå tur. Hele dagen lang sad han ved sin computer og skrev og skrev og skrev…"
+msgstr ""
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:741
 msgid "First real project"
-msgstr "Første rigtige projekt"
+msgstr ""
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p26-1
 #: Ada_Zangemann.dbk:745
 msgid "Summer break was already halfway over. Ada stood in front of her big project and scratched her head. She had built a skateboard from old parts and then connected a motor to make the wheels turn. With a motorized skateboard, Ada could zoom to the library or the junkyard even faster after school. Super practical! But it didn’t work. When she stood on it and pressed the Go! button, the wheels moved, but way too fast. Ada fell off the skateboard every time she started. No matter what she tried, she just couldn’t get it right."
-msgstr "Sommerferien var allerede halvvejs ovre. Ada stod foran sit store projekt og kløede sig i hovedet. Hun havde bygget et skateboard af gamle dele og koblet en motor til det for at få hjulene til at køre rundt. Med et motoriseret skateboard kunne Ada suse afsted til biblioteket eller lossepladsen endnu hurtigere efter skole. Mega praktisk! Men det virkede ikke. Når hun stod på det og trykkede på Kør!-knappen, flyttede hjulene sig ganske vist, men alt for hurtigt. Ada faldt af skateboardet hver gang hun startede det. Ligemeget hvad hun prøvede, så kunne hun bare ikke få det til at virke."
+msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:746
 msgid "After falling on her bottom for the hundredth time, she went back to the library. She always found answers to her questions there. And indeed, on the internet, she came across a program that someone had written for an electric scooter that also needed to start slowly. Ada downloaded it to her phone."
-msgstr "Efter at være faldet på rumpen for 117. gang vendte hun tilbage til biblioteket. Dér fandt hun altid svar på sine spørgsmål. Og sandt nok: På internettet faldt hun over et program, som nogen havde skrevet til et elektrisk løbehjul, der også var nødt til at starte langsomt. Ada downloadede det til sin telefon."
+msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:748
 msgid "Back at the junkyard, she adapted some lines of code for her skateboard program. She tweaked a few things and kept tinkering."
-msgstr "Tilbage på lossepladsen skrev hun et par linjer kode ind i sit skateboardprogram. Hun justerede et par ting og arbejdede videre."
+msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:749
 msgid "Several failed attempts later, on the last day of summer break, the time had finally come. Ada stood on the skateboard and pressed the Go! button, and the skateboard started moving, slowly at first, then faster. It worked! She tried to brake. It worked! Ada let out a cry of joy and took a trip to the park."
-msgstr "Flere fejlslagne forsøg senere, på sommerferiens sidste dag, var tiden endelig kommet. Ada stod på skateboardet og trykkede på Kør!-knappen. Skateboardet begyndte at bevæge sig. Først langsomt, så hurtigere. Det virkede! Hun forsøgte at bremse. Det virkede! Ada udbrød et glædesråb og tog en tur i parken."
+msgstr ""
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -930,12 +932,12 @@ msgstr ""
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:761
 msgid "When Ada rode her skateboard to school on the first day back after summer break, the other children were amazed. During recess, Ada’s curious classmates surrounded her."
-msgstr "Da Ada kom i skole den første dag efter sommerferien på sit skateboard, blev de andre børn imponerede. I frikvarteret blev hun omringet af nysgerrige klassekammerater."
+msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:762
 msgid "“How can you ride your skateboard on the sidewalk?” they asked."
-msgstr "“Hvordan kan du køre dit skateboard på fortovet, når vi ikke kan?”, spurgte de."
+msgstr ""
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -947,12 +949,12 @@ msgstr ""
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:771
 msgid "Ada thought for a moment, then said, “I don’t think it’s your skateboards but actually the software in them. It’s probably programmed into the software that the skateboards aren’t allowed to go on the sidewalk. But that can be changed!”"
-msgstr "Ada tænkte sig om et øjeblik og sagde så: “Jeg tror ikke, det er jeres skateboards, men mere softwaren i dem, der gør det. Det er sandsynligvis programmeret ind i softwaren, at skateboardsene ikke må køre på fortovet. Men det kan der laves om på!”"
+msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:772
 msgid "That evening, Ada tested out her theory on her classmate Toni’s skateboard. She worked secretly through most of the night, and the next day, Toni could ride on the sidewalk again. Unfortunately, his skateboard could no longer make the sounds that his parents had bought from Zangemann. Instead, every 10 minutes it made a strange noise that sounded like a drawn-out burp. Ada knew that little errors like that could pop up in programs all the time. But Toni’s burping skateboard was really quite funny."
-msgstr "Den aften undersøgte Ada sin teori på sin klassekammerat Tonis skateboard. Hun arbejdede i hemmelighed det meste af natten, og næste dag kunne Toni igen køre skateboard på fortovet. Desværre kunne hans skateboard ikke længere lave de lyde, som hans forældre havde købt af Zangemann. I stedet gav det hvert 10. minut en mærkelig udtrukken lyd, der lød som et langt bøvs. Ada vidste, at den slags småfejl altid kunne dukke op i et program, men Tonis bøvsende skateboard var altså temmelig morsomt."
+msgstr ""
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -963,20 +965,19 @@ msgstr ""
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:783
-#, fuzzy
 msgid "Hacking for freedom"
-msgstr "Frie rammer til vores programmer"
+msgstr ""
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p30-1
 #: Ada_Zangemann.dbk:787
 msgid "More and more children started to visit Ada at the junkyard after school, and she helped them rewrite the programs in their skateboards. Some of her classmates were very excited about this new discovery. It was unbelievable what you could do with software code! They wanted to learn everything Ada knew about programming languages, and soon they were riding their skateboards again, wherever they wanted to."
-msgstr "Flere og flere børn begyndte at besøge Ada på lossepladsen efter skoletid, og hun hjalp dem med at ændre programmerne i deres skateboards. Nogle af hendes klassekammerater var meget begejstrede over den nye opdagelse - det var helt vildt, hvad man kunne lave med softwarekode! De ville lære alt, hvad Ada vidste om programmeringssprog. Snart kørte alle igen på deres skateboards, lige hvor de ville."
+msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:789
 msgid "But that wasn’t all. With the software, they could give their skateboards new, cool features. Marie attached colorful LED lights to her board that glowed different colors depending on the speed. Konrad built old propellers onto his skateboard for extra speed."
-msgstr "Men det var ikke det hele. Med softwaren kunne de give deres skateboards nye, seje egenskaber. Marie satte farvede LED-lys på sit board, så de lyste i forskellige farver, alt efter hvor hurtigt hun kørte. Konrad byggede gamle propeller på sit skateboard for at gøre det endnu hurtigere."
+msgstr ""
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -988,17 +989,17 @@ msgstr ""
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:798
 msgid "Ada, Toni, Marie, and Konrad spent many afternoons at the junkyard. They even set up a real workshop where they could fine-tune their programs for hours, listening all the while to music from the speakers Ada had built for Alan."
-msgstr "Ada, Toni, Marie og Konrad brugte mange eftermiddage på lossepladsen. De lavede endda et rigtigt værksted, hvor de kunne finjustere deres programmer i timevis, mens de lyttede til musik fra de højtalere, Ada havde bygget til Alan."
+msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:799
 msgid "“Your brother’s speakers are much louder than ours,” remarked Toni, who was busy attaching a speedometer to his helmet. “I’m sure that’s also because of the software,” Marie said."
-msgstr "“Din brors højtalere spiller meget højere end vores,” bemærkede Toni, der var ved at montere et speedometer på sin hjelm. “Jeg er sikker på, at det også er på grund af softwaren,” sagde Marie."
+msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:800
 msgid "Together, they changed the software for the speakers too. Then they turned up the music as loud as possible and danced wildly together."
-msgstr "Sammen lavede vennerne om på højtalernes software. Så skruede de musikken op, så meget de kunne og dansede vildt sammen."
+msgstr ""
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1032,38 +1033,38 @@ msgstr ""
 #. (itstool) id: Ada_Zangemann.dbk#para-p35-1
 #: Ada_Zangemann.dbk:840
 msgid "Every day, Ada and her friends made plans together for the afternoon. From a broken ice-cream machine, they built a new one that could make ice cream in every imaginable shape and color. They ate square ice cream, heart-shaped ice cream, and even pyramid-shaped ice cream, as well as strawberry, raspberry, and rainbow ice cream, all with sprinkles and hot fudge — much better than the varieties from the Zangemann machines."
-msgstr "Hver dag lagde Ada og hendes venner planer for, hvad de skulle lave sammen om eftermiddagen. De byggede en gammel ismaskine om, så den kunne lave is i alle tænkelige farver og former. De spiste firkantede is, hjerteformede is og endda pyramideformede is, og jordbær-, hindbær- og regnbueis. Alt sammen med drys og karamelsovs på. Meget bedre end det, man kunne få fra Zangemanns maskiner."
+msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:841
 msgid "Sometimes they could even help adults. Toni reprogrammed his father’s ironing machine so that it could also iron ties again — Zangemann had forbidden the machines to do so because he hated ties like the plague. For the bus driver, they built an automatic watering system out of old hoses and a computer so that her plants would not die of thirst during summer days. And they helped the school custodian modify his vacuum so that it automatically recognized toys and wouldn’t suck them up."
-msgstr "Nogle gange kunne de endda hjælpe de voksne. Toni omprogrammerede sin fars strygejern, så det kunne stryge slips igen - det havde Zangemann ellers forbudt maskinerne at gøre, fordi han hadede slips som pesten. Til buschaufføren byggede de et automatisk vandingssystem af gamle haveslanger og en computer, så hendes planter ikke skulle dø af tørst i sommervarmen. Og de hjalp skolens pedel med at bygge hans støvsuger om, så den kunne genkende legetøj og ikke suge det op."
+msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:842
 msgid "Some things they built just for fun, like the fart machine they put in their math teacher’s chair. Whenever Ms. Gernet sat down, the machine played a little fart sound. The teacher would scold them, but Ada was sure that she secretly smirked a little every time."
-msgstr "Nogle ting byggede de bare for sjov, som den pruttemaskine, de satte på matematiklærerens stol. Hver gang frøken Gernet satte sig, spillede maskinen en lille pruttelyd. Frøken Gernet irettesatte dem, men Ada var sikker på, at hun også inderst inde syntes, det var lidt sjovt."
+msgstr ""
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:847
 msgid "Zangemann and the President"
-msgstr "Zangemann og præsidenten"
+msgstr ""
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p36-1
 #: Ada_Zangemann.dbk:851
 msgid "One day, Zangemann noticed that some computers no longer obeyed his programming commands. Shocked and fuming with anger, he called the president. In a quivering voice, Zangemann yelled, “Someone is rewriting the programs in my devices. That can’t happen; after all, they are my inventions. It’s far too dangerous if everyone can do whatever they want with the computers. You must make a law against this!”"
-msgstr "En dag opdagede Zangemann, at nogle af hans computere ikke længere adlød hans programmerede kommandoer. Chokeret og skummende af vrede ringede han til præsidenten. Med en skælvende stemme råbte han ned i telefonen: “Nogen laver om på programmerne i mine apparater! Det må ikke ske! Det er trods alt mine opfindelser. Det er alt for farligt, hvis hvem som helst kan gøre hvad de vil med computerne. Du må lave en lov mod det!”"
+msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:852
 msgid "The president did not want to upset Zangemann. All the government’s computers were programmed by Zangemann. Without the computers, the government would not be able to run the country. So they passed the law as Zangemann requested:"
-msgstr "Præsidenten havde ikke lyst til at blive uvenner med Zangemann. Det var trods alt ham, der havde programmeret alle regeringens computere. Uden dem kunne regeringen ikke styre landet. Så de vedtog den lov som Zangemann bad om:"
+msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:853
 msgid "“All computers that do not listen to Zangemann are banned. Anyone who reprograms Zangemann’s devices will be fined 500,000 gold pieces!”"
-msgstr "“Alle computere, der ikke lytter til Zangemann, er ulovlige. Enhver, der omprogrammerer et Zangemann-apparat, vil få en bøde på 500.000 guldstykker!”"
+msgstr ""
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1075,12 +1076,12 @@ msgstr ""
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:865
 msgid "When Ada and her friends heard this, they were furious. “This is unfair,” they said. “We rebuilt and reprogrammed our skateboards ourselves. They are much better now. We won’t let anyone take that away from us!”"
-msgstr "Da Ada og hendes venner hørte om det, blev de rasende. “Det er ikke retfærdigt!”, sagde de. “Vi har selv ændret vores skateboards. De er meget bedre nu. Vi vil ikke lade nogen tage det fra os!”"
+msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:866
 msgid "They gathered in front of one of their rebuilt ice-cream machines and discussed the situation. It was clear that something had to be done about the new law, and they made a plan..."
-msgstr "De samlede sig foran en af deres ombyggede ismaskiner og diskuterede situationen. Det var klart, at der måtte gøres noget med den nye lov, så de lavede en plan…"
+msgstr ""
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1092,18 +1093,18 @@ msgstr ""
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:877
 msgid "Protest"
-msgstr "Demonstration"
+msgstr ""
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p39-1
 #: Ada_Zangemann.dbk:882
 msgid "The next day, they didn’t go to school. Instead, they rode their skateboards to the parliament building, with large protest signs under their arms, and sat down in front of the building. The evening before, they had put LED lights on some of the signs, which were now flashing brightly. They had connected their speakers together so everyone in the street could hear what they were saying. Some passersby stopped and asked the children what they were demonstrating for. “For software freedom!” they replied in unison and told the adults their story. Impressed, the adults nodded, and the president also looked curiously at their signs as he approached the building."
-msgstr "Næste dag tog de ikke i skole. I stedet kørte de på deres skateboards ind og satte sig foran parlamentsbygningen med store protestskilte. Aftenen før havde de sat LED-lys på nogen af deres skilte, som nu blinkede klart. De havde også koblet deres højtalere sammen, så alle på gaden kunne høre, hvad de sagde. Nogle forbipasserende stoppede og spurgte børnene, hvad de demonstrerede for. “For software-frihed!”, svarede børnene i kor og fortalte de voksne hele historien. De voksne nikkede imponerede, og præsidenten kunne ikke lade være med at kigge nysgerrigt på deres skilte, da han ankom til bygningen."
+msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:883
 msgid "On the following day, Ada and her friends again sat down in front of the parliament building, this time with support. Some classmates came whose skateboards Ada had reprogrammed. Toni’s father and other parents and adults also wanted to support the protest. They found the children’s devices very useful."
-msgstr "Den næste dag satte Ada og hendes venner sig igen ned foran parlamentsbygningen. Denne gang med støtte. Der kom nogle klassekammerater, der havde fået omprogrammeret deres skateboards. Tonis far og andre forældre ville også støtte protesten. De syntes, at børnenes apparater var meget smarte."
+msgstr ""
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1115,7 +1116,7 @@ msgstr ""
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:892
 msgid "With each passing day, more and more children and adults joined the protest. The bus driver they had helped drove up in her bus. She honked loudly to attract even more people to the protest. The custodian brought a few friends, and Toni’s father brought his colleagues from work, all wearing perfectly ironed ties. Even Ms. Gernet came. The crowd grew, and after a few weeks, there were protests not just in Ada’s city but also in many cities throughout the country."
-msgstr "For hver dag der gik, sluttede flere og flere børn og voksne sig til protesten. Busschaufføren, som de havde hjulpet, kom kørende i sin bus. Hun dyttede højt for at få flere til at komme og være med i protesten. Pedellen tog et par venner med, og Tonis far tog alle sine kolleger med fra arbejdet - hver med sit eget perfekt strøgne slips på. Selv frøken Gernet kom. Forsamlingen voksede, og efter et par uger var der ikke bare protester i Adas by, men også i mange andre byer rundt om i hele landet."
+msgstr ""
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1128,7 +1129,7 @@ msgstr ""
 #. Text on big banner, left on the illustration
 #: Ada_Zangemann.dbk:899
 msgid "Do your homework Mr. President and we will do ours!"
-msgstr "Lav dine lektier hr. Præsident, så laver vi vores!"
+msgstr ""
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1148,7 +1149,7 @@ msgstr ""
 #. Text on square signe on the right of the illustration
 #: Ada_Zangemann.dbk:916
 msgid "They are young + need the code!"
-msgstr "De er unge + har brug for koden!"
+msgstr ""
 
 #. (itstool) path: info/excerpt
 #. Text on banner on the banner held by children on the right of the
@@ -1156,23 +1157,23 @@ msgstr "De er unge + har brug for koden!"
 #. can be used, which translates to 'without code everything is dull!'.
 #: Ada_Zangemann.dbk:917
 msgid "Don’t wreck our tech!"
-msgstr "Uden kode er alt ude!"
+msgstr ""
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:924
 msgid "Children help the government"
-msgstr "Børnene hjælper regeringen"
+msgstr ""
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p42-1
 #: Ada_Zangemann.dbk:927
 msgid "Ada protested in front of the parliament building every week, even in pouring rain. On one such rainy day, when the president passed the group of dripping-wet children, he couldn’t help but admire their stubbornness. He asked Ada, “Why do you sit here every day? What do you want to achieve?” Ada replied, “We want to determine for ourselves what we can and cannot do with our computers.” Her friends shouted in unison: “Don’t wreck our tech! Don’t wreck our tech!” and “We want the code! We want the code!”"
-msgstr "Ada protesterede foran parlamentsbygningen hver uge. Selv når det regnede. Det var på netop sådan en regnvejrsdag, at præsidenten kom forbi gruppen af dryppende våde børn. Han kunne ikke andet end beundre deres stædighed. Han spurgte Ada: “Hvorfor sidder I her hver dag? Hvad er det, I vil opnå?” Ada svarede: “Vi vil selv bestemme, hvad vi må og ikke må med vores computere.” Hendes venner råbte i kor: “Uden kode er alt ude!, Uden kode er alt ude!” og “Vi vil kende koden! Vi vil kende koden!”"
+msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:928
 msgid "The president looked at the determined faces of the children. Honestly, he, too, wanted to decide for himself what the government could and couldn’t do with its computers. But he didn’t understand anything about computers and code, so he had always left that to Zangemann. Deep in thought, the president entered the building."
-msgstr "Præsidenten så på børnenes målbevidste ansigter. Ærlig talt havde han også selv mest lyst til at bestemme, hvad regeringen måtte og ikke måtte gøre med sine computere. Men han vidste ikke noget som helst om computere, så han havde altid ladet Zangemann bestemme. Fordybet i sine tanker gik præsidenten ind i parlamentsbygnigen."
+msgstr ""
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1184,17 +1185,17 @@ msgstr ""
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:936
 msgid "The next day, the president invited Ada and her friends over. “We also want to be in charge of our software ourselves. In order for that to be true, the government must be independent from Zangemann. Can you tell me what you know about computer programs?” he asked them. Enthusiastically, they explained to him how software works and what you could do with it. The president was amazed."
-msgstr "Den næste dag inviterede præsidenten Ada og hendes venner over. “Vi vil også gerne bestemme over vores software selv. Og hvis det skal blive muligt, skal regeringen være uafhængig af Zangemann. Kan I fortælle mig, hvad I ved om computerprogrammer?”, sagde han. Børnene forklarede begejstret, hvordan software virker, og hvad man kan gøre med det. Præsidenten var forbløffet."
+msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:939
 msgid "With this new knowledge, the government would be able to design its own software, the way it wanted — completely without Zangemann. Immediately, the president called his advisers. In a large group, they discussed with the children everything they could change and improve in the software."
-msgstr "Med denne nye viden ville regeringen være i stand til at designe sin egen software, fuldstændig som de ville have den - helt uden Zangemann. Præsidenten ringede til sine rådgivere med det samme. De satte sig i en stor gruppe og snakkede med børnene om alt det, de kunne ændre og forbedre i softwaren."
+msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:940
 msgid "That evening, the children went home proud and satisfied. Something finally happened! Their long protest was worth it."
-msgstr "Den aften tog børnene stolte og tilfredse hjem. Nu skete der endelig noget. Deres lange protest havde båret frugt."
+msgstr ""
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1206,13 +1207,13 @@ msgstr ""
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:951
 msgid "New law"
-msgstr "Ny lov"
+msgstr ""
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p44-1
 #: Ada_Zangemann.dbk:954
 msgid "The next morning, the president’s phone rang very early. It was Zangemann. He was angrier than ever. “Without me, the government computers will no longer work,” he threatened. But the president kept the call short and quickly hung up. The phone rang many more times that day, but Zangemann’s calls went unanswered. The president sat in a meeting with Ada, Toni, Marie, Konrad, and the government experts."
-msgstr "Næste dag ringede præsidentens telefon meget tidligt om morgenen. Det var Zangemann. Han var mere vred end nogensinde før. “Uden mig vil regeringens computere ikke længere virke,” sagde han. Men præsidenten svarede bare kort og formelt og lagde hurtigt på. Telefonen ringede mange flere gange den dag, men Zangemanns opkald blev ikke besvaret. Præsidenten sad til møde med Ada, Toni, Marie, Konrad og regeringseksperterne."
+msgstr ""
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1224,22 +1225,22 @@ msgstr ""
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:961
 msgid "In the days that followed, they talked from morning to night and designed their first programs for the government’s computers. They were no longer disturbed by Zangemann’s calls. Toni had the good idea of reprogramming the telephones. When Zangemann called, he only heard an automated recording: “The government only wants to use software that it can freely use, study, share, and improve. Thank you for calling.”"
-msgstr "I de kommende dage talte de sammen fra morgen til aften og designede deres første programmer til regeringens computere. De blev ikke længere forstyrret af Zangemanns opkald. Toni havde fået den gode idé at omprogrammere telefonerne. Når Zangemann ringede hørte han bare en automatisk telefonsvarer, der sagde: “Regeringen vil kun benytte sig af software som den frit kan bruge, undersøge, dele og forbedre. Tak for dit opkald.”"
+msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:963
 msgid "Then, after many weeks of protests and discussions, the time had finally come: they abolished the old Zangemann law! Instead, the government announced:"
-msgstr "Så endelig, efter mange ugers protester og diskussioner, kom dagen, hvor de afskaffede den gamle Zangemann-lov! I stedet annoncerede regeringen:"
+msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:966
 msgid "“Everyone is allowed to program their own computers as long as they adhere to the other laws.”"
-msgstr "“Enhver har lov til at programmere sine egne computere, så længe man ellers overholder loven.”"
+msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:967
 msgid "In addition, a new school subject was introduced: computer hardware and software."
-msgstr "Der kom endda et nyt fag i skolen: Computer-hardware og -software."
+msgstr ""
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1251,7 +1252,7 @@ msgstr ""
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:977
 msgid "That evening, everyone celebrated with a big party. Ada, Alan, Toni, Marie, Konrad, and other children from school and their parents; the president; Ms. Gernet; the bus driver; the custodian — they were all there. They decorated the streets, listened to loud music, and ate ice cream, as much as they wanted, and in every imaginable shape and color."
-msgstr "Den aften holdt de en stor fest, hvor de fejrede det hele. Ada, Alan, Toni, Marie, Konrad og alle de andre børn fra skolen og deres forældre; præsidenten, frøken Gernet, busschaufføren, pedellen - alle var med. De pyntede op i gaderne, hørte høj musik og spiste is. Lige så meget som de ville, og med enhver tænkelig form og farve."
+msgstr ""
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1263,7 +1264,7 @@ msgstr ""
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:986
 msgid "While the others continued partying late into the night, Ada and her friends slipped away to their workshop. They already had a lot of ideas for new inventions. And they wanted to start right away."
-msgstr "Mens de andre fortsatte festen, smuttede Ada og hendes venner over i deres værksted. De havde allerede masser af ideer til nye opfindelser, og de ville i gang med det samme."
+msgstr ""
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1275,13 +1276,13 @@ msgstr ""
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:997
 msgid "And Zangemann?"
-msgstr "Og Zangemann?"
+msgstr ""
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p48-1
 #: Ada_Zangemann.dbk:1001
 msgid "And Zangemann? No one’s heard much from him. Maybe he’s still sitting angrily in front of his golden computer. Maybe he doesn’t dare go out into the street anymore and has boarded up all the windows of his mansion so that he doesn’t have to worry about what other people are doing with his inventions. But maybe he also sometimes looks out into the world through his telescope and sees what the children are inventing every day. Perhaps then he will remember how much fun it was for himself to tinker and experiment. And maybe, just maybe, he eats pyramid-shaped raspberry ice cream with rainbow sprinkles."
-msgstr "Og Zangemann? Ham har ingen hørt fra siden. Måske sidder han stadig foran sin store guldcomputer. Måske tør han ikke længere gå udenfor og har sat brædder for alle vinduerne på sit palæ, så han ikke skal bekymre sig om, hvad folk finder på med hans opfindelser. Men det kan også være, at han nogle gange kikker ud på verden gennem sit teleskop og ser alle de seje ting, som børnene opfinder hver eneste dag. Det kan være, at han så en dag vil komme i tanker om, hvor sjovt det var for ham selv at rode og eksperimentere. Og måske - bare måske - spiser han en pyramideformet is med regnbuedrys på."
+msgstr ""
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1301,7 +1302,7 @@ msgstr ""
 #. (itstool) id: Ada_Zangemann.dbk#title-acknowledgments
 #: Ada_Zangemann.dbk:1022
 msgid "Acknowledgments"
-msgstr "Tak til"
+msgstr ""
 
 #. (itstool) path: simplesect/para
 #. In the acknowledgments of the English version you can change 'No Starch
@@ -1310,17 +1311,17 @@ msgstr "Tak til"
 #. and encourage you to do that for other books in future as well.
 #: Ada_Zangemann.dbk:1030
 msgid "Many thanks to Reinhard Wiesemann from the Linuxhotel for the financial support and motivation to no longer plan but to make. Thanks to Sandra Brandstätter, who has brought me joy with every new design for the illustrations. Thanks to my editor Wiebke Helmchen, who made developing and sharpening the story fun, and to No Starch Press for agreeing to publish the book under a free culture license."
-msgstr "Mange tak til Reinhard Wiesemann fra Linuxhotel for den økonomiske støtte og motivationen til ikke længere kun at planlægge, men faktisk skabe. Tak til Sandra Brandstätter, som har bragt mig ny glæde med hvert nyt udkast til illustrationer. Tak til min redaktør Wiebke Helmchen, som gjorde udviklingen og udformningen af historien sjov, og til No Starch Press for at gå med til at udgive bogen med en fri kulturlicens."
+msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1031
 msgid "Thanks to Bea and Benni, Brian, Christine and Marc, Cory, Bernhard, Isabel and Amelia, Katta, Kristina, Martin, Mona and Arne, Nina, Oliver, Reinhard, Sabine, and Torsten for great ideas, inspiration, and practical tips, and to the many people of the Free Software movement, from which I was allowed to learn and whose engagement motivated me."
-msgstr "Tak til Bea og Benni, Brian, Christine og Marc, Cory, Bernhard, Isabel og Amelia, Katta, Kristina, Martin, Mona og Arne, Nina, Oliver, Reinhard, Sabine, og Torsten for gode ideer, inspiration og praktiske tips, og til de mange støtter af bevægelsen for fri software, som jeg har lært så meget af og hvis engagement har motiveret mig."
+msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1035
 msgid "Thanks to my family, who made me write early in the morning, late in the evening, and on holiday, and who always supports my work for software freedom. Especially, I would like to thank my children, who inspired me with new ideas at each reading. Without them, this book would not exist."
-msgstr "Tak til min familie, som fik mig til at skrive både tidligt om morgenen, sent om aftenen og på fridage, og som altid støtter mit arbejde for softwarefrihed. En særlig tak til mine børn, som har inspireret mig med nye ideer ved hver gennemlæsning. Uden dem ville denne bog ikke eksistere."
+msgstr ""
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1333,19 +1334,19 @@ msgstr ""
 #. (itstool) id: Ada_Zangemann.dbk#title-author
 #: Ada_Zangemann.dbk:1049
 msgid "About the Author"
-msgstr "Forfatter"
+msgstr ""
 
 #. (itstool) path: info/subtitle
 #. (itstool) id: Ada_Zangemann.dbk#subtitle-author
 #. ignore-same
 #: Ada_Zangemann.dbk:1050
 msgid "Matthias Kirschner"
-msgstr "Matthias Kirschner"
+msgstr ""
 
 #. (itstool) path: info/titleabbrev
 #: Ada_Zangemann.dbk:1051
 msgid "About the Author - Matthias Kirschner"
-msgstr "Forfatter - Matthias Kirschner"
+msgstr ""
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1357,25 +1358,25 @@ msgstr ""
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1066
 msgid "Matthias was fascinated by computers and software as a child. He had an internet connection early, through which he learned a lot. Children have a right to take their future into their own hands. Therefore, Matthias is committed to the goal that all humans can use software in a self-determined way. He also wants to build an electric skateboard with Free Software."
-msgstr "Som barn var Matthias fascineret af computere og software. Han var tidligt på nettet og lærte meget ad den vej. Børn har en ret til at tage fremtiden i deres egne hænder. Derfor er Matthias dedikeret til, at alle mennesker kan bruge software, som de selv ønsker. Han drømmer også om at bygge et elektrisk skateboard med fri software."
+msgstr ""
 
 #. (itstool) path: info/title
 #. (itstool) id: Ada_Zangemann.dbk#title-illustrator
 #: Ada_Zangemann.dbk:1072
 msgid "About the Illustrator"
-msgstr "Illustrator"
+msgstr ""
 
 #. (itstool) path: info/subtitle
 #. (itstool) id: Ada_Zangemann.dbk#subtitle-illustrator
 #. ignore-same
 #: Ada_Zangemann.dbk:1073
 msgid "Sandra Brandstätter"
-msgstr "Sandra Brandstätter"
+msgstr ""
 
 #. (itstool) path: info/titleabbrev
 #: Ada_Zangemann.dbk:1074
 msgid "About the Illustrator - Sandra Brandstätter"
-msgstr "Illustrator - Sandra Brandstätter"
+msgstr ""
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1387,39 +1388,39 @@ msgstr ""
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1089
 msgid "Sandra has always liked crafting with scissors, pliers, glue, wire, fabric, and paper. Today she works as an illustrator, comic author, and character designer for animated films and series, such as the German public television series Trudes Tier. On an ice-cream machine, Sandra would pick a creamy rainbow ice cream with lemon cucumber flavor and a lot of sprinkles."
-msgstr "Sandra har altid holdt af at skabe ting med saks, tang, lim, tråd, stof og papir. I dag arbejder hun som illustrator, tegneserieforfatter og karakterdesigner på animationsfilm som den tyske TV-serie “Trudes Tier”. Ved en ismaskine ville Sandra vælge en cremet regnbueis med citronsmag og masser af drys."
+msgstr ""
 
 #. (itstool) path: info/title
 #. (itstool) id: Ada_Zangemann.dbk#title-bookswebsite
 #: Ada_Zangemann.dbk:1094
 msgid "Book’s website"
-msgstr "Hjemmeside for bogen"
+msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1102
 msgid "The Free Software Foundation Europe e.V. is a nonprofit association that empowers people to control technology. Software affects all areas of our life. That is why it is important that this technology gives us freedom instead of restricting us. Free Software (also called Open Source) gives everyone the right to use, study, share, and improve programs. Therefore, Free Software strengthens basic rights such as freedom of expression, freedom of the press, and the right to privacy."
-msgstr "Free Software Foundation Europe e.V. er en nonprofit forening, der giver folk mulighed for at kontrollere teknologien. Software påvirker alle aspekter af vores daglige liv, og derfor er det vigtigt, at denne teknologi giver os frihed i stedet for at begrænse os. Fri software (også kaldet “open source”) giver alle retten til at bruge, undersøge, dele og forbedre programmer. Derfor støtter Fri Software grundlæggende rettigheder som ytringsfrihed, pressefrihed og retten til privatliv."
+msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1104
 msgid "On the web page of the book, you will find more information and resources: <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>"
-msgstr "På bogens hjemmeside kan du finde mere inspiration og flere ressourcer: <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>"
+msgstr ""
 
 #. (itstool) path: info/title
 #. (itstool) id: Ada_Zangemann.dbk#title-license
 #: Ada_Zangemann.dbk:1111
 msgid "License"
-msgstr "Licens"
+msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1119
 msgid "The book Ada &amp; Zangemann: A Tale of Software, Skateboards, and Raspberry Ice Cream by Matthias Kirschner and Sandra Brandstätter, published by No Starch Press, is licensed under “Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).”"
-msgstr "Bogen Ada &amp; Zangemann: En fortælling om Software, Skateboards og Hindbæris af Matthias Kirschner og Sandra Brandstätter, udgivet af No Starch Press, er udgivet under CC-licensen: “Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).”"
+msgstr ""
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1120
 msgid "<link xlink:href=\"https://creativecommons.org/licenses/by-sa/4.0/\">https://creativecommons.org/licenses/by-sa/4.0/</link>"
-msgstr "<link xlink:href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.da\">https://creativecommons.org/licenses/by-sa/4.0/deed.da</link>"
+msgstr ""
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1436,8 +1437,6 @@ msgid ""
 "Come up with some delicious, funny, or crazy ice-cream flavors and draw them on the ice-cream cones on the following page.\n"
 "More information about the book can be found at <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>"
 msgstr ""
-"Find på lækre, sjove eller skøre is og tegn dem på isvaflerne på næste side.\n"
-"Der findes mere du kan farvelægge og information om bogen på <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
