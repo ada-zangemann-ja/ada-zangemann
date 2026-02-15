@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
-"PO-Revision-Date: 2026-02-13 17:09+0000\n"
+"PO-Revision-Date: 2026-02-15 15:22+0000\n"
 "Last-Translator: Hamdi Gümüş <hamdigumus@tutamail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/fsfe/ada-zangemann/tr/>\n"
 "Language: tr\n"
@@ -31,7 +31,7 @@ msgstr "Ada &amp; Zangemann"
 #. (itstool) path: cover/bridgehead
 #: Ada_Zangemann.dbk:265 Ada_Zangemann.dbk:309
 msgid "A Tale of Software, Skateboards, and Raspberry Ice Cream"
-msgstr "Bir Yazılım Hikayesi, Kaykaylar ve Raspberry Ice Cream"
+msgstr "Bir Yazılım Hikayesi, Kaykaylar ve Ahududu Dondurması"
 
 #. (itstool) path: info/author
 #. ignore-same
