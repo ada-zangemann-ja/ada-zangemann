@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
-"PO-Revision-Date: 2026-02-11 21:09+0000\n"
+"PO-Revision-Date: 2026-02-15 15:22+0000\n"
 "Last-Translator: Hamdi Gümüş <hamdigumus@tutamail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/fsfe/ada-zangemann/tr/>\n"
 "Language: tr\n"
@@ -31,7 +31,7 @@ msgstr "Ada &amp; Zangemann"
 #. (itstool) path: cover/bridgehead
 #: Ada_Zangemann.dbk:265 Ada_Zangemann.dbk:309
 msgid "A Tale of Software, Skateboards, and Raspberry Ice Cream"
-msgstr "Bir Yazılım Hikayesi, Kaykaylar ve Raspberry Ice Cream"
+msgstr "Bir Yazılım Hikayesi, Kaykaylar ve Ahududu Dondurması"
 
 #. (itstool) path: info/author
 #. ignore-same
@@ -467,12 +467,12 @@ msgstr "Çocuklar aynı zamanda istenilen şarkıyı o anda çalabilen hoparlör
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:549
 msgid "And, of course, everyone loved the ice cream served every afternoon from the automatic, extra-delicious Original Zangemann Ice Cream Machine."
-msgstr ""
+msgstr "Herkes, öğleden sonraları otomatik, ekstra lezzetli Orijinal Zangemann Dondurma Makinesi'nden servis edilen dondurmayı tabiki de çok sevdi."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:549
 msgid "It all seemed like magic, but the secret was simple: the little computers that Zangemann built into his machines made it all possible."
-msgstr ""
+msgstr "Tamamen sihir gibi görünüyordu ama sırrı basit: Zangemann'ın makinelerine entegre ettiği küçük bilgisayarlar her şeyi mümkün kılıyordu."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -492,13 +492,13 @@ msgstr ""
 #. Sentence continues in next string.
 #: Ada_Zangemann.dbk:564
 msgid "These inventions were very popular at Ada’s school, and many of her friends rode around on the cool skateboards. Ada was often sad, since her mother couldn’t buy her any of those great things:"
-msgstr ""
+msgstr "Bu icatlar Ada'nın okulunda bir hayli popülerdi ve birçok arkadaşı o havalı kaykaylarla dolaşıyordu. Ada sıklıkla üzgün olurdu, çünkü annesi ona o harika şeylerden hiçbirini alamıyordu:"
 
 #. (itstool) path: para/phrase
 #. Continuation of the sentence.
 #: Ada_Zangemann.dbk:564
 msgid "no skateboard, no speakers, no ice cream."
-msgstr ""
+msgstr "kaykay yok, hoparlörler yok, dondurma yok."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:566
