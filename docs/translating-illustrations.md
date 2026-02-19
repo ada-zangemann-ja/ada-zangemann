@@ -8,9 +8,23 @@ SPDX-License-Identifier: CC-BY-SA-4.0
 
 Notes on how to translate the illustrations.
 
+## Practical tips
+
+### Use a drawing tablet
+
 Translation works best with a drawing tablet, so there is variation in the
 pressure which can be translated to the size and texture strength of the brush.
 The texture strength difference changes the amount of see-through speckles.
+
+In Krita you can easily rotate the canvas to help you write at an angle. There is a rotation dial in the bottom right corner of the screen.
+
+### Work in iterations
+
+Even if you're skilled, it will probably take a couple of iterations to perfect the placement, size and spacing of characters.
+
+Start with a previous translation as a reference, but reduce the layer opacity so your work will be more visible than the reference. Then draw your initial translation on a new layer. If you make mistakes while drawing, you can quickly undo that part. When you have a first version, reduce the layer transparency to use it as a reference and create the next iteration on a new layer. It will probably take 3 to 5 iterations to get a good result.
+
+Using selection you can also merge translations and move parts around to clean them up. Once satisfied you can clean up the file and save disk space by removing the layers.
 
 ## Protest page
 
