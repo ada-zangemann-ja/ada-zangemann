@@ -3,15 +3,15 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-10 08:48+0100\n"
-"Last-Translator: Максим Горпиніч <gorpinicmaksim5@gmail.com>\n"
+"PO-Revision-Date: 2026-02-21 07:09+0000\n"
+"Last-Translator: Димко <Term0@ukr.net>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/fsfe/ada-zangemann/uk/>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Poedit 3.6\n"
+"X-Generator: Weblate 5.16.1-dev\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
@@ -427,8 +427,9 @@ msgid ""
 "Software, Skateboards, and\n"
 "Raspberry Ice Cream"
 msgstr ""
-"Історія про програмне забезпечення\n"
-", скейтборди та малинове морозиво"
+"Історія про \n"
+"програмне забезпечення, скейтборди \n"
+"та малинове морозиво"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:502
@@ -497,7 +498,7 @@ msgstr "Потім він використовував комп'ютер, щоб
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:529
 msgid "There would be machines on every street corner, and he could get ice cream in his favorite flavor whenever he felt like it, and just as much as he wanted. After that, he’d build a cleaning robot and a block-sorting machine so that his room would always be neat and clean."
-msgstr "Машини стояли б на кожному розі вулиці, і хлопчик міг би купувати морозиво з улюбленим смаком, коли йому заманеться, і стільки, скільки він захоче. Після цього він побудував би робота-прибиральника та машину для сортування блоків, щоб у його кімнаті завжди було чисто й охайно"
+msgstr "Машини стояли б на кожному розі вулиці, і хлопчик міг би купувати морозиво з улюбленим смаком, коли йому заманеться, і стільки, скільки він захоче. Після цього він побудував би робота-прибиральника та машину для сортування блоків, щоб у його кімнаті завжди було чисто й охайно."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:529
@@ -710,7 +711,7 @@ msgstr "Одного дня..."
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:606
 msgid "One day Zangemann thought, “Today I want to see my inventions up close.”"
-msgstr "Одного дня Занґеманн подумав: “Сьогодні я хочу побачити свої винаходи зблизька”. "
+msgstr "Одного дня Занґеманн подумав: «Сьогодні я хочу побачити свої винаходи зблизька»."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:606
@@ -1309,7 +1310,7 @@ msgstr "Тоді, після багатьох тижнів протестів і
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:966
 msgid "“Everyone is allowed to program their own computers as long as they adhere to the other laws.”"
-msgstr "“Кожному дозволено програмувати власні комп'ютери, якщо він дотримується інших законів.”  І ось, після багатьох тижнів протестів і дискусій, час нарешті настав: старий закон Занґеманна скасували! Натомість уряд оголосив:"
+msgstr "«Кожному дозволено програмувати власні комп'ютери, якщо він дотримується інших законів»."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:967
