@@ -367,7 +367,7 @@ msgstr "Tittelside"
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:461
 msgid "Matthias Kirschner, Sandra Brandstätter - ADA &amp; ZANGEMANN - A Tale of Software, Skateboards and Raspberry Ice Cream. Title in the middle, authors in the upper left. In the lower right, Ada’s family’s dog with gray fur and some white patches and with a red collar with shiny yellow LEDs, which wags its tail."
-msgstr "Matthias Kirschner, Sandra Brandstätter - ADA OG ZANGEMANN - En fortelling om programvare, rullebrett og bringebæris.  Tittel i midten, forfattere i øvre venstre.  I nedre høyre hjørne, Adas familehind med grå pels og noen hvite flekker og et rødt halsbånd med skinnende gule LED, som vifter med halen sin."
+msgstr "Matthias Kirschner, Sandra Brandstätter - ADA OG ZANGEMANN - En fortelling om programvare, rullebrett og bringebæris.  Tittel i midten, forfattere i øvre venstre.  I nedre høyre hjørne, Adas familehund med grå pels og noen hvite flekker og et rødt halsbånd med skinnende gule LED, som vifter med halen sin."
 
 #. (itstool) path: mediaobject/alt
 #. ignore-same
@@ -621,7 +621,7 @@ msgstr "Noen ganger ble folkene skuffet over at deres favorittsmak ikke var tilg
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:577
 msgid "A white power strip attached to a wall socket. The power strip has 3 sockets and a green switch. One of the sockets is attached to a plug with a gray cable."
-msgstr "En hvit strømpadde koblet til en veggkontakt. Strømpadden har tre stikk og en grønn bryter. En av stikkene er koblet til en kontakt med en grå kabel."
+msgstr "En hvit strømpadde koblet til en veggkontakt. Strømpadden har tre stikk og en grønn bryter. En av stikkene er koblet til en kontakt med en grå ledning."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:581
@@ -889,7 +889,7 @@ msgstr "Det beste med Adas nye oppdagelse var at hun kunne fikle med programvare
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:695
 msgid "Computer screen from which the elements of the programming language symbolically emerge: “while num &gt; 0“, “init“, “sx=42“, “for“, “v**3“. Ada is typing on a white keyboard with a blue cable, while her other hand enters the screen to change the program (“print(msg)”, “a+b+c+d=e”, “if”, “break”, “continue”, “exit()”). Next to the keyboard there are a pencil and an eraser."
-msgstr "Dataskjerm der elementene til programmeringsspråket symbols dukker opp: «while num &gt; 0», «init», «sx=42», «for», «v**3».  Ada skriver på et hvitt tastatur med en blå kabel, mens den andre hånden går inn i skjermen for å endre programmet («print(msg)», «a+b+c+d=e», «if», «break», «continue», «exit()»). Ved siden av tastaturet er det en blyant og et viskelær."
+msgstr "Dataskjerm der elementene til programmeringsspråket dukker opp som symboler: «while num &gt; 0», «init», «sx=42», «for», «v**3».  Ada skriver på et hvitt tastatur med en blå ledning, mens den andre hånden går inn i skjermen for å endre programmet («print(msg)», «a+b+c+d=e», «if», «break», «continue», «exit()»). Ved siden av tastaturet er det en blyant og et viskelær."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:701
@@ -922,7 +922,7 @@ msgstr "Ada var i ekstase. Hun tenkte på alt det fantastiske hun kunne gjøre m
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:715
 msgid "Ada comes to grips with programming. She is typing on a keyboard resting on a gray mat and connected to a smartphone with a blue cable. The smartphone is connected with a red wire to an electronic card with a yellow LED lamp. The smartphone is powered by a transformer connected to a power strip with a gray wire and plug. On the table there are also: 3 books, of which one is open; a clipboard and a pencil; pliers; glue; solder; and a disconnected soldering iron."
-msgstr "Ada lærer seg programmering. Hun skriver på et tastatur som ligger på en grå matte og er koblet til en smarttelefon med en blå kabel. Smarttelefonen er koblet med en rød ledning til et elektronisk kort med en gul LED-pære. Smarttelefonen drives av en transformator som er koblet til en forgrener med en grå ledning og plugg. På bordet ligger det også: 3 bøker, hvorav en er åpen; en utklippstavle og en blyant; en tang; lim; loddetinn; og en frakoblet loddebolt."
+msgstr "Ada lærer seg programmering. Hun skriver på et tastatur som ligger på en grå matte og er koblet til en smarttelefon med en blå ledning. Smarttelefonen er koblet med en rød ledning til et elektronisk kort med en gul LED-pære. Smarttelefonen drives av en transformator som er koblet til en forgrener med en grå ledning og plugg. På bordet ligger det også: 3 bøker, hvorav en er åpen; en utklippstavle og en blyant; en tang; lim; loddetinn; og en frakoblet loddebolt."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:717
