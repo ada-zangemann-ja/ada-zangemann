@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
-"PO-Revision-Date: 2026-02-15 15:22+0000\n"
+"PO-Revision-Date: 2026-02-21 07:09+0000\n"
 "Last-Translator: Hamdi Gümüş <hamdigumus@tutamail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/fsfe/ada-zangemann/tr/>\n"
 "Language: tr\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.16-dev\n"
+"X-Generator: Weblate 5.16.1-dev\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 #, fuzzy
@@ -25,7 +25,7 @@ msgstr "Çevirmen bilgileri"
 #. ignore-same
 #: Ada_Zangemann.dbk:264 Ada_Zangemann.dbk:308 Ada_Zangemann.dbk:498
 msgid "Ada &amp; Zangemann"
-msgstr "Ada &amp; Zangemann"
+msgstr "Ada ile Zangemann"
 
 #. (itstool) path: subtitle/phrase
 #. (itstool) path: cover/bridgehead
