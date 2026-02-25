@@ -3,15 +3,15 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-10 08:40+0100\n"
-"Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
+"PO-Revision-Date: 2026-02-26 22:09+0000\n"
+"Last-Translator: poc senderi <pocsenderi@protonmail.com>\n"
 "Language-Team: Catalan <https://hosted.weblate.org/projects/fsfe/ada-zangemann/ca/>\n"
 "Language: ca\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Poedit 3.6\n"
+"X-Generator: Weblate 5.16.1-dev\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
@@ -141,7 +141,7 @@ msgstr ""
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:331
 msgid "A soldering iron and a brush and can with yellow paint, connected by white electrical cord that forms a frame."
-msgstr ""
+msgstr "Un soldador, un pinzell i un pot de pintura groga, connectats per un cable elèctric blanc que forma un marc."
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-back-1
@@ -160,7 +160,7 @@ msgstr "Un llibre infantil que transmet la joia de fer experiments i anima a l�
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:342
 msgid "A power strip, with input and output of white electrical cord that is the frame."
-msgstr ""
+msgstr "Una base d'endolls, amb entrada i sortida de cable elèctric blanc que fa de marc."
 
 #. (itstool) path: info/title
 #. Page before the colophon and the title page, with just the title. Also
@@ -178,7 +178,7 @@ msgstr ""
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:364 Ada_Zangemann.dbk:490
 msgid "ADA &amp; ZANGEMANN"
-msgstr ""
+msgstr "ADA &amp; ZANGEMANN"
 
 #. (itstool) path: info/title
 #. Also known as 'imprint'
@@ -305,7 +305,7 @@ msgstr "Portada"
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:461
 msgid "Matthias Kirschner, Sandra Brandstätter - ADA &amp; ZANGEMANN - A Tale of Software, Skateboards and Raspberry Ice Cream. Title in the middle, authors in the upper left. In the lower right, Ada’s family’s dog with gray fur and some white patches and with a red collar with shiny yellow LEDs, which wags its tail."
-msgstr ""
+msgstr "Matthias Kirschner, Sandra Brandstätter - ADA &amp; ZANGEMANN - Un conte sobre programari, monopatins i gelat de mora roja. Títol al centre, autors a dalt a l'esquerra. A baix a la dreta, el gos de la família de l'Ada amb pelatge gris i algunes taques blanques i amb un collar vermell amb leds grocs brillants, i que remena la cua."
 
 #. (itstool) path: mediaobject/alt
 #. ignore-same
@@ -314,21 +314,21 @@ msgstr ""
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:468
 msgid "Matthias Kirschner, Sandra Brandstätter"
-msgstr ""
+msgstr "Matthias Kirschner, Sandra Brandstätter"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:478
 msgid "ADA &amp; ZANGEMANN - A Tale of Software, Skateboards and Raspberry Ice Cream. Title in the middle, authors in the upper left."
-msgstr ""
+msgstr "ADA &amp; ZANGEMANN - Un conte sobre programari, monopatins i gelat de mora roja. Títol al centre, autors a dalt a l'esquerra."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:485
 msgid "In the lower right, Ada’s family’s dog with gray fur and some white patches and with a red collar with shiny yellow LEDs, which wags its tail."
-msgstr ""
+msgstr "A baix a la dreta, el gos de la família de l'Ada amb pelatge gris i algunes taques blanques i amb un collar vermell amb leds grocs brillants, i que remena la cua."
 
 #. (itstool) path: simplesect/literallayout
 #. In a literallayout element all space and newline characters are kept.
@@ -370,14 +370,14 @@ msgstr "No tenien prou diners per a viure en una casa en condicions. En comptes 
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:510
 msgid "Ada in foreground leaving the house to go to school, in the background Ada’s house and the junkyard. Ada has a brown backpack with yellow shoulder straps. To the left of Ada there is a red car, a Volkswagen Beetle, without wheels and no longer working, with one of the headlights remaining attached only with its wires. On the left, in front of the car, there are two tires, two boxes – one of which is a wooden box with an overturned bucket –, and an empty can, all among some plants with yellow flowers. In the background there is Ada’s house, with her mother and her brother Alan waving goodbye, and the dog sitting on the ground. Alan is sitting on the two entrance steps of the house. He has short dark hair and is dressed in a white short-sleeved shirt with a red stripe at the edges of the sleeves and two red stripes at the bottom of the shirt. Alan wears blue shorts and he is barefoot. Ada’s mom has dark lipstick and long black hair in a white headband. She is wearing a short blue shirt with white trim, white pants, and yellow shoes. Ada’s house is built of wood, with the front being white. The roof is dark red corrugated sheeting. There are two windows in front in addition to the door, and another window on the left side. A yellow duck stands on top of the roof, while a gray chimney protrudes. An antenna on the left of the roof supports a clothesline on which red clothespins hold a green tank top, a pair of light blue pants, and white underpants. To the right of the house there is a veranda on which there is installed a solar panel. Under the veranda there are a mattress, a red oil drum, and a gray case. Behind the house there are piles of landfill objects among which you can see a washing machine, a car, and various wooden boards."
-msgstr ""
+msgstr "Ada en primer pla sortint de casa per anar a l'escola, al fons la casa de l'Ada i el pati. L'Ada duu una motxilla marró amb corretges grogues. A l'esquerra de l'Ada hi ha un cotxe vermell, un escarabat Volkswagen, sense rodes i que ja no funciona, amb un dels fars penjant pels cables. A l'esquerra, davant del cotxe, hi ha dos pneumàtics, dues caixes, una de les quals és de fusta amb una galleda bolcada, i una llauna buida, tot això entre algunes plantes amb flors grogues. Al fons hi ha la casa de l'Ada, amb la seva mare i el seu germà Alan acomiadant-se, i el gos assegut a terra. L'Alan està assegut a les dues escales d'entrada de la casa. Té els cabells foscos i curts i va vestit amb una camisa blanca de màniga curta amb una ratlla vermella a les vores de les mànigues i dues ratlles vermelles a la part inferior de la camisa. L'Alan porta pantalons curts blaus i va descalç. La mare de l'Ada duu pintallavis fosc i cabells llargs i negres amb una diadema blanca. Porta una camisa blava curta amb rivet blanc, pantalons blancs i sabates grogues. La casa d'Ada és feta de fusta, amb la façana blanca. El sostre és de xapa corrugada de color vermell fosc. Hi ha dues finestres al davant, a més de la porta, i una altra al costat esquerre. Un ànec groc està a la part superior de la teulada, d'on sobresurt una xemeneia grisa. Una antena a l'esquerra del sostre aguanta un estenedor de els fils vermells amb un top de color verd militar, un parell de pantalons blau clar i roba interior blanca. A la dreta de la casa hi ha un porxo sobre el qual hi ha instal·lat un panell solar. Sota el porxo hi ha un matalàs, un bidó d'oli vermell i una caixa grisa. Darrere de la casa hi ha munts d'objectes llençats entre els quals es pot veure una rentadora, un cotxe i diversos taulers de fusta."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:518
 msgid "Prestigious magazines (“STARS“, “MONEY”, “Richest Man”) on whose cover are Zangemann and his villa."
-msgstr ""
+msgstr "Revistes famoses (“STARS“, “MONEY”, “Richest Man”) que tenen a la portada el Zangemann i la seva mansió."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:520
@@ -397,7 +397,7 @@ msgstr "La mansió de Zangemann es trobava al cim d’un puig des d'on podia veu
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:525
 msgid "Zangemann and computers"
-msgstr ""
+msgstr "Zangemann i els ordinadors"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:529
@@ -630,7 +630,7 @@ msgstr "Al començament no tots els seus invents semblaven necessaris, però la 
 #. equal to the beginning of the first sentence of this chapter.
 #: Ada_Zangemann.dbk:603
 msgid "One day..."
-msgstr ""
+msgstr "Un dia..."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:606
@@ -735,12 +735,12 @@ msgstr ""
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:650
 msgid "Continuation of the previous picture, where in the background there is the hill with Zangemann’s house from whose antenna come the signals to control the various devices. In emerging images there are: a red electric skateboard, a light bulb, an ice cream machine, and a toilet, all of which are receiving commands from Zangemann."
-msgstr ""
+msgstr "Continuació de la imatge anterior, on al fons hi ha el turó amb la casa de Zangemann amb l'antena des d'on arriben els senyals per controlar els diversos dispositius. En imatges emergents hi ha: un monopatí de color vermell elèctric, una bombeta, una màquina de gelats, i un vàter, i tots ells estan rebent les ordres de Zangemann."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:656
 msgid "Skateboards no longer work"
-msgstr ""
+msgstr "Els monopatins ja no funcionen"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:660
@@ -804,7 +804,7 @@ msgstr "Només una marxa estranya i pomposa continuava sonant a volum alt, cosa 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:682
 msgid "Ada and software"
-msgstr ""
+msgstr "Ada i el programari"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p20-1
@@ -832,7 +832,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:701
 msgid "Programming"
-msgstr ""
+msgstr "Programació"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p22-1
@@ -877,7 +877,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:730
 msgid "A horrible night"
-msgstr ""
+msgstr "Una nit esgarrifosa"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p25-1
@@ -898,7 +898,7 @@ msgstr "Quan va acabar, va enviar tots els programes nous des del seu ordinador 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:741
 msgid "First real project"
-msgstr ""
+msgstr "El primer projecte real"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p26-1
@@ -965,7 +965,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:783
 msgid "Hacking for freedom"
-msgstr ""
+msgstr "Hackejar per la llibertat"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p30-1
@@ -1048,7 +1048,7 @@ msgstr "Construïen algunes coses només per diversió, com la màquina de tirar
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:847
 msgid "Zangemann and the President"
-msgstr ""
+msgstr "Zangemann i el President"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p36-1
@@ -1093,7 +1093,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:877
 msgid "Protest"
-msgstr ""
+msgstr "Protesta"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p39-1
@@ -1163,7 +1163,7 @@ msgstr "Torneu‐nos els nostres ordinadors!"
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:924
 msgid "Children help the government"
-msgstr ""
+msgstr "La mainada ajuda al govern"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p42-1
@@ -1208,7 +1208,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:951
 msgid "New law"
-msgstr ""
+msgstr "Nova llei"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p44-1
@@ -1277,7 +1277,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:997
 msgid "And Zangemann?"
-msgstr ""
+msgstr "I Zangemann?"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p48-1
