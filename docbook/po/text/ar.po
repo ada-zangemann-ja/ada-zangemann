@@ -1,15 +1,17 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-10 08:39+0100\n"
-"Last-Translator: \n"
-"Language-Team: \n"
+"PO-Revision-Date: 2026-02-24 01:09+0000\n"
+"Last-Translator: Albrecht Schwenke <albrechtschwenke@outlook.com>\n"
+"Language-Team: Arabic <https://hosted.weblate.org/projects/fsfe/ada-zangemann/ar/>\n"
 "Language: ar\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.6\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+"X-Generator: Weblate 5.16.1-dev\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
@@ -51,7 +53,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:284
 msgid "Ada"
-msgstr ""
+msgstr "آدا"
 
 #. (itstool) path: character/charactername
 #. Name must not be changed.
@@ -82,7 +84,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:293
 msgid "Toni"
-msgstr ""
+msgstr "طوني"
 
 #. (itstool) path: character/charactername
 #. Character names are mostly reference to existing people in computer
@@ -97,7 +99,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:296
 msgid "Konrad"
-msgstr ""
+msgstr "كنراد"
 
 #. (itstool) path: character/charactername
 #. Character names are mostly reference to existing people in computer
@@ -112,7 +114,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:299
 msgid "Marie"
-msgstr ""
+msgstr "ماري"
 
 #. (itstool) path: character/charactername
 #. Character names are mostly reference to existing people in computer
