@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
-"PO-Revision-Date: 2026-02-21 07:09+0000\n"
+"PO-Revision-Date: 2026-03-01 11:11+0000\n"
 "Last-Translator: Pia Vinkki <pia.vinkki@gmail.com>\n"
 "Language-Team: Finnish <https://hosted.weblate.org/projects/fsfe/ada-zangemann/fi/>\n"
 "Language: fi\n"
@@ -133,14 +133,14 @@ msgstr "Rouva Gernet"
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:322
 msgid "Ada &amp; Zangemann - A Tale of Software, Skateboards, and Raspberry Ice Cream. By Matthias Kirschner and Sandra Brandstätter. On a mostly desaturated dark cyan background, in a frame composed of sometimes curled white lines that connect a mouse, a keyboard, and a pink smartphone, Ada and Zangemann are facing each other, both with their hands on their hips as a sign of challenge. Ada is smiling and Zangemann is frowning. Ada has black hair collected in two big right- and left-bound ringlets with red rubber bands, and red cheeks. She has little yellow stud earrings. She wears cyan and white horizontal striped shorts and a yellow shirt over a white undershirt that ends with embroidery that goes beyond the shirt. The shirt and undershirt come out over the shorts. Above the shirt Ada wears a blue hoodie. Ada is wearing red shoes with white tips and soles, and short white socks. She has one foot on a skateboard and the other on the ground. Zangemann has short gray hair and square glasses. He is wearing a purple turtle-neck sweater, light blue pants turned up, brown shoes, and white socks. He’s wearing a big tech watch. Above Zangemann there are a pair of pliers with red handles crossing the wire frame."
-msgstr ""
+msgstr "Ada ja Zangemann. Tarina ohjelmistoista, rullalaudoista ja vadelmajäätelöstä. Kirjoittajina Matthias Kirschner ja Sandra Brandstätter. Kuvan tummansinistä taustaa ympäröivät sinne tänne kiemurtelevat valkoiset kaapelit, jotka yhdistävät hiiren, näppäimistön ja vaaleanpunaisen älypuhelimen. Kuvassa Ada ja Zangemann seisovat kasvokkain, kädet uhmakkaasti lanteilla. Ada hymyilee, mutta Zangemann näyttää ärtyneeltä. Adan mustat hiukset on jaettu kahdelle ponnarille, hiuslenkit ovat yhtä punaiset kuin Adan posket. Adalla on pienet kultaiset korvakorut. Hänellä on päällään sinivalkoraitaiset sortsit ja keltainen paita, jonka alta pilkottaa valkoinen kirjailtu aluspaita. Aluspaita ja paita ylettyvät sortsien päälle. Paidan päällä Adalla on sininen huppari. Adalla on lyhyet valkoiset sukat ja punaiset kengät, joissa on valkoiset kärjet ja pohjat. Ada seisoo toinen jalka maassa ja toinen rullalaudan päällä. Zangemannilla on lyhyet harmaat hiukset ja kulmikkaat silmälasit. Hänellä on violetti poolopusero, vaaleansiniset, lahkeista käännetyt housut, valkoiset sukat ja ruskeat kengät. Hänellä on ranteessa suuri älykello. Zangemannin yläpuolella, kuvaa kehystävien kaapelien päällä, on punakahvaiset pihdit."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:331
 msgid "A soldering iron and a brush and can with yellow paint, connected by white electrical cord that forms a frame."
-msgstr ""
+msgstr "Kehyksenä on valkoinen sähköjohto, joka yhdistää juotosraudan, pensselin ja keltaisen maalipurkin."
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-back-1
@@ -158,7 +158,7 @@ msgstr "Kirja herättää lukijan kiinnostuksen näpertelemiseen ja kehottaa muo
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:342
 msgid "A power strip, with input and output of white electrical cord that is the frame."
-msgstr ""
+msgstr "Jatkojohto, johon kytketyt valkoiset sähköjohdot muodostavat kehyksen."
 
 #. (itstool) path: info/title
 #. Page before the colophon and the title page, with just the title. Also
@@ -176,7 +176,7 @@ msgstr "Esinimiölehti"
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:364 Ada_Zangemann.dbk:490
 msgid "ADA &amp; ZANGEMANN"
-msgstr ""
+msgstr "ADA JA ZANGEMANN"
 
 #. (itstool) path: info/title
 #. Also known as 'imprint'
@@ -213,6 +213,30 @@ msgid ""
 "\n"
 "<emphasis role=\"bold\">A big thank you</emphasis> to <emphasis role=\"bold\">dpunkt.verlag</emphasis> and <emphasis role=\"bold\">No Starch Press</emphasis> for understanding the values of software freedom, taking the time to discuss and understand the advantages of free cultural licenses, and the great support to publish this book under conditions that respect the FSFE’s values."
 msgstr ""
+"Alkutekstin © 2023 Matthias Kirschner ja Sandra Brandstätter. Suomennoksen © 2026 Pia Vinkki. Käännöskuvituksen © 2026 Nico Rikken.\n"
+"\n"
+"Julkaisija ja toimittaja: Petter Reinholdtsen\n"
+"\n"
+"Tämän teoksen käyttöoikeudet ovat Creative Commons Nimeä-JaaSamoin 4.0 Kansainvälisen Julkisen Lisenssin mukaisia. Lisenssiehdot löytyvät suomeksi sivulta <link xlink:href=\"https://creativecommons.org/licenses/by-sa/4.0/legalcode.fi\">https://creativecommons.org/licenses/by-sa/4.0/legalcode.fi</link>. Voit myös pyytää lisenssiehdot kirjeitse osoitteesta Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.\n"
+"\n"
+"<emphasis role=\"bold\">Ada ja Zangemann: Tarina ohjelmistoista, rullalaudoista ja vadelmajäätelöstä</emphasis> on käännetty saksankielisestä alkuteoksesta Ada und Zangemann: Ein Märchen über Software, Skateboards und Himbeereis, © 2022 Matthias Kirschner ja Sandra Brandstätter.\n"
+"\n"
+"<!>ISBN-13: 978-82-93828-24-2 (nidottu)\n"
+"<!>ISBN-13: 978-82-93828-25-9 (PDF)\n"
+"\n"
+"Jos haluat tietoja jakelusta, tukkukaupasta tai yritysmyynnistä, ota yhteyttä kustantajaan (<link xlink:href=\"https://codeberg.org/pere/text-ada-zangemann\">https://codeberg.org/pere/text-ada-zangemann</link>) tai vieraile verkkokaupassa: <link xlink:href=\"https://www.lulu.com/shop\">https://www.lulu.com/shop</link>.\n"
+"\n"
+"Tämä Matthias Kirschnerin (kirjoittaja) ja Sandra Brandstätterin (kuvittaja) kirja on saatavilla vapaan kulttuurin lisenssin <emphasis role=\"bold\">Creative Commons CC BY-SA</emphasis> käyttöehtojen mukaisesti.\n"
+"\n"
+"<emphasis role=\"bold\">Sinä saat</emphasis> jakaa ja kopioida aineistoa sekä levittää sitä edelleen missä tahansa välineessä ja muodossa. <emphasis role=\"bold\">Sinä saat</emphasis> muunnella, remiksata ja muokata aineistoa sekä luoda sen pohjalta uusia aineistoja missä tahansa tarkoituksessa, myös kaupallisesti. <emphasis role=\"bold\">Sinun tulee</emphasis> mainita lähde asianmukaisesti, tarjota linkki lisenssiin sekä merkitä, mikäli olet tehnyt muutoksia.\n"
+"\n"
+"<emphasis role=\"bold\">Sinä saat</emphasis> tehdä tämän millä tahansa kohtuullisella tavalla, mutta et siten, että annat ymmärtää lisenssinantajan suosittelevan sinua tai teoksen käyttöäsi. Jos remiksaat tai muokkaat aineistoa taikka luot sen pohjalta uusia aineistoja, <emphasis role=\"bold\">sinun tulee</emphasis> jakaa muutoksiasi samoilla käyttöehdoilla kuin alkuperäistä aineistoa. (Tämä on ihmisluettava tiivistelmä CC BY-SA 4.0 -lisenssin juridisesta tekstistä, ei sen korvike.)\n"
+"\n"
+"Mukautusten ja sovitelmien (muunneltu aineisto) tapauksessa lisenssinantaja pyytää, ettet muuta kirjoittajan henkilökohtaisia kiitossanoja etkä kirjoittajan tai kuvittajan biografioita, vaan että sen sijaan poistat nämä kokonaan muokkaamastasi aineistosta.\n"
+"\n"
+"Kustantamo dpunkt.verlag / O'Reilly on tuellaan mahdollistanut sen, että saksankielinen kirja on julkaistu vapaan kulttuurin lisenssillä. Creative Commons -lisenssien käyttö kaupallisissa julkaisuissa on edelleen harvinaista ja moni kustantaja pitää niitä vallankumouksellisina ja riskialttiina käyttöehtoina, mikä on hyvin valitettavaa.\n"
+"\n"
+"<emphasis role=\"bold\">Suuri kiitos</emphasis> kuuluukin <emphasis role=\"bold\">dpunkt.verlagille</emphasis> ja <emphasis role=\"bold\">No Starch Pressille</emphasis>, jotka ohjelmistojen vapautta arvostaen ja vapaan kulttuurin lisenssien edut ymmärtäen ovat tukeneet tämän kirjan julkaisemista Euroopan vapaiden ohjelmien säätiön FSFE:n arvojen mukaisesti."
 
 #. (itstool) path: simplesect/literallayout
 #. Full page colophon. Intended for print use, as an alternative to the
@@ -276,6 +300,63 @@ msgid ""
 "\n"
 "<emphasis role=\"bold\">A big thank you</emphasis> to <emphasis role=\"bold\">dpunkt.verlag</emphasis> and <emphasis role=\"bold\">No Starch Press</emphasis> for understanding the values of software freedom, taking the time to discuss and understand the advantages of free cultural licenses, and the great support to publish this book under conditions that respect the FSFE’s values."
 msgstr ""
+"Alkutekstin © 2023 Matthias Kirschner ja Sandra Brandstätter. \n"
+"Suomennoksen © 2026 Pia Vinkki.\n"
+" Käännöskuvituksen © 2025 Nico Rikken.\n"
+"Copyright © 2023 Matthias Kirschner and Sandra Brandstätter.\n"
+"\n"
+"Tämä teos on lisensoitu Creative Commons Nimeä-JaaSamoin 4.0 Kansainvälisellä Lisenssillä.\n"
+"Lisenssiehdot löytyvät suomeksi sivulta <link xlink:href=\"https://creativecommons.org/licenses/by-sa/4.0/legalcode.fi\">https://creativecommons.org/licenses/by-sa/4.0/legalcode.fi</link>. Voit myös pyytää lisenssiehdot kirjeitse osoitteesta Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.\n"
+"\n"
+"<emphasis role=\"bold\">Ada ja Zangemann: Tarina ohjelmistoista, rullalaudoista ja vadelmajäätelöstä</emphasis> on käännetty saksankielisestä alkuteoksesta Ada und Zangemann: Ein Märchen über Software, Skateboards und Himbeereis, © 2022 Matthias Kirschner ja Sandra Brandstätter.\n"
+"\n"
+"Ensimmäinen <!>painos\n"
+"\n"
+"26 25 24 23 22 1 2 3 4 5\n"
+"\n"
+"<!>ISBN-13: 978-1-7185-0318-2 (painettu kirja)\n"
+"<!>ISBN-13: 978-1-7185-0319-9 (e-kirja)\n"
+"\n"
+"Julkaisija: Petter Reinholdtsen\n"
+"Kirjoittaja: Matthias Kirschner\n"
+"Kuvittaja: Sandra Brandstätter\n"
+"\n"
+"Jos haluat tietoja jakelusta, tukkukaupasta tai yritysmyynnistä, ota yhteyttä kustantajaan (<link xlink:href=\"https://codeberg.org/pere/text-ada-zangemann\">https://codeberg.org/pere/text-ada-zangemann</link>) tai vieraile verkkokaupassa: <link xlink:href=\"https://www.lulu.com/shop\">https://www.lulu.com/shop</link>.\n"
+"\n"
+"Kaikki kirjassa mainitut tuotteet ja yritysten nimet voivat olla tavaramerkkejä, joiden oikeudet kuuluvat niiden omistajille. Nimiä ei ole merkitty tavaramerkkisymbolilla joka kerta, kun tavaramerkin nimi mainitaan, vaan nimiä käytetään vain toimituksellisessa tarkoituksessa ja tavaramerkin omistajan eduksi, ilman mitään tarkoitusta käyttää tavaramerkkiä väärin.\n"
+"\n"
+"Tämän kirjan sisältö tarjotaan ”kuten on”, ilman takuuta. Vaikka tätä teosta valmisteltaessa on huomioitu kaikki varotoimet, ei kirjoittaja eikä kustantaja ole velvollinen korvaamaan kenenkään henkilön tai toimijan menetyksiä tai vahinkoja, jotka ovat aiheutuneet tai joiden väitetään aiheutuneen suoraan tai välillisesti tämän teoksen sisällöstä.\n"
+"\n"
+"Kaikki tämän julkaisun hahmot ovat kuvitteellisia. Kaikki yhtäläisyydet todellisten, joko elävien tai kuolleiden, henkilöiden kanssa on silkkaa sattumaa.\n"
+"\n"
+"**\n"
+"\n"
+"Tämä Matthias Kirschnerin (kirjoittaja) ja Sandra Brandstätterin (kuvittaja) kirja on saatavilla vapaan kulttuurin lisenssin <emphasis role=\"bold\">Creative Commons CC BY-SA</emphasis> käyttöehtojen mukaisesti.\n"
+"\n"
+"<emphasis role=\"bold\">Sinä saat</emphasis> jakaa ja kopioida aineistoa sekä levittää sitä edelleen missä tahansa välineessä ja muodossa. <emphasis role=\"bold\">Sinä saat</emphasis> muunnella, remiksata ja muokata aineistoa sekä luoda sen pohjalta uusia aineistoja missä tahansa tarkoituksessa, myös kaupallisesti. <emphasis role=\"bold\">Sinun tulee</emphasis> mainita lähde asianmukaisesti, tarjota linkki lisenssiin sekä merkitä, mikäli olet tehnyt muutoksia.\n"
+"\n"
+"<emphasis role=\"bold\">Sinä saat</emphasis> tehdä tämän millä tahansa kohtuullisella tavalla, mutta et siten, että annat ymmärtää lisenssinantajan suosittelevan sinua tai teoksen käyttöäsi. Jos remiksaat tai muokkaat aineistoa taikka luot sen pohjalta uusia aineistoja, <emphasis role=\"bold\">sinun tulee</emphasis> jakaa muutoksiasi samoilla käyttöehdoilla kuin alkuperäistä aineistoa. (Tämä on ihmisluettava tiivistelmä CC BY-SA 4.0 -lisenssin juridisesta tekstistä, ei sen korvike.)\n"
+"\n"
+"Mukautusten ja sovitelmien (muunneltu aineisto) tapauksessa lisenssinantaja pyytää, ettet muuta kirjoittajan henkilökohtaisia kiitossanoja etkä kirjoittajan tai kuvittajan biografioita, vaan että sen sijaan poistat nämä kokonaan muokkaamastasi aineistosta.\n"
+"\n"
+"Kustantamo dpunkt.verlag / O'Reilly on tuellaan mahdollistanut sen, että saksankielinen kirja on julkaistu vapaan kulttuurin lisenssillä. Creative Commons -lisenssien käyttö kaupallisissa julkaisuissa on edelleen harvinaista ja moni kustantaja pitää niitä vallankumouksellisina ja riskialttiina käyttöehtoina, mikä on hyvin valitettavaa.\n"
+"\n"
+"<emphasis role=\"bold\">Suuri kiitos</emphasis> kuuluukin <emphasis role=\"bold\">dpunkt.verlagille</emphasis> ja <emphasis role=\"bold\">No Starch Pressille</emphasis>, jotka ohjelmistojen vapautta arvostaen ja vapaan kulttuurin lisenssien edut ymmärtäen ovat tukeneet tämän kirjan julkaisemista Euroopan vapaiden ohjelmien säätiön FSFE:n arvojen mukaisesti.\n"
+"\n"
+"\n"
+"<emphasis role=\"bold\">A big thank you</emphasis> to <emphasis role=\"bold\">dpunkt.verlag</emphasis> and <emphasis role=\"bold\">No Starch Press</emphasis> for understanding the values of software freedom, taking the time to discuss and understand the advantages of free cultural licenses, and the great support to publish this book under conditions that respect the FSFE’s values.\n"
+"\n"
+"Tämä Matthias Kirschnerin (kirjoittaja) ja Sandra Brandstätterin (kuvittaja) kirja on saatavilla vapaan kulttuurin lisenssin <emphasis role=\"bold\">Creative Commons CC BY-SA</emphasis> käyttöehtojen mukaisesti.\n"
+"\n"
+"<emphasis role=\"bold\">Sinä saat</emphasis> jakaa ja kopioida aineistoa sekä levittää sitä edelleen missä tahansa välineessä ja muodossa. <emphasis role=\"bold\">Sinä saat</emphasis> muunnella, remiksata ja muokata aineistoa sekä luoda sen pohjalta uusia aineistoja missä tahansa tarkoituksessa, myös kaupallisesti. <emphasis role=\"bold\">Sinun tulee</emphasis> mainita lähde asianmukaisesti, tarjota linkki lisenssiin sekä merkitä, mikäli olet tehnyt muutoksia.\n"
+"\n"
+"<emphasis role=\"bold\">Sinä saat</emphasis> tehdä tämän millä tahansa kohtuullisella tavalla, mutta et siten, että annat ymmärtää lisenssinantajan suosittelevan sinua tai teoksen käyttöäsi. Jos remiksaat tai muokkaat aineistoa taikka luot sen pohjalta uusia aineistoja, <emphasis role=\"bold\">sinun tulee</emphasis> jakaa muutoksiasi samoilla käyttöehdoilla kuin alkuperäistä aineistoa. (Tämä on ihmisluettava tiivistelmä CC BY-SA 4.0 -lisenssin juridisesta tekstistä, ei sen korvike.)\n"
+"\n"
+"Mukautusten ja sovitelmien (muunneltu aineisto) tapauksessa lisenssinantaja pyytää, ettet muuta kirjoittajan henkilökohtaisia kiitossanoja etkä kirjoittajan tai kuvittajan biografioita, vaan että sen sijaan poistat nämä kokonaan muokkaamastasi aineistosta.\n"
+"\n"
+"Kustantamo dpunkt.verlag / O'Reilly on tuellaan mahdollistanut sen, että saksankielinen kirja on julkaistu vapaan kulttuurin lisenssillä. Creative Commons -lisenssien käyttö kaupallisissa julkaisuissa on edelleen harvinaista ja moni kustantaja pitää niitä vallankumouksellisina ja riskialttiina käyttöehtoina, mikä on hyvin valitettavaa.\n"
+"\n"
+"<emphasis role=\"bold\">Suuri kiitos</emphasis> kuuluukin <emphasis role=\"bold\">dpunkt.verlagille</emphasis> ja <emphasis role=\"bold\">No Starch Pressille</emphasis>, jotka ohjelmistojen vapautta arvostaen ja vapaan kulttuurin lisenssien edut ymmärtäen ovat tukeneet tämän kirjan julkaisemista Euroopan vapaiden ohjelmien säätiön FSFE:n arvojen mukaisesti."
 
 #. (itstool) path: simplesect/literallayout
 #. Grey section in the bottom of half page colophon.
@@ -290,6 +371,11 @@ msgid ""
 "We encourage you to support authors, publishers, and others involved in the creation of culture under free licenses – including <emphasis role=\"bold\">financially supporting them through purchases or donations</emphasis>. (<link xlink:href=\"https://fsfe.org/donate\">https://fsfe.org/donate</link>)\n"
 "Society should support those who respect others’ freedom."
 msgstr ""
+"<emphasis role=\"bold\">Vapaa, ei ilmainen</emphasis>\n"
+"Vapaa ohjelmisto ei tarkoita, että ohjelmiston saa käyttöönsä ilmaiseksi, vaan että ohjelmiston käyttäjällä on vapauksia käyttää, muokata ja jakaa sitä. Vastaavasti vapaalla lisenssillä julkaistu kirjan ei tarkoita, että sinulla on oikeus saada kirjasta ilmainen versio, vaan että sinä saat yllä mainitut oikeudet niin, että koko yhteisö voi hyötyä kirjasta – aivan kuten sen tulisi voida hyötyä kaikista kulttuurituotteista.\n"
+"\n"
+"Kannustamme sinua tukemaan tekijöitä, kustantajia ja muita vapaan lisenssin kulttuurituotteiden luomiseen osallistuvia tahoja vaikkapa <emphasis role=\"bold\">tukemalla heitä taloudellisesti ostojen tai lahjoitusten avulla</emphasis>. (<link xlink:href=\"https://fsfe.org/donate\">https://fsfe.org/donate</link>)\n"
+"Yhteiskunnan tulisi tukea heitä, jotka kunnioittavat muiden vapauksia."
 
 #. (itstool) path: info/title
 #. Page next to the colophon with title, subtitle, authors and
@@ -303,7 +389,7 @@ msgstr "Otsikkosivu"
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:461
 msgid "Matthias Kirschner, Sandra Brandstätter - ADA &amp; ZANGEMANN - A Tale of Software, Skateboards and Raspberry Ice Cream. Title in the middle, authors in the upper left. In the lower right, Ada’s family’s dog with gray fur and some white patches and with a red collar with shiny yellow LEDs, which wags its tail."
-msgstr ""
+msgstr "Matthias Kirschner ja Sandra Brandstätter - Ada ja Zangemann. Tarina ohjelmistoista, rullalaudoista ja vadelmajäätelöstä. Otsikko keskellä, tekijät ylhäällä vasemmalla. Oikeassa alakulmassa on Adan perheen koira, joka heiluttaa häntää. Koiran turkki on harmaa, ja siinä on valkoisia läikkiä. Koiralla on punainen kaulapanta, jossa on keltaisia LED-valoja."
 
 #. (itstool) path: mediaobject/alt
 #. ignore-same
@@ -312,21 +398,21 @@ msgstr ""
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:468
 msgid "Matthias Kirschner, Sandra Brandstätter"
-msgstr ""
+msgstr "Matthias Kirschner ja Sandra Brandstätter"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:478
 msgid "ADA &amp; ZANGEMANN - A Tale of Software, Skateboards and Raspberry Ice Cream. Title in the middle, authors in the upper left."
-msgstr ""
+msgstr "ADA JA ZANGEMANN. Tarina ohjelmistoista, rullalaudoista ja vadelmajäätelöstä. Otsikko keskellä, tekijät vasemmalla ylhäällä."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:485
 msgid "In the lower right, Ada’s family’s dog with gray fur and some white patches and with a red collar with shiny yellow LEDs, which wags its tail."
-msgstr ""
+msgstr "Oikeassa alakulmassa on Adan perheen koira, joka heiluttaa häntää. Koiralla on harmaa turkki, jossa on valkoisia läikkiä. Koiran punaisessa kaulapannassa on keltaisia LED-valoja."
 
 #. (itstool) path: simplesect/literallayout
 #. In a literallayout element all space and newline characters are kept.
@@ -368,14 +454,14 @@ msgstr "Perheellä ei ollut tarpeeksi rahaa kunnollisessa talossa asumiseen. Sen
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:510
 msgid "Ada in foreground leaving the house to go to school, in the background Ada’s house and the junkyard. Ada has a brown backpack with yellow shoulder straps. To the left of Ada there is a red car, a Volkswagen Beetle, without wheels and no longer working, with one of the headlights remaining attached only with its wires. On the left, in front of the car, there are two tires, two boxes – one of which is a wooden box with an overturned bucket –, and an empty can, all among some plants with yellow flowers. In the background there is Ada’s house, with her mother and her brother Alan waving goodbye, and the dog sitting on the ground. Alan is sitting on the two entrance steps of the house. He has short dark hair and is dressed in a white short-sleeved shirt with a red stripe at the edges of the sleeves and two red stripes at the bottom of the shirt. Alan wears blue shorts and he is barefoot. Ada’s mom has dark lipstick and long black hair in a white headband. She is wearing a short blue shirt with white trim, white pants, and yellow shoes. Ada’s house is built of wood, with the front being white. The roof is dark red corrugated sheeting. There are two windows in front in addition to the door, and another window on the left side. A yellow duck stands on top of the roof, while a gray chimney protrudes. An antenna on the left of the roof supports a clothesline on which red clothespins hold a green tank top, a pair of light blue pants, and white underpants. To the right of the house there is a veranda on which there is installed a solar panel. Under the veranda there are a mattress, a red oil drum, and a gray case. Behind the house there are piles of landfill objects among which you can see a washing machine, a car, and various wooden boards."
-msgstr ""
+msgstr "Kuvan etualalla on Ada lähdössä kotoa kouluun, taka-alalla Adan koti ja romupiha. Adalla on ruskea reppu, jossa on keltaiset olkahihnat. Adan vasemmalla puolella on punainen auto, Volkswagen Kupla. Auto on ajokelvoton, siinä ei ole renkaita, ja jäljellä on vain toinen etuvalo, joka roikkuu johtojen varassa. Auton edessä vasemmalla on kaksi rengasta, kaksi laatikkoa – toinen niistä on puulaatikko, jossa on ylösalaisin oleva ämpäri – sekä tyhjä säilykepurkki. Kaikki nämä ovat keltaisten kukkien keskellä. Taustalla Adan kodin edessä Adan äiti ja pikkuveli Alan vilkuttavat lähtijälle ja koira istuu maassa. Alan istuu talon johtavilla portailla. Alanilla on tummat lyhyet hiukset, ja hänellä on päällään valkoinen lyhythihainen paita, jonka hihansuussa on punainen raita ja helmassa kaksi punaista raitaa. Avojalkaisella Alanilla on lyhyet siniset housut. Adan äidillä on tummaa huulipunaa, hänen pitkät mustat hiuksensa on kiinnitetty valkoisella nauhalla. Hänellä on päällään lyhyt sininen mekko, jonka reunat ovat valkoiset sekä valkoiset housut ja keltaiset kengät. Adan kotitalo on rakennettu puusta. Talossa on valkoinen julkisivu ja tummanpunainen aaltopeltikatto. Talon etuseinällä näkyy ovi ja kaksi ikkunaa, ja vasemmalla seinällä yksi ikkuna. Katon harjalla seisoo keltainen ankka, ja katosta kohoaa harmaa savupiippu. Katon vasemmassa reunassa on antenni, johon on kiinnitetty pyykkinaru. Pyykkinarulle on ripustettu vihreä toppi, vaaleansiniset housut ja valkoiset alushousut. Talon oikealla puolella on veranta, jonka katolle on asennettu aurinkopaneeli. Verannan alla on patjoja, punainen öljytynnyri ja harmaa laatikko. Talon takana on kasoittain romua, muun muassa pesukone, auto ja erilaisia lautoja."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:518
 msgid "Prestigious magazines (“STARS“, “MONEY”, “Richest Man”) on whose cover are Zangemann and his villa."
-msgstr ""
+msgstr "Kuuluisia aikakauslehtiä (”TÄHDET”, ”RAHA”, ”Rikkain mies”), joiden etusivulla on Zangemann ja hänen huvilansa."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:520
@@ -437,7 +523,7 @@ msgstr "Mitä isommaksi Zangemann kasvoi, sitä pienemmiksi tietokoneet kutistui
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:537
 msgid "Zangemann as a child on a chair at a school table. From his head come six bubbles in which there are his ideas of places in which to insert computers: a video call system, a speaker, a washing machine, a skateboard with radio control on a big computer monitor, a wrist computer, and a shoulder computer with a monitor and keyboard. Zangemann has gray hair, a dark purple shirt with blue horizontal stripes, blue shorts, brown shoes and white socks. He wears glasses and a big watch on his left wrist. On the table there are an open notebook, a yellow pencil, and an eraser, while hanging on the side of the table there is his brown briefcase."
-msgstr ""
+msgstr "Kouluikäinen Zangemann tuolilla pulpetin äärellä. Zangemannin päästä lähtee kuusi ajatuskuplaa, joissa näkyy hänen ideoitaan tietokoneiden käyttötavoiksi: videopuhelujärjestelmä, kaiutin, pesukone, suurella tietokoneruudulla näkyvä kauko-ohjattava rullalauta, rannekellotietokone ja repputietokone, jossa on kannettava ruutu ja näppäimistö. Zangemannilla on harmaat hiukset ja hän on pukeutunut tummanviolettiin siniraidalliseen paitaan ja sinisiin sortseihin. Hänellä on ruskeat kengät ja valkoiset sukat. Hänellä on päässään silmälasit ja vasemmassa ranteessaan suuri kello. Pöydällä on avoin muistivihko, keltainen lyijykynä sekä pyyhekumi, ja pöydän viereen on ripustettu Zangemannin ruskea laukku."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:542
@@ -449,7 +535,7 @@ msgstr "”Vihdoinkin voin toteuttaa kaikki ideani!” Zangemann huudahti ja ryh
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:547
 msgid "Zangemann original ice cream machine. It is ice blue in color and is similar to a vending machine of drinks, but instead of the cup there is a cone that is filled with ice cream. Above the dispenser there is a monitor showing the variety that is distributed, in this case pineapple ice cream. On the left there are the slot for inserting coins, the various buttons to choose the flavor, and the hole for returning coins. At the top there is a round white sign with a scoop of candy-pink ice cream in a cone. On the back of the machine there is the refrigeration machinery with the “Z” of the Zangemann logo."
-msgstr ""
+msgstr "Aito automaattinen Zangemann-jäätelökone. Sininen kone muistuttaa juoma-automaattia, mutta pahvimukin tilalla on jäätelöllä täytetty vohvelitötterö. Annostelijan yläpuolella on näyttöruutu, joka ilmoittaa jäätelölajin. Tämä annos on ananasjäätelöä. Vasemmalla puolella on kolikonsyöttöaukko, erilaisia nappeja jäätelön valintaa varten sekä vaihtoraha-aukko. Koneen päällä on pyöreä valkoinen kyltti, jossa näkyy vaaleanpunainen jäätelötötterö. Koneen takana on Zangemannin ”Z”-logolla varustettu kylmälaitteisto."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:549
@@ -476,677 +562,677 @@ msgstr "Kaikki näytti toimivan kuin taika, mutta todellisuus oli yksinkertainen
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:554
 msgid "An original Zangemann electric skateboard leaving a blue trail with musical notes and colored circles. Only the knees, white socks, and olive green shoes with white soles of the child riding it are shown."
-msgstr ""
+msgstr "Aito Zangemann-sähkörullalauta, joka jättää jälkeensä sinisiä nuotteja ja värikkäitä renkaita. Rullalautaa ajaa lapsi, josta näkyvät vain polvet, valkoiset sukat ja oliivinvihreät kengät, joissa on valkoiset pohjat."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:562
 msgid "Ada tinkers with objects in her improvised lab. Ada is sitting on an overturned water case, and working on a repair with a yellow screwdriver. Also on the table are green pliers, a red hammer, a white power strip, and another gadget. Ada is at a table consisting of a wooden board supported by two oil drums (one gray and one red) and a small wooden sawhorse. Behind Ada there are a washing machine, pipes, and a board. In front of the improvised table there are tires and an old phone with faulty wire. Alan is coming toward Ada holding a yellow fan over his head. Alan now wears white socks and yellow shoes."
-msgstr ""
+msgstr "Ada tuunaamassa improvisoidussa työpajassaan. Hän istuu ylösalaisin käännetyn juomalaatikon päällä ja korjaa jotakin laitetta keltaisella ruuvimeisselillä. Pöydällä on toisen laitteen lisäksi vihreät pihdit, punainen vasara ja valkoinen jatkojohto. Pöytä, jonka ääressä Ada istuu, on tehty punaisen ja harmaan öljytynnyrin sekä puisen sahapukin varaan nojaavasta puulevystä. Adan takana on pesukone, putkia ja pala lankkua. Improvisoidun pöydän edessä on autonrenkaita ja vanha rikkinäinen puhelin. Alan tulee Adan luo ja kantaa keltaista tuuletinta päänsä yläpuolella. Alanilla on nyt jalassaan valkoiset sukat ja keltaiset kengät."
 
 #. (itstool) path: para/phrase
 #. Sentence continues in next string.
 #: Ada_Zangemann.dbk:564
 msgid "These inventions were very popular at Ada’s school, and many of her friends rode around on the cool skateboards. Ada was often sad, since her mother couldn’t buy her any of those great things:"
-msgstr ""
+msgstr "Keksinnöt olivat suosittuja myös Adan koulussa, ja monet Adan ystävistä liikkuivat ympäriinsä siisteillä rullalaudoilla. Ada oli usein pahoillaan, sillä hänen äidillään ei ollut varaa ostaa noita upeita laitteita."
 
 #. (itstool) path: para/phrase
 #. Continuation of the sentence.
 #: Ada_Zangemann.dbk:564
 msgid "no skateboard, no speakers, no ice cream."
-msgstr ""
+msgstr "Ei rullalautaa, ei kaiuttimia, ei myöskään jäätelöä."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:566
 msgid "Luckily, Ada lived right next to the junkyard. There were lots of broken gadgets and rusty parts, which she put together to make cool new things, like a soapbox she and Alan rode roaring down the hill, a windmill, and scary junk monsters, which she and Alan would fight together."
-msgstr ""
+msgstr "Onneksi Ada asui romupihan vieressä. Siellä oli monia rikkinäisiä laitteita ja ruosteisia varaosia, joista hän rakensi vaikka mitä siistiä, esimerkiksi saippualaatikosta tehdyn auton, jolla hän ja pikkuveli Alan laskivat mäkeä, tai tuulimyllyn ja pelottavia roskamonstereita, joita vastaan Ada ja Alan taistelivat yhdessä."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:566
 msgid "She also found many useful items—an old cell phone, for example. The screen was cracked, but she could fix that, and while there wasn’t internet at the junkyard, she could get access somewhere else."
-msgstr ""
+msgstr "Hän löysi myös monta käyttökelpoista ja edelleen toimivaa laitetta, esimerkiksi vanhan kännykän. Sen näyttöruudulla oli naarmu, jonka Ada sai korjattua. Romupihalla ei ollut hyvää internet-yhteyttä, mutta hän pääsi nettiin muualla."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:567
 msgid "Ada had so much fun tinkering in the junkyard and fixing broken things that she forgot all about the skateboards and the ice cream."
-msgstr ""
+msgstr "Adasta oli niin hauskaa tuunata romupihalla ja korjata rikkoutuneita laitteita, että hän unohti rullalaudat ja jäätelön."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:571
 msgid "Because everyone bought his inventions, Zangemann soon became the richest person in the whole world."
-msgstr ""
+msgstr "Zangemannista tuli pian maailman rikkain ihminen, sillä kaikki ostivat hänen keksintöjään."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:571
 msgid "With all his money, he bought a huge golden computer with a keyboard made of jewels and set it up in the largest room of his mansion."
-msgstr ""
+msgstr "Hän osti kaikilla rahoillaan kultaisen tietokoneen ja jalokivistä tehdyn näppäimistön, jotka hän laittoi huvilansa suurimpaan huoneeseen."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:571
 msgid "From there, over the internet, he could control all the little computers built into his inventions."
-msgstr ""
+msgstr "Sieltä käsin hän pääsi internetin kautta valvomaan kaikkia pieniä tietokoneita, joita hänen keksintöihinsä oli asennettu."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:572
 msgid "All he had to do was press the proper key on the golden computer, and immediately all the ice-cream machines in town would dispense only vanilla ice cream."
-msgstr ""
+msgstr "Hänen täytyi vain painaa oikeaa näppäinyhdistelmää kultaisessa tietokoneessaan, niin kaikki kaupungin jäätelökoneet ryhtyivät tekemään vain vaniljajäätelöä."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:572
 msgid "If Zangemann wanted people to eat chocolate ice cream, he pressed the key for chocolate ice cream."
-msgstr ""
+msgstr "Kun Zangemann halusi, että ihmiset söisivät suklaajäätelöä, hän painoi näppäinyhdistelmää, joka teki suklaajäätelöä."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:572
 msgid "If he gave the order for lemon ice cream, the machines made only lemon ice cream."
-msgstr ""
+msgstr "Jos hän määräsi tehtäväksi sitruunajäätelöä, niin koneet tekivät vain sitruunajäätelöä."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:572
 msgid "Zangemann loved his inventions and was always thrilled at how amazingly well his machines worked."
-msgstr ""
+msgstr "Zangemann rakasti keksintöjään, ja hän oli joka kerta yhtä ihastunut nähdessään, kuinka hyvin hänen laitteensa toimivat."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:572
 msgid "Sometimes people were disappointed when their favorite flavor wasn’t available, but what could they do? After all, there was ice cream on every street corner."
-msgstr ""
+msgstr "Toisinaan ihmiset olivat pettyneitä, kun heidän suosikkimakuaan ei ollut saatavilla, mutta minkä he sille voivat? Jäätelöä sai kuitenkin jokaisesta kadunkulmasta."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:577
 msgid "A white power strip attached to a wall socket. The power strip has 3 sockets and a green switch. One of the sockets is attached to a plug with a gray cable."
-msgstr ""
+msgstr "Valkoinen jatkojohto, joka on kiinni seinäpistorasiassa. Jatkojohdossa on kolme pistorasiaa ja vihreä kytkin. Yhteen pistorasiaan on kytketty harmaa johto."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:581
 msgid "Zangemann had a lot of fun pressing the sparkling keys and watching people eat ice cream."
-msgstr ""
+msgstr "Zangemannista oli oikein hauskaa painaa kimaltavia näppäimiä ja katsella ihmisiä syömässä jäätelöä."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:581
 msgid "He spent many hours every day in front of his golden computer doing this."
-msgstr ""
+msgstr "Hän vietti joka päivä monta tuntia kultaisen tietokoneensa ääressä."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:581
 msgid "Again and again, he looked down on the city through a long telescope, observing how reliably his inventions carried out his commands."
-msgstr ""
+msgstr "Tämän tästä hän katsoi pitkällä kaukoputkella kaupunkiin ja näki, kuinka uskollisesti hänen keksintönsä toistivat hänen komentojaan."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:586
 msgid "Zangeman sitting in front of his golden computer on a golden armchair with a very tall red padded backrest at whose top is the “Z” of the Zangemann logo. He is wearing a purple turtle-neck sweater and light blue trousers. The computer has four ornate monitors of various sizes, each of which has the logo on the back. It is integrated into a costly wooden desk from which a gray cable flows that is connected to the power strip of the previous page."
-msgstr ""
+msgstr "Zangemann istuu kultaisella nojatuolilla kultaisen tietokoneensa ääressä. Nojatuolissa on korkea, pehmustettu ja punainen selkänoja, ja sen päällä näkyy Zangemannin ”Z”-logo. Zangemannilla on violetti poolopusero ja vaaleansiniset housut. Tietokoneessa on neljä erikokoista koristeellista näyttöä, ja jokaisen takana on Zangemannin logo. Kaikki on upotettu osaksi arvokasta puupöytää. Pöydästä lähtee harmaa sähköjohto, joka on kytketty edellisen sivun jatkojohtoon."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "When he wasn’t sitting at his golden computer, Zangemann was building his little computers into new devices and then selling those."
-msgstr ""
+msgstr "Kun Zangemann ei istunut kultaisen tietokoneensa ääressä, hän asensi pieniä tietokoneita uusiin laitteisiin ja myi ne."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "He built washing machines that sent a message to your cell phone when your laundry was done."
-msgstr ""
+msgstr "Hän rakensi pesukoneita, jotka lähettivät tekstiviestin kännykkään, kun pyykki oli pesty valmiiksi."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "He made vacuums that played happy music instead of droning loudly."
-msgstr ""
+msgstr "Hän rakensi pölynimureita, jotka eivät pitäneet kovaa ääntä, vaan soittivat iloista musiikkia."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "He invented light bulbs that turned on and off at the snap of a finger"
-msgstr ""
+msgstr "Hän keksi lamppuja, jotka syttyivät ja sammuivat sormia napsauttamalla"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
 msgid "and cars that told you where the nearest grocery store was."
-msgstr ""
+msgstr "ja autoja, jotka kertoivat kuljettajalle, missä lähin ruokakauppa oli."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:596
 msgid "City landscape with houses and shops, with a central street turning right. On the road there are a car and a cyclist. There are various children and adults walking or going on skateboards, some eating ice cream, while others are buying ice cream from the original Zangemann machines."
-msgstr ""
+msgstr "Kaupunkimaisema taloineen ja kauppoineen, keskellä oikealle kaartuva tie. Toisella puolella tietä on auto ja toisella pyöräilijä. Kuvassa on lapsia ja aikuisia, jotkut kävelevät, jotkut rullalautailevat. Jotkut syövät jäätelöä, jotkut ostavat jäätelöä aidosta Zangemann-jäätelökoneesta."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:598
 msgid "Soon, almost every appliance in the world had a Zangemann computer built into it."
-msgstr ""
+msgstr "Pian lähes kaikissa maailman elektronisissa laitteissa oli sisäänrakennettu Zangemann-tietokone."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:598
 msgid "Not all of his inventions seemed necessary at first, but people bought everything he made. That’s just the way it was. Everyone wanted the devices made by Zangemann, the greatest inventor in the world."
-msgstr ""
+msgstr "Kaikki keksinnöt eivät olleet yhtä käytännöllisiä kuin miltä ne ensi alkuun näyttivät, mutta ihmiset ostivat kaiken, mitä Zangemann teki. Se vain kuului asiaan. Zangemann oli maailman suurin keksijä, ja kaikki halusivat hänen laitteitaan."
 
 #. (itstool) path: info/title
 #. Intended as 'on a day', not 'a single day'. This is supposed to be
 #. equal to the beginning of the first sentence of this chapter.
 #: Ada_Zangemann.dbk:603
 msgid "One day..."
-msgstr ""
+msgstr "Eräänä päivänä…"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:606
 msgid "One day Zangemann thought, “Today I want to see my inventions up close.”"
-msgstr ""
+msgstr "Eräänä päivänä Zangemann ajatteli: ”Tänään haluan nähdä keksintöni lähietäisyydeltä!”"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:606
 msgid "He put away his big telescope, then climbed down the many stairs of his mansion and ventured out into the city, full of anticipation at the thought of enjoying his cool devices."
-msgstr ""
+msgstr "Hän laski suuren teleskooppinsa ja käveli monen monta porrasta huvilastaan alas kaupunkiin iloiten hienojen laitteidensa näkemisestä."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:611
 msgid "Zangemann descends the stairs from his mansion on the hill towards the city. Zangemann’s house stands on a hill. The front is blue with large windows; the towers are dark blue, and from a window starts a yellow slide that ends in a large swimming pool with two palm trees. The roofs are red, and above the highest tower an antenna is installed. On the sides of the stairs to get off the hill there are evergreen trees."
-msgstr ""
+msgstr "Zangeman kävelemässä portaita kukkulan päällä olevasta huvilastaan alas kaupunkiin. Talon julkisivu on sininen ja siinä on suuria ikkunoita. Torni on tummansininen, ja yhdestä ikkunasta laskee keltainen liukumäki uima-altaaseen, jonka vierellä on kaksi palmua. Talon katot ovat punaisia, ja korkeimman tornin huipulla on antenni. Kukkulalta alas johtavan tien molemmin puolin on lehtipuita."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:615
 msgid "“Maybe a little trip might even give me a few new ideas. If I’m completely honest, my last inventions weren’t quite as useful as the first ones... ,” Zangemann pondered."
-msgstr ""
+msgstr "”Ehkäpä pieni retki antaa minulle myös uusia ideoita. Nimittäin viimeiset keksintöni eivät rehellisesti sanottuna olleet yhtä käytännöllisiä kuin ensimmäiset…” Zangemann tuumasi."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:615
 msgid "“But my ice-cream machines are and will remain second to none,” he thought immediately afterward, and not without pride, as he passed a group of people all eating coconut ice cream, the flavor of the day."
-msgstr ""
+msgstr "”Mutta jäätelökoneeni ovat ja tulevat olemaan ylivetoja”, hän ajatteli heti sen jälkeen ja tunsi ylpeyttä ohittaessaan ryhmän ihmisiä, joista kaikki söivät kookosjäätelöä, joka oli päivän maku."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:617
 msgid "He was completely absorbed in his thoughts when suddenly — BAM! — something crashed into his shin."
-msgstr ""
+msgstr "Hän oli uppoutunut täysin omiin ajatuksiinsa, kun yhtäkkiä – PUM! – jokin törmäsi täyttä vauhtia hänen sääreensä."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:622
 msgid "Zangemann after the incident with the child. Zangemann screams from pain while holding up one of his legs with both hands at the shin. The child has brown hair that is blown back by Zangemann’s scream; he is wearing a light blue hooded sweatshirt and dark green pants. He holds a red Zangemann electric skateboard."
-msgstr ""
+msgstr "Zangemann ja lapsi onnettomuuden jälkeen. Zangemann huutaa kivusta ja pitelee toista säärtään molemmin käsin. Lapsella on ruskeat hiukset, jotka ovat lennähtäneet taakse päin Zangemannin huudosta. Lapsella on vaaleansininen huppari ja tummanvihreät housut. Hän pitää kainalossaan punaista Zangemann-sähkörullalautaa."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:626
 msgid "Zangemann yelped and looked around for the cause. A startled child stood in front of him, holding an original Zangemann skateboard under his arm."
-msgstr ""
+msgstr "Zangemann älähti ja katsoi ympärilleen. Hänen edessään seisoi säikähtynyt lapsi, joka piteli kainalossaan aitoa Zangemann-rullalautaa."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:626
 msgid "“Sorry, I didn’t mean to do that,” the child stammered, but Zangemann wasn’t listening."
-msgstr ""
+msgstr "”Anteeksi, en tarkoittanut tehdä noin”, lapsi takelteli, mutta Zangemann ei kuunnellut."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:627
 msgid "An angry Zangemann limped away. Suddenly, he heard loud music. He had never before heard something so horrible."
-msgstr ""
+msgstr "Zangemann nilkutti raivoissaan pois paikalta. Yhtäkkiä hän kuuli kovaa musiikkia. Hän ei ollut koskaan kuullut mitään niin kamalaa."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:627
 msgid "He looked around and saw that the music was coming from a loudspeaker he himself had constructed."
-msgstr ""
+msgstr "Hän katseli ympärilleen ja huomasi, että musiikki tuli hänen itsensä kehittämästä kaiuttimesta."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:627
 msgid "A child across the street was holding it. The child seemed to like the music, but it gave Zangemann a terrible headache, and his mood worsened."
-msgstr ""
+msgstr "Toisella puolella katua oli lapsi, joka piteli kaiutinta. Lapsi näytti pitävän musiikista, mutta Zangemannille se antoi niin kamalan päänsäryn, että hänen mielialansa laski entisestään."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:627
 msgid "This was not how he had imagined his walk!"
-msgstr ""
+msgstr "Tällaiseksi hän ei ollut jaloitteluretkeään kuvitellut!"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:632
 msgid "Advertisements for Zangemann ice cream (sandwich board), a Zangemann electric skateboard, and a Zangemann washing machine. The math teacher, Ms. Gernet, is passing in front of the billboards. Ms. Gernet is an old lady with short white hair. She is dressed in a light green t-shirt and a pea green sweater, dark brown pants, and light green heeled shoes. She has a fuchsia shoulder bag, worn behind her. She pushes a small shopping cart in which there is a small brown dog with a collar and tag."
-msgstr ""
+msgstr "Pieni Zangemann-jäätelön mainostaulu, suuret Zangemann-rullalaudan ja Zangemann-pesukoneen seinämainokset. Matematiikanopettaja rouva Gernet kulkee mainostaulujen ohi. Rouva Gernet on vanhahko nainen, jolla on lyhyet valkoiset hiukset. Hänellä on vaaleanvihreä t-paita ja herneenvihreä neuletakki, tummanruskeat housut ja vaaleanvihreät korkokengät sekä fuksianpunainen olkalaukku. Rouva Genet työntää pientä ostoskärryä, jossa istuu pieni ruskea koira, jolla on kaulapanta ja nimikyltti."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:637
 msgid "Zangemann was so furious with the two children. How dare they use his inventions this way? That night, he couldn’t sleep, so he sat down at his golden computer."
-msgstr ""
+msgstr "Zangemann oli raivoissaan kahdelle lapselle. Miten he uskalsivatkaan käyttää hänen keksintöjään noin väärin? Sinä yönä Zangemann ei saanut unta, joten hän istui kultaisen tietokoneensa ääreen"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:637
 msgid "From there, he gave all the little computers in the skateboards a command that they were no longer allowed to go on sidewalks."
-msgstr ""
+msgstr "ja antoi rullalautojen kaikille pienille tietokoneille käskyn, ettei rullalaudalla enää saanut ajaa jalkakäytävällä."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:637
 msgid "He ordered the small computers in the speakers to play music only at a low volume, except for his favorite music, which he immediately turned on to get into a better mood."
-msgstr ""
+msgstr "Hän käski kaiuttimien pieniä tietokoneita soittamaan musiikkia vain hiljaa, paitsi jos kyse oli Zangemannin suosikkimusiikista. Hän pisti heti sen soimaan tullakseen paremmalle tuulelle."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:642
 msgid "The city in the evening, with houses, a church, and two streetlights. Images emerge from the dwellings illustrating Zangemann’s inventions bought by the inhabitants: a washing machine, a yellow vacuum cleaner, and a red car, all with Internet connection signals."
-msgstr ""
+msgstr "Kaupunki ilta-aikaan. Taloja, kirkko ja kaksi katuvaloa. Taloista ilmestyvissä kuvakuplissa näkyy Zangemannin keksintöjä, joita asukkaat ovat ostaneet: pesukone, keltainen pölynimuri ja punainen auto, joissa kaikissa on merkki internet-yhteydestä."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:650
 msgid "Continuation of the previous picture, where in the background there is the hill with Zangemann’s house from whose antenna come the signals to control the various devices. In emerging images there are: a red electric skateboard, a light bulb, an ice cream machine, and a toilet, all of which are receiving commands from Zangemann."
-msgstr ""
+msgstr "Edellinen kuva jatkuu: Taustalla näkyy kukkula, jonka päällä Zangemannin talo on. Talon antennista lähtee kaikkia laitteita hallitseva signaali. Kuvakuplissa on punainen rullalauta, hehkulamppu, jäätelökone ja WC-istuin, jotka kaikki vastaanottavat komentoja Zangemannilta."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:656
 msgid "Skateboards no longer work"
-msgstr ""
+msgstr "Rullalaudat eivät toimi enää."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:660
 msgid "The next day, there was a big commotion at Ada’s school. On the way to school, the kids’ skateboards had stopped working. The wheels simply stood still."
-msgstr ""
+msgstr "Seuraavana päivänä Adan koulussa vallitsi suuri kiihtymys. Lasten rullalaudat olivat lakanneet toimimasta matkalla kouluun. Rullat eivät yksinkertaisesti pyörineet."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:660
 msgid "And the children could no longer turn up the volume on their speakers. What was going on?"
-msgstr ""
+msgstr "Ja sitten kaiuttimet – lapset eivät enää voineet säätää niiden ääntä voimakkaammalle. Mitä oikein oli tapahtumassa?"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:665
 msgid "Five kids from the school who can’t make skateboards work. Two girls wear helmets, respectively blue and red. A little girl with brown hair tied in two tails with yellow rubber bands is kneeling. She is trying to understand why the skateboard of her friend with the red helmet does not work. Four children have backpacks on their shoulders, while the little girl with the red helmet left hers leaning on a bench on which there are a yellow apple and a light blue bottle with a white flower on it."
-msgstr ""
+msgstr "Viisi koululaista, jotka eivät saa rullalautojaan toimimaan. Kahdella tytöllä on kypärä, toisella sininen ja toisella punainen. Ruskeatukkainen pikkutyttö, jonka hiukset on kiinnitetty keltaisilla ponnareilla, istuu polvillaan maassa. Hän yrittää ymmärtää, miksi punakypäräisen tytön, hänen ystävänsä, rullalauta ei toimi. Neljällä lapsella on reppu selässään, punakypäräinen tyttö on laskenut omansa penkin viereen. Penkillä on keltainen omena ja sininen juomapullo, jonka kyljessä on valkoinen kukka."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:669
 msgid "Although she didn’t own any of these things, Ada wondered why the skateboards and the speakers suddenly stopped working."
-msgstr ""
+msgstr "Vaikka Ada ei omistanut yhtään näistä laitteista, hän ihmetteli, miksi rullalaudat ja kaiuttimen olivat yhtäkkiä lakanneet toimimasta."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:669
 msgid "But she didn’t really have time to think much about it, because she was tinkering again."
-msgstr ""
+msgstr "Mutta hänellä ei ollut juuri aikaa miettiä asiaa, sillä hän alkoi taas tuunata."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:669
 msgid "She put together a complete bicycle from the parts of three broken bicycles. She gave the bicycle to her mother as a present so that she wouldn’t have to spend her money on bus tickets to work."
-msgstr ""
+msgstr "Hän kokosi kolmen rikkinäisen polkupyörän osista uuden kokonaisen polkupyörän. Hän antoi pyörän äidilleen, niin että tämän ei enää tarvinnut käyttää rahaa bussilippuun matkatessaan töihin."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:669
 msgid "For her brother, Ada built a loudspeaker so he could fall asleep to nice stories in the evenings when their mother was still at work."
-msgstr ""
+msgstr "Ada rakensi veljelleen kaiuttimen, jotta tämä voi iltaisin kuunnella kauniita satuja mennessään nukkumaan ennen kuin äiti oli tullut töistä."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:674
 msgid "Close-up of Ada thoughtful, with a backpack and with one hand on her chin and the other resting on her side."
-msgstr ""
+msgstr "Lähikuva mietteliäästä Adasta, jolla on reppu selässä, toinen käsi leualla ja toinen lepäämässä kyljellä."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:677
 msgid "After a few days, the initial shock at Ada’s school was forgotten. The skateboards still didn’t go on the sidewalk, but apart from that, they still worked."
-msgstr ""
+msgstr "Parin päivän kuluttua ensisäikähdys oli unohtunut Adan koulussa. Rullalaudat eivät edelleenkään toimineet jalkakäytävällä, mutta muuten kyllä, aivan niin kuin pitikin."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:677
 msgid "And so now the children rode in circles around the playground and listened to soft music."
-msgstr ""
+msgstr "Joten nyt lapset ajoivat kierroksia leikkipihan ympäri ja kuuntelivat samalla hiljaista musiikkia."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:677
 msgid "Only a strange, pompous marching music continued to play at an unchanged volume, which the children found rather puzzling."
-msgstr ""
+msgstr "Ainoastaan hassu mahtipontinen marssimusiikki soi edelleen entisellä voimakkuudella, mikä lapsista oli kummallista."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:682
 msgid "Ada and software"
-msgstr ""
+msgstr "Ada ja ohjelmisto"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p20-1
 #: Ada_Zangemann.dbk:686
 msgid "Ada loved Wednesdays. Every Wednesday, her mother and Alan would pick her up from school, and they would all go to the library together. Ada was always drawn to the technology section. There were books with blueprints, instructions for experiments, and explanations of how different devices worked. In the library, Ada could also go online with her cell phone. She quickly realized that there was also much to discover on the internet. There, many people shared their ideas and repair tips to help others."
-msgstr ""
+msgstr "Ada rakasti keskiviikkoja. Joka keskiviikko äiti ja Alan hakivat Adan koulusta, ja he menivät yhdessä kirjastoon. Ada meni aina suoraan tekniikkaosastolle. Siellä oli kirjoja pullollaan rakennussuunnitelmia, kokeita ja testejä sekä selityksiä sille, miten erilaiset laitteet toimivat. Kirjastossa Ada pääsi myös kännykällä internetiin. Hänelle selvisi nopeasti, että sieltä löytyi paljon kaikenlaista. Monet ihmiset jakoivat internetissä ideoitaan ja korjausohjeita auttaakseen toisia."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:687
 msgid "On one of those afternoons, Ada learned two new words: hardware and software. Hardware was a word for something Ada already knew: the electronic devices she tinkered with after school, or those devices she could hold in her hands and try to fix or make into something else. What was completely new to Ada was the word software. She soon learned that it meant instructions that ran on a computer to control other devices or computers. Some books called those instructions programs or code. With such a computer program, one could, for example, tell a loudspeaker which song to play and how loud."
-msgstr ""
+msgstr "Eräänä keskiviikkoiltapäivänä Ada oppi kaksi uutta sanaa: ”laitteisto” ja ”ohjelmisto”. Laitteisto oli nimitys sille, jonka Ada jo tunsi, nimittäin kaikki ne elektroniset laitteet ja kojeet, joita hän tuunasi koulun jälkeen, tai ne laitteet, joita hän voi pitää käsissään ja ruuvailla tai yrittää korjata. Ohjelmisto oli Adalle aivan uusi nimitys. Hän oppi nopeasti, että sanalla tarkoitetaan komentoja, joilla laitteita tai tietokoneita voidaan hallita. Monissa kirjoissa näitä komentoja kutsuttiin ohjelmaksi tai koodiksi. Tällaisen tietokoneohjelman avulla voi esimerkiksi kaiuttimelle kertoa, mitä lauluja sen tulisi soittaa ja kuinka kovaa."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:688
 msgid "The best thing about Ada’s new discovery was realizing that she could tinker with software just as she could with hardware. Hardware is built with tools — hammers, drills, and screws. Software is built simply by writing down the commands for the hardware, one after the other. There was a separate language for this — the programming language. With software, Ada could make her inventions even more useful. She really wanted to learn the programming language!"
-msgstr ""
+msgstr "Parasta Adasta oli oppia, että ohjelmistoa voi tuunata aivan samaan tapaan kuin laitteistoakin. Laitteiston tuunaamiseen tarvitaan vasaraa, poraa ja ruuveja. Ohjelmistoa tuunataan yksinkertaisesti kirjoittamalla ohjelmistokomentoja peräkkäin. Sitä varten on olemassa oma kielensä, ohjelmointikieli. Ohjelmiston avulla Ada saisi tuunattua keksinnöistään entistäkin käytännöllisempiä. Hän halusi ehdottomasti oppia ohjelmointikieltä!"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:695
 msgid "Computer screen from which the elements of the programming language symbolically emerge: “while num &gt; 0“, “init“, “sx=42“, “for“, “v**3“. Ada is typing on a white keyboard with a blue cable, while her other hand enters the screen to change the program (“print(msg)”, “a+b+c+d=e”, “if”, “break”, “continue”, “exit()”). Next to the keyboard there are a pencil and an eraser."
-msgstr ""
+msgstr "Tietokoneen näyttöruutu, jolla näkyy ohjelmointikielen elementtejä: ”while num &gt; 0”, ”init”, ”sx=42”, ”for”, ”v**3”. Yksi käsi kirjoittaa valkoisella näppäimistöllä, jossa on sininen kaapeli, toinen käsi on ruudun sisällä muuttamassa koodia (”print(msg)”, ”a+b+c+d=e”, ”if”, ”break”, ”continue”, ”exit()”). Näppäimistön vieressä on lyijykynä ja pyyhekumi."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:701
 msgid "Programming"
-msgstr ""
+msgstr "Ohjelmointi"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p22-1
 #: Ada_Zangemann.dbk:705
 msgid "Over the next few weeks, Ada spent her afternoons in the library. She found books and websites that explained how programming languages and code worked. For Ada, it felt a bit like learning a secret language, or like studying vocabulary in school. Ada ate it all up. She expected her first program to do something simple: “Make this lamp blink!”"
-msgstr ""
+msgstr "Seuraavien viikkojen aikana Ada meni joka iltapäivä kirjastoon. Hän löysi kirjoja ja nettisivuja, joissa selitettiin, miten ohjelmointikielet ja koodi toimivat. Adasta tuntui kuin hän opettelisi salakieltä tai olisi pänttäämässä sanakokeisiin. Ada ahmi kaiken tiedon. Hänen ensimmäinen ohjelmansa olisi aivan yksinkertainen: ”Laita tämä lamppu vilkkumaan!”"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:706
 msgid "Of course, she wanted to try her program out right away to see if it really worked. At the junkyard, she connected her cell phone to a small LED lamp. Then she typed the lines of code into her cell phone."
-msgstr ""
+msgstr "Tietysti hän halusi testata heti, toimisiko ohjelma. Romupihalla hän yhdisti kännykkänsä pieneen LED-lamppuun ja kirjoitti sitten komentolinjat kännykkäänsä."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:707
 msgid "At first, nothing happened. Ada wondered where the error could be. She made a few small changes and tried again and .... “Yeesss!” The little light began to flash. On, off, on, off. Ada looked at the LED in amazement. She had written her first program!"
-msgstr ""
+msgstr "Aluksi ei tapahtunut mitään. Ada mietti, missä vika voisi olla. Hän teki pari pientä korjausta koodiin, kokeili uudelleen, ja ... ”Jess!” Pikkuinen lamppu alkoi vilkkua: päälle – pois päältä – päälle. Ada tuihotti hämmästyneenä LED-lamppua. Hän oli kirjoittanut ensimmäisen ohjelmansa!"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:708
 msgid "Ada was totally thrilled. She imagined all the great things she could do. If she just entered the right code, she could make her inventions do exactly what she wanted. It was not so easy, but after a few weeks, Ada wrote a truly useful program: one that would make Alan’s speakers automatically turn off half an hour after he had fallen asleep."
-msgstr ""
+msgstr "Ada oli ihastuksissaan. Hän ajatteli, mitä kaikkea hienoa hän saisikaan tehtyä! Oikean ohjelmakoodin avulla hän saisi keksintönsä tekemään mitä tahansa hän haluaisi. Alku ei ollut kovin helppoa, mutta muutaman viikon kuluttua Ada oli kirjoittanut oikein käytännöllisen ohjelman. Se laittoi Alanin kaiuttimet automaattisesti pois päältä puoli tuntia sen jälkeen, kun tämä oli nukahtanut."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:715
 msgid "Ada comes to grips with programming. She is typing on a keyboard resting on a gray mat and connected to a smartphone with a blue cable. The smartphone is connected with a red wire to an electronic card with a yellow LED lamp. The smartphone is powered by a transformer connected to a power strip with a gray wire and plug. On the table there are also: 3 books, of which one is open; a clipboard and a pencil; pliers; glue; solder; and a disconnected soldering iron."
-msgstr ""
+msgstr "Ada opettelee ohjelmointia. Hän kirjoittaa harmaalla matolla olevalla näppäimistöllä, joka on yhdistetty sinisellä johdolla älypuhelimeen. Älypuhelin on yhdistetty punaisella johdolla elektroniseen korttiin, jossa on keltainen LED-valo. Älypuhelin saa sähkönsä muuntajasta, joka on harmaalla johdolla kiinni jatkojohdossa. Pöydällä on myös avoin kirja, joka nojaa kahteen muuhun kirjaan, fläppitaulu sekä lyijykynä, pihdit, liimapurkki, juotostinaa ja kylmä juotoskolvi."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:717
 msgid "Ada also had an idea for the next program she would write. It was a bigger deal, a real project. She would probably need the whole summer break for it... And she could hardly wait!"
-msgstr ""
+msgstr "Adalla oli jo idea seuraavaksi ohjelmaksi, joka hän halusi kirjoittaa. Se olisikin isompi juttu, kunnon projekti. Hänen pitäisi varmaankin käyttää siihen koko kesäloma… eikä hän voinut odottaa pääsevänä alkuun!"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:724
 msgid "Zangemann looks thoughtfully with his arms crossed out one of the great windows of his house, into which the sun’s rays are shining."
-msgstr ""
+msgstr "Zangemann tuijottaa miettiväisenä ulos talonsa suuresta ikkunasta. Hän on ristinyt käsivartensa rinnalleen. Auringonsäteet paistavat ikkunasta sisään."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:730
 msgid "A horrible night"
-msgstr ""
+msgstr "Kamala yö"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p25-1
 #: Ada_Zangemann.dbk:734
 msgid "Zangemann had slept horribly every night since his terrible walk in the city. When he went to bed each night, worries plagued him. “Oh no, my marvelous inventions. It can’t be that everyone just plays around with them. All the things that could go wrong! I put so much thought into everything, down to the last detail.” Zangemann pondered and pondered and tossed and turned sleeplessly in his bed all night."
-msgstr ""
+msgstr "Sen jälkeen, kun Zangemann oli ollut järkyttävällä kävelyllä kaupungissa, hän oli nukkunut yönsä huonosti. Joka ilta nukkumaanmenon aikaan huolet nousivat hänen mieleensä. ”Voi minun hienoja keksintöjäni! Ei niitä saa noin vain viilata ja tuunata. Silloinhan vaikka mikä voi mennä pieleen! Minä olen miettinyt kaiken perin juurin ja loppuun saakka”, Zangemann voivotteli ja pyöri koko yön unettomana sängyssään."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:735
 msgid "Waking up one morning with a deeply furrowed brow, he made a decision. He needed to make a change. Zangemann sat down at his computer and wrote one program after another. In these programs, he specified exactly what his inventions were to do and were not to do under any circumstances. The chaos had to stop!"
-msgstr ""
+msgstr "Eräänä aamuna hän heräsi syvät mietintärypyt otsallaan ja päätti, että on aika muuttaa asioita. Zangemann istui kultaisen tietokoneensa ääreen ja kirjoitti ohjelman toisensa jälkeen. Ohjelmissa hän määritteli tarkkaan, mitä hänen keksintöjensä tuli tehdä ja mitä ne eivät missään nimessä saaneet tehdä. Kaaoksen täytyi loppua!"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:736
 msgid "Once he was done, he sent all the new programs from his golden computer to people’s devices. He ordered his speakers to play only his favorite music whenever he was within earshot. He programmed the ice-cream machines to stop selling ice cream in the afternoon. After all, he didn’t want his expensive clothes to get stained by ice cream while he was out for a walk. All day long he sat at the computer and typed and typed and typed..."
-msgstr ""
+msgstr "Kun Zangemann sai uudet ohjelmansa valmiiksi, hän lähetti ne kultaiselta tietokoneeltaan kaikkiin kaupungissa oleviin laitteisiin. Hän käski kaiuttimien soittaa ainoastaan Zangemannin suosikkimusiikkia silloin kun tämä oli kuunteluetäisyydellä. Hän ohjelmoi jäätelökoneet lopettamaan jäätelönmyynnin iltapäivällä, sillä hän ei halunnut saada jäätelötahroja vaatteisiinsa kävelyllä ollessaan. Zangemann istui koko päivän tietokoneella ja kirjoitti ja kirjoitti…"
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:741
 msgid "First real project"
-msgstr ""
+msgstr "Ensimmäinen kunnon projekti"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p26-1
 #: Ada_Zangemann.dbk:745
 msgid "Summer break was already halfway over. Ada stood in front of her big project and scratched her head. She had built a skateboard from old parts and then connected a motor to make the wheels turn. With a motorized skateboard, Ada could zoom to the library or the junkyard even faster after school. Super practical! But it didn’t work. When she stood on it and pressed the Go! button, the wheels moved, but way too fast. Ada fell off the skateboard every time she started. No matter what she tried, she just couldn’t get it right."
-msgstr ""
+msgstr "Puolet kesäloma oli jo kulunut. Ada seisoi suuren projektinsa ääressä ja raapi päätään. Hän oli rakentanut vanhoista osista uuden rullalaudan ja yhdistänyt siihen moottorin, joka sai rullalaudan pyörät pyörimään. Moottoroidulla rullalaudalla Ada pääsisi entistä nopeammin koulusta kirjastoon tai romupihalle. Tosi kätevää! Rullalauta ei vain vielä toiminut. Kun Ada nousi rullalaudalle ja painoi käynnistysnappia, pyörät kyllä pyörivät, mutta aivan liian nopeasti. Joka käynnistyksen jälkeen Ada putosi rullalaudalta, ja vaikka hän yritti mitä, hän ei saanut lautaa toimimaan."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:746
 msgid "After falling on her bottom for the hundredth time, she went back to the library. She always found answers to her questions there. And indeed, on the internet, she came across a program that someone had written for an electric scooter that also needed to start slowly. Ada downloaded it to her phone."
-msgstr ""
+msgstr "Pudottuaan sadannen kerran pyllylleen Ada suuntasi takaisin kirjastoon. Hän löysi sieltä aina vastaukset kysymyksiinsä, niin nytkin. Hän löysi internetistä ohjelman, jonka joku oli kirjoittanut saadakseen sähköpotkulautansa käynnistettyä hitaasti. Ada latasi ohjelman puhelimeensa."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:748
 msgid "Back at the junkyard, she adapted some lines of code for her skateboard program. She tweaked a few things and kept tinkering."
-msgstr ""
+msgstr "Romupihalle palattuaan Ada muutti muutamaa rullalautaohjelman koodiriviä, muokkasi paria yksityiskohtaa ja jatkoi tuunausta."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:749
 msgid "Several failed attempts later, on the last day of summer break, the time had finally come. Ada stood on the skateboard and pressed the Go! button, and the skateboard started moving, slowly at first, then faster. It worked! She tried to brake. It worked! Ada let out a cry of joy and took a trip to the park."
-msgstr ""
+msgstr "Kesäloman viimeisenä päivänä, usean epäonnistuneen yrityksen jälkeen Ada seisoi jälleen rullalaudalla ja painoi käynnistysnappulaa. Rullalauta alkoi liikkua hitaasti, sitten nopeammin. Se toimi! Ada testasi jarruttamista. Sekin toimi! Hän huudahti riemusta ja lähti rullalautailemaan puistoon."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:756
 msgid "Ada racing with her electric skateboard for city sidewalks. Ada’s skateboard is blue, with gray and pink wheels; the electronic part is placed above the skateboard (as opposed to Zangemann’s skateboards where the electronic part is below). Ada is holding in both hands a remote control with a short antenna to maneuver it. Behind Ada are Marie and Toni who carry their own skateboards under their arms and look with amazement at Ada, who has shot past them and in front of them. Marie has dark long hair with two braids fastened with orange clips, yellow earrings, a fuchsia shirt with white sleeves with purple horizontal stripes, a white skirt, white and yellow sneakers, white socks, a white hat with yellow sides, and a light purple backpack. Marie has a blue artificial leg. Her skateboard is blue with yellow wheels. Toni has red hair closely trimmed on the sides. He is wearing a blue sweatshirt, dark green pants, and white shoes. He has a red backpack with white inserts and shoulder straps. One hand is next to his mouth. His skateboard is purple with orange wheels. There’s also a father with his son walking in the opposite direction: the father is dressed in a blue checked jacket and blue pants and holds a brown briefcase. He is smiling at Ada. His son has a blue shirt, blue shorts, white shoes, a brown backpack, and a red and white hat. He holds under his arm a yellow Zangemann skateboard with light brown wheels, and he grins at Ada. In the background there is a bakery with large windows through which you can see the bread. It has a green and white striped awning around the corner and a sign on the sidewalk with the list of products. Overhead, a large pretzel is displayed. On the road there is a puddle that reflects the blue of the sky."
-msgstr ""
+msgstr "Ada ajaa sähkörullalaudallaan jalkakäytävällä. Adan rullalauta on sininen, ja siinä on violetit ja harmaat rullat. Elektroniikkaosat ovat rullalaudan alla ja päällä (kun taas Zangemannin rullaludoissa elektroniikkaosat ovat rullalaudan alla). Ada pitelee molemmin käsin kaukosäädintä, jolla hän ohjee rullalautaa. Kaukosäätimessä on lyhyt antenni. dan takana seisovat Marie ja Toni, jotka kantavat omia rullalautojaan kainalossa ja ihmettelevät Adaa, joka sujahtaa rullalaudallaan heidän välistään ja ajaa eteenpäin. Marien pitkät tummat hiukset on kiinnitetty oransseilla ponnareilla, ja hänellä on keltaiset korvakorut. Mariella on päällään fuksianpunainen lyhythihainen paita ja sen alla pitkähihainen valkoinen, violettiraitainen paita, valkoinen mekko, valkokeltaiset tennarit ja valkoiset sukat, valkoinen lippalakki, jonka sivut ovat keltaiset, ja selässään vaaleanvioletti reppu. Mariella on sininen jalkaproteesi. Marien rullalauta on sininen, ja sen rullat ovat keltaiset. Tonilla on punaiset, sivuilta lyhyeksi leikatut hiukset. Hänellä on sininen huppari, tummanvihreät housut ja valkoiset kengät. Hänen reppunsa on punainen, ja siinä on valkoiset kulmavahvikkeet ja olkanauhat. Hän pitelee kättä suunsa vieressä. Tonin rullalauta on violetti, ja siinä on oranssit rullat. Adan takana on isä ja poika kulkemassa vastakkaiseen suuntaan. Isällä on päällään siniruudullinen takki ja siniset housut, ja kädessään ruskea salkku. Hän hymyilee Adalle. Pojalla on sininen pusero, siniset sortsit, valkoiset kengät, ruskea reppu ja punavalkoinen lippalakki. Hänellä on kainalossaan keltainen Zangemann-rullalauta, jossa on vaaleanruskeat rullat. Poika virnistää Adalle. Taustalla on leipomo, jonka suurista ikkunoista näkyy leipähyllyjä. Leipomon nurkan takana on valko-vihreä-raidallinen markiisi ja jalkakäytävällä sen alla kyltti, jossa on lista tuotteista. Rakennuksen kulmassa on leipomon merkki, suuri rinkeli. Kadulla on lätäkkö, josta heijastuu sininen taivas."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:761
 msgid "When Ada rode her skateboard to school on the first day back after summer break, the other children were amazed. During recess, Ada’s curious classmates surrounded her."
-msgstr ""
+msgstr "Kun Ada saapui ensimmäisenä kesäloman jälkeisenä päivänä rullalaudallaan kouluun, muut lapset katselivat häntä ihmeissään. Ruokavälitunnilla uteliaat koulukaverit ympäröivät hänet."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:762
 msgid "“How can you ride your skateboard on the sidewalk?” they asked."
-msgstr ""
+msgstr "”Miten sinä pystyit ajamaan rullalautaasi jalkakäytävällä?” he kysyivät."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:767
 msgid "Ada stops on her skateboard surrounded by children. Marie is on one end. She is pointing to Ada’s skateboard and she’s talking. Next to her is Konrad, with short blond hair, a dark gray helmet, glasses, a green shirt with white collar and cuffs, light blue pants with white cuffs, and gray shoes with white soles. He has a red skateboard with orange wheels. Behind Ada there are 4 other children. On the other end Toni is smiling. He touches his chin with one hand while with the other he holds a yellow helmet by the laces."
-msgstr ""
+msgstr "Ada pysähtyy rullalaudalla, lapset ympäröivät hänet. Adan vasemmalla puolella seisoo Marie ja osoittaa Adan rullalautaa. Hänen vieressään seisoo Konrad, jolla on lyhyet vaaleat hiukset, tummanharmaa kypärä, silmälasit, vihreä paita, jonka kaulus ja hihansuut ovat valkoiset, vaaleansiniset housut, jonka lahkeenkäänteet ovat valkoiset sekä harmaat kengät, jonka pohjat ovat valkoiset. Neljä muuta lasta seisoo Adan takana. Adan oikealla puolella seisoo hymyilevä Toni. Hänen toinen kätensä koskettaa poskea, toinen käsi pitää kiinni keltaisen kypärän leukaremmistä."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:771
 msgid "Ada thought for a moment, then said, “I don’t think it’s your skateboards but actually the software in them. It’s probably programmed into the software that the skateboards aren’t allowed to go on the sidewalk. But that can be changed!”"
-msgstr ""
+msgstr "Ada mietti hetken ja vastasi: ”En usko, että se johtuu rullalaudoista, vaan ohjelmistosta, joka niiden sisällä on. Siihen on varmaankin ohjelmoitu, että rullalaudat eivät saa ajaa jalkakäytävillä. Mutta ohjelmistoa voi muuttaa!”"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:772
 msgid "That evening, Ada tested out her theory on her classmate Toni’s skateboard. She worked secretly through most of the night, and the next day, Toni could ride on the sidewalk again. Unfortunately, his skateboard could no longer make the sounds that his parents had bought from Zangemann. Instead, every 10 minutes it made a strange noise that sounded like a drawn-out burp. Ada knew that little errors like that could pop up in programs all the time. But Toni’s burping skateboard was really quite funny."
-msgstr ""
+msgstr "Sinä iltana Ada testasi teoriaansa luokkakaverinsa Tonin rullalaudalla. Hän työskenteli salassa lähes koko yön, ja seuraavana päivänä Toni voi taas ajaa jalkakäytävällä. Valitettavasti rullalauta ei enää voinut päästää ääniä, jotka Tonin vanhemmat olivat ostaneet Zangemannilta. Niiden sijasta rullalaudasta kuului kymmenen minuutin välein hassunkurinen ääni, aivan kuten pitkä röyhtäisy. Ada tiesi, että ohjelmissa saattoi aina olla sen kaltaisia pieniä virheitä. Tonin röyhtäilevä rullalauta kuulosti oikeastaan melkoisen hauskalta."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:777
 msgid "Hopscotch diagram drawn with chalk on asphalt. In a row, within squares, the numbers 1, 2; 3 and 4 next to each other; 5, 6; and 7 and 8 next to each other. The number 9 is not inside a square but inside a wider semicircle beyond the squares of numbers 7 and 8. Between the number 1 and the number 2 there is a blue bottle with white polka dots. A yellow Zangemann skateboard with orange wheels on the side of the diagram actually hides the number 1."
-msgstr ""
+msgstr "Liidulla asvalttiin piirretty ruutuhyppyruudukko. Numerot 1 ja 2 ovat peräkkäisissä ruuduissa, sen jälkeen 3 ja 4 vierekkäisissä ruuduissa, sitten numerot 5 ja 6 peräkkäisissä ja numerot 7 ja 8 vierekkäisissä ruuduissa. Niiden päälle on piirretty puoliympyrä, jossa on numero 9. Numeroiden 1 ja 2 välissä on sininen juomapullo, jossa on valkoisia pallukoita. Ruudukon vieressä, numeron 1 piilottaen on keltainen Zangemann-rullalauta, jossa on oranssit renkaat."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:783
 msgid "Hacking for freedom"
-msgstr ""
+msgstr "Tuunaamisen vapaus<?>"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p30-1
 #: Ada_Zangemann.dbk:787
 msgid "More and more children started to visit Ada at the junkyard after school, and she helped them rewrite the programs in their skateboards. Some of her classmates were very excited about this new discovery. It was unbelievable what you could do with software code! They wanted to learn everything Ada knew about programming languages, and soon they were riding their skateboards again, wherever they wanted to."
-msgstr ""
+msgstr "Yhä useammat lapset alkoivat tulla iltapäivisin koulun jälkeen Adan luo romupihalle, jossa tämä auttoi heitä muuttamaan rullalautojen ohjelmistoa. Muutamat ihastuivat tähän uuteen löytöön. Uskomatonta, mitä kaikkea koodilla saikaan aikaan! Ha halusivat oppia kaiken, mitä Ada tiesi ohjelmointikielistä, ja pien he seisoivat taas rullalaudallaan ja ajoivat juuri siellä, missä halusivat."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:789
 msgid "But that wasn’t all. With the software, they could give their skateboards new, cool features. Marie attached colorful LED lights to her board that glowed different colors depending on the speed. Konrad built old propellers onto his skateboard for extra speed."
-msgstr ""
+msgstr "Mutta ei siinä vielä kaikki! Ohjelmiston avulla rullalautoihin sai lisättyä uusia, siistejä ominaisuuksia. Marie lisäsi omaan rullalautaansa värillisiä LED-valoja, niin että rullalauta loisti eri väreissä, vauhdista riippuen. Konrad asensi rullalautaansa vanhoja propelleja, jotka antoivat lisävauhtia."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:794
 msgid "A green battery with red and yellow wires, a power strip, glue, a roll of solder, and two pencils."
-msgstr ""
+msgstr "Vihreä paristo, johon on kiinnitetty punainen ja keltainen johto. kolmipesäinen jatkojohto, liimaa, juotostinarulla ja kaksi lyijykynää."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:798
 msgid "Ada, Toni, Marie, and Konrad spent many afternoons at the junkyard. They even set up a real workshop where they could fine-tune their programs for hours, listening all the while to music from the speakers Ada had built for Alan."
-msgstr ""
+msgstr "Ada, Toni, Marie ja Konrad viettivät monia iltapäiviä romupihalla. He olivat jopa pystyttäneet oikean verstaan, jossa he tuunasivat ohjelmiaan monta tuntia ja kuuntelivat musiikkia Adan Alanille rakentamista kaiuttimista."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:799
 msgid "“Your brother’s speakers are much louder than ours,” remarked Toni, who was busy attaching a speedometer to his helmet. “I’m sure that’s also because of the software,” Marie said."
-msgstr ""
+msgstr "”Sinun veljesi kaiuttimet soittavat musiikkia paljon kovempaa kuin meidän kaiuttimemme”, huomautti Toni, kun he olivat asentamassa kypäriinsä nopeusmittareita. ”Olen varma, että sekin johtuu ohjelmistosta”, Marie sanoi."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:800
 msgid "Together, they changed the software for the speakers too. Then they turned up the music as loud as possible and danced wildly together."
-msgstr ""
+msgstr "Yhdessä he muuttivat myös kaiuttimien ohjelmistoa. Sitten he käänsivät musiikin äänen voimakkaimmilleen ja tanssivat villisti yhdessä."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:805
 msgid "A screwdriver with orange and gray handle, red pliers, and three LEDs: yellow, green, pink."
-msgstr ""
+msgstr "Ruuvimeisseli, jossa on oranssi ja harmaa kahva, punaiset pihdit sekä kolme LED-valoa: keltainen, vihreä ja vaaleanpunainen."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:813
 msgid "Laboratory at the junkyard, under the veranda of Ada’s house. Ada is sitting on a water case with a leg bent under her, using a soldering iron. Konrad is standing next to her and dismounting a speaker. Marie is sitting on two tires with an arm resting on a table and her upside-down skateboard from which wires come out. She is talking with Alan, who is standing with his arms resting on the same table. On the table there are also: pliers, two wrenches, a spool of solder, a can of blue paint (a bit of paint has dried on the table), and a pitcher and two glasses containing a pink drink. Toni is testing his skateboard with added yellow wings and a fan. It burps."
-msgstr ""
+msgstr "Romupihalla oleva verstas, joka sijaitsee Adan kodin verannan alla. Ada istuu vesikanisterin päällä toinen jalka taivutettuna alleen ja käyttää juottokolvia. Konrad seisoo hänen vieressään ja purkaa kaiutinta. Marie istuu kahden autonrenkaan päällä toinen käsi pöytään nojaten ja juttelee Alanin kanssa, joka nojaa käsivarsiaan samaan pöytään. Pöydällä Marien edessä on ylösalaisin käännetty rullalauta, josta lähtee johtoja. Lisäksi pöydällä on pihdit, kaksi jakoavainta, juotostinarulla, purkillinen sinistä maalia (vähän maalia on pudonnut pöydälle ja kuivunut). Toni koeajaa rullalautaansa, johon on asennettu keltaiset siivet ja tuuletin. Rullalaudasta kuuluu ääni."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:821
 msgid "Marie and Ada’s mom are dancing, facing each other. Alan, Ada, and Konrad are dancing in a circle. On the right there is a speaker playing, resting on an oil drum. Near the speaker there are two dancing mice. Toni is jumping through the tires. Ada’s dog is howling, and from his mouth come two distorted musical notes."
-msgstr ""
+msgstr "Marie ja Adan äiti tanssivat toisiaan vastakkain. Alan, Ada ja Konrad tanssivat ringissä. Oikealla, öljytynnyrin päällä, on kaiutin, joka soittaa musiikkia. Kaiuttimen lähellä tanssii kaksi hiirtä. Toni hyppii autonrenkaasta toiseen. Adan koira ulisee, sen suusta tulevassa puhekuplassa on kaksi vääntynyttä nuottia."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:829
 msgid "Hands holding wonderful ice cream cones: blue ice cream with a chocolate heart on top with a yellow heart on its center, and whipped cream on top of the chocolate; green ice cream with colored stars with a cucumber stuck on a stick; pink fish-shaped ice cream; pyramid-shaped ice cream with candies, and chocolate syrup, and a cherry on top; rainbow ice cream with a yellow umbrella; blue ghost-shaped ice cream with candies on it."
-msgstr ""
+msgstr "Kädet pitelevät jäätelötötteröitä: sininen jäätelöpallo, jonka päällä on keskustaltaan keltainen suklaasydän ja kermavaahtoa; vihreä jäätelöpallo, jossa on värikkäitä tähtiä ja koristeena hammastikkuun pistetty cocktailkurkku, vaaleanpunainen kalan muotoinen jäätelöpallo, pyramidin muotoinen jäätelöpallo, jonka päällä on karkkeja, suklaakastiketta ja huipulla kirsikka, sateenkaaren värinen jäätelöpallo, joka on koristeltu keltaisella aurinkovarjolla sekä sininen haamun muotoinen jäätelöpallo, jonka päällä on karkkeja."
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p35-1
 #: Ada_Zangemann.dbk:840
 msgid "Every day, Ada and her friends made plans together for the afternoon. From a broken ice-cream machine, they built a new one that could make ice cream in every imaginable shape and color. They ate square ice cream, heart-shaped ice cream, and even pyramid-shaped ice cream, as well as strawberry, raspberry, and rainbow ice cream, all with sprinkles and hot fudge — much better than the varieties from the Zangemann machines."
-msgstr ""
+msgstr "Joka päivä Ada ja hänen ystävänsä suunnittelivat, mitä he tekisivät yhdessä iltapäivällä. He korjasivat vanhan, rikkinäisen jäätelökoneen niin, että se teki kaikenmuotoisia ja -värisiä jäätelöitä. He söivät neliskanttisia, sydämen muotoisia ja jopa pyramidin muotoisia jäätelöitä, niin mansikkajäätelöä, vadelmajäätelöä kuin sateenkaarijäätelöäkin. Kaikissa niissä oli strösseleitä ja karamellikastiketta, ja kaikki ne olivat parempia kuin Zangemannin koneen tekemät jäätelöt."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:841
 msgid "Sometimes they could even help adults. Toni reprogrammed his father’s ironing machine so that it could also iron ties again — Zangemann had forbidden the machines to do so because he hated ties like the plague. For the bus driver, they built an automatic watering system out of old hoses and a computer so that her plants would not die of thirst during summer days. And they helped the school custodian modify his vacuum so that it automatically recognized toys and wouldn’t suck them up."
-msgstr ""
+msgstr "Toisinaan he saivat autettua myös aikuisia. Toni ohjelmoi isänsä silitysraudan uudelleen, niin että sillä saattoi silittää kravatteja. Zangemann vihasi kravatteja kuin ruttoa ja oli siksi kieltänyt silitysrautoja silittämästä niitä. Lapset rakensivat bussinkuljettajalle vanhoista puutarhaletkuista ja tietokoneesta automaattisen kastelujärjestelmän, niin että tämän kasvit eivät nääntyisi janoon kesäpäivänä. Ja he auttoivat koulun vahtimestaria tuunaamaan pölynimurin sellaiseksi, että se tunnisti leikkikalut automaattisesti eikä imenyt niitä sisäänsä."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:842
 msgid "Some things they built just for fun, like the fart machine they put in their math teacher’s chair. Whenever Ms. Gernet sat down, the machine played a little fart sound. The teacher would scold them, but Ada was sure that she secretly smirked a little every time."
-msgstr ""
+msgstr "Joitakin koneita he rakensivat pelkän huvin vuoksi, kuten esimerkiksi matematiikanopettaja rouva Gernetin tuolille asennettavan pierukoneen. Aina kun opettaja istuutui tuolilleen, siitä kuului pieni pieru. Rouva Gernet läksytti heitä, mutta Ada oli varma, että sisimmässään häntäkin hieman nauratti."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:847
 msgid "Zangemann and the President"
-msgstr ""
+msgstr "Zangemann ja presidentti"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p36-1
 #: Ada_Zangemann.dbk:851
 msgid "One day, Zangemann noticed that some computers no longer obeyed his programming commands. Shocked and fuming with anger, he called the president. In a quivering voice, Zangemann yelled, “Someone is rewriting the programs in my devices. That can’t happen; after all, they are my inventions. It’s far too dangerous if everyone can do whatever they want with the computers. You must make a law against this!”"
-msgstr ""
+msgstr "Eräänä päivänä Zangemann huomasi, että monet laitteet eivät enää totelleet hänen ohjelmoimiaan komentoja. Järkyttyneenä ja sydänjuuriaan myöten närkästyneenä hän soitti presidentille <pääministerille?> ja jylisi puhelimeen: ”Joku kirjoittaa minun laitteideni ohjelmistoja uusiksi. Se ei käy, sillä ne ovat minun keksintöjäni. On aivan liian vaarallista, jos kuka tahansa voi tehdä tietokoneilla mitä tahansa. Sinun täytyy säätää laki, joka kieltää tämän!”"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:852
 msgid "The president did not want to upset Zangemann. All the government’s computers were programmed by Zangemann. Without the computers, the government would not be able to run the country. So they passed the law as Zangemann requested:"
-msgstr ""
+msgstr "Presidentti ei halunnut ärsyttää Zangemannia. Zangemann oli ohjelmoinut kaikki hallituksen käyttämät tietokoneet. Ilman niitä se ei pystyisi johtamaan maata. Siksi hallitus hyväksyi lain, aivan kuten Zangemann pyysi:"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:853
 msgid "“All computers that do not listen to Zangemann are banned. Anyone who reprograms Zangemann’s devices will be fined 500,000 gold pieces!”"
-msgstr ""
+msgstr "”Kaikki tietokoneet, jotka eivät tottele Zangemannia, ovat laittomia. Jokainen, joka ohjelmoi Zangemann-yksikön uudelleen, joutuu maksamaan 500 000 kultarahan sakon!”"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:860
 msgid "The President getting a phone call from the angry Zangemann. The videophone consists of an old red Zangemann dial phone connected to a monitor. Zangemann’s face appears on the monitor, while a yellow flare of Zangemann’s thundering voice comes out of the phone, and the President holds the receiver at arm’s length. The president has white hair and wears a light blue shirt, a red tie, and a blue jacket with yellow buttons. The President is sitting on a green chair with white vertical lines, and his other hand is on the desk. On the desk, in addition to the videophone, there are sheets with something written on them and an open purple fountain pen. The President was eating a sandwich of meat and cheese with greens with two olives on a toothpick, over a blue napkin with white stripes."
-msgstr ""
+msgstr "Presidentti saa puhelinsoiton vihaiselta Zangemannilta. Videopuhelin koostuu vanhasta punaisesta Zangemann-lankapuhelimesta, jonka on yhdistetty näyttöön. Näytöllä näkyvät Zangemannin kasvot, ja puhelimesta tulee keltainen salama, joka kuvaa Zangemannin vihaista ääntä. Presidentti pitää puhelimen kuuloketta käsivarren mitan päässä, toinen käsi nojaa pöytään. Presidentillä on valkoiset hiukset, ja hänellä on sininen paita, punainen kravatti ja sininen takki, jossa on keltaiset napit. Presidentti istuu tuolilla, jonka vihreässä pehmustetussa selkänojassa on valkoisia raitoja. Työpöydällä on videopuhelimen lisäksi paperiarkki, jossa on kirjoitusta, sekä violetti mustekynä, jonka korkki ei ole kiinni. Presidentti on syömässä kerrosvoileipää, jossa on juustoa, kinkkua ja salaattia sekä koristeena kaksi hammastikkuun laitettua oliivia. Kerrosvoileipä on vaaleansinisen, valkoraidallisen lautasliinan päällä."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:865
 msgid "When Ada and her friends heard this, they were furious. “This is unfair,” they said. “We rebuilt and reprogrammed our skateboards ourselves. They are much better now. We won’t let anyone take that away from us!”"
-msgstr ""
+msgstr "Kun Ada ystävineen kuulivat uudesta laista, he suuttuivat. ”Se on epäreilua. Me olemme itse muokanneet ja ohjelmoineet rullalautamme uudestaan. Ne toimivat nyt paljon paremmin. Ei sitä saa viedä meiltä pois!”"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:866
 msgid "They gathered in front of one of their rebuilt ice-cream machines and discussed the situation. It was clear that something had to be done about the new law, and they made a plan..."
-msgstr ""
+msgstr "He kokoontuivat tuunatun jäätelökoneen luo keskustelemaan asiasta. Oli selvää, että heidän täytyi tehdä jotakin uudelle laille, ja he keksivät suunnitelman…"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:871
 msgid "Cans of green, blue, and pink paint; a paintbrush with yellow paint; a light green marker; and a rolled banner on which some blue paint has fallen."
-msgstr ""
+msgstr "Purkkeja, joissa on vihreää, sinistä ja vaaleanpunaista maalia, maalisuti, jossa on keltaista maalia, vaaleanvihreä tussi ja auki rullattu julistepaperi, jossa on sinisiä maaliläikkiä."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:877
 msgid "Protest"
-msgstr ""
+msgstr "Mielenosoitus"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p39-1
 #: Ada_Zangemann.dbk:882
 msgid "The next day, they didn’t go to school. Instead, they rode their skateboards to the parliament building, with large protest signs under their arms, and sat down in front of the building. The evening before, they had put LED lights on some of the signs, which were now flashing brightly. They had connected their speakers together so everyone in the street could hear what they were saying. Some passersby stopped and asked the children what they were demonstrating for. “For software freedom!” they replied in unison and told the adults their story. Impressed, the adults nodded, and the president also looked curiously at their signs as he approached the building."
-msgstr ""
+msgstr "Seuraavana päivänä lapset eivät menneet kouluun, vaan ajoivat rullalaudoilla eduskuntatalon luo kantaen suuria mielenosoitusjulisteita. Edeltävänä iltana he olivat laittaneet LED-valoja muutamiin julisteisiin, jotka nyt vilkkuivat kirkkaasti. He olivat kytkeneet kaiuttimensa yhteen, niin että kaikilla kaduilla kuului, mitä he sanoivat. Muutamat ohikulkijat pysähtyivät ja kysyivät lapsilta, minkä vuoksi he osoittivat mieltään. ”Ohjelmistojen vapauden puolesta!” he vastasivat kuorossa ja kertoivat aikuisille tarinansa. Aikuiset nyökkäilivät vaikuttuneina. Rakennukseen saapuva presidenttikin silmäili uteliaasti lasten julisteita."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:883
 msgid "On the following day, Ada and her friends again sat down in front of the parliament building, this time with support. Some classmates came whose skateboards Ada had reprogrammed. Toni’s father and other parents and adults also wanted to support the protest. They found the children’s devices very useful."
-msgstr ""
+msgstr "Myös sitä seuraavana päivänä Ada ja hänen ystävänsä istuutuivat eduskuntatalon eteen. Tällä kertaa heillä oli mukanaan tukijoukkoja: Paikalle oli saapunut koulutovereita, joiden rullalaudat Ada oli ohjelmoinut uudelleen. Myös Tonin isä ja muutamat muut vanhemmat ja aikuiset halusivat tukea mielenosoitusta. Heidän mielestään lasten tuunaamat laitteet olivat oikein hyödyllisiä."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:888
 msgid "Yellow and green paint on the floor and wax crayons yellow, red, blue, green and brown; the latter 3 are in a gray cardboard box."
-msgstr ""
+msgstr "Lattialla on keltainen ja vihreä maalitahra, keltainen ja punainen vahaliitu sekä harmaa pahvilaatikko, jossa on sininen, vihreä ja ruskea vahaliitu."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:892
 msgid "With each passing day, more and more children and adults joined the protest. The bus driver they had helped drove up in her bus. She honked loudly to attract even more people to the protest. The custodian brought a few friends, and Toni’s father brought his colleagues from work, all wearing perfectly ironed ties. Even Ms. Gernet came. The crowd grew, and after a few weeks, there were protests not just in Ada’s city but also in many cities throughout the country."
-msgstr ""
+msgstr "Joka päivä mielenosoitukseen liittyi yhä useampia lapsia ja aikuisia. Bussinkuljettaja, jota lapset olivat auttaneet, toi mukanaan ystäviään, ja Tonin isä otti mukaansa työtoverinsa, joilla kaikilla oli täydellisesti silitetyt kravatit. Jopa matematiikanopettaja saapui paikalle. Mielenosoittajien joukko kasvoi, ja muutaman viikon kuluttua mielenosoituksia ei pidetty ainoastaan Adan kotikaupungissa, vaan koko maassa."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:897
 msgid "Group of protesters. Among them there are: Ada’s mother holding Alan’s hand and raising a pink ice cream; 3 colleagues of Toni’s father dressed in ties; two children holding the banner “Do your homework Mr. President and we will do ours!”; a robot with tank treads, irons as feet, an electric fan as abdomen, a monitor as head, and an eggbeater as one hand, holding a blue ice cream in his other hand; two parents holding the banner “Hacking 4 Freedom”; a lady holding an electronic sign “There is a code B”; two small birds, flying; the math teacher, Ms. Gernet, who has inserted in her cart a sign that says “They are young + need the code!“ The dog in her cart is barking; Ada and Konrad are carrying the banner “Don’t wreck our tech!” Marie and Toni are walking beneath the banner, and Marie is talking through a bullhorn held in her hand; Ada’s family’s dog is now wearing a red harness with shiny yellow LEDs that matches the collar."
-msgstr ""
+msgstr "Mielenosoittajien joukko. Mukana on Adan äiti, joka pitää Alania kädestä toisessa kädessään vaaleanpunainen jäätelö, kolme Tonin isän kollegaa, joilla on kravatit, kaksi lasta kantamassa julistetta ”Pääministeri, tee läksysi, niin me teemme omamme!”, robotti, jolla on silitysraudat ja telaketjut jalkoina, elektroninen tuuletin vatsana, näyttöuutu päänä, toisena kätenä vispilä ja toinen käsi pitelee sinistä jäätelöä, kaksi vanhempaa, jotka kantavat julistetta ”Hacking 4 Freedom”, nainen, joka pitelee elektronista taulua ”There is a code B”, kaksi pikkulintua lentämässä, matematiikanopettaja rouva Gernet. jonka vaunussa on kyltti ”He ovat nuoria + haluavat koodata!”. Hänen koiransa haukkuu. Ada ja Konrad kantavat julistetta ”Älä tuhoa teknologiaamme!”. Marie ja Toni kävelevät julisteen alla, Marie puhuu kantamaansa megafoniin. Adan perheen koiralla on päällään punaiset valjaat, jossa on kaulapantaan sopivat kirkkaankeltaiset LED-valot."
 
 #. (itstool) path: info/excerpt
 #. Text on big banner, left on the illustration
 #: Ada_Zangemann.dbk:899
 msgid "Do your homework Mr. President and we will do ours!"
-msgstr ""
+msgstr "Pääministeri, tee läksysi, niin me teemme omamme!"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:908
 msgid "Detail of the previous image: two children holding the banner “Do your homework Mr. President and we will do ours!”"
-msgstr ""
+msgstr "Edellisen kuva yksityiskohta: kaksi lasta kantamassa julistetta ”Pääministeri, tee läksysi, niin me teemme omamme!”"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:914
 msgid "Detail of the previous image: Ada and Konrad are carrying the banner “Don’t wreck our tech!” Marie and Toni are walking beneath the banner, and Marie is talking through a bullhorn held in her hand; Ada’s family’s little dog is now wearing a red harness with shiny yellow LEDs that matches the collar."
-msgstr ""
+msgstr "Edellisen kuvan yksityiskohta: Ada ja Konrad kantavat julistetta ”Älä tuhoa teknologiaamme!”. Marie ja Toni kävelevät julisteen alla, ja Marie puhuu kantamaansa megafoniin. Adan perheen pienellä koiralla on päällään punaiset valjaat, jossa on kaulapantaan sopivat kirkkaankeltaiset LED-valot."
 
 #. (itstool) path: info/excerpt
 #. Text on square signe on the right of the illustration
 #: Ada_Zangemann.dbk:916
 msgid "They are young + need the code!"
-msgstr ""
+msgstr "He ovat nuoria + haluavat koodata!"
 
 #. (itstool) path: info/excerpt
 #. Text on banner on the banner held by children on the right of the
@@ -1154,152 +1240,152 @@ msgstr ""
 #. can be used, which translates to 'without code everything is dull!'.
 #: Ada_Zangemann.dbk:917
 msgid "Don’t wreck our tech!"
-msgstr ""
+msgstr "Älä tuhoa teknologiaamme!"
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:924
 msgid "Children help the government"
-msgstr ""
+msgstr "Lapset auttavat hallitusta"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p42-1
 #: Ada_Zangemann.dbk:927
 msgid "Ada protested in front of the parliament building every week, even in pouring rain. On one such rainy day, when the president passed the group of dripping-wet children, he couldn’t help but admire their stubbornness. He asked Ada, “Why do you sit here every day? What do you want to achieve?” Ada replied, “We want to determine for ourselves what we can and cannot do with our computers.” Her friends shouted in unison: “Don’t wreck our tech! Don’t wreck our tech!” and “We want the code! We want the code!”"
-msgstr ""
+msgstr "Ada protestoi eduskuntatalon edessä joka viikko, silloinkin, kun vettä satoi kaatamalla. Juuri tällaisena sadepäivänä presidentti kulki läpimärkien lasten ohi. Hän ei voinut olla ihastelematta heidän kestävyyttään ja kysyi Adalta: ”Miksi te istutte täällä joka päivä? Mitä te haluatte saavuttaa?” Ada vastasi: ”Me haluamme itse päättää, mitä me saamme omilla tietokoneillamme tehdä ja mitä emme”, ja hänen ystävänsä huusivat kuorossa: ”Ilman koodia ei ole toivoa! Ilman koodia ei ole toivoa!”"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:928
 msgid "The president looked at the determined faces of the children. Honestly, he, too, wanted to decide for himself what the government could and couldn’t do with its computers. But he didn’t understand anything about computers and code, so he had always left that to Zangemann. Deep in thought, the president entered the building."
-msgstr ""
+msgstr "Presidentti tutkiskeli lasten määrätietoisia kasvoja. Rehellisesti sanottuna hänkin halusi päättää itse, mitä hallitus sai tietokoneillaan tehdä ja mitä ei. Mutta hän ei ymmärtänyt tietokoneista eikä koodista mitään, minkä vuoksi hän oli jättänyt työn Zangemannille. Presidentti astui mietteliäänä rakennukseen."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:934
 msgid "One of Ada’s friends lying on his stomach with one foot up in the air is typing on a laptop. He has wavy brown hair parted in the center, a red sweatshirt, blue pants, and white socks but no shoes. Next to the computer there are a green cup and two open books."
-msgstr ""
+msgstr "Eräs Adan ystävistä makaa mahallaan toinen jalka koholla ja naputtaa kannettavaa tietokonetta. Hänellä on laineikkaat ruskeat hiukset ja jakaus keskellä päätä, punainen huppari, siniset housut ja valkoiset sukat mutta ei kenkiä. Tietokoneen vieressä on vihreä muki ja kaksi avointa kirjaa."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:936
 msgid "The next day, the president invited Ada and her friends over. “We also want to be in charge of our software ourselves. In order for that to be true, the government must be independent from Zangemann. Can you tell me what you know about computer programs?” he asked them. Enthusiastically, they explained to him how software works and what you could do with it. The president was amazed."
-msgstr ""
+msgstr "Seuraavana päivänä presidentti kutsui Adan ystävineen luokseen. ”Mekin haluamme päättää itse ohjelmistoistamme. Sitä varten hallituksen tulisi kuitenkin olla riippumaton Zangemannista. Voitteko te kertoa minulle, mitä te tiedätte tietokoneohjelmista?” presidentti kysyi. Lapset selittivät innostuneina, miten ohjelmisto toimii ja mitä sille voi tehdä. Presidentti oli hämmästynyt."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:939
 msgid "With this new knowledge, the government would be able to design its own software, the way it wanted — completely without Zangemann. Immediately, the president called his advisers. In a large group, they discussed with the children everything they could change and improve in the software."
-msgstr ""
+msgstr "Tämän tiedon avulla hallitus voisi jatkossa luoda itse omat, omien toiveidensa mukaiset ohjelmistonsa – täysin ilman Zangemannia. Presidentti soitti heti neuvonantajilleen. He istuivat suureen rinkiin ja keskustelivat lasten kanssa siitä, mitä kaikkea he halusivat muuttaa ja parantaa ohjelmistossa."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:940
 msgid "That evening, the children went home proud and satisfied. Something finally happened! Their long protest was worth it."
-msgstr ""
+msgstr "Sinä iltana lapset palasivat ylpeinä ja tyytyväisinä koteihinsa. Vihdoinkin tapahtui jotakin! Heidän pitkä mielenosoituksensa oli tuottanut tulosta."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:945
 msgid "Ada and her friends in the President’s office. Ada is reprogramming the President’s computer. Toni is setting up a speaker for the President’s secretary. Marie and Konrad are sitting on the floor and talking, and Marie has a laptop on her legs with an FSFE logo sticker (three stars: pea green, sky blue, and sea blue). On the floor are a bowl with candy and a plate with ice creams. The President’s phone is ringing, but nobody is answering."
-msgstr ""
+msgstr "Ada ja ystävät presidentin työhuoneessa. Ada ohjelmoi presidentin tietokonetta uudelleen. Toni asentaa presidentin sihteerin kaiutinta. Marie ja Konrad istuvat lattialla ja keskustelevat keskenään. Marien sylissä on kannettava tietokone, jossa on FSFE-tarra (kolme tähteä, värit herneenvihreä, taivaansininen ja merensininen). Lattialla on karkkikulho ja lautasellinen jäätelöä. Presidentin puhelin soi, mutta kukaan ei vastaa."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:951
 msgid "New law"
-msgstr ""
+msgstr "Uusi laki"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p44-1
 #: Ada_Zangemann.dbk:954
 msgid "The next morning, the president’s phone rang very early. It was Zangemann. He was angrier than ever. “Without me, the government computers will no longer work,” he threatened. But the president kept the call short and quickly hung up. The phone rang many more times that day, but Zangemann’s calls went unanswered. The president sat in a meeting with Ada, Toni, Marie, Konrad, and the government experts."
-msgstr ""
+msgstr "Aikaisin seuraavana aamuna presidentin puhelin soi. Soittaja oli Zangemann, joka oli vihaisempi kuin koskaan ennen. ”Ilman minua hallituksen tietokoneet eivät enää toimi”, hän uhkasi. Presidentti puhui kuitenkin lyhyesti ja sulki pian puhelimen. Zangemann soitti vielä useita kertoja saman päivän aikana, puhelin pirisi, mutta kukaan ei vastannut. Presidentti istui kokouksessa Adan, Tonin, Marien ja Konradin sekä hallituksen asiantuntijoiden kanssa."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:959
 msgid "A herald, wearing a hat with a plume, playing a trumpet on which a red banner is hung."
-msgstr ""
+msgstr "Sanansaattaja<?>, jonka hatussa on korkea sulka, soittaa trumpetilla fanfaaria. Trumpetista roikkuu punainen viiri."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:961
 msgid "In the days that followed, they talked from morning to night and designed their first programs for the government’s computers. They were no longer disturbed by Zangemann’s calls. Toni had the good idea of reprogramming the telephones. When Zangemann called, he only heard an automated recording: “The government only wants to use software that it can freely use, study, share, and improve. Thank you for calling.”"
-msgstr ""
+msgstr "Seuraavina päivinä he keskustelivat aamusta iltaan ja laativat ensimmäiset omat ohjelmansa hallituksen tietokoneisiin. Zangemannin puhelinsoitot eivät enää häirinneet heitä. Tonilla oli idea puhelimien uudelleenohjelmoinnista. Kun Zangemann soitti, hän kuuli ainoastaan automaattisen nauhoitetun viestin: ”Hallitus haluaa käyttää ainoastaan sellaisia ohjelmistoja, joita se saa käyttää, tutkia, jakaa ja kehittää vapaasti. Kiitos soitostasi.”"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:963
 msgid "Then, after many weeks of protests and discussions, the time had finally come: they abolished the old Zangemann law! Instead, the government announced:"
-msgstr ""
+msgstr "Useiden viikkojen jälkeen tehtiin lopulta päätös: Vanha Zangemann-laki lakkautettiin. Sen tilalle hallitus julisti seuraavaa:"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:966
 msgid "“Everyone is allowed to program their own computers as long as they adhere to the other laws.”"
-msgstr ""
+msgstr "”Jokainen saa ohjelmoida omaa tietokonettaan, kunhan vain muita lakeja noudatetaan.”"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:967
 msgid "In addition, a new school subject was introduced: computer hardware and software."
-msgstr ""
+msgstr "Kouluihin tuli myös uusi oppiaine, tietokoneet ja ohjelmointi."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:972
 msgid "The President with Toni, Konrad, Marie, Ada, and a herald playing a trumpet. Marie is standing on top of a ladder talking into a microphone. Konrad firmly holds the ladder on which Marie is standing. Ada is standing on a chair and holds a copy of the new law bearing a seal. Ada’s dog is sitting in front of her."
-msgstr ""
+msgstr "Presidentti, Toni, Konrad, Marie, Ada ja fanfaaria soittava sanansaattaja. Marie seisoo tikkaiden huipulla ja puhuu mikrofoniin. Konrad pitää kiinni tikkaista, joilla Marie seisoo. Ada seisoo tuolilla ja pitelee sinetillä varustettua uuden lain kopiota. Adan edessä istuu hänen koiransa."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:977
 msgid "That evening, everyone celebrated with a big party. Ada, Alan, Toni, Marie, Konrad, and other children from school and their parents; the president; Ms. Gernet; the bus driver; the custodian — they were all there. They decorated the streets, listened to loud music, and ate ice cream, as much as they wanted, and in every imaginable shape and color."
-msgstr ""
+msgstr "Sinä iltana pidettiin suuret juhlat, jossa kaikki olivat mukana: Ada, Alan, koululaiset ja heidän vanhempansa, presidentti, rouva Gernet, bussinkuljettaja, vahtimestari. He koristelivat kadut, soittivat musiikkia kovaa ja söivät päivän kunniaksi jäätelöä – niin paljon kuin halusivat ja kaikkia mahdollisia muotoja ja makuja."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:982
 msgid "Evening party. Children are holding ice cream and balloons with the words “I love FS (I love Free Software)”; other children are riding skateboards; yellow and orange flags are hanging; music comes out from a large speaker system; Ms. Gernet holds a pink tree-shaped ice cream with a yellow star on it; Ada’s mom is dancing with a gentleman."
-msgstr ""
+msgstr "Iltajuhla. Yhdellä lapsella on kädessään jäätelö, toisella ilmapalloja, joissa on sanat ”I love FS (I love Free Software)”, jotkut lapset ajavat rullalaudoilla. Katuvaloihin on ripustettu keltaisia ja oransseja viirejä, suuresta kaiutinjäjrestelmästä kuuluu musiikkia. Rouva Gernetillä on kädessään vaaleanpunainen puun muotoinen jäätelö, jossa on koristeena keltainen tähti. Adan äiti tanssii miehen kanssa."
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:986
 msgid "While the others continued partying late into the night, Ada and her friends slipped away to their workshop. They already had a lot of ideas for new inventions. And they wanted to start right away."
-msgstr ""
+msgstr "Muut jatkoivat juhlintaa myöhään yöhön saakka, mutta Ada ja hänen ystävänsä poistuivat työpajaansa. Heillä oli paljon uusia ideoita uusiksi keksinnöiksi. Ja he halusivat aloittaa työn heti."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:991
 msgid "The President, the secretary, and other people around a table enjoying crazy ice cream; yellow and orange flags continue from the previous image; a little girl who just took a pink ghost-shaped ice cream from the modified ice cream machine; Ada’s dog, Konrad, Marie, Ada, and Toni sneaking away from the party."
-msgstr ""
+msgstr "Presidentti, hallituksen neuvonantaja ja muita henkilöitä istumassa pöydän ympärillä ja syömässä hullunkurisia jäätelöitä. Edellisen kuvan keltaiset ja oranssit viirit jatkuvat. Pikkutyttö otti juuri vaaleanpunaisen haamun muotoisen jäätelön tuunatusta jäätelökoneesta. Adan koira, Konrad, Marie, Ada ja Toni poistuvat juhlasta."
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:997
 msgid "And Zangemann?"
-msgstr ""
+msgstr "Entä Zangemann?"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p48-1
 #: Ada_Zangemann.dbk:1001
 msgid "And Zangemann? No one’s heard much from him. Maybe he’s still sitting angrily in front of his golden computer. Maybe he doesn’t dare go out into the street anymore and has boarded up all the windows of his mansion so that he doesn’t have to worry about what other people are doing with his inventions. But maybe he also sometimes looks out into the world through his telescope and sees what the children are inventing every day. Perhaps then he will remember how much fun it was for himself to tinker and experiment. And maybe, just maybe, he eats pyramid-shaped raspberry ice cream with rainbow sprinkles."
-msgstr ""
+msgstr "Entä Zangemann? Kukaan ei kuullut hänestä enää mitään. Ehkä hän istuu edelleen suuressa huvilassaan ja naputtaa kultaista tietokonettaan. Ehkä hän ei uskalla enää mennä ulos ja on naulannut kaikki suuren talonsa ikkunat kiinni, niin että hänen ei enää tarvitse huolehtia siitä, mitä ihmiset tekevät hänen keksinnöillään. Mutta voi myös olla, että hän katsoo toisinaan kaukoputkellaan ulos maailmaan ja näkee kaikki hienot keksinnöt, joita lapset tekevät joka päivä. Voi olla, että hän eräänä päivää muistaa, kuinka hauskaa hänestä oli tuunata ja testailla. Ja ehkä, mutta vain ehkä hän syö pyramidinmuotoisen vadelmajäätelön, jossa on sateenkaariströsseleitä."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:1006
 msgid "Ada’s little dog sniffing a trail of ice cream."
-msgstr ""
+msgstr "Adan pieni koira nuuhkii jäätelövanaa."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:1015
 msgid "A trail of candies and raspberry ice cream on the ground."
-msgstr ""
+msgstr "Maassa on karkkien ja vadelmajäätelön muodostama vana."
 
 #. (itstool) path: info/title
 #. (itstool) id: Ada_Zangemann.dbk#title-acknowledgments
 #: Ada_Zangemann.dbk:1022
 msgid "Acknowledgments"
-msgstr ""
+msgstr "Kiitossanat"
 
 #. (itstool) path: simplesect/para
 #. In the acknowledgments of the English version you can change 'No Starch
@@ -1308,123 +1394,123 @@ msgstr ""
 #. and encourage you to do that for other books in future as well.
 #: Ada_Zangemann.dbk:1030
 msgid "Many thanks to Reinhard Wiesemann from the Linuxhotel for the financial support and motivation to no longer plan but to make. Thanks to Sandra Brandstätter, who has brought me joy with every new design for the illustrations. Thanks to my editor Wiebke Helmchen, who made developing and sharpening the story fun, and to No Starch Press for agreeing to publish the book under a free culture license."
-msgstr ""
+msgstr "Haluan esittää suuret kiitokset Linuxhotelin Reinhard Wiesemannille taloudellisesta tuesta, jonka ansiosta kirjasta tuli totta, sekä motivaatiosta tehdä eikä vain suunnitella. Haluan kiittää Sandra Brandstätteriä kuvituksesta ja designistä, joka on tuottanut minulle paljon iloa, sekä kustannustoimittajaani Wiebke Helmcheniä, joka teki tarinan kehittelemisestä ja tarkentamisesta hauskaa. Kiitos kuuluu myös No Starch Press -kustantamolle, joka suostui julkaisemaan kirjan vapaan kulttuurin lisenssillä."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1031
 msgid "Thanks to Bea and Benni, Brian, Christine and Marc, Cory, Bernhard, Isabel and Amelia, Katta, Kristina, Martin, Mona and Arne, Nina, Oliver, Reinhard, Sabine, and Torsten for great ideas, inspiration, and practical tips, and to the many people of the Free Software movement, from which I was allowed to learn and whose engagement motivated me."
-msgstr ""
+msgstr "Kiitos teille, Bea ja Benni, Brian, Christine ja Marc, Cory, Bernhard, Isabel ja Amelia, Katta, Kristina, Martin, Mona ja Arne, Nina, Oliver, Reinhard, Sabine ja Torsten for upeista idoista, inspiraatiosta ja käytännön vinkeistä, ja kiitos monille vapaan ohjelmiston kannattajille, joilta olen saanut oppia paljon ja joiden innostus motivoi minua."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1035
 msgid "Thanks to my family, who made me write early in the morning, late in the evening, and on holiday, and who always supports my work for software freedom. Especially, I would like to thank my children, who inspired me with new ideas at each reading. Without them, this book would not exist."
-msgstr ""
+msgstr "Sydämellinen kiitos perheelleni, joka antoi minun kirjoittaa aikaisin aamulla, myöhään illalla ja myös lomilla ja joka muutoinkin tukee minua työssäni ohjelmiston vapauden puolesta. Haluan erityisesti kiittää lapsiani, jotka innostivat minua ja antoivat uusia ideoita jokaisella lukuhetkellä.Tätä kirjaa ei olisi ilman heitä."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:1042
 msgid "Ada’s dog wags its tail after finding Zangemann hidden behind a curtain and eating an ice cream cone with candies and a blue umbrella on it and lots of raspberry ice cream dripping."
-msgstr ""
+msgstr "Adan koira heiluttaa häntäänsä löydettyään Zangemannin piileskelemästä verhon takana. Zangemann syö jäätelöä, joka on koristeltu karkeilla, sinisellä aurinkovarjolla ja vadelmaströsseleillä."
 
 #. (itstool) path: info/title
 #. (itstool) id: Ada_Zangemann.dbk#title-author
 #: Ada_Zangemann.dbk:1049
 msgid "About the Author"
-msgstr ""
+msgstr "Tietoa kirjailijasta"
 
 #. (itstool) path: info/subtitle
 #. (itstool) id: Ada_Zangemann.dbk#subtitle-author
 #. ignore-same
 #: Ada_Zangemann.dbk:1050
 msgid "Matthias Kirschner"
-msgstr ""
+msgstr "Matthias Kirschner"
 
 #. (itstool) path: info/titleabbrev
 #: Ada_Zangemann.dbk:1051
 msgid "About the Author - Matthias Kirschner"
-msgstr ""
+msgstr "Tietoa kirjoittajasta - Matthias Kirschner"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:1064
 msgid "Close-up of Matthias smiling, waving with one hand, and wearing a headset. Matthias has short hair and a little beard."
-msgstr ""
+msgstr "Lähikuva, jossa Matthias hymyilee ja vilkuttaa kättä. Matthiaksella on lyhyet hiukset ja parransänkeä, ja hänellä on kuulokkeet päässään."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1066
 msgid "Matthias was fascinated by computers and software as a child. He had an internet connection early, through which he learned a lot. Children have a right to take their future into their own hands. Therefore, Matthias is committed to the goal that all humans can use software in a self-determined way. He also wants to build an electric skateboard with Free Software."
-msgstr ""
+msgstr "Matthias kiinnostui tietokoneista ja ohjelmistoista jo lapsena. Hänellä oli aikaisin käytössään internet-yhteys, jonka avulla hän oppi paljon. Lapsilla on oikeus käsitellä omaa tulevaisuuttaan, minkä vuoksi Matthiaksen tavoitteena on, että kaikki ihmiset voivat käyttää haluamiaan ohjelmistoja. Hän haluaa myös jonakin päivänä rakentaa sähkötoimisen rullalaudan vapaita ohjelmistoja käyttäen."
 
 #. (itstool) path: info/title
 #. (itstool) id: Ada_Zangemann.dbk#title-illustrator
 #: Ada_Zangemann.dbk:1072
 msgid "About the Illustrator"
-msgstr ""
+msgstr "Tietoa kuvittajasta"
 
 #. (itstool) path: info/subtitle
 #. (itstool) id: Ada_Zangemann.dbk#subtitle-illustrator
 #. ignore-same
 #: Ada_Zangemann.dbk:1073
 msgid "Sandra Brandstätter"
-msgstr ""
+msgstr "Sandra Brandstätter"
 
 #. (itstool) path: info/titleabbrev
 #: Ada_Zangemann.dbk:1074
 msgid "About the Illustrator - Sandra Brandstätter"
-msgstr ""
+msgstr "Tietoa kuvittajasta – Sandra Brandstätter"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:1087
 msgid "Sandra smiling with a pencil in her hand in front of her chin. She has earphones with an integrated microphone. Sandra has short hair and glasses."
-msgstr ""
+msgstr "Sanda hymyilee ja pitelee lyijykynää poskensa edessä olevassa kädessä. Hänellä on päässään kuulokkeet, joissa on sankamikrofoni. Sandralla on lyhyet hiukset ja silmälasit."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1089
 msgid "Sandra has always liked crafting with scissors, pliers, glue, wire, fabric, and paper. Today she works as an illustrator, comic author, and character designer for animated films and series, such as the German public television series Trudes Tier. On an ice-cream machine, Sandra would pick a creamy rainbow ice cream with lemon cucumber flavor and a lot of sprinkles."
-msgstr ""
+msgstr "Sandra on aina pitänyt saksien, pihtien, narun, kankaan ja paperin kanssa askartelemisesta. Nykyään hän työskentelee kuvittajana ja sarjakuvapiirtäjänä sekä laatii hahmoja animaatiofilmeihin ja -sarjoihin, esimerkiksi saksalaiseen piirrossarjaan ”Trudes Tier”. Jäätelökoneesta Sandra ottaisi mukaansa kermaisen, sitruunan ja kurkun makuisen sekä strösseleillä koristellun sateenkaarijäätelön."
 
 #. (itstool) path: info/title
 #. (itstool) id: Ada_Zangemann.dbk#title-bookswebsite
 #: Ada_Zangemann.dbk:1094
 msgid "Book’s website"
-msgstr ""
+msgstr "Kirjan nettisivu"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1102
 msgid "The Free Software Foundation Europe e.V. is a nonprofit association that empowers people to control technology. Software affects all areas of our life. That is why it is important that this technology gives us freedom instead of restricting us. Free Software (also called Open Source) gives everyone the right to use, study, share, and improve programs. Therefore, Free Software strengthens basic rights such as freedom of expression, freedom of the press, and the right to privacy."
-msgstr ""
+msgstr "The Free Software Foundation Europe e.V. on aatteellinen yhdistys, joka tukee ihmisiä tekniikan omaehtoisessa käytössä. Ohjelmistot vaikuttavat kaikilla elämänaloilla, ja sen vuoksi on tärkeää, että teknologia ei rajoita käyttäjiä, vaan antaa heille vapauksia. Vapaat ohjelmistot (tunnetaan myös nimellä ”avoin lähdekoodi”) antavat kaikille oikeuden käyttää, tutkia, jakaa ja parannella ohjelmia, ja näin tukevat ihmisten perustavanlaatuisia oikeuksia, esimerkiksi ilmaisunvapautta, lehdistönvapautta ja yksityiselämän suojaa."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1104
 msgid "On the web page of the book, you will find more information and resources: <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>"
-msgstr ""
+msgstr "Lisätietoa ja resursseja löytyy kirjan nettisivulta: <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>"
 
 #. (itstool) path: info/title
 #. (itstool) id: Ada_Zangemann.dbk#title-license
 #: Ada_Zangemann.dbk:1111
 msgid "License"
-msgstr ""
+msgstr "Käyttöehdot"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1119
 msgid "The book Ada &amp; Zangemann: A Tale of Software, Skateboards, and Raspberry Ice Cream by Matthias Kirschner and Sandra Brandstätter, published by No Starch Press, is licensed under “Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).”"
-msgstr ""
+msgstr "Matthias Kirschnerin ja Sanda Brandstätterin laatiman ja Petter Reinholdtsenin kustantaman kirjan ”Ada ja Zangemann. Tarina ohjelmistoista, rullalaudoista ja vadelmajäätelöstä” käyttöoikeudet ovat CC BY-SA 4.0-lisenssin (Nimeä-JaaSamoin 4.0 Kansainvälinen) mukaisia."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1120
 msgid "<link xlink:href=\"https://creativecommons.org/licenses/by-sa/4.0/\">https://creativecommons.org/licenses/by-sa/4.0/</link>"
-msgstr ""
+msgstr "<link xlink:href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.fi\">https://creativecommons.org/licenses/by-sa/4.0/deed.fi</link>"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:1129
 msgid "A hand that holds a fish-shaped ice cream cone with a cucumber on a decorated toothpick, to color. In a bottom corner, a pencil writing."
-msgstr ""
+msgstr "Värityskuva: Käsi pitelemässä jäätelötötteröä, jossa on kalan muotoinen jäätelöpallo ja sen päällä koristeena hammastikkuun pistetty coktailkurkku. Alakulmassa lyijykynä ja sillä piirretty kiemura."
 
 #. (itstool) path: simplesect/literallayout
 #. In a literallayout element all space and newline characters are kept.
@@ -1434,10 +1520,12 @@ msgid ""
 "Come up with some delicious, funny, or crazy ice-cream flavors and draw them on the ice-cream cones on the following page.\n"
 "More information about the book can be found at <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>"
 msgstr ""
+"Keksi omia herkullisia, hauskoja ja villejä jäätelömakuja ja piirrä ne seuraavan sivun jäätelötötteröihin.\n"
+"Lisää tietoa kirjasta löytyy sivulta <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>."
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:1139
 msgid "Three hands that hold as many empty ice cream cones, to draw and color. In the air above the middle cone is an umbrella."
-msgstr ""
+msgstr "Värityskuva: Kolme kättä pitelemässä tyhjiä jäätelötötteröitä. Keskimmäisen jäätelötötterön päällä on pieni aurinkovarjo."
