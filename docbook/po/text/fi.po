@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
-"PO-Revision-Date: 2026-03-01 11:11+0000\n"
-"Last-Translator: Pia Vinkki <pia.vinkki@gmail.com>\n"
+"PO-Revision-Date: 2026-03-01 19:31+0000\n"
+"Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
 "Language-Team: Finnish <https://hosted.weblate.org/projects/fsfe/ada-zangemann/fi/>\n"
 "Language: fi\n"
 "MIME-Version: 1.0\n"
@@ -221,8 +221,8 @@ msgstr ""
 "\n"
 "<emphasis role=\"bold\">Ada ja Zangemann: Tarina ohjelmistoista, rullalaudoista ja vadelmajäätelöstä</emphasis> on käännetty saksankielisestä alkuteoksesta Ada und Zangemann: Ein Märchen über Software, Skateboards und Himbeereis, © 2022 Matthias Kirschner ja Sandra Brandstätter.\n"
 "\n"
-"<!>ISBN-13: 978-82-93828-24-2 (nidottu)\n"
-"<!>ISBN-13: 978-82-93828-25-9 (PDF)\n"
+"ISBN-13: 978-82-93828-24-2 (nidottu)\n"
+"ISBN-13: 978-82-93828-25-9 (PDF)\n"
 "\n"
 "Jos haluat tietoja jakelusta, tukkukaupasta tai yritysmyynnistä, ota yhteyttä kustantajaan (<link xlink:href=\"https://codeberg.org/pere/text-ada-zangemann\">https://codeberg.org/pere/text-ada-zangemann</link>) tai vieraile verkkokaupassa: <link xlink:href=\"https://www.lulu.com/shop\">https://www.lulu.com/shop</link>.\n"
 "\n"
@@ -310,12 +310,12 @@ msgstr ""
 "\n"
 "<emphasis role=\"bold\">Ada ja Zangemann: Tarina ohjelmistoista, rullalaudoista ja vadelmajäätelöstä</emphasis> on käännetty saksankielisestä alkuteoksesta Ada und Zangemann: Ein Märchen über Software, Skateboards und Himbeereis, © 2022 Matthias Kirschner ja Sandra Brandstätter.\n"
 "\n"
-"Ensimmäinen <!>painos\n"
+"Ensimmäinen painos\n"
 "\n"
 "26 25 24 23 22 1 2 3 4 5\n"
 "\n"
-"<!>ISBN-13: 978-1-7185-0318-2 (painettu kirja)\n"
-"<!>ISBN-13: 978-1-7185-0319-9 (e-kirja)\n"
+"ISBN-13: 978-1-7185-0318-2 (painettu kirja)\n"
+"ISBN-13: 978-1-7185-0319-9 (e-kirja)\n"
 "\n"
 "Julkaisija: Petter Reinholdtsen\n"
 "Kirjoittaja: Matthias Kirschner\n"
@@ -1049,7 +1049,7 @@ msgstr "Liidulla asvalttiin piirretty ruutuhyppyruudukko. Numerot 1 ja 2 ovat pe
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:783
 msgid "Hacking for freedom"
-msgstr "Tuunaamisen vapaus<?>"
+msgstr "Tuunaamisen vapaus"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p30-1
@@ -1137,7 +1137,7 @@ msgstr "Zangemann ja presidentti"
 #. (itstool) id: Ada_Zangemann.dbk#para-p36-1
 #: Ada_Zangemann.dbk:851
 msgid "One day, Zangemann noticed that some computers no longer obeyed his programming commands. Shocked and fuming with anger, he called the president. In a quivering voice, Zangemann yelled, “Someone is rewriting the programs in my devices. That can’t happen; after all, they are my inventions. It’s far too dangerous if everyone can do whatever they want with the computers. You must make a law against this!”"
-msgstr "Eräänä päivänä Zangemann huomasi, että monet laitteet eivät enää totelleet hänen ohjelmoimiaan komentoja. Järkyttyneenä ja sydänjuuriaan myöten närkästyneenä hän soitti presidentille <pääministerille?> ja jylisi puhelimeen: ”Joku kirjoittaa minun laitteideni ohjelmistoja uusiksi. Se ei käy, sillä ne ovat minun keksintöjäni. On aivan liian vaarallista, jos kuka tahansa voi tehdä tietokoneilla mitä tahansa. Sinun täytyy säätää laki, joka kieltää tämän!”"
+msgstr "Eräänä päivänä Zangemann huomasi, että monet laitteet eivät enää totelleet hänen ohjelmoimiaan komentoja. Järkyttyneenä ja sydänjuuriaan myöten närkästyneenä hän soitti presidentille ja jylisi puhelimeen: ”Joku kirjoittaa minun laitteideni ohjelmistoja uusiksi. Se ei käy, sillä ne ovat minun keksintöjäni. On aivan liian vaarallista, jos kuka tahansa voi tehdä tietokoneilla mitä tahansa. Sinun täytyy säätää laki, joka kieltää tämän!”"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:852
@@ -1303,7 +1303,7 @@ msgstr "Aikaisin seuraavana aamuna presidentin puhelin soi. Soittaja oli Zangema
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:959
 msgid "A herald, wearing a hat with a plume, playing a trumpet on which a red banner is hung."
-msgstr "Sanansaattaja<?>, jonka hatussa on korkea sulka, soittaa trumpetilla fanfaaria. Trumpetista roikkuu punainen viiri."
+msgstr "Sanansaattaja, jonka hatussa on korkea sulka, soittaa trumpetilla fanfaaria. Trumpetista roikkuu punainen viiri."
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:961
