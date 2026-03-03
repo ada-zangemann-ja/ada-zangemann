@@ -1,15 +1,17 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-01-05 17:36+0100\n"
-"Last-Translator: \n"
-"Language-Team: \n"
+"PO-Revision-Date: 2026-03-04 11:09+0000\n"
+"Last-Translator: Takuya Hiwada <takuyah106@proton.me>\n"
+"Language-Team: Japanese <https://hosted.weblate.org/projects/fsfe/ada-zangemann/ja/>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.6\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.17-dev\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
@@ -23,25 +25,25 @@ msgstr "2025 Haruna Okada (translator)"
 #. ignore-same
 #: Ada_Zangemann.dbk:264 Ada_Zangemann.dbk:308 Ada_Zangemann.dbk:498
 msgid "Ada &amp; Zangemann"
-msgstr ""
+msgstr "アーダとツァンゲマン"
 
 #. (itstool) path: subtitle/phrase
 #. (itstool) path: cover/bridgehead
 #: Ada_Zangemann.dbk:265 Ada_Zangemann.dbk:309
 msgid "A Tale of Software, Skateboards, and Raspberry Ice Cream"
-msgstr ""
+msgstr "ソフトウェアとスケートボードとラズベリーアイスクリームのおはなし"
 
 #. (itstool) path: info/author
 #. ignore-same
 #: Ada_Zangemann.dbk:269
 msgid "<personname> <firstname>Matthias</firstname> <surname>Kirschner</surname> </personname>"
-msgstr ""
+msgstr "<personname><firstname>マシアス</firstname><surname>キルシュナー</surname></personname>"
 
 #. (itstool) path: info/othercredit
 #. ignore-same
 #: Ada_Zangemann.dbk:275
 msgid "<personname> <firstname>Sandra</firstname> <surname>Brandstätter</surname> </personname>"
-msgstr ""
+msgstr "<personname><firstname>サンドラ</firstname><surname>ブランドシュタッター</surname></personname>"
 
 #. (itstool) path: character/charactername
 #. Name must not be changed.
@@ -49,7 +51,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:284
 msgid "Ada"
-msgstr ""
+msgstr "アーダ"
 
 #. (itstool) path: character/charactername
 #. Name must not be changed.
@@ -57,7 +59,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:287
 msgid "Zangemann"
-msgstr ""
+msgstr "ツァンゲマン"
 
 #. (itstool) path: character/charactername
 #. Name must not be changed.
@@ -65,7 +67,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:290
 msgid "Alan"
-msgstr ""
+msgstr "アラン"
 
 #. (itstool) path: character/charactername
 #. Character names are mostly reference to existing people in computer
@@ -80,7 +82,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:293
 msgid "Toni"
-msgstr ""
+msgstr "トニ"
 
 #. (itstool) path: character/charactername
 #. Character names are mostly reference to existing people in computer
@@ -95,7 +97,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:296
 msgid "Konrad"
-msgstr ""
+msgstr "コンラート"
 
 #. (itstool) path: character/charactername
 #. Character names are mostly reference to existing people in computer
@@ -110,7 +112,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:299
 msgid "Marie"
-msgstr ""
+msgstr "マリー"
 
 #. (itstool) path: character/charactername
 #. Character names are mostly reference to existing people in computer
@@ -125,7 +127,7 @@ msgstr ""
 #. ignore-same
 #: Ada_Zangemann.dbk:302
 msgid "Ms. Gernet"
-msgstr ""
+msgstr "ゲルネット先生"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -145,7 +147,7 @@ msgstr ""
 #. (itstool) id: Ada_Zangemann.dbk#para-back-1
 #: Ada_Zangemann.dbk:334
 msgid "The inventor Zangemann is world-famous and immensely rich. Adults and children alike love his fabulous technical inventions. But one day there is a problem: the children’s electronic skateboards no longer work properly. What’s going on? The curious girl Ada sees through what is going on. Together with her friends, she experiments with hardware and software, and the children forge a plan: Zangemann can no longer be the only one in control of the devices!"
-msgstr ""
+msgstr "ツァンゲマンはだれもが知ってる発明家で、とんでもなく大金持ち。大人も子どもも、彼のすばらしい発明品が大好きです。だけど、ある日とつぜん子どもたちの電動スケートボードが動かなくなります。どうして？何でも知りたいアーダは、その裏で起こっていることを見抜きます。友達とともにハードウェアとソフトウェアをいじくり、アーダたちは計画を立てます：ツァンゲマンに私たちのデバイスを操作されるなんて、もううんざり！"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:335
@@ -164,7 +166,7 @@ msgstr ""
 #. know as 'bastard title'.
 #: Ada_Zangemann.dbk:357
 msgid "Half-title page"
-msgstr ""
+msgstr "略標題紙"
 
 #. (itstool) path: mediaobject/alt
 #. (itstool) path: simplesect/para
@@ -181,7 +183,7 @@ msgstr ""
 #. Also known as 'imprint'
 #: Ada_Zangemann.dbk:370
 msgid "Colophon"
-msgstr ""
+msgstr "奥付"
 
 #. (itstool) path: simplesect/literallayout
 #. Smaller colophon to be combined with grey free cultural license
@@ -295,7 +297,7 @@ msgstr ""
 #. illustration of Ada’s dog.
 #: Ada_Zangemann.dbk:454
 msgid "Title page"
-msgstr ""
+msgstr "標題"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -335,6 +337,8 @@ msgid ""
 "Matthias Kirschner\n"
 "Sandra Brandstätter"
 msgstr ""
+"マシアス・キルシュナー\n"
+"サンドラ・ブランドシュタッター"
 
 #. (itstool) path: simplesect/literallayout
 #. (itstool) id: Ada_Zangemann.dbk#subtitle-titlepage
@@ -346,16 +350,19 @@ msgid ""
 "Software, Skateboards, and\n"
 "Raspberry Ice Cream"
 msgstr ""
+"ソフトウェアと、\n"
+"スケートボードと、\n"
+"ラズベリーアイスクリームのおはなし"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:502
 msgid "Once upon a time, there was a little girl named Ada. Her family was so poor that all their savings fit inside a cookie jar."
-msgstr "むかしむかし、アーダという小さな女の子がいました。アーダの家はとても貧しくて、全ざいさんがクッキー缶にはいってしまうほどでした"
+msgstr "むかしむかし、アーダという小さな女の子がいました。アーダの家はとても貧しくて、全ざいさんがクッキー缶にはいってしまうほどでした。"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:502
 msgid "They didn’t have enough money to live in a proper home. Instead, Ada lived with her mother and her little brother, Alan, in a cabin near a junkyard on the edge of town."
-msgstr "ゃんとした家に住めるほどのお金はありません。アーダがおかあさんと弟のアランといっしょに住んでいたのは、まちはずれにあるガラクタ置き場のそばの小屋でした"
+msgstr "ちゃんとした家に住めるほどのお金はありません。アーダがおかあさんと弟のアランといっしょに住んでいたのは、まちはずれにあるガラクタ置き場のそばの小屋でした。"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -374,7 +381,7 @@ msgstr ""
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:520
 msgid "Far away, at the other end of town, lived a famous inventor named Zangemann. He was immensely rich. No sheet of paper in the world was big enough to show his bank balance with all its numbers and zeros!"
-msgstr "ずっとはなれたまちの反対がわには、ツァンゲマンという有名な発明家が住んでいました。ツァンゲマンはとてつもない大金持ちで、銀行にあずけているお金はけたが多すぎて、数字とゼロを紙に書ききれないほどでした"
+msgstr "ずっとはなれたまちの反対がわには、ツァンゲマンという有名な発明家が住んでいました。ツァンゲマンはとてつもない大金持ちで、銀行にあずけているお金はけたが多すぎて、数字とゼロを紙に書ききれないほどでした。"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:520
@@ -389,7 +396,7 @@ msgstr "その豪邸は丘の上にあり、ツァンゲマンはそこからま
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:525
 msgid "Zangemann and computers"
-msgstr ""
+msgstr "ツァンゲマンとコンピュータ"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:529
@@ -623,7 +630,7 @@ msgstr "一見してぜんぶが必要とは思われませんでしたが、ツ
 #. equal to the beginning of the first sentence of this chapter.
 #: Ada_Zangemann.dbk:603
 msgid "One day..."
-msgstr ""
+msgstr "ある日のこと…"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:606
@@ -721,19 +728,19 @@ msgstr "スピーカーには小さな音で音楽を流すように命令しま
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:642
 msgid "The city in the evening, with houses, a church, and two streetlights. Images emerge from the dwellings illustrating Zangemann’s inventions bought by the inhabitants: a washing machine, a yellow vacuum cleaner, and a red car, all with Internet connection signals."
-msgstr ""
+msgstr "夜の町。家と教会、２本の街灯が見えます。住民が購入したツァンゲマンの発明品が住居から浮かび上がってきています。洗濯機、黄色い掃除機、赤い自動車、それらからインターネットの電波信号が出ています。"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:650
 msgid "Continuation of the previous picture, where in the background there is the hill with Zangemann’s house from whose antenna come the signals to control the various devices. In emerging images there are: a red electric skateboard, a light bulb, an ice cream machine, and a toilet, all of which are receiving commands from Zangemann."
-msgstr ""
+msgstr "一つ前の絵の続きです。背後の丘の上にはツァンゲマンの豪邸が見え、そのアンテナから様々なデバイスを操作する電波が発信されています。町には赤い電動スケートボード、電球、アイスクリーム製造機、トイレの絵が浮かび上がり、ツァンゲマンからの命令を受信しています。"
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:656
 msgid "Skateboards no longer work"
-msgstr ""
+msgstr "スケートボードは動きませんでした"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:660
@@ -797,7 +804,7 @@ msgstr "おかしな勇ましいマーチだけが変わらず大きな音で鳴
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:682
 msgid "Ada and software"
-msgstr ""
+msgstr "アーダとソフトウェア"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p20-1
@@ -825,7 +832,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:701
 msgid "Programming"
-msgstr ""
+msgstr "プログラミング"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p22-1
@@ -870,7 +877,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:730
 msgid "A horrible night"
-msgstr ""
+msgstr "ある不快な夜"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p25-1
@@ -891,7 +898,7 @@ msgstr "すっかり変えてしまうと、ツァンゲマンは新しいプロ
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:741
 msgid "First real project"
-msgstr ""
+msgstr "はじめての本格的なプロジェクト"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p26-1
@@ -958,7 +965,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:783
 msgid "Hacking for freedom"
-msgstr ""
+msgstr "改造の自由を"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p30-1
@@ -1040,7 +1047,7 @@ msgstr "ただおもしろいからつくったものもありました。たと
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:847
 msgid "Zangemann and the President"
-msgstr ""
+msgstr "ツァンゲマンと大統領"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p36-1
@@ -1085,7 +1092,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:877
 msgid "Protest"
-msgstr ""
+msgstr "抗議"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p39-1
@@ -1121,7 +1128,7 @@ msgstr ""
 #. Text on big banner, left on the illustration
 #: Ada_Zangemann.dbk:899
 msgid "Do your homework Mr. President and we will do ours!"
-msgstr ""
+msgstr "自分の課題をやってください、大統領さん。私たちもやりますから！"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1141,7 +1148,7 @@ msgstr ""
 #. Text on square signe on the right of the illustration
 #: Ada_Zangemann.dbk:916
 msgid "They are young + need the code!"
-msgstr ""
+msgstr "若い世代にはコードを学ばせよ！"
 
 #. (itstool) path: info/excerpt
 #. Text on banner on the banner held by children on the right of the
@@ -1149,12 +1156,12 @@ msgstr ""
 #. can be used, which translates to 'without code everything is dull!'.
 #: Ada_Zangemann.dbk:917
 msgid "Don’t wreck our tech!"
-msgstr ""
+msgstr "私たちのための技術を壊すな！"
 
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:924
 msgid "Children help the government"
-msgstr ""
+msgstr "子どもたちが政府を助ける"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p42-1
@@ -1199,7 +1206,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:951
 msgid "New law"
-msgstr ""
+msgstr "新しい法律"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p44-1
@@ -1232,7 +1239,7 @@ msgstr "「ほかの法令に違反しないかぎり、じぶんのコンピュ
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:967
 msgid "In addition, a new school subject was introduced: computer hardware and software."
-msgstr ""
+msgstr "それと、学校に新しい科目ができた。その名も「コンピュータのハードウェアとソフトウェア」。"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1268,7 +1275,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: Ada_Zangemann.dbk:997
 msgid "And Zangemann?"
-msgstr ""
+msgstr "それで、ツァンゲマンは？"
 
 #. (itstool) path: simplesect/para
 #. (itstool) id: Ada_Zangemann.dbk#para-p48-1
@@ -1294,7 +1301,7 @@ msgstr ""
 #. (itstool) id: Ada_Zangemann.dbk#title-acknowledgments
 #: Ada_Zangemann.dbk:1022
 msgid "Acknowledgments"
-msgstr ""
+msgstr "謝辞"
 
 #. (itstool) path: simplesect/para
 #. In the acknowledgments of the English version you can change 'No Starch
@@ -1303,17 +1310,17 @@ msgstr ""
 #. and encourage you to do that for other books in future as well.
 #: Ada_Zangemann.dbk:1030
 msgid "Many thanks to Reinhard Wiesemann from the Linuxhotel for the financial support and motivation to no longer plan but to make. Thanks to Sandra Brandstätter, who has brought me joy with every new design for the illustrations. Thanks to my editor Wiebke Helmchen, who made developing and sharpening the story fun, and to No Starch Press for agreeing to publish the book under a free culture license."
-msgstr ""
+msgstr "リナックスホテルのラインハード・ヴィーゼマンさんには、資金援助と計画だけでなく制作に向かう動機を与えていただいたことに深く感謝いたします。サンドラ・ブランドシュテッターさんに感謝いたします。彼女が手がけるイラストの新デザインは、どれも私に喜びをもたらしてくれました。編集者のヴィーブケ・ヘルムチェンさんには、この物語の展開と磨き上げを楽しいものにしてくれたことについて感謝申し上げます。ノースターチ・プレスには、本書をフリーカルチャーライセンスで出版することを許可していただいたことについて心より御礼申し上げます。"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1031
 msgid "Thanks to Bea and Benni, Brian, Christine and Marc, Cory, Bernhard, Isabel and Amelia, Katta, Kristina, Martin, Mona and Arne, Nina, Oliver, Reinhard, Sabine, and Torsten for great ideas, inspiration, and practical tips, and to the many people of the Free Software movement, from which I was allowed to learn and whose engagement motivated me."
-msgstr ""
+msgstr "素晴らしいアイデアとインスピレーション、実用的なヒントを与えてくれた、ビーとベニー、ブライアン、クリスティンとマーク、コーリー、ベルンハルト、イザベルとアメリア、カッタ、クリスティーナ、マーティン、モナとアーネ、ニーナ、オリバー、ラインハルト、ザビーネ、トルステン、そして、私が多くのことを学ばせてもらい、その取り組みに刺激を受けたフリーソフトウェア運動の多くの人々に感謝申し上げます。"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1035
 msgid "Thanks to my family, who made me write early in the morning, late in the evening, and on holiday, and who always supports my work for software freedom. Especially, I would like to thank my children, who inspired me with new ideas at each reading. Without them, this book would not exist."
-msgstr ""
+msgstr "私に早朝や深夜、休日にも執筆させてくれた家族に感謝します。彼らはソフトウェアの自由のための私の仕事を常に支えてくれました。特に、読み返すたびに新たな着想を与えてくれた子供たちに感謝します。彼らなしでは、この本は存在し得ませんでした。"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1326,19 +1333,19 @@ msgstr ""
 #. (itstool) id: Ada_Zangemann.dbk#title-author
 #: Ada_Zangemann.dbk:1049
 msgid "About the Author"
-msgstr ""
+msgstr "著者について"
 
 #. (itstool) path: info/subtitle
 #. (itstool) id: Ada_Zangemann.dbk#subtitle-author
 #. ignore-same
 #: Ada_Zangemann.dbk:1050
 msgid "Matthias Kirschner"
-msgstr ""
+msgstr "マシアス・キルシュナー"
 
 #. (itstool) path: info/titleabbrev
 #: Ada_Zangemann.dbk:1051
 msgid "About the Author - Matthias Kirschner"
-msgstr ""
+msgstr "著者について—マシアス・キルシュナー"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1356,19 +1363,19 @@ msgstr ""
 #. (itstool) id: Ada_Zangemann.dbk#title-illustrator
 #: Ada_Zangemann.dbk:1072
 msgid "About the Illustrator"
-msgstr ""
+msgstr "イラストレーターについて"
 
 #. (itstool) path: info/subtitle
 #. (itstool) id: Ada_Zangemann.dbk#subtitle-illustrator
 #. ignore-same
 #: Ada_Zangemann.dbk:1073
 msgid "Sandra Brandstätter"
-msgstr ""
+msgstr "サンドラ・ブランドシュタッター"
 
 #. (itstool) path: info/titleabbrev
 #: Ada_Zangemann.dbk:1074
 msgid "About the Illustrator - Sandra Brandstätter"
-msgstr ""
+msgstr "イラストレーターについて—サンドラ・ブランドシュタッター"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1386,7 +1393,7 @@ msgstr ""
 #. (itstool) id: Ada_Zangemann.dbk#title-bookswebsite
 #: Ada_Zangemann.dbk:1094
 msgid "Book’s website"
-msgstr ""
+msgstr "本のウェブサイト"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1102
@@ -1402,7 +1409,7 @@ msgstr ""
 #. (itstool) id: Ada_Zangemann.dbk#title-license
 #: Ada_Zangemann.dbk:1111
 msgid "License"
-msgstr ""
+msgstr "利用許可"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1119
