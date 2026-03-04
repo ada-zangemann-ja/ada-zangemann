@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-03-04 11:09+0000\n"
+"PO-Revision-Date: 2026-03-05 18:09+0000\n"
 "Last-Translator: Takuya Hiwada <takuyah106@proton.me>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/fsfe/ada-zangemann/ja/>\n"
 "Language: ja\n"
@@ -37,13 +37,13 @@ msgstr "ソフトウェアとスケートボードとラズベリーアイスク
 #. ignore-same
 #: Ada_Zangemann.dbk:269
 msgid "<personname> <firstname>Matthias</firstname> <surname>Kirschner</surname> </personname>"
-msgstr "<personname><firstname>マシアス</firstname><surname>キルシュナー</surname></personname>"
+msgstr "<personname><firstname>マティアス</firstname><surname>キルシュナー</surname></personname>"
 
 #. (itstool) path: info/othercredit
 #. ignore-same
 #: Ada_Zangemann.dbk:275
 msgid "<personname> <firstname>Sandra</firstname> <surname>Brandstätter</surname> </personname>"
-msgstr "<personname><firstname>サンドラ</firstname><surname>ブランドシュタッター</surname></personname>"
+msgstr "<personname><firstname>サンドラ</firstname><surname>ブランドシュテッター</surname></personname>"
 
 #. (itstool) path: character/charactername
 #. Name must not be changed.
@@ -152,7 +152,7 @@ msgstr "ツァンゲマンはだれもが知ってる発明家で、とんでも
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:335
 msgid "A book that arouses interest in tinkering and encourages shaping technology."
-msgstr ""
+msgstr "ものづくりへの興味を生み出し、技術の創造を促す本。"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -214,6 +214,24 @@ msgid ""
 "\n"
 "<emphasis role=\"bold\">A big thank you</emphasis> to <emphasis role=\"bold\">dpunkt.verlag</emphasis> and <emphasis role=\"bold\">No Starch Press</emphasis> for understanding the values of software freedom, taking the time to discuss and understand the advantages of free cultural licenses, and the great support to publish this book under conditions that respect the FSFE’s values."
 msgstr ""
+"著作権 © 2023 マティアス・キルシュナーおよびサンドラ・ブランドシュテッター。\n"
+"この作品は、クリエイティブ・コモンズ 表示 - 継承 4.0 国際 ライセンスの下に提供されています。\n"
+"本ライセンスの写しは、<link xlink:href=「https://creativecommons.org/licenses/by-sa/4.0/」>https://creativecommons.org/licenses/by-sa/4.0/</link> または Creative Commons, PO Box 1866, Mountain View, CA 94042, USA 宛てに書簡を送付することで閲覧できます。\n"
+"\n"
+"<emphasis role=\"bold\">Ada &amp; Zangemann: A Tale of Software, Skateboards, and Raspberry Ice Cream</emphasis> は、Dpunkt.verlag より O’Reilly Media, Inc. と共同で「O’REILLY」レーベルにて出版されたドイツ語原書『Ada und Zangemann: Ein Märchen über Software, Skateboards und Himbeereis』の翻訳版です。© 2022 Matthias Kirschner and Sandra Brandstätter.\n"
+"\n"
+"マティアス・キルシュナー（著者）とサンドラ・ブランドシュテッター（イラストレーター）による本書は、<emphasis role=\"bold\">クリエイティブ・コモンズ CC-BY-SA</emphasis>（自由文化ライセンス）の下でライセンスされています。\n"
+"\n"
+"<emphasis role=\"bold\">あなたは</emphasis>、あらゆる媒体や形式で本著作物を共有、複製、再配布できます。<emphasis role=\"bold\">あなたは</emphasis>、あらゆる目的（商業利用を含む）で本著作物を改変、リミックス、変換、派生作品の作成を行うことができます。<emphasis role=\"bold\">適切なクレジットを明示し、ライセンスへのリンクを提供し、変更が行われた場合はその旨を示す必要があります。</emphasis> \n"
+"\n"
+"<emphasis role=\"bold\">これらは</emphasis>合理的な方法で行うことができますが、ライセンサーがあなたやあなたの利用を推奨しているように誤解させるような方法では行えません。素材をリミックス、変換、または基にした場合、<emphasis role=\"bold\">あなたは</emphasis>自身の貢献を元の素材と同じライセンスで配布しなければなりません。（これはCC-BY-SA 4.0の「法的条文」の要約であり、代用ではありません。）\n"
+" \n"
+"\n"
+"さらに、リミックス版（二次的著作物）については、著者の個人謝辞および著者・イラストレーターの略歴を改変せず、リミックス版から完全に削除するよう求めます。\n"
+"\n"
+"この自由な文化ライセンスでの出版は、ドイツ語版書籍についてはdpunkt.verlag GmbH / O’Reilly Media, Inc.、英語版書籍についてはNo Starch Pressの多大な支援により実現しました。残念ながら、クリエイティブ・コモンズ・ライセンスは商業出版書籍では依然として稀な例外であり、出版社からは革新的かつリスクが高いと見なされることが多いのです。\n"
+"\n"
+"<強調 role=\"太字\" >心からの感謝</emphasis>を、<emphasis role=\"bold\">dpunkt.verlag</emphasis>と<emphasis role=\"bold\">No Starch Press</emphasis>に捧げます。ソフトウェアの自由の価値を理解し、自由文化ライセンスの利点について議論し理解する時間を割いてくださり、FSFEの価値観を尊重する条件で本書を出版するための多大な支援を賜りました。"
 
 #. (itstool) path: simplesect/literallayout
 #. Full page colophon. Intended for print use, as an alternative to the
@@ -291,6 +309,11 @@ msgid ""
 "We encourage you to support authors, publishers, and others involved in the creation of culture under free licenses – including <emphasis role=\"bold\">financially supporting them through purchases or donations</emphasis>. (<link xlink:href=\"https://fsfe.org/donate\">https://fsfe.org/donate</link>)\n"
 "Society should support those who respect others’ freedom."
 msgstr ""
+"<emphasis role=\"bold\">自由とは価格ではなく権利だ</emphasis> \n"
+"フリーソフトウェアとは、ソフトウェアと共に得られる権利のことであり、価格のことではありません。同様に、フリーカルチャーライセンスで書籍を出版しても、その書籍や電子書籍を無償で入手する権利があるわけではありません。それは、先ほど説明した権利を得られることを意味し、それによって社会がこの書籍からさらに恩恵を受けられるようになります。そしてあらゆる文化的作品もそうあるべきだと考えています。\n"
+"\n"
+"私たちは、フリーライセンスのもとで文化の創造に携わる執筆者、出版社、その他関係者を支援することを推奨します。<emphasis role=\"bold\">購入や寄付による金銭的支援</emphasis>も含まれます。（<link xlink:href=「https://fsfe.org/donate」>https://fsfe.org/donate</link>）\n"
+"社会は、他人の自由を尊重する人々を支援するべきです。"
 
 #. (itstool) path: info/title
 #. Page next to the colophon with title, subtitle, authors and
@@ -337,8 +360,8 @@ msgid ""
 "Matthias Kirschner\n"
 "Sandra Brandstätter"
 msgstr ""
-"マシアス・キルシュナー\n"
-"サンドラ・ブランドシュタッター"
+"マティアス・キルシュナー\n"
+"サンドラ・ブランドシュテッター"
 
 #. (itstool) path: simplesect/literallayout
 #. (itstool) id: Ada_Zangemann.dbk#subtitle-titlepage
@@ -1340,12 +1363,12 @@ msgstr "著者について"
 #. ignore-same
 #: Ada_Zangemann.dbk:1050
 msgid "Matthias Kirschner"
-msgstr "マシアス・キルシュナー"
+msgstr "マティアス・キルシュナー"
 
 #. (itstool) path: info/titleabbrev
 #: Ada_Zangemann.dbk:1051
 msgid "About the Author - Matthias Kirschner"
-msgstr "著者について—マシアス・キルシュナー"
+msgstr "著者について—マティアス・キルシュナー"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1357,7 +1380,7 @@ msgstr ""
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1066
 msgid "Matthias was fascinated by computers and software as a child. He had an internet connection early, through which he learned a lot. Children have a right to take their future into their own hands. Therefore, Matthias is committed to the goal that all humans can use software in a self-determined way. He also wants to build an electric skateboard with Free Software."
-msgstr ""
+msgstr "マティアスは子供のころからコンピュータとソフトウェアに魅了されてきました。早い段階からインターネットが使えたので、そこから多くのことを学びました。子どもたちは自分たちの将来を自分たちの手で切り開く権利があります。だからマティアスはすべての人が自分で決めたやりかたでソフトウェアを使えることを目標に掲げています。彼も自由なソフトウェアを使って電動スケートボードを作りたいそうですよ。"
 
 #. (itstool) path: info/title
 #. (itstool) id: Ada_Zangemann.dbk#title-illustrator
@@ -1370,12 +1393,12 @@ msgstr "イラストレーターについて"
 #. ignore-same
 #: Ada_Zangemann.dbk:1073
 msgid "Sandra Brandstätter"
-msgstr "サンドラ・ブランドシュタッター"
+msgstr "サンドラ・ブランドシュテッター"
 
 #. (itstool) path: info/titleabbrev
 #: Ada_Zangemann.dbk:1074
 msgid "About the Illustrator - Sandra Brandstätter"
-msgstr "イラストレーターについて—サンドラ・ブランドシュタッター"
+msgstr "イラストレーターについて—サンドラ・ブランドシュテッター"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1387,7 +1410,7 @@ msgstr ""
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1089
 msgid "Sandra has always liked crafting with scissors, pliers, glue, wire, fabric, and paper. Today she works as an illustrator, comic author, and character designer for animated films and series, such as the German public television series Trudes Tier. On an ice-cream machine, Sandra would pick a creamy rainbow ice cream with lemon cucumber flavor and a lot of sprinkles."
-msgstr ""
+msgstr "サンドラははさみやペンチ、のりや針金、布や紙で工作するのが昔から好きでした。彼女は今やイラストレーターや漫画家、アニメ映画やシリーズのキャラクターデザイン担当として活動していて、ドイツの公共放送シリーズ「Trudes Tier（トルーデの動物たち）」なども手がけています。アイスクリーム製造機では、サンドラは”レモンきゅうり”味で虹色のクリーミーなアイスクリームにたっぷりのスプリンクルをかけたものを選ぶそうです。"
 
 #. (itstool) path: info/title
 #. (itstool) id: Ada_Zangemann.dbk#title-bookswebsite
@@ -1398,12 +1421,12 @@ msgstr "本のウェブサイト"
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1102
 msgid "The Free Software Foundation Europe e.V. is a nonprofit association that empowers people to control technology. Software affects all areas of our life. That is why it is important that this technology gives us freedom instead of restricting us. Free Software (also called Open Source) gives everyone the right to use, study, share, and improve programs. Therefore, Free Software strengthens basic rights such as freedom of expression, freedom of the press, and the right to privacy."
-msgstr ""
+msgstr "Free Software Foundation Europe e.V. は、人々が技術を制御できるように支援する非営利団体です。ソフトウェアは私たちの生活のあらゆる領域に影響を与えます。だからこそ、この技術が私たちを制限するのではなく、自由を与えることが重要なのです。フリーソフトウェア（オープンソースとも呼ばれます）は、誰もがプログラムを使用し、研究し、共有し、改良する権利を与えます。そのため、フリーソフトウェアは表現の自由、報道の自由、プライバシーの権利といった基本的権利をさらに強くします。"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1104
 msgid "On the web page of the book, you will find more information and resources: <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>"
-msgstr ""
+msgstr "本書のウェブページから、より詳しい情報をご覧いただけます: <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>"
 
 #. (itstool) path: info/title
 #. (itstool) id: Ada_Zangemann.dbk#title-license
@@ -1419,7 +1442,7 @@ msgstr ""
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1120
 msgid "<link xlink:href=\"https://creativecommons.org/licenses/by-sa/4.0/\">https://creativecommons.org/licenses/by-sa/4.0/</link>"
-msgstr ""
+msgstr "<link xlink:href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.ja\">https://creativecommons.org/licenses/by-sa/4.0/deed.ja</link>"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
@@ -1436,6 +1459,8 @@ msgid ""
 "Come up with some delicious, funny, or crazy ice-cream flavors and draw them on the ice-cream cones on the following page.\n"
 "More information about the book can be found at <link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>"
 msgstr ""
+"美味しそうなもの、笑えるもの、奇抜なもの。いろいろなアイスクリームを考えて、次のページのアイスクリームコーンの上に描いてみましょう。\n"
+"本書の詳しい情報は次のリンクからご覧いただけます。<link xlink:href=\"https://ada.fsfe.org\">https://ada.fsfe.org</link>"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
