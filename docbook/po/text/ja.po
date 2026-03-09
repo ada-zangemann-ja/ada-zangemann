@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-03-09 12:26+0000\n"
+"PO-Revision-Date: 2026-03-10 05:46+0000\n"
 "Last-Translator: Takuya Hiwada <takuyah106@proton.me>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/fsfe/ada-zangemann/ja/>\n"
 "Language: ja\n"
@@ -1437,7 +1437,7 @@ msgstr "利用許可"
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1119
 msgid "The book Ada &amp; Zangemann: A Tale of Software, Skateboards, and Raspberry Ice Cream by Matthias Kirschner and Sandra Brandstätter, published by No Starch Press, is licensed under “Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).”"
-msgstr ""
+msgstr "マティアス・キルシュナーとサンドラ・ブランドシュテッターによる書籍、「Ada &amp; Zangemann: A Tale of Software, Skateboards, and Raspberry Ice Cream」（No Starch Press刊。邦題：アーダとツァンゲマン：ソフトウェアとスケートボードとラスベリーアイスクリームのおはなし）は、「クリエイティブ・コモンズ 表示-継承 4.0 国際 (CC BY-SA 4.0)」ライセンスのもとで提供されています。"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1120
