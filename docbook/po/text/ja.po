@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: translators@lists.fsfe.org\n"
 "POT-Creation-Date: 2025-06-25 19:51+0200\n"
-"PO-Revision-Date: 2026-03-07 19:38+0000\n"
-"Last-Translator: Nico Rikken <nico.rikken@fsfe.org>\n"
+"PO-Revision-Date: 2026-03-10 05:46+0000\n"
+"Last-Translator: Takuya Hiwada <takuyah106@proton.me>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/fsfe/ada-zangemann/ja/>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
@@ -500,14 +500,14 @@ msgstr "すべてがまるで魔法のようでしたが、じつは簡単なこ
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:554
 msgid "An original Zangemann electric skateboard leaving a blue trail with musical notes and colored circles. Only the knees, white socks, and olive green shoes with white soles of the child riding it are shown."
-msgstr ""
+msgstr "ツァンゲマン製の電動スケートボードが通ったあとには青い線が残っています。その上のほうに音符や大小さまざまな色鮮やかな円が浮かんでいます。乗っている子供の膝と白い靴下、そして白い靴底のオリーブグリーンの靴だけが見えています。"
 
 #. (itstool) path: mediaobject/alt
 #. The alt tag contains an alternative text, describing the image for the
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:562
 msgid "Ada tinkers with objects in her improvised lab. Ada is sitting on an overturned water case, and working on a repair with a yellow screwdriver. Also on the table are green pliers, a red hammer, a white power strip, and another gadget. Ada is at a table consisting of a wooden board supported by two oil drums (one gray and one red) and a small wooden sawhorse. Behind Ada there are a washing machine, pipes, and a board. In front of the improvised table there are tires and an old phone with faulty wire. Alan is coming toward Ada holding a yellow fan over his head. Alan now wears white socks and yellow shoes."
-msgstr ""
+msgstr "アーダが簡素な作業場で機械いじりをしています。裏返しになったプラスチックの箱の上に座って、黄色のドライバーで修理をしているところです。テーブルの上には緑のペンチや赤いハンマー、白の電源タップや別の機械類があります。アーダがいる作業台は、木の板を灰色と赤色の二つのオイルドラムと小さな木製ののこぎり台とで支えたものです。アーダの背後には洗濯機、配管、板が置かれています。簡素な作業台の前のほうにはタイヤと、配線が故障した古い電話機が転がっています。アランが黄色い扇風機を頭上に掲げながらアーダの方へ向かってくるのが見えます。アランは白い靴下と黄色い靴を履いています。"
 
 #. (itstool) path: para/phrase
 #. Sentence continues in next string.
@@ -582,7 +582,7 @@ msgstr "ときにお気に入りのフレーバーのアイスがなくてがっ
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:577
 msgid "A white power strip attached to a wall socket. The power strip has 3 sockets and a green switch. One of the sockets is attached to a plug with a gray cable."
-msgstr ""
+msgstr "電源タップが壁のコンセントに接続されています。電源タップには３つの差込口と緑のスイッチがあります。差込口のひとつには灰色のケーブルのプラグが接続されています。"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:581
@@ -604,7 +604,7 @@ msgstr "大きな望遠鏡でまちを見おろし、じぶんの発明したも
 #. visual impaired. priority:80
 #: Ada_Zangemann.dbk:586
 msgid "Zangeman sitting in front of his golden computer on a golden armchair with a very tall red padded backrest at whose top is the “Z” of the Zangemann logo. He is wearing a purple turtle-neck sweater and light blue trousers. The computer has four ornate monitors of various sizes, each of which has the logo on the back. It is integrated into a costly wooden desk from which a gray cable flows that is connected to the power strip of the previous page."
-msgstr ""
+msgstr "ザンゲマンは、背もたれが驚くほど高くて赤いパッドがついた、アンティーク風の金色の肘掛け椅子に座り、その背もたれの上部にはザンゲマンのロゴである「Z」の文字が見えます。彼は紫色のタートルネックのセーターと水色のズボンを着ています。コンピューターには様々なサイズの豪華な装飾付きのモニターが四つあり、それぞれ背面にロゴが刻まれています。高価な木製デスクと一体化していて、そこから灰色のケーブルが伸び、前のページの電源タップに接続されています。"
 
 #. (itstool) path: para/phrase
 #: Ada_Zangemann.dbk:591
@@ -1437,7 +1437,7 @@ msgstr "利用許可"
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1119
 msgid "The book Ada &amp; Zangemann: A Tale of Software, Skateboards, and Raspberry Ice Cream by Matthias Kirschner and Sandra Brandstätter, published by No Starch Press, is licensed under “Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).”"
-msgstr ""
+msgstr "マティアス・キルシュナーとサンドラ・ブランドシュテッターによる書籍、「Ada &amp; Zangemann: A Tale of Software, Skateboards, and Raspberry Ice Cream」（No Starch Press刊。邦題：アーダとツァンゲマン：ソフトウェアとスケートボードとラスベリーアイスクリームのおはなし）は、「クリエイティブ・コモンズ 表示-継承 4.0 国際 (CC BY-SA 4.0)」ライセンスのもとで提供されています。"
 
 #. (itstool) path: simplesect/para
 #: Ada_Zangemann.dbk:1120
